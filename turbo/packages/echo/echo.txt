@@ -8455,7 +8455,7 @@ embroidering
 epos
 elianic
 encinas
-epizootic
+epizootic 1
 epoxyed
 epoxies 1
 employed
