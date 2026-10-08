@@ -3599,7 +3599,7 @@ egocerus
 exemplifies
 extravehicular
 emulable
-egocentric
+egocentric 1
 esperantism
 exhibits
 epitomically 1
