@@ -9376,7 +9376,7 @@ diffractiveness
 dist
 diffranchise
 dely
-diadumenus
+diadumenus 1
 decrete
 durabilities
 decadic
