@@ -10775,7 +10775,7 @@ gignitive
 gamesomely 1
 gaincall 2
 gemellus
-guttated
+guttated 1
 galeage
 glutimate
 gorki
