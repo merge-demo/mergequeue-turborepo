@@ -8767,7 +8767,7 @@ dictaphone
 dequeen
 dragsmen
 depeter
-diestruses
+diestruses 1
 deftness
 dinettes
 diabolized
