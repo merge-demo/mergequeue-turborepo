@@ -3161,7 +3161,7 @@ guerilla
 geochronologist
 guardiancy
 germina
-ge
+ge 1
 gynophore
 geotechnic
 graplin
