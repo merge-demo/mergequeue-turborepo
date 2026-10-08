@@ -5233,7 +5233,7 @@ guatemala
 gemitores
 glyoxilin
 gelatins
-granitical
+granitical 1
 graveling
 gamelan
 gharry
