@@ -17804,7 +17804,7 @@ burrstone
 bambini 1
 bundobust
 bursae
-bursary
+bursary 1
 bassine
 bandyman
 backstroked
