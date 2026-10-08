@@ -10076,7 +10076,7 @@ guesdism 1
 groomish
 gigman
 glore
-gudgeon
+gudgeon 1
 grobianism
 graecize
 gainings
