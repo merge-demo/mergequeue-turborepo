@@ -4221,7 +4221,7 @@ eggeater 1
 euphotide
 evagination
 epicycloid
-erubescite
+erubescite 1
 eduction
 erotically
 emigrations
