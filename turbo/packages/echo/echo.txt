@@ -2473,7 +2473,7 @@ elytrocele
 eupolyzoa
 eleve
 exegete
-ellipsoids
+ellipsoids 1
 eurythmical
 entrecote
 enstatite
