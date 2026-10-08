@@ -1751,7 +1751,7 @@ etacism
 eulogisation
 extendedly
 encryption
-epanorthoses
+epanorthoses 1
 encysts
 enswathe
 eyepiece
