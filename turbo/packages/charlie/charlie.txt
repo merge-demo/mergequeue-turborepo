@@ -3292,7 +3292,7 @@ calcino
 capitulate
 capitulates 1
 capitulator
-capituliform
+capituliform 1
 cystolithic
 crotchwood
 celebratory
