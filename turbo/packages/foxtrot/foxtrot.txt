@@ -11676,7 +11676,7 @@ fluavil
 fructiform 1
 fresne
 foundationary
-frwy
+frwy 1
 fluorochrome
 faade
 ferrety
