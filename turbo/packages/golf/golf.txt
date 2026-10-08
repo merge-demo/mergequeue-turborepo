@@ -5804,7 +5804,7 @@ gadger
 gate
 globulous 1
 gymnosporangium 1
-gynoecium
+gynoecium 1
 glucate
 gorevan
 germander
