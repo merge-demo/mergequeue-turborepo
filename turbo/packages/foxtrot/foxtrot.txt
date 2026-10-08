@@ -4613,7 +4613,7 @@ flavory
 fullams
 floodways
 foolfish
-fitters
+fitters 1
 foxery
 fifo 1
 francophilism
