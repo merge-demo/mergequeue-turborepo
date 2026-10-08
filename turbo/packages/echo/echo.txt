@@ -4919,7 +4919,7 @@ entoils
 endangitis
 expertised
 endarteteria
-endaspidean
+endaspidean 1
 endbrains
 epipodite
 emusify
