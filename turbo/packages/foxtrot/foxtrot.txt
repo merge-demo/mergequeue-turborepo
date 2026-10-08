@@ -639,7 +639,7 @@ fertilisation 1
 fanum
 fauster
 frowstier
-flyways
+flyways 1
 fulgurite
 falsity
 faltboat
