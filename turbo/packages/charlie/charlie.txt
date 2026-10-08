@@ -8572,7 +8572,7 @@ changedale
 calpac
 commissaryship
 concocting
-claires
+claires 1
 changeful
 changefully
 copolymerism
