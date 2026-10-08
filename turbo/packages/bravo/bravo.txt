@@ -9218,7 +9218,7 @@ betulinol
 biotical
 bobwhite
 bespreads
-beanstalks
+beanstalks 1
 beguilingness
 booklouse
 bruted
