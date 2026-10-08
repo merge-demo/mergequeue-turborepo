@@ -28162,7 +28162,7 @@ craniotomy
 craniotopography
 craniums
 crankcases
-cankers
+cankers 1
 cristy
 celebres
 colter
