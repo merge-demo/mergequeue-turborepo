@@ -13312,7 +13312,7 @@ bandoleered
 bacteriologically
 balantidiasis
 bivaulted
-botanically
+botanically 1
 botanics
 bridechamber
 botanies
