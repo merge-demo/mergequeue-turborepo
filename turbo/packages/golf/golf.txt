@@ -2570,7 +2570,7 @@ graywall
 guv
 gabbards
 gangliasthenia
-goosefish 1
+goosefish 2
 granodiorite
 giltheads
 gibber
