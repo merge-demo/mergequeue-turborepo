@@ -117,7 +117,7 @@ gofferer
 geezer
 glossata
 gluers 1
-gujerat
+gujerat 1
 guises
 ganguela
 grammarianism
