@@ -9269,7 +9269,7 @@ ghosted 1
 glaringly
 grogshop
 gigmaness
-geosyncline
+geosyncline 1
 gnathalgia
 gynecologic
 guignol
