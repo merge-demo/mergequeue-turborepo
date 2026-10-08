@@ -21427,7 +21427,7 @@ acrogenously
 agueproof
 azulejo
 alamoth
-apartheid
+apartheid 1
 asoka
 anthracitism
 asomatous
