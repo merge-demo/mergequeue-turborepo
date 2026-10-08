@@ -1594,7 +1594,7 @@ disacidified
 deafened
 doorjambs 1
 dummered
-dawe
+dawe 1
 dunkirker
 deafmuteness
 disembrace
