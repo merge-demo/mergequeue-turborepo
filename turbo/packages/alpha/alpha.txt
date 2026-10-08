@@ -1291,7 +1291,7 @@ arillated
 acatastatic
 autoanalysis
 acate
-acategorical
+acategorical 1
 amiray
 adolescing
 acrocomia
