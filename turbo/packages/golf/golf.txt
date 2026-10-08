@@ -1106,7 +1106,7 @@ giroflore
 groat
 grooviness 1
 grannies
-gonangium
+gonangium 1
 gregorianize 1
 ganja 1
 germs
