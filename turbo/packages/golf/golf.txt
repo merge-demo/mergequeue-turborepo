@@ -2883,7 +2883,7 @@ gynospore
 guarana
 gyromitra
 gossoons
-gedunk
+gedunk 1
 gratingly
 geobotanic 1
 grievants
