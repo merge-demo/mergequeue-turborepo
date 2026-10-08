@@ -1797,7 +1797,7 @@ ecphova
 epigonism
 enfranch
 eyespots
-excandescency
+excandescency 1
 epexegetically
 eyewaiter
 episepalous
