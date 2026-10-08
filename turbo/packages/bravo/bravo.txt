@@ -8350,7 +8350,7 @@ betelnuts
 boers 2
 bourtrees
 bureaucratically
-bigeminum
+bigeminum 1
 biconditional
 billie
 bowermaiden
