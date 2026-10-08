@@ -5010,7 +5010,7 @@ antiparagraphe
 assessory
 angiohyalinosis
 adinvention
-aerophor
+aerophor 1
 antithermic
 arrode
 aerophotos
