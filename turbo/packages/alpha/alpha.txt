@@ -16678,7 +16678,7 @@ antilogical
 aggers
 acaridan
 abjuration
-asserters
+asserters 1
 assails
 albines
 alcaides
