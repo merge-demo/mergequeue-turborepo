@@ -12883,7 +12883,7 @@ expandable
 escropulo 1
 exobiologists
 erethisms
-exsert
+exsert 1
 endamoeba
 expandedly
 explicable
