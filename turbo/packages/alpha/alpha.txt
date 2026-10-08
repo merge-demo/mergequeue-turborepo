@@ -11686,7 +11686,7 @@ anacrogynae
 amba
 anthropometrical 1
 anacrogynous
-accents
+accents 1
 anacrotic
 altricial
 anacruses
