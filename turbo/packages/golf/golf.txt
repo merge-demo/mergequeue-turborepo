@@ -3439,7 +3439,7 @@ gestaltist
 gallicisms
 gynecology
 grum
-gubernance
+gubernance 1
 gaveler
 gravimeters 1
 gudgeons
