@@ -1810,7 +1810,7 @@ erodium
 effetely 1
 enamors
 eroding
-encroached
+encroached 1
 eleusinion
 egotheism
 ergatogyny 1
