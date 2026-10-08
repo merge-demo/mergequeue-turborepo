@@ -5823,7 +5823,7 @@ flotas
 floatier
 fulcrums
 flidge
-fertilisable
+fertilisable 1
 fowling
 factorially
 floatsmen
