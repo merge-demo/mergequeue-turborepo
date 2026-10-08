@@ -12632,7 +12632,7 @@ beatniks
 bite
 bagels
 baguets
-beleaguerment
+beleaguerment 1
 bodeful
 bulged
 brasero
