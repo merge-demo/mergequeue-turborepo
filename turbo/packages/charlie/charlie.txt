@@ -6796,7 +6796,7 @@ cathodofluorescence
 celloidin
 constative
 counterbalance
-cellose
+cellose 1
 cognizance
 coadunative
 counterreconnaissance
