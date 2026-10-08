@@ -12122,7 +12122,7 @@ architeuthis
 anastate
 anastatus
 anastigmat 1
-anastigmatic
+anastigmatic 1
 alvah
 alichel
 afterbreast 1
