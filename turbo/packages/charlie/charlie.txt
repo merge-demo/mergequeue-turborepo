@@ -1686,7 +1686,7 @@ calorie
 claytonia
 conflagrating
 cele
-curlicuing
+curlicuing 1
 circ
 cestoi
 counterdiscipline
