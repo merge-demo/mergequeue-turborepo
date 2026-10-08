@@ -23726,7 +23726,7 @@ conjunctural
 chessmen
 cothurned
 cyclomyarian
-condensance
+condensance 1
 converted
 contraltos
 cera
