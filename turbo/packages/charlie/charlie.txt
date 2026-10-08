@@ -3605,7 +3605,7 @@ carabinier
 carabiniere
 carabinieri
 cotrespasser
-chumped
+chumped 1
 caraboa
 caaba
 cinques
