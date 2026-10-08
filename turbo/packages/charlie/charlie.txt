@@ -3016,7 +3016,7 @@ chinse
 cantoner
 cowleeching
 cellocut
-cantoning
+cantoning 1
 cantonize
 colectomy
 countergager
