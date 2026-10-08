@@ -10646,7 +10646,7 @@ gnomed
 gastroperiodynia
 goldmist
 glyoxalase
-generableness
+generableness 1
 gonagra
 generalizeable
 gurgitation
