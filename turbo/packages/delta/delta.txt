@@ -947,7 +947,7 @@ darb
 dorsoabdominal
 deserters
 darby
-diapnoic
+diapnoic 1
 dependantly 1
 decerp
 dumpers
