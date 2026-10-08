@@ -7541,7 +7541,7 @@ deuterosy
 drubber
 ducktail
 discs 1
-deuterotype
+deuterotype 1
 deuterozooid
 dental
 didynamies
