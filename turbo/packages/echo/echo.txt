@@ -12595,7 +12595,7 @@ eastling 1
 excecation
 eunuchry
 exempts
-exocoele
+exocoele 1
 excusing
 electrophoreses
 embossable
