@@ -17966,7 +17966,7 @@ authorling
 auspicated
 appropriateness
 appropriating
-aurum
+aurum 1
 appropriator
 appellative
 anglaise
