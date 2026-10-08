@@ -18654,7 +18654,7 @@ decolorize
 dryades
 duvetynes
 devaporation
-deflagrability
+deflagrability 1
 daishikis
 dwayberry
 dilemi
