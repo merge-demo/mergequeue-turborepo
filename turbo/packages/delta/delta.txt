@@ -7900,7 +7900,7 @@ defrock
 droughty
 diminuting
 degringolade
-dewlapped
+dewlapped 1
 deuniting
 dewless
 daggled
