@@ -19173,7 +19173,7 @@ astrophysicist
 apneic
 azurmalachite
 angiomatous
-anticommunists
+anticommunists 1
 allotropize
 arcose
 autorotational
