@@ -11654,7 +11654,7 @@ blacks
 bizant
 boarwood
 boas
-boaster
+boaster 1
 boastfully 1
 baits
 bacchus
