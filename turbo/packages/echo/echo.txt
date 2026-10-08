@@ -9959,7 +9959,7 @@ externa
 emmies
 eschars
 ennew
-endorachis
+endorachis 1
 elk
 estrums
 extrospection
