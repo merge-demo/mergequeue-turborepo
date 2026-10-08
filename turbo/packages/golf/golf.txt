@@ -10287,7 +10287,7 @@ gourmet
 gullage
 garblings
 guitarist
-gentlewomanish
+gentlewomanish 1
 gibblegabble
 gastrulating
 guitarists 1

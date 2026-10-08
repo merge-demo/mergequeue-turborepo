@@ -5783,7 +5783,7 @@ exterritoriality
 eolipiles
 eucharistical
 excl
-englobe
+englobe 1
 empressements
 epigraphy
 expressions
