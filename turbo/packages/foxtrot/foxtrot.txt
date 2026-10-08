@@ -3876,7 +3876,7 @@ figurato
 fungicidal
 fanwe
 foregrounds 1
-frequencies
+frequencies 1
 fits
 foretime
 fortuitously
