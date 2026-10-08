@@ -22103,7 +22103,7 @@ curvate
 crouke
 cotraitor
 conformingly
-conformist
+conformist 1
 confusably 1
 conformists 1
 circinus
