@@ -13877,7 +13877,7 @@ anour
 asher
 anovulant
 algetic
-anovulatory
+anovulatory 1
 anoxemias
 ashrams
 allophane
