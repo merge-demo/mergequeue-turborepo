@@ -9926,7 +9926,7 @@ fortuitism
 flocculose
 forsythias
 ferromagnetism
-furze
+furze 1
 friesian
 fittable
 forceps 1
