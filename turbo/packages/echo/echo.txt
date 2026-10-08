@@ -7370,7 +7370,7 @@ erythrina
 exuviate
 exonship
 epithetical 1
-extollment
+extollment 1
 everywhither
 earthmoving
 equipollency
