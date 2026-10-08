@@ -5113,7 +5113,7 @@ factitive
 fict
 furnishment
 furculae
-flashiness 1
+flashiness 2
 fermerer
 famulli
 fragrancies
