@@ -10969,7 +10969,7 @@ eoside
 eigenfrequency
 escobita
 ecologically
-ennuye
+ennuye 1
 electrokinematics
 excavates
 epibaterium
