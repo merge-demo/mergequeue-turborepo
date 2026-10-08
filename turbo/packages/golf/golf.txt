@@ -1134,7 +1134,7 @@ ganoidian
 geonyctitropic
 graphics
 gutsiest
-grammatolatry
+grammatolatry 1
 glycerophosphate
 gestura
 geneura
