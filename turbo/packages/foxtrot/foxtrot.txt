@@ -3899,7 +3899,7 @@ filarees
 fine
 fineableness
 fumigators
-fusinist
+fusinist 1
 fluoridated
 frostproof 1
 frolicsomely
