@@ -13352,7 +13352,7 @@ brecciated
 buss
 basilosaurus
 barometry
-both 1
+both 2
 bradyphagia
 bothered
 bester
