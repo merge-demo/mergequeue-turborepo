@@ -2487,7 +2487,7 @@ declarations
 decisions 1
 declarative
 detectaphone
-duckwife
+duckwife 1
 dolichocephali
 deligation
 demieagle
