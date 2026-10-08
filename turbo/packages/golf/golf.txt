@@ -5297,7 +5297,7 @@ ganoses 1
 gipsyism
 geotechnics
 gadgetry
-glycosidically
+glycosidically 1
 granulite
 gunplays
 glazework
