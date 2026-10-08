@@ -8315,7 +8315,7 @@ eriocaulaceae
 electrodeposit
 enciphers
 elev
-expressibly
+expressibly 1
 endured
 enchannel
 exercised
