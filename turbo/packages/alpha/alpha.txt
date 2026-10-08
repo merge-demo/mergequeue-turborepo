@@ -20326,7 +20326,7 @@ arsenic
 arsenicism
 aphelia
 afterwards
-arseniferous
+arseniferous 1
 azofy
 autometry
 amendments
