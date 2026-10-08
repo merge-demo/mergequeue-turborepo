@@ -727,7 +727,7 @@ disleaving
 decreeing
 denudatory 1
 danewort
-dancing
+dancing 1
 dictagraph
 dodging
 dander
