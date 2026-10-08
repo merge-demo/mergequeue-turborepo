@@ -1487,7 +1487,7 @@ breathtaking
 beryllonite 1
 balker
 byronize 1
-balking
+balking 1
 budgy
 backbiter
 boyarisms
