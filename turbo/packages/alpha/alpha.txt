@@ -8251,7 +8251,7 @@ agammaglobulinemic 1
 alidads
 anchored
 anticoagulin
-aposporous
+aposporous 1
 android
 anonad 1
 archie
