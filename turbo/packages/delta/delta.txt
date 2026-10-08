@@ -18602,7 +18602,7 @@ dedo
 daincha
 dogana
 dustless 1
-droguet
+droguet 1
 diakonikon
 dustour
 dorsalmost
