@@ -10564,7 +10564,7 @@ fluky
 flatus
 furnaces
 fossilised 1
-featherier
+featherier 1
 fieldpiece
 frowziest
 frowzled
