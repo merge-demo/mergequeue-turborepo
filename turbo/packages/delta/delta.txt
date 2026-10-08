@@ -3543,7 +3543,7 @@ dups
 diatonous
 degener
 depredations
-dripping
+dripping 1
 dextrogyre 1
 dinosauric
 degenerate
