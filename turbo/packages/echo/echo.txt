@@ -1238,7 +1238,7 @@ embrue
 escalade
 externity
 eudendrium
-epicures 1
+epicures 2
 emanate
 enjoyable
 enroot
