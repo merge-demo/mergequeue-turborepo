@@ -1805,7 +1805,7 @@ gulsach
 gigots
 glycine
 gastrocolostomy
-geodesia
+geodesia 1
 gthite
 goala 1
 gainspeaker
