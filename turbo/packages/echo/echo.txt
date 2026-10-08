@@ -507,7 +507,7 @@ examinator
 emphyteusis
 echelle
 exhibitant
-electrosurgeries 1
+electrosurgeries 2
 extraphenomenal 1
 evocated
 estate
