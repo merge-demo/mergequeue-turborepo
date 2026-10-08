@@ -8225,7 +8225,7 @@ gastroblennorrhea
 gettysburg
 graphologists
 grainery 1
-glimpser
+glimpser 1
 gyropigeon
 grammarians
 gimp 1
