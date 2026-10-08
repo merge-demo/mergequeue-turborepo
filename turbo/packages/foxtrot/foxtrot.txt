@@ -1137,7 +1137,7 @@ forlornness 1
 fubs
 footprints
 foreguts
-flog
+flog 1
 falseheartedness
 fennels 1
 flexures
