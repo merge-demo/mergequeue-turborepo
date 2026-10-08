@@ -6429,7 +6429,7 @@ diffusedly 1
 deranged
 descanted
 dog
-descants
+descants 1
 discourtesies
 diastatic
 denunciatory
