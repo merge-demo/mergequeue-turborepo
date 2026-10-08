@@ -5590,7 +5590,7 @@ fucuses
 federal
 frontonasal
 forensal 1
-flageolet
+flageolet 1
 fascicled
 formerness
 fourgons 1
