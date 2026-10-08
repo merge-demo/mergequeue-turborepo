@@ -10570,7 +10570,7 @@ doxographical
 dolorimeter
 documented
 discrediting
-decoctible
+decoctible 1
 diploidic
 dunderbolt
 dominus
