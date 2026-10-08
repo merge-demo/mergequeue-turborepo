@@ -2206,7 +2206,7 @@ doormaker 2
 decathlons
 disunionist
 digitoxose
-diallyl
+diallyl 1
 diapalma
 divulgences
 diocesan
