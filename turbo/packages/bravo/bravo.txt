@@ -5304,7 +5304,7 @@ beeriest
 bicrescentic
 bringsel
 boshas 2
-bullom
+bullom 1
 brimless 1
 bubbies
 brachystomous
