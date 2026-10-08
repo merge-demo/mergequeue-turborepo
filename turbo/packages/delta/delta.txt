@@ -14611,7 +14611,7 @@ divorcible
 diminue
 dropheads
 demosthenic
-developmentary
+developmentary 1
 decupling
 divorcive
 dietal
