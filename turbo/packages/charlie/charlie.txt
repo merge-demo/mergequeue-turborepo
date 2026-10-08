@@ -8240,7 +8240,7 @@ chaldean
 chiver
 caucused
 caricetum
-cuddles
+cuddles 1
 councillary
 customarily
 chalder
