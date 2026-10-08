@@ -13517,7 +13517,7 @@ boggles
 botulism
 bags
 bigamistic
-bourre
+bourre 1
 beseek
 boondoggle
 boneyards 1
