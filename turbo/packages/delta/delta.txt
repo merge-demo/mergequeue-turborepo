@@ -16826,7 +16826,7 @@ dominee
 dey
 demurely
 decurtate 1
-disallowances
+disallowances 1
 decapitable
 dissuited 1
 drawgate
