@@ -10977,7 +10977,7 @@ finally
 fluework
 fallfish
 firmless
-fisc
+fisc 1
 freesias 1
 frigidaire
 furors
