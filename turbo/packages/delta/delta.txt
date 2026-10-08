@@ -13728,7 +13728,7 @@ dystrophies
 despoiling
 diphosgene
 disturbation 1
-discoids
+discoids 1
 defends
 doorplate
 divalent
