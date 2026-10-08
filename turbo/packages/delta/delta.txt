@@ -14668,7 +14668,7 @@ drill
 djebels
 djehad
 dulias
-djellabah
+djellabah 1
 decanically
 dampest
 djerib
