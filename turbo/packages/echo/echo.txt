@@ -3088,7 +3088,7 @@ emp
 elliot
 educationable
 ergatocracy
-expropriates 1
+expropriates 2
 ellipsograph
 executiveness
 esemplastic
