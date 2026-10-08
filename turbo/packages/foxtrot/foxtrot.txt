@@ -5316,7 +5316,7 @@ flb
 fantasque
 foregather 1
 fifteen 1
-feasts
+feasts 1
 filial
 faltboats
 fant
