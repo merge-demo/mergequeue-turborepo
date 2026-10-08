@@ -2581,7 +2581,7 @@ canduc
 crepier 1
 camphires
 censuses
-caressant
+caressant 1
 cyclotrons
 cheesing
 cliffing
