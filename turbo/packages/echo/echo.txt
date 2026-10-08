@@ -1756,7 +1756,7 @@ encysts
 enswathe
 eyepiece
 enrapturer 1
-everard 1
+everard 2
 extg
 embattle
 exhbn
