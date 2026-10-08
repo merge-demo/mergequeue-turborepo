@@ -14936,7 +14936,7 @@ anticolic
 adiathermic
 associe
 appetizers
-academical
+academical 1
 airstrip
 anachronic
 anticommunistically
