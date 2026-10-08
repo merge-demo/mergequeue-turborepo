@@ -3708,7 +3708,7 @@ damaskine
 defatigate
 dehorting
 digitoxin
-decompensation
+decompensation 1
 duckweed
 dehumanization
 draftswomanship
