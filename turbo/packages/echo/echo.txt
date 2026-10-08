@@ -6127,7 +6127,7 @@ espringal
 enlodge
 episkotister
 estuary
-enforced
+enforced 1
 epiphanise
 enlodgement
 enlumine 1
