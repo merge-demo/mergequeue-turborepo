@@ -9017,7 +9017,7 @@ edituate
 eteocretes
 edriophthalma
 erythrite
-emaciating
+emaciating 1
 enfeeblement
 exponent
 espionage
