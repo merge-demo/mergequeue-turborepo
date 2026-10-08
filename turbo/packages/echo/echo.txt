@@ -164,7 +164,7 @@ escallop
 enticed
 exonym
 echinostome
-echidna
+echidna 1
 engelmanni
 exacts
 ejidal
