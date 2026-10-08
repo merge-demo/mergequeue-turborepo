@@ -11476,7 +11476,7 @@ ferri
 foliolose
 figurational
 fevergum
-frowst
+frowst 1
 fastgoing
 feminacies
 fairleader
