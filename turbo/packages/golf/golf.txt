@@ -1709,7 +1709,7 @@ glossoscopy
 gadoids
 glycerinate
 gorkhali
-gynocracy 1
+gynocracy 2
 gympie
 goldstone
 genotypes
