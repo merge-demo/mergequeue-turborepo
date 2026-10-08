@@ -6677,7 +6677,7 @@ exploitations
 elongations
 enterprize
 egestion 2
-earlish
+earlish 1
 epee
 expertising
 entosclerite

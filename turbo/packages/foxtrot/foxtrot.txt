@@ -5435,7 +5435,7 @@ filterable
 flexuosely
 fascisticization
 floatative
-fleering
+fleering 1
 faunal
 forcibly
 floridians
