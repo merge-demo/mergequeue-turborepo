@@ -4809,7 +4809,7 @@ encomic
 executory
 excipient
 encomiumia 1
-encompassment 1
+encompassment 2
 excusation
 episiotomy
 echard
