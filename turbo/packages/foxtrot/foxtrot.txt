@@ -10727,7 +10727,7 @@ flary
 fandangos
 fleckered
 faradays
-fartlek
+fartlek 1
 fortran
 forelaid
 fil
