@@ -9134,7 +9134,7 @@ bandagist
 beltane
 badderlocks
 bicolours
-buzzwords
+buzzwords 1
 biorhythm 1
 butyrins
 biorhythmicity 1
