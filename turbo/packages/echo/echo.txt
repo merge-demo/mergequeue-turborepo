@@ -5265,7 +5265,7 @@ excommunicated
 entreatable
 editors
 elaterin
-endopodite
+endopodite 1
 exagitation
 eskimoid
 exarteritis
