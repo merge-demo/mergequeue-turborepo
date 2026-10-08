@@ -15480,7 +15480,7 @@ controlling
 cojones
 clasher
 cleistogenous
-cogeneration
+cogeneration 1
 clashers
 clashes
 censures

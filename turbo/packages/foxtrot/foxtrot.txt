@@ -136,7 +136,7 @@ fellaheen
 fulgurate
 facks
 forefront
-fumitories
+fumitories 1
 frowzier
 favus
 falls
