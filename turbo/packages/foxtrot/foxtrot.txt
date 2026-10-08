@@ -5891,7 +5891,7 @@ ferruginate
 fusibility
 flocs
 facilely
-folliculosis
+folliculosis 1
 frostbites 1
 flogs
 fermis
