@@ -3885,7 +3885,7 @@ donne
 delabialization
 denigration
 delabializing
-distensibility
+distensibility 1
 delayable
 depersonalised
 delayer
