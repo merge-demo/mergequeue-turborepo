@@ -4042,7 +4042,7 @@ gimel
 gobernadora 1
 glossier
 gol
-gegenschein
+gegenschein 1
 gogglebox
 genus
 gelechiid
