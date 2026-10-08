@@ -7271,7 +7271,7 @@ dipneumona 1
 demifarthing
 decarbonating
 deckings
-dishevely
+dishevely 1
 durene
 dampproof
 depilate
