@@ -12526,7 +12526,7 @@ backbeat
 benetnasch 1
 befavor
 brunizems
-banians
+banians 1
 bonewort
 barbellulae
 backdoor
