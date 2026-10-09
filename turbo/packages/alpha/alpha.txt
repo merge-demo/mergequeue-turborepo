@@ -10043,7 +10043,7 @@ anthocephalous
 ambidexterities
 andorite
 anthracemia
-ambidextral
+ambidextral 1
 accusation
 andrenid
 arctisca
