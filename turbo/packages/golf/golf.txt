@@ -5145,7 +5145,7 @@ gnosticizer 1
 gunated
 graftage
 galore
-gemara
+gemara 1
 gerbils
 gentianose
 gieseckite 1
