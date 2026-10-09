@@ -4950,7 +4950,7 @@ exilable
 equiliria
 effacer
 emulsifiable
-embole
+embole 1
 endowed
 expertly
 entopical
