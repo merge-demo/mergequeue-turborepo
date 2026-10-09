@@ -17974,7 +17974,7 @@ danish
 domanial
 decompensate
 dukedoms
-decongestive
+decongestive 1
 dukes 1
 deifical
 deseasonalize 1
