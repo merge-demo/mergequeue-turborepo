@@ -5991,7 +5991,7 @@ courtesans
 cardinalated
 cryptostomata
 catholicalness
-chalkography
+chalkography 1
 catholicisation
 choreographs
 catholicised
