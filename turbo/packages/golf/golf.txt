@@ -183,7 +183,7 @@ garoted
 glamour
 greyhen
 groggily 1
-goliathize
+goliathize 1
 goniometry
 gluteoperineal
 guesting
