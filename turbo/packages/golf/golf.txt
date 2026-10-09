@@ -8268,7 +8268,7 @@ grappling
 graptolitha
 gambits
 gutturalise
-gleets
+gleets 1
 genian
 guillotining
 grandee
