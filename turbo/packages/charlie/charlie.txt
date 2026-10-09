@@ -8031,7 +8031,7 @@ cagayan
 capitulum
 colonising
 chaferies
-chafers
+chafers 1
 caranx
 chafes
 corve
