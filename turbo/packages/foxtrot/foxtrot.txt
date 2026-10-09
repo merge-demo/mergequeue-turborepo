@@ -10814,7 +10814,7 @@ factualistic
 flue
 fubbery 1
 filamentoid
-fullering
+fullering 1
 footpads 1
 farmerette
 fort
