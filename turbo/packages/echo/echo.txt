@@ -4164,7 +4164,7 @@ elaeosia 2
 evadne
 engraphy
 eyeroot
-escaloped
+escaloped 1
 echiurida
 enacted
 etuve
