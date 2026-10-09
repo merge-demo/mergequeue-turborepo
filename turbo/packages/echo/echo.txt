@@ -131,7 +131,7 @@ enderonic
 excellency
 episomes
 epoxidize
-economizes
+economizes 1
 extravasating
 elon
 entrusted
