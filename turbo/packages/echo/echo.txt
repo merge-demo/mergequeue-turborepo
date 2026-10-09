@@ -1820,7 +1820,7 @@ exopodite
 eigenvalues
 evaginated
 effervescive
-ensouling
+ensouling 1
 encipherer
 elench
 explicatory
