@@ -7018,7 +7018,7 @@ eggfruit 1
 epistolarily
 enpia
 elastomer 1
-electricalize
+electricalize 1
 eglatere
 ethos 1
 enepidermic
