@@ -3936,7 +3936,7 @@ epilabrum 1
 efflorescent
 emollience
 escharotic
-elevenths
+elevenths 1
 estruate
 earthbound
 excommunicators 1
