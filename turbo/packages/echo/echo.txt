@@ -6133,7 +6133,7 @@ enlodgement
 enlumine 1
 entheos
 ergoplasm
-excommunicant
+excommunicant 1
 entozoans
 epicentre
 eaved
