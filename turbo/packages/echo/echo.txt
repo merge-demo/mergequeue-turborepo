@@ -3402,7 +3402,7 @@ endocrinologist
 euryphage
 enc
 eavedropper 1
-embark
+embark 1
 epichorial
 embarkations
 epitomize
