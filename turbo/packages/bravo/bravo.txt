@@ -16092,7 +16092,7 @@ buying
 byous
 bentonitic
 bleareyed
-basotho
+basotho 1
 bashful
 bigamize
 bronze
