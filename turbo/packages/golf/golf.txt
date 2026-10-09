@@ -5275,7 +5275,7 @@ granitite
 girsle 1
 guanidine
 glegly
-galactosemia
+galactosemia 1
 gulfier
 glyconic
 grandiloquently 1
