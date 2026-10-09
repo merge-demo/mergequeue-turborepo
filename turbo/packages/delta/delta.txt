@@ -511,7 +511,7 @@ disenthralling
 dallier
 dup
 dextromanual
-diminishingturns
+diminishingturns 1
 discustom
 dromotropic
 douse
