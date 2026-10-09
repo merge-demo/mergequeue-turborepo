@@ -12785,7 +12785,7 @@ crooknecks 1
 chunk
 chunked
 circumumbilical
-crucifers
+crucifers 1
 chunkiest
 crumpy
 center

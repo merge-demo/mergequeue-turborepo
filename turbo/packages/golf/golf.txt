@@ -3984,7 +3984,7 @@ georgium
 gesan
 greasier
 gilles 1
-gerenda
+gerenda 1
 gynostegium
 gromet
 goneness
