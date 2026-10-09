@@ -27691,7 +27691,7 @@ chamite
 cycloplegia
 chaussures
 cowk
-cowkine
+cowkine 1
 cumulatively
 coordinately
 cowl
