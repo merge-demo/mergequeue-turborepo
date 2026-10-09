@@ -14731,7 +14731,7 @@ allusiveness
 affright
 amphogeny
 antimaterialistically
-anthroxanic
+anthroxanic 1
 aviculariidae
 antibug
 autopneumatic 1
