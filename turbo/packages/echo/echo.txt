@@ -3717,7 +3717,7 @@ elements
 embryos
 esthesioblast
 embryotega
-eweries
+eweries 1
 embryotome
 exhalatory
 ekhimi
