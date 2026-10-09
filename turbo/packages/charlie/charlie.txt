@@ -3340,7 +3340,7 @@ corslets
 captivate
 clearcole
 chrystocrene
-caponising
+caponising 1
 camaldolensian
 commissariat
 coderives 1
