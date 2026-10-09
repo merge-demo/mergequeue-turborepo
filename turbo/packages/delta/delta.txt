@@ -18598,7 +18598,7 @@ diatonicism
 dusters
 desperadoism
 dustheap
-dedo
+dedo 1
 daincha
 dogana
 dustless 1
