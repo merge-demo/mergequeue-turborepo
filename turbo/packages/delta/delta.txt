@@ -15032,7 +15032,7 @@ desperate
 doggerelizing
 diphthongising
 dendritical
-disrout
+disrout 1
 durnedest 1
 decided
 deformer
