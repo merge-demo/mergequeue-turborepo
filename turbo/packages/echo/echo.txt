@@ -8004,7 +8004,7 @@ erotopathic
 epiotic
 eutannin
 exopterygota
-exocline
+exocline 1
 enigmaticalness 1
 exscript
 epifocal
