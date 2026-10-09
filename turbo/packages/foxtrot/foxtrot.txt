@@ -438,7 +438,7 @@ faisan
 forcefulness 1
 floriculturist
 faisceau
-fathoming
+fathoming 1
 firths
 forelaying
 fluobromide
