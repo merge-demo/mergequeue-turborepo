@@ -9742,7 +9742,7 @@ emotionable
 eomecon
 eastlings
 entotrophi
-entitles
+entitles 1
 epitomisation
 equisonance 1
 everyplace
