@@ -8317,7 +8317,7 @@ feely
 forkedness
 folderol
 frumpish
-fewsome
+fewsome 1
 forbidden
 fulminates 1
 forkier
