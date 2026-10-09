@@ -5688,7 +5688,7 @@ grieshuckle
 gyrolite
 gurus
 geologize
-gammons
+gammons 1
 goldsmithery
 glockenspiel
 gallopade
