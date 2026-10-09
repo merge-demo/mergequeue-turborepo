@@ -5983,7 +5983,7 @@ graspless
 gnarls
 gaidropsaridae
 gravelweed
-geminative
+geminative 1
 guard
 gingerly
 goodwilly
