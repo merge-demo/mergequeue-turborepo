@@ -8704,7 +8704,7 @@ glucosuric
 garrets 1
 games
 glom 1
-galeus
+galeus 1
 gnathobase 1
 gobbin
 geminorum
