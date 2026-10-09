@@ -1492,7 +1492,7 @@ fabulate
 flytes
 flaillike 1
 fissidentaceous
-flunkyhood 1
+flunkyhood 2
 fluoroscopist
 folkish
 floatability
