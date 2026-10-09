@@ -3028,7 +3028,7 @@ bartended
 barrera
 bigamistically
 beared
-bidirectionally
+bidirectionally 1
 boist
 balaenoid
 bartenders
