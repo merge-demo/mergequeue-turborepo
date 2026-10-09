@@ -6287,7 +6287,7 @@ gebang
 gobo
 globins
 gaybine
-gobony 1
+gobony 2
 gaily 1
 grail
 goosenecked
