@@ -3797,7 +3797,7 @@ chalkier
 chorioid
 cacochymical
 carbohydride
-cowpat
+cowpat 1
 carbohydrogen
 carboy
 celestes
