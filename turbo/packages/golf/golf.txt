@@ -10310,7 +10310,7 @@ gilling 1
 gildsman
 gnetaceae
 goralog
-ghettoing
+ghettoing 1
 gnathions
 gemologist
 gujarati
