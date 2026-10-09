@@ -7958,7 +7958,7 @@ globing
 glottologies
 goldenmouthed
 gasifiable
-golgotha
+golgotha 1
 gainer
 guttee
 globosity 1
