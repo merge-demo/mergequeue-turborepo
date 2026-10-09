@@ -756,7 +756,7 @@ enclaved
 epizootiologic
 echinocaris
 evangelism
-extorsive
+extorsive 1
 enabling
 embryoctony
 engrapple
