@@ -3573,7 +3573,7 @@ exceeder
 equoid
 exothermally
 epidesmine
-emboscata
+emboscata 1
 exclusionary
 ectoglia
 encyclical
