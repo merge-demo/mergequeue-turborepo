@@ -10418,7 +10418,7 @@ doglegging
 disfigurative
 deticking
 dolittle
-diphenoxylate
+diphenoxylate 1
 diphysite
 dosimeters
 damask
