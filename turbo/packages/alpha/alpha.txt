@@ -15242,7 +15242,7 @@ antifreeze
 antifriction
 antifrost
 amblotic
-antifungal
+antifungal 1
 ataentsic
 albertinian
 androcratic 1
