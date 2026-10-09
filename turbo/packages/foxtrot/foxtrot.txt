@@ -11440,7 +11440,7 @@ forebemoaned
 founte 1
 fortunetell
 fallibleness 1
-formfeed
+formfeed 1
 fiducially 1
 fluviose
 falteringly

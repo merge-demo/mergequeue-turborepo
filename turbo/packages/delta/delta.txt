@@ -15720,7 +15720,7 @@ disour
 disgig 1
 dacryocystocele
 doricism
-dorylinae
+dorylinae 1
 dakota
 dendrochronologist
 denunciation
