@@ -6982,7 +6982,7 @@ gamostely
 gavel
 gummer
 goofily
-gamelote
+gamelote 1
 gladioli
 gentil
 gumshoes
