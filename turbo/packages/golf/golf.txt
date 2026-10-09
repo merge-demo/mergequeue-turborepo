@@ -5836,7 +5836,7 @@ goldfinch
 gighe
 gawney
 gipsyweed
-glucoses
+glucoses 1
 glances
 glucoside 1
 geophagy
