@@ -12723,7 +12723,7 @@ epibolism
 endarchies
 exenterating
 exophthalmus
-euonymus
+euonymus 1
 emboweling
 engramma
 exopod 1
