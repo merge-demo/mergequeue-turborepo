@@ -11444,7 +11444,7 @@ formfeed 1
 fiducially 1
 fluviose
 falteringly
-furrily
+furrily 1
 fructifier
 frigage 2
 frostless
