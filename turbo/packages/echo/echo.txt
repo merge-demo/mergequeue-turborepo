@@ -9533,7 +9533,7 @@ enantiotropy
 esemplasy
 extremities
 educationese
-ea
+ea 1
 earthworm
 enteradenology
 emboldened
