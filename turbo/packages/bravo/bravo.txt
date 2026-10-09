@@ -8522,7 +8522,7 @@ bloaters
 bilharziosis
 bilianic
 biscuitlike
-boreism
+boreism 1
 biliferous 1
 babysitter
 byssuses
