@@ -8208,7 +8208,7 @@ enjoined
 etwas
 equidominant
 ergophobia
-enisling
+enisling 1
 ectoblastic
 euthenic
 earlobe
