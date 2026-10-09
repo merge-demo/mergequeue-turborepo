@@ -9158,7 +9158,7 @@ allhallow
 abhorring
 alky
 anemometric
-antacid
+antacid 1
 alluvious
 assortative
 accipitres
