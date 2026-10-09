@@ -13716,7 +13716,7 @@ epinephelidae
 epiplasm
 enthronement
 ersatzes
-equiaxe
+equiaxe 1
 epileptogenous
 ergocalciferol
 externs
