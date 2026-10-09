@@ -1590,7 +1590,7 @@ episkeletal 1
 errite
 extraoral
 entires
-enumerator
+enumerator 1
 eff
 evacuations
 estopped
