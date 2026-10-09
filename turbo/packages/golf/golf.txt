@@ -2076,7 +2076,7 @@ gazetteership
 glycerophosphoric
 gomari
 giftless
-gutturonasal
+gutturonasal 1
 glossers
 gingkoes
 gnawer
