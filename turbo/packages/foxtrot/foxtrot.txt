@@ -6992,7 +6992,7 @@ fumade
 freespace
 floodwood
 fondus
-feases
+feases 1
 fermentum
 finback
 forebodings 1
