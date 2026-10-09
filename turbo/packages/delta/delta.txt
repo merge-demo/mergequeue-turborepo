@@ -149,7 +149,7 @@ desireful
 diestocks 1
 dressage 1
 delicates
-doweral
+doweral 1
 dirtier
 dedicatorily
 daedaleous
