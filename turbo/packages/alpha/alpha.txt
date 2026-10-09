@@ -8658,7 +8658,7 @@ agametes
 autistic
 anotropia
 anastomosis 1
-autotheater
+autotheater 1
 angioparalytic
 amygdaloidal
 annunciatory
