@@ -10939,7 +10939,7 @@ forge
 formalins
 factorizing 1
 ferreiro
-foreshadows
+foreshadows 1
 fub
 foehn
 flexure
