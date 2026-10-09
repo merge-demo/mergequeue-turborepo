@@ -11918,7 +11918,7 @@ convulsionaries
 cohanim
 cruces
 cosmochemistry
-choreoid
+choreoid 1
 crocidolite
 chorepiscopal
 catheterize
