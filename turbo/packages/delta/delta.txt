@@ -5461,7 +5461,7 @@ diphyllous
 dashboard
 diversities
 dx
-dimmock
+dimmock 1
 departmentalism
 diamines
 departmentalization
