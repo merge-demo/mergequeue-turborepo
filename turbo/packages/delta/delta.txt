@@ -1344,7 +1344,7 @@ dauntingness
 discerners
 duelli
 definer
-dauphine
+dauphine 1
 dauphines
 drooping
 drawboard
