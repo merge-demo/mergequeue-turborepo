@@ -1354,7 +1354,7 @@ glorifier
 gonochoristic
 gervao
 gitalin
-garlion
+garlion 1
 gemshorn
 guess 1
 glabreity
