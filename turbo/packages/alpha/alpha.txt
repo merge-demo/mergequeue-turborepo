@@ -4089,7 +4089,7 @@ admitters
 anahau
 admitting
 admixed
-applausive
+applausive 1
 abomasal
 admixt
 admixtion
