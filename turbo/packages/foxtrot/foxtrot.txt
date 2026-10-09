@@ -5340,7 +5340,7 @@ fleahopper
 fatiha
 flinger
 fructuously
-finiking
+finiking 1
 flouncier
 fuzzines 1
 fleams
