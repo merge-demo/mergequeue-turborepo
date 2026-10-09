@@ -13972,7 +13972,7 @@ bumbershoot
 blitzes
 breakably 1
 bidental
-bibulosity
+bibulosity 1
 becluster
 boxing
 boxmaker
