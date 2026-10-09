@@ -602,7 +602,7 @@ fossilisation
 forints
 feasted
 fourchette
-franklinism
+franklinism 1
 featherdom
 finders
 filippic
