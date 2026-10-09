@@ -6107,7 +6107,7 @@ entremets
 emboly
 eradicably
 exceed
-exossate
+exossate 1
 epizoisms
 explida
 erythroderma
