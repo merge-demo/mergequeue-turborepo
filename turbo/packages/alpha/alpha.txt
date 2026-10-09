@@ -20744,7 +20744,7 @@ acquitment
 autoplagiarism
 artifactitious
 aniseroot
-altitonant
+altitonant 1
 artifactually
 ascents
 artifex
