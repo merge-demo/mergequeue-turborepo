@@ -10580,7 +10580,7 @@ doorman 1
 diploma
 decasyllabon
 dolorogenic
-domitable
+domitable 1
 dolven
 diplomaing
 datapunch 1
