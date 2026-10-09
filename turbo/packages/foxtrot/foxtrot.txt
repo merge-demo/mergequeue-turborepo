@@ -6034,7 +6034,7 @@ fungiform
 fenceful
 freebooted
 fraternate
-flocculating
+flocculating 1
 frayn
 floridity
 floriscope
