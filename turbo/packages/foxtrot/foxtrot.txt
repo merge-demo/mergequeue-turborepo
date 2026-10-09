@@ -5995,7 +5995,7 @@ focusless
 freakish
 frottage
 fluty
-floreating
+floreating 1
 folletto
 flabbiness
 filarious
