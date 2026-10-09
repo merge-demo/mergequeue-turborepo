@@ -13231,7 +13231,7 @@ exanthalose
 explanted 1
 explanting 1
 eaglehawk
-explat
+explat 1
 empurples
 exertive
 ety
