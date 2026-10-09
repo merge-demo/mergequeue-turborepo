@@ -4998,7 +4998,7 @@ ecarte
 escritorial
 equipollentness
 ensilaged
-eumoirous
+eumoirous 1
 embroideries
 endenize
 ergmeter
