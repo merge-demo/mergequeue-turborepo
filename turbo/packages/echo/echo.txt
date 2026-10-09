@@ -6357,7 +6357,7 @@ endoangiitis
 enshelter
 echoize
 ellice
-enthrals
+enthrals 1
 endangiitis
 enshield 1
 evolution
