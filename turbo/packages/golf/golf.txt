@@ -2226,7 +2226,7 @@ garmented 1
 gestational
 gooseskin
 goaves
-gemwork
+gemwork 1
 gastrolith
 gerastian
 guanidopropionic
