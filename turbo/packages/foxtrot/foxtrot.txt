@@ -7886,7 +7886,7 @@ fletching
 foreseer
 foresees
 fonder 1
-foreseize
+foreseize 1
 flatteries
 fike
 firy
