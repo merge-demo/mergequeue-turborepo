@@ -3083,7 +3083,7 @@ conferrable
 capability
 crew
 charks
-capable
+capable 1
 capableness
 clayoquot
 challengingly
