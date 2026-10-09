@@ -4054,7 +4054,7 @@ epipodial
 ex
 enringing
 evangelised
-encyclopaedism
+encyclopaedism 1
 embroils 1
 enantiomeride
 epitheca
