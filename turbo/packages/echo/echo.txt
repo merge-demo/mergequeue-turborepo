@@ -13224,7 +13224,7 @@ eductor
 epiphytism
 epitrophic 1
 eldred
-exheredate
+exheredate 1
 excluders 1
 exoarteritis
 exanthalose
