@@ -7825,7 +7825,7 @@ fiked
 forepossessed 1
 formulate
 foreshots
-fulgurant
+fulgurant 1
 furfuraldehyde
 facings
 flenses
