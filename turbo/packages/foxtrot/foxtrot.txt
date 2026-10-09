@@ -10673,7 +10673,7 @@ fegatella 1
 fickly
 fitzroy
 feltlike
-fibber
+fibber 1
 fenestrate
 flocculency
 fruitester
