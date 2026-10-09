@@ -7294,7 +7294,7 @@ eat
 enigmatize
 encushion
 epagomenae
-equerryship
+equerryship 1
 epagomenous
 extraconstitutional
 earwig
