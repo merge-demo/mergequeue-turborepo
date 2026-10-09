@@ -7754,7 +7754,7 @@ diglyph 1
 devisor
 decrier
 dowie
-devitalizes
+devitalizes 1
 decime
 drawler
 dribblers
