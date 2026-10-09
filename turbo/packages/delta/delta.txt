@@ -14427,7 +14427,7 @@ dorsoapical
 dispireme
 divergement
 distensible
-divergent
+divergent 1
 dishpans
 decrials
 diversify
