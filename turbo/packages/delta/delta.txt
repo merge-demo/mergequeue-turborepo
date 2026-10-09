@@ -5261,7 +5261,7 @@ diatomacean
 decimalized
 dismissals
 demibombard
-disguising
+disguising 1
 defers
 dysteleology
 displant 1
