@@ -79,7 +79,7 @@ cabbalahs
 cabbalas
 cabbalist
 currie
-cosmolatry
+cosmolatry 1
 coch
 catamaran
 cephaeline
