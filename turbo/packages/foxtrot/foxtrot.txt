@@ -8130,7 +8130,7 @@ fasthold
 fribbling
 fideicommissor 1
 fingerboards
-fuliginous
+fuliginous 1
 fidgeting
 fulicinae 1
 foreverness

@@ -2036,7 +2036,7 @@ gaveled
 gibbosities
 gaultherin
 gangrenes 1
-gnomologic
+gnomologic 1
 greiges
 guazuti
 growers
