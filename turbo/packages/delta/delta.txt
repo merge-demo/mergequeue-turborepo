@@ -6250,7 +6250,7 @@ dermatozzoa
 dermatrophia
 deallocate
 disgrade
-dephlegmatory
+dephlegmatory 1
 dermenchysis
 delacrimation
 dermestid
