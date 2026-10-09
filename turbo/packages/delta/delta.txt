@@ -12227,7 +12227,7 @@ dispeoplement
 deking
 deforester
 disinherit
-delphinine
+delphinine 1
 ditone
 disgavelling
 deorsumvergence
