@@ -19548,7 +19548,7 @@ coachmen
 colonizing
 creophagist
 columbine
-climactic
+climactic 1
 chamfrons
 cusp
 centriole
