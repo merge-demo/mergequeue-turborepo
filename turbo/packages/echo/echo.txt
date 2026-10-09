@@ -13288,7 +13288,7 @@ episcopy
 expiscate
 effie
 exploiting
-exploiture
+exploiture 1
 entozoological 1
 exploratively
 ectrogeny
