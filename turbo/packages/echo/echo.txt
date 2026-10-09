@@ -64,7 +64,7 @@ enfilading 1
 eastness
 entapophysial
 educationalism 1
-ensphere
+ensphere 1
 ellebore
 erugate
 euthenist
