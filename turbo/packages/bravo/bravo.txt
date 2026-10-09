@@ -12213,7 +12213,7 @@ barbarisms
 bolivians
 bolk
 bolly
-beretta
+beretta 1
 bibliomaniacal
 bargir
 besit
