@@ -2982,7 +2982,7 @@ fruticant
 fiaroblast
 foreordained
 flirts
-flaggelation
+flaggelation 1
 forbs
 furiousness
 forma 1
