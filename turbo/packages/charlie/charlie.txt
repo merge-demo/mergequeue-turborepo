@@ -2073,7 +2073,7 @@ conli
 campaign
 clotheshorses
 campaigners
-campaigns 1
+campaigns 2
 colostric
 campana
 campane
