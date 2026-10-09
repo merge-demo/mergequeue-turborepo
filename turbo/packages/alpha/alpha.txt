@@ -2526,7 +2526,7 @@ agria
 acomia
 anglicize
 allozooid
-acomous
+acomous 1
 acroasis
 albumean
 anchoretic
