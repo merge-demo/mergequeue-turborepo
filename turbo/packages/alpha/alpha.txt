@@ -10261,7 +10261,7 @@ alexipyretic
 ambitendent
 auximone
 aquariist 1
-amebobacter
+amebobacter 1
 analgesidae
 ameboid
 ameboidism
