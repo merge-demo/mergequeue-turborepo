@@ -2760,7 +2760,7 @@ elegized
 elegizes
 eleidin
 encrusts
-extrusions
+extrusions 1
 exhilaratory
 evergreenite
 equangular
