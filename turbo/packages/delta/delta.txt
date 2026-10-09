@@ -17289,7 +17289,7 @@ dukkha
 delphinius
 distinguishably
 drolling
-delighter
+delighter 1
 drollishness
 drolls
 drome
