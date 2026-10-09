@@ -6531,7 +6531,7 @@ eclectic
 engroove
 entelechies
 engorging
-entendre
+entendre 1
 epidermophytosis
 extravagating
 exciter
