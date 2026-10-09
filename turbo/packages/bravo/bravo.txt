@@ -14285,7 +14285,7 @@ butyne
 byword
 boarding
 buglosses
-bearwort
+bearwort 1
 braehead
 bulblet 1
 bronchiogenic
