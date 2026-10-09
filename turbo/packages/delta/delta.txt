@@ -13199,7 +13199,7 @@ demipagan
 depositive 1
 dhava
 dongolas
-diazole
+diazole 1
 duoviri
 dovetailed
 demoralize
