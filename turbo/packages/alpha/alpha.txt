@@ -9330,7 +9330,7 @@ adventitious
 alorcinic
 alosa
 adjustive
-alouette
+alouette 1
 androsphinxes
 alout
 acierate
