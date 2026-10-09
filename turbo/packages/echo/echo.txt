@@ -12308,7 +12308,7 @@ epimerite
 erichtoid
 enjambment
 eradicating
-emusive 1
+emusive 2
 earthlings
 ethic
 enhydrous
