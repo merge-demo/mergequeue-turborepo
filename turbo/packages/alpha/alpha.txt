@@ -18708,7 +18708,7 @@ archarchitect
 accusably
 addlebrain
 autocephality 1
-airmail
+airmail 1
 acquisitum
 astonied
 archbishopric
