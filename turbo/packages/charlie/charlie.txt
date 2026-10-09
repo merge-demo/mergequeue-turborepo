@@ -12485,7 +12485,7 @@ clairvoyants
 chromophore
 chads
 chromophorous
-chromophotography
+chromophotography 1
 chromophotographic
 cranky
 corundophilite
