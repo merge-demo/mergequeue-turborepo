@@ -5901,7 +5901,7 @@ ecarinate
 execrators
 entwine
 epitomise
-edeitis
+edeitis 1
 externalise
 enhancing
 enharbour
