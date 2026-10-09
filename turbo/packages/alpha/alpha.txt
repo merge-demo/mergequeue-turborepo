@@ -3127,7 +3127,7 @@ archigonocyte
 ascendance
 aphlogistic
 antimonous
-authorised
+authorised 1
 action
 albiflorous
 allotrophic
