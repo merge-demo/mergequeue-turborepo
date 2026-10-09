@@ -4161,7 +4161,7 @@ galactolytic
 gliosa
 ghibelline
 gynaecium
-gunned
+gunned 1
 grovel
 gois
 gaetuli
