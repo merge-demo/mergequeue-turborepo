@@ -7398,7 +7398,7 @@ bookmaker
 bandit
 benzonaphthol 1
 basad
-buffcoat
+buffcoat 1
 blanketmaking
 basest
 bewrayers
