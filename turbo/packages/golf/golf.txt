@@ -5510,7 +5510,7 @@ gymnocalycium 1
 gussies
 granuloblast
 georgical
-gadus
+gadus 1
 goffle
 gephyrophobia 1
 glycerizine
