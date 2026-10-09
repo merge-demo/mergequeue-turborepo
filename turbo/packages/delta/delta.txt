@@ -1929,7 +1929,7 @@ dissilience 1
 defenceless
 demireps
 dallyman
-debtee
+debtee 1
 denudated
 debtless
 dwines
