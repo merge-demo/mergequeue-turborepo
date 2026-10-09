@@ -14689,7 +14689,7 @@ bibliomancy
 balustrade
 balletically
 bogle
-bathic
+bathic 1
 broilingly
 buffets
 babion
