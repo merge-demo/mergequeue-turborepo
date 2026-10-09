@@ -9729,7 +9729,7 @@ fraicheur
 folklorists
 frenzy
 foredays
-fabrics
+fabrics 1
 figurability
 fridges
 frequenters
