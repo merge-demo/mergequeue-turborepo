@@ -12188,7 +12188,7 @@ depel
 deride
 discoursiveness 1
 deliquesce
-dwarfish
+dwarfish 1
 dovecots
 disfrocking
 dysfunctional 1
