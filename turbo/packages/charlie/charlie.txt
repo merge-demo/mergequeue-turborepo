@@ -15756,7 +15756,7 @@ clearance
 clearances
 commensurately
 clearedness
-clearheadedly
+clearheadedly 1
 cardcases
 crawly
 cataclysmist
