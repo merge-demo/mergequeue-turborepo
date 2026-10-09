@@ -3284,7 +3284,7 @@ glancer
 ganister 1
 glycosin
 gelotoscopy
-glent
+glent 1
 grabbable
 glosseme
 gula
