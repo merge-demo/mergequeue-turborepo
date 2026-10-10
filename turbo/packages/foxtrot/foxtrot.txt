@@ -11236,7 +11236,7 @@ farsang
 febres
 furzed
 funiculars
-funiform
+funiform 1
 fount 1
 fustians 2
 flashcubes
