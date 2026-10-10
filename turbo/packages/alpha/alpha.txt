@@ -15762,7 +15762,7 @@ agonistical 1
 anvilled
 aviolite
 amidic
-antiphylloxeric
+antiphylloxeric 1
 acarpellous
 arist
 anorexic
