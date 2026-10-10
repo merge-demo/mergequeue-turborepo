@@ -40,7 +40,7 @@ fellfare 1
 fabricators
 fabricature
 figurette
-flatuosity
+flatuosity 1
 fabroniaceae
 fruited
 floorboard
