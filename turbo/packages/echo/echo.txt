@@ -9700,7 +9700,7 @@ extima
 edulcorated
 easing
 elegiast
-escry
+escry 1
 eventuated
 emblematizing
 enjoins
