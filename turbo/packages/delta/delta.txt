@@ -11762,7 +11762,7 @@ debellate
 deoxidising
 discrested 1
 dowering
-default
+default 1
 dined
 dermutation
 discretional
