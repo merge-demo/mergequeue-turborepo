@@ -8078,7 +8078,7 @@ barocco
 bodle
 bleakish
 babble
-bicolorous
+bicolorous 1
 betrayal
 bicolors
 beadleism
