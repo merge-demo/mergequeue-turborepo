@@ -9014,7 +9014,7 @@ granulomatous
 gyrates
 girasole
 girlism
-graphic
+graphic 1
 gryllos
 gaffle
 gimcracky 1
