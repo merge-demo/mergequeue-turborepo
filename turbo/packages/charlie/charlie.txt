@@ -21155,7 +21155,7 @@ couplets
 crash
 conceders
 coenobite
-concedes
+concedes 1
 calchaquian
 colubriform
 crampfishes
