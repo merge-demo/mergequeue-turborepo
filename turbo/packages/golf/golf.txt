@@ -10224,7 +10224,7 @@ gainsays
 glaucous
 gowpin 1
 gweduck
-gobbet
+gobbet 1
 gunless
 guillotinist
 geryonid
