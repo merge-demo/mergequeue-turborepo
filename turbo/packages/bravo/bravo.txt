@@ -3971,7 +3971,7 @@ bisected
 bunch
 bristols
 behelp
-bdellovibrio
+bdellovibrio 1
 butanes 1
 bea
 beautification

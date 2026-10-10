@@ -1717,7 +1717,7 @@ gastriloquous
 glike
 gunsmiths
 guldens
-globeflower
+globeflower 1
 garotting
 gastronosus
 gnarrs
