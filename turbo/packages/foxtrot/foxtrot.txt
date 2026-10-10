@@ -4075,7 +4075,7 @@ fallopian
 frankest
 filelike 1
 frenuna
-frondescing
+frondescing 1
 fianced 1
 federation
 fakers
