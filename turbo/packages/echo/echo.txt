@@ -10985,7 +10985,7 @@ epiclastic
 electrodialitically
 editorializations
 extund 1
-endomorph
+endomorph 1
 expostulatingly
 encreel 1
 exceptiveness
