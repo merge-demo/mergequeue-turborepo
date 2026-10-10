@@ -5670,7 +5670,7 @@ dernly
 depolarize
 disuniters
 dextrorsal
-decouple
+decouple 1
 downstroke
 diaphany 1
 downloads
