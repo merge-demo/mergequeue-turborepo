@@ -6864,7 +6864,7 @@ despairful 1
 doctrinism
 diplegia
 dehydrogenating
-despairfully
+despairfully 1
 delphinid
 deaconize
 despairing
