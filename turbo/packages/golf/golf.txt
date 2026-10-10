@@ -6981,7 +6981,7 @@ goondie
 gamostely
 gavel
 gummer
-goofily
+goofily 1
 gamelote 1
 gladioli
 gentil
