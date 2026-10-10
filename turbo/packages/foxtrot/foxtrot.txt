@@ -10168,7 +10168,7 @@ fabricant
 falcidian
 foresing
 freycinetia
-funebrial
+funebrial 1
 flaxen
 farmwife
 foreannouncement
