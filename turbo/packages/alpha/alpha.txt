@@ -23859,7 +23859,7 @@ anguilliform
 autecism
 autecology
 arrach
-artic
+artic 1
 adaptiveness
 aaa
 abrocoma
