@@ -4544,7 +4544,7 @@ gallovidian
 gambs 1
 gravegarth 1
 glossoid
-gleby
+gleby 1
 globulose
 girlishly 1
 glink
