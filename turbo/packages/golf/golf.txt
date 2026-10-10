@@ -1999,7 +1999,7 @@ gaurian
 gasting
 gaurs
 gravitative
-glamourous
+glamourous 1
 gaussage
 girth 1
 gageite
