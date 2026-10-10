@@ -10972,7 +10972,7 @@ ecologically
 ennuye 1
 electrokinematics
 excavates
-epibaterium
+epibaterium 1
 eurybenthic
 endeared
 etacist
