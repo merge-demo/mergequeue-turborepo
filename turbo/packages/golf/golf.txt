@@ -10507,7 +10507,7 @@ gimmicks 1
 goalee
 gypsous
 garn
-gundie 1
+gundie 2
 graspingness
 galipots
 goladar
