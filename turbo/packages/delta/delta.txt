@@ -4053,7 +4053,7 @@ delimitating
 delimitation
 deviational 1
 displumed
-departments
+departments 1
 diplomyelia
 dishonourably
 dorsicolumn
