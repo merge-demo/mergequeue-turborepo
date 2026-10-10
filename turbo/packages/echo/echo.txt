@@ -12341,7 +12341,7 @@ exertions
 enurny
 eseptate
 equilobate 2
-eupepsies
+eupepsies 1
 endotracheal
 edgeling
 evase
