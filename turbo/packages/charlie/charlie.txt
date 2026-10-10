@@ -12240,7 +12240,7 @@ carrytale
 coynesses
 carpentered
 catnips
-circumconic
+circumconic 1
 compensative
 christed
 civilize
