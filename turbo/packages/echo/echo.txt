@@ -14176,7 +14176,7 @@ ethane
 euspongia
 equalled
 exsec
-exulcerating
+exulcerating 1
 eviction
 exultingly
 eisteddfod
