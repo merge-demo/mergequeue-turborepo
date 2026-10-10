@@ -3708,7 +3708,7 @@ fittiness
 finales
 furling
 fillips
-flics
+flics 1
 flexibilty 1
 fecundates
 frangibility 1
