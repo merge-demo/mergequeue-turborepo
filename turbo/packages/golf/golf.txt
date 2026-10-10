@@ -10595,7 +10595,7 @@ garbanzo
 gallbladder
 glossmeter
 gadidae
-gourmetism 1
+gourmetism 2
 gillion
 glandaceous
 gowned
