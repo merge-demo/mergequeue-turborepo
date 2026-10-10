@@ -5897,7 +5897,7 @@ chancellorism 1
 cath
 cannibalic
 catha
-capillatus
+capillatus 1
 cathay
 cathayan
 cathar
