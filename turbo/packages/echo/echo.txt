@@ -13861,7 +13861,7 @@ equipotentiality
 endotropic
 eelpot
 equivocation
-exhibitory
+exhibitory 1
 equimultiple
 evaporize
 ethionic

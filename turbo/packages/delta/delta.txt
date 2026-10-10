@@ -14782,7 +14782,7 @@ disaccharidase
 docket
 devouring
 doggie
-diverticulitis
+diverticulitis 1
 diglot
 deviating
 dodd 1

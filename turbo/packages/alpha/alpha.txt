@@ -1385,7 +1385,7 @@ azygospore
 armonica
 anophthalmos
 allotriodontia 1
-afterking
+afterking 1
 avestruz
 actinomycotic
 acceptilated
@@ -13798,7 +13798,7 @@ anoplura
 amnic 1
 assbaa
 agrah
-anopubic
+anopubic 1
 arless
 anorchi
 anorchia
