@@ -2835,7 +2835,7 @@ foresails
 fungid 1
 familistery
 fortuned
-fettered
+fettered 1
 frowstiness
 foozle
 flouter
