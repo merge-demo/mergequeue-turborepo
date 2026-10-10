@@ -8532,7 +8532,7 @@ ferules
 fabricable
 footrope
 favourless
-foxhole
+foxhole 1
 fornication
 forest
 feigner
