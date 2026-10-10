@@ -2850,7 +2850,7 @@ canonising
 canonist
 canonistical
 canonized 1
-commutability
+commutability 1
 carboxyhemoglobin
 cetorhinoid
 canonizer
