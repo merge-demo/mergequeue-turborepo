@@ -12394,7 +12394,7 @@ chromes
 chromesthesia
 cleverer
 crabbers
-chromhidrosis
+chromhidrosis 1
 chromy
 cystostomy
 chromidae
