@@ -1457,7 +1457,7 @@ futhork
 foothil
 familiarise
 floorwalkers
-fringing
+fringing 1
 fadmongering
 fellatios
 fetched
