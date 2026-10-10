@@ -9093,7 +9093,7 @@ equipollent
 epicolic
 euryalae
 electroencephalographic
-endearance
+endearance 1
 encyclopedias
 ethinyl
 exsection

@@ -9132,7 +9132,7 @@ fraena
 faroff
 frostproofing
 fudgy
-fulfulde
+fulfulde 1
 forward
 filices
 filenames
