@@ -6139,7 +6139,7 @@ describably
 demising
 daredevil
 ditted
-decemvir
+decemvir 1
 deadwort
 derivativeness
 dacoit
