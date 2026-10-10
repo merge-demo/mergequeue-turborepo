@@ -1906,7 +1906,7 @@ deodorant
 debriefing
 dowser
 didus
-declassicize
+declassicize 1
 dissenterism
 debriefings
 debris
