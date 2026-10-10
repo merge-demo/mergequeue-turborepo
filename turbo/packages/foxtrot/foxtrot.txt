@@ -2978,7 +2978,7 @@ featest
 fiar
 freeloaders
 fricasseeing
-fruticant
+fruticant 1
 fiaroblast
 foreordained
 flirts
