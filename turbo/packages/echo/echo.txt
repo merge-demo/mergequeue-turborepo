@@ -6706,7 +6706,7 @@ engraphia
 eloining
 exstill
 entete
-eurytherm
+eurytherm 1
 epistrophy
 exungulate
 effume
