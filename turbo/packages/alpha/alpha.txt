@@ -5785,7 +5785,7 @@ apickaback
 ancestor
 agate
 agates
-autoturning
+autoturning 1
 advocate
 appal
 aquatinter
