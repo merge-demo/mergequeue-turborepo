@@ -2047,7 +2047,7 @@ gibbous
 gerocomia
 gavelocks
 gattine
-gasometrically
+gasometrically 1
 goaf
 gallied
 glime
