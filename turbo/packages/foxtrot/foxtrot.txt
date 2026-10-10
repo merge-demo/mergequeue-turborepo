@@ -4158,7 +4158,7 @@ flunkeydom
 frottola
 fumago
 forecloses 1
-flattery
+flattery 1
 fundal
 franchisor
 filaria 1
