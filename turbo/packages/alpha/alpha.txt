@@ -10045,7 +10045,7 @@ andorite
 anthracemia
 ambidextral 1
 accusation
-andrenid
+andrenid 1
 arctisca
 avidya
 ambidextrously
