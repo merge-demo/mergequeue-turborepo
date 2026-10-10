@@ -2952,7 +2952,7 @@ gastrospasm
 gastroscopic
 ganoblast
 gooseflower 1
-gunks
+gunks 1
 guardingly
 gusts
 gaddang
