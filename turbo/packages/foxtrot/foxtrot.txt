@@ -3343,7 +3343,7 @@ forgetive
 firmisternia
 funicle
 fieldish 1
-funereality
+funereality 1
 flatfoot
 fattener
 fossores
