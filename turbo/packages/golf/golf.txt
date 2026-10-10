@@ -7336,7 +7336,7 @@ gomarite
 gaura
 germanous
 gleamier
-gamotropism
+gamotropism 1
 grumps
 globated
 gramas
