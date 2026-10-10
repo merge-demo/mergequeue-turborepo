@@ -12372,7 +12372,7 @@ anders
 autoirrigation
 adipocerite
 afterfall
-americanism
+americanism 1
 alkenna
 androclinia
 apolytikion
