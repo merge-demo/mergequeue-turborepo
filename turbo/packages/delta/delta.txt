@@ -8912,7 +8912,7 @@ dumpishness
 damascene
 deceivable
 deathblows 1
-dichotically
+dichotically 1
 disklike
 dirigible
 denaturalization
