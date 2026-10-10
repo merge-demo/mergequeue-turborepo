@@ -25360,7 +25360,7 @@ cornering
 crang
 cornerstone
 cornet
-cornetcy
+cornetcy 1
 cornetcies
 cornetfishes
 chunkier
