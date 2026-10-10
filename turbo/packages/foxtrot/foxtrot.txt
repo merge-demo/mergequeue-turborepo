@@ -469,7 +469,7 @@ fundulus
 ferroprussiate
 fimbricate
 feateous
-fumble
+fumble 1
 foreclosures
 fleetful
 fuseau
