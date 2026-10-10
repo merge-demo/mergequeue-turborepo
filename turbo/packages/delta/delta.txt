@@ -6840,7 +6840,7 @@ doffers
 drabber
 diabasic
 desolatingly
-duniewassal
+duniewassal 1
 desolation
 darkness
 dryhouse
