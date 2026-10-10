@@ -9396,7 +9396,7 @@ demilitarizing
 diamin
 diffusible
 demagoguism
-diffusibleness
+diffusibleness 1
 diffusing
 desray
 deuteranomalous
