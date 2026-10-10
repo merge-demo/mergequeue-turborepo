@@ -13997,7 +13997,7 @@ eisegetic
 encoignures
 embryo
 ecchymosis
-emboitement
+emboitement 1
 euler
 epitoniidae
 embargoist
