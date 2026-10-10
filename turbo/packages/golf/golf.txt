@@ -8610,7 +8610,7 @@ gaslight
 greened
 gradal
 greyish 1
-gemsbok
+gemsbok 1
 guttered
 grip
 ganjas
