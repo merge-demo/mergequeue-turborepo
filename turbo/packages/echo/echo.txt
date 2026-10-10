@@ -2957,7 +2957,7 @@ endothrix
 eliminant
 ennoblers
 ethid
-externalising
+externalising 1
 elicitors
 eloined
 endonuclear
