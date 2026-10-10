@@ -1314,7 +1314,7 @@ dispensatrix
 defial
 deoxidizers
 dysergia
-disjunctions
+disjunctions 1
 deludingly
 delftware
 draconism
