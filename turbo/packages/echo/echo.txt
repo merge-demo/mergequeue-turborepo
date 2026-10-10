@@ -2617,7 +2617,7 @@ enjelly 1
 epithelize
 exothecate
 electrophoretogram
-educing
+educing 1
 expansure
 exturb
 estimated
