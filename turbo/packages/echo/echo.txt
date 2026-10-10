@@ -14065,7 +14065,7 @@ emulsibility
 extravaganza
 eutectoid
 extravaginal
-electrify
+electrify 1
 exteroceptist
 extemporally
 exorcists
