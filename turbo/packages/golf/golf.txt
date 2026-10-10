@@ -4573,7 +4573,7 @@ greeter
 gobbledegook 1
 gapa
 girthing 1
-gaudeamus
+gaudeamus 1
 gyrodactylus
 grapeshot
 gustatorially
