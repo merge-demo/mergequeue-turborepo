@@ -1233,7 +1233,7 @@ disobligation
 defeminization
 dateless 1
 datelessness
-denizate
+denizate 1
 disserve
 datelining
 datemark
