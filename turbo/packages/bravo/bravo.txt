@@ -6040,7 +6040,7 @@ bilabials
 bribeability
 bruises
 bitterbark
-bemean
+bemean 1
 biphenyls
 bemete
 bimillennia
