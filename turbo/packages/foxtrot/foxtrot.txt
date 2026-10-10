@@ -6924,7 +6924,7 @@ fostership
 flusherman
 fee
 follily
-feeblemindedness
+feeblemindedness 1
 fungivorous
 fadeless
 fendy
