@@ -9780,7 +9780,7 @@ eachwhere
 entrepot
 exfoliated
 equalisation
-ejectamenta
+ejectamenta 1
 extenuator 1
 envermeil
 emplanement
