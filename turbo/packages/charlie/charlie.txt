@@ -17088,7 +17088,7 @@ ctenophoric
 copiable
 coadjudicator
 coadjutant
-campement
+campement 1
 covotary
 commonweal 1
 confluent
