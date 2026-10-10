@@ -5904,7 +5904,7 @@ decimetres 1
 doubledamn
 decimation
 deckswabber
-decuples
+decuples 1
 dragons
 diopside
 delictus
