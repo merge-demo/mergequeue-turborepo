@@ -8116,7 +8116,7 @@ disventure 1
 deepener
 diacaustic
 diamminonitrate
-diapasons
+diapasons 1
 dipsetic
 dakotan
 divaricated
