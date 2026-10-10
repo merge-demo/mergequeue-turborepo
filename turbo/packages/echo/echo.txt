@@ -1363,7 +1363,7 @@ ethylated
 enopla
 eucalyptol
 echelon
-examinative
+examinative 1
 efficacy
 ethene
 exhortation
