@@ -9434,7 +9434,7 @@ glial
 glorified
 gauntness
 grassiest
-gluish
+gluish 1
 guaharibo
 guaranine
 gayatri
