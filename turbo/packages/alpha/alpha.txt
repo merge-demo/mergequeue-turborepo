@@ -14843,7 +14843,7 @@ anticyclic
 arrondi
 alife
 ambrosias
-anticyclical
+anticyclical 1
 apocodeine
 amorously
 anticyclogenesis
