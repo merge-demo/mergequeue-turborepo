@@ -3082,7 +3082,7 @@ gashliness
 ghorkhar 1
 geat 1
 gynethusia
-greegree
+greegree 1
 gunpoint
 guardroom
 generally
