@@ -6463,7 +6463,7 @@ dialectic
 dynel
 descension
 dereligion
-descensionist
+descensionist 1
 descensive
 donor
 drest
