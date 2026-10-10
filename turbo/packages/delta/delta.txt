@@ -14615,7 +14615,7 @@ developmentary 1
 decupling
 divorcive
 dietal
-devs
+devs 1
 dietarily
 disillusionary
 diarrheas
