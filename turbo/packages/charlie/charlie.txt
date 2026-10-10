@@ -10218,7 +10218,7 @@ curacao
 chiastoneural
 chiastoneury
 chalone
-cubanize
+cubanize 1
 cyclistic
 chiastoneurous
 caracore
@@ -18960,7 +18960,7 @@ culbut
 colleaguing
 collect
 certify
-collected
+collected 1
 cranberry
 ctenoidean
 constables
