@@ -5307,7 +5307,7 @@ endosclerite
 extrahepatic
 eurybathic 1
 eucopepoda
-endogamy
+endogamy 1
 excudate
 endoscopes
 equivocalities
