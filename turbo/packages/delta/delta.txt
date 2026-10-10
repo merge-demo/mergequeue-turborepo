@@ -6080,7 +6080,7 @@ derecho
 dereferenced
 designees
 dereferencing
-disprove
+disprove 1
 deregulated
 dogface
 dodonean 1
