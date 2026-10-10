@@ -10955,7 +10955,7 @@ fulminurate
 fulness
 fess
 fulnesses
-flanconade
+flanconade 1
 forgetness
 floristic
 furfuran
