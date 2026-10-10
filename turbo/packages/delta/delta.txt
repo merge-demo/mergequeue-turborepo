@@ -10415,7 +10415,7 @@ disinterring
 diphenyls
 dispowder
 doglegging
-disfigurative
+disfigurative 1
 deticking
 dolittle
 diphenoxylate 1
