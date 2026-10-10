@@ -10494,7 +10494,7 @@ boyards
 barytostrontianite
 blaoner
 blenk
-burinist
+burinist 1
 belibeled 1
 backyarder
 blares
