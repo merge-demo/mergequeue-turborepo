@@ -5243,7 +5243,7 @@ foremilks
 flutemouth
 falangist
 faveoli
-fitful
+fitful 1
 fierceness
 faugh
 flavorsome
