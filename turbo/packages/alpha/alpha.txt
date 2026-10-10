@@ -1108,7 +1108,7 @@ alablaster
 asymptotic
 abutilon
 apomorphine
-abutment
+abutment 1
 articulant
 accusal
 assertible
