@@ -6456,7 +6456,7 @@ determinate
 dactylogram
 disanney
 dynamited
-doxological
+doxological 1
 descends
 deviability
 dialectic
