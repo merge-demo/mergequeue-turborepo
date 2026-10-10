@@ -2875,7 +2875,7 @@ genuflex
 glyptal
 gynaeceum
 groggier 1
-geal
+geal 1
 gallerylike
 gigmanhood
 gravediggers
