@@ -10582,7 +10582,7 @@ expectance
 euchrome
 euclideanism
 euclidian
-epicoeliac
+epicoeliac 1
 exhalant
 eucone
 electrotechnic
