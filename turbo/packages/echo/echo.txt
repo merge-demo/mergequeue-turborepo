@@ -1138,7 +1138,7 @@ eupatrid
 endpiece 1
 easefulness
 editorship
-editorships
+editorships 1
 elasticness
 encrown
 environ
