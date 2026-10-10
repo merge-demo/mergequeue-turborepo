@@ -7461,7 +7461,7 @@ groundwater
 gazing
 gulpy 1
 gladiatory
-goura
+goura 1
 glyphography
 gonad 1
 gharries
