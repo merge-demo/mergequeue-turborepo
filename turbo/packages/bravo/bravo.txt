@@ -10926,7 +10926,7 @@ bribetaker
 backhands
 blimbing
 bouzouki
-bangtails
+bangtails 1
 britishers
 beelzebubian
 bribegiver
