@@ -24027,7 +24027,7 @@ affeeble
 anadicrotic
 autodepolymerization
 autodiagnostic
-artemas
+artemas 1
 aviador
 alutaceous
 aardvark
