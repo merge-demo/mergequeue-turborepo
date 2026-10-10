@@ -19437,7 +19437,7 @@ colotomies
 cockroach
 configurational
 colourably
-cometical
+cometical 1
 colouration
 colourational
 comagistracy
