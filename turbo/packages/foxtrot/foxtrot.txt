@@ -2928,7 +2928,7 @@ forworden
 flicks
 fluvialist
 foldage
-fingerparted
+fingerparted 1
 festivous
 finches
 floodlike 1
