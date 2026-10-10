@@ -31320,7 +31320,7 @@ curdly
 curdoo
 cured
 clarinos
-cornix
+cornix 1
 cureless
 corypha
 curelessness
