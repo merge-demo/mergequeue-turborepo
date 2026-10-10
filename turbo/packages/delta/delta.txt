@@ -15045,7 +15045,7 @@ decnet
 drysalteries 1
 doggers
 dilogarithm
-dentonasal
+dentonasal 1
 democratized
 doggy
 doughboy
