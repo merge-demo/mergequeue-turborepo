@@ -434,7 +434,7 @@ asarta
 annihilate
 abigei 1
 aridness
-aureus
+aureus 1
 anomiidae 1
 abying
 abilao
