@@ -7449,7 +7449,7 @@ fillip
 fogou
 forgivably
 freenesses
-foreassurance
+foreassurance 1
 forecabin
 feedingstuff
 forebay
