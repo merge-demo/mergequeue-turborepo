@@ -666,7 +666,7 @@ caesuric
 caf
 cinefilm
 cafardise
-charka
+charka 1
 casuarinaceous
 cryptanalytic
 cafetal
