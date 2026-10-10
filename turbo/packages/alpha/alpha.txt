@@ -18726,7 +18726,7 @@ archchronicler
 avowant
 asteroxylaceae
 amnia
-archconfraternity
+archconfraternity 1
 agalite
 anticonventionally
 archcritic
