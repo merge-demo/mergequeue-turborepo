@@ -14174,7 +14174,7 @@ dhobi 1
 defective
 demandingness
 dona
-decedent
+decedent 1
 disulphate
 dislocatedly
 discretion
