@@ -2695,7 +2695,7 @@ fervor
 flanks
 flamenco
 frondous
-fruitive
+fruitive 1
 funnier
 figpecker
 fantasts
