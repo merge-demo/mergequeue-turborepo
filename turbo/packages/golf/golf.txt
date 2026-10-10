@@ -2212,7 +2212,7 @@ guarantying
 guberniya
 ganophyllite
 glucolipide
-gossipiness
+gossipiness 1
 gutturalised
 glucosic
 genghis
