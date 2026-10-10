@@ -8494,7 +8494,7 @@ dianite
 dianoetically
 decanormal
 dianoia
-dwarflike
+dwarflike 1
 doings
 duvetines
 diffided

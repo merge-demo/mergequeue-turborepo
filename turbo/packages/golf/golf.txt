@@ -2219,7 +2219,7 @@ genghis
 getters
 gravific
 granth
-grotty
+grotty 1
 giraffoid
 geoidal
 garmented 1
