@@ -8738,7 +8738,7 @@ equivalent
 ensiles
 equivaluer
 exposited
-evulgation
+evulgation 1
 extempore
 effs
 emmergoose
