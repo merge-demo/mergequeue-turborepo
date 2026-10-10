@@ -5583,7 +5583,7 @@ fossilation
 formulary 1
 fishtailing
 fuming
-fmt
+fmt 1
 flyer
 forfar
 fucuses
