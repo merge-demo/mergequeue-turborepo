@@ -884,7 +884,7 @@ freshet
 falconets
 forzando
 fireworks 1
-folliculose
+folliculose 1
 footworks
 florivorous
 feverfews
