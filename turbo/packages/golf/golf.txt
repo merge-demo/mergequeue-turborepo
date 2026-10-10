@@ -85,7 +85,7 @@ glowing
 graticule
 geotical
 gay 1
-grimful
+grimful 1
 gabunese
 governeress
 goop
