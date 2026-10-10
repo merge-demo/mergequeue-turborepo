@@ -13527,7 +13527,7 @@ erected
 electrocauterization 1
 elbert
 eohippuses
-earcap
+earcap 1
 evensongs
 epitimesis
 epicranial

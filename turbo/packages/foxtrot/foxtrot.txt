@@ -9117,7 +9117,7 @@ figulines
 fossilization
 filmize
 fashionmonging
-fanaticised
+fanaticised 1
 fenagles
 farrieries 1
 foreteller
