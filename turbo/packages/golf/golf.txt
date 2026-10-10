@@ -6357,7 +6357,7 @@ gasproof
 guff
 glassworks 1
 gonotyl
-gracer 1
+gracer 2
 gasterozooid
 geoponic
 goshenite
