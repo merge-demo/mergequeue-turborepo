@@ -1316,7 +1316,7 @@ groomers
 gas 1
 galilee 1
 gorging
-gargler
+gargler 1
 genearch
 greeting
 gargoyley
