@@ -4746,7 +4746,7 @@ evanishing
 embarrass
 eyren
 existent
-exodos
+exodos 1
 episcopacy
 estranging
 endosmosic
