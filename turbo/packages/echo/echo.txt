@@ -8399,7 +8399,7 @@ endodermic 1
 enchains 1
 enstamp 1
 extents
-emancipatress
+emancipatress 1
 epizoic
 eudaemonia
 ensigncy
