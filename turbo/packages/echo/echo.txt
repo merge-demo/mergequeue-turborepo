@@ -1201,7 +1201,7 @@ excommune
 endogamic
 eatche
 ephesians
-educatress
+educatress 1
 emetical
 extranuclear
 embroscopic
