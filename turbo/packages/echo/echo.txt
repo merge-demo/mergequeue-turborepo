@@ -12821,7 +12821,7 @@ embryology
 epicystotomy
 equine
 epipactis 1
-emajagua
+emajagua 1
 exoterical
 exotericism
 extenuated
