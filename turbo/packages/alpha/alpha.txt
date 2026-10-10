@@ -24911,7 +24911,7 @@ awake
 awakened
 apeak
 amminolysis
-algometer
+algometer 1
 alopekai
 awakeners
 agravic
