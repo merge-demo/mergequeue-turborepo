@@ -15156,7 +15156,7 @@ ballies
 buccinae
 baronduki
 beqwete
-boar
+boar 1
 bogier
 baw
 baldicoot
