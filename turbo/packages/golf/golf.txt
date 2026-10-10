@@ -791,7 +791,7 @@ gluck
 gurrah
 grievances
 gutturize
-galvanothermometer
+galvanothermometer 1
 greenhorns
 galliformes
 ginneries 1
