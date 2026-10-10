@@ -2106,7 +2106,7 @@ corrober
 cytophysics
 counterassertion
 ceilingward
-chieftaincies
+chieftaincies 1
 circumnuclear
 captivator
 campanular
@@ -6637,7 +6637,7 @@ corticiform
 cedrus
 crioceris
 cardiosymphysis
-cedula
+cedula 1
 cee
 ceibas
 coracomorphic 1
@@ -10218,7 +10218,7 @@ curacao
 chiastoneural
 chiastoneury
 chalone
-cubanize
+cubanize 1
 cyclistic
 chiastoneurous
 caracore
