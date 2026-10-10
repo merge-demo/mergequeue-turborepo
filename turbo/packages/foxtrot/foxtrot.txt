@@ -1069,7 +1069,7 @@ fiberboard 1
 fids 1
 frontons
 farrage
-furziest
+furziest 1
 farrago
 franchisement
 frizer
