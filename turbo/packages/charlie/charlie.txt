@@ -2280,7 +2280,7 @@ canafistula 1
 canafistulo
 chlorapatite
 concertgoer
-canaglia
+canaglia 1
 canaigre
 canaille
 corinthianize
