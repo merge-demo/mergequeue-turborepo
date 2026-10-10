@@ -10532,7 +10532,7 @@ gudesakes
 gentamicin 1
 gunge
 germinability
-gunjah
+gunjah 1
 gaucheries 1
 genisaro
 gard
