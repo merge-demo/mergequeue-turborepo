@@ -20036,7 +20036,7 @@ arolia 1
 artus
 acervatim
 azonal
-auspices
+auspices 1
 abominating
 aculeate
 archaeohippus
