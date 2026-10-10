@@ -319,7 +319,7 @@ fagaceae
 falanaka
 firesafe
 fessed
-fustoc
+fustoc 1
 fittage
 fewnesses
 fornicatory
