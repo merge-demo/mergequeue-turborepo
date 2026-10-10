@@ -26990,7 +26990,7 @@ counterorder
 cranium
 concordist
 counterpane
-chiropractic
+chiropractic 1
 counterinsurgency
 critteria 1
 cartilaginean
