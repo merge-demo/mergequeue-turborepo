@@ -24668,7 +24668,7 @@ actinidia
 anastrophia
 archimage
 autostylic
-averagely
+averagely 1
 averageness
 averaging
 ackeys

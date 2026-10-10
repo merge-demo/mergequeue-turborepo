@@ -4252,7 +4252,7 @@ elegancy
 eumeristic
 expolish
 expendible
-endoglobular
+endoglobular 1
 expressways
 equidiagonal
 escutcheons
