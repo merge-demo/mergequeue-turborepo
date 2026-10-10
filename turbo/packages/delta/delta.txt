@@ -5693,7 +5693,7 @@ donia
 dredged
 drainageway
 dreck
-depones
+depones 1
 distributee
 doodler
 dewormed
