@@ -7367,7 +7367,7 @@ ennobler
 eelblennies 1
 epeirogenically
 erythrina
-exuviate
+exuviate 1
 exonship
 epithetical 1
 extollment 1
