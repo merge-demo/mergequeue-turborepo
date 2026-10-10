@@ -1340,7 +1340,7 @@ balatron
 benzaldiphenyl
 boser
 bermudian
-bernoullian
+bernoullian 1
 bingy
 burelage
 btu
