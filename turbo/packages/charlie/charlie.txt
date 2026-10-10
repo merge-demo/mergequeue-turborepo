@@ -2077,7 +2077,7 @@ campaigns 2
 colostric
 campana
 campane
-campanella
+campanella 1
 coadjuvancy
 campania
 cecils
