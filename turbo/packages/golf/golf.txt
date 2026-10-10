@@ -10162,7 +10162,7 @@ gigglement 1
 gaydiang
 guisard
 gemlich
-goggly
+goggly 1
 grazioso
 guato
 genres
