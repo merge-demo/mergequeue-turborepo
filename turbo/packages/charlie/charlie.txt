@@ -16367,7 +16367,7 @@ cantiness
 clitoromaniacal
 clarifiable
 cephalotribe
-clitter
+clitter 1
 criniparous
 conditivia
 cochleare
