@@ -4660,7 +4660,7 @@ guanacos
 gallinula 1
 gynodioecism
 gentilities
-gumshoe
+gumshoe 1
 glucosuria
 grudgingly
 garnisheeing
