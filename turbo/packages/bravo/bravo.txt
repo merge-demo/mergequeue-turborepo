@@ -5188,7 +5188,7 @@ bashment
 bazookas
 beroidae
 befoulment
-begall
+begall 1
 biacuminate
 baronne
 befraught
