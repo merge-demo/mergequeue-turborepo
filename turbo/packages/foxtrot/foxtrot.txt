@@ -8709,7 +8709,7 @@ flogged
 followership
 forester
 foeless
-feetage
+feetage 1
 furfuralcohol
 fossule
 fiddlers
