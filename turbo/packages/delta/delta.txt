@@ -16040,7 +16040,7 @@ doubloon
 doublures 1
 doab
 diaphote
-doaty
+doaty 1
 dopinesses
 doubters
 debagged
