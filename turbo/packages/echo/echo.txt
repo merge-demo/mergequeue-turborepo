@@ -5523,7 +5523,7 @@ exorcising
 experimenting
 evertors
 extraocular
-exoterics
+exoterics 1
 espiritual
 enfeebles
 enfeebling
