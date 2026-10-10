@@ -11241,7 +11241,7 @@ fount 1
 fustians 2
 flashcubes
 fabricative
-flexuosities
+flexuosities 1
 ferned
 flemished
 fluorescing
