@@ -11372,7 +11372,7 @@ distrouser
 disciplinatory
 datchas
 disciples
-discipling
+discipling 1
 disciplining
 depopulator
 disyllabism
