@@ -25830,7 +25830,7 @@ cryptonym
 corrup
 carolinian
 chelinga
-compellative
+compellative 1
 corruptedness
 cardiographs
 convolutive
