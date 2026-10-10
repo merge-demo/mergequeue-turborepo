@@ -768,7 +768,7 @@ gerim
 gunbearer 1
 gerkin
 galvanopuncture
-goutwort
+goutwort 1
 groupings
 gladsomer
 gassendist
