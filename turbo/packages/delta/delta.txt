@@ -6716,7 +6716,7 @@ documentize
 delate
 deceased 1
 desilt
-disregular
+disregular 1
 deerweeds
 dihedral
 depraving
