@@ -7967,7 +7967,7 @@ fumeless
 forespeaking
 fikh
 flavorer
-feuter
+feuter 1
 fletton
 fissipedia
 foredeep
