@@ -13117,7 +13117,7 @@ ecostate
 excruciation
 engages
 eulogize
-endosmometer
+endosmometer 1
 enslaver
 etymologists
 exhalation 1
