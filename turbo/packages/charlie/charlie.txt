@@ -1040,7 +1040,7 @@ calbroben
 calcaire
 calcanea
 chimpanzee
-chilopoda
+chilopoda 1
 calcanean
 calcaneoplantar
 countersale
