@@ -12021,7 +12021,7 @@ cyclops
 choroti
 chorous
 chort
-chortle
+chortle 1
 chondrodite
 chortlers
 cheating
