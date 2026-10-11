@@ -3313,7 +3313,7 @@ dentils
 doles
 dictative
 defis
-deflagrable
+deflagrable 1
 desophistication
 dialling
 decolor
