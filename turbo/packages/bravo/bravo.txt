@@ -2498,7 +2498,7 @@ bigram
 baresthesia
 beworming
 bottom
-busies
+busies 1
 bifunctional
 benzoiodohydrin
 bechalked
