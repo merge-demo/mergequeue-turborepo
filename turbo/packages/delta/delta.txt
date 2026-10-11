@@ -2724,7 +2724,7 @@ dematerialization
 decorticator
 determinants 1
 dolichocephalous
-decorticosis
+decorticosis 1
 doddle
 disoperation
 decortization
