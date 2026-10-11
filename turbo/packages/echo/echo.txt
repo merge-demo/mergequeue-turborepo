@@ -1722,7 +1722,7 @@ epileptic
 evang
 eyeground
 epornitically
-encephaloid
+encephaloid 1
 enginery 1
 exasper
 exclaimers
