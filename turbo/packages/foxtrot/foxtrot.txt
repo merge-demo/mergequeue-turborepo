@@ -8385,7 +8385,7 @@ freshmanic
 fierier 2
 flushers
 fatheadedly
-fribby
+fribby 1
 fickler
 formaliser
 fozinesses
