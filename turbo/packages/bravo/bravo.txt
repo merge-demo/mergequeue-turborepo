@@ -5389,7 +5389,7 @@ besoothement
 buyable
 bromobenzene
 barodynamic
-barbarisation 1
+barbarisation 2
 burly
 broomshank
 birne
