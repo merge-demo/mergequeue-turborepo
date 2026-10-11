@@ -16327,7 +16327,7 @@ candors
 connectives 1
 catakinetomer
 clysters
-centuried
+centuried 1
 coevally
 circumvolute
 clistothcia
