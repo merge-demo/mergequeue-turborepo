@@ -16683,7 +16683,7 @@ assails
 albines
 alcaides
 aphacic
-allotypically
+allotypically 1
 accompaniment
 allowedly
 afterswell
