@@ -10174,7 +10174,7 @@ gastropathy
 giglots
 granulated
 governable
-gloriana
+gloriana 1
 genethliac
 grovelings
 guido
