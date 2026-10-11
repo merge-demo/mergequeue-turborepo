@@ -1264,7 +1264,7 @@ barrowful
 bulleting
 berascals
 bendy 1
-barleys
+barleys 1
 bottomer
 brimmed
 bromochlorophenol
