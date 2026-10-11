@@ -9458,7 +9458,7 @@ administrations
 anesthetics
 abyssobenthonic
 aitesis
-amasty
+amasty 1
 altar
 altarage
 allodies
