@@ -8437,7 +8437,7 @@ elephantry 1
 eponym
 etiolate
 eponymus 1
-ensand
+ensand 1
 email
 epicier
 emmenic
