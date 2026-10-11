@@ -8037,7 +8037,7 @@ expound
 entertaining
 embezzlements
 enteroscope
-enray
+enray 1
 ealdormen 1
 epiphanous 1
 expiator
