@@ -9342,7 +9342,7 @@ diplopia
 differently 1
 dinarchies
 differer
-differs
+differs 1
 dextrorsely
 duncify
 deprive
