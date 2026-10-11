@@ -9113,7 +9113,7 @@ amidoacetal
 anaeroplastic
 alveus
 allround
-alls
+alls 1
 adolesce
 artabe
 appeasive
