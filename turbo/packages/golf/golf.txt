@@ -978,7 +978,7 @@ glomeruli
 graptolite
 glist
 genomic
-gamostele
+gamostele 1
 glottogony
 genoise
 genetically
