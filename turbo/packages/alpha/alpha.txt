@@ -9736,7 +9736,7 @@ alveolariform
 alveolate
 alveolation
 alveole
-alveolectomy
+alveolectomy 1
 alveoli
 alveoliform
 aduncated 1
