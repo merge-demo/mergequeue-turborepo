@@ -8840,7 +8840,7 @@ arthropyosis
 anoesia
 allobar
 allobaric
-ammonolyses
+ammonolyses 1
 adolescency 1
 anthophore
 allobrogical
