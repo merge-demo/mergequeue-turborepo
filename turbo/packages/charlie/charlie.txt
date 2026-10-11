@@ -3997,7 +3997,7 @@ carcinolysin
 cycadiform
 chinotoxine
 carcinological
-carbocyclic
+carbocyclic 1
 curtesy
 carcinomata
 corroborees

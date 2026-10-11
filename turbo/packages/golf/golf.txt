@@ -10284,7 +10284,7 @@ grotesquery
 grecque
 geoform
 gourmet
-gullage
+gullage 1
 garblings
 guitarist
 gentlewomanish 1
