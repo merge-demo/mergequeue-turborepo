@@ -6114,7 +6114,7 @@ disbosomed
 deady
 doppler 1
 deriders 1
-distribute
+distribute 1
 detractress
 danelaw
 dittograph
