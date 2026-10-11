@@ -11012,7 +11012,7 @@ bedabble 1
 bael
 bellhop
 batement
-blinkingly
+blinkingly 1
 blinter
 blocky 1
 brassage
