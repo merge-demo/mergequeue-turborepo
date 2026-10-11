@@ -14078,7 +14078,7 @@ distributary
 distributaries
 designative
 doocot 1
-dolichocephalic
+dolichocephalic 1
 doggrel
 distributer 1
 disacknowledgements
