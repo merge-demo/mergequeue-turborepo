@@ -10705,7 +10705,7 @@ fg
 frecked 1
 foreset
 foresheets
-fleuretty
+fleuretty 1
 fortuneless 1
 fringilla
 fecks
