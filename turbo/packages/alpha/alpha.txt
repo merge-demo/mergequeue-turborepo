@@ -23322,7 +23322,7 @@ apotheosis
 auca
 assayable
 anisocratic
-atrepsy
+atrepsy 1
 axstone 1
 achaenocarp
 autota
