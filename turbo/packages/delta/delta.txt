@@ -3280,7 +3280,7 @@ dartrous
 danknesses
 definish
 decolored
-dc
+dc 1
 decapitalization
 definite
 definitely
