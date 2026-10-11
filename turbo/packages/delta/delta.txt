@@ -682,7 +682,7 @@ dampness
 dextrosuria
 digestory
 deans
-despairs
+despairs 1
 dampproofing
 doumaist
 distend
