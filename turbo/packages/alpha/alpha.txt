@@ -9983,7 +9983,7 @@ antineoplastic
 amazer
 accented
 antihelixes
-antizymotic
+antizymotic 1
 allovers 1
 alongside 1
 amazulu
