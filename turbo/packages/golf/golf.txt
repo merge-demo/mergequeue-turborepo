@@ -7424,7 +7424,7 @@ gamotropic
 grewt
 glutamic
 glovemaking
-garlopa
+garlopa 1
 goujat
 grampuses
 garrulous
