@@ -9216,7 +9216,7 @@ frontispieced
 fraktur
 frizer
 fasciolet
-fresnel 1
+fresnel 2
 flavoury
 foresentence
 fetishist
