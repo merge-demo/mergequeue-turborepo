@@ -7425,7 +7425,7 @@ employes
 elenctic
 escapers
 entanglement
-ebulliate 1
+ebulliate 2
 endogenously
 extraperiodic
 exercise
