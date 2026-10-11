@@ -7872,7 +7872,7 @@ eireannach
 extincts 1
 executioner
 epihyal
-exogonium
+exogonium 1
 entogastric
 egis 1
 excitor
