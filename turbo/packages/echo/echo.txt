@@ -8192,7 +8192,7 @@ episodically
 eviscerates
 exists
 exuded
-expansiveness
+expansiveness 1
 enchylematous
 empirics
 exogeny
