@@ -577,7 +577,7 @@ eurypelma
 eurythermic
 elementalism
 ecclesiastes
-electrostatically
+electrostatically 1
 excommunicates
 extracts
 electromeric
