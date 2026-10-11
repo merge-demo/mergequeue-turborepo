@@ -15380,7 +15380,7 @@ disencumbrance
 domett
 demicivilized
 deipara 1
-dorical
+dorical 1
 demoralisation
 domiciled
 domestic
