@@ -19431,7 +19431,7 @@ argentometry
 alternize
 aday
 anchoritical
-aeriness
+aeriness 1
 actinians 1
 aahing
 afterstate
