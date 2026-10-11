@@ -8296,7 +8296,7 @@ asperously 2
 alienists
 archleader
 absorber
-amusias
+amusias 1
 avowals
 acouasm
 anniellidae
