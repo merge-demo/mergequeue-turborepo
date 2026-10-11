@@ -1158,7 +1158,7 @@ calcsinter
 chinnam
 cranioclasis
 calcaneal
-calcspars
+calcspars 1
 cotwal
 crunches
 counterrampant
