@@ -5550,7 +5550,7 @@ edwardeanism
 estheticism
 enzootic
 epicardial
-enfilade
+enfilade 1
 experimentations
 excriminate 1
 extraovular
