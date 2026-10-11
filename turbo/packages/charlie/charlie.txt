@@ -25175,7 +25175,7 @@ coriariaceae
 coriaus
 corporealize
 corybantian
-corybantiasm
+corybantiasm 1
 corybantine
 chiloplasty
 chemung
