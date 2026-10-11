@@ -5606,7 +5606,7 @@ amnesics
 afterward
 afterwise
 afterwit
-afterwork
+afterwork 1
 agathodemon
 apinage
 aint 1
