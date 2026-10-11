@@ -8428,7 +8428,7 @@ ds
 duopsony
 degreed
 drivel
-diamagnet
+diamagnet 1
 diamagnetic
 diamagnetism
 ditrochee
