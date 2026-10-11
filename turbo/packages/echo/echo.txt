@@ -11879,7 +11879,7 @@ excentric
 eumeromorphic
 essenic
 emits
-echium
+echium 1
 except
 escheatment
 encolure
