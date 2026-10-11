@@ -3082,7 +3082,7 @@ amberous 1
 adonize
 ardri
 actinon
-adjudications
+adjudications 1
 apocryphalist
 actinophrys
 aspics
