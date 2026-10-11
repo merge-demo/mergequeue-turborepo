@@ -19065,7 +19065,7 @@ convictfishes 1
 considered
 carman
 collections
-classicistic
+classicistic 1
 coxy
 caecias
 chairlady
