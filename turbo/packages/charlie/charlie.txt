@@ -14102,7 +14102,7 @@ circularization
 cataian
 chartology
 conversably
-circularizes
+circularizes 1
 choriambs
 circularly
 circularness
