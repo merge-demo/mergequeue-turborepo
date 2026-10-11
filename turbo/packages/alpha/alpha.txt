@@ -21789,7 +21789,7 @@ aromatize
 assertional
 awninged
 appreciating
-assertively
+assertively 1
 akey
 audiologist
 alchemist 1
