@@ -1366,7 +1366,7 @@ althorns
 accension
 annulately
 agapanthus
-accept
+accept 1
 approximating 1
 acceptability
 antistimulant

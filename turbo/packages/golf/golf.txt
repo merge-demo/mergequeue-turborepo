@@ -4786,7 +4786,7 @@ gypaetus
 griffinism
 gumma
 gubernaculum
-gynecidal
+gynecidal 1
 garlicwort
 glades 2
 graupels
