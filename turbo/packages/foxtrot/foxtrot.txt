@@ -9217,7 +9217,7 @@ fraktur
 frizer
 fasciolet
 fresnel 2
-flavoury
+flavoury 1
 foresentence
 fetishist
 fleuret 1
