@@ -16313,7 +16313,7 @@ destitution
 demigod
 downshifted
 dight
-downshore
+downshore 1
 disvalue 1
 dephlegmatize
 dibbler
