@@ -8715,7 +8715,7 @@ gagged
 gralloch 1
 graminaceous
 gerenuks 2
-greenish
+greenish 1
 gastrodidymus
 grisgris
 goodlihead

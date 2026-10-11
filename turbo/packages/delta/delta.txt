@@ -16168,7 +16168,7 @@ drainway
 drinkery
 dowager
 dits
-diopsidic
+diopsidic 1
 demospongiae
 dinnerware
 dispersions
