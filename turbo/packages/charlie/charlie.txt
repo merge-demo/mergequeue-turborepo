@@ -520,7 +520,7 @@ cataleptoid
 cadetship
 counterstamp
 cadettes
-colorists
+colorists 1
 coprecipitating
 competence
 clogmaker
