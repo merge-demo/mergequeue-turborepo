@@ -295,7 +295,7 @@ gibing 1
 gaslock
 gaddish
 grubstaked
-guahivo
+guahivo 1
 gummier
 gaintwist
 grypanian
