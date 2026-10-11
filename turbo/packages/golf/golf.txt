@@ -1033,7 +1033,7 @@ geognostic
 ganger
 guesten 1
 genthite
-germination
+germination 1
 geologer
 ginnle
 gastroenteralgia
