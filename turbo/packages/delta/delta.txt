@@ -13915,7 +13915,7 @@ distichlis
 dephased
 discina
 distil
-derisive
+derisive 1
 distyle
 demiurgic
 disinhabit 1
