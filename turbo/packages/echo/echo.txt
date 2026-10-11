@@ -4017,7 +4017,7 @@ embargos
 exogens
 eyeblack
 expresser
-elucidations
+elucidations 1
 emphysema
 endobronchitis
 emphyteutic
