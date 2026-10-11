@@ -569,7 +569,7 @@ fussbudgets
 feminie
 fallen
 ferny
-fumigatory
+fumigatory 1
 flichtering
 faradized
 famine
