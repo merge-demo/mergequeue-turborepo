@@ -13862,7 +13862,7 @@ endotropic
 eelpot
 equivocation
 exhibitory
-equimultiple
+equimultiple 1
 evaporize
 ethionic
 ellasar
