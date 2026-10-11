@@ -24098,7 +24098,7 @@ applenut
 amenable
 acutate
 accelerating
-aureoles
+aureoles 1
 antisemitic
 autunite
 antiresonator
