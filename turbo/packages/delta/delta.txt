@@ -5804,7 +5804,7 @@ depreciable
 dysspermatism 1
 depreciate
 deponents
-despots
+despots 1
 drago
 dystocias
 depreciation
