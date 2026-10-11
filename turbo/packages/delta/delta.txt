@@ -7752,7 +7752,7 @@ direption
 detailism
 diglyph 1
 devisor
-decrier
+decrier 1
 dowie
 devitalizes 1
 decime

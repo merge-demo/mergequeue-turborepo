@@ -303,7 +303,7 @@ giglot
 geobotany
 gynaecian
 grainy
-gargoylism
+gargoylism 1
 gonk
 gaminesque
 gaist
