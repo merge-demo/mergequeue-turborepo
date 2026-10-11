@@ -429,7 +429,7 @@ dorsad
 dhourra
 discoursers
 dairous
-dais
+dais 1
 defog
 disposal
 dibs
