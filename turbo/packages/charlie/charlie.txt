@@ -26767,7 +26767,7 @@ countercriticism
 countercultural
 counterculture
 coagulums
-countercurrent
+countercurrent 1
 countercurrently
 clocks
 cubitometacarpal
