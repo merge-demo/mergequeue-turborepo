@@ -907,7 +907,7 @@ epilogistic
 enteritidis
 echinoids
 extropical
-encapsulating
+encapsulating 1
 electrifiers
 escalation
 electrotonic
