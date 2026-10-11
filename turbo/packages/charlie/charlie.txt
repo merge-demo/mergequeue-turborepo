@@ -13339,7 +13339,7 @@ cyclothymiac
 cocci
 contractile
 czarists
-cocooned
+cocooned 1
 cyclothure
 cyclothurine
 canaanite 1
