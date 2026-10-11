@@ -1623,7 +1623,7 @@ forehood 1
 favouring
 footroom
 floriage
-fraters
+fraters 1
 flappier
 frijol
 formalistic 1
