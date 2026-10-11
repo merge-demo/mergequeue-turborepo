@@ -8690,7 +8690,7 @@ globalism
 gynoecia
 goldenly
 girn
-greenbug
+greenbug 1
 gastrolater
 grandiloquent
 glossitis
