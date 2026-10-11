@@ -9977,7 +9977,7 @@ devitalize
 dogwood
 dactylioglyphtic
 declaiming
-deinos
+deinos 1
 dimple
 diplomas
 dimpled
