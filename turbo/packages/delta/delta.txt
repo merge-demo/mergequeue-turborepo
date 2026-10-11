@@ -4590,7 +4590,7 @@ demystification
 demurring
 demisuit
 dezincs
-dumminess
+dumminess 1
 dithyrambos 1
 denoted
 dimissory
