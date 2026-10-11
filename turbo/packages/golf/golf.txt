@@ -8055,7 +8055,7 @@ gesning
 granivore
 gasconader
 gybes
-glandularly
+glandularly 1
 gribane
 gamone
 gaiters 2
