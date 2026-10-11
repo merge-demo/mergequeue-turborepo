@@ -2841,7 +2841,7 @@ foozle
 flouter
 flatlets
 forestair 1
-fibrillose
+fibrillose 1
 fortuity
 faeries
 forepreparation
