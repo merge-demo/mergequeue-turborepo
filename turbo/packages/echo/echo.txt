@@ -4135,7 +4135,7 @@ enrooting 1
 eslabon
 entangler
 excursus
-envisaged 1
+envisaged 2
 endives
 exedral
 epirote
