@@ -17804,7 +17804,7 @@ counselling
 cacking
 codeine 1
 cryptopin
-codeines
+codeines 1
 codelinquency
 crypta
 codelinquent
