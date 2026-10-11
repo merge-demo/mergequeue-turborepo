@@ -6691,7 +6691,7 @@ designedly
 designedness
 diaper
 detachability
-delibate
+delibate 1
 designment
 destitutely
 djelab

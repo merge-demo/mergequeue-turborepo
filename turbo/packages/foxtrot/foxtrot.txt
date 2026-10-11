@@ -5464,7 +5464,7 @@ farkleberry
 fernbrake
 ferreter
 flora
-funniness
+funniness 1
 frillers
 forswear
 fidelities
