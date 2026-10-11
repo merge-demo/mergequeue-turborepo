@@ -29210,7 +29210,7 @@ crip
 crippied
 cripple
 cogboat
-characid
+characid 1
 crippleness
 crippler
 cripples
