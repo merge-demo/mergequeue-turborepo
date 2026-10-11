@@ -1220,7 +1220,7 @@ fritt
 fiddley
 forediscern
 fascinate
-fixator
+fixator 1
 fissure
 footlock 1
 foredoing
