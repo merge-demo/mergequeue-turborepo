@@ -6651,7 +6651,7 @@ goniatites
 guttler
 grint
 growable
-gromatic
+gromatic 1
 geochronometry
 gibbergunyah
 gymnosperm
