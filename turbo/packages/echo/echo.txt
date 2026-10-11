@@ -5818,7 +5818,7 @@ estrangement
 epopees
 explanation
 engouement 1
-engoument
+engoument 1
 encounter
 exanthema
 entification 1
