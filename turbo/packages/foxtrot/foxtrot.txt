@@ -11094,7 +11094,7 @@ flangeless 1
 forbidder
 foreknowableness
 functionation
-fane
+fane 1
 factfinder
 flagellated
 flockless
