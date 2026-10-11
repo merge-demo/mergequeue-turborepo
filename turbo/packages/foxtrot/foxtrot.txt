@@ -4702,7 +4702,7 @@ frumentarious
 flabbergast 1
 forkfuls
 fougue
-feathermonger
+feathermonger 1
 fratchety
 fijian
 fulgor
