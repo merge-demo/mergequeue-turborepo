@@ -6970,7 +6970,7 @@ flop
 fondlingly
 farewelled
 fraenulum
-foozled
+foozled 1
 foreaccustom
 fruitwoman
 flexions
