@@ -1926,7 +1926,7 @@ furtherance 1
 feteritas 2
 federalistic
 forksful
-freight
+freight 1
 furling
 fileable
 friable
