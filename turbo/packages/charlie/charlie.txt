@@ -15250,7 +15250,7 @@ cupmaking
 clamorousness
 corallite
 clamorsome
-corgis
+corgis 1
 clamour
 concuss
 contune
