@@ -24971,7 +24971,7 @@ ashstone
 annullate 1
 archconfraternities
 awee
-aweek
+aweek 1
 acanthology
 aweel
 anaerobism
