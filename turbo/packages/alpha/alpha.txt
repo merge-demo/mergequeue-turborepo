@@ -9984,7 +9984,7 @@ amazer
 accented
 antihelixes
 antizymotic
-allovers
+allovers 1
 alongside 1
 amazulu
 aphthongal
