@@ -12702,7 +12702,7 @@ blunderheaded
 boondoggled
 bloatedness
 bowedness
-blipping
+blipping 1
 boohooing 1
 biaswise
 bidialectalism
