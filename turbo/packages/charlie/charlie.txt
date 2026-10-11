@@ -14233,7 +14233,7 @@ circumnavigates
 corollike
 circumnavigating
 circumnavigation
-clefted
+clefted 1
 chickaree
 coelia
 circumnavigator
