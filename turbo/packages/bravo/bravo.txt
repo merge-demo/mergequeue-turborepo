@@ -696,7 +696,7 @@ barren
 brioche
 bicorne
 basyl
-bombo
+bombo 1
 bungey
 biannual
 bathyesthesia
