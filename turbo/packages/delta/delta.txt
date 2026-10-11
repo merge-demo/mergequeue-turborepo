@@ -5292,7 +5292,7 @@ delhi
 disemburden
 diazenithal
 devaluating
-disgruntle
+disgruntle 1
 dawned
 denting
 defrayal
