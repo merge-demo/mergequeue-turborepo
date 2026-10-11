@@ -17977,7 +17977,7 @@ am
 approvance
 absolutes
 arsyl
-approvedly
+approvedly 1
 antiempirical
 anisodactyle 1
 allodialism
