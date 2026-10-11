@@ -7888,7 +7888,7 @@ foresees
 fonder 1
 foreseize 1
 flatteries
-fike
+fike 1
 firy
 fantasticness
 fervorous
