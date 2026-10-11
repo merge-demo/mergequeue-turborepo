@@ -6964,7 +6964,7 @@ allentiacan
 amphicribral
 amrita
 alumnae
-assisters
+assisters 1
 ancone
 airts
 armistices
