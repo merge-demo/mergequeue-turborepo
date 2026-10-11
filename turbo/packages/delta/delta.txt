@@ -5318,7 +5318,7 @@ dentural
 dermatology
 diametrally
 diascia
-dentures
+dentures 1
 duretto
 dish
 disappointingness
