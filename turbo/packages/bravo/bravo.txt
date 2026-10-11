@@ -17091,7 +17091,7 @@ bullboat
 babylonite
 bullcomber
 bucentaur
-batoidei
+batoidei 1
 barcarole
 buttery
 bulldoggedness
