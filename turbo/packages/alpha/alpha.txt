@@ -16780,7 +16780,7 @@ anginal
 antipascha
 antifrictional
 abscoulomb
-algarsyf
+algarsyf 1
 aphorise
 aphorismer
 aphorismical
