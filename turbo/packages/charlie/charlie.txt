@@ -19803,7 +19803,7 @@ comedical
 coprosma
 conciliabulum
 comediette
-coagulate
+coagulate 1
 chelydridae
 comedo
 cuchan
