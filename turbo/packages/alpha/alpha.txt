@@ -22188,7 +22188,7 @@ achomawi
 aceric
 aeromantic
 asthmatoid 1
-arthrotomies
+arthrotomies 1
 asthmogenic
 asthore
 anticapitalism
