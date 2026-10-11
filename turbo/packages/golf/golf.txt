@@ -6660,7 +6660,7 @@ gewgawed
 grittle
 gardenize 1
 goosey 1
-gypsine
+gypsine 1
 gassings
 gonion
 guid
