@@ -11489,7 +11489,7 @@ fisticuffery
 foredescribe
 farms
 facilities
-figural
+figural 1
 finnmarks
 furthest
 flittering
