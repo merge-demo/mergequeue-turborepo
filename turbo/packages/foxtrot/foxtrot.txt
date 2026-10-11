@@ -4590,7 +4590,7 @@ footnoting 1
 fistwise
 fit
 fontally
-fringilliform
+fringilliform 1
 fitchee
 fermentatively
 fertiliser
