@@ -5637,7 +5637,7 @@ gastrophrenic
 glossal
 gumboil
 gilbertianism
-glossarize
+glossarize 1
 grieffully 1
 gnathonize
 gahrwali
