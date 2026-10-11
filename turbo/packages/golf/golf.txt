@@ -1236,7 +1236,7 @@ gambler
 gladys 1
 gonakie
 gad
-gloominess 1
+gloominess 2
 guana 1
 gammadia
 gaufre
