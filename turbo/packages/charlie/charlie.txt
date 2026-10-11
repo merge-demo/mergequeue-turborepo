@@ -12697,7 +12697,7 @@ concede
 catafalques
 cobaltous
 cataloguize 1
-cratch
+cratch 1
 chuff
 chuffer
 countercraft
