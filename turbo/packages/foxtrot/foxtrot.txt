@@ -7346,7 +7346,7 @@ farfels
 fewnes
 flatworms
 floatplane
-frost
+frost 1
 fattened
 fetch
 fierding
