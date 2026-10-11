@@ -1113,7 +1113,7 @@ germs
 genically
 generatively
 gashouses
-gearshifts
+gearshifts 1
 gravitate
 graptolitic
 gallants
