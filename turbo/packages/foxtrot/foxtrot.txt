@@ -1751,7 +1751,7 @@ filiality
 featherbird
 feoffors
 forfare
-foreshore 1
+foreshore 2
 floriferous
 fumosity
 freedman 1
