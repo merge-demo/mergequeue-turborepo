@@ -15012,7 +15012,7 @@ attermine
 anthesis
 anticreatively
 aesculetin
-anticreeping
+anticreeping 1
 anametadromous
 achondroplasia
 antigyrous
