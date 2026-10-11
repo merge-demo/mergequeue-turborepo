@@ -4863,7 +4863,7 @@ exportable
 episcopolatry
 encrinic
 encrinidae
-encrinital
+encrinital 1
 elegance
 encroacher
 equalizing 1
