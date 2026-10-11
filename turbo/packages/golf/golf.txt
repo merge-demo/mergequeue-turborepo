@@ -2455,7 +2455,7 @@ gigmanism 1
 geographers
 glacionatant
 gaps
-gloaming 1
+gloaming 2
 gaiting
 goniac
 generatrix
