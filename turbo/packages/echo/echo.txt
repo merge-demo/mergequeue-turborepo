@@ -2887,7 +2887,7 @@ encyrtid
 elevable
 embraceor
 echoizing
-epergne
+epergne 1
 engilds
 escalators
 eleven
