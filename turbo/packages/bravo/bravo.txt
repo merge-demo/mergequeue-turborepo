@@ -17830,7 +17830,7 @@ backbit
 boddle
 bunkerman
 bursiculate
-bestialise
+bestialise 1
 benzbitriazole
 beuncled 1
 booze
