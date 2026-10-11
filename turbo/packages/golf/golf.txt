@@ -6073,7 +6073,7 @@ geissorhiza
 griege
 geitonogamous
 gnomologist
-gyroma
+gyroma 1
 greit
 greatly
 gnathostomous
