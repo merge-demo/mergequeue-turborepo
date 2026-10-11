@@ -2722,7 +2722,7 @@ darbies
 decortication
 dematerialization
 decorticator
-determinants
+determinants 1
 dolichocephalous
 decorticosis
 doddle
