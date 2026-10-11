@@ -8810,7 +8810,7 @@ gorged
 gaufer
 guanay
 gablelike
-graecized
+graecized 1
 goldeye
 greyed 1
 grosser 1
