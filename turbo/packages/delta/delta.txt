@@ -18104,7 +18104,7 @@ duplon
 deictically
 defatting
 dumbstricken
-demisemiquaver
+demisemiquaver 1
 demagnetize
 dumdum
 dumdums
