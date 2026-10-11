@@ -11231,7 +11231,7 @@ disburse
 disillusionist
 displeaser
 deictic
-duckpins
+duckpins 1
 divinistre
 dilatability
 definability
