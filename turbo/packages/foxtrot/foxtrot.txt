@@ -4654,7 +4654,7 @@ fearsome
 figurante
 flaunched
 flections
-flexibilities
+flexibilities 1
 fumariaceae
 flagelliform 1
 fragrantly

@@ -1698,7 +1698,7 @@ agrestis
 accumulation
 aetat
 accumulativ
-apostatizes
+apostatizes 1
 ayne
 aerobacteriologist
 acier
