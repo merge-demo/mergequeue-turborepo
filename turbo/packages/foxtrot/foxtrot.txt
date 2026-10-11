@@ -9886,7 +9886,7 @@ forgiven
 furnishings
 fjerding
 forcelessness
-freckled
+freckled 1
 flintstone
 flitching
 fibropurulent
