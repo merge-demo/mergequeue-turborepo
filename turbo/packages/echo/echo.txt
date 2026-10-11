@@ -13965,7 +13965,7 @@ entoire
 extraparliamentary
 ectotrophic 1
 expressless
-epimer
+epimer 1
 emotive
 eozoonal
 endokaryogamy
