@@ -4095,7 +4095,7 @@ fungusy
 frostation
 foists
 forthwith
-fergusonite
+fergusonite 1
 featherbrain
 fattable
 formal
