@@ -11205,7 +11205,7 @@ alkide
 addictive
 analgesis
 alpinely
-adsorb
+adsorb 1
 amphiboles
 affliction
 axometric
