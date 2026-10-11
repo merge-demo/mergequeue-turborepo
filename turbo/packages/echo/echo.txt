@@ -1799,7 +1799,7 @@ enfranch
 eyespots
 excandescency 1
 epexegetically
-eyewaiter
+eyewaiter 1
 episepalous
 emanium
 exoclinal
