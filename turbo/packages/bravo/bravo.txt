@@ -9118,7 +9118,7 @@ basking
 bipectinated 1
 biopotential
 biopsy
-ballium
+ballium 1
 biopsic
 bailliage
 byssaceous
