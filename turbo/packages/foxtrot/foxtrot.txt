@@ -6918,7 +6918,7 @@ fumarase
 fauconnier
 ferrocyanic
 flighter
-fisherpeople
+fisherpeople 1
 flaky
 fostership
 flusherman
