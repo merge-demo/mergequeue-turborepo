@@ -5419,7 +5419,7 @@ fiftypenny
 forefigure
 furor
 flurt
-fittingness
+fittingness 1
 fault
 fleecy 1
 flyblown
