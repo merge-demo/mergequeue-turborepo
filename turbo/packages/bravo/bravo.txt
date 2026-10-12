@@ -16395,7 +16395,7 @@ blepharoncus
 bangup
 bioelectrogenetically
 bioelectronics
-borrowed
+borrowed 1
 barefacedness
 boryl
 branchipus

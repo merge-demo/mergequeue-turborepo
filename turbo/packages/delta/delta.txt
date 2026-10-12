@@ -6281,7 +6281,7 @@ dermogastric
 dean
 dermoidectomy
 desexed
-dos
+dos 1
 dgag
 denary
 drassid
