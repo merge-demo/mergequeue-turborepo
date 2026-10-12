@@ -2852,7 +2852,7 @@ geog
 guildship
 gratifier 1
 guser
-gullish
+gullish 1
 gygis
 genuflects
 glanduliform
