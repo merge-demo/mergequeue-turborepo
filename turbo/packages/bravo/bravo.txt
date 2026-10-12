@@ -12691,7 +12691,7 @@ boysenberry
 benthamite 1
 boogies 1
 biotechnology
-bubbles
+bubbles 1
 burlecue
 bieennia
 bunkoed
