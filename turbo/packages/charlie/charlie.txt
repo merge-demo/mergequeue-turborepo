@@ -9420,7 +9420,7 @@ cheapest
 cheapish
 cheaply
 condom
-cheapness
+cheapness 1
 cladoselachea
 cheapos
 clovene
