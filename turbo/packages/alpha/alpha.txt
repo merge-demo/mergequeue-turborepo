@@ -12995,7 +12995,7 @@ angularities
 analgesist
 atomistical
 affirming
-accountancy
+accountancy 1
 almadie
 antisurplician
 airometer
