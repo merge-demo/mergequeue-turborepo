@@ -30958,7 +30958,7 @@ clews 1
 culverhouse
 churrs
 cuticles
-corsesque
+corsesque 1
 culverkey 1
 culvers
 culverwort
