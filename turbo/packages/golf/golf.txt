@@ -3870,7 +3870,7 @@ glossem
 geminated
 glens 1
 glossocarcinoma
-geoscopy
+geoscopy 1
 gubbertush
 goustrous
 grecing
