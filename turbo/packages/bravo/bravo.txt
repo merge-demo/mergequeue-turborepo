@@ -7288,7 +7288,7 @@ broidered
 bestuck
 bestud 1
 boninite
-bot
+bot 1
 bipont
 barrancas
 bandora
