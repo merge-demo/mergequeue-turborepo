@@ -3895,7 +3895,7 @@ contradistinguish
 couche
 celibacies
 cowheel
-compleat
+compleat 1
 casquet 1
 carborundum
 conceptional
