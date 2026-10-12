@@ -4607,7 +4607,7 @@ fruitgrowing
 fitchew
 fitified
 fluoridizing 1
-frontomalar
+frontomalar 1
 fieldpieces
 flavory
 fullams
