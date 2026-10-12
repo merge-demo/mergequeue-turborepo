@@ -1895,7 +1895,7 @@ errata
 eximiousness
 exacta
 effectively 1
-encashes
+encashes 1
 evanescency
 eulogically
 enjoys
