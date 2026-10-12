@@ -829,7 +829,7 @@ epop
 exulate
 errants
 ectiris
-etamines 1
+etamines 2
 ectocarpus
 eriophorum
 eosinophil
