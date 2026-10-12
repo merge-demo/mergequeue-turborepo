@@ -4022,7 +4022,7 @@ chloralide
 chinanta
 condylomas
 culpableness
-card
+card 1
 chronal
 cardaissin
 chehalis
