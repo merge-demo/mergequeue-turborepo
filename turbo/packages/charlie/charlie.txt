@@ -31224,7 +31224,7 @@ cupules
 curvatures
 convulsible
 chickenhood
-covetousness
+covetousness 1
 cantharidate
 commonplace
 coque
