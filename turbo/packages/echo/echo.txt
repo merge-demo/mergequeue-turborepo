@@ -4796,7 +4796,7 @@ ethanim
 equilibrator
 entypies
 enduro
-easterner
+easterner 1
 eccoproticophoric
 escape
 estrogenicity 1
