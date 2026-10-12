@@ -18184,7 +18184,7 @@ dumsola
 disdiaclastic
 distrust
 dunbird
-dermatoscopy
+dermatoscopy 1
 disobedience
 diable
 disarticulated
