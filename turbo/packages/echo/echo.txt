@@ -9385,7 +9385,7 @@ epoptic
 erythrolitmin 1
 eventail
 embosoms
-embolies
+embolies 1
 eucleid 1
 ebdomade
 extensionalism

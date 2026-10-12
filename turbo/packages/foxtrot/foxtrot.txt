@@ -7069,7 +7069,7 @@ flagger
 footstick
 figurant
 fractionator
-fripper
+fripper 1
 fibromyositis
 flaker
 fiddleback
