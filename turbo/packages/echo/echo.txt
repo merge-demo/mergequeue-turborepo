@@ -4628,7 +4628,7 @@ endoabdominal 1
 eulogical
 empyreumatical 1
 ectostosis
-enajim
+enajim 1
 exercite
 ermelin
 engaged
