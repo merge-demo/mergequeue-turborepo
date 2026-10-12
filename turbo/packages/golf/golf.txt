@@ -5008,7 +5008,7 @@ glassful
 gaunted
 grapplers
 gloxinia
-gossipmonger
+gossipmonger 1
 glasshouses
 geomoroi
 gasts
@@ -6598,7 +6598,7 @@ gossans
 gp
 gemutlichkeit
 grittiest
-gyrodyne
+gyrodyne 1
 gateman
 gropes
 gambusias
