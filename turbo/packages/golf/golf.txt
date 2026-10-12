@@ -2658,7 +2658,7 @@ gervas
 gardening
 gardeviance
 grimnesses
-gwag
+gwag 1
 genevan
 grabbing
 globulariaceous 2

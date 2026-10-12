@@ -1661,7 +1661,7 @@ epilemmal 1
 eidograph
 eclogues
 eases
-eligent
+eligent 1
 elboic
 evectional 1
 extinguishes
