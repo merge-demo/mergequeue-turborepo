@@ -19467,7 +19467,7 @@ cisterna
 crociary
 corposant 1
 colourist
-centure
+centure 1
 chilblain
 colourless
 ceruleum
