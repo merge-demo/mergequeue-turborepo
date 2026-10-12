@@ -2235,7 +2235,7 @@ gaster
 gonfalonierate
 gibbets
 gastrocatarrhal
-goodbyes
+goodbyes 1
 generosities
 gibby
 galactohemia
