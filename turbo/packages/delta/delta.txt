@@ -2503,7 +2503,7 @@ dipper
 dibromoacetaldehyde
 dyads
 declaratorily
-deaminate
+deaminate 1
 drain
 dotted
 diabantite 1
