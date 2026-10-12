@@ -13429,7 +13429,7 @@ albinistic 1
 anlagen
 assigners 1
 anlages
-accompanying
+accompanying 1
 amazedness
 artiste
 alibies
