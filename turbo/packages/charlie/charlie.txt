@@ -29075,7 +29075,7 @@ crin
 crinal
 ceresine
 contrapone
-crinanite
+crinanite 1
 casselty
 columbus
 camerina
