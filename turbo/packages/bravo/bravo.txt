@@ -4654,7 +4654,7 @@ bellowing
 buntal
 brachelytrous 1
 blader
-boanerges
+boanerges 1
 bouts
 bucklered
 bubble
