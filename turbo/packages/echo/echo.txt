@@ -12592,7 +12592,7 @@ euphon
 ethion
 entrance
 eastling 1
-excecation
+excecation 1
 eunuchry
 exempts
 exocoele 1
