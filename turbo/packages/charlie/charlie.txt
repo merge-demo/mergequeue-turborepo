@@ -13967,7 +13967,7 @@ cipo
 catstitch
 cippus
 cilioflagellata
-chitra
+chitra 1
 chemosensitive
 cecca
 crimp
