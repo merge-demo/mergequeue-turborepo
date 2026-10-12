@@ -9893,7 +9893,7 @@ aberroscope
 adrenalectomized
 aquashow
 ane
-adjudicating
+adjudicating 1
 albumoid
 aponogeton
 antepreterit
