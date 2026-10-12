@@ -9246,7 +9246,7 @@ granitoid 1
 groenendael
 gecko
 gallstone
-graduale
+graduale 1
 gooney
 groenlandicus
 goyana
