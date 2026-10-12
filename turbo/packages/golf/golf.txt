@@ -2426,7 +2426,7 @@ guardship
 gemmological
 gemmologist
 grocers
-guativere
+guativere 1
 graphotypic
 geologian
 gesticulation
