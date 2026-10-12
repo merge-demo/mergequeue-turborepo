@@ -17714,7 +17714,7 @@ centralize
 cocomat
 caesaropapacy
 coconnection
-coconscious
+coconscious 1
 coconsciously
 coconsecrator 1
 confirmingly
@@ -29075,7 +29075,7 @@ crin
 crinal
 ceresine
 contrapone
-crinanite
+crinanite 1
 casselty
 columbus
 camerina
