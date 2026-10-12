@@ -7003,7 +7003,7 @@ greenweed
 garages 1
 glacially
 galilees
-genteelism
+genteelism 1
 geomantical
 genyantrum
 greasiest
