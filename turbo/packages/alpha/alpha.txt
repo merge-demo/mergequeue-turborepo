@@ -11209,7 +11209,7 @@ adsorb 1
 amphiboles
 affliction
 axometric
-agynous
+agynous 1
 aerologists
 authority
 attesting
