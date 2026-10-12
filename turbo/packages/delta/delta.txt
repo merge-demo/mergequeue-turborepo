@@ -11354,7 +11354,7 @@ disciplinable
 dishfuls
 deferentectomy
 dippers
-draconitic
+draconitic 1
 dolina
 diabetic
 disciplinal
