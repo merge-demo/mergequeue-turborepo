@@ -4962,7 +4962,7 @@ gallingness
 grovels
 gigantical 1
 gonocheme
-granulose
+granulose 1
 grivoise
 garavance
 glowed
