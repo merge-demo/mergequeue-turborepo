@@ -1663,7 +1663,7 @@ eclogues
 eases
 eligent
 elboic
-evectional
+evectional 1
 extinguishes
 entoiled
 enlivening
