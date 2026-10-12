@@ -11614,7 +11614,7 @@ frough
 forewinning
 fulgour
 formulizer 1
-fragilely
+fragilely 1
 fermata
 fustics
 fiz
