@@ -12249,7 +12249,7 @@ expounding
 extracondensed
 exegesis
 exasperative
-execrated
+execrated 1
 elegists
 extemporizer
 exegetics
