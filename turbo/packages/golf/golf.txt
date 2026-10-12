@@ -5215,7 +5215,7 @@ glaucophane
 garish
 ganching
 grihyasutra
-guessingly
+guessingly 1
 galoubet
 genesic
 granddaddy
