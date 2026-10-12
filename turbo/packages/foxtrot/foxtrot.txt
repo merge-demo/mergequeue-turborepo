@@ -7413,7 +7413,7 @@ fossick
 feminine
 frumpier
 filipendulous
-finger
+finger 1
 funditores
 fantasists 1
 fumeuse
