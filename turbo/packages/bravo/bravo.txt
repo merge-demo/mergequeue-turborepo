@@ -6561,7 +6561,7 @@ bushelful
 blenniiformes
 bolar
 berakah
-bosnisch
+bosnisch 1
 bewelcome 1
 bavarois
 blameable
