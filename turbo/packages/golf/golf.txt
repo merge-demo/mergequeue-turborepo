@@ -2258,7 +2258,7 @@ galax
 gonidiogenous
 gehlenite
 goblet
-gratuity
+gratuity 1
 geoplanidae 1
 glucokinase
 gringolee
