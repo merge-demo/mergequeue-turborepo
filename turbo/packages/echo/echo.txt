@@ -7095,7 +7095,7 @@ extemporaneously
 endpaper
 envelops
 euphorbiaceous
-enduing
+enduing 1
 encarnalise
 eightfold
 enmarbled

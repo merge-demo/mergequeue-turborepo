@@ -4585,7 +4585,7 @@ gorillaship
 goatbush
 gammarid
 gunlocks
-gaudy
+gaudy 1
 guerinet
 guttersnipish
 gyppers
