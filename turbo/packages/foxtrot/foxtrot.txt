@@ -4830,7 +4830,7 @@ foliums
 froebelism
 footfall 2
 fustigate
-floor
+floor 1
 fickleness
 fooless
 flagstick
