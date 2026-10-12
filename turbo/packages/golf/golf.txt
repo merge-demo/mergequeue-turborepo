@@ -6574,7 +6574,7 @@ grumphies 1
 governessdom
 glummy
 garous
-glegnesses
+glegnesses 1
 gyrostachys
 gyrohorizon
 gonaduct 1
