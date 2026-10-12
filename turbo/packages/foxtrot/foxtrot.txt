@@ -10576,7 +10576,7 @@ fibration
 foreland
 fliping
 foughty
-foreloper
+foreloper 1
 favose
 feudalist 2
 funambulation
