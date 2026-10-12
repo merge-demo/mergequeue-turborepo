@@ -9908,7 +9908,7 @@ fines
 forgemen
 foveae
 fogeater
-fevercup
+fevercup 1
 fermentate
 fenestrone
 fungistatic
