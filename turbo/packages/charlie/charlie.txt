@@ -29838,7 +29838,7 @@ crosette
 crosiered
 capsumin
 clumsier
-cross
+cross 1
 circummeridian
 cablets
 coronillo
