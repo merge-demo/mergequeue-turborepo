@@ -10420,7 +10420,7 @@ electroreduction
 endomyces
 engraved
 enstatitite
-estruation
+estruation 1
 etymologization 1
 edentalous
 eurypteroid
