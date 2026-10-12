@@ -15723,7 +15723,7 @@ doricism
 dorylinae 1
 dakota
 dendrochronologist
-denunciation
+denunciation 1
 dismarch
 disintegrates
 disbuds
