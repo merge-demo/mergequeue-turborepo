@@ -16630,7 +16630,7 @@ checkerwise
 closers
 closes
 closeting
-crampit
+crampit 1
 chthonic
 cimborio
 cylindroma
