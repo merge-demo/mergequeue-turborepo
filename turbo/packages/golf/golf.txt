@@ -9313,7 +9313,7 @@ goliad
 gunnysacks 1
 ghaznevid
 ghaist
-gymnosophical
+gymnosophical 1
 gyrostat
 gimmick
 gonocoel
