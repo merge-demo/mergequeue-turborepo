@@ -6499,7 +6499,7 @@ beothukan
 bellicose 1
 braggartly
 boschbok
-bedrocks 1
+bedrocks 2
 baccate
 broached
 bletted
