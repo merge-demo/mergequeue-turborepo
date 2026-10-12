@@ -11012,7 +11012,7 @@ defamingly
 dogmatising
 disanalogy
 deinosauria
-disanalogous
+disanalogous 1
 disanchor
 deliberations
 disanimation
