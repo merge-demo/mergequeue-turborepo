@@ -1144,7 +1144,7 @@ encrown
 environ
 enthrill
 expilator
-emanationism
+emanationism 1
 exploitationist
 enrichments
 economizers
