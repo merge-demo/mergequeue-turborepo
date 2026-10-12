@@ -10070,7 +10070,7 @@ gigabits
 guillotiner
 gibblegable
 gossampine 1
-guerrillas
+guerrillas 1
 griseofulvin
 guesdism 1
 groomish
