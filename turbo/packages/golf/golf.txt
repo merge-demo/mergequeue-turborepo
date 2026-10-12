@@ -5475,7 +5475,7 @@ gustier
 genear
 globalizing
 growls 1
-groggeries
+groggeries 1
 gyrovagi
 gently
 grassfinch
