@@ -1285,7 +1285,7 @@ figurine
 foresaw
 fleys 3
 fertileness
-fastingly
+fastingly 1
 faradocontractility
 fastish
 fuscescent
