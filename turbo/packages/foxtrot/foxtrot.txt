@@ -3436,7 +3436,7 @@ forthward
 frontoethmoid
 friedcake
 frazzle
-fantasist
+fantasist 1
 fifteens
 faithless
 frauds
