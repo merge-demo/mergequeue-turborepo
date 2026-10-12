@@ -5532,7 +5532,7 @@ foamily
 foreordain
 flagon 2
 fol
-forestays
+forestays 1
 favellae
 flexion
 foreclosable 1
