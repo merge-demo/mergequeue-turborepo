@@ -12319,7 +12319,7 @@ elecampane
 effortless
 equilin
 elvanitic
-exercitorian
+exercitorian 1
 effront
 efs
 elaidate
