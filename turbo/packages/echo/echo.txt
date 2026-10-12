@@ -11923,7 +11923,7 @@ equestrienne
 ericineous
 excessively 1
 ecole
-exocolitis
+exocolitis 1
 espousals
 endamebas
 enchondroma
