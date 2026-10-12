@@ -14473,7 +14473,7 @@ dindymene
 divertibility
 donk
 diverticle
-daibutsu
+daibutsu 1
 disguisedness
 disruptment
 diverticulosis
