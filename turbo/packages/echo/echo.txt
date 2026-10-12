@@ -6445,7 +6445,7 @@ epicondylitis
 earfuls 1
 exercisable
 ensorcellment
-encumberment
+encumberment 1
 endometriosis
 embolismus
 eurypteroidea
