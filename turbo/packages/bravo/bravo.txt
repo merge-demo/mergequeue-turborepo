@@ -18121,7 +18121,7 @@ bauckiebird
 bloodlettings
 buskin
 barognosis
-butcherer
+butcherer 1
 blobbier
 bureaucrats 1
 boll 1
