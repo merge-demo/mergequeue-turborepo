@@ -8005,7 +8005,7 @@ epiotic
 eutannin
 exopterygota
 exocline 1
-enigmaticalness 1
+enigmaticalness 2
 exscript
 epifocal
 epigonal
