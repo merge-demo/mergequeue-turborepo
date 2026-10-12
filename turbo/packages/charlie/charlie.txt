@@ -2615,7 +2615,7 @@ canepin
 cooser
 ciphonies
 cheeseflower
-cursaro
+cursaro 1
 coign
 certie
 camelopardel
