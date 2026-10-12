@@ -5394,7 +5394,7 @@ forthbringer
 formable
 flecking
 forgoer
-firehouses 1
+firehouses 2
 fennel
 friending
 frigefact
@@ -7469,7 +7469,7 @@ fastly
 fullface
 forebode
 fauld
-fest
+fest 1
 forebodes
 forebody
 frostweed
