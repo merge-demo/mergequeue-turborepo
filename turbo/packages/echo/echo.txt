@@ -13700,7 +13700,7 @@ externalization 1
 eupractic
 ecumenicity
 externalized
-externalizes
+externalizes 1
 earbash
 exocardial
 evolutionist
