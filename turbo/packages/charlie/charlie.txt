@@ -17714,7 +17714,7 @@ centralize
 cocomat
 caesaropapacy
 coconnection
-coconscious
+coconscious 1
 coconsciously
 coconsecrator 1
 confirmingly
