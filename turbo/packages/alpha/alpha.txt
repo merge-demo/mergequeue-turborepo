@@ -19786,7 +19786,7 @@ armadas
 assecure
 agrologies
 armadilla
-actiniae
+actiniae 1
 acetylide
 anhydridize
 adjudger
