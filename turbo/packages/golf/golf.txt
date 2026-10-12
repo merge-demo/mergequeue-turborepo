@@ -6598,7 +6598,7 @@ gossans
 gp
 gemutlichkeit
 grittiest
-gyrodyne
+gyrodyne 1
 gateman
 gropes
 gambusias
