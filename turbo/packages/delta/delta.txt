@@ -15382,7 +15382,7 @@ demicivilized
 deipara 1
 dorical 1
 demoralisation
-domiciled
+domiciled 1
 domestic
 dissipator
 disobstruct
