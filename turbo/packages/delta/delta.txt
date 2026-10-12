@@ -16114,7 +16114,7 @@ doulce
 dementie
 defectology
 dispurse 1
-designators
+designators 1
 doulocracy
 doum
 didynamy
