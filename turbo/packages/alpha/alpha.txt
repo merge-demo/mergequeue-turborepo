@@ -22030,7 +22030,7 @@ angelina
 assurances
 astigmias
 arthropodan
-assurer
+assurer 1
 arthrotrauma
 arabesque
 anticeremonial
