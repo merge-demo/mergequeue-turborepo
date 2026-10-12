@@ -13310,7 +13310,7 @@ exembryonate
 ecphore
 englishmen
 exorcisms
-explosively
+explosively 1
 eastermost
 enolization
 explosiveness 1
