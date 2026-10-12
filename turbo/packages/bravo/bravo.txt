@@ -11765,7 +11765,7 @@ brynza 1
 bajocian
 breton
 bajree
-bichrome
+bichrome 1
 bobsledded
 berascal
 britoness
