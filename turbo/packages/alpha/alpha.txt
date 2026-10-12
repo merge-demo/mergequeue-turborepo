@@ -818,7 +818,7 @@ abruptness
 apptd 1
 ambilogy
 algarot
-authoritatively
+authoritatively 1
 additur
 abstruse
 ammiral
