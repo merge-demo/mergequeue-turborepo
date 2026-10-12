@@ -508,7 +508,7 @@ dalliances
 dallied
 discomforter
 disenthralling
-dallier
+dallier 1
 dup
 dextromanual
 diminishingturns 1
