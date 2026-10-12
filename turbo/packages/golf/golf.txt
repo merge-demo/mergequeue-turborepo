@@ -9125,7 +9125,7 @@ gouldian
 glauconitization
 gripgrass
 grouchily
-grantsman
+grantsman 1
 gora
 gridding 1
 geographically
