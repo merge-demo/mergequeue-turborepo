@@ -18545,7 +18545,7 @@ coigne
 cader
 cutted
 coigny
-coequalize
+coequalize 1
 callitrichidae
 coigue
 coction
