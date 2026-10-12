@@ -3724,7 +3724,7 @@ ekhimi
 eeten
 ephemerons
 echelette
-egoistry
+egoistry 1
 embrittle 1
 enfranchised
 echinochrome
