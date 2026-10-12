@@ -5445,7 +5445,7 @@ denotement
 dynatron
 directionality
 drought
-dyvour
+dyvour 1
 diptyca
 disattire
 debunked
