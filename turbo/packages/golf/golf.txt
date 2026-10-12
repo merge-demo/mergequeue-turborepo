@@ -1026,7 +1026,7 @@ granitizing
 grimacing
 gnomons
 geophilous
-guttle
+guttle 1
 glanduliferous
 gully
 geognostic
