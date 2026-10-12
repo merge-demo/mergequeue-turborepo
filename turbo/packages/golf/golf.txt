@@ -9043,7 +9043,7 @@ glutination
 gyres
 gease
 graveyards
-glaucomys
+glaucomys 1
 genteel
 greund
 girdling
