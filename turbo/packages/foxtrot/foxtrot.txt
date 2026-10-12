@@ -4194,7 +4194,7 @@ fungibility
 fructose
 fibrospongiae
 fruitlessness
-finialed
+finialed 1
 fragmentally
 flagrant
 fibrilliform
