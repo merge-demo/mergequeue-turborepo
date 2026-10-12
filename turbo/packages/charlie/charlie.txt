@@ -22565,7 +22565,7 @@ conn
 canephorus
 connaraceous
 connascency
-connate
+connate 1
 connately
 connateness
 crinate
