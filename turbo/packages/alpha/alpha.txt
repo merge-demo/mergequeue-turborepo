@@ -22386,7 +22386,7 @@ ataractic
 akra
 astrogational
 antiauthoritarianism
-anangioid
+anangioid 1
 astrogeology
 astrogeologist
 ariadne
