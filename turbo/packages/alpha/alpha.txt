@@ -20295,7 +20295,7 @@ arroyos
 arroyuelo 1
 arrosive
 aleuritic
-antistreptococcal
+antistreptococcal 1
 allowances
 acquophonia
 amazement
