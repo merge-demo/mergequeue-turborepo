@@ -6729,7 +6729,7 @@ canstick
 compartmentally
 concordantly
 colliculate
-caruncle
+caruncle 1
 cuttages
 celestina
 celestite
