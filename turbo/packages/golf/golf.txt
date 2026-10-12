@@ -6543,7 +6543,7 @@ groyne 1
 ghostwrite
 gingivolabial
 gabbing
-guttiferal
+guttiferal 1
 gruis
 geldesprung
 graduateship
