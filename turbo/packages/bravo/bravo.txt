@@ -1237,7 +1237,7 @@ baymen
 boches
 balloting
 bakra 1
-bruchus
+bruchus 1
 backslid
 beds
 bittersweetness 1
