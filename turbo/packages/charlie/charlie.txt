@@ -30473,7 +30473,7 @@ carnivority
 carbo
 ctr
 comortgagee
-cannibalean
+cannibalean 1
 cts
 condylotomy
 cu 1
