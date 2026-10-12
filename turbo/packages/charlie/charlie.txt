@@ -6849,7 +6849,7 @@ celticize
 celtidaceae
 celtiform
 consortiums
-celtis
+celtis 1
 celtism
 cotyla
 colorimetric
