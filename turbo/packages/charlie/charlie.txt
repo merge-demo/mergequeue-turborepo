@@ -12116,7 +12116,7 @@ conjecturalist
 copeognatha
 chresmology
 chrestomathics
-chrestomathies
+chrestomathies 1
 celluliferous
 chria
 calibogus
