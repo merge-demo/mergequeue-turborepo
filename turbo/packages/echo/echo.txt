@@ -3557,7 +3557,7 @@ exothermic
 exanthematous 1
 ergographic
 entozoon
-epithecial
+epithecial 1
 ethanamide
 eschewance
 extortionary 1
