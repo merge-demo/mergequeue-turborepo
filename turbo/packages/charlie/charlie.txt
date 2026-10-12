@@ -25277,7 +25277,7 @@ corklike
 chiromant
 calendars
 collaborationists
-corks
+corks 1
 corkscrew
 cosmologists
 cyanotrichite
