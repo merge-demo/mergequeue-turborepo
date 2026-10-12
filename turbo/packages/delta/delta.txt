@@ -17876,7 +17876,7 @@ doctrine 1
 durationless
 dishmaking 1
 dueled
-deathday
+deathday 1
 duelers
 duelistic
 dolentissimo
