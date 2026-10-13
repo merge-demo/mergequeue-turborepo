@@ -2298,7 +2298,7 @@ didna
 dilapidate
 diabrotica
 determinists 1
-decke
+decke 1
 diethylstilbestrol
 demidolmen
 downwash
