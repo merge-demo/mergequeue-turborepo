@@ -6026,7 +6026,7 @@ forehock 1
 fateful
 floriation
 fertilize 1
-frizz 1
+frizz 2
 flunkeyize
 farting
 flavorfulness
