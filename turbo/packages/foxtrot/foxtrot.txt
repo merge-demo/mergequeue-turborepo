@@ -8386,7 +8386,7 @@ fierier 2
 flushers
 fatheadedly
 fribby 1
-fickler
+fickler 1
 formaliser
 fozinesses
 furuncles
