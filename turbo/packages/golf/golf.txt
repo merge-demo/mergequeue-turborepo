@@ -8040,7 +8040,7 @@ guttulae
 geminiflorous
 glyceryl 2
 gruffness
-gravels
+gravels 1
 glenoidal
 granitiform
 geomancer
@@ -9566,7 +9566,7 @@ growan
 gogmagog
 gravelike
 gobbed
-gossiphood 1
+gossiphood 2
 gujrati
 geographism
 galley

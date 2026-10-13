@@ -12863,7 +12863,7 @@ churl
 curmurring
 churlier
 corrugations
-cowslip
+cowslip 1
 churlishness
 churn
 canvased
@@ -25687,7 +25687,7 @@ corregimientos
 craniomalacia
 chaucerianism
 correl
-coolaman
+coolaman 1
 correlatable
 cathedrae
 capriciousness
