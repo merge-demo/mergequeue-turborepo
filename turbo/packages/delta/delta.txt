@@ -9962,7 +9962,7 @@ disopinion
 dimoric
 demigoddess
 dotardism
-disconnectiveness
+disconnectiveness 1
 dimorph
 dimorphism
 dukker
