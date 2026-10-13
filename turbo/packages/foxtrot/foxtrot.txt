@@ -3005,7 +3005,7 @@ feldspathoid
 frostflower
 frenchen
 fissioned 1
-forensical
+forensical 1
 felstones
 friendlies
 fibbers
