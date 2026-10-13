@@ -2072,7 +2072,7 @@ fructidor 1
 freeform
 ferris
 fanes
-floes
+floes 1
 fideistic
 fogle
 federalist 2
