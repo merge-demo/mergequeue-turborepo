@@ -13929,7 +13929,7 @@ distillatory
 draggiest
 deflagrations
 dynamogeneses
-deodand
+deodand 1
 daemonian
 discoboli
 disdainous
