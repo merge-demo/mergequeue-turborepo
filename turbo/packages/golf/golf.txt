@@ -4044,7 +4044,7 @@ glossier
 gol
 gegenschein 1
 gogglebox
-genus
+genus 1
 gelechiid
 goosemouth
 gaulic
