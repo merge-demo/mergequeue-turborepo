@@ -6409,7 +6409,7 @@ ensilver 1
 ensisternum
 eye
 earthling
-enterprisingness
+enterprisingness 1
 euthanasia
 enbaissing
 edgeweed
