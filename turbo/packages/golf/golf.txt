@@ -1761,7 +1761,7 @@ geminately
 glycolipin
 gomerils
 germinance 1
-goodless
+goodless 1
 golliwogs
 gallic 1
 gapless
@@ -7705,7 +7705,7 @@ guilfat 1
 gittern
 gadolinic
 grassroots
-gnomist
+gnomist 1
 gonys
 gandhi
 gloea
