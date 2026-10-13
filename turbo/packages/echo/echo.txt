@@ -9454,7 +9454,7 @@ ecbolics 1
 embedment
 eam
 embost
-euryale
+euryale 1
 eses
 epicism
 erythron
