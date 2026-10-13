@@ -28729,7 +28729,7 @@ cocircularity
 crepey
 chiru
 constringe
-coincides 1
+coincides 2
 crepy
 crepiest 1
 crepine
