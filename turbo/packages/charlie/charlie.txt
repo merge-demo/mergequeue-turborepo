@@ -30216,7 +30216,7 @@ countryfied
 crudle
 cruds
 cruel
-crueller
+crueller 1
 cruellest
 cruelly
 cruelness
