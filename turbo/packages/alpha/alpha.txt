@@ -20470,7 +20470,7 @@ aerogenous 1
 atechnic
 altisonous
 arterialize
-anticivism
+anticivism 1
 arteriarctia
 alphanumerical
 albuminous
