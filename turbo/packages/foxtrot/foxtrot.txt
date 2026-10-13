@@ -1035,7 +1035,7 @@ flatboats
 finalists
 farinometer
 farinose
-flannelly
+flannelly 1
 flourishing
 farinosel
 foussa 1
