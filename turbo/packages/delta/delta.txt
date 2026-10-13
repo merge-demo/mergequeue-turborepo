@@ -6425,7 +6425,7 @@ dequeues
 descant
 dentinoblast
 disencumber 1
-diffusedly 1
+diffusedly 2
 deranged
 descanted
 dog 1
