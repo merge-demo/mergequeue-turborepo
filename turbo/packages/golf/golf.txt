@@ -10859,7 +10859,7 @@ gweeon
 growlers
 girds 1
 glowering
-geomagnetician
+geomagnetician 1
 gush
 gyri
 grozet
