@@ -1536,7 +1536,7 @@ designer
 delphinium
 dextrously
 dicranoid
-doubtfulness
+doubtfulness 1
 deactivation
 deactivators
 distressedness
@@ -12311,7 +12311,7 @@ devilish
 duskishly
 dinomic
 dye
-dysphrenia
+dysphrenia 1
 deductively
 dragomen
 dishabituated
