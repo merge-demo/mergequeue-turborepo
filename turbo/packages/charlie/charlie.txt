@@ -1702,7 +1702,7 @@ ceraunia
 calorifier
 calorimetry
 calorimetrically
-calorimotor
+calorimotor 1
 calorist
 calorizing
 cawing
