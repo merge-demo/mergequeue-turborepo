@@ -5388,7 +5388,7 @@ griphosaurus 1
 gephyrean
 golaseccan
 gingivitis
-gaea
+gaea 1
 graphitized 1
 glyptolith 1
 galvanocontractility
