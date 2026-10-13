@@ -10785,7 +10785,7 @@ eucrystalline
 elastance
 eurodollar
 eleanor
-expurgatory
+expurgatory 1
 estivates
 euphemizer
 emanation 1
