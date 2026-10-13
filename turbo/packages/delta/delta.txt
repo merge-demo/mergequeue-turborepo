@@ -3189,7 +3189,7 @@ dolmenic
 demimondaine
 dissentient
 distrainor
-defendant
+defendant 1
 decorativeness
 defenestrating
 danae
