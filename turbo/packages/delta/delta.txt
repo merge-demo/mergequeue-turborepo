@@ -2181,7 +2181,7 @@ disinfective 1
 decartelize
 decatize
 doggeries
-decartelizing
+decartelizing 1
 dowries
 decasepalous
 diplograph
