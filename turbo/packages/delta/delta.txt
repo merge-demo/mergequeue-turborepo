@@ -9857,7 +9857,7 @@ daturic
 deuteronomist
 dimeride 1
 dampproofer
-diosgenin
+diosgenin 1
 dumba
 dynamic
 diversipedate
