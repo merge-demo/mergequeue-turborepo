@@ -4836,7 +4836,7 @@ exhalate
 extracurricular
 equitable 1
 exulding
-encouraged
+encouraged 1
 estrous
 excellences
 effulgence
