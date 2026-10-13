@@ -14026,7 +14026,7 @@ eaglestone
 enripen
 escars
 embittered
-emulsin
+emulsin 1
 emmet
 extraspectral
 exordize
