@@ -3213,7 +3213,7 @@ geraniums
 genipa
 gebur
 giron
-goldenseal
+goldenseal 1
 girtonian
 ghosty
 gundelet
