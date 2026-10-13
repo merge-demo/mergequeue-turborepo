@@ -10163,7 +10163,7 @@ dingleberry
 dreidl
 denuclearize
 dingman
-doven
+doven 1
 dings
 despises
 dzeron
