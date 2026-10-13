@@ -5838,7 +5838,7 @@ gawney
 gipsyweed
 glucoses 1
 glances
-glucoside 1
+glucoside 2
 geophagy
 goshawk
 glissading
