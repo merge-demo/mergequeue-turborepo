@@ -4753,7 +4753,7 @@ gobiiform
 glucogenic
 glassware
 gravidly
-gainfulness
+gainfulness 1
 glaciered 1
 gages
 gadi
