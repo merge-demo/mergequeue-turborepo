@@ -17582,7 +17582,7 @@ androspore
 antixerophthalmic
 appendency
 aquacultural
-ausonian
+ausonian 1
 antipodist
 ascii
 alienees
