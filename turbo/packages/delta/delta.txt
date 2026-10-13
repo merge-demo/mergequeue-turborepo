@@ -7818,7 +7818,7 @@ dalecarlian 1
 decapitate
 dutchify
 delthyria
-delates
+delates 1
 diglyphic
 dissertationist
 dinoceras
