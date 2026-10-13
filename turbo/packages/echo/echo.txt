@@ -10785,7 +10785,7 @@ eucrystalline
 elastance
 eurodollar
 eleanor
-expurgatory
+expurgatory 1
 estivates
 euphemizer
 emanation 1
@@ -13984,7 +13984,7 @@ enwreathed
 exundance
 exsuperance 1
 extraperiosteal
-engem 1
+engem 2
 eurodollars
 eucryphia
 eodevonian
