@@ -13666,7 +13666,7 @@ dissimilars
 dentaries 1
 dequantitate
 diedral
-dissimilate
+dissimilate 1
 depletion
 disacquaintance 1
 dissimilative
