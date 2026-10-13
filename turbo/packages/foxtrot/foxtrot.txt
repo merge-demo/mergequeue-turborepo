@@ -11506,7 +11506,7 @@ furunculous
 furzeling
 furzy
 fastest
-flouncy
+flouncy 1
 fluently
 fusariose
 fanfold
