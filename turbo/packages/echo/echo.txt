@@ -7532,7 +7532,7 @@ ebriose
 earnie
 electronics
 eastward 1
-eunuchoidism
+eunuchoidism 1
 epicedium
 entropies
 entopterygoid
