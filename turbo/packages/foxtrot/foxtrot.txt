@@ -10866,7 +10866,7 @@ fishpool 1
 forficate
 flaminian
 fortified
-fumblingly
+fumblingly 1
 fontal
 frisky 1
 flagitiously
