@@ -17633,7 +17633,7 @@ airwise
 appertained
 acrose
 appertainment
-auditory
+auditory 1
 apolaustic
 antiagglutination
 antediluvial
