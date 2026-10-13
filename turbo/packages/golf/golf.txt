@@ -10835,7 +10835,7 @@ genethlialogical 1
 gyrograph
 guemul
 guttar
-guaiacum
+guaiacum 1
 grudgefully
 germanistic
 gentilize
