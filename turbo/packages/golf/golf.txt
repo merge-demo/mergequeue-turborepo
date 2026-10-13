@@ -226,7 +226,7 @@ gaudsman 1
 goldcup
 glagolitsa
 greys
-gooks
+gooks 1
 gravelstone
 gags 1
 gonoecium
