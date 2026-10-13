@@ -7311,7 +7311,7 @@ defiantly
 disprejudice
 deterrent
 demoralised
-deceptive
+deceptive 1
 dodunk 1
 detersiveness
 disunions
