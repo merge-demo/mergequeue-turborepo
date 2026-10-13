@@ -4341,7 +4341,7 @@ dizening
 drawk
 divort
 discouragingness
-demeanor
+demeanor 1
 doit
 disallowableness
 disembark
