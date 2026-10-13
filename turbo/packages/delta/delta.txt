@@ -7100,7 +7100,7 @@ desulfurising
 dinotheriidae
 desulfurizing
 demolitions
-dynamometric
+dynamometric 1
 depictor
 deambulate
 disregarded
