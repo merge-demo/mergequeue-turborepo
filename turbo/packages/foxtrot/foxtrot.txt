@@ -11142,7 +11142,7 @@ fruitiness
 feverbush
 fetometry
 fishtail 1
-fosters
+fosters 1
 footmarks
 furuncular
 flaggery
