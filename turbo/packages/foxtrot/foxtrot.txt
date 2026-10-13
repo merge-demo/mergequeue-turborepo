@@ -8388,7 +8388,7 @@ fatheadedly
 fribby 1
 fickler 1
 formaliser
-fozinesses
+fozinesses 1
 furuncles
 fritting
 freshman
