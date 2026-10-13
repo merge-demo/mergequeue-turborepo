@@ -10488,7 +10488,7 @@ gumweeds
 grillee
 gramenite
 gregal
-glamourousness
+glamourousness 1
 genizero
 gimballed
 geyserite 1
