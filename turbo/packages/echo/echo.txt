@@ -9309,7 +9309,7 @@ estoil
 ekistic
 enkennel
 erthly
-estriate
+estriate 1
 eskers
 ericaceous
 espieglerie
