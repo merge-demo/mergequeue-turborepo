@@ -5531,7 +5531,7 @@ epigrammatised 1
 edessan
 enfeeblish
 epilimnetic
-euhemerizing
+euhemerizing 1
 etherlike
 ecanda
 enfeoffing
