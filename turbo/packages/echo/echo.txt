@@ -5556,7 +5556,7 @@ excriminate 1
 extraovular
 enfilades
 escutcheoned
-encasement
+encasement 1
 enucleator
 electrophobia
 erroneousness
