@@ -5136,7 +5136,7 @@ furless
 flaite
 fayed
 fastuousness
-foretooth
+foretooth 1
 floccular
 fellifluous
 freezable
