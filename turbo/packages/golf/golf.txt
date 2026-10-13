@@ -10196,7 +10196,7 @@ giustamente
 gingko 1
 gargles
 ganzie
-getspa
+getspa 1
 gabriel
 guyers
 gobet
