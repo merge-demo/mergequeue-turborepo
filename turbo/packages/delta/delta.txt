@@ -7776,7 +7776,7 @@ devoir
 destabilizing
 devoirs
 dholes
-devolatilised
+devolatilised 1
 dosimetries
 dryrot
 diplospondyli
