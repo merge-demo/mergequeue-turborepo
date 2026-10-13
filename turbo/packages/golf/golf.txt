@@ -8040,7 +8040,7 @@ guttulae
 geminiflorous
 glyceryl 2
 gruffness
-gravels
+gravels 1
 glenoidal
 granitiform
 geomancer
