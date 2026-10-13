@@ -4180,7 +4180,7 @@ glairiness 1
 grovelling
 gonoblast
 gumptionless
-gratitude
+gratitude 1
 greenovite
 gunsling
 guimpes
