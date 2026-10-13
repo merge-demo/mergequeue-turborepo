@@ -16037,7 +16037,7 @@ dodgeful
 diminishable 1
 dropsied
 doubloon
-doublures 1
+doublures 2
 doab
 diaphote
 doaty 1
