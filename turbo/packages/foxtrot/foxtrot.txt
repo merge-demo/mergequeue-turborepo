@@ -8314,7 +8314,7 @@ fils
 furriner 1
 flagellata 1
 feely
-forkedness
+forkedness 1
 folderol
 frumpish
 fewsome 1
