@@ -7966,7 +7966,7 @@ eirack
 embox
 estab 1
 eliminand
-enomaniac
+enomaniac 1
 epidermous
 epineuneuria 1
 enterocholecystostomy
