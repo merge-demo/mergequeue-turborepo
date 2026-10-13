@@ -2270,7 +2270,7 @@ flavones
 finlandization
 filamentiferous
 fantails
-folktale
+folktale 1
 fulmineous
 fluorocarbons
 fibrochondrosteal
