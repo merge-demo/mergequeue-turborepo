@@ -10038,7 +10038,7 @@ escargots
 eternisation
 elegious
 extradural
-entomological
+entomological 1
 epicuticle
 eternish
 elod
