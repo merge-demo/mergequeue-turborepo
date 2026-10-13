@@ -6067,7 +6067,7 @@ gardinol 1
 gulleries
 gyrous
 gurniad
-genuflections
+genuflections 1
 gastroid
 geissorhiza
 griege
