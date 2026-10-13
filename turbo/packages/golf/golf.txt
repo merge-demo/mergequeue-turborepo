@@ -10655,7 +10655,7 @@ gametogony 1
 gladius
 goatsbane
 galp
-gazaboes
+gazaboes 1
 glaiketness
 genuflexion
 glottologist

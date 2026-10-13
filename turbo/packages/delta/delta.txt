@@ -3551,7 +3551,7 @@ desulphurizer
 diagrammatize
 diodont
 docosane
-deprecatorily
+deprecatorily 1
 dragonhead
 degenerately
 degenerateness
