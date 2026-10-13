@@ -2456,7 +2456,7 @@ geographers
 glacionatant
 gaps
 gloaming 2
-gaiting
+gaiting 1
 goniac
 generatrix
 gabrielrache 1
@@ -10835,7 +10835,7 @@ genethlialogical 1
 gyrograph
 guemul
 guttar
-guaiacum
+guaiacum 1
 grudgefully
 germanistic
 gentilize
