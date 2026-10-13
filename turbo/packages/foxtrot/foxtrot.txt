@@ -7560,7 +7560,7 @@ funiculus
 fanciers
 flintworker
 frizzes
-foreshadow
+foreshadow 1
 forespeak
 fervors 1
 forgathers 1
