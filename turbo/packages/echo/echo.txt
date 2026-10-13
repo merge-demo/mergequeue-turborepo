@@ -4233,7 +4233,7 @@ empuzzle
 eosinophilous
 eerie
 empirically
-epicurism
+epicurism 1
 euascomycetes
 emulant
 earwiggy
