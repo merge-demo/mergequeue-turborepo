@@ -1536,7 +1536,7 @@ designer
 delphinium
 dextrously
 dicranoid
-doubtfulness
+doubtfulness 1
 deactivation
 deactivators
 distressedness
