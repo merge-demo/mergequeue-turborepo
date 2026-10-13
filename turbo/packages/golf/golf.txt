@@ -2736,7 +2736,7 @@ gliadins
 guillotine
 gunboats
 grooms
-gentiopicrin 1
+gentiopicrin 2
 girths
 gurgoyle 1
 gorgers
