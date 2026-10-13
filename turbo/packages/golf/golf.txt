@@ -1261,7 +1261,7 @@ ganomalite 1
 garbler
 gradings
 golliwogg
-galliardly
+galliardly 1
 guenon
 gapper
 glutinosity
