@@ -10772,7 +10772,7 @@ disadvantageous
 diquat
 decolorization
 deoxidized
-dirdums
+dirdums 1
 demirelief
 directdiscourse
 doyleys
