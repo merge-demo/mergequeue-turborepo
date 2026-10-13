@@ -8509,7 +8509,7 @@ disaccharides
 disconduce
 dinked
 diapause
-diapauses
+diapauses 1
 donaries
 dodecastylos
 divinations
