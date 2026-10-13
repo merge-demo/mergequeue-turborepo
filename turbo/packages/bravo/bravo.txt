@@ -2020,7 +2020,7 @@ bimbo
 believably
 bedstand
 brachydiagonal
-bourdis
+bourdis 1
 baniya
 baning
 bandcutter
