@@ -10705,7 +10705,7 @@ amylose
 achree
 africans
 angiotribe
-acuminous
+acuminous 1
 amyls
 amylum
 abib
