@@ -1491,7 +1491,7 @@ edomite
 ethicalness
 endosiphonate
 enervative
-equippers
+equippers 1
 estivate 1
 elytrigerous
 ebbs
