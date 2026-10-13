@@ -6067,7 +6067,7 @@ gardinol 1
 gulleries
 gyrous
 gurniad
-genuflections
+genuflections 1
 gastroid
 geissorhiza
 griege
@@ -9883,7 +9883,7 @@ guarand
 gimlety
 grazes
 girleen
-golding
+golding 1
 glaucophyllous
 galloons
 gammerel
