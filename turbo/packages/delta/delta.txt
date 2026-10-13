@@ -9456,7 +9456,7 @@ dowel
 dustiest
 detester
 desultor
-disparateness
+disparateness 1
 dopy
 digestibility
 diaconicum
