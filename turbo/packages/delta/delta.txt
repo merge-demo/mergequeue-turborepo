@@ -10294,7 +10294,7 @@ demurrers
 diagrammers
 ditton
 diopter
-diopters
+diopters 1
 decumary
 diacetylene
 discounter
