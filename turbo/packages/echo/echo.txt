@@ -2005,7 +2005,7 @@ expeditious
 excitableness
 eucleidae
 epilate
-ektexine
+ektexine 1
 elabor
 episternite
 evictees
