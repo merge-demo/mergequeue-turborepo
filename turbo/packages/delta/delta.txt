@@ -13223,7 +13223,7 @@ darya
 depolarizer
 displicence
 drawsheet
-desaurine
+desaurine 1
 dendrobe
 deportable
 deuterofibrinose
