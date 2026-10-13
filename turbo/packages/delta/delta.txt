@@ -4341,7 +4341,7 @@ dizening
 drawk
 divort
 discouragingness
-demeanor
+demeanor 1
 doit
 disallowableness
 disembark
@@ -18542,7 +18542,7 @@ dekalitre
 durmast 1
 dirging 1
 durndest
-duny
+duny 1
 disharmonizing
 deviltries 1
 denuding
