@@ -2794,7 +2794,7 @@ decried
 desistive 1
 deerflys
 disulphonate
-decries
+decries 1
 decrying
 danegelt
 dielectrically
