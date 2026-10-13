@@ -12712,7 +12712,7 @@ elmer
 everbearer
 era
 eelback
-earcockle
+earcockle 1
 energizing
 exophasic
 etchers 1

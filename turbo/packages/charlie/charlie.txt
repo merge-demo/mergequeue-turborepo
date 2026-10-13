@@ -21616,7 +21616,7 @@ camphorating
 condensity
 condescended
 courtesying
-condescender
+condescender 1
 condescending
 capot 1
 condescendingly
