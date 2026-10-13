@@ -943,7 +943,7 @@ emanatory
 exeresis
 ecuadorian
 ecumenacy
-engraffing
+engraffing 1
 electroforming 1
 equilibristic
 effluvium
