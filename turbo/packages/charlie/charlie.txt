@@ -9581,7 +9581,7 @@ cankerworm
 calciminer
 chanfrin
 cheek
-cheekbone
+cheekbone 1
 cheekbones
 crepeier
 counteracting
