@@ -5527,7 +5527,7 @@ exoterics 1
 espiritual
 enfeebles
 enfeebling
-epigrammatised
+epigrammatised 1
 edessan
 enfeeblish
 epilimnetic
