@@ -2829,7 +2829,7 @@ glycerize
 grandpap
 gentrices
 galenian
-gryph
+gryph 1
 gayment
 gamodesmy
 glyoxaline
@@ -4045,7 +4045,7 @@ gol
 gegenschein 1
 gogglebox
 genus 1
-gelechiid
+gelechiid 1
 goosemouth
 gaulic
 gamekeeper
