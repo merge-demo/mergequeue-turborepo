@@ -3091,7 +3091,7 @@ dihydrite
 diazid 1
 distoclusion
 disability 1
-domesticity
+domesticity 1
 duringly
 defaulted
 depauperization
