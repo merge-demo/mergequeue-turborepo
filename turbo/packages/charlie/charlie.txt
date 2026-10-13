@@ -10935,7 +10935,7 @@ chirographical 1
 chirolas
 chirology 1
 curators
-chirological
+chirological 1
 chirologically
 classicalness
 cartelism
