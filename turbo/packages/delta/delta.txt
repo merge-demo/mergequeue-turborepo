@@ -4361,7 +4361,7 @@ dastur 1
 disassembled
 dementation
 dementedly
-draughtier
+draughtier 1
 dementholize
 deplorer
 disseated
