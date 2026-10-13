@@ -2556,7 +2556,7 @@ drepania
 dangled
 detoured
 dermobranchia
-durable
+durable 1
 decartelized
 declutch
 dieretic
