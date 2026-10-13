@@ -2360,7 +2360,7 @@ gutturalisation
 grubbiness 1
 gainturn
 guavaberry 1
-ghazal
+ghazal 1
 grundified
 glandes
 geraty
