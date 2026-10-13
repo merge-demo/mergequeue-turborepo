@@ -3815,7 +3815,7 @@ endodontically
 exclam
 electrized
 ekerite
-expiratory
+expiratory 1
 esthetical
 emparl 1
 extolled
