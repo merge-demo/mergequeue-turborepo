@@ -6918,7 +6918,7 @@ expense
 embargoed 1
 evangelicality
 enjoyableness
-entosternal 1
+entosternal 2
 erick
 empiriocritcism 1
 eleganter
@@ -9454,7 +9454,7 @@ ecbolics 1
 embedment
 eam
 embost
-euryale
+euryale 1
 eses
 epicism
 erythron
