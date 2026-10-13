@@ -3844,7 +3844,7 @@ farcer
 frizette
 forewarm
 formalisms
-focalising
+focalising 1
 fulgurous
 feces
 frustulum
