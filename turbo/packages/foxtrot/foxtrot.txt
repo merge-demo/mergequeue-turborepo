@@ -1109,7 +1109,7 @@ foughten
 farsighted
 fiddled
 flatiron
-flots
+flots 1
 farsightedness 1
 fifing
 flooring

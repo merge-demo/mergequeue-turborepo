@@ -684,7 +684,7 @@ digestory
 deans
 despairs 1
 dampproofing
-doumaist
+doumaist 1
 distend
 distributes
 damselfishes
