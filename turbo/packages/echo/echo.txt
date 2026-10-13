@@ -6149,7 +6149,7 @@ ethicizes 1
 emusified
 ethnomusicological
 elans
-evolvent
+evolvent 1
 enneagonal
 etymologizable 1
 enigua
