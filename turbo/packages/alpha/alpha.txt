@@ -22789,7 +22789,7 @@ atlantite
 arthrodic
 antiliturgic
 antigenically
-ammodytes
+ammodytes 1
 antipopulationist
 autokrator
 annulets
