@@ -5998,7 +5998,7 @@ fluty 1
 floreating 1
 folletto
 flabbiness
-filarious
+filarious 1
 fresco
 fermorite
 flightiness
