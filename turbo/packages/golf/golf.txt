@@ -7855,7 +7855,7 @@ garlandlike
 gurdle 1
 ghostlikeness
 grammatics
-gammers
+gammers 1
 gastropodous
 galik
 guepard
