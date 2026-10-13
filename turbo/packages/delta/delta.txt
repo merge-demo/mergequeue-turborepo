@@ -7915,7 +7915,7 @@ durban 1
 dramaticule
 devilries
 distilery
-dowitch
+dowitch 1
 didapper
 demur
 doublets
