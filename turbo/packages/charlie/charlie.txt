@@ -7333,7 +7333,7 @@ cephalogram
 cephaloid
 culminates
 crepuscle
-cephalology 1
+cephalology 2
 cephalom
 catalogic
 coquettishness
