@@ -3794,7 +3794,7 @@ filo
 filose
 founce
 ferrier
-furnitureless 1
+furnitureless 2
 foreflap
 filterableness
 fractable 1
