@@ -7269,7 +7269,7 @@ empolder
 establisher 1
 epa
 equiatomic
-efferous
+efferous 1
 expeditating
 explodent
 elutor
