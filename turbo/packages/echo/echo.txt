@@ -4819,7 +4819,7 @@ enemas
 excitive
 ensorrow
 epicranium
-einkorns
+einkorns 1
 equivocality
 encountered
 epigenesist
@@ -6409,7 +6409,7 @@ ensilver 1
 ensisternum
 eye
 earthling
-enterprisingness
+enterprisingness 1
 euthanasia
 enbaissing
 edgeweed

@@ -6304,7 +6304,7 @@ gastrectasis 1
 grotesqueries
 gradating
 goethian 1
-gam
+gam 1
 groceries
 gardeen
 geotropism
@@ -7705,7 +7705,7 @@ guilfat 1
 gittern
 gadolinic
 grassroots
-gnomist
+gnomist 1
 gonys
 gandhi
 gloea
