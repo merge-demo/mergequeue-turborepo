@@ -4904,7 +4904,7 @@ growze
 gauziest
 ganancias 1
 gymnogen
-gawker
+gawker 1
 galling
 goodwilled
 gigantic
