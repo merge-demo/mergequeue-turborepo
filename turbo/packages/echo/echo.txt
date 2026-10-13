@@ -3708,7 +3708,7 @@ extratellurian
 eluates
 ecklein 1
 epitheliosis
-enantiotropic
+enantiotropic 1
 elucidators
 embryophore
 educations
