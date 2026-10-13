@@ -13027,7 +13027,7 @@ angustifolious
 angustisellate
 antispectroscopic
 angustiseptal
-accommodable
+accommodable 1
 alfridaric
 argals
 angwich
