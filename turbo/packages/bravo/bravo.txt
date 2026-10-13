@@ -6977,7 +6977,7 @@ batching
 brubru
 brachinus
 bleacherman 1
-beastbane
+beastbane 1
 bewildering
 beshrews
 bebrine 1
