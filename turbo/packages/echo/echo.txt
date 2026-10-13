@@ -4075,7 +4075,7 @@ engrammatic
 elve
 eucrasy
 eutherian
-ecthymata
+ecthymata 1
 euthymy 1
 esthetophore
 equitant
