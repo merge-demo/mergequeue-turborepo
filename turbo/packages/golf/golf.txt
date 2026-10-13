@@ -2263,7 +2263,7 @@ geoplanidae 1
 glucokinase
 gringolee
 gonimic
-gapperi
+gapperi 1
 greeney
 geopolitik
 gradation
