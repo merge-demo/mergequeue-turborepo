@@ -1655,7 +1655,7 @@ deaminize
 deammonation
 deashing 1
 dichastic
-dandle
+dandle 1
 deanships
 dothiorella 1
 dehull
