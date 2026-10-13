@@ -11066,7 +11066,7 @@ checksums
 coappears
 chitinoid
 chitinous
-chitins
+chitins 1
 chitlin
 chitling 1
 chitlings
