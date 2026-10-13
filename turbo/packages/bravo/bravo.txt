@@ -4002,7 +4002,7 @@ bnf 1
 bespy
 beaching
 beachman
-buenas
+buenas 1
 berchta
 bounteousness
 becrawl
