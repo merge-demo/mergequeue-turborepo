@@ -12896,7 +12896,7 @@ basichromatin
 banyoro
 bacciform 1
 billers
-boorishness
+boorishness 1
 bulldog
 bertrandite
 blondes
