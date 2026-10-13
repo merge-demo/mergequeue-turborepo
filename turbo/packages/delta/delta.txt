@@ -2645,7 +2645,7 @@ desmoma
 decompress
 decompresses
 demiplacate
-dogies
+dogies 1
 dcollet
 dhurnas
 dishonourer
