@@ -378,7 +378,7 @@ gasogenic
 graphium
 gangrenous
 gunsmith
-goniometrical
+goniometrical 1
 guyer
 galactosis
 grimsire
