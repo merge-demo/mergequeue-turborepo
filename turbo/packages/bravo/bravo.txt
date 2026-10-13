@@ -3605,7 +3605,7 @@ bien
 bathysophical 2
 bathysphere
 bigmouths 1
-boliviano
+boliviano 1
 bathythermograph
 bipartite
 bathmat
