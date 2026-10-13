@@ -11475,7 +11475,7 @@ announcers
 ammines
 amputees
 angiographic
-ajugas 1
+ajugas 2
 attendants
 anywheres
 assets
