@@ -5025,7 +5025,7 @@ flatbeds
 fungoidal
 forepaw 2
 ferries
-fumatory
+fumatory 1
 forekeel
 fragrance
 faconne 1
