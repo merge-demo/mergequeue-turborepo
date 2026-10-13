@@ -12923,7 +12923,7 @@ erythropenia
 engr
 eosaurus
 erne
-expeditiousness
+expeditiousness 1
 ecchymose
 epithymetic
 energetically

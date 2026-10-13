@@ -21566,7 +21566,7 @@ concurring
 concurs
 christologist
 concursion
-copesmate
+copesmate 1
 compulsorily
 computable
 concurso
