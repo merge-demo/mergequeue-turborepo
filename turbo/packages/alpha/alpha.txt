@@ -20966,7 +20966,7 @@ ascaridae
 ascarides
 authoresses
 appertains
-adipometer
+adipometer 1
 altaic
 acclimated 1
 adjustores

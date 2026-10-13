@@ -4357,7 +4357,7 @@ digenous
 demele
 dirled
 demembre 1
-dastur
+dastur 1
 disassembled
 dementation
 dementedly
