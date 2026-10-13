@@ -5442,7 +5442,7 @@ goulan
 glisten 1
 guttering
 gigeria
-glisteringly
+glisteringly 1
 gorblimy
 grubble
 gerridae
