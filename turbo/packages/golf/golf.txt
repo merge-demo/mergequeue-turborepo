@@ -6233,7 +6233,7 @@ gobbled
 gidjee 1
 gothicizer 1
 graecian
-gyroidal
+gyroidal 1
 grundyist
 galop
 genion 1
