@@ -6994,7 +6994,7 @@ centauress
 centaury
 carburetted
 carnal
-chink
+chink 1
 centauric
 checkline 1
 centauridium
