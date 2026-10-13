@@ -6037,7 +6037,7 @@ fraternate
 flocculating 1
 frayn
 floridity
-floriscope
+floriscope 1
 fetterbush
 faba 1
 filmgoing
