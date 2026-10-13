@@ -2549,7 +2549,7 @@ fluvicoline
 farrand
 flimp
 ferricyanide
-fervency
+fervency 1
 freshmanship
 feedsman
 femorotibial
