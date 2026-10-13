@@ -7020,7 +7020,7 @@ francis 1
 floater
 fulfilment
 fimbriae
-functioning
+functioning 1
 fulfilled
 fatalities
 flowk
