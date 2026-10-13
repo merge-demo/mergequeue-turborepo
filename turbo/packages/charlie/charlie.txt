@@ -4250,7 +4250,7 @@ caresser
 choosable
 clobberer 1
 caressers
-costively
+costively 1
 caressingly
 cachinnation
 chainwork
