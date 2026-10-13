@@ -2587,7 +2587,7 @@ fangle
 fiscality
 featherlight
 filthy
-feoffed
+feoffed 1
 fancily
 ferromanganese
 ferrometer
@@ -8513,7 +8513,7 @@ fortification
 flatweed
 forgainst 1
 formulisation
-fred
+fred 1
 frenchwise
 fluorographic
 fleered
