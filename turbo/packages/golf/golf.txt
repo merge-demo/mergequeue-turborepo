@@ -6336,7 +6336,7 @@ gooseries
 gossaniferous 1
 graphiologist
 gog
-graymill
+graymill 1
 gospelwards
 germanophile 1
 grow
@@ -10859,7 +10859,7 @@ gweeon
 growlers
 girds 1
 glowering
-geomagnetician
+geomagnetician 1
 gush
 gyri
 grozet
