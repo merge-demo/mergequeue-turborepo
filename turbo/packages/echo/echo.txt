@@ -7378,7 +7378,7 @@ eyres
 epencephala
 embittering
 ejaculating
-emprise
+emprise 1
 ethidene
 eagled
 enantiomorphously 1
