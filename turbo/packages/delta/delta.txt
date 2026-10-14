@@ -7545,7 +7545,7 @@ deuterotype 1
 deuterozooid
 dental
 didynamies
-discreetness
+discreetness 1
 depoliticize
 dilute
 djellaba
