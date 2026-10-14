@@ -11620,7 +11620,7 @@ fustics
 fiz
 feinschmecker
 fussbudget
-forint
+forint 1
 facsimile
 fortissimi
 farci

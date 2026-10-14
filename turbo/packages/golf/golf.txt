@@ -5217,7 +5217,7 @@ ganching
 grihyasutra
 guessingly 1
 galoubet
-genesic
+genesic 1
 granddaddy
 glooming
 guaranies 1
