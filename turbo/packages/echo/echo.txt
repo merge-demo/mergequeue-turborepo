@@ -953,7 +953,7 @@ embalming
 evader
 entailments
 euchrone 1
-effronteries
+effronteries 1
 erythroblastotic
 enhearse
 eudiagnostic
@@ -6846,7 +6846,7 @@ entrap
 entomologized
 enstatolite
 exaugurate
-euryalidan
+euryalidan 1
 engle
 extramarginal
 ey
