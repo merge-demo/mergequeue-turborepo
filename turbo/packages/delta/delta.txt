@@ -4083,7 +4083,7 @@ demagnetised
 dianthuses
 debye
 deliration
-delire
+delire 1
 documentary
 deadworks
 dipodidae
