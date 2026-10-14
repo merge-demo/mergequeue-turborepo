@@ -4712,7 +4712,7 @@ gosther
 garbline
 gelidly
 gametophyll 1
-gesticulates
+gesticulates 1
 goosegirl
 glucke
 glene
