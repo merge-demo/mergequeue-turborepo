@@ -5459,7 +5459,7 @@ energesis
 energetic
 electrochronographic 1
 extrinsicality
-eleutherophyllous
+eleutherophyllous 1
 earmark
 echoized 1
 epilobium
