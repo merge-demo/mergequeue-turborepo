@@ -18666,7 +18666,7 @@ danaide
 draffiest
 displaying
 dwalm
-dwarfer
+dwarfer 1
 duckboat
 dwarfishness
 documentarily
