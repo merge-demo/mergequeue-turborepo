@@ -9724,7 +9724,7 @@ disapprovable
 decolourization
 dilatometer
 dilatometrically
-dynamometers
+dynamometers 1
 dcbname
 dilatoriness 1
 daypeep
