@@ -8045,7 +8045,7 @@ epigrammatizer
 earnests
 epiphegus
 enwombed 1
-emgalla
+emgalla 1
 eteocles 2
 ectodermal
 exteriorly
