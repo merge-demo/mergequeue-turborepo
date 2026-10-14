@@ -7240,7 +7240,7 @@ geissolomataceous
 graduators
 grundyism
 grace
-gormandism
+gormandism 1
 gormandize
 gormandizes
 gundeck 2
