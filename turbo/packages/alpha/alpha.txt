@@ -1617,7 +1617,7 @@ alliably
 anticonscriptive
 arsinoitherium
 argyrosis
-arilliform
+arilliform 1
 arricci
 accrescendo
 accretal
