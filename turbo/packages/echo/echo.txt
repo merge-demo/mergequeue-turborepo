@@ -4772,7 +4772,7 @@ erethic
 eguttulate
 enterotomy
 epiopticon
-excusatory
+excusatory 1
 encode
 epistolic
 exitance
