@@ -3225,7 +3225,7 @@ getatability
 gally 1
 graffage
 gazement 1
-gormandizer
+gormandizer 1
 gothics
 gynecologists
 gringos
