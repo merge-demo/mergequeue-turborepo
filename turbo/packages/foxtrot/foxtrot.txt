@@ -3782,7 +3782,7 @@ fraterniser
 flyflap 1
 freon
 ferritization
-frizzliest
+frizzliest 1
 fistulate
 frijolillo
 filigreeing
