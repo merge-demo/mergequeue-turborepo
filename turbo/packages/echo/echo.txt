@@ -5156,7 +5156,7 @@ endoenzyme
 epitrochoid
 elytrorrhaphy
 earbob
-epicarp
+epicarp 1
 encyclic
 erava
 essonite
