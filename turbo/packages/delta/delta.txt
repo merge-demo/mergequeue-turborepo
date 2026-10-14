@@ -8011,7 +8011,7 @@ dialects
 defences
 dulses
 derbylite
-doylt
+doylt 1
 dietician
 duomi
 dispersion
