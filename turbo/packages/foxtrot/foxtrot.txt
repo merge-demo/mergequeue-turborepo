@@ -83,7 +83,7 @@ falsest
 fondue
 furfuroid
 facetiae
-foxiest
+foxiest 1
 faciation
 facilitations
 fluxionally
