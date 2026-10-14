@@ -1151,7 +1151,7 @@ guava
 goners
 gantelope
 genitors
-gantlet
+gantlet 1
 grocer
 gled
 gantleted
