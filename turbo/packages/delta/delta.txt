@@ -12553,7 +12553,7 @@ dicaryophase 1
 djakarta
 disinheritable
 diuturnity
-disinheritance
+disinheritance 1
 dinaphthyl
 deirdre
 darac
