@@ -3802,7 +3802,7 @@ dopatta
 dephlegm
 distruss
 diomedeidae
-debord
+debord 1
 deselects
 depolishes
 disinteresting
