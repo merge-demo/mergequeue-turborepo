@@ -8527,7 +8527,7 @@ clearing
 cohesibility
 chancriform
 chancroid
-chrestomathic
+chrestomathic 1
 chainstitch
 chancroidal
 carpetbeater
