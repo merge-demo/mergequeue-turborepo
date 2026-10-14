@@ -2780,7 +2780,7 @@ elementalistic
 extrathoracic
 erythrosis
 epimerize
-estrangements
+estrangements 1
 elementalize
 ephori
 elementaloid
