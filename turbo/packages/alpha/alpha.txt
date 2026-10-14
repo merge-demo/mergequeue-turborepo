@@ -14927,7 +14927,7 @@ anticoagulant
 autocoprophagous
 anticoagulation
 anticoagulative
-acariasis
+acariasis 1
 aenach
 ampliate
 acosmistic
