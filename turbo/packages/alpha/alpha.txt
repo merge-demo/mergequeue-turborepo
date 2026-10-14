@@ -15730,7 +15730,7 @@ antipatriotism
 arterioplasty
 agada
 apodeme
-algesimeter
+algesimeter 1
 antipeduncular
 anthinae
 acoemetae
