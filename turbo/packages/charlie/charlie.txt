@@ -21301,7 +21301,7 @@ concettism
 conch
 concha
 corniches
-cires
+cires 1
 countenance
 celiitis
 cogitated
