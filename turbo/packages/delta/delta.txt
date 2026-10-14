@@ -8076,7 +8076,7 @@ disembowelled
 drawable
 detrimentalness
 doghole
-definienda
+definienda 1
 diabetes
 drollery
 diaphyses
