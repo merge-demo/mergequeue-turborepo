@@ -2152,7 +2152,7 @@ flarer
 fitch
 fawnier
 filippi
-fallenness
+fallenness 1
 flypapers 1
 farrowed
 fliskiest
