@@ -10919,7 +10919,7 @@ eupyrion 1
 eupittone
 ethenyl
 engrammes
-exams
+exams 1
 eventognathi
 eupittonic
 euplexoptera
