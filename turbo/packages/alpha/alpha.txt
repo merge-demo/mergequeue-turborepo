@@ -8023,7 +8023,7 @@ adenomatome
 aggravations
 autoceptive
 antiexpansionist
-addlepatedness
+addlepatedness 1
 alexandrine
 accadian 1
 altruistically
