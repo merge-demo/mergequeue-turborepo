@@ -24371,7 +24371,7 @@ abridged
 ankylomele
 arksutite
 apothec
-autoscope
+autoscope 1
 autoscopic
 apparentation
 antagonise

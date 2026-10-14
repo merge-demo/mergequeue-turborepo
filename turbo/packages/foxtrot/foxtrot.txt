@@ -10522,7 +10522,7 @@ fittingly
 forays
 flyback
 federalizations
-fortuities
+fortuities 1
 flees 1
 frotton
 fum
