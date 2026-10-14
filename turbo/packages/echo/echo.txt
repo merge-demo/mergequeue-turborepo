@@ -4961,7 +4961,7 @@ entoplastron
 exsanguious
 endeavourer
 edith
-encouragement
+encouragement 1
 endeavouring
 egression
 endeictic
