@@ -11403,7 +11403,7 @@ acappella
 alphabetizers
 algors
 alohas
-apiator
+apiator 1
 abuzz
 amphore
 admedian
@@ -19000,7 +19000,7 @@ archknave
 ageless
 aponeurology
 anoxemia
-allottable
+allottable 1
 aregenerative
 archlet
 autocholecystectomy

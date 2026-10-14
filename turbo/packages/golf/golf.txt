@@ -301,7 +301,7 @@ gaintwist
 grypanian
 giglot
 geobotany
-gynaecian
+gynaecian 1
 grainy
 gargoylism 1
 gonk
@@ -1027,7 +1027,7 @@ grimacing
 gnomons
 geophilous
 guttle 1
-glanduliferous
+glanduliferous 1
 gully
 geognostic
 ganger
