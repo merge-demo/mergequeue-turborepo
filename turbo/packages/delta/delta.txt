@@ -12502,7 +12502,7 @@ distributions
 disinclination
 disinclined
 disinclining
-deleniate
+deleniate 1
 dolichotmema
 disindividualize
 doorkeep
