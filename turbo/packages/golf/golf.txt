@@ -1825,7 +1825,7 @@ guinean
 gullah
 gatekeeper
 grizel
-glummer
+glummer 1
 gibbles
 gabbier
 gatekeepers
