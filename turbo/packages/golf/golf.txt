@@ -1068,7 +1068,7 @@ gift 1
 gymnospermism
 gruffish
 guck
-gremial
+gremial 1
 gynomonoecism
 gambesons
 gentlewomanhood
