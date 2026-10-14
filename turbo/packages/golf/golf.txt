@@ -301,7 +301,7 @@ gaintwist
 grypanian
 giglot
 geobotany
-gynaecian
+gynaecian 1
 grainy
 gargoylism 1
 gonk
@@ -9225,7 +9225,7 @@ ghosts
 groanful
 gizzened
 gayly
-gastrectasia
+gastrectasia 1
 grotesqueness
 gastrocnemius
 greenhearted
