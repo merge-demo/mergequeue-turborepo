@@ -21179,7 +21179,7 @@ concenter
 compasses
 cyclonoscope 1
 concento
-concolor
+concolor 1
 comminuting
 chemicobiological
 concentrated
