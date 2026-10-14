@@ -53,7 +53,7 @@ groats 1
 graperies
 gangue
 glaucolite
-guemal
+guemal 1
 geometrine
 gelatinousness 1
 glucosidic
