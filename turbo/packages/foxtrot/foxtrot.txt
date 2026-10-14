@@ -2680,7 +2680,7 @@ foretellable
 frizziness
 fervence
 ferventness
-fishify
+fishify 1
 fuminess
 flamant
 flambe
