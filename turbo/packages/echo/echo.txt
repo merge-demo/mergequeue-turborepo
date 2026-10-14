@@ -2550,7 +2550,7 @@ endocritic
 eminency
 eatable 1
 embracery
-ezra
+ezra 1
 emptiable
 expertizing
 electrometer
