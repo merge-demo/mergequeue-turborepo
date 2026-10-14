@@ -301,7 +301,7 @@ gaintwist
 grypanian
 giglot
 geobotany
-gynaecian
+gynaecian 1
 grainy
 gargoylism 1
 gonk
