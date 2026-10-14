@@ -10126,7 +10126,7 @@ gipsyhead
 guffer
 gamasid
 guggle
-glottologic
+glottologic 1
 gaby
 guglet
 gudesake 1
