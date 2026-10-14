@@ -19717,7 +19717,7 @@ aristology
 anamite
 anglesmith
 acrostichal 1
-aristologist
+aristologist 1
 aristophanic
 arteriorrhexis
 actinocutitis
