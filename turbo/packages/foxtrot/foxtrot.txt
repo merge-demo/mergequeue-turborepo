@@ -180,7 +180,7 @@ finitary
 fluoridise
 factoryship
 floatiness
-fusinite
+fusinite 1
 flashily
 feuar
 foreignism
