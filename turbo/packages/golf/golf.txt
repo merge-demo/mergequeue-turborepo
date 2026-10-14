@@ -3186,7 +3186,7 @@ ganglial
 gooier
 geotaxy
 gie
-geologers
+geologers 1
 grattoirs
 gotiglacial
 guerdoning
