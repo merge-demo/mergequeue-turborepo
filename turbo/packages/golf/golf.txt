@@ -1027,7 +1027,7 @@ grimacing
 gnomons
 geophilous
 guttle 1
-glanduliferous
+glanduliferous 1
 gully
 geognostic
 ganger
