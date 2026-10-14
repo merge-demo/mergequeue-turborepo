@@ -6465,7 +6465,7 @@ guddling
 genetic
 glaikitness
 gariba
-galvanocautery
+galvanocautery 1
 golly 1
 gleanings
 glucolipine
