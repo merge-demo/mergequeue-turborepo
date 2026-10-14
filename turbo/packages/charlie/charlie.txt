@@ -19988,7 +19988,7 @@ cubbish
 conductive
 cheerily
 commeasure
-commeasured
+commeasured 1
 commeddle
 civically
 commelina
