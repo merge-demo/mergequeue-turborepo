@@ -2464,7 +2464,7 @@ futility
 fenestrule
 fedoras
 fuddlement
-footscraper
+footscraper 1
 forcipial
 fermillet
 favonian
