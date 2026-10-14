@@ -8198,7 +8198,7 @@ empirics
 exogeny
 exigeant
 epiphany 1
-enkraal
+enkraal 1
 electrothermometer
 extinctive
 eucrasia 2
