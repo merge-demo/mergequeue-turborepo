@@ -11727,7 +11727,7 @@ futurition
 fashionably 1
 fratority
 futurologist
-funebrous
+funebrous 1
 filibustered
 flatland
 floodlilit
