@@ -9966,7 +9966,7 @@ extrospection
 eighteenmos
 englishize
 estuosity
-edibleness
+edibleness 1
 endophagy
 endamnify
 erythromelalgia
