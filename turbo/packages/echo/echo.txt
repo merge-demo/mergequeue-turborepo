@@ -8423,7 +8423,7 @@ epizootology
 estensible
 enwrought
 epocha
-epollicate
+epollicate 1
 ethoses
 eponge 1
 exhibitioner 2
