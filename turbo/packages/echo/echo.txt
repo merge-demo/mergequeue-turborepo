@@ -10742,7 +10742,7 @@ euphonic
 enid
 ephemerae
 enclaret
-endorsee
+endorsee 1
 extort
 evangelically
 ephemeran
