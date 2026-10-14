@@ -4532,7 +4532,7 @@ derere
 diastases
 disorienting
 dellies
-disroof
+disroof 1
 debentured
 disavows
 disgust 1
