@@ -9678,7 +9678,7 @@ fidging
 frazing
 foreigns
 fideicommissum
-firmly
+firmly 1
 forgoers
 frenatae
 frenched
