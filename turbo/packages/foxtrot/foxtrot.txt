@@ -4415,7 +4415,7 @@ frogwort
 felstone
 frenghi
 fraiser
-fei
+fei 1
 falsary
 fovent
 flogmaster
