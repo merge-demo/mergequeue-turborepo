@@ -11104,7 +11104,7 @@ functors
 formational
 foulard
 ferison
-functus
+functus 1
 furivae
 fessewise
 frugalism
