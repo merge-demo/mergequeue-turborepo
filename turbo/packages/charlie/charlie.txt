@@ -19592,7 +19592,7 @@ crackback
 cunnilinguism
 columniform
 contralto
-cherimoya
+cherimoya 1
 circumaction
 coitional
 cervicohumeral
