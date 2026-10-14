@@ -13876,7 +13876,7 @@ barleybird
 brooch 1
 biduous
 boathook
-bowheads
+bowheads 1
 balr
 beanfeast
 beadiest 1
