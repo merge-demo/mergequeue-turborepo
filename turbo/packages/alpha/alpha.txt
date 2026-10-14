@@ -4743,7 +4743,7 @@ aequi
 ausgespielt
 aranein
 albuminimetry
-attemperation
+attemperation 1
 aequor
 altitudes
 aequorins
