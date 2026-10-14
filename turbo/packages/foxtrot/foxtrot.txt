@@ -10894,7 +10894,7 @@ furore
 fullish
 foeman 1
 frigorifico
-fulgurated
+fulgurated 1
 finished
 fucused
 fractural
