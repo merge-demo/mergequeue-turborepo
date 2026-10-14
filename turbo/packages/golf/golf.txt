@@ -5279,7 +5279,7 @@ galactosemia 1
 gulfier
 glyconic
 grandiloquently 1
-glenlike
+glenlike 1
 glycopeptide
 galivant
 gynecomastism

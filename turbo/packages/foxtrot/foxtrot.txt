@@ -1181,7 +1181,7 @@ fascintatingly
 flavopurpurin
 forcer
 filicineae
-fraying
+fraying 1
 frighteningness
 finecomb
 friponerie
