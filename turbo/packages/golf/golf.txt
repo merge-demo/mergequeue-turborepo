@@ -578,7 +578,7 @@ gynaecocoenic
 globelet
 giftie
 gladding
-gallicizer
+gallicizer 1
 galliform
 gomphrena
 gridlock
