@@ -12187,7 +12187,7 @@ exacervation
 excogitation
 enflame
 entrechats
-emanated 2
+emanated 3
 embrighten
 emerized
 excelse
@@ -13275,7 +13275,7 @@ eponymize
 explosimeter
 ensheath
 epignathous
-eyedroppers
+eyedroppers 1
 eyliad
 egregious 1
 enflagellation
