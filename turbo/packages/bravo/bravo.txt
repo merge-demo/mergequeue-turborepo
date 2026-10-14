@@ -4102,7 +4102,7 @@ baragnosis
 bedizens
 blitzkrieged
 beams
-bean
+bean 1
 boldness
 begottenness
 bedeafen
