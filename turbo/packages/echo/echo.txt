@@ -3862,7 +3862,7 @@ emeses
 effigiate
 epalpate
 ethnobotanical
-expectoration
+expectoration 1
 emesis
 entrapment
 easiness
@@ -10817,7 +10817,7 @@ exemplars
 enoptromancy
 engine
 electrocuting
-execrates
+execrates 1
 eupepticity
 eelfish
 eloigners
