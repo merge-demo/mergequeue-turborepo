@@ -5231,7 +5231,7 @@ fleas 1
 fluxroot
 fratcheous
 fluctuosity
-foetiferous
+foetiferous 1
 fylker
 forecastingly
 farandole
