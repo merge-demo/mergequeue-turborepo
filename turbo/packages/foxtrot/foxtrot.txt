@@ -5013,7 +5013,7 @@ fluctuable 1
 faceable
 fining
 frowsier
-feathers
+feathers 1
 faineantise
 falsificate
 fenianism 1
