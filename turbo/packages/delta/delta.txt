@@ -3782,7 +3782,7 @@ deinstitutionalization
 dipterist
 didactylism
 demagnetizable
-doweling
+doweling 1
 deficiency
 dermalgia
 dubitative
