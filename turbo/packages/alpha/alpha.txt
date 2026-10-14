@@ -14286,7 +14286,7 @@ alopias
 anthecologist
 antheia
 alegars
-amphipodan
+amphipodan 1
 axiomatization
 anthelia 1
 aramaean
