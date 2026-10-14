@@ -13912,7 +13912,7 @@ epilimnial
 empanada
 extramatrical
 exculpating
-elations
+elations 1
 eledoisin
 ephymnium
 engineer
