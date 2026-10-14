@@ -815,7 +815,7 @@ gastroenteritic 1
 galluptious
 gastrular 1
 grazer
-glaceing
+glaceing 1
 gonia
 goldbeater
 gambe
