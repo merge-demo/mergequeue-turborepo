@@ -13906,7 +13906,7 @@ balwarra
 bowlful
 bergamasca 1
 bowlike
-bakatan
+bakatan 1
 bowline
 bombinating
 bacalaos
