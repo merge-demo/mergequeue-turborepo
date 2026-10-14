@@ -1007,7 +1007,7 @@ gamester
 geanticline
 garnel 1
 gubernia
-gemmed
+gemmed 1
 grumblingly
 garthman
 galenoid
