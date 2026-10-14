@@ -10826,7 +10826,7 @@ entosternum
 earache
 educes 1
 embassiate
-eligibilities
+eligibilities 1
 endostomata
 envineyard
 elaeoblastic
