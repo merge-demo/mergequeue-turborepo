@@ -5005,7 +5005,7 @@ familiarly
 fissive
 filmcard
 flaneur
-frescoes
+frescoes 1
 foremartyr
 fiddlewood
 filet
