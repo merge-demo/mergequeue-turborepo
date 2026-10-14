@@ -14357,7 +14357,7 @@ brahmapootra
 borehole
 bumf
 brahmin
-behowl
+behowl 1
 boxkeeper 1
 brahminists
 brahmoism
@@ -17821,7 +17821,7 @@ bursars
 bubby
 bursch
 bianisidine
-becompass 1
+becompass 2
 belord
 brocade
 brachistocephalous
