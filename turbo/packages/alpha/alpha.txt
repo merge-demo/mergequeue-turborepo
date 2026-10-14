@@ -14493,7 +14493,7 @@ anthospermum
 anoplotheroid
 anthropography
 antalkalies
-animatism
+animatism 1
 antiphysicalness
 acritochromacy
 algologically
