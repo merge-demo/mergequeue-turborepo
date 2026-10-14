@@ -12259,7 +12259,7 @@ abience
 arteriectasia
 adstipulated
 affectuous
-allbone
+allbone 1
 afacing
 andrewsite
 anchimonomineral
