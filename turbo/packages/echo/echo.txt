@@ -3152,7 +3152,7 @@ eburated
 ethnarchs
 eskimoes
 expurgators
-extinguishment
+extinguishment 1
 eloins
 exergue 1
 etioporphyrin
