@@ -9215,7 +9215,7 @@ gel
 grivna
 geosynchronous
 galeres
-gibingly
+gibingly 1
 graininess
 grizzly
 gaugeably
