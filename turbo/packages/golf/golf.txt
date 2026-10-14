@@ -4712,7 +4712,7 @@ gosther
 garbline
 gelidly
 gametophyll 1
-gesticulates
+gesticulates 1
 goosegirl
 glucke
 glene
@@ -8904,7 +8904,7 @@ grandiloquous 1
 gasteropod
 gnaw 1
 grisset
-glycosidic
+glycosidic 1
 geranomorphic
 gothicize
 gringole
