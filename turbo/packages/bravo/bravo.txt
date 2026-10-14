@@ -7604,7 +7604,7 @@ bandwagons
 beloam
 begirding
 bewary
-bewaste
+bewaste 1
 beweary
 besottedness
 botflies 1
@@ -17048,7 +17048,7 @@ bulimias
 bronchiostenosis
 broomtail
 bayman
-barbicels
+barbicels 1
 braces
 bulimus
 baler
