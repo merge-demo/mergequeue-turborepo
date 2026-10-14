@@ -2080,7 +2080,7 @@ gutturonasal 1
 glossers
 gingkoes
 gnawer
-glorious
+glorious 1
 glossophorous
 gambade
 gader 1
