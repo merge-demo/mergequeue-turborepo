@@ -12173,7 +12173,7 @@ disrelate
 demurs
 disfoliaged
 demobilization
-descendibility
+descendibility 1
 disherent
 disfortune
 dramatism
