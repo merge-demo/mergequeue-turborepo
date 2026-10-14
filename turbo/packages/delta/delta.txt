@@ -12680,7 +12680,7 @@ decolorized
 disjointure
 dentalize
 demiheavenly
-dogger
+dogger 1
 desexualize
 diviners
 diacids
