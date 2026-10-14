@@ -6815,7 +6815,7 @@ gluconokinase
 gymsia
 gentilitial
 gluteoinguinal
-gauntlets
+gauntlets 1
 glucoprotein
 geaster 1
 galeas
