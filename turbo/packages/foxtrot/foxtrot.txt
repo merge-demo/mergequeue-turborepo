@@ -9606,7 +9606,7 @@ foresign
 fecklessly 1
 fulcrumage
 flabrum
-firmarius
+firmarius 1
 forfoughen
 facsimiles 1
 fluoborate 1
