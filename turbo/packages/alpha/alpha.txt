@@ -19000,7 +19000,7 @@ archknave
 ageless
 aponeurology
 anoxemia
-allottable
+allottable 1
 aregenerative
 archlet
 autocholecystectomy
