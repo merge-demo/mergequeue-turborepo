@@ -13716,7 +13716,7 @@ dialkyl
 danegeld
 diatomiferous
 diplasion
-demetrian
+demetrian 1
 dashnaktzutiun
 deadfall
 dissite
