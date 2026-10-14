@@ -7706,7 +7706,7 @@ filmographies
 frankpledge
 fumigants
 furfuraceous
-foreknowingly
+foreknowingly 1
 frere
 foreshaft
 forelook
