@@ -13090,7 +13090,7 @@ agrologist
 anils 1
 aerogels
 apokatastatic
-ambonite
+ambonite 1
 autologist
 abreacted
 antipoles
