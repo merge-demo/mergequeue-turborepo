@@ -7672,7 +7672,7 @@ epideictic
 endomesoderm
 endotheliomata
 eboulement
-euphemiser
+euphemiser 1
 extensionist
 electrotautomerism
 extenuate
