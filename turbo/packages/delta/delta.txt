@@ -8924,7 +8924,7 @@ detruck
 dislodging
 debitrix
 discursively
-dioptrometry
+dioptrometry 1
 drifter
 dimethoxymethane
 dom
