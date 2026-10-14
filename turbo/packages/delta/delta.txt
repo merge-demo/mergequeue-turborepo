@@ -3088,7 +3088,7 @@ defamy 1
 desmoneme
 delicious
 dihydrite
-diazid 1
+diazid 2
 distoclusion
 disability 1
 domesticity 1

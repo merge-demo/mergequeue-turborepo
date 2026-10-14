@@ -5661,7 +5661,7 @@ glowflies
 gertrude
 glowbard 1
 glimmeringly
-gloveress
+gloveress 1
 gimmaled
 ganglioneuron
 gestning
