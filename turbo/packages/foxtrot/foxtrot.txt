@@ -4799,7 +4799,7 @@ fasciolaria
 fancifulness
 flinching
 faena
-fellowshipping
+fellowshipping 1
 findon
 falsen
 forties 1
