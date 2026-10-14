@@ -785,7 +785,7 @@ dandled
 dopaoxidase 1
 dandler
 defs
-dispurpose
+dispurpose 1
 drawn
 devolatilize
 dacryocystotomy
