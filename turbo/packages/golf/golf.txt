@@ -7846,7 +7846,7 @@ gumptious
 gour
 gardevin
 greece
-galvanometrical
+galvanometrical 1
 groom
 grammarless 1
 grammaticaster
