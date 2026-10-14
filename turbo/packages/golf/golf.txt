@@ -5853,7 +5853,7 @@ grown
 gomerels
 gunneries
 gyroceras
-glucosidically
+glucosidically 1
 gleave
 gynecide 1
 ging 1
