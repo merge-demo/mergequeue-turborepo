@@ -8052,7 +8052,7 @@ fumer
 flusterated
 frippet 1
 forejudged
-forenews
+forenews 1
 foyboat
 friars
 firedogs
