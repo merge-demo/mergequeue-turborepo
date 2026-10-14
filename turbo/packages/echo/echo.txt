@@ -1306,7 +1306,7 @@ exumbrellar
 effect
 endocardiac
 exopeptidase
-ecclesiae
+ecclesiae 1
 effective
 euryphagous
 epimachinae
