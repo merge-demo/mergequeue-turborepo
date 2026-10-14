@@ -2090,7 +2090,7 @@ grandbaby
 gamblers
 gyrocompasses
 glottology
-guilefully
+guilefully 1
 gorefish
 gawgaw
 graminological
@@ -6100,7 +6100,7 @@ gatefolds
 globical
 glavered
 gardy 1
-grumpish
+grumpish 1
 gnapweed
 gallification 1
 gowiddie
