@@ -18281,7 +18281,7 @@ achromous
 agush
 archont
 arachnomorphae
-arabiyeh
+arabiyeh 1
 apparel
 adjunct
 awshar
@@ -20554,7 +20554,7 @@ arterialising
 abbotcy 1
 antra 1
 arna
-absenteeship
+absenteeship 1
 arthral
 amesace
 anginophobia
