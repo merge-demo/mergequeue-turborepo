@@ -11951,7 +11951,7 @@ enlisting
 elsehow
 epistemophiliac
 excises
-excystment
+excystment 1
 encinal 1
 emirs
 ensilages
