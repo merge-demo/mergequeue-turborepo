@@ -7283,7 +7283,7 @@ griddlecake
 goyetian
 gambled
 ganglion
-gyrostatic
+gyrostatic 1
 genet
 graves
 gutturally 1
