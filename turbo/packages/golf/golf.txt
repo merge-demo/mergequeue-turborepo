@@ -5276,7 +5276,7 @@ girsle 1
 guanidine
 glegly
 galactosemia 1
-gulfier
+gulfier 1
 glyconic
 grandiloquently 1
 glenlike 1
