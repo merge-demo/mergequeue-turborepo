@@ -8293,7 +8293,7 @@ gracefulness
 greyer
 gentlewoman
 gau
-geographic
+geographic 1
 gravicembalo
 glucuronidase
 giansar 1
