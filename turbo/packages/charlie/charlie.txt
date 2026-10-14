@@ -11873,7 +11873,7 @@ cst
 contradictive
 chording
 chorditis
-circumferentor
+circumferentor 1
 cecidomyian
 commeasurable
 coverside
