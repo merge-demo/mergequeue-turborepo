@@ -25582,7 +25582,7 @@ corporalities
 corporals
 cytostatically
 citronellic
-corporalship
+corporalship 1
 corporas
 corporate
 christenmas
