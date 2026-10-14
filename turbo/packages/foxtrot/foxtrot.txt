@@ -5219,7 +5219,7 @@ fiscals
 flavescence 1
 folkcraft
 fingall
-flytrap
+flytrap 1
 flatnose
 forcive
 flavescent
