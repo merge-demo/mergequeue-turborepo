@@ -6446,7 +6446,7 @@ earfuls 1
 exercisable
 ensorcellment
 encumberment 1
-endometriosis
+endometriosis 1
 embolismus
 eurypteroidea
 ensoul
