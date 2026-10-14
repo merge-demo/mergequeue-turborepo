@@ -5268,7 +5268,7 @@ frostbird
 fockle
 ferricyanate
 flavours
-fimbriate
+fimbriate 1
 feelinglessly
 fibrilation
 flawedness
