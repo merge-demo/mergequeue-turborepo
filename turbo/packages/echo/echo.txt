@@ -11588,7 +11588,7 @@ evulsions 1
 ewery
 exciding
 empires
-ewes
+ewes 1
 eucalypt
 envenomous
 everywhereness
