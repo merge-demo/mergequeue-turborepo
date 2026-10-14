@@ -2090,7 +2090,7 @@ grandbaby
 gamblers
 gyrocompasses
 glottology
-guilefully
+guilefully 1
 gorefish
 gawgaw
 graminological
@@ -10786,7 +10786,7 @@ gutterspout
 ghostlily
 grandfatherhood
 gadoidea
-geochronologic
+geochronologic 1
 gareth
 gonzo
 gynomonoecious
