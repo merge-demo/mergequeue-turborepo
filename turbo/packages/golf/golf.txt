@@ -3837,7 +3837,7 @@ gigahertzes
 galloperdix
 gigaherz 1
 gymnarchidae
-genips
+genips 1
 gedeckt
 gramaryes
 grossen
@@ -4712,7 +4712,7 @@ gosther
 garbline
 gelidly
 gametophyll 1
-gesticulates
+gesticulates 1
 goosegirl
 glucke
 glene

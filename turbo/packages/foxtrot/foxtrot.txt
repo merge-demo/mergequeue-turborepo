@@ -3537,7 +3537,7 @@ fetchers
 flaggelating
 filaments
 fistule
-flexibility 1
+flexibility 2
 formularise
 fabaceae
 filarian
@@ -9654,7 +9654,7 @@ fomenters
 facty
 friendlessness
 femoral
-fingerroot
+fingerroot 1
 functorial
 freedmen
 filch
