@@ -2130,7 +2130,7 @@ birthrights
 braccae
 bosomer 1
 blanca
-bosch
+bosch 1
 brouillon
 bulging
 barring
