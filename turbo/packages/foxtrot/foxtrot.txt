@@ -6312,7 +6312,7 @@ flatlings
 flagpole
 forementioned
 feminality
-flang
+flang 1
 fluoran
 fennish
 fluorane
