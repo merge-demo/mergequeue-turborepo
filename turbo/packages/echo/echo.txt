@@ -3109,7 +3109,7 @@ engrossers
 euectic
 exudations
 eyewash
-empennage
+empennage 1
 equiangularity
 epicalyces
 even
