@@ -7601,7 +7601,7 @@ coreveller
 collarets
 crestal
 cucuyo
-coiffing
+coiffing 1
 cyclings
 curettes
 concessionist
