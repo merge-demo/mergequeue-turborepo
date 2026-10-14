@@ -442,7 +442,7 @@ embiodea
 explicated
 extempory
 engager
-escapements
+escapements 1
 erf
 eunuchal
 enanthesis
