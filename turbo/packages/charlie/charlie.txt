@@ -23111,7 +23111,7 @@ carraways
 conspiratress
 conspire
 curiality 1
-constablery
+constablery 1
 carefulness
 cowgate
 chkalik
