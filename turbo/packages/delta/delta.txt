@@ -3084,7 +3084,7 @@ duxes
 disestablisher
 disbodied 1
 demihuman
-defamy
+defamy 1
 desmoneme
 delicious
 dihydrite
