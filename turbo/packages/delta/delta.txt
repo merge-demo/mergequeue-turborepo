@@ -10077,7 +10077,7 @@ dynast
 deaminating
 deliciae 1
 dieticians
-dextrane
+dextrane 1
 disamis
 dexiotropism
 dales
