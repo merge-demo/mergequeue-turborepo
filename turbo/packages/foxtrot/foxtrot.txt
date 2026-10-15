@@ -2156,7 +2156,7 @@ fallenness 1
 flypapers 1
 farrowed
 fliskiest
-faery
+faery 1
 fondants 1
 flooey
 frontpiece
