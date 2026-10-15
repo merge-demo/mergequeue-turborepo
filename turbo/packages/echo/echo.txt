@@ -2076,7 +2076,7 @@ endysis
 eutectics
 edictal
 entraps
-ecphractic
+ecphractic 1
 epi
 eugene
 epopoean
