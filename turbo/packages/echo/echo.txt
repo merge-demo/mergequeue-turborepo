@@ -11609,7 +11609,7 @@ exacerbates
 empaneled
 enhances
 exspuition
-enforcibility
+enforcibility 1
 electrolytes
 embordering
 epulosis
