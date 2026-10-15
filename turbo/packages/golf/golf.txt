@@ -3114,7 +3114,7 @@ goan
 golandaas
 gooseherd 1
 germinative
-geopolitical
+geopolitical 1
 gayer 1
 girlhoods
 guanidins

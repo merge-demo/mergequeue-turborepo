@@ -3258,7 +3258,7 @@ encamping
 eugranitic
 eunice
 ecumenicize
-eluvies
+eluvies 1
 erasure
 euphonize
 ethopoeia
