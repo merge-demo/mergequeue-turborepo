@@ -5272,7 +5272,7 @@ fimbriate 1
 feelinglessly
 fibrilation
 flawedness
-footstools
+footstools 1
 flats
 frontingly
 fishlike
