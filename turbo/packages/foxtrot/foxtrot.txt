@@ -5434,7 +5434,7 @@ femur
 filterable
 flexuosely
 fascisticization
-floatative
+floatative 1
 fleering 1
 faunal 1
 forcibly
