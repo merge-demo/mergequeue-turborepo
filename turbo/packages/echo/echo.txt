@@ -12593,7 +12593,7 @@ ethion
 entrance
 eastling 1
 excecation 1
-eunuchry
+eunuchry 1
 exempts
 exocoele 1
 excusing
