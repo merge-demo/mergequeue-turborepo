@@ -10061,7 +10061,7 @@ ethanediol
 erianthus
 ethanedithiol
 epicoeloma
-encumbered
+encumbered 1
 export
 envenoming
 enchainment
