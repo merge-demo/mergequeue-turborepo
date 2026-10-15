@@ -21626,7 +21626,7 @@ aspredo
 antirickets
 agilities
 akasha
-asprout
+asprout 1
 antihierarchist
 antu
 anamniote
@@ -25083,7 +25083,7 @@ axebreaker
 afterglide
 appallingly
 animalism
-aggregated
+aggregated 1
 axemen
 arsine
 axenic

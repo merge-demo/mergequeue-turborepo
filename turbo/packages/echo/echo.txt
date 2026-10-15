@@ -2513,7 +2513,7 @@ expostulations
 excerebrate
 efferently 1
 emesidae
-enserfs
+enserfs 1
 eternity
 endochylous
 electrolytically
