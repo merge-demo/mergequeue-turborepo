@@ -401,7 +401,7 @@ fairishly
 fifties
 fraudulence
 fronde 1
-farcy
+farcy 1
 ficoes
 frislet
 faq
