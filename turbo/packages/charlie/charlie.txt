@@ -10260,7 +10260,7 @@ chicer
 casabe
 concordable
 committer
-champerator
+champerator 1
 climactically
 cantharidin
 chicest
