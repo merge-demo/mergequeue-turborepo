@@ -2347,7 +2347,7 @@ gadbee
 gavials 1
 guaiacols
 galopin 1
-geldings
+geldings 1
 garlandage
 gelated
 gorgets
