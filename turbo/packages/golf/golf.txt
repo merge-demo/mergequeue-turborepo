@@ -10213,7 +10213,7 @@ grillwork
 gallamine
 guzzled
 guile 1
-galluses 1
+galluses 2
 groundsel
 gastradenitis
 geotonus
