@@ -11958,7 +11958,7 @@ dermatalgia
 drawhead
 disparition
 dismission
-denominated
+denominated 1
 disembowels
 depucel
 deputizes 1
