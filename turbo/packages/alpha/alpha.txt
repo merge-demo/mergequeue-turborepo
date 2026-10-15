@@ -11736,7 +11736,7 @@ anaerobiont
 anaerobiosis 1
 anaerobiotic
 anaerobium
-avanti
+avanti 1
 anaphylactic
 angulating
 anaesthesis
