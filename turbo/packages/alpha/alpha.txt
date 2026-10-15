@@ -1386,7 +1386,7 @@ armonica
 anophthalmos
 allotriodontia 1
 afterking
-avestruz
+avestruz 1
 actinomycotic
 acceptilated
 aevia
