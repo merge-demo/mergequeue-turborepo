@@ -7512,7 +7512,7 @@ formers
 falconries
 fortuuned
 foreclosure
-fevering
+fevering 1
 fodientia 1
 forecommend
 foreconclude
