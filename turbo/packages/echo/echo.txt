@@ -1413,7 +1413,7 @@ epithalamia
 etherified
 essenced
 effusive
-ebrious
+ebrious 1
 enormousness
 entodermal
 epipodialia
