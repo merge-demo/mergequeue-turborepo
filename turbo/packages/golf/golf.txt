@@ -1671,7 +1671,7 @@ gunrunning
 girting 1
 gallantry
 gester
-gluts
+gluts 1
 geitjie
 gelatination
 gastightness
