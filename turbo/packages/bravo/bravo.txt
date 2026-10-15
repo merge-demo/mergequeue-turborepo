@@ -185,7 +185,7 @@ begladded
 baccalaureate
 baccalaureates 1
 baccalaureus
-baccara
+baccara 1
 baroques
 bipartition
 bandido
