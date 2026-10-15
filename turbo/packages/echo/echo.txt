@@ -13403,7 +13403,7 @@ eudaemonical
 empire
 earlship
 expressage
-edacities
+edacities 1
 escalates 1
 excitatory
 evilmouthed
