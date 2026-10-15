@@ -11822,7 +11822,7 @@ dhourras
 discure
 discriminates
 disponee
-disgorger
+disgorger 1
 dawing
 decentralism
 discurre
