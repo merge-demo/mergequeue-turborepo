@@ -2687,7 +2687,7 @@ gemarist
 gigantocyte
 genioglossal
 gastroenterologists
-ganodont
+ganodont 1
 geoteuthis
 gelling
 genitocrural
