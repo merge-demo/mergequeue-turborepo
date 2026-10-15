@@ -6847,7 +6847,7 @@ gitterns
 guttiferae
 gehenna 1
 guglio
-gangliomata
+gangliomata 1
 graftonite
 gammacismus
 groundspeed
