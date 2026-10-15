@@ -4825,7 +4825,7 @@ fructiparous
 feasting
 furnishing 1
 forfars
-fodder
+fodder 1
 foliums
 froebelism
 footfall 2
