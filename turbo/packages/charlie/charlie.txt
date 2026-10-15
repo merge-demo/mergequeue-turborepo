@@ -24571,7 +24571,7 @@ cathodoluminescent
 copers
 cutches
 coperta
-copes
+copes 1
 contermine
 chelidon
 cantate
