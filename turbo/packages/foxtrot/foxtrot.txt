@@ -3462,7 +3462,7 @@ fraternisation
 fecundity
 frostfishes
 fission
-foreseason
+foreseason 1
 foreconsider
 fallback
 fighteress
