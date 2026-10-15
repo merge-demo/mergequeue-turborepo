@@ -7007,7 +7007,7 @@ genteelism 1
 geomantical
 genyantrum
 greasiest
-gare
+gare 1
 genealogist 1
 goschen
 gliffing
