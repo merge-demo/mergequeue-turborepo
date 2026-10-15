@@ -3445,7 +3445,7 @@ gravimeters 1
 gudgeons
 gowl
 gelatinated
-gastrologer 1
+gastrologer 2
 genoa
 gallanting
 gallophobia
