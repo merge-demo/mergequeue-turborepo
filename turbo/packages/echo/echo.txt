@@ -1853,7 +1853,7 @@ evenoo
 eileen
 epictetian
 eurygnathism
-epexegesis 1
+epexegesis 2
 epicentra 1
 expletives
 executant
@@ -7889,7 +7889,7 @@ elephancy
 extortionateness 1
 ecotones
 earthenhearted
-ejectum
+ejectum 1
 exululate
 extracorporeal 1
 epil
