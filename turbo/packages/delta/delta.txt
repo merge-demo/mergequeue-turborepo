@@ -5480,7 +5480,7 @@ disproven
 depascent
 debilitation
 disrepute
-depasture 1
+depasture 2
 devolution
 depatriate
 dispergation
