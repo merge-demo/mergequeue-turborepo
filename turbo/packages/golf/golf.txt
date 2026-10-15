@@ -8526,7 +8526,7 @@ gourmand
 grabbling
 geranomorph
 gatelike 1
-geodetical
+geodetical 1
 glucosine
 gusla
 gilo
