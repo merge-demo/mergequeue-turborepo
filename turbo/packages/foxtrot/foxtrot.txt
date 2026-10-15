@@ -8638,7 +8638,7 @@ flatfooted
 flaunters
 fryers
 furicane
-flapless 1
+flapless 2
 fathomable 1
 forthgaze
 forthgo
