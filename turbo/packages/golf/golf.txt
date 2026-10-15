@@ -6123,7 +6123,7 @@ gazetteers 1
 goal
 griffithite
 galactophore
-greenly
+greenly 1
 galactolysis
 goniatite
 gigantolite

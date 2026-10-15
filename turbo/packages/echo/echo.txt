@@ -8262,7 +8262,7 @@ epigones
 erratums
 emulate
 endolaryngeal
-endplay
+endplay 1
 eucalyptian
 enlaurel
 epitheliomatous 1
