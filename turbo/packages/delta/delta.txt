@@ -9843,7 +9843,7 @@ dimber
 doek
 desilicification
 dace 1
-dimensionally
+dimensionally 1
 dimensioning
 dimensum
 dubbed
