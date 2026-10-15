@@ -5524,7 +5524,7 @@ experimenting
 evertors
 extraocular
 exoterics 1
-espiritual
+espiritual 1
 enfeebles
 enfeebling
 epigrammatised 1
