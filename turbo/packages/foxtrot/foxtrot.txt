@@ -2267,7 +2267,7 @@ flatulence
 firebombed
 forshape
 flavones
-finlandization
+finlandization 1
 filamentiferous
 fantails
 folktale 1
