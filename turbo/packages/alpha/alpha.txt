@@ -25272,7 +25272,7 @@ antepenultima
 academus
 archsewer
 atinkle
-activating
+activating 1
 arrhythmically
 acylamidobenzene
 attendingly
