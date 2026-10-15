@@ -10159,7 +10159,7 @@ edgier
 emmove
 encroaching
 embroideress
-emeraldine
+emeraldine 1
 eulogise
 etherially
 extravagances
