@@ -11295,7 +11295,7 @@ amphimictic
 animized
 antired
 amphimorulae
-amphioxi
+amphioxi 1
 ankylosis
 amphioxuses
 assemblymen
