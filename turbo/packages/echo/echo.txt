@@ -177,7 +177,7 @@ electrolier
 equipoising
 examiner
 estrogenic
-emeras
+emeras 1
 earthquaken
 ethylthioether 1
 evicting 1
