@@ -13197,7 +13197,7 @@ displayable 1
 dumaist
 demipagan
 depositive 1
-dhava
+dhava 1
 dongolas
 diazole 1
 duoviri
