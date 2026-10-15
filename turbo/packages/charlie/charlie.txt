@@ -11513,7 +11513,7 @@ clinkstone
 congelifraction
 chokerman 1
 chalones
-chokers
+chokers 1
 chokes
 counteraccusation
 carnaubyl
