@@ -10593,7 +10593,7 @@ chilogrammo
 cubic
 coruscant
 contract
-conservatoire
+conservatoire 1
 cosmopolis
 campanology
 colleterium
@@ -28867,7 +28867,7 @@ consignified
 chorti
 countless
 cretism
-cretize
+cretize 1
 cretonne
 collogue
 classmate
