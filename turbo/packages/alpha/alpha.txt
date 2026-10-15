@@ -7472,7 +7472,7 @@ albuginea
 archivist
 albugines
 apometabolous
-amban
+amban 1
 album
 algedonic
 algerian
