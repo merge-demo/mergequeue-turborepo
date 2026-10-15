@@ -4716,7 +4716,7 @@ deair
 disseizor
 diagonalize
 diemaker
-dentalizing
+dentalizing 1
 demography
 denigrations
 dichotomically
