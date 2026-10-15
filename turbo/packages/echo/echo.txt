@@ -10108,7 +10108,7 @@ elenchically
 eumolpus
 eutopia 1
 euphausiacea
-ethereality
+ethereality 1
 earpiece
 epiboly
 etherealization
