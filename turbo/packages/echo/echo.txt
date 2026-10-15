@@ -624,7 +624,7 @@ efficacious
 extuberate
 epizoites
 earsore
-ecstatics
+ecstatics 1
 excitancy
 etymonic
 ellipses
