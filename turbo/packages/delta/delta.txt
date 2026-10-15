@@ -6387,7 +6387,7 @@ downwards
 desaccharification
 dout
 desmatippus
-defalcation
+defalcation 1
 decarburisation
 dozened
 desacralization 1
