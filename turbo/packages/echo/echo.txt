@@ -9491,7 +9491,7 @@ exequial
 excurved
 eupneas
 essayistic
-esca
+esca 1
 eulogia
 electrolithotrity
 eczematoid
