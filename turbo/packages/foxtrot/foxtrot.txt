@@ -2606,7 +2606,7 @@ fountainless
 fantee
 filigreed
 ferio
-forbiddance
+forbiddance 1
 farandmen
 foraminated
 folkfree 1
