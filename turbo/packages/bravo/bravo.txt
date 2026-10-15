@@ -11832,7 +11832,7 @@ bindingly
 balkis
 bodefully
 baking 1
-brigands
+brigands 1
 blazy
 brachyura
 braking
