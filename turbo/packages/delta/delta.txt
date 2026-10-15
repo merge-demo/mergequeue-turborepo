@@ -6631,7 +6631,7 @@ diorite
 despisedness
 droiturel
 diversly
-dilatations
+dilatations 1
 dactylis
 dodecasyllabic
 dioptres
