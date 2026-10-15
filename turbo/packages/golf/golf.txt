@@ -5781,7 +5781,7 @@ gaupus 2
 glissades
 greggle
 gather
-greekish
+greekish 1
 gedrite
 golliwog
 geocarpic 1
