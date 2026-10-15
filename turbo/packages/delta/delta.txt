@@ -15343,7 +15343,7 @@ displeasureable
 descendability
 dittander
 disbogue
-daimioate
+daimioate 1
 donationes
 deserver
 developmentally
