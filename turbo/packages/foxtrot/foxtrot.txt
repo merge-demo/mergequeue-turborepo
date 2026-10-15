@@ -2986,7 +2986,7 @@ flaggelation 1
 forbs
 furiousness
 forma 1
-fiars
+fiars 1
 fiascos
 ferricyanogen
 ferrotype
