@@ -2128,7 +2128,7 @@ favours 1
 forloin
 foddered
 fellatrice
-fluoresage
+fluoresage 1
 frigate
 fletch
 faujdar
