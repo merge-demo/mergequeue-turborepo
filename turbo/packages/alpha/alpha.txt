@@ -24155,7 +24155,7 @@ antiritualism
 antilife
 aldermanries
 abrus
-anquera
+anquera 1
 afterlifetime 1
 anniversarily
 autojigger

@@ -12749,7 +12749,7 @@ exorbitation
 extensionless
 epithamia 1
 eloah
-epidemiologically
+epidemiologically 1
 emulatively 1
 epilogism
 ethers
