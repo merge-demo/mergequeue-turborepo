@@ -24600,7 +24600,7 @@ ambergrease
 actinophryan
 avalanche
 agre
-apotheosize
+apotheosize 1
 amantadine
 associateship
 avalanches
