@@ -7284,7 +7284,7 @@ goyetian
 gambled
 ganglion
 gyrostatic 1
-genet
+genet 1
 graves
 gutturally 1
 guze
