@@ -280,7 +280,7 @@ gnomon
 glauconiferous
 glomeroporphyritic
 groser
-gigavolt
+gigavolt 1
 gummata
 galiongee
 genom
@@ -1296,7 +1296,7 @@ gnawingly
 geobotanical 1
 gargalize
 guttles
-grump
+grump 1
 gerendum 1
 government
 geeing
@@ -6847,7 +6847,7 @@ gitterns
 guttiferae
 gehenna 1
 guglio
-gangliomata
+gangliomata 1
 graftonite
 gammacismus
 groundspeed
