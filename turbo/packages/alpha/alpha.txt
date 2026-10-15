@@ -22900,7 +22900,7 @@ alyssum
 atonicity
 ageusia
 alcelaphus 1
-academism
+academism 1
 atorai
 arzun
 atour
