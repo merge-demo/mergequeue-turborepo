@@ -15145,7 +15145,7 @@ claymore
 claims
 covenable
 claypans
-clair
+clair 1
 clairaudience
 countertug 1
 claire
@@ -22758,7 +22758,7 @@ caulocarpous
 coemptio
 consecrative
 columnarized
-cloison
+cloison 1
 caligraphy
 conscience 1
 canalete
