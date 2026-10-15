@@ -127,7 +127,7 @@ gardenership 1
 grosz
 goatfish
 gadroon
-giher
+giher 1
 ginete
 gastly 1
 gazogene
