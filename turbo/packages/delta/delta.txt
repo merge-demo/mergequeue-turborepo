@@ -17628,7 +17628,7 @@ dreamfulness
 druther
 ducktails
 dsects
-desmodium
+desmodium 1
 disillusionize
 disannulled
 dinners
