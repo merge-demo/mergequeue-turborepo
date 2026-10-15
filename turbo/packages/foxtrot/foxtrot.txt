@@ -2994,7 +2994,7 @@ fulgurantly
 fortepiano 1
 flukily
 forasmuch
-foreman
+foreman 1
 floodage
 flogster
 fioriture
