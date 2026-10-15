@@ -1450,7 +1450,7 @@ geophagous
 glossagra
 ghenting
 grossart
-generical 1
+generical 2
 grillages
 griffinish
 glamouring
@@ -2687,7 +2687,7 @@ gemarist
 gigantocyte
 genioglossal
 gastroenterologists
-ganodont
+ganodont 1
 geoteuthis
 gelling
 genitocrural
