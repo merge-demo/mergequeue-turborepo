@@ -11449,7 +11449,7 @@ fructifier
 frigage 2
 frostless
 fathoms
-fetichlike
+fetichlike 1
 fusible
 fluorbenzene
 fideles
