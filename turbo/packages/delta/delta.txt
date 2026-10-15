@@ -17004,7 +17004,7 @@ demipillar
 dendrocoela
 disjoined
 diacritically
-displenish
+displenish 1
 dregs
 defrication
 dampeners
