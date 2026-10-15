@@ -8004,7 +8004,7 @@ dusserah
 dioeciously
 drouthiest
 damageable
-defiances
+defiances 1
 dft
 dysthymic
 dialects
