@@ -3185,7 +3185,7 @@ frosh
 fickle 1
 fixage
 fiches
-findjan 1
+findjan 2
 feracious
 fusilade
 flutterers
