@@ -21367,7 +21367,7 @@ asynchronisms
 antichurchian
 asyndetic
 androphore 1
-amyloses
+amyloses 1
 analectic
 amphoras
 antiecclesiastic
