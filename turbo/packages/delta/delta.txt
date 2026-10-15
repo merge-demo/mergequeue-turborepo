@@ -9245,7 +9245,7 @@ dyes
 damfoolish
 depicturing
 densification
-deanathematize
+deanathematize 1
 dedd
 deflectable
 dromaeognathae
