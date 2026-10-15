@@ -674,7 +674,7 @@ galgulidae
 geropiga
 gravelish
 gamely
-gallows
+gallows 1
 gonitis
 giddify
 geoaesthesia
