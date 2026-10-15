@@ -13476,7 +13476,7 @@ broilery
 bleeding
 beforesaid
 bottleman
-bulse
+bulse 1
 bureaucrat 1
 benzin
 bepun
