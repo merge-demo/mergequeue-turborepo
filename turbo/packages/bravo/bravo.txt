@@ -12217,7 +12217,7 @@ beretta 1
 bibliomaniacal
 bargir
 besit
-brevis
+brevis 1
 bacchides
 banxring
 broomcorn
