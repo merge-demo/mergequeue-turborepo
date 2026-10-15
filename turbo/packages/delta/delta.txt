@@ -13057,7 +13057,7 @@ desilverizing
 dialogical
 djinns
 deicidal
-decanol
+decanol 1
 dispatch
 deprecators
 deccennia
