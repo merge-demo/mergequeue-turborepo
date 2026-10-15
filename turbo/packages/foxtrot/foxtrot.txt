@@ -8367,7 +8367,7 @@ fuchsian
 fimbrial
 fiberfill
 futhorcs
-foreking
+foreking 1
 fictively
 fm
 filcher
