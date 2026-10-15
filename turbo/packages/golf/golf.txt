@@ -6228,7 +6228,7 @@ gospelly
 gaillardia 1
 gainable
 gobble
-gowpen
+gowpen 1
 gobbled
 gidjee 1
 gothicizer 1
