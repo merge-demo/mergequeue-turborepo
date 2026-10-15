@@ -28867,7 +28867,7 @@ consignified
 chorti
 countless
 cretism
-cretize
+cretize 1
 cretonne
 collogue
 classmate
