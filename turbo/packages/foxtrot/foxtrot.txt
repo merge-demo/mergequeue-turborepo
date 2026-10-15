@@ -603,7 +603,7 @@ forints
 feasted
 fourchette
 franklinism 1
-featherdom
+featherdom 1
 finders
 filippic
 fumishness
