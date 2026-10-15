@@ -380,7 +380,7 @@ gangrenous
 gunsmith
 goniometrical 1
 guyer
-galactosis
+galactosis 1
 grimsire
 galactotrophy 1
 grf 1
@@ -3445,7 +3445,7 @@ gravimeters 1
 gudgeons
 gowl
 gelatinated
-gastrologer 1
+gastrologer 2
 genoa
 gallanting
 gallophobia

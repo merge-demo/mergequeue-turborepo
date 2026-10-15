@@ -5355,7 +5355,7 @@ flavoring
 feebleness 1
 fandom
 fullmouth
-fascia
+fascia 1
 flatfootedly
 ferociously
 fruiteries
@@ -8362,7 +8362,7 @@ fornications
 flexuoseness
 fightings
 followed
-funaria
+funaria 1
 fuchsian
 fimbrial
 fiberfill
