@@ -5417,7 +5417,7 @@ depaints
 divestitures
 dilatation
 deoxyribonucleotide
-dipsomania
+dipsomania 1
 disportive
 diaphragm
 dogtrot
@@ -13500,7 +13500,7 @@ dairymaid
 disquietedness
 demoid
 dippable
-diatomite
+diatomite 1
 delf
 deappetizing
 disruptive 1
