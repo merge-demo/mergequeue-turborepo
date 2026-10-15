@@ -24847,7 +24847,7 @@ calcimeter
 coracobrachialis
 combite
 cosheries
-coracoclavicular
+coracoclavicular 1
 cystencyte
 chompers
 coracocostal
