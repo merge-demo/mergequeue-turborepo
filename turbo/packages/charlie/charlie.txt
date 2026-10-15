@@ -10593,7 +10593,7 @@ chilogrammo
 cubic
 coruscant
 contract
-conservatoire
+conservatoire 1
 cosmopolis
 campanology
 colleterium
