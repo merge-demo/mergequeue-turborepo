@@ -9174,7 +9174,7 @@ eirenic
 erodes
 edgeless
 exterminatory
-enterclose
+enterclose 1
 enslavement
 enginelike
 exhorted
