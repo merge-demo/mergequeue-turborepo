@@ -9428,7 +9428,7 @@ fraternities
 fumarates
 figboy 1
 fritts
-fantasm
+fantasm 1
 featish
 farming
 felid
