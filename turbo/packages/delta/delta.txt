@@ -2494,7 +2494,7 @@ demieagle
 discomorula
 deconsecration
 druith
-desertism
+desertism 1
 destinations 1
 diazohydroxide
 dorothea
