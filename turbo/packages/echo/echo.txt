@@ -12219,7 +12219,7 @@ engarb
 episynthetic 1
 excur
 ensigns 1
-epiphanizing
+epiphanizing 1
 extralateral
 elevener
 erodable
