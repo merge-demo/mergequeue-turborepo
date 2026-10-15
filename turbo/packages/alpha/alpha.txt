@@ -4867,7 +4867,7 @@ afrogaea
 ambitionist
 allochirally
 astonisher
-anthroposophist
+anthroposophist 1
 amaranthine
 actinomyces
 auslaut
