@@ -12140,7 +12140,7 @@ diacetine
 deadlily
 disfavoured
 discursion 1
-disfeaturement
+disfeaturement 1
 dialogised
 dumbwaiter 1
 declensional
