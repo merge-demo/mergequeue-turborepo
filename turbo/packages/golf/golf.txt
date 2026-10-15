@@ -9927,7 +9927,7 @@ gestatorium
 galerite
 geogenetic
 ghatwal 1
-glozer
+glozer 1
 guardianship
 garb
 gumptions
