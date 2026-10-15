@@ -20624,7 +20624,7 @@ competitors
 challengee
 competitrix
 cofounded
-curvilinearly
+curvilinearly 1
 compilations
 challenging
 compilator
