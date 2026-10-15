@@ -12758,7 +12758,7 @@ epistomian 1
 electroindustrial
 endoplasm
 eidos
-euhemeristically
+euhemeristically 1
 eucarpous
 eremochaetous
 emperess
