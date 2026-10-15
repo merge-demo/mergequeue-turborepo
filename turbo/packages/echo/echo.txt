@@ -8291,7 +8291,7 @@ einstein
 earthwards
 electropuncturation
 ekronite
-ecumenicality
+ecumenicality 1
 electrolyzability
 embryonated
 eluxate
