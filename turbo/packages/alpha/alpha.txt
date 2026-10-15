@@ -6324,7 +6324,7 @@ autoxidizer
 accessors
 antiedemic 1
 agreed
-amalgamator
+amalgamator 1
 ammoniums
 aquaplaning
 afterbody
