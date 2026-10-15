@@ -8510,7 +8510,7 @@ disconduce
 dinked
 diapause
 diapauses 1
-donaries
+donaries 1
 dodecastylos
 divinations
 dispence
