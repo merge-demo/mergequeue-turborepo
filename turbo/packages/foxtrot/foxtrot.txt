@@ -7512,7 +7512,7 @@ formers
 falconries
 fortuuned
 foreclosure
-fevering
+fevering 1
 fodientia 1
 forecommend
 foreconclude
@@ -8362,7 +8362,7 @@ fornications
 flexuoseness
 fightings
 followed
-funaria
+funaria 1
 fuchsian
 fimbrial
 fiberfill
