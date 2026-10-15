@@ -2848,7 +2848,7 @@ geatas
 genioglossus
 genuflecting 1
 gaberdine
-geog
+geog 1
 guildship
 gratifier 1
 guser
