@@ -10748,7 +10748,7 @@ diazotize
 divinization 2
 dipteraceae
 dipterygian
-dipteryx
+dipteryx 1
 deinodontidae
 dipterocarp
 dipterocarpaceae
