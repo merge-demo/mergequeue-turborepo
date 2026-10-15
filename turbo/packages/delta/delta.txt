@@ -1705,7 +1705,7 @@ dodoma
 deformedness 1
 deluged
 dornecks
-dumetose
+dumetose 1
 deasil
 dearness
 douanier
