@@ -5437,7 +5437,7 @@ fascisticization
 floatative 1
 fleering 1
 faunal 1
-forcibly
+forcibly 1
 floridians
 figurativeness
 formulator
