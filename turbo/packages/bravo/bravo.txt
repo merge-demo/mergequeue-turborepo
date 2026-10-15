@@ -8432,7 +8432,7 @@ beryllia
 babu
 brachygraphic
 baronetized
-byhand
+byhand 1
 bicarpellate
 bija
 bijasal 1
