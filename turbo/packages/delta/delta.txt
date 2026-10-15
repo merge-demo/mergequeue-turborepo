@@ -17478,7 +17478,7 @@ dimwitted
 drowsihead 1
 drowte
 dreads
-discrete
+discrete 1
 daffle
 doubleheaders
 destructed
