@@ -11689,7 +11689,7 @@ exaltation
 erenow
 enterocoele
 endocarditis
-extendlessness
+extendlessness 1
 exalting
 elands
 essayism
