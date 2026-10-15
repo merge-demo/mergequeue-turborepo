@@ -5016,7 +5016,7 @@ estampie
 expelled 1
 evangelistics
 endgate
-enneads
+enneads 1
 exurbanite
 extorsively
 emplane
