@@ -15108,7 +15108,7 @@ alluvions
 abaci 1
 adjectivitis
 axofugal
-atrocious
+atrocious 1
 advential
 antispeculation
 aggrandisement
