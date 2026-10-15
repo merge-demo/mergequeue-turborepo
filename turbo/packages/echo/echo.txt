@@ -10848,7 +10848,7 @@ emborders
 econometrics
 everts
 ergot
-enologist
+enologist 1
 excised
 exanthematic
 encalendar
