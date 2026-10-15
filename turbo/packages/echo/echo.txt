@@ -6485,7 +6485,7 @@ erubescence
 excludable
 estimative
 execration
-englishes
+englishes 1
 ephemeris
 ectosphenoid
 entrenchments
