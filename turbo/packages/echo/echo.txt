@@ -12332,7 +12332,7 @@ entangled 1
 eaning
 eviscerations
 evectant
-exertionless
+exertionless 1
 ethernet
 eschscholtzia
 estuate 1
