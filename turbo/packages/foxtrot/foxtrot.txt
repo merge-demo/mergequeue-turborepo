@@ -10050,7 +10050,7 @@ forearms
 feasibleness
 feedman
 ferriferous 1
-foolheadedness
+foolheadedness 1
 falseness
 fireblende
 flattie
