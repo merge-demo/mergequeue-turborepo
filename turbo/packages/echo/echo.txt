@@ -3045,7 +3045,7 @@ ensheathes
 epiphenomenal
 earthkin
 esophagoscope 2
-epigram
+epigram 1
 everich
 eschalot
 exogamy
