@@ -8370,7 +8370,7 @@ debauchedness 1
 diduction
 dialystaminous
 dialystely
-dialystelic
+dialystelic 1
 dialister
 dermatosiophobia
 dilatator
