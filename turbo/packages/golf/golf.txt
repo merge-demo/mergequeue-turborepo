@@ -9922,7 +9922,7 @@ gathered
 glanditerous
 geoglyphic
 gedd
-gingras 1
+gingras 2
 gestatorium
 galerite
 geogenetic
