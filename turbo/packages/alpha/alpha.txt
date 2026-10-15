@@ -1717,7 +1717,7 @@ advowsons
 aerical
 accusatively
 accusatives
-avidly
+avidly 1
 auricomous
 anglicanum
 archtraitor
