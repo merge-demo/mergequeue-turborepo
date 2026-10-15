@@ -9927,7 +9927,7 @@ gestatorium
 galerite
 geogenetic
 ghatwal 1
-glozer
+glozer 1
 guardianship
 garb
 gumptions
@@ -10565,7 +10565,7 @@ giftedly 1
 gurmukhi
 goffering
 grasshouse
-gneissitic
+gneissitic 1
 greenwithe
 gatewoman
 grenadiership
