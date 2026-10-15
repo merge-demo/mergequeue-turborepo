@@ -6161,7 +6161,7 @@ dipsades
 dactylopodite 1
 drearfully
 dermanaplasty
-dermapterous
+dermapterous 1
 dermas
 dirgler
 designations
