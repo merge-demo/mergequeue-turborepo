@@ -4031,7 +4031,7 @@ bobfly 1
 besiegement
 blepharophimosis
 brawnier
-beads
+beads 1
 bitterworm
 builds
 barcelonas
