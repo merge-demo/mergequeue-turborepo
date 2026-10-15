@@ -2430,7 +2430,7 @@ guativere 2
 graphotypic
 geologian
 gesticulation
-graduator
+graduator 1
 goas
 grograms
 glutch
