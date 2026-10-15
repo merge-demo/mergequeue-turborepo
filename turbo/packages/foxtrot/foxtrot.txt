@@ -5355,7 +5355,7 @@ flavoring
 feebleness 1
 fandom
 fullmouth
-fascia
+fascia 1
 flatfootedly
 ferociously
 fruiteries
