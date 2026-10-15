@@ -5015,7 +5015,7 @@ dendrocygna 1
 discomfit
 dispone
 dissipated
-dissimulates
+dissimulates 1
 disterr
 destitute
 deperition
