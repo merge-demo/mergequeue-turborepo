@@ -7050,7 +7050,7 @@ demesmerize
 descriptiveness
 disorient
 desto
-darted
+darted 1
 damselfish
 destour
 demonial
