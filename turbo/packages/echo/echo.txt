@@ -7856,7 +7856,7 @@ epigamic
 ephod
 enterolith
 elbowed 1
-elbower
+elbower 1
 epigrammatizing
 endaortitis 1
 endonuclease
