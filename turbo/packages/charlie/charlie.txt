@@ -9880,7 +9880,7 @@ childes
 crystallisation
 chemoreflex
 contrabassoon
-chemoresistance
+chemoresistance 1
 chemoserotherapy
 chemosynthesis
 chemosmoses
