@@ -12692,7 +12692,7 @@ encephalotomies
 episcopicide
 eunicidae
 errantries
-eligible
+eligible 1
 ellipsometry
 ebonige
 ecliptically
