@@ -8749,7 +8749,7 @@ doge
 diazeutic 1
 dittogram
 diazeuxis
-decagonal
+decagonal 1
 declassifications
 diazin
 drayman
