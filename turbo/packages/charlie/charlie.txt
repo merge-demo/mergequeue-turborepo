@@ -29571,7 +29571,7 @@ critters
 crittur
 cardiokinetic
 consular
-crivetz 1
+crivetz 2
 chastening
 constraint
 coenogenetic
