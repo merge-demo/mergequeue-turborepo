@@ -5306,7 +5306,7 @@ eliminability
 endosclerite
 extrahepatic
 eurybathic 1
-eucopepoda
+eucopepoda 1
 endogamy 1
 excudate
 endoscopes
