@@ -11031,7 +11031,7 @@ earthier
 elargement 1
 equanimous 1
 eyeletter
-envoyship
+envoyship 1
 estoc
 erg
 encomimia
