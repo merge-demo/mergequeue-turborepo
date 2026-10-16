@@ -2460,7 +2460,7 @@ gaiting
 goniac
 generatrix
 gabrielrache 1
-garbo
+garbo 1
 gromwells
 garbure
 gemote
@@ -9905,7 +9905,7 @@ ggr
 genevese
 girderless
 glebes
-geoparallelotropic
+geoparallelotropic 1
 gateway
 grisailles 1
 granddaddies
