@@ -8405,7 +8405,7 @@ crookeder
 checkerboarded
 confiscator
 choribi
-cuttable
+cuttable 1
 chamoisite
 chamoline
 chamorro
@@ -12572,7 +12572,7 @@ cauterizing
 circumventable
 chronoisothermal
 cellucotton
-chronologer
+chronologer 1
 circularize
 chronological
 coalternative
