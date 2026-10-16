@@ -13006,7 +13006,7 @@ appearance
 adulterator
 astrer
 aquilinity
-assimilable
+assimilable 1
 athelings
 alkalisable 1
 angareeb
