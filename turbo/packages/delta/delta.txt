@@ -13694,7 +13694,7 @@ decagramme
 diatryma
 detracter
 dogberries 1
-dispersals
+dispersals 1
 differential
 deceivingly
 dissipaters
