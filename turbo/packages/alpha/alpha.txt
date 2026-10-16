@@ -2982,7 +2982,7 @@ actiniums 1
 antiacid
 alisma
 actinobaccilli
-anchusins 1
+anchusins 2
 audience
 alcyon
 adrenolytic
