@@ -7898,7 +7898,7 @@ euphyllopoda
 encheson
 econ
 epeirid
-exquisitive
+exquisitive 1
 experimentation
 epileny 1
 endopeptidase
