@@ -14754,7 +14754,7 @@ aetheogamous
 adversarial
 anticapitalist 1
 anticapitalistically 1
-anticardiac
+anticardiac 1
 anticarious
 aeronautism
 armorially
