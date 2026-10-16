@@ -3942,7 +3942,7 @@ earthbound
 excommunicators 1
 emollients
 emoloa
-endosymbiosis
+endosymbiosis 1
 excretitious
 emolumental
 extemporiser
