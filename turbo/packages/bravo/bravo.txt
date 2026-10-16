@@ -10320,7 +10320,7 @@ botargo
 boyang
 beehead
 beforehandedness
-beets
+beets 1
 barnumism
 benevolist 1
 blacksnake
