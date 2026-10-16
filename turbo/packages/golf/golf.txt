@@ -4163,7 +4163,7 @@ ghibelline
 gynaecium
 gunned 1
 grovel
-gois
+gois 1
 gaetuli
 gyromagnetic
 galvanomagnetism

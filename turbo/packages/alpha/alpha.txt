@@ -5014,7 +5014,7 @@ aerophor 1
 antithermic
 arrode
 aerophotos
-algomic
+algomic 1
 antiwhitism
 aeroplaner
 anecdotically
