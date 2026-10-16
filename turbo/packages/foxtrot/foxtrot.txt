@@ -3555,7 +3555,7 @@ fulgence
 filched
 fellowmen
 fucivorous
-frenchism
+frenchism 1
 fogie
 flamboyance
 funmaker
