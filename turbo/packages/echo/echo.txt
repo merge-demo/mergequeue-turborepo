@@ -5068,7 +5068,7 @@ empathizing
 epitheliotoxin 1
 eleutheria
 etudes
-enunciation
+enunciation 1
 escrod
 eavesdrop
 eclecticism

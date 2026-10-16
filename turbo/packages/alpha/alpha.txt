@@ -14613,7 +14613,7 @@ abacination
 abstractively
 anesthetize
 adapid
-anabaptist
+anabaptist 1
 antiaditis
 antiadministration
 audiogram 1
@@ -18911,7 +18911,7 @@ automatons
 actification
 aboiteaus
 abridge
-archigastrula
+archigastrula 1
 autotomising
 addoom
 aphelian
