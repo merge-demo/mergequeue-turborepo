@@ -8570,7 +8570,7 @@ gravure
 gossameriness
 gametically
 genealogical 1
-guerdonless
+guerdonless 1
 gregarinian
 gibbeting
 gaudeamuses
