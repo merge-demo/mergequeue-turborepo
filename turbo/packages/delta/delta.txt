@@ -5662,7 +5662,7 @@ demonland
 donship
 depoetize
 deconsider
-depoh
+depoh 1
 decd 1
 depolarise
 dehumidify
