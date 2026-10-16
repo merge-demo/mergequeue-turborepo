@@ -245,7 +245,7 @@ farcialize
 forspend
 fidgets
 forwhy
-febrifuge
+febrifuge 1
 florigenic
 founder
 feoffeeship
