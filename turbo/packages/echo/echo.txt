@@ -10313,7 +10313,7 @@ energising
 expendable
 equipostile
 electuaries
-enneacontahedral
+enneacontahedral 1
 exosmic 1
 extemporise
 exaggerative
