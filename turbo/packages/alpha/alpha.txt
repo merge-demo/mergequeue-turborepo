@@ -19783,7 +19783,7 @@ achroanthes
 abrogated
 ambystoma
 armadas
-assecure
+assecure 1
 agrologies
 armadilla
 actiniae 1
