@@ -9823,7 +9823,7 @@ cleptomaniac
 crucifige
 ciliary
 curtaining 1
-computist
+computist 1
 couldnt
 chemiculture
 crampet
@@ -10040,7 +10040,7 @@ chord
 composers
 cherubim
 cherubimic
-cherubimical
+cherubimical 1
 cherublike
 corkline
 crystalize
