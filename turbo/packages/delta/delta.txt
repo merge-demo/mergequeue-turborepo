@@ -722,7 +722,7 @@ danced
 diddled
 degasification 1
 dihedrals 1
-dancers
+dancers 1
 disleaving
 decreeing
 denudatory 1
