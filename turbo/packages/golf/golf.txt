@@ -7219,7 +7219,7 @@ glabella
 gelatinisation
 gimcracks
 goriness
-galvanometrically
+galvanometrically 1
 germanocentric
 gangion
 governorate
