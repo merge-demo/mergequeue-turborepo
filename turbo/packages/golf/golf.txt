@@ -1191,7 +1191,7 @@ gig
 glabrescent
 grinned
 gezerah 1
-guejarite
+guejarite 1
 gutturalize
 galipine
 gorilla
@@ -10287,7 +10287,7 @@ gourmet
 gullage 1
 garblings
 guitarist
-gentlewomanish 1
+gentlewomanish 2
 gibblegabble
 gastrulating
 guitarists 1
