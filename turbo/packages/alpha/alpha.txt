@@ -8602,7 +8602,7 @@ actinouranium
 allegorised
 anisogenous
 ademption
-allasch
+allasch 1
 anticus
 ammanite
 anecdota
