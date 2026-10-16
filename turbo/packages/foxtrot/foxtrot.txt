@@ -11418,7 +11418,7 @@ filminess
 fechnerian
 flushboard
 fractionary
-furniture
+furniture 1
 flummoxing 1
 frustrable
 footlicking
