@@ -2262,7 +2262,7 @@ ficoid
 facaded
 filiety
 florentinism
-fimble
+fimble 1
 flatulence
 firebombed
 forshape
