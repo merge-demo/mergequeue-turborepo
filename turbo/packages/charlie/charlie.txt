@@ -19788,7 +19788,7 @@ catechols
 cricotomy
 cribrose 1
 convening 1
-clabularia
+clabularia 1
 crepitous
 cafenet
 comecrudo
