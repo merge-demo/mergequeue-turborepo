@@ -7217,7 +7217,7 @@ dextrally
 dournesses
 defalk
 disarrest
-diarial
+diarial 1
 deteriorating
 deterioration
 deuce
