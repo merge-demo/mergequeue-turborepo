@@ -7944,7 +7944,7 @@ fordone 1
 forget
 funnelwise
 familiarised
-forepleasure
+forepleasure 1
 fiddling
 floorthrough
 foggish
