@@ -4406,7 +4406,7 @@ grandsire
 generics
 giocoso
 gpd
-gyroscopic
+gyroscopic 1
 gleba
 gluttony
 galloman
