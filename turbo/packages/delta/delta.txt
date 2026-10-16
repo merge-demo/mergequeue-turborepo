@@ -15012,7 +15012,7 @@ dogfights
 diagrammatically
 divus
 demirhumb
-doggedness
+doggedness 1
 dobroes
 diaphane
 demonographer
