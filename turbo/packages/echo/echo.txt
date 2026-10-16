@@ -11797,7 +11797,7 @@ ectomorphy
 euglenida 2
 ectothermic
 exauthorizeexc
-elatery
+elatery 1
 evanescently
 ethoxyl
 exceptio
