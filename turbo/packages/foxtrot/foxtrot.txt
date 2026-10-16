@@ -10895,7 +10895,7 @@ fullish
 foeman 1
 frigorifico
 fulgurated 1
-finished
+finished 1
 fucused
 fractural
 ferrum
