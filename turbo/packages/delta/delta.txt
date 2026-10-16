@@ -17022,7 +17022,7 @@ demipesade
 devirilize 1
 dundrearies
 drenches
-deserted
+deserted 1
 drengage
 drepanidae
 ductibility
