@@ -4050,7 +4050,7 @@ exopoditic
 elsewhen
 evangelizes
 executrices
-epipodial
+epipodial 1
 ex
 enringing
 evangelised
