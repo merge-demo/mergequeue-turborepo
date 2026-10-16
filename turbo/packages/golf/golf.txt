@@ -4890,7 +4890,7 @@ gumption
 grenadierly
 guddle
 grondwet
-gynaecol
+gynaecol 1
 gladioluses
 ginney
 girondist
