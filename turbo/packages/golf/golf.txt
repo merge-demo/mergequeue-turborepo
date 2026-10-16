@@ -2992,7 +2992,7 @@ ghetti
 galvanocauteries
 gentlefolk
 gambusia
-guatambu
+guatambu 1
 greasiness
 ginmill
 glitnir
