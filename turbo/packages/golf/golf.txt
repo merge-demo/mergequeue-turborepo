@@ -7994,7 +7994,7 @@ glaucine
 gunstocking
 gastronomy
 gata 1
-goanna 1
+goanna 2
 gunstock
 gossiper
 geta
