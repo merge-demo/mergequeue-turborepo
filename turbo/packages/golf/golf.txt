@@ -4860,7 +4860,7 @@ glaieul
 geodal
 gliomata
 gorier
-gorse
+gorse 1
 glauberite
 glair
 glaire
