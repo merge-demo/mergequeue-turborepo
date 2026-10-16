@@ -3546,7 +3546,7 @@ depredations
 dripping 1
 dextrogyre 1
 dinosauric
-degenerate
+degenerate 1
 desulphurizer
 diagrammatize
 diodont
