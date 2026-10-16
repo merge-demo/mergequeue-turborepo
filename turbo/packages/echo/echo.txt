@@ -8962,7 +8962,7 @@ enhort 2
 extender
 eon
 emitter
-extraspherical
+extraspherical 1
 evenings
 encephalin
 eleaticism
