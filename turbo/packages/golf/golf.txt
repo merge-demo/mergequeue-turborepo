@@ -5557,7 +5557,7 @@ grabman
 gosport
 groundwall
 goldseed
-grisping
+grisping 1
 graptolithida
 glochid
 gigliato
