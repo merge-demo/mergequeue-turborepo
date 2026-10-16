@@ -21076,7 +21076,7 @@ airwaves
 asclepiadic
 autosender
 asclepian
-asclepidin
+asclepidin 1
 asclepidoid
 asclepin 1
 approacher
