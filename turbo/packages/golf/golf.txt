@@ -10140,7 +10140,7 @@ glareless
 greenier 1
 grouping
 grudges
-granophyric
+granophyric 1
 gideonite
 gymslip
 gasohol
