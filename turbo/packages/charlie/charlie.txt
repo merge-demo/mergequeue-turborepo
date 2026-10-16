@@ -2485,7 +2485,7 @@ candidacy
 candidacies
 collinal
 coontie
-colage
+colage 1
 candidated
 candidates
 candidatures
