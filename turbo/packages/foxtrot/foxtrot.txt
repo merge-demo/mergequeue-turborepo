@@ -6039,7 +6039,7 @@ frayn
 floridity 1
 floriscope 1
 fetterbush
-faba 1
+faba 2
 filmgoing
 feringhee
 ferrivorous
