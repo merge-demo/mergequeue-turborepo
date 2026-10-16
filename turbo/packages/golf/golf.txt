@@ -2460,7 +2460,7 @@ gaiting
 goniac
 generatrix
 gabrielrache 1
-garbo
+garbo 1
 gromwells
 garbure
 gemote
