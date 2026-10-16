@@ -2976,7 +2976,7 @@ entrecotes
 equipede
 elbowchair
 enjoining
-ensepulchering
+ensepulchering 1
 encephalopsychesis 1
 exister
 extraovate
