@@ -8190,7 +8190,7 @@ diadelphous
 diadema
 depart
 diaderm
-diadic
+diadic 1
 disabusing
 demurrer
 decouples
