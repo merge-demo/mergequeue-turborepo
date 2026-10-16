@@ -5733,7 +5733,7 @@ fragmentist 1
 frontate 1
 funiculate
 foge
-freckliness
+freckliness 1
 finebent
 fuciphagous
 finings
