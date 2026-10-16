@@ -2964,7 +2964,7 @@ diabolos
 deeding
 directorates
 deedless
-depreciant
+depreciant 1
 discants
 deejay
 dispropriate
@@ -17022,7 +17022,7 @@ demipesade
 devirilize 1
 dundrearies
 drenches
-deserted
+deserted 1
 drengage
 drepanidae
 ductibility
