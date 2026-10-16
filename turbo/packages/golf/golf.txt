@@ -9372,7 +9372,7 @@ grizzled
 genocide 1
 genesis
 grothine
-grothite 1
+grothite 2
 glumiflorae
 guatoan
 glossarial
