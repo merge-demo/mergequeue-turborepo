@@ -14504,7 +14504,7 @@ davit
 dihelios 1
 demonstrableness
 decoupling
-delly
+delly 1
 deckhouse
 degauss
 diphyzooid
