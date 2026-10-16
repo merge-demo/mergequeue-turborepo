@@ -9,7 +9,7 @@ ampullae
 airbrasive
 acromyodous
 alkalimetric
-anisotropy
+anisotropy 1
 anaitis
 anidrosis
 adipolysis
@@ -8602,7 +8602,7 @@ actinouranium
 allegorised
 anisogenous
 ademption
-allasch
+allasch 1
 anticus
 ammanite
 anecdota
