@@ -2196,7 +2196,7 @@ engrosser
 emphasising
 epanthous
 elderman 1
-ensorcels
+ensorcels 1
 eggwhisk
 electrics 1
 electrographic
