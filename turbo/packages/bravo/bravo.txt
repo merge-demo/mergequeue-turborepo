@@ -3505,7 +3505,7 @@ boobook
 bolloxed
 batable
 bespatter
-bernicia 1
+bernicia 2
 bombous
 bracket
 berzeliite
