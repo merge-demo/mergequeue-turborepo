@@ -5602,7 +5602,7 @@ foret
 fleysome
 funicular
 flummydiddle
-faddiest
+faddiest 1
 florescent
 flightier
 faming
