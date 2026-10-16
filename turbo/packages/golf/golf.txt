@@ -1191,7 +1191,7 @@ gig
 glabrescent
 grinned
 gezerah 1
-guejarite
+guejarite 1
 gutturalize
 galipine
 gorilla
