@@ -5485,7 +5485,7 @@ guttiferous
 germinally
 gangplanks
 glycidol
-gorsier
+gorsier 1
 gowning 1
 grumbles
 gamecocks
