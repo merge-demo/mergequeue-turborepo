@@ -5507,7 +5507,7 @@ goatskin
 gambols
 grugrus
 gymnocalycium 1
-gussies
+gussies 1
 granuloblast
 georgical
 gadus 1
