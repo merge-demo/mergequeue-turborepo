@@ -18171,7 +18171,7 @@ allowably
 anticontagiousness
 autolytic
 aquarius
-astint
+astint 1
 anacusia 1
 adequately
 aquascope
