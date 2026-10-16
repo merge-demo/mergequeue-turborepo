@@ -1999,7 +1999,7 @@ dimorphic
 desugars
 decaedron
 decaffeinate
-depicted 1
+depicted 2
 disformity
 decaffeinize 1
 disregardable 1
