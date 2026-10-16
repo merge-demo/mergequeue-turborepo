@@ -1947,7 +1947,7 @@ disedify
 dipware
 divinatory
 dermohumeral
-deburr
+deburr 1
 divulgatory
 debus
 decanally
