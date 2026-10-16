@@ -9552,7 +9552,7 @@ enchytraeidae
 emigree
 euchromatic
 encincture
-eskimoized
+eskimoized 1
 electrolysed
 enthalpy
 embeam
