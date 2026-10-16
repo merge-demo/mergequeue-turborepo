@@ -10116,7 +10116,7 @@ chevalet
 chevalets
 chevalier
 centeredness
-chevaliers
+chevaliers 1
 chippewa
 categorizers
 compagnie
