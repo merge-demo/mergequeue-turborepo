@@ -11684,7 +11684,7 @@ flames
 futurama
 floodometer
 flibustier
-furcates
+furcates 1
 frailties
 festoons
 flocculate 1
