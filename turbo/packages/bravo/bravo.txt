@@ -12143,7 +12143,7 @@ bultey
 beloid
 burbler
 backstop
-boldly
+boldly 1
 baedekers
 benevolentness
 baalshem
