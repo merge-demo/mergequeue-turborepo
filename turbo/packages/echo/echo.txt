@@ -5329,7 +5329,7 @@ everglades
 embryographer
 enuresis
 ethonomic
-endospore
+endospore 1
 evidentness
 encharm
 epiphyte
