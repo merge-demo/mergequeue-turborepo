@@ -3441,7 +3441,7 @@ decelerating
 decompressed
 delible 1
 deflator
-deforced
+deforced 1
 deforces
 dimittis
 deforciant
