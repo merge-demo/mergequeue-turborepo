@@ -5967,7 +5967,7 @@ gastroenterocolostomy
 goldbricker
 gibetting
 grin 1
-gentry
+gentry 1
 gullet
 goney
 gusting
