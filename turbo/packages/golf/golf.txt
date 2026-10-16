@@ -9905,7 +9905,7 @@ ggr
 genevese
 girderless
 glebes
-geoparallelotropic
+geoparallelotropic 1
 gateway
 grisailles 1
 granddaddies
