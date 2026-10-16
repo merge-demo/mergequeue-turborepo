@@ -5327,7 +5327,7 @@ drown
 duodecimality
 dazzled
 denuclearized
-disputatively
+disputatively 1
 desegregating
 deyhouse
 decoction
