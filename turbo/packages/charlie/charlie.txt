@@ -9568,7 +9568,7 @@ crooked
 cheders
 chedite
 confidences
-chee
+chee 1
 cheecha
 ciceronism
 cheechaco
