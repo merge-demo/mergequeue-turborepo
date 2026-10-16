@@ -6039,7 +6039,7 @@ frayn
 floridity 1
 floriscope 1
 fetterbush
-faba 1
+faba 2
 filmgoing
 feringhee
 ferrivorous
@@ -9914,7 +9914,7 @@ fenestrone
 fungistatic
 foretells
 fistfuls
-fade
+fade 1
 falconry
 figitidae
 filoplumaceous
