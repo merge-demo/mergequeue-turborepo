@@ -6238,7 +6238,7 @@ grundyist
 galop
 genion 1
 governessy
-gid
+gid 1
 gradationally
 gobbles
 gulps
