@@ -9779,7 +9779,7 @@ embolemia
 eachwhere
 entrepot
 exfoliated
-equalisation
+equalisation 1
 ejectamenta 1
 extenuator 1
 envermeil
