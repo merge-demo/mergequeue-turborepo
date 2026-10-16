@@ -11140,7 +11140,7 @@ embroiderer
 ensiform 1
 extractibility
 ectatic
-evacuator
+evacuator 1
 evaded
 earthlier
 evades

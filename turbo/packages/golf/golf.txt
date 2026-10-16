@@ -5115,7 +5115,7 @@ gossipred
 gesticulator 1
 grumbled
 glossocomon
-guavas
+guavas 1
 genipap
 gemman
 gassiest
