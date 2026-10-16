@@ -6940,7 +6940,7 @@ airwards
 allene
 abstruseness
 ays
-antipneumococcic
+antipneumococcic 1
 anatomopathologic
 alogism
 acetaldehydrase
@@ -11188,7 +11188,7 @@ actaeaceae
 amphiarthroses
 aphorisms
 amritsar
-amphibial
+amphibial 1
 anfractuous 1
 arette
 ashkenazi
