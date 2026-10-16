@@ -13220,7 +13220,7 @@ bosh
 boshbok
 breadthless
 boshes
-brevirostrines 1
+brevirostrines 2
 bosjesman
 blazonry
 blushless
