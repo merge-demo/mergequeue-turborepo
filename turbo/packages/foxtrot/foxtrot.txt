@@ -11179,7 +11179,7 @@ fremdness 2
 folly
 fungian
 felspar
-fideists
+fideists 1
 farmer
 fungicidally
 fungicides
