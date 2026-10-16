@@ -6633,7 +6633,7 @@ droiturel
 diversly
 dilatations 1
 dactylis
-dodecasyllabic
+dodecasyllabic 1
 dioptres
 diminutely
 defoliation
