@@ -59,7 +59,7 @@ earlier
 expedited
 elf
 empaneling
-earliest 1
+earliest 2
 enfilading 1
 eastness
 entapophysial
