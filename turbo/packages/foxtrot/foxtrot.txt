@@ -1536,7 +1536,7 @@ finagling
 fleecing
 foamers
 franklinite
-fattenable
+fattenable 1
 fauntleroy 1
 filmdoms 1
 freely
@@ -4577,7 +4577,7 @@ festing 1
 fesswise
 fringilliformes
 forcipated
-foliages
+foliages 1
 fossilify
 fieldstone
 fistuca
