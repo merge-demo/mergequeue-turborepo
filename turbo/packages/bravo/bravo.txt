@@ -7730,7 +7730,7 @@ benelux
 bezoars
 bezpopovets 1
 barged
-boatbuilder 1
+boatbuilder 2
 bountiousness
 baronry
 bezzle
