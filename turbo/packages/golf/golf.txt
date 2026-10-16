@@ -7615,7 +7615,7 @@ geologist
 guardianless 1
 gradated
 gatecrasher
-gleaminess
+gleaminess 1
 gusher
 geospiza
 grandeza
