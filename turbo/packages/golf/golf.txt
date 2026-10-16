@@ -9388,7 +9388,7 @@ glycocholate
 gunneraceae 1
 grating 1
 gamble
-gingivoglossitis
+gingivoglossitis 1
 gramps
 gingerliness
 glycollide
