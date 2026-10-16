@@ -10068,7 +10068,7 @@ gorgerin
 gratia
 gigabits
 guillotiner
-gibblegable
+gibblegable 1
 gossampine 1
 guerrillas 1
 griseofulvin
