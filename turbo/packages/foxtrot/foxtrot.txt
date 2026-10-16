@@ -5896,7 +5896,7 @@ frostbites 1
 flogs
 fermis
 foeticidal
-fluviovolcanic
+fluviovolcanic 1
 flybane 1
 foveola 1
 freyr
