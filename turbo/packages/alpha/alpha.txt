@@ -13015,7 +13015,7 @@ apologist
 afar
 angulous
 aporose
-antepone
+antepone 1
 anticomplementary
 angust
 adrenine
