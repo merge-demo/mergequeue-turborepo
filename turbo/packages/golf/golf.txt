@@ -6414,7 +6414,7 @@ goodyear
 grudgeless 1
 gangboard
 goldeney
-gillaroo
+gillaroo 1
 goldener
 guary
 goldentop 1
