@@ -6500,7 +6500,7 @@ descriptionless
 dangleberry
 distensile
 dysnomy
-designator
+designator 1
 diota
 daedal
 descriptivism
