@@ -11016,7 +11016,7 @@ epipial 1
 eyne
 endogenies
 elderwomen
-enrollments
+enrollments 1
 esthesiometry
 episcopacies
 eliminator
