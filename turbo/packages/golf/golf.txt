@@ -5943,7 +5943,7 @@ giftedness 1
 guaba 1
 gamori
 gaur
-glutose
+glutose 1
 gainspeaking 1
 gluttonish
 grainsman
