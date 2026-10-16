@@ -20459,7 +20459,7 @@ averia
 associating
 ahwal
 amplifications
-aftaba
+aftaba 1
 arteriac
 allomorphic
 archchaplain
