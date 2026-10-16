@@ -9214,7 +9214,7 @@ fretwise
 fascinery
 frontispieced
 fraktur
-frizer
+frizer 1
 fasciolet
 fresnel 2
 flavoury 1
