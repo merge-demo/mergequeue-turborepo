@@ -6758,7 +6758,7 @@ blackstick
 beglobed
 bonneter
 bondman
-becripple
+becripple 1
 bernice
 begaze
 berninesque
