@@ -8732,7 +8732,7 @@ euphemisms
 ethysulphuric
 embrowd
 equities
-ethician
+ethician 1
 equivalenced
 equivalent
 ensiles
