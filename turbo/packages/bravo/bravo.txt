@@ -3528,7 +3528,7 @@ bidar
 biscuiting
 bugeye 1
 bactericides
-bedimples
+bedimples 1
 baalism
 batboy
 bicarpellary
