@@ -12707,7 +12707,7 @@ boohooing 1
 biaswise
 bidialectalism
 blowholes
-bettered
+bettered 1
 bear
 bungarus
 beautifier
