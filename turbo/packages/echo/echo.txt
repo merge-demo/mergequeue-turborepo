@@ -680,7 +680,7 @@ eclogite
 eclosion
 eclosions
 ethel
-engaging
+engaging 1
 excursionism 2
 enumerative 1
 ebriated
