@@ -1327,7 +1327,7 @@ balanta
 bescorn
 bottine
 balantidic
-buckskin
+buckskin 1
 balaos
 bashless
 baroquely

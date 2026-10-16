@@ -25104,7 +25104,7 @@ conglutinated
 commentate 1
 coremaking
 cricketing
-coremorphosis
+coremorphosis 1
 colouring
 chromonematic
 coreometer
