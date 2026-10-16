@@ -3298,7 +3298,7 @@ ethnos 1
 epimorphism
 exegetically
 eridanid
-enraged
+enraged 1
 envisions
 enclose
 elision
