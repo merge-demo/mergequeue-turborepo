@@ -11048,7 +11048,7 @@ estheria
 epileptically
 engluts
 enkindle
-epicormic
+epicormic 1
 eusebian
 edifies
 embryographic 1
