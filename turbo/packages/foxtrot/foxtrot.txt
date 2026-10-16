@@ -7167,7 +7167,7 @@ frustrately
 flathe
 flaccid
 fiscalized
-forfeits
+forfeits 1
 frizzlers
 faenas 1
 footpaces
