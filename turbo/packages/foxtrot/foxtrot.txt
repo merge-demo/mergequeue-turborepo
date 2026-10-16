@@ -10430,7 +10430,7 @@ forcaria
 fertilizer
 feudalistic
 fringeflower
-fossified
+fossified 1
 featherwood
 fountainously
 firsts 1
