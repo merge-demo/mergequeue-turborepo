@@ -1649,7 +1649,7 @@ gauze
 gryphon
 grungiest
 gastrocoel 1
-gamuts 1
+gamuts 2
 gorkiesque
 grates
 gif
