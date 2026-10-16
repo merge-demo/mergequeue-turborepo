@@ -4577,7 +4577,7 @@ festing 1
 fesswise
 fringilliformes
 forcipated
-foliages
+foliages 1
 fossilify
 fieldstone
 fistuca
