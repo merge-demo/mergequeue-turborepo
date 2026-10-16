@@ -9914,7 +9914,7 @@ fenestrone
 fungistatic
 foretells
 fistfuls
-fade
+fade 1
 falconry
 figitidae
 filoplumaceous
