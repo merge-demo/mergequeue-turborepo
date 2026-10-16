@@ -7650,7 +7650,7 @@ deafly
 drumbled 1
 deunam
 debell
-dovened
+dovened 1
 deviance
 dimples
 deviancy
