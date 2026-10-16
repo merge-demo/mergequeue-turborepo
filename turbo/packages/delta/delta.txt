@@ -15028,7 +15028,7 @@ determ
 doggerelism
 doggerelist
 decarboxylating
-desperate
+desperate 1
 doggerelizing
 diphthongising
 dendritical
