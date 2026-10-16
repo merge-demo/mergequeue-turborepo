@@ -23888,7 +23888,7 @@ avionic
 appositively
 alumbrado
 anzac
-authigenetic
+authigenetic 1
 antiozonant
 authigenous 1
 anodine
