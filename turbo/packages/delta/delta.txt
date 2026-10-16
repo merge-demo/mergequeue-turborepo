@@ -10415,7 +10415,7 @@ disinterring
 diphenyls
 dispowder
 doglegging
-disfigurative 1
+disfigurative 2
 deticking
 dolittle
 diphenoxylate 1
@@ -17022,7 +17022,7 @@ demipesade
 devirilize 1
 dundrearies
 drenches
-deserted
+deserted 1
 drengage
 drepanidae
 ductibility
