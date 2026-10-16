@@ -7603,7 +7603,7 @@ crestal
 cucuyo
 coiffing 1
 cyclings
-curettes
+curettes 1
 concessionist
 centralizer
 confinements
