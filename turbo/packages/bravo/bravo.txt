@@ -4937,7 +4937,7 @@ biguttate
 bandurrias
 bobac
 burrowstown
-beefalo
+beefalo 1
 beefaloes
 basketweaving
 birefringence
