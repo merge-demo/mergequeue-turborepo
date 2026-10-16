@@ -15128,7 +15128,7 @@ desoeuvre 1
 degenerated
 dogtooth
 diabetogenous
-deinocephalia
+deinocephalia 1
 delegare 1
 demographist
 dyaus
