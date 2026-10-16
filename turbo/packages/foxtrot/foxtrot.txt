@@ -8083,7 +8083,7 @@ flamandize
 floatation
 favouredness
 forefin 1
-foretasting 1
+foretasting 2
 fretsaw
 forewrought
 fractionate
