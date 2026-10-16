@@ -5838,7 +5838,7 @@ deozonization
 dewy
 denuders
 desecrator 1
-decompression
+decompression 1
 dollmaking
 demagnetizer
 depressional
