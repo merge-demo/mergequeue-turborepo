@@ -6529,7 +6529,7 @@ betelgeuse
 bepicture
 bugology
 bepiece
-bepile
+bepile 1
 bolshie
 boca
 bumbled
