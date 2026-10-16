@@ -6985,7 +6985,7 @@ despotat 1
 depose
 demographer
 decede
-dissentiate
+dissentiate 1
 destress
 dorje
 degrees
