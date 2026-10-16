@@ -7180,7 +7180,7 @@ duffels
 digitate
 definers
 dolorous
-damnified
+damnified 1
 detection 1
 diamantiferous
 deadlight
