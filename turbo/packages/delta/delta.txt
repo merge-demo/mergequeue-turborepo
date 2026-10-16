@@ -11061,7 +11061,7 @@ disapproves 1
 delousing
 disillusioned
 doppelkummel
-demonetisation
+demonetisation 1
 dirt
 denitrified
 deink
@@ -12691,7 +12691,7 @@ dyslexics
 disentrancement
 dreadfully
 drury 1
-dracaena
+dracaena 1
 dissimilarity
 dendric
 disappoints
