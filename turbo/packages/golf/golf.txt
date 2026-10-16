@@ -2725,7 +2725,7 @@ glozing
 gryllidae 1
 genitor
 gullyhole
-gauntry
+gauntry 1
 gripeful
 gorlois
 grenades

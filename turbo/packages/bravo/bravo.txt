@@ -5301,7 +5301,7 @@ bursted
 byssin
 beggary 2
 beeriest
-bicrescentic
+bicrescentic 1
 bringsel
 boshas 2
 bullom 1
