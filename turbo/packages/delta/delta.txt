@@ -5712,7 +5712,7 @@ decriminalized
 delphin
 demonomancy
 dissipatedly
-dewer
+dewer 1
 discrepancy
 disoxygenate
 dainties
