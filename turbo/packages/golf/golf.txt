@@ -4799,7 +4799,7 @@ gleg
 greenings
 goiterogenic
 gladfulness
-galaxian
+galaxian 1
 geck
 glaiks
 glaciates
