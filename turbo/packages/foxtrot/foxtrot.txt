@@ -2938,7 +2938,7 @@ flagship
 fouquieriaceae
 fers
 foliar
-fiberize
+fiberize 1
 fewest
 fluke
 fissiparity
