@@ -7610,7 +7610,7 @@ besottedness
 botflies 1
 brainworker
 banagos
-beweeper
+beweeper 1
 bugfish
 beweeps
 bombazette
