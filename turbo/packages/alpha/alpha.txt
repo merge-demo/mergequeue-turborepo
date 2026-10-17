@@ -24305,7 +24305,7 @@ affianced
 acetonate
 atalan
 autopoisonous
-acclimatize 1
+acclimatize 2
 autopolar
 autopolyploid 1
 arbitrative
