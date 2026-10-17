@@ -8475,7 +8475,7 @@ groupers
 gayal
 grata
 galleon
-geomorphological
+geomorphological 1
 geotectonically
 guardian
 geognostical
