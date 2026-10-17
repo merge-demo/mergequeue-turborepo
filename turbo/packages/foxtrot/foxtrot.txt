@@ -11089,7 +11089,7 @@ freightment 1
 flense
 footrace
 flew
-falconet
+falconet 1
 flangeless 1
 forbidder
 foreknowableness
