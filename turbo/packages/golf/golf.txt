@@ -8406,7 +8406,7 @@ gaseous 1
 gratis
 gunflint
 grad
-gladiolas
+gladiolas 1
 gales
 grocerdom
 gawsie 1
