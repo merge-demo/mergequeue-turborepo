@@ -6428,7 +6428,7 @@ disencumber 1
 diffusedly 2
 deranged
 descanted
-dog 1
+dog 2
 descants 1
 discourtesies
 diastatic
