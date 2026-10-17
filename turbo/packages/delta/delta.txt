@@ -17841,7 +17841,7 @@ drawlatch 1
 ductwork
 drosky
 duculinae
-dictyosome 1
+dictyosome 2
 decurve
 dermoblast
 definable
