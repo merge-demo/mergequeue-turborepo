@@ -17748,7 +17748,7 @@ appositely
 applicative
 ammunition
 applicatively 1
-applicatory
+applicatory 1
 appliedly
 allegorized
 abacterial
