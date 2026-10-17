@@ -10379,7 +10379,7 @@ formicaries
 fantoddish
 fibreware
 ferrocalcite
-frumenties
+frumenties 1
 fleing 1
 feigning
 foxgloves
