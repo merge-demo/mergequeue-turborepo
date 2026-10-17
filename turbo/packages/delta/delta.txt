@@ -972,7 +972,7 @@ doughmen
 dare
 dottle
 directcarving
-dorsipinal
+dorsipinal 1
 drosophila 1
 dared
 doodah
