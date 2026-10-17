@@ -10302,7 +10302,7 @@ chartographist
 chickenberry
 counterpole
 citoyens
-cypriote
+cypriote 1
 chickenbill
 chickenbreasted
 chickened
@@ -14649,7 +14649,7 @@ cadenza
 cystourethritis
 chirurgy
 calyxes
-cystourethrography
+cystourethrography 1
 cistron
 cypraea
 cassiduloidea
