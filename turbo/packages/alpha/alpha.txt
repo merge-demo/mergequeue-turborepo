@@ -2582,7 +2582,7 @@ acouometer
 azocoralline
 antihelminthic
 asphyxiating 1
-acoup
+acoup 1
 acousticon
 allotriognathi
 assist
