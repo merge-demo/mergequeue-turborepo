@@ -957,7 +957,7 @@ effronteries 1
 erythroblastotic
 enhearse
 eudiagnostic
-extensibleness
+extensibleness 1
 execution
 eidolology
 effluviable
