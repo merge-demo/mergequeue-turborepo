@@ -18411,7 +18411,7 @@ cognovit
 coude
 cognovits
 craftier
-coherent
+coherent 1
 chondromata
 conspiratorially
 cogonal
