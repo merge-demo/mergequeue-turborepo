@@ -4972,7 +4972,7 @@ bebump
 beegerite
 bootlick 1
 bairnliness
-beneficial
+beneficial 1
 badchan
 bouncing
 bitriseptate
