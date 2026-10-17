@@ -4192,7 +4192,7 @@ fidicinales
 fetus
 fungibility
 fructose
-fibrospongiae
+fibrospongiae 1
 fruitlessness
 finialed 1
 fragmentally
