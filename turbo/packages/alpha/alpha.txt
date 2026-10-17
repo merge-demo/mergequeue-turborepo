@@ -9339,7 +9339,7 @@ aloxite
 alpacas
 alpargata
 avertive
-abscind
+abscind 1
 alpax
 auris
 alpeen
