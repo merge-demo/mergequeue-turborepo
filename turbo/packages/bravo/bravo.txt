@@ -14564,7 +14564,7 @@ branner
 baktun
 bonding
 belugite
-bedumbed
+bedumbed 1
 branchiostoma
 biosociology
 branchiostomid
