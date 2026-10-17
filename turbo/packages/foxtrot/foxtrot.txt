@@ -5694,7 +5694,7 @@ fundament
 fitroot
 flurry
 freshness
-ferrary
+ferrary 1
 fetor 1
 feculent
 frae
