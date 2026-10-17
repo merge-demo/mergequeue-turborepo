@@ -3001,7 +3001,7 @@ gentilhomme
 goldenknop
 gorgoniacean
 guitermanite 1
-goatherdess
+goatherdess 1
 guildsmen
 geomancy
 garnered 1
