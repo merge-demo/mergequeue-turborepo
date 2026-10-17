@@ -52,7 +52,7 @@ gablatores
 groats 1
 graperies
 gangue
-glaucolite
+glaucolite 1
 guemal 1
 geometrine
 gelatinousness 1
