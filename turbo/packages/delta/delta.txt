@@ -3854,7 +3854,7 @@ dekagramme
 discommunity
 decumbiture
 designating
-deceleron
+deceleron 1
 discomedusan
 disherits
 dekameters
