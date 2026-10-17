@@ -9591,7 +9591,7 @@ dhootie
 dodecatemory
 digestional 1
 discipleship
-dishumour
+dishumour 1
 diplobacterium
 disruption
 dihybridism
