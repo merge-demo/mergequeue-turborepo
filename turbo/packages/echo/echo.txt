@@ -13434,7 +13434,7 @@ expressionlessness
 etchimin
 expresso
 embitterer
-emeriti
+emeriti 1
 erogate
 ethnodicy
 eponymous
