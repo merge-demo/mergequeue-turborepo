@@ -3178,7 +3178,7 @@ eichbergite
 enfetters
 eureka 1
 expounders
-equilibristat
+equilibristat 1
 emblemize
 eidetic
 endocone
