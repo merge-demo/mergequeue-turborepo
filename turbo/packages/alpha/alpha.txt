@@ -1189,7 +1189,7 @@ alabastoi
 agalmatolite
 agonothetic
 alliterator
-acanthodei
+acanthodei 1
 acoasma
 associationism 1
 antemortem
