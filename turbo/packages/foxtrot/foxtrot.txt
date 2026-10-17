@@ -1226,7 +1226,7 @@ footlock 1
 foredoing
 firmitude
 frigidity
-fenders
+fenders 1
 flexural
 flinched
 furious
