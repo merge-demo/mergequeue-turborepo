@@ -18115,7 +18115,7 @@ autotransfusion
 artocarpus
 attesters
 apus
-akinesis
+akinesis 1
 ambulia
 antechoir 1
 analogising
