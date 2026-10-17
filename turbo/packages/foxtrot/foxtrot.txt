@@ -9131,7 +9131,7 @@ formicaria
 fraena
 faroff
 frostproofing
-fudgy
+fudgy 1
 fulfulde 2
 forward
 filices
