@@ -2480,7 +2480,7 @@ aphrasia
 amperemeter
 acnida
 arabizes 1
-airily
+airily 1
 antiperthite
 acoasm
 acetin
