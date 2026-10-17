@@ -5707,7 +5707,7 @@ ascertainer
 argillocalcareous
 alderney
 assheadedness
-aftertouch
+aftertouch 1
 achaeta
 antiegoistical
 amassments
