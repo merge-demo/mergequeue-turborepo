@@ -6324,7 +6324,7 @@ ergotin 1
 eschar
 euchred
 ensphered
-eyespot
+eyespot 1
 enseal
 embryotegae
 estancias
