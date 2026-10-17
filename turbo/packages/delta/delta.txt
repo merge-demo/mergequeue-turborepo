@@ -11071,7 +11071,7 @@ decentness
 drakes
 drollness
 daturas
-disennui
+disennui 1
 disarms
 dishonouring
 decentralist
