@@ -7103,7 +7103,7 @@ demolitions
 dynamometric 1
 depictor
 deambulate
-disregarded
+disregarded 1
 dreamers
 desulfurs
 desulphur 1
