@@ -19895,7 +19895,7 @@ convell
 comid
 caudillo
 comiferous
-cominformist
+cominformist 1
 cointreau
 cominformists
 confederal
