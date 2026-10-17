@@ -9670,7 +9670,7 @@ deinoceras
 dilactic
 dilactone
 dilamination
-dilaniate
+dilaniate 1
 doubled
 disconcord 1
 deleads
