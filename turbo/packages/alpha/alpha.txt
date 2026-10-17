@@ -24442,7 +24442,7 @@ assistanted
 autotetraploidy
 aah 1
 autothaumaturgist
-appellatively
+appellatively 1
 alangiaceae
 adhibiting
 anthophilous

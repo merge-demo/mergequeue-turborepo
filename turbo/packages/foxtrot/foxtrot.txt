@@ -5958,7 +5958,7 @@ footscald
 foisty
 fulah
 flutebird 1
-fixures
+fixures 1
 flashness
 floorcloths 1
 fumid
