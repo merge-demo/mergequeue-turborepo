@@ -5441,7 +5441,7 @@ goldilocks
 goulan
 glisten 2
 guttering
-gigeria
+gigeria 1
 glisteringly 1
 gorblimy
 grubble
