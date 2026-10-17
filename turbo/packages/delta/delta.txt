@@ -1673,7 +1673,7 @@ dottel
 digredient
 dephysicalization
 dehumanisation 1
-delineator
+delineator 1
 debonnaire
 dismissive
 dears
