@@ -7601,7 +7601,7 @@ foreorlop
 flimsilyst
 flustroid 1
 forefinger
-figary
+figary 1
 fixed
 fritillaries
 forego
