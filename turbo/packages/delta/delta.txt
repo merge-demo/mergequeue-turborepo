@@ -18620,7 +18620,7 @@ digitus
 debugger
 dysgnosia
 damselhood
-desightment
+desightment 1
 dutchy
 dutching
 declericalize
