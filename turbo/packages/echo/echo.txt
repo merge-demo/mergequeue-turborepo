@@ -819,7 +819,7 @@ epicarpal
 enwrite
 erythrinidae
 eral 1
-excrescent
+excrescent 1
 extremest
 extradecretal
 encrust
