@@ -11916,7 +11916,7 @@ blinder
 bushelfuls
 boffins
 brackmard
-boffs
+boffs 1
 bondholding
 bankmen 1
 browner
