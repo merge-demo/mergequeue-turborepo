@@ -10090,7 +10090,7 @@ gonads 1
 gypsies
 grub 1
 guyot
-galahs
+galahs 1
 gastropods
 garrulus
 ghostwrote
