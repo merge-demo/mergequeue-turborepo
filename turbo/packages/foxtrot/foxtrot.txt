@@ -4922,7 +4922,7 @@ fluoresced 1
 forsooth
 foppishly
 fourteens
-flamen
+flamen 1
 fuzziness
 flamandization
 firefanged
