@@ -3134,7 +3134,7 @@ formule
 factiously
 felworts
 frolicful
-fluxibleness
+fluxibleness 1
 fadedly
 filing
 foreright
