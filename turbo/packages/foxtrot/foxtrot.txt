@@ -10536,7 +10536,7 @@ flirtiest
 fazendas
 frouziest
 flite
-foldstool
+foldstool 1
 floristry
 fusiliers 1
 fetichmonger
