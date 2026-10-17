@@ -17748,7 +17748,7 @@ appositely
 applicative
 ammunition
 applicatively 1
-applicatory
+applicatory 1
 appliedly
 allegorized
 abacterial
@@ -21164,7 +21164,7 @@ acquittal
 agriochoeridae
 aljamiado
 antiexpressiveness
-aseismic
+aseismic 1
 alkannin
 aboveproof
 apocryphate
