@@ -1820,7 +1820,7 @@ gratility
 gaggling
 gouts
 gemmiparity
-gobleted
+gobleted 1
 guinean
 gullah
 gatekeeper
