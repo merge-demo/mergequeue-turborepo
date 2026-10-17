@@ -27683,7 +27683,7 @@ cowish
 copsole
 circumdate
 crassier
-cowitch
+cowitch 1
 coercionist
 corrigendum 1
 cadaveric
