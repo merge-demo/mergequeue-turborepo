@@ -9216,7 +9216,7 @@ grivna
 geosynchronous
 galeres
 gibingly 1
-graininess
+graininess 1
 grizzly
 gaugeably
 grizzling
