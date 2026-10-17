@@ -8520,7 +8520,7 @@ bilharzial
 beglerbey
 bloaters
 bilharziosis
-bilianic
+bilianic 1
 biscuitlike
 boreism 1
 biliferous 1
