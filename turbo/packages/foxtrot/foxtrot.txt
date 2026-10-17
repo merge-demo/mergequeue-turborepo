@@ -3154,7 +3154,7 @@ fisheries
 footpace
 flowerier
 fatso
-fossate
+fossate 1
 femurs 1
 freelanced
 fibrovascular
