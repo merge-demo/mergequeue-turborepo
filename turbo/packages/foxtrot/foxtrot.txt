@@ -10725,7 +10725,7 @@ figent
 fitfully 1
 flary
 fandangos
-fleckered
+fleckered 1
 faradays
 fartlek 1
 fortran
