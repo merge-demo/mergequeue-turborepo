@@ -503,7 +503,7 @@ frisch
 friz
 fertilizing
 frenne
-fretted
+fretted 1
 filicite
 faking
 fumify
