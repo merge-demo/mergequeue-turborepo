@@ -8409,7 +8409,7 @@ edemic
 emblossom 1
 exulceration
 equinumerally
-earflaps
+earflaps 1
 epinasties
 exchange
 evisceration
