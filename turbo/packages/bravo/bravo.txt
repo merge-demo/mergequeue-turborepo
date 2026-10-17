@@ -2340,7 +2340,7 @@ bartholomite
 blameably
 baobab
 breloque
-bathyscape
+bathyscape 1
 barbicel
 bemitred 2
 bougies
