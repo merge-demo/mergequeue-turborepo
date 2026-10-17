@@ -4929,7 +4929,7 @@ disroot
 desexing
 dethronable
 deposed
-dinamode
+dinamode 1
 decussion
 delustered
 diplopy
