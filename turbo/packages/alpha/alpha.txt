@@ -19545,7 +19545,7 @@ afars
 asterinidae
 arguing
 admiration 1
-apnea
+apnea 1
 argulus
 argument
 argumental
