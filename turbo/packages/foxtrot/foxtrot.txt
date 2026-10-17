@@ -5513,7 +5513,7 @@ furrower
 furnit
 faked
 filionymic 1
-forbearingness
+forbearingness 1
 frowzy
 faldage
 furbelowing 1
