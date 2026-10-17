@@ -6844,7 +6844,7 @@ entomologist
 entomologize
 entrap
 entomologized
-enstatolite
+enstatolite 1
 exaugurate
 euryalidan 1
 engle
