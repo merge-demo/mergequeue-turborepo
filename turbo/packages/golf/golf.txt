@@ -7380,7 +7380,7 @@ gunnery
 globousness
 grangerization
 gadean
-genuflexuous
+genuflexuous 1
 geniohyoglossus
 grateless
 gaiety
