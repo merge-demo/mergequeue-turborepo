@@ -12294,7 +12294,7 @@ boltlike
 blindling
 beaupers
 boltmaker
-bunga
+bunga 1
 blee
 bombaster
 bodock
@@ -17029,7 +17029,7 @@ behemoth
 braziers
 bibliothecarial
 bedaubs
-bugger 1
+bugger 2
 bubblish
 bulger
 boyhood
