@@ -15497,7 +15497,7 @@ deflagrated
 decolorise 1
 dealers
 demodulates 1
-dependableness
+dependableness 1
 dismembers
 dogedoms
 desolated
