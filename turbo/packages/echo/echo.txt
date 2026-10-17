@@ -4070,7 +4070,7 @@ enforcement
 encrusting
 eremian
 epileptiform
-engross
+engross 1
 engrammatic
 elve
 eucrasy
