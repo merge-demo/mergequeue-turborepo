@@ -17744,7 +17744,7 @@ ambosexous
 archdespot
 applications
 anecdotalist
-appositely
+appositely 1
 applicative
 ammunition
 applicatively 1
