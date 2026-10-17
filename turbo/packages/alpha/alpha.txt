@@ -21565,7 +21565,7 @@ assuaged 1
 asialia
 aristarchies
 antipodism
-arthemis
+arthemis 1
 archdean 1
 arrowroot
 asphodel
