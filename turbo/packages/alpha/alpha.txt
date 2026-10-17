@@ -11490,7 +11490,7 @@ antianaphylactogen
 atramentous
 americanitis
 amt 1
-alushtite
+alushtite 1
 amtman
 amtracks
 abner
