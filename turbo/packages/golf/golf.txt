@@ -6579,7 +6579,7 @@ gyrostachys
 gyrohorizon
 gonaduct 1
 guiling
-grinner
+grinner 1
 gonalgia
 gallinipper
 gradatively
