@@ -3207,7 +3207,7 @@ actuality
 actualization
 actualness
 allochromatic
-axopetal
+axopetal 1
 antiqued
 adderbolt
 assident
