@@ -4973,7 +4973,7 @@ eucephalous
 emigates
 electrocorticogram
 envy
-engraphic
+engraphic 1
 excreation 1
 earthgall
 exencephalia
