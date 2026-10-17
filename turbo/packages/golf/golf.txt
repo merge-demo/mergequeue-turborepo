@@ -6251,7 +6251,7 @@ gullable 1
 goosing
 gobies
 graftproof
-gallify
+gallify 1
 gasogenes 1
 gobiid
 gobylike
