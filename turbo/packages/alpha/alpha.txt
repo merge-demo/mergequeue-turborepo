@@ -21164,7 +21164,7 @@ acquittal
 agriochoeridae
 aljamiado
 antiexpressiveness
-aseismic
+aseismic 1
 alkannin
 aboveproof
 apocryphate
