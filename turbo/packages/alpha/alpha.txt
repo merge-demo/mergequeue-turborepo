@@ -10911,7 +10911,7 @@ arctiidae
 ammonion
 agnuses
 ammonitess
-ammonitic
+ammonitic 1
 ammonitoidea 1
 affording
 ammocoetiform
