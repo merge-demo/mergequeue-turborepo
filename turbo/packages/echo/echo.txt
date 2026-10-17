@@ -2425,7 +2425,7 @@ etherate
 earthnut
 extinguished
 earmarked
-exciting
+exciting 1
 encratite
 exciple
 ebonist
