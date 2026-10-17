@@ -1483,7 +1483,7 @@ emeraude
 epizootically
 effused
 elasmobranchii
-explanatorily
+explanatorily 1
 exonarthex 2
 epics
 enwombing 1
