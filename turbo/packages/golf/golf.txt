@@ -126,7 +126,7 @@ gaugers
 gardenership 1
 grosz
 goatfish
-gadroon
+gadroon 1
 giher 1
 ginete
 gastly 1
