@@ -13457,7 +13457,7 @@ dittologies
 dispersiveness
 dading
 defamous
-diphyesis
+diphyesis 1
 darnix
 disrespect 1
 differentia
@@ -16933,7 +16933,7 @@ dottles
 damnation
 deoxidate
 dreamsy
-displeasingness
+displeasingness 1
 devisability
 dobber
 doless
