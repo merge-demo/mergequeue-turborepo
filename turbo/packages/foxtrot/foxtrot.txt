@@ -6780,7 +6780,7 @@ foveiform
 fjelds 1
 frette
 fiddlebrained
-freeing
+freeing 1
 foraminiferan 1
 fikery
 feuille
