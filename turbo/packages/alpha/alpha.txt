@@ -14488,7 +14488,7 @@ anthropodeoxycholic
 achenium
 assiege
 affrontedly
-anthropoglot
+anthropoglot 1
 anthospermum
 anoplotheroid
 anthropography
