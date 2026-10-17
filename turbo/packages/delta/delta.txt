@@ -16214,7 +16214,7 @@ dowf
 daren
 dextroamphetamine
 dermatotherapy
-dowsets
+dowsets 1
 densitometer
 delineating
 dowitchers
