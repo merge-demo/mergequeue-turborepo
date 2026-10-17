@@ -1710,7 +1710,7 @@ deasil
 dearness
 douanier
 dispensations
-decostate 2
+decostate 3
 defensibility
 deaspiration
 dramatic
