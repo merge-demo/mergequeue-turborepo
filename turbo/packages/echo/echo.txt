@@ -2658,7 +2658,7 @@ enquiries
 epispadiac
 ectocornea
 expansum
-evil
+evil 1
 exciples
 embiidina
 electrostriction 1
