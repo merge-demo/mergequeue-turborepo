@@ -14947,7 +14947,7 @@ demonised
 drugman
 dendrocalamus
 depr
-deoperculate
+deoperculate 1
 dodonaeaceae
 duali 2
 directexamination
