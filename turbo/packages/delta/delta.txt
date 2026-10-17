@@ -11911,7 +11911,7 @@ diplostemonous
 depthing
 doorba
 discompose 1
-dramatizes
+dramatizes 1
 desorption
 downrange
 domes
