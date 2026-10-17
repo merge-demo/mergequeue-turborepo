@@ -8175,7 +8175,7 @@ besieging
 bloodhound
 bidiagonal 1
 bidimensional
-binucleate
+binucleate 1
 barble
 befouls
 biremes
