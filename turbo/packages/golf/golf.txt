@@ -2769,7 +2769,7 @@ gelotometer
 glottochronological
 gristly
 generalidad
-gangwayed
+gangwayed 1
 governably
 glassie
 gelee
