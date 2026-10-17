@@ -29374,7 +29374,7 @@ cryptoscopy
 cryptosplenetic
 cavaedium
 cryptostome
-cryptous
+cryptous 1
 cryptovalence
 cholane
 cymoidium
