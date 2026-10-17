@@ -3834,7 +3834,7 @@ fiberglas
 formicary
 fiberscope
 filiopietistic 1
-forgiveable
+forgiveable 1
 fungistat
 flavanthrene
 forjudging
