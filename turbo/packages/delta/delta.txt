@@ -12506,7 +12506,7 @@ deleniate 1
 dolichotmema
 disindividualize
 doorkeep
-dilative
+dilative 1
 dicotyledonary
 disinfectants
 drafter 1
