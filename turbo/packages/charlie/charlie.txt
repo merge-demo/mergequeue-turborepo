@@ -8300,7 +8300,7 @@ challengers
 challie
 cricetid
 cenozoology
-challies
+challies 1
 challiho
 conditionally
 challihos
