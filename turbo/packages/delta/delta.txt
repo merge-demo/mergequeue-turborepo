@@ -8050,7 +8050,7 @@ dervishhood 1
 densher
 diaclase
 dhobis
-duchesse
+duchesse 1
 dysacusia
 delve
 dhooly
