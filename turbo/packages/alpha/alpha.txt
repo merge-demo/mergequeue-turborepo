@@ -7160,7 +7160,7 @@ assistantships
 autoregulation
 antibiotics
 argovian
-aweigh
+aweigh 1
 alabamide
 alabamine
 armillaria
