@@ -2561,7 +2561,7 @@ flappy
 fluidification
 firefanging
 finding
-finlike
+finlike 1
 faddishness 1
 feinting
 fumes
