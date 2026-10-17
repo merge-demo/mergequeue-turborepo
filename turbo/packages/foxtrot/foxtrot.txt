@@ -6032,7 +6032,7 @@ farting
 flavorfulness
 fungiform
 fenceful
-freebooted
+freebooted 1
 fraternate
 flocculating 1
 frayn
