@@ -8204,7 +8204,7 @@ actinula
 abscises
 antependium 2
 alhambraic
-asteria
+asteria 1
 apogeotropically
 alhenna
 alia
@@ -23438,7 +23438,7 @@ accentuation
 anguishous
 auftakt
 apomict
-augend
+augend 1
 adversity
 antiantidote
 aquiform
