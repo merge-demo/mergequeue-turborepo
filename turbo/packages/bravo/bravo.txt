@@ -13780,7 +13780,7 @@ becoom 1
 bries
 bannermen
 baldachinos
-burnable
+burnable 1
 bejig
 bezil
 bestrowed
