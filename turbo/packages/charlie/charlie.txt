@@ -8433,7 +8433,7 @@ champaka
 cosmete
 conducts
 clubridden
-champaks
+champaks 1
 cholines
 commensalistic
 champart
