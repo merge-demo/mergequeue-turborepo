@@ -9820,7 +9820,7 @@ dissertation
 downweighted
 duocosane
 dispapalize
-determines
+determines 1
 diluvialist
 demidigested
 decorated
