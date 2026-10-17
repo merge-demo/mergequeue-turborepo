@@ -10052,7 +10052,7 @@ geochemical
 galette
 gossypols
 guerison
-guerites
+guerites 1
 gage
 graveolency
 gemot
