@@ -12598,7 +12598,7 @@ exempts
 exocoele 1
 excusing
 electrophoreses
-embossable
+embossable 1
 exocoelic
 explant
 epicardium
