@@ -5318,7 +5318,7 @@ gumbotils
 gritrock
 guiltless
 gracelessly
-glykopexic
+glykopexic 1
 goblinize
 gastroduodenal
 greenest 2
