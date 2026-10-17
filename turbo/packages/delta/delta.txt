@@ -9965,7 +9965,7 @@ dotardism
 disconnectiveness 1
 dimorph
 dimorphism
-dukker
+dukker 1
 dissatisfactorily
 dally
 disparted
