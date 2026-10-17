@@ -15269,7 +15269,7 @@ dolliness
 decanes 1
 depainting
 dollishly
-dollishness
+dollishness 1
 dolcian
 dieses
 dassies
