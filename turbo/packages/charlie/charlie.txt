@@ -19062,7 +19062,7 @@ collimates
 collimation
 collimator
 convictfishes 1
-considered
+considered 1
 carman
 collections
 classicistic 1
