@@ -23438,7 +23438,7 @@ accentuation
 anguishous
 auftakt
 apomict
-augend
+augend 1
 adversity
 antiantidote
 aquiform

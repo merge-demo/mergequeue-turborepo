@@ -11633,7 +11633,7 @@ elocutionary
 epitaphical
 exacting
 electroirrigation
-electivity
+electivity 1
 eliminations 1
 eburnian
 enfire
