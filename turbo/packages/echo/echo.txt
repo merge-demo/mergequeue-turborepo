@@ -3344,7 +3344,7 @@ erythrin
 euphroe 1
 equiangular
 emphemeralness
-expensefully
+expensefully 1
 ecdyses
 entitative
 eulogic
