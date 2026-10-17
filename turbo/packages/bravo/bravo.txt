@@ -7407,7 +7407,7 @@ befogs
 bolometer
 bethroot
 blackbirds
-besogne
+besogne 1
 bamboche
 bethump
 betides
