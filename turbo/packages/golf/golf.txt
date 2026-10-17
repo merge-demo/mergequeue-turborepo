@@ -19,7 +19,7 @@ gashouse
 graphitization 1
 geotropic 1
 gabbro 1
-gabelleman
+gabelleman 1
 geonyctinastic
 globosphaerite
 grouchy
