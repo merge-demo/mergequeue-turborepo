@@ -21481,7 +21481,7 @@ aspergillin
 aspergillosis
 alabastra
 aspergillus
-asperifoliae
+asperifoliae 1
 asperity
 anthrol 1
 attrib 1
