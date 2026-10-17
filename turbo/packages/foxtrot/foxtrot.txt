@@ -4134,7 +4134,7 @@ fulk
 felonry
 flexed
 fenchyl
-feezed
+feezed 1
 fireboy
 fiendishly
 fraticelli
