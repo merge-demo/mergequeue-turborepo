@@ -2545,7 +2545,7 @@ dynasty 1
 denominating
 declinatory
 disentwined
-declining
+declining 1
 directrices
 declivent
 dreamlike
