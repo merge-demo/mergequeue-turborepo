@@ -12526,7 +12526,7 @@ enhalos
 eugeny
 enneacontahedron
 exoskeleton
-equicohesive
+equicohesive 1
 exist 1
 existed
 elucidating
