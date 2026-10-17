@@ -5341,7 +5341,7 @@ dayflies
 denudating
 disordained
 discanter
-deltidial
+deltidial 1
 diplomatics
 disc
 denuder
