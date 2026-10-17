@@ -9266,7 +9266,7 @@ declinal
 dictatress
 discriminal
 diplochlamydeous
-daphnad
+daphnad 1
 dysodontiasis 1
 dismarketed
 displode
