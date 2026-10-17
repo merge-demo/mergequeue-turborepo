@@ -550,7 +550,7 @@ forceful
 filicites
 froggy
 fatstock
-falters
+falters 1
 fronts
 formamidoxime
 foresays
