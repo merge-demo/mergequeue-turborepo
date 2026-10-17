@@ -8261,7 +8261,7 @@ forgiving
 flintify
 finableness
 fetas 1
-flasher
+flasher 1
 fetishes
 frisolee
 freeholders
