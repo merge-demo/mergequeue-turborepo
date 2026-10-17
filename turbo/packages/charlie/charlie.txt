@@ -2837,7 +2837,7 @@ congealer
 cremor
 conservatrix
 cadesse
-canonicals
+canonicals 1
 condiddled
 countercharge 1
 canonisation
