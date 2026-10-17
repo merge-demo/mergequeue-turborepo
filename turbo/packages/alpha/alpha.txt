@@ -14818,7 +14818,7 @@ ascomycetes
 antepagmenta
 aiwain
 antichrists
-amphichrome
+amphichrome 1
 acalephs
 appendence
 antichronically
