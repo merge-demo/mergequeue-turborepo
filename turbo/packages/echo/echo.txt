@@ -2658,7 +2658,7 @@ enquiries
 epispadiac
 ectocornea
 expansum
-evil
+evil 1
 exciples
 embiidina
 electrostriction 1
@@ -10518,7 +10518,7 @@ eurylaimoid
 eudaemony
 eucharistic
 earthfall
-ephthalite
+ephthalite 1
 empaper
 enswathed
 eucharists

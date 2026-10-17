@@ -4013,7 +4013,7 @@ gigaton
 glossator
 gimberjawed
 globigerina
-giaours
+giaours 1
 greeny
 gilttail
 gravelliness 1
@@ -5751,7 +5751,7 @@ gratters
 gigamaree
 gauchos
 grieveship
-gast
+gast 1
 gloveless
 genal
 glorifiable
