@@ -10634,7 +10634,7 @@ enfacement
 enhearten
 eudemonics
 endoappendicitis
-epinephrine
+epinephrine 1
 empurpling 1
 excamber
 elopers
