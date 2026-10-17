@@ -22973,7 +22973,7 @@ admissory 1
 admirative
 alkalize
 awls
-affectless
+affectless 1
 aphonics
 atrociously
 abysmally
