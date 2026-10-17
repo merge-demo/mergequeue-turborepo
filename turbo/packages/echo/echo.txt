@@ -6867,7 +6867,7 @@ estruses 2
 extremism 1
 ergotoxin 1
 epaulets
-entomosporium
+entomosporium 1
 ethically
 ellipsoidal
 endangered

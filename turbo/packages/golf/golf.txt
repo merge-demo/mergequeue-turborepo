@@ -1473,7 +1473,7 @@ gisarme
 greta
 gasolier
 gasped
-ghostology
+ghostology 1
 granolith
 girllike 1
 grotesque 1
