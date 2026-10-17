@@ -6635,7 +6635,7 @@ frippery 1
 fairways
 fraileros
 fogdom
-fogfruit
+fogfruit 1
 fibrins
 fruiteress
 flatterable
