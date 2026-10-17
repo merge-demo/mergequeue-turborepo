@@ -1087,7 +1087,7 @@ genoas
 ghostliness
 gitoxigenin
 gypsums
-gegenion
+gegenion 1
 gunz
 glares
 guarding
