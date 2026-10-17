@@ -13100,7 +13100,7 @@ catchable
 cycases
 cytogenies
 coverless
-cudgelled
+cudgelled 1
 cicatrice
 colocolo
 cicatrices
