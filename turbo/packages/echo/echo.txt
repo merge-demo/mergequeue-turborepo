@@ -716,7 +716,7 @@ epiglottic
 embraciveg
 elonite
 eosinate 1
-enneaspermous
+enneaspermous 1
 enabler 1
 economise
 eschaunge
@@ -7883,7 +7883,7 @@ endolaryngeal
 electrooculogram
 edgingly
 emancipist
-epispinal
+epispinal 1
 enchantresses
 elephancy
 extortionateness 1
