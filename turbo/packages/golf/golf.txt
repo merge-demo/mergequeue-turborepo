@@ -1856,7 +1856,7 @@ galerus
 gulinulae
 gummosity
 gateposts 1
-gatewaying
+gatewaying 1
 griddlecakes
 gawain
 ghibellinism
