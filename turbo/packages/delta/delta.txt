@@ -5898,7 +5898,7 @@ deprostrate
 draughtiest
 downbeats
 disconsolate
-darcy
+darcy 1
 doctorlike
 decimetres 1
 doubledamn
