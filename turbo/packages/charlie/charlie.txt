@@ -26704,7 +26704,7 @@ counterannouncement 1
 counterarch
 compulsative
 chende
-cloisters
+cloisters 1
 counterassociation
 cammock
 careering
