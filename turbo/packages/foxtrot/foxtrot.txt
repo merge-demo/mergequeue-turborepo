@@ -2589,7 +2589,7 @@ featherlight
 filthy
 feoffed 1
 fancily
-ferromanganese
+ferromanganese 1
 ferrometer
 foller 1
 filagreed
