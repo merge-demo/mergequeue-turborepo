@@ -5845,7 +5845,7 @@ glissading
 gormandizers
 grandparents 1
 gestening 1
-galvaniser
+galvaniser 1
 glassless
 gynephobia
 gluttonize
