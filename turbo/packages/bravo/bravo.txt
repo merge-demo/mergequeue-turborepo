@@ -14128,7 +14128,7 @@ boarders
 bistorta
 brachygraphical 1
 bikol
-bipods
+bipods 1
 berlinite
 burkites
 behaviour
