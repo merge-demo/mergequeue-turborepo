@@ -8507,7 +8507,7 @@ foreanswer
 forehatchway
 flusterate
 figs
-fumaroles
+fumaroles 1
 flatwashes
 fortification
 flatweed
