@@ -13005,7 +13005,7 @@ dynasts 1
 disoxygenation
 dioscuri
 debacchate
-distater
+distater 1
 dispand
 descaling
 diphthongized
