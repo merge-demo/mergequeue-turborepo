@@ -9317,7 +9317,7 @@ gymnosophical 1
 gyrostat
 gimmick
 gonocoel
-gravestones
+gravestones 1
 groop
 gallerygoer 1
 gluiest 1
