@@ -24150,7 +24150,7 @@ appledrone
 autoimmunize
 artificers
 autoinfusion
-autoinoculable
+autoinoculable 1
 antiritualism
 antilife
 aldermanries
