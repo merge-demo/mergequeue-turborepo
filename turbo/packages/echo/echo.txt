@@ -374,7 +374,7 @@ enterorrhea
 epicalyxes
 ebionite
 ebionitism 1
-existless
+existless 1
 equites 1
 episomally
 endergonic
