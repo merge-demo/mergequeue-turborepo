@@ -4307,7 +4307,7 @@ gutlike 1
 gastrocoloptosis
 ginglymodi
 gozill
-gemstone
+gemstone 1
 galaxies 1
 gliriformia
 gravestead
