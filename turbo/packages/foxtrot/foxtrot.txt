@@ -921,7 +921,7 @@ fanwise
 fadaise 1
 fleabug
 fallouts
-ferrate 1
+ferrate 2
 farad
 fathead
 flaxdrop
