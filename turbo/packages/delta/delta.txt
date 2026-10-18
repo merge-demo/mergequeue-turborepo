@@ -12342,7 +12342,7 @@ decempartite
 didymiums
 decoagulation
 dishaunt
-draughtmanship
+draughtmanship 1
 duddery
 deflationary
 dichromaticism
