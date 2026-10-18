@@ -11430,7 +11430,7 @@ discobolos
 disbelieving
 degassing
 disengaging
-downcomes
+downcomes 1
 delete
 dissuasive
 discodactylous
