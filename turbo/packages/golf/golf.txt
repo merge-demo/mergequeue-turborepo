@@ -56,7 +56,7 @@ glaucolite 1
 guemal 1
 geometrine
 gelatinousness 1
-glucosidic
+glucosidic 1
 goofball
 gatherum
 gibbon
