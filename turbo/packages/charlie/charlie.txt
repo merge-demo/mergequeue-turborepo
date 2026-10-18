@@ -15458,7 +15458,7 @@ claros 1
 chemotaxis
 contraposition
 cowtail
-competitioner
+competitioner 1
 constrainable
 chirotonsor
 clarre
@@ -25139,7 +25139,7 @@ coretomy
 chrysalidian
 conversionist
 crackableness
-couvert
+couvert 1
 calandridae
 cottontail
 coded
