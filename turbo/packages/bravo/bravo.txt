@@ -13162,7 +13162,7 @@ borosalicylic
 borotungstate
 borough 1
 bouquetin
-biseriate
+biseriate 1
 boroughmonger
 bugged
 blaspheme
