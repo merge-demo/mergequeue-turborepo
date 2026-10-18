@@ -5955,7 +5955,7 @@ expectorates
 enigma
 egotism
 enigmas 1
-enjambements
+enjambements 1
 enigmata
 eluvial
 exquisite
