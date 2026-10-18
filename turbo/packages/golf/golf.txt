@@ -4162,7 +4162,7 @@ gliosa
 ghibelline
 gynaecium
 gunned 1
-grovel
+grovel 1
 gois 1
 gaetuli
 gyromagnetic
