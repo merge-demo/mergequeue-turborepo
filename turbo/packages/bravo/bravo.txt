@@ -1285,7 +1285,7 @@ bardie
 balanceable
 burion
 bafflements
-bilocellate
+bilocellate 1
 buckskinned 1
 baryonic
 bluejays
