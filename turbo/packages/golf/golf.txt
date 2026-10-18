@@ -4627,7 +4627,7 @@ gossoon
 glassin
 glycuronic
 glary
-gradely 1
+gradely 2
 graecism
 goglet
 grosbeaks
