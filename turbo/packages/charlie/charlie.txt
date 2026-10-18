@@ -17166,7 +17166,7 @@ coagulates
 clients
 cornified 1
 cowhearted
-chains
+chains 1
 coagulation 1
 coagulative
 chrysophenine
