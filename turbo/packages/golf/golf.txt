@@ -9455,7 +9455,7 @@ glycose
 gladiate 1
 glossy
 ganser
-gleeishly 1
+gleeishly 2
 gauffering
 geometrician
 grilled
