@@ -4939,7 +4939,7 @@ demure
 diplographical
 dressmakership
 disnest
-dannie
+dannie 1
 demurrant
 dually 1
 driveling
@@ -6187,7 +6187,7 @@ denationalisation
 diabolize
 dermatitises
 drupe
-dermatodynia
+dermatodynia 1
 demisability
 disown
 distrainer
