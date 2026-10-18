@@ -9980,7 +9980,7 @@ gunwale
 grills 1
 glazer
 gubernatrix
-geophysically
+geophysically 1
 gogglier
 glow
 graveness
