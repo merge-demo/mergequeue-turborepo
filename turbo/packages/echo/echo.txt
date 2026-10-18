@@ -3231,7 +3231,7 @@ elude
 equant
 educive
 extreme
-extroversively
+extroversively 1
 eludible 1
 enswathes
 elul
@@ -13453,7 +13453,7 @@ echinosphaeritidae
 expropriable
 endome
 epirogenetic
-expropriate 1
+expropriate 2
 egalitarian
 elem
 evaluable 1
