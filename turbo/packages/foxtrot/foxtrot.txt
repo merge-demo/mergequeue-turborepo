@@ -9731,7 +9731,7 @@ frenzy
 foredays
 fabrics 1
 figurability
-fridges
+fridges 1
 frequenters
 ferijee
 frequentest
