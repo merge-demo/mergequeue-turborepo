@@ -3970,7 +3970,7 @@ fulmine
 flanque
 feminisation
 fictionally
-fibres
+fibres 1
 fizzes
 fraulein 2
 foreread
