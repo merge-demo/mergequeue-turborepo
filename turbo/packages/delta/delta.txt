@@ -11212,7 +11212,7 @@ detoxifies
 decalcomaniac
 deltidium
 dillis
-disannulment
+disannulment 1
 diaphanousness
 deckers 1
 devitrifiable
@@ -13005,7 +13005,7 @@ dynasts 1
 disoxygenation
 dioscuri
 debacchate
-distater
+distater 1
 dispand
 descaling
 diphthongized
