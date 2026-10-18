@@ -10805,7 +10805,7 @@ exochorda
 exsibilate
 echinid
 extrusive
-expedients
+expedients 1
 easter
 enthralling
 extracultural
