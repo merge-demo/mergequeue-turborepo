@@ -8403,7 +8403,7 @@ emancipatress 1
 epizoic
 eudaemonia
 ensigncy
-equals
+equals 1
 epizoon
 edemic
 emblossom 1
@@ -11164,7 +11164,7 @@ evanesced
 eternalism
 exuberantly
 enspheres
-electroacoustically
+electroacoustically 1
 econometrist
 evanesces
 etuis
