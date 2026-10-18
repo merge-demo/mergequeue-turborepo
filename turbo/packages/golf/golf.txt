@@ -9742,7 +9742,7 @@ gymnastic
 gluttonizing
 gradino
 gombay
-gastriloquial
+gastriloquial 1
 gelatinous 1
 gregarine
 gonochorismus
