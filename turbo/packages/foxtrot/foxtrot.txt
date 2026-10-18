@@ -9980,7 +9980,7 @@ forcers
 frigolabile 1
 fumigate
 frisson
-feloniousness
+feloniousness 1
 foun
 futureless
 fibroid
