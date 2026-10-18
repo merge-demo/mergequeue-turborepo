@@ -2605,7 +2605,7 @@ glaucine
 glamourization
 grisette
 gowf
-gasometrical
+gasometrical 1
 glossolabial
 geiger
 goutte
