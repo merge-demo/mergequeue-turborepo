@@ -9164,7 +9164,7 @@ ermines
 epiloguize
 ectoenzyme
 ectocinerea
-encolor
+encolor 1
 enates
 ernes
 erode
@@ -12550,7 +12550,7 @@ electrofusion
 extant
 existlessness
 epistemological
-excitomuscular
+excitomuscular 1
 embezzle
 exit
 encrypted 1
