@@ -5860,7 +5860,7 @@ ging 1
 glamorizations
 ginkgoales
 gentilish
-gleesomeness
+gleesomeness 1
 gassiness 1
 guereba
 gymnospermous
