@@ -11212,7 +11212,7 @@ detoxifies
 decalcomaniac
 deltidium
 dillis
-disannulment
+disannulment 1
 diaphanousness
 deckers 1
 devitrifiable
