@@ -4060,7 +4060,7 @@ enantiomeride
 epitheca
 elses
 enamelers
-ecstasize
+ecstasize 1
 exterminated
 empiricalness
 engorgement
