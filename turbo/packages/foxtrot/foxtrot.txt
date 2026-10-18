@@ -6886,7 +6886,7 @@ fulwa
 fideicommission
 formeret
 filibusterous
-freeway
+freeway 1
 formaldehydesulphoxylic 1
 foll
 facia
