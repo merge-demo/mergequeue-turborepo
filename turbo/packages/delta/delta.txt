@@ -3866,7 +3866,7 @@ decan
 dollied
 dekare
 dinsome
-dearomatize
+dearomatize 1
 dogfoot
 dekes
 derivationally 1
