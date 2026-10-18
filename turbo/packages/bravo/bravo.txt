@@ -8063,7 +8063,7 @@ bicircular
 bitemporal
 byname
 bobsleigh
-bick
+bick 1
 bicycler
 bluebooks
 bisiliac
