@@ -5924,7 +5924,7 @@ foreworld 1
 floodgates 2
 fiercest
 falseface 1
-freer
+freer 1
 fraudlessness
 freehand
 feretories
