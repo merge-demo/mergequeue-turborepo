@@ -4692,7 +4692,7 @@ ecstrophy
 esthematology
 epanaphora 1
 electroencephalographs
-egomania
+egomania 1
 enmuffle
 entrammel
 ensuance
