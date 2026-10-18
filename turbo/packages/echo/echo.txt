@@ -2167,7 +2167,7 @@ endocyclic
 extremeness
 elbowy
 elbowpiece 1
-elbows
+elbows 1
 explores
 everywoman
 elfishness
@@ -13052,7 +13052,7 @@ expediter
 enunciates
 eulogistically
 expeditiously
-erythrocarpous
+erythrocarpous 1
 ecstasies
 euge
 enterochirurgia
