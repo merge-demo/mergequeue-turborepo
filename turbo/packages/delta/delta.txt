@@ -1258,7 +1258,7 @@ datiscosid
 delacerate
 drosograph
 datisi
-dative
+dative 1
 dorking
 datively
 dreamlore
@@ -12342,7 +12342,7 @@ decempartite
 didymiums
 decoagulation
 dishaunt
-draughtmanship
+draughtmanship 1
 duddery
 deflationary
 dichromaticism
