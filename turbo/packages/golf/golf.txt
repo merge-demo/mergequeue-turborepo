@@ -2482,7 +2482,7 @@ glandules
 goading
 grewia
 grots
-guttersnipes
+guttersnipes 1
 gibbetwise
 gangrened
 genitalic 2
