@@ -4646,7 +4646,7 @@ eddies
 excretionary
 enrapting
 eustachian
-eristalis
+eristalis 1
 enterobacterium
 epidermophyton
 enchorial
