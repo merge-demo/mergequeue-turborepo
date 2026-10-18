@@ -610,7 +610,7 @@ dramamine 1
 deposes
 doff
 damnability
-damnabilities
+damnabilities 1
 deloul
 disegno
 deadrize
