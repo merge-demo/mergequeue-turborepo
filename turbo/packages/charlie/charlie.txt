@@ -5484,7 +5484,7 @@ catabolically
 cabler
 commorancy
 catabolin
-catabolism
+catabolism 1
 catabolite 1
 catabolized
 claim
