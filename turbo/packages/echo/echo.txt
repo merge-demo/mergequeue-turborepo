@@ -11819,7 +11819,7 @@ equiproducing 1
 elecive
 emboil
 eulogization 1
-extromit
+extromit 1
 excalceate
 emasculatory
 excalceation
@@ -12508,7 +12508,7 @@ exine
 exies
 extraviolet
 entune
-errantia
+errantia 1
 electicism
 everyway
 exinguinal
