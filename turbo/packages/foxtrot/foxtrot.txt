@@ -5102,7 +5102,7 @@ forebespeak
 fatherling
 fractionise
 funking
-forbidding
+forbidding 1
 forthy
 fireweed
 fishiest
