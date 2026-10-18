@@ -1322,7 +1322,7 @@ balearian
 beltings
 bate
 binational
-balanorrhagia
+balanorrhagia 1
 balanta
 bescorn
 bottine
@@ -4388,7 +4388,7 @@ befool
 bechic
 bechignoned
 broomrape
-bacchanalize 1
+bacchanalize 2
 balzacian
 bemercy
 bushwalking
