@@ -24480,7 +24480,7 @@ cheeseburger
 cootfoot
 charlestons
 crotyl
-cooty
+cooty 1
 clamshells
 cootie
 copps
