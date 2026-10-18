@@ -13543,7 +13543,7 @@ entailers
 epiphenomenally
 elopements
 earthmaker 1
-exscissor
+exscissor 1
 eyass 1
 extrafloral
 exscriptural
