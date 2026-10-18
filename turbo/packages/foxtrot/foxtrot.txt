@@ -11548,7 +11548,7 @@ flecklessly
 frettingly
 frugging 1
 furlable
-fabling
+fabling 1
 fictionize
 fards
 flensed
