@@ -14478,7 +14478,7 @@ antiuating
 anthrophore
 anthropical 1
 acquisition
-anthropobiology
+anthropobiology 1
 apneumatosis
 antimorality
 anthropocentric
