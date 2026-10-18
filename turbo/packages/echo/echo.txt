@@ -3683,7 +3683,7 @@ extravert
 encolpion
 exomion
 excogitates
-emaciated
+emaciated 1
 expatiatory
 erythrons
 enwheel
@@ -8312,7 +8312,7 @@ episthotonos
 endogamies
 enolized
 eriocaulaceae
-electrodeposit
+electrodeposit 1
 enciphers
 elev
 expressibly 1
