@@ -13489,7 +13489,7 @@ disrooted 1
 dissertated
 dialectologer
 demicircle
-disrooting
+disrooting 1
 denutrition 1
 debenture
 ditrigonal
