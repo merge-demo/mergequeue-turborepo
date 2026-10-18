@@ -6997,7 +6997,7 @@ aiwan
 annamitic
 asepses
 adobo 1
-aspirata
+aspirata 1
 aywhere
 aizoon
 antitryptic
