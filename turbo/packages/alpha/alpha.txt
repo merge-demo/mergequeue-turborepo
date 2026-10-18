@@ -14478,7 +14478,7 @@ antiuating
 anthrophore
 anthropical 1
 acquisition
-anthropobiology
+anthropobiology 1
 apneumatosis
 antimorality
 anthropocentric
@@ -15542,7 +15542,7 @@ anthropophagi
 antiatheism
 aquaplanes
 antimonies
-antimonium
+antimonium 1
 aboves
 abseil
 antimoniuret
