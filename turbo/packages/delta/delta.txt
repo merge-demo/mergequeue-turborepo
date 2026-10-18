@@ -6251,7 +6251,7 @@ dermatrophia
 deallocate
 disgrade
 dephlegmatory 1
-dermenchysis
+dermenchysis 1
 delacrimation
 dermestid
 dermatoneural
