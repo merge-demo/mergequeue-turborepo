@@ -31051,7 +31051,7 @@ chaired
 colorize
 caprocks
 cumsha
-cumshaw
+cumshaw 1
 cyclones
 cumulate 1
 canberra
