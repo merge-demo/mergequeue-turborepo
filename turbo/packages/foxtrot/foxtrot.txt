@@ -11320,7 +11320,7 @@ fatwa
 firedog
 feverfew
 firesides
-fraternize
+fraternize 1
 fleabite
 faultfinding
 fluoroscopic
