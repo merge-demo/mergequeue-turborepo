@@ -6086,7 +6086,7 @@ aminocaproic
 airproofed
 apothegmatic
 axumite
-availment
+availment 1
 abulia
 amphigene
 apogeny
