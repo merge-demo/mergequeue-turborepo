@@ -6970,7 +6970,7 @@ despondentness
 desponder
 despondingly
 desponds
-debasement
+debasement 1
 diaster
 dikaryon
 districts
