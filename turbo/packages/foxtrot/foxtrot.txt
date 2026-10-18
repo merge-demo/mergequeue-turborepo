@@ -2774,7 +2774,7 @@ foxtailed
 fotch
 filao
 fubby
-fimbriation
+fimbriation 1
 frazzles
 furciform
 filace
