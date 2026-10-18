@@ -4300,7 +4300,7 @@ factive
 fet
 flamethrower
 fluxive
-fruticous
+fruticous 1
 funditor
 fructiferousness 1
 fretworked
