@@ -5209,7 +5209,7 @@ characterizable
 credens
 casky 1
 clearer
-casking
+casking 1
 casks
 caspar
 castings
