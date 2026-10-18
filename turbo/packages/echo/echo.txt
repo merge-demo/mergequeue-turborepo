@@ -12326,7 +12326,7 @@ elaidate
 effigurate
 eulogizers
 erythroglucin
-effusiometer
+effusiometer 1
 emanators
 entangled 1
 eaning
