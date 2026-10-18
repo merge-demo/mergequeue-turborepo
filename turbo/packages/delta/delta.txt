@@ -18496,7 +18496,7 @@ disawa
 datch
 dalis
 drongos
-durances
+durances 1
 downcast
 decorement
 disendows
