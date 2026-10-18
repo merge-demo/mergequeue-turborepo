@@ -9267,7 +9267,7 @@ chattier
 cephalaspis
 cuspidors
 confragose
-chatties
+chatties 1
 chattiest 1
 chattiness
 colorably
