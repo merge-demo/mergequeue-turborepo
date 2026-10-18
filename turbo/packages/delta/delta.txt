@@ -13712,7 +13712,7 @@ dosimeter
 duecento
 decertify
 disulphuric
-dialkyl
+dialkyl 1
 danegeld
 diatomiferous
 diplasion
