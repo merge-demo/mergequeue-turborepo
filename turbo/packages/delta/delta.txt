@@ -3520,7 +3520,7 @@ dermatotome
 drawbeam
 dissheathe
 dehwar
-defuze
+defuze 1
 dakoities
 dissociative 1
 degage
