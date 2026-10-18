@@ -7722,7 +7722,7 @@ deviltry
 dexiocardia
 dissociation
 diastataxy
-deformative
+deformative 1
 decayless
 devirginate
 diapered
