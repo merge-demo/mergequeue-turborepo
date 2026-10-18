@@ -2687,7 +2687,7 @@ bimensal
 bellying
 bable
 bribeable
-barling
+barling 1
 bertholletia
 barghest
 breechloader
