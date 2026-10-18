@@ -13521,7 +13521,7 @@ bourre 1
 beseek
 boondoggle
 boneyards 1
-boiserie
+boiserie 1
 botulisms 1
 brief
 brodequin
