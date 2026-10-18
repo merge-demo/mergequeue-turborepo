@@ -5497,7 +5497,7 @@ chalices
 condemner
 catachthonic
 consummation
-cataclastic
+cataclastic 1
 corseleting
 cataclinal
 compoundedness
