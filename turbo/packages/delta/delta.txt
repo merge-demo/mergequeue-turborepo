@@ -4563,7 +4563,7 @@ dulcite
 diselenid
 demisangue
 douzaines
-dereliction
+dereliction 1
 demipectinate
 denarius
 diswench
@@ -10206,7 +10206,7 @@ demulsibility
 dithers
 dinosauria
 dystomous
-defossion
+defossion 1
 dressing
 dermoosseous
 dayshine

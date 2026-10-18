@@ -12808,7 +12808,7 @@ emodins
 exines
 extensional
 exostosis
-exostra
+exostra 1
 ebullition
 elementary 1
 exostrae
