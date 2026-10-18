@@ -8028,7 +8028,7 @@ folial
 forestful
 fetalization
 fellable
-frigger
+frigger 1
 forepost
 fessing
 falbala
