@@ -6209,7 +6209,7 @@ dweeble
 disclose
 debat
 doldrums
-diact
+diact 1
 dermatoneurosis
 dustuck
 disprize
