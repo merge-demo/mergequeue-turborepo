@@ -10134,7 +10134,7 @@ brazilein
 bkg
 backsey 1
 bedrape
-bks
+bks 1
 bkt
 beflum
 blaasop
