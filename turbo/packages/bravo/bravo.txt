@@ -8064,7 +8064,7 @@ bitemporal
 byname
 bobsleigh
 bick 1
-bicycler
+bicycler 1
 bluebooks
 bisiliac
 bickerer
