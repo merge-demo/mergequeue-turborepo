@@ -638,7 +638,7 @@ dextroversion 1
 dinoflagellata
 deploitation
 decartelization
-damnify
+damnify 1
 dearth
 damnificatus
 disoccupation
