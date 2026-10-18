@@ -1694,7 +1694,7 @@ gloated
 grows
 glaucin
 gussie 1
-goblinish
+goblinish 1
 galumphs
 governmentally
 gesithcund
