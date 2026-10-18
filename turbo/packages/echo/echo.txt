@@ -1228,7 +1228,7 @@ estamin
 equicaloric
 exstemporal
 eme 1
-extrascripturality
+extrascripturality 1
 evenmete
 epit 1
 enneastyle 1
