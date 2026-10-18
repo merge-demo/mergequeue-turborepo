@@ -76,7 +76,7 @@ dumb 1
 deploying
 disqualifiable
 diachylon
-dactylology
+dactylology 1
 dognapped
 dactylomegaly
 dactylopore
