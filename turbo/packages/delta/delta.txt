@@ -1707,7 +1707,7 @@ deluged
 dornecks
 dumetose 1
 deasil
-dearness
+dearness 1
 douanier
 dispensations
 decostate 2
@@ -4939,7 +4939,7 @@ demure
 diplographical
 dressmakership
 disnest
-dannie
+dannie 1
 demurrant
 dually 1
 driveling
