@@ -10081,7 +10081,7 @@ chessner
 claves
 chesstree
 cerias
-chest
+chest 1
 curing 1
 chesterfield
 chesterfieldian
@@ -14304,7 +14304,7 @@ connarite
 circumstancing
 circumstant
 coelacanthid
-chronometry
+chronometry 1
 circumstantiality
 circumstantialities
 circumstantialness
