@@ -9019,7 +9019,7 @@ dextrinous
 decatholicize
 drear
 diverter
-dicrotal
+dicrotal 1
 dicrotous
 doto
 dicruridae
