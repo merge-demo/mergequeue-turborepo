@@ -8768,7 +8768,7 @@ glacious
 greet 1
 gloves
 gadid
-glimpsers
+glimpsers 1
 grandchildren
 gelatinochloride
 gunslinger
