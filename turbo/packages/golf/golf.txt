@@ -7431,7 +7431,7 @@ garrulous
 goodrich 1
 googlies
 grangerized
-genotype 1
+genotype 2
 galenas
 gratulant
 germen
