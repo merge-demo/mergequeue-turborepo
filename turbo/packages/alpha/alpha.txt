@@ -7912,7 +7912,7 @@ annexitis
 abacas
 ascella
 afforestation
-appropriates
+appropriates 1
 alembic
 automatontons 1
 abolishes
