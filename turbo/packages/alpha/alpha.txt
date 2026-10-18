@@ -10663,7 +10663,7 @@ agraffe 1
 apostoile
 amylenol
 antiopiumist
-amylic
+amylic 1
 anacahuite 1
 awin
 arride
