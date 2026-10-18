@@ -30297,7 +30297,7 @@ codfishery
 crunched
 cruncher
 crunchers
-chooses
+chooses 1
 congealability
 cabinetmakers 1
 creped
