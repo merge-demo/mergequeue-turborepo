@@ -12097,7 +12097,7 @@ effervescing
 elpasolite
 empales
 excruciable 1
-excruciated
+excruciated 1
 eudesmol
 enframement
 epicerebral
