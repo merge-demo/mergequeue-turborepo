@@ -3907,7 +3907,7 @@ eminently
 enamored
 expressionless
 executorship 1
-edentulous
+edentulous 1
 extraregular
 eels
 effodient
