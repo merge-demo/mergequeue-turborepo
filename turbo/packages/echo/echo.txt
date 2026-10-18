@@ -11036,7 +11036,7 @@ estoc
 erg
 encomimia
 elegit
-electrostereotype
+electrostereotype 1
 expressionistically 1
 epipharynx
 endolumbar
