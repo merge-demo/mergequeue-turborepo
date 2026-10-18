@@ -14605,7 +14605,7 @@ andragogy
 achar
 anti
 antiabolitionist
-accustom
+accustom 1
 antiabortion
 acrotic
 ambulation
