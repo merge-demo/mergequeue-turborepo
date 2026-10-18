@@ -3304,7 +3304,7 @@ amblychromatic
 anomurous
 agawam
 ametabola
-adad
+adad 1
 algesic
 agalawood
 afreet
