@@ -7148,7 +7148,7 @@ centrer 1
 closely
 chol
 chatterbox
-centrev
+centrev 1
 chivalrous
 containedly 1
 centric
