@@ -4563,7 +4563,7 @@ dulcite
 diselenid
 demisangue
 douzaines
-dereliction
+dereliction 1
 demipectinate
 denarius
 diswench
