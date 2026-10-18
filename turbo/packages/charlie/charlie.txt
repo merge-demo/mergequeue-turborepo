@@ -27900,7 +27900,7 @@ cancelers
 crackdowns
 cyclonically
 crackedness
-coelostat
+coelostat 1
 cracker
 coenobium
 correal
