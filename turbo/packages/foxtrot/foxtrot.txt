@@ -1073,7 +1073,7 @@ furziest 1
 farrago
 franchisement
 frizer
-flichters
+flichters 1
 fluorene
 foreswear
 feriae
