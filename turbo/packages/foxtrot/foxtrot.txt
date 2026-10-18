@@ -9664,7 +9664,7 @@ flockier
 forfending
 flied
 femes
-feaking
+feaking 1
 fluing
 fruitgrower
 freith
