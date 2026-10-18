@@ -13919,7 +13919,7 @@ derisive 1
 distyle
 demiurgic
 disinhabit 1
-denshare
+denshare 1
 dramatics 1
 dokhma
 deles
