@@ -12629,7 +12629,7 @@ bookbind
 boruca
 bronchocele
 beatniks
-bite
+bite 1
 bagels
 baguets
 beleaguerment 1
