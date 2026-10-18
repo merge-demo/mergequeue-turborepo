@@ -11138,7 +11138,7 @@ entocarotid 1
 expatriation 1
 embroiderer
 ensiform 1
-extractibility
+extractibility 1
 ectatic
 evacuator 1
 evaded
