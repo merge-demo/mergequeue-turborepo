@@ -11192,7 +11192,7 @@ fallfishes
 forcipal 1
 fireplugs
 frenzelite 2
-forepaling 1
+forepaling 2
 flinter
 fullgrownness
 fairfieldite
