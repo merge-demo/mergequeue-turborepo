@@ -15542,7 +15542,7 @@ anthropophagi
 antiatheism
 aquaplanes
 antimonies
-antimonium
+antimonium 1
 aboves
 abseil
 antimoniuret
@@ -18861,7 +18861,7 @@ antimonarch
 archgod
 archheart
 aoristically
-archhypocrisy
+archhypocrisy 1
 archhypocrite
 appointe
 archdeaconess
