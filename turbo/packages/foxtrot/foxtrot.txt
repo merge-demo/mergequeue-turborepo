@@ -9068,7 +9068,7 @@ fleeceflower
 floridly 1
 floozies
 fr
-falling
+falling 1
 flintlike 1
 furdle
 funambulated 1
