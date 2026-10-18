@@ -899,7 +899,7 @@ anaemia
 actinomycin
 archband
 aures
-absyrtus
+absyrtus 1
 amylon
 absis
 attributive
