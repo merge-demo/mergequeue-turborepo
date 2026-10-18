@@ -12508,7 +12508,7 @@ exine
 exies
 extraviolet
 entune
-errantia
+errantia 1
 electicism
 everyway
 exinguinal
