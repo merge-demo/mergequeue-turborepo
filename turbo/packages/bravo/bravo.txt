@@ -14430,7 +14430,7 @@ bodeword
 blastulas
 blighting
 barnstorm
-belieffulness
+belieffulness 1
 branchiocardiac
 bradynosus
 blowline
@@ -15561,7 +15561,7 @@ bionts
 brinksmanship
 batted
 backshish 1
-beardlike
+beardlike 1
 berkeley
 bargeload
 brioches 1
