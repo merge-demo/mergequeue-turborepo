@@ -9500,7 +9500,7 @@ epithetician
 escout
 enstore
 es
-equipondious
+equipondious 1
 escribientes
 escrime
 ephyrula
