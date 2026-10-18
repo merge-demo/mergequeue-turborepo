@@ -2844,7 +2844,7 @@ goutweed
 genua 1
 graafian
 gruel
-geatas
+geatas 1
 genioglossus
 genuflecting 2
 gaberdine
