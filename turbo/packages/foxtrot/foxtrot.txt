@@ -10440,7 +10440,7 @@ fluorinated 1
 frontlash
 flatmen
 fallowing
-fronter 1
+fronter 2
 frontoauricular
 frontomallar
 frontomental
