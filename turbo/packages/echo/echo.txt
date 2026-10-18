@@ -4723,7 +4723,7 @@ exalbuminose
 encist
 electrokinetics
 exponentially
-encysting
+encysting 1
 emptiest
 evenest
 eyepieces
