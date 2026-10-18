@@ -3494,7 +3494,7 @@ bovine
 basts
 banuyo
 basural
-bovarism
+bovarism 1
 baedeker 1
 basuto
 bancos
