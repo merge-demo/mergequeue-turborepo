@@ -108,7 +108,7 @@ flocks 1
 facilitation
 facilitative
 fashionist
-federated
+federated 1
 fiat
 flavourfully
 fopping
