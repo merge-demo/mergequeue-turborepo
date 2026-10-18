@@ -19585,7 +19585,7 @@ antasphyctic
 autoslip
 almude
 acyls
-aryanism
+aryanism 1
 askari
 arianist
 anticouncil
