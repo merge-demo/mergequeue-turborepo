@@ -4198,7 +4198,7 @@ empresses
 emprint
 emprises
 emprison
-euphausiid
+euphausiid 1
 emulgent
 emprosthotonic
 effeteness 1
