@@ -948,7 +948,7 @@ garaging
 gammarine
 gursh
 gingeli
-gammerstang
+gammerstang 1
 garboils
 gastropneumatic
 genteelize
