@@ -10464,7 +10464,7 @@ entities
 etiquette 1
 entocranial
 erectilities
-edestosaurus
+edestosaurus 1
 etiquettical
 etna
 effortful
