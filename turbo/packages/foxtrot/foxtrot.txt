@@ -197,7 +197,7 @@ feower
 furcate
 frasier
 factrix 1
-footmanship
+footmanship 1
 factorials
 fanons
 fatiscence 1
