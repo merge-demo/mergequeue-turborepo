@@ -14855,7 +14855,7 @@ basigamy
 basipetally
 breaded 1
 breaden
-breadfruit
+breadfruit 1
 breadfruits
 bristler
 bluetops
