@@ -15399,7 +15399,7 @@ domification
 distoma
 dissemblance
 decempedate
-dynamize
+dynamize 1
 dedications 1
 dominae
 decarburization
