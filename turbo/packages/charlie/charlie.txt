@@ -2608,7 +2608,7 @@ carbylamine
 caneology
 canephora
 canephorae 1
-canephore
+canephore 1
 canephori
 canephoroi
 canepin
