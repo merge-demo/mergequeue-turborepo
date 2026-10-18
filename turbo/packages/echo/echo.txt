@@ -13589,7 +13589,7 @@ emulation
 esoteric 1
 exsufflate
 exsufflation
-epithymetical
+epithymetical 1
 endangering
 extracutaneous
 evasions
