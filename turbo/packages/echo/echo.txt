@@ -9684,7 +9684,7 @@ essenwood
 elms 1
 ectoblast
 enshielded
-espouser
+espouser 1
 espouses
 espousing
 exdelicto
