@@ -8198,7 +8198,7 @@ gansel 1
 gerontotherapies
 grisard
 graphitize
-gastrotubotomy
+gastrotubotomy 1
 glacioaqueous
 gweduc
 goldbug
