@@ -7920,7 +7920,7 @@ enframes
 ecclesiography
 epaleaceous
 entreater
-epizootiology
+epizootiology 1
 epinikion
 epilogical
 eptatretidae 1
@@ -9164,7 +9164,7 @@ ermines
 epiloguize
 ectoenzyme
 ectocinerea
-encolor
+encolor 1
 enates
 ernes
 erode

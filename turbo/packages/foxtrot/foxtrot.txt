@@ -10470,7 +10470,7 @@ fellah
 ferocity
 februarius
 flaxtail
-frontwards
+frontwards 1
 fragrant 1
 fermatian
 fungitoxic 1
