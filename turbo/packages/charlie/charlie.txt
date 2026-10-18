@@ -5483,7 +5483,7 @@ catabatic
 catabolically
 cabler
 commorancy
-catabolin
+catabolin 1
 catabolism 1
 catabolite 1
 catabolized
