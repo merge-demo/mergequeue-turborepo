@@ -6363,7 +6363,7 @@ featheriness
 floatmaker 1
 fireworm
 fatiguabilities
-fossae
+fossae 1
 fogas
 fluoride 1
 flyboat
