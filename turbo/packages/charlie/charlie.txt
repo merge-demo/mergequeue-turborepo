@@ -1377,7 +1377,7 @@ calyculated 1
 coercing
 cuminseed
 counterband
-calicut
+calicut 1
 calid
 calydonian
 chaped
