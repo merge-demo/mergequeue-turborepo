@@ -4510,7 +4510,7 @@ entothorax
 embiidae
 encephalomyelitic
 epochally
-extramorainal 1
+extramorainal 2
 epirrheme
 encephalomyelitis
 entalent
@@ -7920,7 +7920,7 @@ enframes
 ecclesiography
 epaleaceous
 entreater
-epizootiology
+epizootiology 1
 epinikion
 epilogical
 eptatretidae 1
