@@ -574,7 +574,7 @@ epigynum
 excision
 esophagoscopy
 eurypelma
-eurythermic
+eurythermic 1
 elementalism
 ecclesiastes
 electrostatically 1
