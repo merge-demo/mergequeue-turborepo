@@ -8174,7 +8174,7 @@ fundamentals
 forgeries
 fatigated
 fictioneer
-feudalities
+feudalities 1
 flaggelated
 friezing
 forfaulture 1
