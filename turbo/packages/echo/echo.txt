@@ -517,7 +517,7 @@ excuser
 endobiotic
 endonucleolus
 evocate
-electrophorus 1
+electrophorus 2
 elaborated
 enhydrinae
 echinacea
