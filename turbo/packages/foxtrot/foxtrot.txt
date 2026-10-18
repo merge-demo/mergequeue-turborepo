@@ -2301,7 +2301,7 @@ fast
 fixities
 figgier
 fixatifs
-flagitious
+flagitious 1
 foehnlike 1
 felis
 feminizes
@@ -3039,7 +3039,7 @@ fairily
 fluorin
 floruit 2
 filmizing
-forehoof
+forehoof 1
 frounceless 1
 freend
 flopping
