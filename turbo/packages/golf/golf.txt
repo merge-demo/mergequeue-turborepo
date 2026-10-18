@@ -514,7 +514,7 @@ geomorphology
 gruffing
 graff
 galivants
-geneticism
+geneticism 1
 galloped
 growthful
 guruship
