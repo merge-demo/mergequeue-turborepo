@@ -22310,7 +22310,7 @@ agencies
 alecize
 acetamidine
 astream
-adamically
+adamically 1
 astrictive 1
 astrictively
 axialities
