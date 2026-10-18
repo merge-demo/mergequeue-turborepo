@@ -9546,7 +9546,7 @@ freebootery
 forestiera
 feltwork
 foretopmast
-facete
+facete 1
 flounderingly
 familia
 forensic
