@@ -4493,7 +4493,7 @@ gingering
 gyrated
 gosain
 grandfatherish
-germinable
+germinable 1
 gainpain
 glabrousness
 gunj
