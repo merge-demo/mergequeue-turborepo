@@ -4535,7 +4535,7 @@ cabiritic
 convulsed
 carnelian
 carneole
-coroner
+coroner 1
 chartula
 coacervating
 citoler
