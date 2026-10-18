@@ -2861,7 +2861,7 @@ eventognath
 eleutherian
 epidemicalness
 eleutherios
-entomologic
+entomologic 1
 estuarian 1
 elytriferous
 enterotoxin
