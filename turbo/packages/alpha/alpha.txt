@@ -24001,7 +24001,7 @@ autocollimators
 autocombustion
 autoconduction
 archive
-anantherate
+anantherate 1
 axmaster 1
 anthracnosis
 antimellin 1
