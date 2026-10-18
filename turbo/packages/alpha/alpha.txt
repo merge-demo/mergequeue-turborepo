@@ -17652,7 +17652,7 @@ aviate 1
 appetite
 algaroth
 ateleological
-autographist
+autographist 1
 albizia
 actinobacillosis
 ancestrally
@@ -24139,7 +24139,7 @@ altoist
 antianarchist
 absorbance
 azelfafage
-aftergo
+aftergo 1
 acemetae
 atomizes
 anomic
