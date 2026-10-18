@@ -11819,7 +11819,7 @@ equiproducing 1
 elecive
 emboil
 eulogization 1
-extromit
+extromit 1
 excalceate
 emasculatory
 excalceation
