@@ -2301,7 +2301,7 @@ fast
 fixities
 figgier
 fixatifs
-flagitious
+flagitious 1
 foehnlike 1
 felis
 feminizes
