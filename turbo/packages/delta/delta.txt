@@ -1258,7 +1258,7 @@ datiscosid
 delacerate
 drosograph
 datisi
-dative
+dative 1
 dorking
 datively
 dreamlore
@@ -7824,7 +7824,7 @@ dissertationist
 dinoceras
 dogsleds
 deckhands
-diadochokinesis
+diadochokinesis 1
 dismantle
 dyothelism
 dwelling
