@@ -13453,7 +13453,7 @@ echinosphaeritidae
 expropriable
 endome
 epirogenetic
-expropriate 1
+expropriate 2
 egalitarian
 elem
 evaluable 1
