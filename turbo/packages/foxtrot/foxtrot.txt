@@ -3207,7 +3207,7 @@ fictionalize
 fungation 1
 fourcher
 foots
-friers
+friers 1
 frostwort
 flexionless 1
 fionnuala
