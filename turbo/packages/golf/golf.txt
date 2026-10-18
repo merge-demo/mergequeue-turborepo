@@ -5452,7 +5452,7 @@ garnishment
 gadaria
 gastroparietal
 glucosemia
-gazingly
+gazingly 1
 gentian 1
 gloams 1
 granadillo
