@@ -10533,7 +10533,7 @@ engolden
 eluents
 ectrodactylia
 enteropathy
-exogenae
+exogenae 1
 estates
 ergosterol
 euchlorite
