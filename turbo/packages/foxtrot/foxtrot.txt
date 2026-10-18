@@ -10072,7 +10072,7 @@ faradonervous
 fleyed
 foretaste 1
 flyball
-foamiest
+foamiest 1
 forleit
 flannelmouthed 1
 forwardness 1
