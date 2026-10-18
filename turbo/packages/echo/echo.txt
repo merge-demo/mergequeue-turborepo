@@ -14013,7 +14013,7 @@ evocation
 existences
 extrapunitive
 endogen 1
-extraregularly
+extraregularly 1
 expirers
 exiling
 exsertile
