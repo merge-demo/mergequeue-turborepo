@@ -5819,7 +5819,7 @@ fierasfer 1
 fodders
 feelingful
 flounders
-flotas
+flotas 1
 floatier
 fulcrums
 flidge
