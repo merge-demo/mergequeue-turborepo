@@ -6870,7 +6870,7 @@ feltwort
 fanakalo
 flintwood 1
 farley
-flosculous
+flosculous 1
 februaries
 feculence
 footsie 1
