@@ -4078,7 +4078,7 @@ bivalvous
 beamhouse
 bibliophobe
 backbreaker 1
-belleric
+belleric 1
 benignancy
 bakuba
 bedolt
