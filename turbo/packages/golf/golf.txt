@@ -3443,7 +3443,7 @@ gubernance 1
 gaveler
 gravimeters 1
 gudgeons
-gowl
+gowl 1
 gelatinated
 gastrologer 2
 genoa
