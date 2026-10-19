@@ -2570,7 +2570,7 @@ exenteration
 erucic
 escapeful 1
 ethchlorvynol
-escarmouche
+escarmouche 1
 everest
 enhaloed
 embryonate
