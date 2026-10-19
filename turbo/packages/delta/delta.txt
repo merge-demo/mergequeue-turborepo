@@ -8013,7 +8013,7 @@ dulses
 derbylite
 doylt 1
 dietician
-duomi
+duomi 1
 dispersion
 dumbhead 1
 dorsointestinal
