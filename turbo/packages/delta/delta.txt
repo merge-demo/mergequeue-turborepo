@@ -3638,7 +3638,7 @@ degust
 dasnt
 degusted
 disbowelled
-dewlaps
+dewlaps 1
 dehache
 dorsoepitrochlear
 dehypnotize
