@@ -4153,7 +4153,7 @@ adolescent
 argentarii 1
 amahs
 apasote
-adon
+adon 1
 adonai
 adoniad
 agrarianize
