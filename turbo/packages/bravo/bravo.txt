@@ -65,7 +65,7 @@ babblings
 beauclerk 1
 bigoted
 babcock
-beknight
+beknight 1
 babe
 bead
 bombasine
