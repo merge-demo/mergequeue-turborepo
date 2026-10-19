@@ -9893,7 +9893,7 @@ dermatoptic
 direly
 dimetry
 disorganizes
-densimetry
+densimetry 1
 dimyaria
 downwardness
 dimidiate
