@@ -9030,7 +9030,7 @@ evertor
 electromyographic 1
 eurychoric 1
 erythroblastic
-expertism
+expertism 1
 extrafoliaceous
 electrocardiographs
 evaginating
