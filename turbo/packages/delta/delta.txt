@@ -6459,7 +6459,7 @@ dynamited
 doxological 1
 descends
 deviability
-dialectic
+dialectic 1
 dynel
 descension
 dereligion
