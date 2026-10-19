@@ -10101,7 +10101,7 @@ breedy
 bairntime
 byzantine
 byzantinize
-barmecide
+barmecide 1
 bottlemaking 1
 brasser
 buttonmold
