@@ -10827,7 +10827,7 @@ digit
 dislicense
 dynameter
 darkest
-distant
+distant 1
 desilverize
 dipleurobranchiate
 dauntingly
