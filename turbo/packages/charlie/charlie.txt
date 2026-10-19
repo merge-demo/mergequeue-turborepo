@@ -8684,7 +8684,7 @@ cathexion
 chilindre 1
 chimbley
 chapatties
-chapattis
+chapattis 1
 codify
 connectant
 chapbook
