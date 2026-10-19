@@ -10030,7 +10030,7 @@ embarking
 emphasizes
 exempting
 equalist
-endoperidial
+endoperidial 1
 endogamous
 eterne
 endangerment
