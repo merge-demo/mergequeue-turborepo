@@ -6265,7 +6265,7 @@ gymnasial
 glossospasm
 guidsire
 gaposis
-gyrons
+gyrons 1
 guijo
 gastroatonia 1
 gastrocele
@@ -7536,7 +7536,7 @@ gemini
 gibbetted
 glossatorial
 gillotype
-gelatiniferous
+gelatiniferous 1
 grounded
 generability
 grinagog
