@@ -17190,7 +17190,7 @@ adaptableness
 ankerites
 apolusis
 amoebiasis
-archgunner
+archgunner 1
 apomecometer
 apomictical 1
 animism
@@ -21341,7 +21341,7 @@ arbitrary
 andesytes
 alleger
 aceanthrene
-atretic
+atretic 1
 asymmetric
 antimythical 1
 acknowledgement
