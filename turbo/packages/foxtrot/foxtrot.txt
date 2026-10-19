@@ -9390,7 +9390,7 @@ foliiferous
 fliers
 foodstuff
 foreteeth
-frary
+frary 1
 flouriness
 frolicly
 forecar
