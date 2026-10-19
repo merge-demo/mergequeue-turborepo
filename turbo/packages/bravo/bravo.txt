@@ -4519,7 +4519,7 @@ bustling
 bonnering
 becry
 becrime
-buckthorn
+buckthorn 1
 blockaded
 bunemost
 brise
