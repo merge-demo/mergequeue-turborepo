@@ -26558,7 +26558,7 @@ couchancy
 couchant
 couths
 coadequate
-cargos
+cargos 1
 cutter
 conjugata
 crenelated 1
