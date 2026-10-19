@@ -3005,7 +3005,7 @@ goatherdess 1
 guildsmen
 geomancy
 garnered 1
-glosser
+glosser 1
 gushingness
 gauchest
 gasify
