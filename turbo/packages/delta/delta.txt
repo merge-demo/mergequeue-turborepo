@@ -10781,7 +10781,7 @@ dulanganes
 dimerizes
 directer
 domite
-deboist
+deboist 1
 drawnly
 diluteness
 decreement
