@@ -8044,7 +8044,7 @@ gravels 1
 glenoidal
 granitiform
 geomancer
-gastrostomus
+gastrostomus 1
 geotonic
 gaslightness
 geomagnetism
