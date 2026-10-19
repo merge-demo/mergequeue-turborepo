@@ -3156,7 +3156,7 @@ extinguishment 1
 eloins
 exergue 1
 etioporphyrin
-explorativeness
+explorativeness 1
 embalms
 eloise
 exocoelom
