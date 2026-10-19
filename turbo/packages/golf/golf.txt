@@ -10519,7 +10519,7 @@ gratiola
 gibs
 gulix
 grallic
-galeorchis
+galeorchis 1
 gilly
 gadsbodikins
 glycerolyses 1
