@@ -4364,7 +4364,7 @@ dementedly
 draughtier 1
 dementholize
 deplorer
-disseated
+disseated 1
 demiatheism 1
 dementia
 desoxyribonucleoprotein
