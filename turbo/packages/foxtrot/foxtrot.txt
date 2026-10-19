@@ -11006,7 +11006,7 @@ fausen
 frostiest
 flintiest
 foreproffer
-foreweep
+foreweep 1
 feastly
 furfurol
 feign
