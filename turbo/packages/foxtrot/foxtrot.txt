@@ -5650,7 +5650,7 @@ finite
 flancards
 friended
 fuzz
-firking
+firking 1
 fountains
 firebrands
 flingy
