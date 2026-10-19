@@ -1631,7 +1631,7 @@ gumlikeness
 ghalva 1
 geode
 goyish
-gastroenteroptosis
+gastroenteroptosis 1
 graculus
 grammates
 gonnardite
