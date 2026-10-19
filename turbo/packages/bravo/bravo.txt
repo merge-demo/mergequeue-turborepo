@@ -482,7 +482,7 @@ bacillogenic 1
 burree
 battik
 benzoates
-backspaces
+backspaces 1
 blepharocera
 backspacing 2
 beedged
@@ -4519,7 +4519,7 @@ bustling
 bonnering
 becry
 becrime
-buckthorn
+buckthorn 1
 blockaded
 bunemost
 brise
