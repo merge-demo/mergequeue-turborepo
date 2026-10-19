@@ -81,7 +81,7 @@ abama
 akhara
 aband 1
 abandon
-androecial
+androecial 1
 amphipods
 abandoned
 abandoner
@@ -17190,7 +17190,7 @@ adaptableness
 ankerites
 apolusis
 amoebiasis
-archgunner
+archgunner 1
 apomecometer
 apomictical 1
 animism
