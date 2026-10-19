@@ -3381,7 +3381,7 @@ bronchobuster
 basoid
 baraithas
 beltine
-banus
+banus 1
 bayberries
 breast
 blowfish 1
