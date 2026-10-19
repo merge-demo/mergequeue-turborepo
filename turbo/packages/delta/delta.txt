@@ -1218,7 +1218,7 @@ dextrines
 dialyzers
 diapasonal
 dermatoskeleton
-dreggier
+dreggier 1
 daystars 1
 datebook
 dilacerated
