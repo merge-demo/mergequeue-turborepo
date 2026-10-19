@@ -6012,7 +6012,7 @@ aghan
 aghas
 aghori
 affecters 1
-allottee
+allottee 1
 autoantibody
 asaron
 anfeeld
