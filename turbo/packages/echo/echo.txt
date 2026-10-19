@@ -8406,7 +8406,7 @@ ensigncy
 equals 1
 epizoon
 edemic
-emblossom 1
+emblossom 2
 exulceration
 equinumerally
 earflaps 1
