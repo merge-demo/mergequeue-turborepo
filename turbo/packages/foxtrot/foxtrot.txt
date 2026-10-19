@@ -1991,7 +1991,7 @@ furile
 fishgig
 fulvid 1
 feedstock
-floccosely
+floccosely 1
 firespout
 forerake
 folic
