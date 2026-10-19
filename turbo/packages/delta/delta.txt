@@ -10583,7 +10583,7 @@ dolorogenic
 domitable 1
 dolven
 diplomaing
-datapunch 1
+datapunch 2
 doleritic
 drudger
 decremental 1
