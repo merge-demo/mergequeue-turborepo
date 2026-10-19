@@ -4056,7 +4056,7 @@ enringing
 evangelised
 encyclopaedism 2
 embroils 1
-enantiomeride
+enantiomeride 1
 epitheca
 elses
 enamelers
