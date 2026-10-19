@@ -9689,7 +9689,7 @@ espouses
 espousing
 exdelicto
 esprit
-enterorrhexis
+enterorrhexis 1
 esq
 existence
 exurbs
