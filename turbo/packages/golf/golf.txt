@@ -1740,7 +1740,7 @@ gutte
 greaseproof
 gastrophile
 garroo
-gorgonacea
+gorgonacea 1
 gastrophilism
 gorgeously
 gyrofrequencies
