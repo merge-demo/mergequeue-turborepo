@@ -2193,7 +2193,7 @@ epimyocardial
 eths
 ere 1
 engrosser
-emphasising
+emphasising 1
 epanthous
 elderman 1
 ensorcels 1
