@@ -8631,7 +8631,7 @@ bellflower
 balkanized
 bhuts
 bastionary
-bearskin
+bearskin 1
 billfolds 1
 ballaton
 bearlike
