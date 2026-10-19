@@ -14314,7 +14314,7 @@ ditolyl
 ditremid
 disharmonies
 diffusiveness
-despectant 1
+despectant 2
 downsitting 1
 ditrichotomous
 ditriglyphic
