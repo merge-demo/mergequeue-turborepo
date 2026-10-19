@@ -9136,7 +9136,7 @@ fulfulde 2
 forward
 filices
 filenames
-fifteenths
+fifteenths 1
 frija
 fixive 1
 fanaloka 1
