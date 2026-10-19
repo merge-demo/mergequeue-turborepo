@@ -2642,7 +2642,7 @@ graffito
 gastrolysis
 gudgeoned
 germantown
-globulicidal 1
+globulicidal 2
 genetika
 gathering
 greatest 1
