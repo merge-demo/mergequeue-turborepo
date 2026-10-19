@@ -662,7 +662,7 @@ exudative
 eclipsed
 epidermidalization
 equivocacy
-eclipses
+eclipses 1
 ephemeridae
 efts
 eudaemonistic
