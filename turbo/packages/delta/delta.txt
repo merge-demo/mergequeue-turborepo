@@ -5040,7 +5040,7 @@ detect 1
 dendrology
 dola
 daubes
-dumber
+dumber 1
 derivatives
 depth
 devorative
