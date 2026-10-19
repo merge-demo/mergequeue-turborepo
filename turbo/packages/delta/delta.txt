@@ -8807,7 +8807,7 @@ degame
 donkeyman
 dybbuk
 disfavourable
-dominantly
+dominantly 1
 dibbuks
 defied
 donzella
