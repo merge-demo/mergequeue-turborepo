@@ -17190,7 +17190,7 @@ adaptableness
 ankerites
 apolusis
 amoebiasis
-archgunner
+archgunner 1
 apomecometer
 apomictical 1
 animism
