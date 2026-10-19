@@ -3247,7 +3247,7 @@ agitprop 1
 autisms
 astropectinidae
 acupuncturator
-acupuncture
+acupuncture 1
 abonne
 acupunctured
 armagnacs
