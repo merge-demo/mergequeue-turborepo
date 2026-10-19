@@ -10746,7 +10746,7 @@ globulin
 gd
 gorsebird
 grovelers
-gouge
+gouge 1
 gerodontics
 germinator
 grandisonian
