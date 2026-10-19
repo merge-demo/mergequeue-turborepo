@@ -8177,7 +8177,7 @@ fictioneer
 feudalities 1
 flaggelated
 friezing
-forfaulture 1
+forfaulture 2
 francophile
 fluminose
 fernandinite
