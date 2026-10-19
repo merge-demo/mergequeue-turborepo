@@ -9711,7 +9711,7 @@ cheilostomatous
 censer
 cheyneys
 cankeredly
-cimex
+cimex 1
 cancrine
 cryptamnesia
 chromotype
