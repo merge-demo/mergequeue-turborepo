@@ -9306,7 +9306,7 @@ goldurn
 governability
 groper
 griffs
-gruf
+gruf 1
 graduate
 galleasses
 goliad 1
@@ -10847,7 +10847,7 @@ grailer
 gymnasiarch 1
 granospherite
 genesiurgic
-galianes
+galianes 1
 gunneress
 grewsomer 1
 gamin
