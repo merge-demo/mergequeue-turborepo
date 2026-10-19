@@ -9831,7 +9831,7 @@ diluvianism
 demibastioned
 diluvium
 digests
-dextrality
+dextrality 1
 dimastigate
 deli
 divergences
