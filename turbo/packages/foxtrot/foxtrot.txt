@@ -11508,7 +11508,7 @@ furzy
 fastest
 flouncy 1
 fluently
-fusariose
+fusariose 1
 fanfold
 forgettingly
 forcibility
