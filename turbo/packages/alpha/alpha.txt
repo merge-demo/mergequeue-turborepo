@@ -17337,7 +17337,7 @@ aumail
 apostatize
 apostaxis
 apostem
-abaton
+abaton 1
 anticapital
 armigeral
 acetylsalicylic
