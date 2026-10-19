@@ -9422,7 +9422,7 @@ endoss
 endodontologist
 excitabilities
 escarole
-excuseful
+excuseful 1
 elutriated 1
 exostosed
 epipodium
