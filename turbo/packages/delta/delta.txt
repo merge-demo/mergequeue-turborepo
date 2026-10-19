@@ -10495,7 +10495,7 @@ discorder 1
 derangeable 1
 delaminate
 diphaser
-divinize
+divinize 1
 dihydrocupreine
 discursativeness
 dipyrenous
