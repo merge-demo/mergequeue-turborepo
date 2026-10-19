@@ -20961,7 +20961,7 @@ comprise 1
 coqueluche
 comprised
 confrication
-crystallogram
+crystallogram 1
 comprize
 conventical
 corroboreed
