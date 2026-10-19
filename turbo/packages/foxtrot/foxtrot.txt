@@ -10051,7 +10051,7 @@ feasibleness
 feedman
 ferriferous 1
 foolheadedness 1
-falseness
+falseness 1
 fireblende
 flattie
 forefended
