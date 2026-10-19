@@ -11024,7 +11024,7 @@ dyophysite
 disincarcerate
 disannuls
 disembay
-diagnosticating
+diagnosticating 1
 diplopterous 1
 disapparel
 docility
@@ -11784,7 +11784,7 @@ discriminatively
 despatch
 discriminativeness
 discriminator
-dirigibility
+dirigibility 1
 diegueno
 disembrangle
 deferrals
