@@ -22269,7 +22269,7 @@ astonishment
 altrices
 antiamboceptor
 astoop
-abjoint
+abjoint 1
 ariel
 amorphy
 aerated
