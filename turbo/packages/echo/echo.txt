@@ -8411,7 +8411,7 @@ exulceration
 equinumerally
 earflaps 1
 epinasties
-exchange
+exchange 1
 evisceration
 equip
 eglogue
