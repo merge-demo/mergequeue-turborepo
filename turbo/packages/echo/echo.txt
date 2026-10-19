@@ -4854,7 +4854,7 @@ engraven 1
 eria
 eupepticism
 eulogizes 1
-encranial
+encranial 1
 externalize 1
 expectorator
 eudemony

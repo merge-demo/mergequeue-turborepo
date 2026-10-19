@@ -5824,7 +5824,7 @@ gravimetric
 glutamates
 goliards
 gallinaceous
-graphometrist
+graphometrist 1
 ganglionary
 gallywasp
 gyle
@@ -7372,7 +7372,7 @@ glassblower
 gummiest
 ghedda
 greenfish
-goosiest
+goosiest 1
 gunflints
 gelsemine
 gayness
