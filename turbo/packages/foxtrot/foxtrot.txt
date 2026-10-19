@@ -5542,7 +5542,7 @@ foraminiferous
 flirtish 1
 flexuously
 ferd
-fram
+fram 1
 fluffiest
 forecited
 fluorite
