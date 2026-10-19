@@ -6179,7 +6179,7 @@ diaphragmatically
 desiccator
 dizaine
 dermatatrophia
-daphnite
+daphnite 1
 dammer
 discretely
 dodonaena
@@ -10827,7 +10827,7 @@ digit
 dislicense
 dynameter
 darkest
-distant
+distant 1
 desilverize
 dipleurobranchiate
 dauntingly
