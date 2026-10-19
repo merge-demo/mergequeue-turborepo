@@ -6541,7 +6541,7 @@ grummets
 gimmerpet
 groyne 1
 ghostwrite
-gingivolabial
+gingivolabial 1
 gabbing
 guttiferal 1
 gruis
