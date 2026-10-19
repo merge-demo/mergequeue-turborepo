@@ -5301,7 +5301,7 @@ externes
 erectors
 ernest
 estocs
-ergodicity
+ergodicity 1
 eliminability
 endosclerite
 extrahepatic

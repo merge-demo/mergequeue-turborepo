@@ -15447,7 +15447,7 @@ antimension
 archisperm
 antimere
 antimerism
-antimesia
+antimesia 1
 archetypically
 antimetathetic
 aeschynite
@@ -19180,7 +19180,7 @@ autorotational
 angiospermal
 acrobystitis
 antipolo
-aggravated
+aggravated 1
 antispastic
 adjiger
 allentiac

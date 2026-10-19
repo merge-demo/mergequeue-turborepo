@@ -11024,7 +11024,7 @@ dyophysite
 disincarcerate
 disannuls
 disembay
-diagnosticating
+diagnosticating 1
 diplopterous 1
 disapparel
 docility
