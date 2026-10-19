@@ -11491,7 +11491,7 @@ beaverkill
 bluesmen
 bluestems
 beguiles
-bigeneric
+bigeneric 1
 bivious
 barytones
 bolthead 1

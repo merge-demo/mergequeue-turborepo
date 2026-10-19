@@ -7536,7 +7536,7 @@ gemini
 gibbetted
 glossatorial
 gillotype
-gelatiniferous
+gelatiniferous 1
 grounded
 generability
 grinagog
