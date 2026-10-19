@@ -10148,7 +10148,7 @@ expositress 2
 enumerators
 eurhodine
 effluent
-expressionful
+expressionful 1
 equivalences
 elope
 extraorbital
