@@ -797,7 +797,7 @@ feil
 flatulences
 forecovert
 fanfolds
-fecundize
+fecundize 1
 fluorines
 financing
 flunker
