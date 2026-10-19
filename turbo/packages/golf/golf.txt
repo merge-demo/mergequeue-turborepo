@@ -1998,7 +1998,7 @@ glyptical
 gaurian
 gasting
 gaurs
-gravitative
+gravitative 1
 glamourous 1
 gaussage
 girth 1
@@ -10847,7 +10847,7 @@ grailer
 gymnasiarch 1
 granospherite
 genesiurgic
-galianes
+galianes 1
 gunneress
 grewsomer 1
 gamin
