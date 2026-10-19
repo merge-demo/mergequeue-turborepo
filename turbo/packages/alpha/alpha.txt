@@ -21555,7 +21555,7 @@ antiphase
 amarantite
 athapaskan
 avenging
-asphyxiator
+asphyxiator 1
 asphyxied
 achlorhydric
 anticritique

@@ -14820,7 +14820,7 @@ doctored
 deservingly
 doctorfishes
 decomponible
-demagogic
+demagogic 1
 dimit
 doctorhood
 doctorial
