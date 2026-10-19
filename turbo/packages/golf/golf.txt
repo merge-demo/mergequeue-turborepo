@@ -5136,7 +5136,7 @@ geognosist
 gleamily
 gabble
 gharial
-gleamingly
+gleamingly 1
 garroters 1
 gaviiformes
 gastrologically
