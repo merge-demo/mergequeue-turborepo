@@ -9472,7 +9472,7 @@ gland
 germanophobist
 gelsemic
 gnosiological
-gammoner
+gammoner 1
 gynophoric
 grandrelle
 gravitations
