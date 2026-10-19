@@ -5691,7 +5691,7 @@ benjoin
 bloodstones
 besped
 beldams
-bacchar
+bacchar 1
 bilify 1
 belderroot
 bodgie

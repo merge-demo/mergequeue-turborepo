@@ -1768,7 +1768,7 @@ famatinite
 featheredged
 fanzines
 forejudgment 1
-feldspathoidal
+feldspathoidal 1
 forehent
 fashioning
 fusels 1
