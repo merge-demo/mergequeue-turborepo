@@ -10225,7 +10225,7 @@ finn
 formalities
 fractures
 frailer 1
-falcated
+falcated 1
 flaming
 frogman
 fluoroscopically
