@@ -6383,7 +6383,7 @@ des
 dispensative
 desensitized
 drudgeries
-downwards
+downwards 1
 desaccharification
 dout
 desmatippus
