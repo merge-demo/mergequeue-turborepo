@@ -3158,7 +3158,7 @@ exergue 1
 etioporphyrin
 explorativeness 1
 embalms
-eloise
+eloise 1
 exocoelom
 epigonousepigons
 entheasm
