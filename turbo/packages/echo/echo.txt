@@ -6885,7 +6885,7 @@ epitrchelia
 exudation
 epicotyledonary
 exarchal
-elasticize
+elasticize 1
 escudos
 embonpoint
 ephoric
