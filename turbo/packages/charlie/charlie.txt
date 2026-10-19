@@ -25869,7 +25869,7 @@ crowberry
 corsairs
 chalcid
 corsak
-crippled
+crippled 1
 corse
 chemoautotrophically
 contradicting
