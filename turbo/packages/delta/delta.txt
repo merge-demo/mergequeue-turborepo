@@ -9906,7 +9906,7 @@ downcourt 1
 dodecatoic
 dipneustal
 dogmata
-diminisher
+diminisher 1
 diminishingly
 diminishment
 dulcet
