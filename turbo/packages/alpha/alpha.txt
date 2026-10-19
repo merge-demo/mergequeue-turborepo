@@ -21341,7 +21341,7 @@ arbitrary
 andesytes
 alleger
 aceanthrene
-atretic
+atretic 1
 asymmetric
 antimythical 1
 acknowledgement
