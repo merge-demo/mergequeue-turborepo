@@ -11301,7 +11301,7 @@ femmes
 fogy
 foolhardiest
 fiscalize
-flurrying
+flurrying 1
 farcing
 fourfold
 folletti
