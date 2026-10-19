@@ -18334,7 +18334,7 @@ astrophyton
 ampullitis
 arachnism
 apotheoses
-anaesthetizing
+anaesthetizing 1
 asor 2
 antinial
 allergist
