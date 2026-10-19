@@ -1070,7 +1070,7 @@ edible
 entailment
 expeditive
 embase
-embeddable
+embeddable 1
 echinology 1
 elective
 edification
