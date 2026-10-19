@@ -6298,7 +6298,7 @@ genarchaship
 graptoloidea
 goatsucker
 graplines
-gamic
+gamic 1
 greentail 1
 gastrectasis 1
 grotesqueries
