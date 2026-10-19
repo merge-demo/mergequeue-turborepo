@@ -10056,7 +10056,7 @@ complier
 cheselip
 coxocerite
 cyclogram
-cheskey
+cheskey 1
 campine
 connature
 cheslep
