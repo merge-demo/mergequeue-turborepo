@@ -9637,7 +9637,7 @@ foretoken
 faldstool 1
 fringe 1
 fouquieria
-foldouts
+foldouts 1
 fourfiusher
 flapmouthed
 fragor
