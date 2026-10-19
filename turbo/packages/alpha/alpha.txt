@@ -23829,7 +23829,7 @@ abnormalize
 autarch
 antherozoidal
 ataraxy 1
-atalantis
+atalantis 1
 amices
 autoerotic
 ascanian
