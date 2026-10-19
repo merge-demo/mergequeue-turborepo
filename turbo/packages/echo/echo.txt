@@ -5012,7 +5012,7 @@ effectress
 endogastric
 emblazonment
 enders
-estampie
+estampie 1
 expelled 1
 evangelistics
 endgate
