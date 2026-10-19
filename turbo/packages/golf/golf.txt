@@ -1998,7 +1998,7 @@ glyptical
 gaurian
 gasting
 gaurs
-gravitative
+gravitative 1
 glamourous 1
 gaussage
 girth 1
