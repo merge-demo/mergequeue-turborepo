@@ -4727,7 +4727,7 @@ encysting 1
 emptiest
 evenest
 eyepieces
-euphrosyne
+euphrosyne 1
 enarthrosis
 effulgent
 emeerates 1
