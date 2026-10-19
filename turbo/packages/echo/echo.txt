@@ -8985,7 +8985,7 @@ endothoracic
 extrinsicate
 exhaustive
 embiotocid
-extinctionist
+extinctionist 1
 extraplacental
 electrocardiograph
 eristically
