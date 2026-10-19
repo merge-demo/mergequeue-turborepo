@@ -10987,7 +10987,7 @@ fumaroidal
 forerunning 1
 faipule
 foreadapt
-forthright
+forthright 1
 focaloid
 finland
 firebolt
