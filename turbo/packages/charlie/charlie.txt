@@ -25709,7 +25709,7 @@ corrente
 centigrado 1
 cleanhandedness
 cistophoric
-coppiced
+coppiced 1
 crepitate
 circumrotating
 corresponded
