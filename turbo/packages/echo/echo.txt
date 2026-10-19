@@ -13324,7 +13324,7 @@ expone
 ephoralty
 exponency
 educated
-embus
+embus 1
 exponentiates
 eskar
 emilia
