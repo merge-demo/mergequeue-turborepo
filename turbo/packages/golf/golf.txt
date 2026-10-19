@@ -6265,7 +6265,7 @@ gymnasial
 glossospasm
 guidsire
 gaposis
-gyrons
+gyrons 1
 guijo
 gastroatonia 1
 gastrocele
