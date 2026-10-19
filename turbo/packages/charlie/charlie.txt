@@ -4381,7 +4381,7 @@ criticizer
 cosmetologist
 confrere
 centimes
-clothlike
+clothlike 1
 coleochaete
 coheartedness
 cusec
