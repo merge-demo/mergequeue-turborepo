@@ -9918,7 +9918,7 @@ gambir
 guardable
 gastroparalysis
 greening
-gathered
+gathered 1
 glanditerous
 geoglyphic
 gedd
