@@ -5195,7 +5195,7 @@ endorser
 empathizing
 endolymphatic
 eructate
-ectobatic
+ectobatic 1
 electromagnetic
 eluviums
 exitus
