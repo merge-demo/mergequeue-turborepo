@@ -4068,7 +4068,7 @@ genesee
 geotaxes 1
 glosts
 grimiest
-genetor
+genetor 1
 geoglossum 1
 gyropilot
 galaxiidae 1
