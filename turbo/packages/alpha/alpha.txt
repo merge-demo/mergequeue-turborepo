@@ -14481,7 +14481,7 @@ acquisition
 anthropobiology 1
 apneumatosis
 antimorality
-anthropocentric
+anthropocentric 1
 acetaldehydase 1
 almoign
 anthropodeoxycholic
