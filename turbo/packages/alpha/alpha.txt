@@ -13402,7 +13402,7 @@ auditress
 ankylopodia
 alamiqui 1
 acridest
-ankyloses 1
+ankyloses 2
 accoll
 antihumbuggist
 archmarshal
