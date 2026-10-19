@@ -4477,7 +4477,7 @@ frangulin
 fluctuant
 ferrotitanium 1
 faddy
-flatting
+flatting 1
 forlane
 fertilizers
 forsay
