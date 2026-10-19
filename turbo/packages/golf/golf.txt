@@ -5620,7 +5620,7 @@ glorying
 gastrosoph
 glycines
 gatemen
-gant 1
+gant 2
 gothites
 grizzler
 grenat
@@ -7150,7 +7150,7 @@ granuloma 1
 gonomery
 geniuses
 geelbeck 1
-grassier
+grassier 1
 galactophorous
 grizzlies 1
 gallimaufry 1
