@@ -22318,7 +22318,7 @@ autodynamic
 antal
 astride
 averah
-antefixal
+antefixal 1
 argentoproteinum
 argents
 alamedas 1
