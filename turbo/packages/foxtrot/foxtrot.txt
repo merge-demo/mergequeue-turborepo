@@ -8816,7 +8816,7 @@ fictious
 folia
 fleuron 2
 fotmal
-folkvang
+folkvang 1
 forum
 furbelow
 flambage

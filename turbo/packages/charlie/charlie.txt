@@ -25185,7 +25185,7 @@ corybantish
 corybulbin
 caudicle
 cornels
-calorics
+calorics 1
 corycavidine
 corydalin
 corydine
