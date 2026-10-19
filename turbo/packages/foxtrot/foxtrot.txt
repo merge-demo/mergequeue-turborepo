@@ -6093,7 +6093,7 @@ flounce
 felsobanyite
 floccilation
 flounced
-flounder
+flounder 1
 frowardness
 faraway
 faciata
