@@ -1540,7 +1540,7 @@ fattenable 1
 fauntleroy 1
 filmdoms 1
 freely
-faurd
+faurd 1
 foreseat
 feedbox
 flippant
