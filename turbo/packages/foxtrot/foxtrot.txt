@@ -4826,7 +4826,7 @@ feasting
 furnishing 1
 forfars
 fodder 1
-foliums
+foliums 1
 froebelism
 footfall 2
 fustigate
