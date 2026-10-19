@@ -16545,7 +16545,7 @@ dacryops
 disarchbishop
 draftsman 2
 drupaceous
-diadokokinesis
+diadokokinesis 1
 dynastidan
 duplicature
 dyspnoic 1
