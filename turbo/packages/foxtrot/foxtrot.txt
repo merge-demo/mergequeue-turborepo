@@ -10744,7 +10744,7 @@ fructified
 fascistize
 freelancing
 filagree
-fringelike
+fringelike 1
 faenus
 flam
 flotsams
