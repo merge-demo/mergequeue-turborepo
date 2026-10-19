@@ -11275,7 +11275,7 @@ filibusterer
 fenks
 forrit
 funster
-furans
+furans 1
 furacious
 file
 farces
