@@ -12894,7 +12894,7 @@ emprizes
 excommunicating
 elvish
 eserines
-extorting
+extorting 1
 erastus
 expandible
 editions
