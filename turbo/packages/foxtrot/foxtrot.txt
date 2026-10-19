@@ -1991,7 +1991,7 @@ furile
 fishgig
 fulvid 1
 feedstock
-floccosely
+floccosely 1
 firespout
 forerake
 folic
@@ -10225,7 +10225,7 @@ finn
 formalities
 fractures
 frailer 1
-falcated
+falcated 1
 flaming
 frogman
 fluoroscopically
