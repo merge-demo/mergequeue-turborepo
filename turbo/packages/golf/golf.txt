@@ -3443,7 +3443,7 @@ gubernance 1
 gaveler
 gravimeters 1
 gudgeons
-gowl
+gowl 1
 gelatinated
 gastrologer 2
 genoa
@@ -4979,7 +4979,7 @@ gaedelian
 grutched
 gleaners
 guards
-gandhara
+gandhara 1
 gladliest
 gazeless
 glutted

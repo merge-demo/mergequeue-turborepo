@@ -4279,7 +4279,7 @@ emacerated
 effluxes
 emphasise
 extoller
-emulsoids
+emulsoids 1
 enteropathogenic
 exfiltration
 elohim
@@ -7723,7 +7723,7 @@ erechtheus 1
 electropolish
 eonisms 1
 electronervous 1
-emmetropia
+emmetropia 1
 ean
 eftsoon
 endrins
