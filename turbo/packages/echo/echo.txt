@@ -6970,7 +6970,7 @@ entreaties
 excavatorial
 enfuddle
 eager
-entreats
+entreats 1
 esophagopathy
 entrec
 escalin
