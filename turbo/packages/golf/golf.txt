@@ -2677,7 +2677,7 @@ glyconean
 goggled
 gymnodont
 genic
-gradgrindian
+gradgrindian 1
 georgians
 gooseweed
 geniculately
@@ -5824,7 +5824,7 @@ gravimetric
 glutamates
 goliards
 gallinaceous
-graphometrist
+graphometrist 1
 ganglionary
 gallywasp
 gyle
