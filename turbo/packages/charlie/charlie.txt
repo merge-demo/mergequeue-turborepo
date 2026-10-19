@@ -18097,7 +18097,7 @@ causing
 craneman 1
 coenomonoecism
 coenospecies
-coenospecifically
+coenospecifically 1
 chicory
 coenosteum
 cacopharyngia
