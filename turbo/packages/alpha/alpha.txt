@@ -2131,7 +2131,7 @@ achymia
 acuminated
 aganice
 arracks
-azobenzol
+azobenzol 1
 achinese
 adspiration
 abbaye
@@ -21341,7 +21341,7 @@ arbitrary
 andesytes
 alleger
 aceanthrene
-atretic
+atretic 1
 asymmetric
 antimythical 1
 acknowledgement
