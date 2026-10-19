@@ -2209,7 +2209,7 @@ feminal
 flawful
 fruiting
 fragrancy
-feminility
+feminility 1
 fluorinates
 foals 1
 feminineness
