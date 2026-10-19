@@ -730,7 +730,7 @@ arteriopressor
 atrede
 abradants
 aver
-anglicized
+anglicized 1
 aptote
 allantoic
 animine

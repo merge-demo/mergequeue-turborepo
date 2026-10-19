@@ -5769,7 +5769,7 @@ bencite
 believingly
 brerd
 burials
-bodhi
+bodhi 1
 backsight
 bandlimit
 belight
