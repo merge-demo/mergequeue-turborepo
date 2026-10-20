@@ -17920,7 +17920,7 @@ coelacanthidae
 coelacanthous
 coelar
 coelastraceous
-canonics
+canonics 1
 coelata
 charring
 coelder
