@@ -10577,7 +10577,7 @@ dominus
 diploidize
 diag
 doorman 1
-diploma
+diploma 1
 decasyllabon
 dolorogenic
 domitable 1
