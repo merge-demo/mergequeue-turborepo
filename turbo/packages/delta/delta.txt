@@ -9645,7 +9645,7 @@ dicerion
 definitive 1
 devisee
 dika
-dotage
+dotage 1
 dampened
 deformedly
 disheart
@@ -11868,7 +11868,7 @@ dieri
 dewier
 donatistical
 dopers
-doux
+doux 1
 deathblow
 dehypnotized
 dingled
