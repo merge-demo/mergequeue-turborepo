@@ -259,7 +259,7 @@ abcoulomb
 abietineous
 automative 1
 aba
-apodictic
+apodictic 1
 aggraded
 anthranoyl
 abashing
@@ -728,7 +728,7 @@ azotising
 abradable
 arteriopressor
 atrede
-abradants
+abradants 1
 aver
 anglicized 1
 aptote
