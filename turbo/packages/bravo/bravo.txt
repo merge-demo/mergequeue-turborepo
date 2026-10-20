@@ -13968,7 +13968,7 @@ boxhauling
 boxhauls
 bowwow
 bethels
-bumbershoot
+bumbershoot 1
 blitzes
 breakably 1
 bidental
