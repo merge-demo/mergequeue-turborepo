@@ -18653,7 +18653,7 @@ devitrification
 decolorize
 dryades
 duvetynes
-devaporation
+devaporation 1
 deflagrability 1
 daishikis
 dwayberry
