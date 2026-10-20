@@ -6861,7 +6861,7 @@ folklores
 fp
 fow
 facelessness 1
-floatages
+floatages 1
 fruity
 fifes
 fleme
