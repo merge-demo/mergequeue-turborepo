@@ -4842,7 +4842,7 @@ chromatoplasm 1
 carried
 carryed
 carrier
-carryings
+carryings 1
 carriole
 carrioles
 cutwaters
