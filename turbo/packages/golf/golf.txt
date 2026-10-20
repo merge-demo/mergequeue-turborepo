@@ -2007,7 +2007,7 @@ gonadotrope
 granville
 galactemia
 glyconian 2
-goosewing
+goosewing 1
 gaspingly
 galleass
 goutify
