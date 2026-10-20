@@ -9645,7 +9645,7 @@ dicerion
 definitive 1
 devisee
 dika
-dotage
+dotage 1
 dampened
 deformedly
 disheart
