@@ -17649,7 +17649,7 @@ appetiser
 atlantad
 alerted
 aviate 1
-appetite
+appetite 1
 algaroth
 ateleological
 autographist 1
