@@ -7315,7 +7315,7 @@ exp
 electrooptics
 escaping 1
 epanisognathism
-expositively
+expositively 1
 entameba
 epizoal
 eriophyid
