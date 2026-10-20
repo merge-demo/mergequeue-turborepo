@@ -4771,7 +4771,7 @@ fargoing
 flageolets
 flagfishes
 fubsy
-forbiddenness
+forbiddenness 1
 figurately
 friendships
 fasciculus
