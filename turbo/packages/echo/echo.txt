@@ -8492,7 +8492,7 @@ eupyrene
 empties
 enneatical
 ecphoriae
-eurindic
+eurindic 1
 erases 1
 elongates
 epuration
