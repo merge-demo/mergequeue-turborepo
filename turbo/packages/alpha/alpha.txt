@@ -8022,7 +8022,7 @@ anticholinesterase
 adenomatome
 aggravations
 autoceptive
-antiexpansionist
+antiexpansionist 1
 addlepatedness
 alexandrine
 accadian 1
