@@ -12580,7 +12580,7 @@ diamantoid
 denominators
 deifications
 disintegrators
-disgeneric
+disgeneric 1
 dextrer
 disintegrity
 demurrages
