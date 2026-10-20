@@ -17735,7 +17735,7 @@ debugs
 dungeon
 dubiousness
 deportees
-delegative
+delegative 1
 dubitable
 dichondra
 dubitably
