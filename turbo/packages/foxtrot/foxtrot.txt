@@ -11136,7 +11136,7 @@ fetidly
 farads
 forecarriage
 fauteuils
-frequentness
+frequentness 1
 fedellini 1
 fruitiness
 feverbush
