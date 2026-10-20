@@ -11420,7 +11420,7 @@ esthacyte
 enlevement
 evese
 entomostraca
-entheate
+entheate 1
 expdt 1
 elided 1
 evetide
