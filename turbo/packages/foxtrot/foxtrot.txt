@@ -11054,7 +11054,7 @@ frontolysis 1
 fancies
 flanerie
 friendliness
-fermented
+fermented 1
 fumuli
 fungated
 fascias
