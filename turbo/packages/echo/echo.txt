@@ -10728,7 +10728,7 @@ exanthemas
 ethylenically
 etrier
 excelled 2
-entremess
+entremess 1
 eulimidae 1
 epicoela
 eulytine
