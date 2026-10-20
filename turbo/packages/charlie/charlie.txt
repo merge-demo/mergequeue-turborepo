@@ -17795,7 +17795,7 @@ cognisableness
 cakemaking
 codeinas 1
 cohabits
-communion
+communion 1
 cunjah
 cuminole
 conium
