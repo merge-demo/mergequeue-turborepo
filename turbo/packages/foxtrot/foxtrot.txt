@@ -2041,7 +2041,7 @@ faucalize
 fireboat
 forwander
 flatlander
-fogbows
+fogbows 1
 fascicule
 flaunting
 forfouchten
