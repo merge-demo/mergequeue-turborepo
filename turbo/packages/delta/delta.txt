@@ -1846,7 +1846,7 @@ debilitates
 dermatoglyphics
 devirginator 1
 debitum
-douvecot
+douvecot 1
 dorsale
 deblaterate
 daubries
