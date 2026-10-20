@@ -3769,7 +3769,7 @@ decharm
 dizzied
 dismortgaging 1
 diplocephaly
-darryl
+darryl 1
 dodecatheon
 dronishly
 demodocus
