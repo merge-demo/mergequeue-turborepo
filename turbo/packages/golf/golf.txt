@@ -9803,7 +9803,7 @@ gesticulatively
 guayabi
 goitcho
 gymnotid
-gesturing
+gesturing 1
 glebous
 guesstimated
 guayaqui
