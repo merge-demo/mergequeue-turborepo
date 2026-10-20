@@ -7612,7 +7612,7 @@ flashlike
 forthtell
 flickers
 ferruginean
-foregift
+foregift 1
 feyness 1
 foregleam
 faction
