@@ -250,7 +250,7 @@ florigenic
 founder
 feoffeeship
 forebitten 1
-foetors
+foetors 1
 faders
 firedamp
 fadge

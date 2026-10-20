@@ -7934,7 +7934,7 @@ gymnospermy
 glumness
 guacin
 gametogonium
-glimmerite
+glimmerite 1
 gregaloid
 gloss
 gloucester
