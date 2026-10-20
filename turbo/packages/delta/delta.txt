@@ -15684,7 +15684,7 @@ dopped
 droving
 detractiveness
 disaffect
-dopper
+dopper 1
 disespouse
 deflorescence 1
 dopping
