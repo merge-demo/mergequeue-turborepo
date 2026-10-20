@@ -5731,7 +5731,7 @@ gangways
 glossophobia
 gadflies
 goofiest
-garlicky
+garlicky 1
 gumhar
 garrulously
 goony 1
