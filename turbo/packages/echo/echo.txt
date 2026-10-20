@@ -1072,7 +1072,7 @@ expeditive
 embase
 embeddable 1
 echinology 1
-elective
+elective 1
 edification
 exfigure 1
 equipoised
