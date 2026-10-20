@@ -4664,7 +4664,7 @@ diethylaminoethanol
 democracies
 deemstership
 dagswain
-democrat
+democrat 1
 dawdles
 douar
 dogbody
