@@ -16419,7 +16419,7 @@ caterwaul
 cloakwise
 condominiiums
 creamcup
-clobbers
+clobbers 1
 clockbird
 comodato
 caponizes
