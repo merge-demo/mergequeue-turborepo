@@ -4096,7 +4096,7 @@ ginkgoaceous 1
 gasan
 goetic
 gannetry
-gigantean
+gigantean 1
 gymnodiniaceous
 gallowses
 gerontological
