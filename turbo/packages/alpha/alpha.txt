@@ -8127,7 +8127,7 @@ antagonised
 algebraist
 algedo
 alfilerillo
-antitropal
+antitropal 1
 arrowheads
 algerienne
 alizarins
