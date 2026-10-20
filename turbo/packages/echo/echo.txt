@@ -12659,7 +12659,7 @@ exogen
 exaggerativeness
 earldom
 esophagostomy
-exogenously
+exogenously 1
 examplar
 enterogram
 effusion
