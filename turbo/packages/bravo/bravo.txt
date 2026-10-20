@@ -2965,7 +2965,7 @@ bamboozlement
 boules 1
 brassavola
 bracketed
-barrelwise
+barrelwise 1
 barretor
 bloodybones
 bonus
