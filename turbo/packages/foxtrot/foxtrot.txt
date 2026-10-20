@@ -6734,7 +6734,7 @@ fauns 1
 fitcher
 fold
 flowing
-fantasy
+fantasy 1
 frosts
 frosteds
 fledgeless 2
