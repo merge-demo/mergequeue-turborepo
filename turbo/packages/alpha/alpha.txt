@@ -17147,7 +17147,7 @@ anastasimos
 amnigenia
 autocycle
 apokrea
-assurge
+assurge 1
 authenticly
 androecia
 apolar
