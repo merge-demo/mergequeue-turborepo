@@ -2337,7 +2337,7 @@ excrete
 espaliering 2
 encore
 encomia
-evenlong
+evenlong 1
 evangelists
 electrocataphoresis
 ephedrine
