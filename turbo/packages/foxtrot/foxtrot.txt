@@ -10090,7 +10090,7 @@ frondiform
 feudatary
 firster 1
 foredecree
-featous
+featous 1
 formalise
 fearfulness 1
 finfishes
