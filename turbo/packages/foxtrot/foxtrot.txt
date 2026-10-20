@@ -2480,7 +2480,7 @@ fry
 fernyear
 furison
 fiorin
-funs
+funs 1
 fordo
 furnishness
 fencibles
