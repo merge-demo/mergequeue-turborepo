@@ -5453,7 +5453,7 @@ flex
 fusionless
 firefighter
 frondosely
-forevow
+forevow 1
 firearmed
 falsifiable
 fatalisms
