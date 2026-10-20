@@ -10481,7 +10481,7 @@ endosteally
 equation 1
 encratism 1
 envyingly
-embouchure
+embouchure 1
 ettercap
 ettirone
 escalan
