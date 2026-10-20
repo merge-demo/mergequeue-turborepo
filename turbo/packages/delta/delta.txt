@@ -2553,7 +2553,7 @@ declivity
 ducklingship
 deanthropomorphize
 drepania
-dangled
+dangled 1
 detoured
 dermobranchia
 durable 1
