@@ -12683,7 +12683,7 @@ demiheavenly
 dogger 1
 desexualize
 diviners
-diacids
+diacids 1
 duane
 derogations 1
 dint
