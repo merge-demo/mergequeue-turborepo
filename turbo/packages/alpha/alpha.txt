@@ -12673,7 +12673,7 @@ absorbable
 antitraditionalist 1
 anfractuosity
 authentications
-addleheadedly
+addleheadedly 1
 aperies
 amixia
 aporrhaidae
