@@ -1787,7 +1787,7 @@ countergarrison
 curagh
 calvarial
 calvaries
-calvarium
+calvarium 1
 calved
 calvin
 cithern
