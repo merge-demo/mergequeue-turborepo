@@ -8960,7 +8960,7 @@ foremistress
 footiest
 fizelyite
 fender
-farolito
+farolito 1
 feeling
 freakery
 flimflammer

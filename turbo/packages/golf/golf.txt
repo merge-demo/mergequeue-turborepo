@@ -7305,7 +7305,7 @@ greyflies
 gonfalonier
 glumpiness 1
 guildhall
-gosports 1
+gosports 2
 grainless
 gossamered
 galega
