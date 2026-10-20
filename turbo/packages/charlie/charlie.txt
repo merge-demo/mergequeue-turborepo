@@ -14212,7 +14212,7 @@ circumlitio
 circumlittoral
 circumlocute
 circumlocution
-cypripedin 1
+cypripedin 2
 centralizes
 circumlocutionist
 centrisms
@@ -21997,7 +21997,7 @@ circumflexion
 carlina
 confirmatory
 craniosacral 1
-colicin
+colicin 1
 confirmed
 confirmedness
 corticostriate

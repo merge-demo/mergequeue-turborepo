@@ -9672,7 +9672,7 @@ extortionist
 encounterers
 evangelicalism
 eclipsable
-entertain
+entertain 1
 embryotomies
 electrophysiologist
 ectocarpaceae
@@ -11339,7 +11339,7 @@ echimys
 ethnohistory
 ethnocentrism
 exotropic
-electrodesiccation
+electrodesiccation 1
 evenforth
 eryopid
 embarrel
