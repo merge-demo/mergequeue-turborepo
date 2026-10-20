@@ -14033,7 +14033,7 @@ distractive
 defending
 dumpling
 disappropriation
-disproportion
+disproportion 1
 disorb
 deterge 1
 distractively
