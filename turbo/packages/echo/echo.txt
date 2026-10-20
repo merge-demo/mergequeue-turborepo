@@ -2158,7 +2158,7 @@ extrapolar 1
 explanative
 externalism
 evangelizer
-electioneering
+electioneering 1
 extrovertively
 ethoxycaffeine
 epizoan
