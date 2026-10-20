@@ -5490,7 +5490,7 @@ forbarred
 fratching
 fleshy 1
 fillet
-ferally
+ferally 1
 formatters 1
 fanjets
 fiddlies
