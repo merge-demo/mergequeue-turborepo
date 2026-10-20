@@ -3989,7 +3989,7 @@ gynostegium
 gromet
 goneness
 gabendum
-ginorite 1
+ginorite 2
 giantish
 glum
 gurney
