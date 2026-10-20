@@ -12694,7 +12694,7 @@ eunicidae
 errantries
 eligible 1
 ellipsometry
-ebonige
+ebonige 1
 ecliptically
 endoderms
 esotericist
