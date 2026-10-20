@@ -25572,7 +25572,7 @@ corporacy
 corporacies
 calcic
 corporalcy
-corporale
+corporale 1
 corporalism
 calippic
 corporality
