@@ -9940,7 +9940,7 @@ deindustrialization
 dimissaries 1
 dimitry
 decamped 1
-demoiselle
+demoiselle 1
 dauded
 demonstratability 1
 disbecome
