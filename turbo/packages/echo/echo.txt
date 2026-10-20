@@ -9495,7 +9495,7 @@ esca 1
 eulogia
 electrolithotrity
 eczematoid
-entach
+entach 1
 epithetician
 escout
 enstore
