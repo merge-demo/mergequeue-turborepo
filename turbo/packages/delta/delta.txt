@@ -10432,7 +10432,7 @@ duenna
 dashikis
 demibath
 diphonia
-dismiss
+dismiss 1
 drowsy
 duumvirs
 deglutitive
