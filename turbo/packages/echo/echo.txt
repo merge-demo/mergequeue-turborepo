@@ -72,7 +72,7 @@ eulalia
 earmarkings
 equitation
 earmuff
-earnable
+earnable 1
 essayer
 ental 2
 ecclesiology
