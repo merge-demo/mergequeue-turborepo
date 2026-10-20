@@ -286,7 +286,7 @@ galiongee
 genom
 gainliness
 guileless
-gamings
+gamings 1
 gainsaying
 gypsyish
 groin
