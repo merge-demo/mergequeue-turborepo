@@ -1839,7 +1839,7 @@ eared
 eighties
 eightieth
 edematose 1
-elychnious
+elychnious 1
 epidiorite
 encystments
 errabund
