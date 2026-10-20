@@ -15322,7 +15322,7 @@ clansfolk
 cheki
 churchgrith
 clanship
-chiricahua
+chiricahua 1
 coembedded
 camelhair
 curnie
