@@ -7307,7 +7307,7 @@ doctrinist
 despouse
 doyen
 deterrence
-defiantly
+defiantly 1
 disprejudice
 deterrent
 demoralised
