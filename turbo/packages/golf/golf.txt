@@ -3163,7 +3163,7 @@ guardiancy
 germina
 ge 1
 gynophore
-geotechnic
+geotechnic 1
 graplin
 geraniaceae
 griffado
