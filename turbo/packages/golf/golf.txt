@@ -7970,7 +7970,7 @@ gipper
 gabbroic
 geologized
 grudgment
-gasterosteoid
+gasterosteoid 1
 guanosine 1
 granada
 glazy
