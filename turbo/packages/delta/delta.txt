@@ -5080,7 +5080,7 @@ decentralizes
 damozel
 distemperure
 dowable
-dendrologists
+dendrologists 1
 duodenopancreatectomy
 dabbling
 dollface
@@ -8880,7 +8880,7 @@ dioptidae
 disconnect
 duodene
 dissolvability
-desex
+desex 1
 dichas 1
 dichasia
 decolonizing
