@@ -11283,7 +11283,7 @@ fernando
 fallaciously
 flatters
 furanoid
-fricandeaus
+fricandeaus 1
 farine
 faveolate
 fantasticism
