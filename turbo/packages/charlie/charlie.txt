@@ -23555,7 +23555,7 @@ californite
 contiguity
 circumferent
 continentalize
-continentals
+continentals 1
 cochranea
 contingence
 carpenter
