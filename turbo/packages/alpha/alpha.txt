@@ -2532,7 +2532,7 @@ albumean
 anchoretic
 aconative
 acondylose
-amicable
+amicable 1
 artisan
 abeyant
 aconelline
@@ -3925,7 +3925,7 @@ autarkik
 anchory
 adjudicated
 apostrophied
-adjudication
+adjudication 1
 agglutinin
 adjudicative
 aerostats
