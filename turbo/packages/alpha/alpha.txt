@@ -13352,7 +13352,7 @@ astricted
 actinoscopy
 anthesterol
 anisopoda
-antilogies
+antilogies 1
 allegretto
 aspca
 agamont
@@ -20736,7 +20736,7 @@ articulators
 adfiliate
 abelonian
 aces
-affrontingly
+affrontingly 1
 avid
 antarchy
 augmenting
