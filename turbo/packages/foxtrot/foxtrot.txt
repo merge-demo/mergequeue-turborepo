@@ -950,7 +950,7 @@ forms
 fanfishes
 fulminant
 faxing
-fosterer
+fosterer 1
 fleecers
 flueric 1
 findal
