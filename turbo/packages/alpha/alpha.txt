@@ -24158,7 +24158,7 @@ abrus
 anquera 1
 afterlifetime 1
 anniversarily
-autojigger
+autojigger 1
 autojuggernaut
 ancylocladus
 adducted
