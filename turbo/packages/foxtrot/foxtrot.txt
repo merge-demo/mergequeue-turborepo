@@ -6418,7 +6418,7 @@ fernbird
 ferried
 fumagine
 fouquieriaceous 2
-flightful
+flightful 1
 foulness
 forsteal
 fictor
