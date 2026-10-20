@@ -2762,7 +2762,7 @@ eleidin
 encrusts
 extrusions 1
 exhilaratory
-evergreenite
+evergreenite 1
 equangular
 explorations 1
 ebracteate
