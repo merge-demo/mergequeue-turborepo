@@ -13394,7 +13394,7 @@ djinn
 disquisitorial
 diazoamin
 depression
-deevey
+deevey 1
 disquieter
 dairt
 disquietingness 1
