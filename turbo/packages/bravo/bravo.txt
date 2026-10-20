@@ -3051,7 +3051,7 @@ buccinum
 branglement
 bopping 1
 burgesses
-bartizans
+bartizans 1
 bourkha
 beigel
 belee 1

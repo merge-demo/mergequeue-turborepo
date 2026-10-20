@@ -10214,7 +10214,7 @@ destry
 dinotherian 1
 dins
 drouths
-defenestrate
+defenestrate 1
 dinted
 dintless
 ducal
