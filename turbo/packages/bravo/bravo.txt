@@ -3656,7 +3656,7 @@ batiking
 boise
 boloneys
 birlinn
-batiks
+batiks 1
 became
 bolting
 batistes
