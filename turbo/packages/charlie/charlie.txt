@@ -4489,7 +4489,7 @@ carmen
 counts
 comales
 corvetto
-chirruped
+chirruped 1
 controvertibly
 carmot 1
 carn
