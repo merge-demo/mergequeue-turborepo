@@ -17132,7 +17132,7 @@ apogonid
 afterdrain
 acquirement
 apographic
-apographical
+apographical 1
 apostolic
 antibreakage
 autosensitization
