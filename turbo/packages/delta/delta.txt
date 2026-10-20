@@ -16261,7 +16261,7 @@ deteriorate
 downface
 downstair
 duodenocystostomy
-deadlocking
+deadlocking 1
 dacryolite
 dipsaceous
 denominationalist
