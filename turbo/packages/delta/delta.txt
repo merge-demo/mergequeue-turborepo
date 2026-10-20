@@ -1454,7 +1454,7 @@ dawtit
 dawts
 damages 1
 disbarred
-dedicatedly
+dedicatedly 1
 doublehanded
 daze
 discerptibility
