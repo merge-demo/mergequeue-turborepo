@@ -11656,7 +11656,7 @@ dulcity
 discotheque
 discothque
 disengirdle
-diagramed
+diagramed 1
 discountable 1
 discountenances
 distastes
