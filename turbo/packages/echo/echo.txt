@@ -10386,7 +10386,7 @@ exhance
 earwigging 1
 epiphanize
 electropositive
-enfranchisable
+enfranchisable 1
 exodromic
 exchanged
 ethoxide
