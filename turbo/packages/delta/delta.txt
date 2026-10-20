@@ -12978,7 +12978,7 @@ disordinate
 devastator
 dysorexia
 dusack
-disaproned
+disaproned 1
 disorganise
 deuteranopia
 designers

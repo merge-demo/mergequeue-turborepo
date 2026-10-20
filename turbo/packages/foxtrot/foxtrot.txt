@@ -11480,7 +11480,7 @@ frowst 1
 fastgoing
 feminacies
 fairleader
-flays
+flays 1
 froggery
 formular
 fuzzle
