@@ -4438,7 +4438,7 @@ grantiidae
 grammontine
 glint
 ginning 1
-garvance
+garvance 1
 giraffe
 gynocardic
 gowk

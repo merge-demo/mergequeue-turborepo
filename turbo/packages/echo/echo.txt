@@ -1044,7 +1044,7 @@ endoskeleton
 eqpt
 edgar
 edgeboned
-eringos
+eringos 1
 eagerly
 exsheath
 edged
