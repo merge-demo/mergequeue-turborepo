@@ -6128,7 +6128,7 @@ fcp
 fewneses
 fabella
 flowcharted
-fungibles
+fungibles 1
 fragmentized
 flowerage
 foundationally
