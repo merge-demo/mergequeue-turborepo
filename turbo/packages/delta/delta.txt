@@ -640,7 +640,7 @@ deploitation
 decartelization
 damnify 1
 dearth
-damnificatus
+damnificatus 1
 disoccupation
 debarration
 disposals
