@@ -13435,7 +13435,7 @@ artiste
 alibies
 annabergite
 antiminsion
-antimnemonic
+antimnemonic 1
 annaly
 annaline
 antigrammaticalness
@@ -13916,7 +13916,7 @@ ashen
 alacreatine
 achievability
 anthonin
-annodated
+annodated 1
 anserines
 anspessade
 assyriologue

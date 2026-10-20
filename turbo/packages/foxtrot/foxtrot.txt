@@ -5788,7 +5788,7 @@ fluoridations
 fritted
 firehouse
 figgery
-furbishes 1
+furbishes 2
 flintlocks
 filemark
 farts
@@ -9410,7 +9410,7 @@ fitfulness
 faux
 furcae
 falconbill 1
-familial
+familial 1
 fractions
 foeticide
 fico
