@@ -6165,7 +6165,7 @@ grabbings
 glyptographic
 grivois
 gossipdom
-gamblesome
+gamblesome 1
 gardener 1
 glacialism
 geomyidae
