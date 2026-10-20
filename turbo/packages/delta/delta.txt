@@ -5231,7 +5231,7 @@ dentallia
 distress
 dentaphone
 dihexagonal
-demivolte
+demivolte 1
 decorators
 discomposing
 dentate 1
