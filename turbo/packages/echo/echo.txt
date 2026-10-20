@@ -2793,7 +2793,7 @@ exclamations
 enjeopard 1
 endomixis
 ecthyma
-ephebeibeia
+ephebeibeia 1
 engarble
 ethylene
 experimentor

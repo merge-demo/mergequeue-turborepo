@@ -9933,7 +9933,7 @@ diminution
 deeplier
 didactics
 dramaturgist
-deener
+deener 1
 diminutive
 dimiss
 deindustrialization
