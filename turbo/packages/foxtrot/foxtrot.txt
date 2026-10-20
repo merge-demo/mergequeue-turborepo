@@ -6549,7 +6549,7 @@ founders
 floodway
 fiends 1
 floristically
-fingerstone
+fingerstone 1
 fascioliasis
 feelies
 frawn 1
