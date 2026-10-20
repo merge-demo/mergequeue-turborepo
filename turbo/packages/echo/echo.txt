@@ -2806,7 +2806,7 @@ elves
 elenchize
 electrodispersive 1
 ecthlipsis
-eath
+eath 1
 electrocutes
 effeminately
 etymol
