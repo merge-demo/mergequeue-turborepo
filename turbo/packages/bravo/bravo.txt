@@ -2606,7 +2606,7 @@ behowls
 babiroussa
 benzofuryl
 bochism
-bidentate
+bidentate 1
 broadwives
 biscuit
 barytes
