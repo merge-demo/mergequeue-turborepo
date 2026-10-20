@@ -3890,7 +3890,7 @@ fevertrap
 footslogged
 fluidextract
 findable
-fruz
+fruz 1
 familiarize
 function
 formfitting
