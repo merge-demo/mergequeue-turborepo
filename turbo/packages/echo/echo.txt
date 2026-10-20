@@ -9264,7 +9264,7 @@ erratas
 erratic
 erratically
 estancieros 1
-enantiomorphic
+enantiomorphic 1
 elite
 ethylhydrocupreine
 eulogist
