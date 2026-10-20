@@ -22253,7 +22253,7 @@ asterismal
 accostable
 antiquing
 accordionists
-astonishingly
+astonishingly 1
 anaphia
 aspasia 1
 ariled
