@@ -12580,7 +12580,7 @@ diamantoid
 denominators
 deifications
 disintegrators
-disgeneric
+disgeneric 1
 dextrer
 disintegrity
 demurrages
@@ -12978,7 +12978,7 @@ disordinate
 devastator
 dysorexia
 dusack
-disaproned
+disaproned 1
 disorganise
 deuteranopia
 designers

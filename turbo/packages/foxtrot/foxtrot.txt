@@ -6872,7 +6872,7 @@ flintwood 1
 farley
 flosculous 1
 februaries
-feculence
+feculence 1
 footsie 1
 freekirker
 frithwork
@@ -11480,7 +11480,7 @@ frowst 1
 fastgoing
 feminacies
 fairleader
-flays
+flays 1
 froggery
 formular
 fuzzle
