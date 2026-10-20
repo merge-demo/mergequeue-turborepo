@@ -8731,7 +8731,7 @@ erythroclasis
 euphemisms
 ethysulphuric
 embrowd
-equities
+equities 1
 ethician 1
 equivalenced
 equivalent
