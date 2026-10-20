@@ -27614,7 +27614,7 @@ coecum
 cowardly
 choloidinic 1
 culp
-cowardness
+cowardness 1
 cowbane
 coolheaded
 chamfered
