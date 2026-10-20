@@ -9016,7 +9016,7 @@ entertainer
 edituate
 eteocretes
 edriophthalma
-erythrite
+erythrite 1
 emaciating 1
 enfeeblement
 exponent

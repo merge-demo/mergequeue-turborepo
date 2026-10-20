@@ -3053,7 +3053,7 @@ disennoble
 defacing
 defacto
 defade
-defaillance
+defaillance 1
 defaitiste
 defalcated
 diethyltryptamine
