@@ -17555,7 +17555,7 @@ disinflationary
 disappeared
 drumlinoid
 decelerated
-demimentoniere
+demimentoniere 1
 dactylate
 diatomous
 dactyls
