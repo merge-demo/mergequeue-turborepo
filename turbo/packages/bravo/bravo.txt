@@ -6600,7 +6600,7 @@ berberidaceae
 broils
 berberidaceous 1
 brunizem
-bournous
+bournous 1
 bagattino
 bladderless 1
 berchemia
