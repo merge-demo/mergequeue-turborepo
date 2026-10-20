@@ -26820,7 +26820,7 @@ counterentry
 counterequivalent
 counterermine
 coninidia 1
-counterespionage
+counterespionage 1
 contumelies
 counterestablishment
 crystallise
