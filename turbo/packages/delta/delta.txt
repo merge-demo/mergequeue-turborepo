@@ -4918,7 +4918,7 @@ diphyletic
 dunne
 dueness
 diversionary
-distinguish
+distinguish 1
 derk 1
 demultiplexer
 devocalised
