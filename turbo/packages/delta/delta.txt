@@ -6919,7 +6919,7 @@ disshroud
 despisingly
 draco
 deaeration
-digs
+digs 1
 daphnia
 dinoflagellate
 drags 1
