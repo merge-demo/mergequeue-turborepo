@@ -9410,7 +9410,7 @@ fitfulness
 faux
 furcae
 falconbill 1
-familial
+familial 1
 fractions
 foeticide
 fico
