@@ -2463,7 +2463,7 @@ duds
 dishonourary
 declaim
 dichorisandra 1
-dehorners
+dehorners 1
 dresser
 declaimer
 dilaters
