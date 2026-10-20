@@ -5350,7 +5350,7 @@ enwingly
 enterograph
 excarnate
 endeavoring
-enmagazine
+enmagazine 1
 endothecal
 ectozoans
 embowers

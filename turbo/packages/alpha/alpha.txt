@@ -11061,7 +11061,7 @@ autogeny
 arcsine
 acetphenetid
 amorite
-amoritic
+amoritic 1
 accoil
 alma
 amoritish
