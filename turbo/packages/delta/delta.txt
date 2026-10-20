@@ -7669,7 +7669,7 @@ dementias
 deviationism
 diting 1
 deviations
-dusting
+dusting 1
 deviatory
 discission
 densimetrically
