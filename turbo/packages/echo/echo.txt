@@ -1839,7 +1839,7 @@ eared
 eighties
 eightieth
 edematose 1
-elychnious
+elychnious 1
 epidiorite
 encystments
 errabund
@@ -8492,7 +8492,7 @@ eupyrene
 empties
 enneatical
 ecphoriae
-eurindic
+eurindic 1
 erases 1
 elongates
 epuration

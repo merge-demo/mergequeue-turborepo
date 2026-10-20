@@ -12990,7 +12990,7 @@ aldus
 authoriser
 angular
 angularia
-assistors
+assistors 1
 angularities
 analgesist
 atomistical
