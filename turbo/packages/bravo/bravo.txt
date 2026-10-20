@@ -17332,7 +17332,7 @@ bopyrus
 bucoliast 1
 bunchy
 bunchier
-bunchiness 1
+bunchiness 2
 buncoing
 berthing
 brucellas
