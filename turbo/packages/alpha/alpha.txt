@@ -20736,7 +20736,7 @@ articulators
 adfiliate
 abelonian
 aces
-affrontingly
+affrontingly 1
 avid
 antarchy
 augmenting
