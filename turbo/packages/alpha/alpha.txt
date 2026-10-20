@@ -2532,7 +2532,7 @@ albumean
 anchoretic
 aconative
 acondylose
-amicable
+amicable 1
 artisan
 abeyant
 aconelline
@@ -11061,7 +11061,7 @@ autogeny
 arcsine
 acetphenetid
 amorite
-amoritic
+amoritic 1
 accoil
 alma
 amoritish
