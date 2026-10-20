@@ -4662,7 +4662,7 @@ gynodioecism
 gentilities
 gumshoe 1
 glucosuria
-grudgingly
+grudgingly 1
 garnisheeing
 genista
 galeae
