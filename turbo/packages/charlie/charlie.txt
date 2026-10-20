@@ -20150,7 +20150,7 @@ corroborate
 chokingly
 commiserates 1
 calcareocorneous
-commiserations
+commiserations 1
 callicebus
 commissary
 canham
