@@ -9340,7 +9340,7 @@ functionary
 fettled
 fastenings
 frisbee
-fowk
+fowk 1
 frails
 fisheater
 fraser 1
