@@ -10939,7 +10939,7 @@ downgrade
 duettist
 dryopithecine 1
 deconventionalize
-disaffectation
+disaffectation 1
 disaffecting
 dilutor 1
 disaffiliated
