@@ -6045,7 +6045,7 @@ exurbias
 escroll
 eolith
 exhusband 1
-elastin
+elastin 1
 evittate
 eddaic
 enlargeable
