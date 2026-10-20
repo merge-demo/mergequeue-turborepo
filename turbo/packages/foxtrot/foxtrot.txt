@@ -502,7 +502,7 @@ funbre
 frisch
 friz
 fertilizing
-frenne
+frenne 1
 fretted 1
 filicite
 faking
