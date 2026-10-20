@@ -11134,7 +11134,7 @@ fisticuffs
 franca 1
 fetidly
 farads
-forecarriage
+forecarriage 1
 fauteuils
 frequentness 1
 fedellini 1
