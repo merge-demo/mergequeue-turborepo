@@ -13362,7 +13362,7 @@ abrading
 antecedent 1
 anisostaminous
 anisostichous
-anisostomous
+anisostomous 1
 amlacra
 amphitheatral
 anisotrope
