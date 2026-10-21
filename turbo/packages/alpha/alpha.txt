@@ -15608,7 +15608,7 @@ antinihilist
 attacked
 allegorister
 awfulness
-anandrous
+anandrous 1
 archangels
 antinome
 antinomical
