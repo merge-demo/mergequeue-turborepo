@@ -15148,7 +15148,7 @@ bugeyed 2
 brevit
 brevity
 broquineer
-brevities
+brevities 1
 bretwalda 1
 byeworker
 blintze
