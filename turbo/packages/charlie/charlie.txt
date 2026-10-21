@@ -23465,7 +23465,7 @@ caravaned
 contempts
 cygnet
 contemptuously
-cruelty
+cruelty 1
 cholecystocolotomy
 contended
 contendent
