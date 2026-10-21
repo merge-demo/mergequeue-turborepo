@@ -6932,7 +6932,7 @@ goof
 gwantus
 goofah
 gip
-guaiac
+guaiac 1
 greystone
 gebanga
 gauntries
@@ -8643,7 +8643,7 @@ geyser 1
 glossless
 gobmouthed
 gateado
-gritty
+gritty 1
 gres
 gymnosoph
 garlands
