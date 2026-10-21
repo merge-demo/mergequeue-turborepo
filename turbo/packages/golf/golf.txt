@@ -2926,7 +2926,7 @@ gabbled
 geocerite
 glove
 gubernation
-gallons
+gallons 1
 gabardines 1
 gulley 1
 growlier
