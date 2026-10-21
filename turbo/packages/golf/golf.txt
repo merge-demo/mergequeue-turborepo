@@ -2991,7 +2991,7 @@ galatine
 ghetti
 galvanocauteries
 gentlefolk
-gambusia
+gambusia 1
 guatambu 1
 greasiness
 ginmill
