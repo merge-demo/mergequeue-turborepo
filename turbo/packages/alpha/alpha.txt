@@ -22066,7 +22066,7 @@ alveolotomy
 anus
 acclamatory
 actings
-archaicism
+archaicism 1
 asyngamic
 anaplasmosis
 astatines
