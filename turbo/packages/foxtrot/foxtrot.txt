@@ -10283,7 +10283,7 @@ frolicker
 formamide
 frolicking
 frillies
-flagitiousness
+flagitiousness 1
 faitour
 ferricyanhydric
 figuriste
