@@ -1865,7 +1865,7 @@ gallonage
 gill
 gawkihood
 graphemics
-grecizing
+grecizing 1
 gossip
 generalissima
 gyrostabilized
@@ -7486,7 +7486,7 @@ gamogenesis
 gileno
 gaen
 glycolytic
-glaucophanize
+glaucophanize 1
 gangs
 glitzy
 grayfly
