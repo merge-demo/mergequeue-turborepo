@@ -3740,7 +3740,7 @@ enfranchise
 erodability
 excessiveness
 enslaving
-encumbers 1
+encumbers 2
 enfetter
 embrocates
 efflower
