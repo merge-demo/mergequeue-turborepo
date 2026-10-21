@@ -2332,7 +2332,7 @@ fogramite
 fiftyfold
 footstalk
 fer
-firecoat
+firecoat 1
 featherstitching
 ferae
 fatal
