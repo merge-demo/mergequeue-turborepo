@@ -233,7 +233,7 @@ expected
 eumerism
 espresso
 exhumer
-elate
+elate 1
 elaborative
 easer 1
 episodic
