@@ -4803,7 +4803,7 @@ anthropolater
 aerobia
 asamblea
 ace
-aerobiologically
+aerobiologically 1
 antipapism
 aconites
 aerobiologist
