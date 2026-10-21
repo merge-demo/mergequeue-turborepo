@@ -15597,7 +15597,7 @@ burbles 1
 brewsterite
 barbacan
 brises
-brisker
+brisker 1
 buttonmould 1
 biosystematic
 broadcasted
