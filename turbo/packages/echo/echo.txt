@@ -1392,7 +1392,7 @@ emissions
 encycl
 expungeable
 extraterrestrial 1
-engrailment 1
+engrailment 2
 earl
 electrodialyses
 electrometrically
