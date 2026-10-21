@@ -1488,7 +1488,7 @@ accolade
 accolades
 antidysenteric
 anabo
-amp
+amp 1
 antirational
 arrastre
 antinovel
