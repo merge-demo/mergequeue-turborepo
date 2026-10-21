@@ -1075,7 +1075,7 @@ franchisement
 frizer
 flichters 1
 fluorene
-foreswear
+foreswear 1
 feriae
 farreachingly 1
 flurr
