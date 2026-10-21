@@ -1700,7 +1700,7 @@ bitterest
 brilliantness
 bungalow 1
 bawdyhouse
-bagnios
+bagnios 1
 besottingly
 bowsing
 balneology
@@ -17491,7 +17491,7 @@ brambrack
 barometz
 buran
 burans
-burblers
+burblers 1
 baroko
 blueweeds
 backstopping

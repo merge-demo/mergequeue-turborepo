@@ -7667,7 +7667,7 @@ flowoff
 furfurine 1
 falsified
 finnack
-fasciated
+fasciated 1
 fernier
 feature
 foreigneering
