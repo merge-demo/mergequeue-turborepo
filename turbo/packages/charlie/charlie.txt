@@ -3216,7 +3216,7 @@ cellvibrio
 carpodacus
 cameleon
 capillitium
-caping
+caping 1
 coelelminthes
 cauli 1
 counterpoised
