@@ -8967,7 +8967,7 @@ evenings
 encephalin
 eleaticism
 endopleurite
-erratics
+erratics 1
 erythrocytes
 exhilarant
 explorative
