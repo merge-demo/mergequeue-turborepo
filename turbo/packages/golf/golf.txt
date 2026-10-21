@@ -1854,7 +1854,7 @@ grandfer
 gunfighting
 galerus
 gulinulae
-gummosity
+gummosity 1
 gateposts 1
 gatewaying 1
 griddlecakes

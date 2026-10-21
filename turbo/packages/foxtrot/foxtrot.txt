@@ -7222,7 +7222,7 @@ forecasts
 formiate 1
 fustet
 fameuse 2
-fancysick
+fancysick 1
 fortlet
 federalise
 fastland 1
