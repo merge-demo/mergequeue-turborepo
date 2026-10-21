@@ -7486,7 +7486,7 @@ gamogenesis
 gileno
 gaen
 glycolytic
-glaucophanize
+glaucophanize 1
 gangs
 glitzy
 grayfly
