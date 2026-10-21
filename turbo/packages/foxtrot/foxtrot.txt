@@ -9230,7 +9230,7 @@ frangipani
 frizers 1
 framea
 framer
-frames
+frames 1
 forename
 footmenfootpad 1
 fungologist
