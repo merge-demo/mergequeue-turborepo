@@ -2564,7 +2564,7 @@ galenites 1
 grosses
 giveaways
 goldenrods
-generalized 1
+generalized 2
 gleed
 graywall
 guv

@@ -6,7 +6,7 @@ dromonds
 dabba
 degradation
 dialectologist 1
-dabby 1
+dabby 2
 dogbane
 demerara
 drawstrings
@@ -14380,7 +14380,7 @@ dialyzed
 dodger
 dislaurel
 deadheaded
-diurn
+diurn 1
 depraved
 diurna
 deuterogenic
