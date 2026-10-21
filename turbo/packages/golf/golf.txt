@@ -388,7 +388,7 @@ gastrostaxis
 goodhumoredness
 gynobasic
 gelded
-galangin
+galangin 1
 grond
 golundauze
 gavot 1

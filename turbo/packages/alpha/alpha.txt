@@ -3529,7 +3529,7 @@ arvicole
 ambilateral
 anybodyd
 antthrush
-apargia
+apargia 1
 addressing
 albertype
 anareta
@@ -22165,7 +22165,7 @@ amoeboid
 anarchically
 abampere
 audiograms
-asthenical
+asthenical 1
 arpeggiando
 arrowstone
 apetalousness
