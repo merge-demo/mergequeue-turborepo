@@ -5567,7 +5567,7 @@ fibrinocellular
 flintiness
 flaglike
 flicker
-fixity
+fixity 1
 flagginess
 frapler 1
 fiords
