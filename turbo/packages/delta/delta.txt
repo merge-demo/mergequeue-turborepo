@@ -14080,7 +14080,7 @@ designative
 doocot 1
 dolichocephalic 1
 doggrel
-distributer 1
+distributer 2
 disacknowledgements
 dispace
 dialist
