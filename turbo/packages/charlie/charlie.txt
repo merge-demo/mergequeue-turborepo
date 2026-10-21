@@ -1205,7 +1205,7 @@ charry
 calean
 cystorrhea
 calebite
-calebites
+calebites 1
 cichar
 coprophilia
 cancerating
