@@ -7790,7 +7790,7 @@ albolith
 aldazine
 annunciative
 antithrombic
-aldoheptose
+aldoheptose 1
 analecta
 antigalactic
 assured
