@@ -10990,7 +10990,7 @@ foreadapt
 forthright 1
 focaloid
 finland
-firebolt
+firebolt 1
 feminist
 fleshlier
 furmities

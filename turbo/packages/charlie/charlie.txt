@@ -7986,7 +7986,7 @@ cytozoa 1
 codirectional
 chacte
 chad
-chadarim
+chadarim 1
 chadelle
 colloquy
 catsup
