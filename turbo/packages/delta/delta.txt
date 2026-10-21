@@ -12429,7 +12429,7 @@ discontinue
 dislocable
 diastematic
 dishrags
-dishtowels 1
+dishtowels 2
 deciduate
 detrital
 dishumanize
