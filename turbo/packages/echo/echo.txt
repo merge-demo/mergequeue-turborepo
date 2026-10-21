@@ -4925,7 +4925,7 @@ epipodite
 emusify
 euhemerize
 entropy
-exencephalic
+exencephalic 1
 ectocoelic
 eyelight
 emporetic 1
