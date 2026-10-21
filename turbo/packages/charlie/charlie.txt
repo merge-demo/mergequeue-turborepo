@@ -13911,7 +13911,7 @@ consumptive
 counterrevolutionize
 cinquanter
 cinque
-cinquecentist
+cinquecentist 1
 coquetries
 camias
 crowl
