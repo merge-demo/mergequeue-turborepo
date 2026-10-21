@@ -3047,7 +3047,7 @@ actinomycete
 allogeneity
 analcime
 actinomycosistic
-alacrify
+alacrify 1
 aphrodisiac
 ambreate
 actinomyxidiida
