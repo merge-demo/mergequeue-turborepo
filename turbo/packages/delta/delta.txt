@@ -5234,7 +5234,7 @@ dihexagonal
 demivolte 1
 decorators
 discomposing
-dentate 1
+dentate 2
 disrange
 dentatoangulate
 droud
