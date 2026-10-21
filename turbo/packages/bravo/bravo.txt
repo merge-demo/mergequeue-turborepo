@@ -5024,7 +5024,7 @@ bouchon
 bombycilla
 breakfasters
 beerpull
-beers
+beers 1
 beest
 bibation 1
 bindweb 1
