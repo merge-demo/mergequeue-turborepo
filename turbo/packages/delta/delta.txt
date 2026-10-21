@@ -13956,7 +13956,7 @@ diaspine 1
 dextrosinistrally
 dodding
 disinsulation
-dabblingly
+dabblingly 1
 depolymerization
 distn
 dystocia
