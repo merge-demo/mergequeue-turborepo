@@ -12035,7 +12035,7 @@ excommunicator
 expetible 1
 exauthorate
 extrication
-excoriated
+excoriated 1
 electroanalysis
 excoriating
 egestions 1

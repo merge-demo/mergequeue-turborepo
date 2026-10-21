@@ -13735,7 +13735,7 @@ bouser
 bousouki
 bousoukia
 brunswick
-boustrophedon
+boustrophedon 1
 bloomer 1
 bircher
 banqueted
