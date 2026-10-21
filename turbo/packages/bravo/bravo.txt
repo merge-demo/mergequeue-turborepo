@@ -1700,7 +1700,7 @@ bitterest
 brilliantness
 bungalow 1
 bawdyhouse
-bagnios
+bagnios 1
 besottingly
 bowsing
 balneology
