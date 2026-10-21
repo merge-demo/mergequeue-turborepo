@@ -24508,7 +24508,7 @@ copaliferous
 copalite
 copalm
 coparcenar
-crucians
+crucians 1
 coparcenary
 cyclopropane
 comic
