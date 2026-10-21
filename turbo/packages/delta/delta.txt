@@ -991,7 +991,7 @@ darics
 devwsor
 darien
 devotionality
-disinclinations
+disinclinations 1
 dimmest
 deiform
 drupes
