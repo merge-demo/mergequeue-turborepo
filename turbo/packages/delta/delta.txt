@@ -2521,7 +2521,7 @@ dwined
 denitrification
 declasses
 dorn
-declass
+declass 1
 dimorphs
 declassification
 derringer
