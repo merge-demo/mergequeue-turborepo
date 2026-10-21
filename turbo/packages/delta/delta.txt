@@ -5441,7 +5441,7 @@ departer
 devastated
 dehistoricize 1
 drama
-denotement
+denotement 1
 dynatron
 directionality
 drought
