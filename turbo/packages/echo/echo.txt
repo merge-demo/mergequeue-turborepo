@@ -6938,7 +6938,7 @@ entrainment 1
 entrains
 educate
 emissaryship 1
-entrancedly
+entrancedly 1
 entrancement
 ectotrophi
 endocrinism 1
