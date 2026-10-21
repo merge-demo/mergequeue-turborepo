@@ -8573,7 +8573,7 @@ eskimauan
 extraparenchymal
 equiaxed
 edificable
-equate
+equate 1
 eburnification
 enharmonic
 earnings
@@ -10298,7 +10298,7 @@ ectases
 epiphyllous
 ensignment
 ethnicist
-ethyne
+ethyne 1
 elingued 1
 establismentarian 2
 enlink
