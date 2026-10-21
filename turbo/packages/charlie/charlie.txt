@@ -22443,7 +22443,7 @@ cantando 1
 cosiest
 circumduction
 conchoid 1
-conins
+conins 1
 coniogramme
 contradiscriminate
 cecostomy
@@ -26628,7 +26628,7 @@ coked
 councils
 cozener
 counite
-counsel
+counsel 1
 counterpanes
 counselable
 coronobasilar
