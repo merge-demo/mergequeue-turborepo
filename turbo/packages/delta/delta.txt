@@ -1688,7 +1688,7 @@ dispond
 dendrodic
 duckstone
 distringas
-dobl
+dobl 1
 decoding 1
 disturber
 directory
