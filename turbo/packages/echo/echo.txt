@@ -4464,7 +4464,7 @@ enlightenments
 enquires
 epiphyllum 1
 expiable 1
-ensober
+ensober 1
 enneadianome
 ezekiel
 encastre
