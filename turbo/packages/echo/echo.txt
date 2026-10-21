@@ -10593,7 +10593,7 @@ evernioid 1
 emforth
 elvanite
 enviroment
-eledone
+eledone 1
 enterpriseless
 epiplopexy
 egoizer 1
