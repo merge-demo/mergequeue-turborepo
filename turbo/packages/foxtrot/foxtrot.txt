@@ -6294,7 +6294,7 @@ flunkyize 1
 forefingers
 ferments
 fumigatorium
-fpm
+fpm 1
 frolicness
 forthcomingness
 furcraeas
@@ -10309,7 +10309,7 @@ faquirs
 flandowser
 flavid
 feel
-fitten
+fitten 1
 finary
 folksongs 2
 fanged

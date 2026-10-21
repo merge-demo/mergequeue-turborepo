@@ -4233,7 +4233,7 @@ apologizers
 affy
 argentation
 assiduity 1
-automorph
+automorph 1
 arouser
 astichous
 astore
