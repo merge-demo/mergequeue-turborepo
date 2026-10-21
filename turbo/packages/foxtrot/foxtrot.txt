@@ -4940,7 +4940,7 @@ foreshortened
 farthermost 2
 foreappoint
 fourflushers
-flameouts 1
+flameouts 2
 fictileness
 fluorid
 forbiddingness
