@@ -7143,7 +7143,7 @@ centred
 centref 1
 centrepiece
 curtsy
-canephoroe
+canephoroe 1
 centrer 1
 closely
 chol
