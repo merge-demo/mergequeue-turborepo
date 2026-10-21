@@ -8113,7 +8113,7 @@ bicornous
 booklift
 bartend 1
 bagroom
-bicornuate
+bicornuate 1
 bicornute
 bicorporate
 banyai
