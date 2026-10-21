@@ -11958,7 +11958,7 @@ ensilages
 exothermicity
 endurance
 enlist
-epithecate
+epithecate 1
 exactress
 easters
 enarthroses
