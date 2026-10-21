@@ -21864,7 +21864,7 @@ aerophilous
 antimeningococcic
 assigns
 amiced
-abusious
+abusious 1
 assimilates
 assimilating
 andoroba
