@@ -9549,7 +9549,7 @@ exannulate
 endosmotic
 ergastoplasmic
 enchytraeidae
-emigree
+emigree 1
 euchromatic
 encincture
 eskimoized 1
