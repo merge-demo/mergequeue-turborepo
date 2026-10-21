@@ -8474,7 +8474,7 @@ galops 1
 groupers
 gayal
 grata
-galleon
+galleon 1
 geomorphological 1
 geotectonically
 guardian
