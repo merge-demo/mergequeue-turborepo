@@ -9089,7 +9089,7 @@ flopover
 fluosilicate 1
 fuzee
 fruitarian
-ferriprussic
+ferriprussic 1
 fodient
 flamineous 1
 feignedness
