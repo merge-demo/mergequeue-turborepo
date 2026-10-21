@@ -4481,7 +4481,7 @@ dynastically
 demilawyer
 diwans
 demilitarisation 1
-declaratory
+declaratory 1
 demilitarised
 dehydrogenase
 dibranchiate
