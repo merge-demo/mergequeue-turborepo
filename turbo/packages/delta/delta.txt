@@ -2569,7 +2569,7 @@ diplocephalous
 demiquaver
 dashes
 decoctive
-deaminizing
+deaminizing 1
 decoctum
 drudgery
 decode
@@ -11530,7 +11530,7 @@ dynamometry
 disobligatory
 discommoned
 dodrantal
-detective
+detective 1
 denationalised
 downland
 desorbs
