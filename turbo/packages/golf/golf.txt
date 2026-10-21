@@ -8693,7 +8693,7 @@ girn
 greenbug 1
 gastrolater
 grandiloquent
-glossitis
+glossitis 1
 greenery
 globin
 geraniaceous
