@@ -20263,7 +20263,7 @@ anisotropies
 archisymbolical
 accumber
 antinomian 1
-alluvio
+alluvio 1
 anauxite
 adjacence
 avicide
