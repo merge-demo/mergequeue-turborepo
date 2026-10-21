@@ -12429,7 +12429,7 @@ experient
 eyer
 elocutioner
 ergometer
-effude
+effude 1
 epapillate
 elengely
 exigently 1
