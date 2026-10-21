@@ -9924,7 +9924,7 @@ geoglyphic
 gedd
 gingras 2
 gestatorium
-galerite
+galerite 1
 geogenetic
 ghatwal 1
 glozer 1
