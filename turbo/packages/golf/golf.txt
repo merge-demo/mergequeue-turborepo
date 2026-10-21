@@ -1985,7 +1985,7 @@ goring
 grubroot
 grusian 1
 gripes
-grudged 1
+grudged 2
 ghastlier
 guttable
 gonif
