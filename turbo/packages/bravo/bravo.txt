@@ -12436,7 +12436,7 @@ bowerlike
 bonbon 1
 bicolligate
 betsimisaraka
-behap
+behap 1
 bicapitate
 backcast
 begloom
