@@ -6570,7 +6570,7 @@ eurygnathous
 elocution
 enwrapment 1
 enlinking
-ectocarpaceous
+ectocarpaceous 1
 emm
 epodes
 episcopalians
