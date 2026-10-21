@@ -1356,7 +1356,7 @@ faticableness
 felspath
 filmography 1
 forwardation
-fatiferous
+fatiferous 1
 feaster
 flavorfully
 florentine
