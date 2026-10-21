@@ -13865,7 +13865,7 @@ exhibitory
 equimultiple 1
 evaporize
 ethionic
-ellasar
+ellasar 1
 extractability
 eluated
 enmities
