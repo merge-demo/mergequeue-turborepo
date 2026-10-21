@@ -9252,7 +9252,7 @@ groenlandicus
 goyana
 gurge
 gangliate
-gunocracy
+gunocracy 1
 galactophagous
 guidebook
 gelatiniser
