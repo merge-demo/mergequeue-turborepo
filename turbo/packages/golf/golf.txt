@@ -6334,7 +6334,7 @@ granolithic
 grouty
 gooseries
 gossaniferous 1
-graphiologist
+graphiologist 1
 gog
 graymill 1
 gospelwards
