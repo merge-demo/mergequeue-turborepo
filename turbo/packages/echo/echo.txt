@@ -4364,7 +4364,7 @@ exaltment
 exotically
 embrasure
 enantiomorph
-encratic
+encratic 1
 equinovarus
 electrolyzer
 encephalosclerosis
