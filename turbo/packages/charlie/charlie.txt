@@ -5999,7 +5999,7 @@ catholicist
 chaitya
 coprolagnist
 catholicity
-condole
+condole 1
 ctenodontidae
 catholicize
 corotating
