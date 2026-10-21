@@ -7631,7 +7631,7 @@ foretopsail
 fittywise
 fiefdom
 forecasting
-freeze
+freeze 1
 foxskin
 fano
 fiesta
