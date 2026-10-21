@@ -18711,7 +18711,7 @@ autocephality 1
 airmail 1
 acquisitum 1
 astonied
-archbishopric
+archbishopric 1
 acroamata
 archbotcher
 aretes
