@@ -7934,7 +7934,7 @@ ashcans
 activistic
 allomerized
 adobos
-adorningly
+adorningly 1
 aristippus
 aleppo
 alerce
