@@ -7551,7 +7551,7 @@ explanitory
 estatesmen
 epicheiremata
 executer
-ependyma
+ependyma 1
 endomysium
 endovenous
 electrocapillarity
@@ -8655,7 +8655,7 @@ enameller
 emerging
 excretions
 equinus
-ethrogs
+ethrogs 1
 enarration
 equipages
 etherialism
