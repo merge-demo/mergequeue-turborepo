@@ -3786,7 +3786,7 @@ conrail 1
 cariniana
 carbodynamite
 carbohemoglobin
-cribbling
+cribbling 1
 carbohydrase
 cardioncus
 carbohydrate
