@@ -6941,7 +6941,7 @@ diets 1
 dandlers
 demob
 dript
-despoil
+despoil 1
 despoiled
 destroyers 1
 despoiler
