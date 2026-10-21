@@ -7911,7 +7911,7 @@ enlargement
 ethonone
 euphemistic 1
 eclampsia
-enclavement
+enclavement 1
 excoriable
 extinction
 enneastylar
