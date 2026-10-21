@@ -6856,7 +6856,7 @@ goodheartedness
 goody 1
 giganticide
 geomalism
-glowers
+glowers 1
 ganglioform
 geographer
 geneserine
