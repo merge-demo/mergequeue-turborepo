@@ -1528,7 +1528,7 @@ deactivate
 discoglossid
 distractedly
 dallies
-dicerous
+dicerous 1
 dissyllabize
 dicacodyl
 dartman
