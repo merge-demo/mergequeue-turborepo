@@ -11699,7 +11699,7 @@ enclasped
 epicrises
 endmatcher
 examen
-elementals
+elementals 1
 enregistry
 exurban 1
 elasticizing
