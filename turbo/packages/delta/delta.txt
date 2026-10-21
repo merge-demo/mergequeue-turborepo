@@ -3673,7 +3673,7 @@ daddling
 delustrant
 dackering
 deprivation
-dehisce
+dehisce 1
 dispersedness
 dasymeter
 dichromism
