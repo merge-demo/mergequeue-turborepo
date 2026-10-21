@@ -7934,7 +7934,7 @@ ashcans
 activistic
 allomerized
 adobos
-adorningly
+adorningly 1
 aristippus
 aleppo
 alerce
@@ -13375,7 +13375,7 @@ anisum
 appinite 1
 aneuploid
 anitos
-anyways
+anyways 1
 anywhen
 advertize
 ascill
