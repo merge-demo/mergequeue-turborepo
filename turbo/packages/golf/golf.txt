@@ -8125,7 +8125,7 @@ gallies 1
 granulization
 gliff 1
 ghastful
-gleek
+gleek 1
 gallicization 1
 gauntly
 graftages
