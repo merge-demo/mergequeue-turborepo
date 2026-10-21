@@ -29449,7 +29449,7 @@ crystalligerous 1
 civilizade
 crystallin
 crystalling
-crystallisability
+crystallisability 1
 caramel
 correctedness
 cueist
