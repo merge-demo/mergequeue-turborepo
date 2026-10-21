@@ -4458,7 +4458,7 @@ discircumspection
 demies
 dosimetric
 demifigure
-disinflated
+disinflated 1
 downdraught
 debentureholder
 demigauntlet
