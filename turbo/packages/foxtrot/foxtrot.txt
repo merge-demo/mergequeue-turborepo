@@ -4970,7 +4970,7 @@ flanch
 farcemeat 1
 formalize
 ferrugination
-fluffily 1
+fluffily 2
 fictionalized
 foraminate
 fascet 1
