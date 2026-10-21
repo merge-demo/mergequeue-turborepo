@@ -1131,7 +1131,7 @@ globalization
 glossing
 goblins
 ganoidian
-geonyctitropic
+geonyctitropic 1
 graphics
 gutsiest
 grammatolatry 1
