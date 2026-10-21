@@ -3693,7 +3693,7 @@ desmose
 demain
 dreadful 1
 dytiscidae
-dehorner
+dehorner 1
 diplography
 desiredness
 dehorning
