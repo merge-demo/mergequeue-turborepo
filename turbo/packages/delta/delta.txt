@@ -11530,7 +11530,7 @@ dynamometry
 disobligatory
 discommoned
 dodrantal
-detective
+detective 1
 denationalised
 downland
 desorbs
