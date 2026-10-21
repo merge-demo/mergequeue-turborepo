@@ -10294,7 +10294,7 @@ guitarists 1
 grossularite
 galvanomagnet
 gandhian
-gigantically
+gigantically 1
 gorges
 graying
 grather 1
