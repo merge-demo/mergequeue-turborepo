@@ -2250,7 +2250,7 @@ encyclopedian
 encell
 epauletted
 electragy
-electress
+electress 1
 excessive 1
 epitomist
 electret
