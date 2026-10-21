@@ -2989,7 +2989,7 @@ dies
 dismantling
 deepfreeze
 dilettantish
-deepgoing
+deepgoing 1
 dawsoniaceous
 debaucheries
 dolomitize

@@ -7435,7 +7435,7 @@ genotype 2
 galenas
 gratulant
 germen
-ghbor
+ghbor 1
 groundswells 1
 gonococcal
 glub
