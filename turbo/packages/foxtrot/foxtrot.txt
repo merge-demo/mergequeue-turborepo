@@ -3056,7 +3056,7 @@ flitter
 flakeboard 1
 foreboot
 fillmass
-fibrinose
+fibrinose 1
 fibrinosis 1
 fibro
 fantasia
