@@ -6389,7 +6389,7 @@ fructifies
 frizing 1
 foreship
 frivoled
-frogeye
+frogeye 1
 fluoaluminate
 femorocaudal
 fainted
