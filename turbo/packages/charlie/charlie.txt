@@ -9113,7 +9113,7 @@ cosmoscope
 chartophylacium
 chartreux
 centration
-chartroom
+chartroom 1
 commonefaction
 charts
 cozening
