@@ -6176,7 +6176,7 @@ fairest 2
 flaring
 foragement
 frumpishness
-foe
+foe 1
 forecatharping 1
 fudder
 fluctuating
