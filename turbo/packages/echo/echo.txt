@@ -10900,7 +10900,7 @@ encephalocoele
 euktolite
 evolutoid 1
 euphory
-enchondrosis
+enchondrosis 1
 euphoriant 1
 eaglewood
 euploidies
