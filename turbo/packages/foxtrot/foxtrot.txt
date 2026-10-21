@@ -3628,7 +3628,7 @@ faintishness
 fielder
 floatsman
 froglets
-figurate
+figurate 1
 forebitter
 facticide
 fretsaws 1
