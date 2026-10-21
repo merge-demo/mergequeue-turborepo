@@ -10591,7 +10591,7 @@ australopithecinae
 amids
 apolarity
 aphids
-ascaris
+ascaris 1
 anotia
 amidulin 1
 abnegating 1
@@ -20263,7 +20263,7 @@ anisotropies
 archisymbolical
 accumber
 antinomian 1
-alluvio
+alluvio 1
 anauxite
 adjacence
 avicide
