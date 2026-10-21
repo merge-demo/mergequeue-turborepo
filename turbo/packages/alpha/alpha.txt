@@ -15243,7 +15243,7 @@ antifriction
 antifrost
 amblotic
 antifungal 1
-ataentsic
+ataentsic 1
 albertinian
 androcratic 1
 antigalactagogue
