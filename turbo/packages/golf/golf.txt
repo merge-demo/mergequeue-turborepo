@@ -3693,7 +3693,7 @@ ghoulery
 grillading
 gasterosteus
 groundedness
-gesticulatory
+gesticulatory 1
 garnierite
 ghoulishly 1
 grew

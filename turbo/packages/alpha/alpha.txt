@@ -16247,7 +16247,7 @@ antitheologizing
 anacusis
 anthracomarti
 aggravative
-advocatrix
+advocatrix 1
 argali
 arish
 antithesism
