@@ -1075,7 +1075,7 @@ franchisement
 frizer
 flichters 1
 fluorene
-foreswear
+foreswear 1
 feriae
 farreachingly 1
 flurr
@@ -3196,7 +3196,7 @@ foods 1
 fogman
 floorshift
 firmisternous
-fougade
+fougade 1
 flexibly
 fusicoccum
 ficklest
@@ -6389,7 +6389,7 @@ fructifies
 frizing 1
 foreship
 frivoled
-frogeye
+frogeye 1
 fluoaluminate
 femorocaudal
 fainted
