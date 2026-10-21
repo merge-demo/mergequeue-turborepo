@@ -5550,7 +5550,7 @@ ascry
 aftermost
 afternoons
 afternose
-afterpains
+afterpains 1
 auburns
 antifreezing
 afterpast
