@@ -12815,7 +12815,7 @@ exostrae
 exoteric 1
 exoterica
 elementalistically
-excitomotor
+excitomotor 1
 exdie 1
 embryology
 epicystotomy
