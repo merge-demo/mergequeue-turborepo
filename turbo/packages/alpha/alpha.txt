@@ -18026,7 +18026,7 @@ apres
 albigensian
 apricate
 accusingly
-apers
+apers 1
 aprication
 aeric 1
 association
