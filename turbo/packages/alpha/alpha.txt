@@ -2002,7 +2002,7 @@ acetostearin
 acetothienone
 antiaesthetic
 accessible
-aporrhais
+aporrhais 1
 acetous
 acetoxyl
 approbatory
