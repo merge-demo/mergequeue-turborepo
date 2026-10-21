@@ -17533,7 +17533,7 @@ dorsibranchiate
 diencephalic 1
 druids
 dipterology
-diplarthrous
+diplarthrous 1
 dissimulations
 dellaring
 dielytra
