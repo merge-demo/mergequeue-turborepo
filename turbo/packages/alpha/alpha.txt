@@ -22165,7 +22165,7 @@ amoeboid
 anarchically
 abampere
 audiograms
-asthenical
+asthenical 1
 arpeggiando
 arrowstone
 apetalousness
