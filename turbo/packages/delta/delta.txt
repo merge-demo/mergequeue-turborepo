@@ -9887,7 +9887,7 @@ descents
 descendingly
 dentins
 dendritiform
-diplodocuses
+diplodocuses 1
 ductilely
 dermatoptic
 direly
