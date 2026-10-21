@@ -266,7 +266,7 @@ gainage
 greenlandic 1
 geologizing
 ghostlike
-glops
+glops 1
 guao
 gemless 1
 glaires
