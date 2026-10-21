@@ -8911,7 +8911,7 @@ discitis
 dumpishness
 damascene
 deceivable
-deathblows 1
+deathblows 2
 dichotically 1
 disklike
 dirigible
