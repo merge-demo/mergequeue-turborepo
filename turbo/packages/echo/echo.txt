@@ -2525,7 +2525,7 @@ extraconstellated
 ethnobotanic 1
 enounce 1
 endopterygote
-emancipators
+emancipators 1
 enwheeling 1
 entering
 embraceably
