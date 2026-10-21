@@ -4405,7 +4405,7 @@ consecutiveness 1
 ceruloplasmin
 cytogenetics
 caryophyllus
-crucifixions
+crucifixions 1
 curite
 cutesy
 cartisane
