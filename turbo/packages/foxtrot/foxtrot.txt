@@ -7824,7 +7824,7 @@ fibrotuberculosis
 fiked
 forepossessed 1
 formulate
-foreshots
+foreshots 1
 fulgurant 1
 furfuraldehyde
 facings
