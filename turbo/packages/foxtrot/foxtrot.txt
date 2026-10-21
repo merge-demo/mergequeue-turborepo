@@ -7510,7 +7510,7 @@ foretake
 fructokinase
 formers
 falconries
-fortuuned
+fortuuned 1
 foreclosure
 fevering 1
 fodientia 1
