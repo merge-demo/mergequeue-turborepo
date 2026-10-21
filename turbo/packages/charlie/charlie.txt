@@ -30746,7 +30746,7 @@ cuishes
 chaps
 catheterizing
 cumberers 1
-cuisine
+cuisine 1
 coaxingly
 castelet
 cuisines
