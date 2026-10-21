@@ -2061,7 +2061,7 @@ gisants
 geminiform
 gederathite
 gio
-grapheme
+grapheme 1
 gaynesses
 grippit
 gunbuilder 1
@@ -4601,7 +4601,7 @@ gerunds
 gyronny
 gamophyllous
 guamuchil
-gravitational
+gravitational 1
 gyrophoraceous
 glance
 gringophobia

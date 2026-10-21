@@ -1528,7 +1528,7 @@ deactivate
 discoglossid
 distractedly
 dallies
-dicerous
+dicerous 1
 dissyllabize
 dicacodyl
 dartman
@@ -6091,7 +6091,7 @@ dicolic
 deregulations
 deputable
 disinthrall
-dichromatism
+dichromatism 1
 drumloid
 ducatoon
 destructivism
