@@ -5228,7 +5228,7 @@ flitterbat
 fulfil
 fourling
 fleas 1
-fluxroot
+fluxroot 1
 fratcheous
 fluctuosity
 foetiferous 1
