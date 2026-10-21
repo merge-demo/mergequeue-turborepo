@@ -18526,7 +18526,7 @@ considerateness
 clypeole
 coif
 ceratite
-coiffe
+coiffe 1
 coiffed
 caustics 1
 coiffeur
