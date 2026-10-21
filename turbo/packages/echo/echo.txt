@@ -1045,7 +1045,7 @@ eqpt
 edgar
 edgeboned
 eringos 1
-eagerly
+eagerly 1
 exsheath
 edged
 eidolon
