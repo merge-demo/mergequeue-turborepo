@@ -12586,7 +12586,7 @@ eatableness 1
 embezzlement
 exochorion
 enterocolitis
-embrawn
+embrawn 1
 epsomite
 euphon
 ethion
