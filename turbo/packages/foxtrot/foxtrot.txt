@@ -1000,7 +1000,7 @@ fervid
 fishing 1
 flustering 1
 frivoller
-foined
+foined 1
 flyaway 1
 filigerous 1
 formyl
