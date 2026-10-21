@@ -5095,7 +5095,7 @@ dolphinfish
 damia
 decarburation
 desertic
-denierer
+denierer 1
 dipolarize
 dietine 1
 desulphurizing
