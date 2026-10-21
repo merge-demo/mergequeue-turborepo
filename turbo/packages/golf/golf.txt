@@ -6650,7 +6650,7 @@ genuflected
 goniatites
 guttler
 grint
-growable
+growable 1
 gromatic 1
 geochronometry
 gibbergunyah
