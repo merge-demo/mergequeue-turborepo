@@ -5781,7 +5781,7 @@ gaupus 2
 glissades
 greggle
 gather
-greekish 1
+greekish 2
 gedrite
 golliwog
 geocarpic 1
@@ -6932,7 +6932,7 @@ goof
 gwantus
 goofah
 gip
-guaiac
+guaiac 1
 greystone
 gebanga
 gauntries
