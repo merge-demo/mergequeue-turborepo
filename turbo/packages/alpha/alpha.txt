@@ -22845,7 +22845,7 @@ avilaria 1
 adjurers
 atoke
 assemblages
-alphenic
+alphenic 1
 anyhow
 assonate
 aquo

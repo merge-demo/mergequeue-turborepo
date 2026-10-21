@@ -3673,7 +3673,7 @@ daddling
 delustrant
 dackering
 deprivation
-dehisce
+dehisce 1
 dispersedness
 dasymeter
 dichromism
@@ -14430,7 +14430,7 @@ distensible
 divergent 1
 dishpans
 decrials
-diversify
+diversify 1
 daddle
 domestics
 diversification
