@@ -10850,7 +10850,7 @@ feeable
 fanatical 1
 fulfiller
 flambeaux
-fumose
+fumose 1
 flus 1
 flavorous
 ferule
