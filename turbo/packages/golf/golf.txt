@@ -9175,7 +9175,7 @@ glairing
 gunebo
 geoscience
 gibberosity
-grippleness
+grippleness 1
 grazier
 gryllotalpa
 griqualander
