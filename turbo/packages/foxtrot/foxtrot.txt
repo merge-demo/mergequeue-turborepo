@@ -11388,7 +11388,7 @@ fittedness
 ferromagneticism
 flashlamp 1
 furnariides 1
-flect
+flect 1
 facies
 furnish 1
 fluorindine
