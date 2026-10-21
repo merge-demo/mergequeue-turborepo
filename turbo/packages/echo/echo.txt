@@ -1045,7 +1045,7 @@ eqpt
 edgar
 edgeboned
 eringos 1
-eagerly
+eagerly 1
 exsheath
 edged
 eidolon
@@ -7551,7 +7551,7 @@ explanitory
 estatesmen
 epicheiremata
 executer
-ependyma
+ependyma 1
 endomysium
 endovenous
 electrocapillarity
