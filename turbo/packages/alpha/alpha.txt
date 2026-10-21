@@ -13364,7 +13364,7 @@ anisostaminous
 anisostichous
 anisostomous 1
 amlacra
-amphitheatral
+amphitheatral 1
 anisotrope
 anisotropically
 anencephalotrophia
