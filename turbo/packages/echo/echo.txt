@@ -8387,7 +8387,7 @@ enwreathe
 ethylenation
 elroquite
 exindusiate
-epitrope
+epitrope 1
 exclusionism 1
 embryous
 epivalve
