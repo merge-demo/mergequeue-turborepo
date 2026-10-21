@@ -10615,7 +10615,7 @@ gloomiest
 gunpower 1
 gasping
 gentled
-gimmickry
+gimmickry 1
 gunshop
 gulches
 gunsmithing
