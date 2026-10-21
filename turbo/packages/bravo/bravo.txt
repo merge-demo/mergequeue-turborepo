@@ -7561,7 +7561,7 @@ bevenom
 bever
 barleducs
 blemishment
-burses
+burses 1
 bonneted
 beverse
 barbets
