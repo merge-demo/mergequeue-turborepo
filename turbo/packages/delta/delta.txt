@@ -14497,7 +14497,7 @@ divertisement
 dextrogyrous
 divertissements
 deferment
-divested
+divested 1
 doradidae
 dicynodontidae 1
 davit
