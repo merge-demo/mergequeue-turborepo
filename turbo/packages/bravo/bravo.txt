@@ -10447,7 +10447,7 @@ braggadocian
 ballooned 1
 briticism
 banner
-bureaucratizing
+bureaucratizing 1
 badling
 bronco
 bailwood
