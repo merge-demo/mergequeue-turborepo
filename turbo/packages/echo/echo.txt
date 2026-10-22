@@ -1750,7 +1750,7 @@ eyen
 etacism
 eulogisation
 extendedly
-encryption
+encryption 1
 epanorthoses 1
 encysts
 enswathe
@@ -3623,7 +3623,7 @@ existability
 epicauta
 erythraean 1
 earspool
-embraceries
+embraceries 1
 evangelized 1
 embracingly
 engravement
