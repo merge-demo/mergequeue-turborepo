@@ -3588,7 +3588,7 @@ asphalt
 abada
 antipodagron
 agelessly
-adelomorphic
+adelomorphic 1
 adsorbing 1
 adamhood
 amputating
