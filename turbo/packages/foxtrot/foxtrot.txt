@@ -11357,7 +11357,7 @@ fluoroid
 fustinella
 forewind 1
 fraxinus 1
-firepans
+firepans 1
 feuds
 fiasco
 fannies
