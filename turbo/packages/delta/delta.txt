@@ -2960,7 +2960,7 @@ deedily
 deediness
 dorsales
 disengage
-diabolos
+diabolos 1
 deeding
 directorates
 deedless
