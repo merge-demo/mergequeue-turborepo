@@ -1452,7 +1452,7 @@ freewheel
 fatuism 1
 felicify
 filasse
-firmness
+firmness 1
 futhork
 foothil
 familiarise
