@@ -771,7 +771,7 @@ figurines 1
 fluxions
 fustilarian
 frazzled
-frig
+frig 1
 fernleaf
 fetidness
 fezzan
