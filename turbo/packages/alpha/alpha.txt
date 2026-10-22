@@ -7612,7 +7612,7 @@ alchemy
 angiomata 1
 alchemic
 antiviral
-alchemies
+alchemies 1
 attractance
 actinozoal
 antilepsis
