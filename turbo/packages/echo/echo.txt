@@ -649,7 +649,7 @@ etherialise
 estonians
 engravings
 establishmentism
-ennoble
+ennoble 1
 evilness
 exprobration
 extimulate
