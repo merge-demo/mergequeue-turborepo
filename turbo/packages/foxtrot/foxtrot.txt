@@ -5976,7 +5976,7 @@ floorwise
 fernland
 footlog
 fusty
-foolscaps
+foolscaps 1
 felspars
 flacon
 foo
