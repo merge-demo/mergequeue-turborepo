@@ -4707,7 +4707,7 @@ arghoul
 abepithymia
 abush
 aetheling 1
-antedawn
+antedawn 1
 allographic
 acrotisms
 alphard
