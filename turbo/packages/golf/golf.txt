@@ -4079,7 +4079,7 @@ gimmickery 1
 gendering
 guiltful
 gymnasic
-genitivally
+genitivally 1
 grapsidae
 grundy
 geochronology
