@@ -13562,7 +13562,7 @@ atwain
 allo
 announce 1
 anglicizes
-announced
+announced 1
 agronomial
 astrophyllite
 announcing
