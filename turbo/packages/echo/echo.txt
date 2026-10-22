@@ -3121,7 +3121,7 @@ entombed
 epitomised 1
 elodeas
 enfaced
-esthetically
+esthetically 1
 ephebi
 elodes 1
 eloge
