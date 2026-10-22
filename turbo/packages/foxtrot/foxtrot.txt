@@ -4585,7 +4585,7 @@ floaters
 freest
 foresend
 forbbore
-fighter
+fighter 1
 footnoting 2
 fistwise
 fit
