@@ -19495,7 +19495,7 @@ colpoptosis
 colporrhagia
 colporrhaphy
 colportage
-colporter
+colporter 1
 colporteurs 1
 colposcopy
 crocodiles
