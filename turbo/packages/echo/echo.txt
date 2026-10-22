@@ -2570,7 +2570,7 @@ exenteration
 erucic
 escapeful 1
 ethchlorvynol
-escarmouche 1
+escarmouche 2
 everest
 enhaloed
 embryonate
@@ -8742,7 +8742,7 @@ evulgation 1
 extempore
 effs
 emmergoose
-evitate 1
+evitate 2
 entombing 1
 embryotrophic
 equivelocity
