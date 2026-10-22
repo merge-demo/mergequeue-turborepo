@@ -533,7 +533,7 @@ galleins
 gomphocarpus
 gnetaceous
 galler
-glycyrize
+glycyrize 1
 grandmammy
 grandsirs 1
 germanium
