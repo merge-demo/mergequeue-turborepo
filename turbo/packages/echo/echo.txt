@@ -10168,7 +10168,7 @@ exertion
 endodermis 1
 expressness
 endocarpoid 1
-elenctical
+elenctical 1
 elodeaceae
 epistolet
 emerant
