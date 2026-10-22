@@ -8565,7 +8565,7 @@ guarri 2
 gnathobasic
 gastrolatrous
 ginnier 1
-gonidioid
+gonidioid 1
 gravure
 gossameriness
 gametically
