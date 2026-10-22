@@ -8885,7 +8885,7 @@ gobang
 grainage
 ganglier
 guidance
-giddies
+giddies 1
 giros
 geoducks 1
 grenier
