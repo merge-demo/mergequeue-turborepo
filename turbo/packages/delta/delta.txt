@@ -7304,7 +7304,7 @@ dreariment
 daysman
 duecentos
 doctrinist
-despouse
+despouse 1
 doyen
 deterrence
 defiantly 1
