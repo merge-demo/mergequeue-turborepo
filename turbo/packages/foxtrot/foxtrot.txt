@@ -3465,7 +3465,7 @@ fission
 foreseason 1
 foreconsider
 fallback
-fighteress
+fighteress 1
 fatigation
 formboard 1
 foraminifer
