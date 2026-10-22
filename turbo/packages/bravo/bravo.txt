@@ -15710,7 +15710,7 @@ bluster 1
 botulismus
 bowman
 burr
-bedog
+bedog 1
 beholder
 braggiest
 bepuzzlement
