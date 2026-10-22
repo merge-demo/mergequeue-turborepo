@@ -10632,7 +10632,7 @@ antepenuit
 antiderivative
 anachromasis 1
 anamorphoses
-amygdalinic
+amygdalinic 1
 amygdaloid
 autoerotism
 anamnesis
