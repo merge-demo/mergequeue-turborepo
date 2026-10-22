@@ -14125,7 +14125,7 @@ exhortatively
 exposers
 extroitive
 extremist
-extrorse
+extrorse 1
 extrospect
 endarch
 evokes
