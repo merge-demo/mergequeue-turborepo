@@ -10145,7 +10145,7 @@ earstone 1
 epithalami
 errs
 expositress 2
-enumerators
+enumerators 1
 eurhodine
 effluent
 expressionful 1
