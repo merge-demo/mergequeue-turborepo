@@ -89,7 +89,7 @@ grimful 1
 gabunese
 governeress
 goop
-gluey
+gluey 1
 guidelines
 gallops 1
 grutten
