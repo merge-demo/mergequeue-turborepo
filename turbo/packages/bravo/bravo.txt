@@ -3128,7 +3128,7 @@ butylene
 basculation
 bulbils 1
 bromobenzyl
-bambuk
+bambuk 1
 bibliothec
 baculite
 bemixes
