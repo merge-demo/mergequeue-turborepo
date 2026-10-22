@@ -11690,7 +11690,7 @@ accents 1
 anacrotic
 altricial
 anacruses
-anaculture
+anaculture 1
 aortitis
 anacusic
 accidencies
