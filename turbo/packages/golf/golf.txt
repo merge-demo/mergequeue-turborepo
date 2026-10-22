@@ -579,7 +579,7 @@ globelet
 giftie
 gladding
 gallicizer 1
-galliform
+galliform 1
 gomphrena
 gridlock
 gorgeousness
