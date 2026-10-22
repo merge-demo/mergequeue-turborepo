@@ -7246,7 +7246,7 @@ alantic
 aquabib
 alantolactone
 assimilability
-alighten
+alighten 1
 alares
 aspiring 1
 alary
