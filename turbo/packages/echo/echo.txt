@@ -9046,7 +9046,7 @@ exocyclic
 eudaimonism 1
 equiglacial
 essays
-episcenium 1
+episcenium 2
 empyreans
 eperotesis
 epibranchial
