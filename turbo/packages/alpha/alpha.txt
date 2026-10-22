@@ -16315,7 +16315,7 @@ alternacy
 antituberculotic
 anticholagogue
 antitumoral
-affray
+affray 1
 amphoriloquy
 anchistea
 autonomist
