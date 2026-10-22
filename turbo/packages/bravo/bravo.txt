@@ -15594,7 +15594,7 @@ barometer
 beavers
 bougar 1
 burbles 1
-brewsterite
+brewsterite 1
 barbacan
 brises
 brisker 1
