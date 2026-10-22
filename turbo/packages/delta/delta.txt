@@ -10776,7 +10776,7 @@ dirdums 1
 demirelief
 directdiscourse
 doyleys
-diastereoisomeric
+diastereoisomeric 1
 dulanganes
 dimerizes
 directer
