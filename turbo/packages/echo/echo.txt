@@ -11850,7 +11850,7 @@ eructated
 extancy
 elutes
 exceeded
-excelente
+excelente 1
 evanescent 1
 eland
 excellencies
