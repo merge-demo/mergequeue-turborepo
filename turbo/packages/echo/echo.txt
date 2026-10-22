@@ -5779,7 +5779,7 @@ enshrines
 exchangeability
 extranidal
 exhilarating
-exterritoriality
+exterritoriality 1
 eolipiles
 eucharistical
 excl
