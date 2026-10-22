@@ -10930,7 +10930,7 @@ bangtails 1
 britishers
 beelzebubian
 bribegiver
-boatwise 1
+boatwise 2
 blimey
 braced 1
 blent
