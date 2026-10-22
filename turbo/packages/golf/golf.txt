@@ -8041,7 +8041,7 @@ geminiflorous
 glyceryl 2
 gruffness
 gravels 1
-glenoidal
+glenoidal 1
 granitiform
 geomancer
 gastrostomus 1

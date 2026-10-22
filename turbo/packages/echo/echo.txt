@@ -974,7 +974,7 @@ excavatory
 eumitosis
 exocardia 1
 emasculating
-enthymematic
+enthymematic 1
 ensaffron
 endomitotic
 excrementary
