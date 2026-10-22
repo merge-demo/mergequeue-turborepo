@@ -6640,7 +6640,7 @@ fibrins
 fruiteress
 flatterable
 flintlock
-felloes
+felloes 1
 flexura
 flouts
 feudary
