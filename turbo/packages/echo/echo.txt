@@ -13744,7 +13744,7 @@ extersive
 exerting
 enemata
 epitrochoidal 1
-ectosphere
+ectosphere 1
 elektra
 extincted
 enterostomies
