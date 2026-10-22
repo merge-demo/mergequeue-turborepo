@@ -4789,7 +4789,7 @@ abasement
 autographically
 aberdevine
 azygous
-aspide
+aspide 1
 addnl
 acquaintances
 aero
