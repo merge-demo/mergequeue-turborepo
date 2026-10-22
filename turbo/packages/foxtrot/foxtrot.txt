@@ -5519,7 +5519,7 @@ faldage
 furbelowing 1
 fankle
 feticides
-fossettes
+fossettes 1
 fleurettee
 fluemen
 floating
