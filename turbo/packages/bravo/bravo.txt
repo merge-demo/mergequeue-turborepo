@@ -11767,7 +11767,7 @@ breton
 bajree
 bichrome 1
 bobsledded
-berascal
+berascal 1
 britoness
 beryciform 1
 burier
