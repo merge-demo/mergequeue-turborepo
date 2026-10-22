@@ -3924,7 +3924,7 @@ apocarps
 autarkik
 anchory
 adjudicated
-apostrophied
+apostrophied 1
 adjudication 1
 agglutinin
 adjudicative
@@ -5632,7 +5632,7 @@ acrocoracoid
 arachin
 agacante
 accrue 1
-axbreaker
+axbreaker 1
 agacerie
 austromancy
 alloiometry
