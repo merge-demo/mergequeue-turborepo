@@ -4368,7 +4368,7 @@ fishboats
 fonduk
 flubdubberies
 fishbolts
-ferash
+ferash 1
 flechette
 funt
 floorshifts
@@ -8626,7 +8626,7 @@ fields
 fortaxed
 foederati
 fanlike
-freelance
+freelance 1
 funariaceous
 flexuous
 floured
