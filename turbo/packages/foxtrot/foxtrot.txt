@@ -5338,7 +5338,7 @@ feoffee 1
 fleadock
 fleahopper
 fatiha
-flinger
+flinger 1
 fructuously
 finiking 1
 flouncier
