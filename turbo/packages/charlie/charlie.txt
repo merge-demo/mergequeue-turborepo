@@ -28490,7 +28490,7 @@ conphaseolin
 craye
 cutability 1
 creativity
-clowns
+clowns 1
 creatorhood
 creatotoxism
 columellae
