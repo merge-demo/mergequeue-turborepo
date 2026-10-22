@@ -10138,7 +10138,7 @@ chevin
 cheviots
 chevres 1
 centuplicated
-chevret
+chevret 1
 counterexamples
 chevrolet
 chevrolets
