@@ -14962,7 +14962,7 @@ doesn
 desiccatory
 doffing 1
 demiracle
-diaphanometry
+diaphanometry 1
 dhikr
 disconsonancy
 drearisomely 2
