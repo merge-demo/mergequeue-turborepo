@@ -10589,7 +10589,7 @@ drudger
 decremental 1
 deben
 decolorizing 1
-diplomates
+diplomates 1
 diplomatically
 diethyl
 dolour 1
