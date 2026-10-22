@@ -16768,7 +16768,7 @@ draughtsmanship
 drave
 danalite
 demiflouncing
-dictynid
+dictynid 1
 dextrocular
 diplasic
 dangersome 1
