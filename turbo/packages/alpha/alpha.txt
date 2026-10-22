@@ -14030,7 +14030,7 @@ albigenses
 acculturational
 adjustation
 arrhythmia
-aloha
+aloha 1
 anomalurus
 ariser
 aldamin
@@ -24253,7 +24253,7 @@ anthropophagus
 anorgana
 adderspit
 archvisitor
-autoxeny
+autoxeny 1
 antipacifism 1
 aquifoliaceae
 autonegation

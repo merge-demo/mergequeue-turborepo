@@ -214,7 +214,7 @@ fruitworm
 frondlet
 foliolate
 feverroot
-fluorotype
+fluorotype 1
 firelock
 filibranch
 fermenting
