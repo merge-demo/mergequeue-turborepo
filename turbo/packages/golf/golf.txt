@@ -8127,7 +8127,7 @@ gliff 1
 ghastful
 gleek 1
 gallicization 1
-gauntly
+gauntly 1
 graftages
 gooey 1
 granuloblastic 1
