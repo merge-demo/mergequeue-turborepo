@@ -17968,7 +17968,7 @@ duikerboks 1
 droskies
 dermatomuscular
 deceivably
-deplorers
+deplorers 1
 depauperation
 danish
 domanial

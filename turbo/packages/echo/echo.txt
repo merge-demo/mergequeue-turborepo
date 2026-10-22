@@ -9289,7 +9289,7 @@ euchologia
 eugeosynclinal
 epitaphize
 elytrin 1
-errors
+errors 1
 encephalon
 estramazone
 ecrustaceous
