@@ -4934,7 +4934,7 @@ gastrelcosis
 ginger
 gregarian
 grisliest
-glamoured
+glamoured 1
 germanic
 gammexane
 greatmouthed

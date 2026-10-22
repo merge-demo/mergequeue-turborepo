@@ -2671,7 +2671,7 @@ dortiness
 dejectly
 decontaminators 1
 depressionary
-dvornik
+dvornik 1
 duci
 derails
 decontrolled
