@@ -12029,7 +12029,7 @@ deacon
 disensanity
 dismayedness
 discous
-discontinuity
+discontinuity 1
 doorlike
 delirant
 demantoid
