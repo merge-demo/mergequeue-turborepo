@@ -6114,7 +6114,7 @@ flouted
 fumarole
 fulminations
 fretish
-frondigerous
+frondigerous 1
 frustration
 fantom
 frequented
