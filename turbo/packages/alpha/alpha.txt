@@ -10259,7 +10259,7 @@ anteflexion
 avadana
 alexipyretic
 ambitendent
-auximone
+auximone 1
 aquariist 1
 amebobacter 1
 analgesidae
