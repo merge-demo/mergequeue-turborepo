@@ -2878,7 +2878,7 @@ disyllabizing
 decussoria
 decwriter
 divia
-dashel
+dashel 1
 dedanite 1
 dedecorous
 divide
