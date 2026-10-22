@@ -6962,7 +6962,7 @@ fumant 1
 flannels
 fourposter 1
 fineries
-furnacing
+furnacing 1
 fondly
 fluorspar
 fatagaga
