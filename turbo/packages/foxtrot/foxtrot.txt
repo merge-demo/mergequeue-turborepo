@@ -10288,7 +10288,7 @@ faitour
 ferricyanhydric
 figuriste
 frolicsome
-fishful
+fishful 1
 fratched
 frammit
 flung
