@@ -1129,7 +1129,7 @@ farthing
 foresay
 feverishness
 fractional
-fdubs
+fdubs 1
 fibrillary
 filiates
 farthings 1
@@ -2945,7 +2945,7 @@ fissiparity
 fading 1
 fewterer
 fewtrils
-follower
+follower 1
 fullterm
 francium
 flanned
