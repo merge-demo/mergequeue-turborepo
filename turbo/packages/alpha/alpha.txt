@@ -14837,7 +14837,7 @@ atmas
 astrognosy
 autospray
 abstinent
-apenteric
+apenteric 1
 antimachinery
 anticyclic
 arrondi
