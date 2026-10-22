@@ -23113,7 +23113,7 @@ conspire
 curiality 1
 constablery 1
 carefulness
-cowgate
+cowgate 1
 chkalik
 clysmian
 corymbs
