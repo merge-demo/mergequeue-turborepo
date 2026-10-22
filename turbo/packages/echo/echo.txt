@@ -8984,7 +8984,7 @@ erysipeloid
 endothoracic
 extrinsicate
 exhaustive
-embiotocid
+embiotocid 1
 extinctionist 1
 extraplacental
 electrocardiograph
@@ -10781,7 +10781,7 @@ eluviation
 epitactic
 engrafts
 embracer
-eucrystalline
+eucrystalline 1
 elastance
 eurodollar
 eleanor

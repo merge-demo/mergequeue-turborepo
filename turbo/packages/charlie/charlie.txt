@@ -7698,7 +7698,7 @@ ceroplastics
 cyanocrystallin
 cerosin
 chastises
-cerotin
+cerotin 1
 chorogi
 cerotypes
 confirmedly
