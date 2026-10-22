@@ -25278,7 +25278,7 @@ acylamidobenzene
 attendingly
 afrikanderism
 azymite
-azimuth
+azimuth 1
 acarids
 acceded
 aulete
