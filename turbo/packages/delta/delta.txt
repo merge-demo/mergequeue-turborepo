@@ -7158,7 +7158,7 @@ detain 1
 decadactylous
 destructionist
 dattos
-disafforest
+disafforest 1
 desulfurised
 doomsdays 1
 dehiscence
