@@ -1750,7 +1750,7 @@ eyen
 etacism
 eulogisation
 extendedly
-encryption
+encryption 1
 epanorthoses 1
 encysts
 enswathe
