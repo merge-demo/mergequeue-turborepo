@@ -9522,7 +9522,7 @@ ethnog
 esculin
 expansively
 essences
-eugenesis
+eugenesis 1
 extrasolar
 exempt
 envois
