@@ -3788,7 +3788,7 @@ dermalgia
 dubitative
 dolose
 discreate
-dimwit
+dimwit 1
 defoams 1
 diviningly
 deciduous

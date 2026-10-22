@@ -6909,7 +6909,7 @@ flanders
 fogless
 fruitfully 1
 floriated
-folliculitis
+folliculitis 1
 frt 1
 flub
 ferthumlungur
