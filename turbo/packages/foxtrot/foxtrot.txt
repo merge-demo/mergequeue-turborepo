@@ -2945,7 +2945,7 @@ fissiparity
 fading 1
 fewterer
 fewtrils
-follower
+follower 1
 fullterm
 francium
 flanned
