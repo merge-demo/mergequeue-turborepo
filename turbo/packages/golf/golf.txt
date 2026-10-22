@@ -813,7 +813,7 @@ gelates
 glucosidase
 gastroenteritic 1
 galluptious
-gastrular 1
+gastrular 2
 grazer
 glaceing 1
 gonia
@@ -6151,7 +6151,7 @@ goalpost
 geopony
 gagster 1
 geadephaga
-guinde
+guinde 1
 gliriform 2
 goaltender 1
 grandmontine
