@@ -3877,7 +3877,7 @@ disleal
 diaphemetric
 deyship
 defiled
-demagnification
+demagnification 1
 defendress
 dislikeable 1
 doctorates
