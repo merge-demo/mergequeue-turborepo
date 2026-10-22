@@ -367,7 +367,7 @@ doupion 1
 daimiate
 daimiel
 davallia
-daimyo
+daimyo 1
 dawdlers
 dihydrated
 dreadness

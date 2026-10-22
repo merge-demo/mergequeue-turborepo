@@ -5376,7 +5376,7 @@ flutists
 fleche
 folliculate
 flechettes 1
-flecked
+flecked 1
 forkhead
 fleckering
 franco
