@@ -2515,7 +2515,7 @@ ardella
 autoserum
 austrasian
 acolhuan
-absciss
+absciss 1
 amidate
 arthropleura
 archdissembler 1
