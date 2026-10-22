@@ -8175,7 +8175,7 @@ anachronous
 afterchrome
 algological
 algoman 1
-algometrical
+algometrical 1
 approachabl 1
 algometrically
 alictisal
