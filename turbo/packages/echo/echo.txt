@@ -7159,7 +7159,7 @@ elemis
 entomoid 1
 emboltement
 enwing 1
-ecclesiasticus
+ecclesiasticus 1
 enamines
 eyedness
 elytroptosis
