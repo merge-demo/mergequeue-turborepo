@@ -1587,7 +1587,7 @@ frisca
 fissirostres
 fourer
 faltche
-facially
+facially 1
 farcetta
 fooster
 favored
@@ -5376,7 +5376,7 @@ flutists
 fleche
 folliculate
 flechettes 1
-flecked
+flecked 1
 forkhead
 fleckering
 franco
