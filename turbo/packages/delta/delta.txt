@@ -7698,7 +7698,7 @@ devilishness
 darshana
 displaceable
 deboshment
-devility
+devility 1
 deprotestantize
 daurna
 devilize
