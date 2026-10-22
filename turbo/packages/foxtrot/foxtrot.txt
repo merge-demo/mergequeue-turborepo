@@ -10863,7 +10863,7 @@ functionless
 fontanels
 furoin
 fishpool 1
-forficate
+forficate 1
 flaminian
 fortified
 fumblingly 1
