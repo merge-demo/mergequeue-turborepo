@@ -4912,7 +4912,7 @@ equiv 1
 eveck
 electroosmosis
 eudemons
-endamoebas
+endamoebas 1
 endamoebidae
 equations
 entoils
