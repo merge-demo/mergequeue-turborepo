@@ -15634,7 +15634,7 @@ deponent
 doorstone
 daggers
 dissembler
-departement
+departement 1
 directable
 doorstop 1
 disulfate
