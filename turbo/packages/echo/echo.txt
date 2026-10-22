@@ -4903,7 +4903,7 @@ enterocoelic
 exsanguination 1
 electrodialysis 1
 endable
-escaroles
+escaroles 1
 endamagement
 euthyneura
 endameba
