@@ -8429,7 +8429,7 @@ guinea
 galinsoga
 glottises
 gastaldite
-gadzooks
+gadzooks 1
 gushet 1
 gomphosis
 garancine 1
