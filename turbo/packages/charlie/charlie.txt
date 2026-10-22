@@ -932,7 +932,7 @@ conformant
 consecration
 cols
 caking
-collagist
+collagist 1
 chazzanut
 cakravartin
 calaba
@@ -18883,7 +18883,7 @@ collaborator
 collaborators
 closehauled
 cosigner
-calligrapher
+calligrapher 1
 cheesecake
 consociating
 colladas
