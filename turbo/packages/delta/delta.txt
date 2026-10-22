@@ -5339,7 +5339,7 @@ delim 1
 deschampsia
 dayflies
 denudating
-disordained
+disordained 1
 discanter
 deltidial 1
 diplomatics
