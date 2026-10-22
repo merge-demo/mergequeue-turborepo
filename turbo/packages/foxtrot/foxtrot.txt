@@ -919,7 +919,7 @@ ferine
 fenberry
 fanwise
 fadaise 1
-fleabug
+fleabug 1
 fallouts
 ferrate 2
 farad

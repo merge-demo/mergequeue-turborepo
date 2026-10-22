@@ -1781,7 +1781,7 @@ galliambic 1
 graecizes
 goutiest 2
 gibbsite
-gonadial
+gonadial 1
 genealogizer
 gastroscopist
 galactin
