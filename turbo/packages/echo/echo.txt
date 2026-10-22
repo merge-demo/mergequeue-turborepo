@@ -1074,7 +1074,7 @@ embeddable 1
 echinology 1
 elective 1
 edification
-exfigure 1
+exfigure 2
 equipoised
 evaluates
 envined
