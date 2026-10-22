@@ -11966,7 +11966,7 @@ exarchateship
 enteromesenteric
 epistemophilic
 epitaphist
-excitations 1
+excitations 2
 escapes
 eastbound
 eulogists
