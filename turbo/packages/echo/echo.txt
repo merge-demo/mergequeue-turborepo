@@ -4418,7 +4418,7 @@ essence
 expectorate
 eternized
 electrophysiologic
-excentrical
+excentrical 1
 entertainments
 endenizen
 extispices
