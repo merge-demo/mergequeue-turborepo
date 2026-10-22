@@ -4368,7 +4368,7 @@ fishboats
 fonduk
 flubdubberies
 fishbolts
-ferash
+ferash 1
 flechette
 funt
 floorshifts
