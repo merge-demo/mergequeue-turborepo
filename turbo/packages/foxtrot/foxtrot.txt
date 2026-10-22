@@ -10737,7 +10737,7 @@ frutescence
 fetter
 forbare
 forecount
-forbore
+forbore 1
 frumpishly
 foreyear 1
 fructified
