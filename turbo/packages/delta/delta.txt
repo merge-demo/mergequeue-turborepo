@@ -5277,7 +5277,7 @@ deflect
 diaphoretic
 displaced
 dentiferous
-desegmented
+desegmented 1
 dentifrice 1
 dentil
 discussional
