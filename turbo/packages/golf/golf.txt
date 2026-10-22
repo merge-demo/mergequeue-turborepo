@@ -3450,7 +3450,7 @@ genoa
 gallanting
 gallophobia
 gallous
-gentling
+gentling 1
 griefful
 glutaraldehyde 1
 giaour
