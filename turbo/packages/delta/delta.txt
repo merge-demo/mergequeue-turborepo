@@ -9833,7 +9833,7 @@ diluvium
 digests
 dextrality 2
 dimastigate
-deli
+deli 1
 divergences
 delitescence
 diosphenol
