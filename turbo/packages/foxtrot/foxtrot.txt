@@ -6825,7 +6825,7 @@ foliot
 forthby
 ferritungstite
 fattiest
-frett
+frett 1
 farewell
 flasks
 friability
