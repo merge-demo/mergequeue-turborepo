@@ -8039,7 +8039,7 @@ embezzlements
 enteroscope
 enray 1
 ealdormen 1
-epiphanous 1
+epiphanous 2
 expiator
 epigrammatizer
 earnests
