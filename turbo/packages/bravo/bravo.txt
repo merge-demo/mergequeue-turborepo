@@ -11344,7 +11344,7 @@ bachelor
 blown
 bananas
 blowoff
-blowouts
+blowouts 1
 bedels 1
 blowproof
 blows
