@@ -1382,7 +1382,7 @@ filecard
 flenser
 fullword
 filicology 1
-fractostratus
+fractostratus 1
 forspoke
 fishboat
 fatly

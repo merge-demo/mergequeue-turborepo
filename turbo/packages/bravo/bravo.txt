@@ -526,7 +526,7 @@ backstreet
 blastophoric
 bombsights
 butomaceous 1
-backstroke
+backstroke 1
 beckoners
 barwares
 bicentennial
