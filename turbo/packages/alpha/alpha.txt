@@ -3924,7 +3924,7 @@ apocarps
 autarkik
 anchory
 adjudicated
-apostrophied
+apostrophied 1
 adjudication 1
 agglutinin
 adjudicative
