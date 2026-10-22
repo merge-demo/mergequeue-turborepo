@@ -4489,7 +4489,7 @@ demilitarized
 dentaliidae
 disselboom
 drossiest
-demiliterate
+demiliterate 1
 doublespeak
 deflectional
 despotical
