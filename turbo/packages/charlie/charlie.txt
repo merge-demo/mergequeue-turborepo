@@ -9187,7 +9187,7 @@ chastise
 chastiser
 consulships
 clapperboard
-cheering
+cheering 1
 corf
 chastity
 caract 1
