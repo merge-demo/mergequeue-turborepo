@@ -12367,7 +12367,7 @@ exhalents
 etude 1
 entermise 1
 exhales
-effluvivia
+effluvivia 1
 elihu
 elfins
 erythrocatalysis

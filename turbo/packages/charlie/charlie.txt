@@ -11252,7 +11252,7 @@ carlin
 chlorimeter
 chlorimetric
 chlorinating
-curly
+curly 1
 candela
 chlorination 1
 chlorinator
