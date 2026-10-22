@@ -12670,7 +12670,7 @@ braccia
 boogeymen 1
 bane
 bellical
-buhrs
+buhrs 1
 bec
 bolivares
 booger
