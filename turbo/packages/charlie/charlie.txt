@@ -2292,7 +2292,7 @@ cubitoplantar
 cerebrometer
 cytopahgous
 canakin
-canal
+canal 1
 clerks
 cookeys
 canalatura
