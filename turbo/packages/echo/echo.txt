@@ -644,7 +644,7 @@ ehrman
 etatism
 establishment 1
 edifyingness
-equisufficiency
+equisufficiency 1
 etherialise
 estonians
 engravings
