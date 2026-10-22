@@ -2972,7 +2972,7 @@ ditchside
 deemie
 decrepitate 2
 dorian 1
-denicotine
+denicotine 1
 deoxidizing
 doxologized
 destructiveness
