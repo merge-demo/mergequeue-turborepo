@@ -6175,7 +6175,7 @@ billa
 blenniiform
 barograph
 bulimoid
-betide 1
+betide 2
 bobsled
 barquette
 biota
