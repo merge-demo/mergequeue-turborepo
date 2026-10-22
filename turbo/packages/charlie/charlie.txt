@@ -27877,7 +27877,7 @@ comeatable
 conquians
 crabut
 crabweed
-coreid
+coreid 1
 crabwise
 crabwood
 cracca
