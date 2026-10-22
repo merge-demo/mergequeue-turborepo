@@ -27072,7 +27072,7 @@ counterreckoning
 counterrefer
 congoni
 coccule
-curialities
+curialities 1
 counterreflected
 counterremonstrant
 counterreplied
