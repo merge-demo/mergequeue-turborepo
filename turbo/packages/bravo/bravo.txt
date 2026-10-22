@@ -15224,7 +15224,7 @@ bellowsmaker
 bloater
 breastplough
 blunted
-banishes
+banishes 1
 brushman
 blockheadedness
 bryce
