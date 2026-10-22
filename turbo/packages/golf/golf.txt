@@ -4952,7 +4952,7 @@ geryoniidae
 ghouls 1
 giganticidal
 gauls
-garridge
+garridge 1
 girasoles
 glyptological
 gleetiest 1
