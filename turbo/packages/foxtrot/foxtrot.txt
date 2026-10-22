@@ -9461,7 +9461,7 @@ florets 1
 fibdom
 functionalism
 faveoluli 1
-flambeaus
+flambeaus 1
 frazzling
 folkishness 1
 fentanyl
