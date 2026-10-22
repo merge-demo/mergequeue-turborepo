@@ -7052,7 +7052,7 @@ ginnery
 gentiledom 1
 gercrow
 grottos
-glossorrhaphy
+glossorrhaphy 1
 galletas
 grassmen
 gregorianist
@@ -7834,7 +7834,7 @@ grafship
 gingall
 gynaeocracy
 grovy
-grecomaniac
+grecomaniac 1
 grifters
 gradualistic
 grimes
