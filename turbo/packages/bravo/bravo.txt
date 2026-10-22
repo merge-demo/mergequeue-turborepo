@@ -309,7 +309,7 @@ begrutch
 biolith
 booter
 bakeware
-barbe
+barbe 1
 benzacridine
 backslided
 backbite
