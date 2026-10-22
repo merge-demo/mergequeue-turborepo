@@ -2564,7 +2564,7 @@ finding
 finlike 1
 faddishness 1
 feinting
-fumes
+fumes 1
 forechase
 fogramity
 flongs
