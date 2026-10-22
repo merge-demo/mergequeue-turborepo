@@ -2678,7 +2678,7 @@ antitheft
 angiograph
 archeozoic
 abrasiometer
-africa
+africa 1
 anticyclonic
 anax
 apex
