@@ -424,7 +424,7 @@ dairywomen
 daunder
 descanting
 dayrooms
-deities
+deities 1
 dorsad
 dhourra
 discoursers
