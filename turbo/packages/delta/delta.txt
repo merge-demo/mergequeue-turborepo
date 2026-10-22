@@ -18426,7 +18426,7 @@ dipsticks
 dupion
 disendowing 1
 downrush
-duplexers
+duplexers 1
 duplication
 dogsbody
 defraying
