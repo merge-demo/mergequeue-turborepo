@@ -21652,7 +21652,7 @@ condigness
 condignity
 chromatopathia
 choristic
-condignly
+condignly 1
 comethers
 condylar
 chichis 1
