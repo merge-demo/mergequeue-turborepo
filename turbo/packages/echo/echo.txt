@@ -10828,7 +10828,7 @@ educes 1
 embassiate
 eligibilities 1
 endostomata
-envineyard
+envineyard 1
 elaeoblastic
 enchase
 eisteddfodau
