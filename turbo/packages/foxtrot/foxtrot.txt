@@ -3327,7 +3327,7 @@ frogfoot
 fractionally
 fidgeted
 fractals
-floorers
+floorers 1
 frowsiest
 flotsam
 freeloader
