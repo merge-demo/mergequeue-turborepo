@@ -9192,7 +9192,7 @@ goliard
 glycerate
 grisly
 gyse
-glagolitic
+glagolitic 1
 gravigrade
 grahamite
 grist
@@ -10769,7 +10769,7 @@ glycyl
 gutt
 gerenuk
 genialness 1
-gonadectomy 1
+gonadectomy 2
 gandered
 gignitive
 gamesomely 1
