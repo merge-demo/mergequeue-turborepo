@@ -12728,7 +12728,7 @@ acetylize
 azox
 angelize
 alliterated 1
-angelized
+angelized 1
 angellike
 auf
 almoravid
