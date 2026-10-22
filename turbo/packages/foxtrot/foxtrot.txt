@@ -1587,7 +1587,7 @@ frisca
 fissirostres
 fourer
 faltche
-facially
+facially 1
 farcetta
 fooster
 favored
