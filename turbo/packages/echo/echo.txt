@@ -4763,7 +4763,7 @@ endosporously
 emeried
 epencephalon 1
 emboite
-erosiveness
+erosiveness 1
 enscrolling
 elucubration
 elator 1
@@ -8742,7 +8742,7 @@ evulgation 1
 extempore
 effs
 emmergoose
-evitate 1
+evitate 2
 entombing 1
 embryotrophic
 equivelocity
