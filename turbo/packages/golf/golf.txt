@@ -9192,7 +9192,7 @@ goliard
 glycerate
 grisly
 gyse
-glagolitic
+glagolitic 1
 gravigrade
 grahamite
 grist
