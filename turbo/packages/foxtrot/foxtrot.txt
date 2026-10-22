@@ -1129,7 +1129,7 @@ farthing
 foresay
 feverishness
 fractional
-fdubs
+fdubs 1
 fibrillary
 filiates
 farthings 1
