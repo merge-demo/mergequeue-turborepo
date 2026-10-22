@@ -3396,7 +3396,7 @@ eggplants
 exhibiter
 emphase
 engrains 1
-egoist
+egoist 1
 embargoes
 endocrinologist
 euryphage
