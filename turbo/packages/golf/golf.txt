@@ -8692,7 +8692,7 @@ goldenly
 girn
 greenbug 1
 gastrolater
-grandiloquent
+grandiloquent 1
 glossitis 1
 greenery
 globin
