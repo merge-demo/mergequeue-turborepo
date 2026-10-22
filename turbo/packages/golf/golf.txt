@@ -496,7 +496,7 @@ garaged
 gridirons
 glut
 gauric
-gipsies
+gipsies 1
 galericulate
 germing 1
 gess
