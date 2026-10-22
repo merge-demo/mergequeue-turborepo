@@ -6071,7 +6071,7 @@ genuflections 1
 gastroid
 geissorhiza
 griege
-geitonogamous
+geitonogamous 1
 gnomologist
 gyroma 1
 greit
