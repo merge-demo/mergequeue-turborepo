@@ -12402,7 +12402,7 @@ boonk
 backtack 1
 bombonne
 bombora
-bowlmaker
+bowlmaker 1
 beswarmed
 bombus
 bombardelle

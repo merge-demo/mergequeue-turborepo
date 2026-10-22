@@ -7393,7 +7393,7 @@ goosefoot
 galvanometers
 gnatproof
 geylies
-gotra
+gotra 1
 germarium
 gentianales
 gravecloth
