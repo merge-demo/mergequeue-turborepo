@@ -8217,7 +8217,7 @@ diathermancy
 diadochokinesia
 diaene
 diaeretic
-dartsman
+dartsman 1
 detoxicated
 diageotropic
 diaglyphic
