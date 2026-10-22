@@ -5899,7 +5899,7 @@ epiplastron
 explees
 ecarinate
 execrators
-entwine
+entwine 1
 epitomise
 edeitis 1
 externalise
