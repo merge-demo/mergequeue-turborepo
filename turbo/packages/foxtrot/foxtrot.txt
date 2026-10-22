@@ -10780,7 +10780,7 @@ firedragon
 fibrovasal
 frutex 1
 fruticetum
-fecklessness
+fecklessness 1
 foreinclined
 fileting
 fouth
