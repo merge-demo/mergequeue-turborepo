@@ -6075,7 +6075,7 @@ excruciate
 escutcheon
 encounters
 epilator
-enlightenedly
+enlightenedly 1
 enlistments
 elastomeric
 eranthis
