@@ -2763,7 +2763,7 @@ encrusts
 extrusions 1
 exhilaratory
 evergreenite 1
-equangular
+equangular 1
 explorations 1
 ebracteate
 eurithermophilic
