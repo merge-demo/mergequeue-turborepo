@@ -7409,7 +7409,7 @@ forcipation
 flutelike
 forcipressure
 foy 1
-fossick
+fossick 1
 feminine
 frumpier
 filipendulous
