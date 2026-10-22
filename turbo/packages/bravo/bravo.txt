@@ -4469,7 +4469,7 @@ batule 1
 becloak
 bereavement
 boojum
-bethorning
+bethorning 1
 beclog
 bolshevistic
 billeter
