@@ -3636,7 +3636,7 @@ governorships
 gadgeteers 2
 glyptician
 gnomoniaceae
-gametes
+gametes 1
 gutturotetany
 gory
 ghost
