@@ -9835,7 +9835,7 @@ dextrality 2
 dimastigate
 deli 1
 divergences
-delitescence
+delitescence 1
 diosphenol
 dinmont
 doctrinable
