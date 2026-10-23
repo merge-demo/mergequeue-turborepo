@@ -9721,7 +9721,7 @@ disilicane
 deerdrive
 dilates
 disapprovable
-decolourization
+decolourization 1
 dilatometer
 dilatometrically
 dynamometers 1
