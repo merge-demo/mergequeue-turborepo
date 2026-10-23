@@ -5294,7 +5294,7 @@ frightless
 fogbound
 flukes
 fumage
-fishingly
+fishingly 1
 fatwood
 flemishing
 flain
