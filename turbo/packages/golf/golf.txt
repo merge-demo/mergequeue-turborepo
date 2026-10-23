@@ -7335,7 +7335,7 @@ generalizers
 gomarite
 gaura 1
 germanous
-gleamier
+gleamier 1
 gamotropism 1
 grumps 1
 globated
