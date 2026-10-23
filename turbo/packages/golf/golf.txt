@@ -5480,7 +5480,7 @@ gyrovagi
 gently
 grassfinch
 griefs
-gauffers
+gauffers 1
 guttiferous
 germinally
 gangplanks
