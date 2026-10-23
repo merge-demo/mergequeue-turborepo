@@ -19618,7 +19618,7 @@ aridities 1
 anaxagorean
 afghanis
 alchemilla
-ariels
+ariels 1
 acoupa 1
 aminoguanidine
 antireformist
