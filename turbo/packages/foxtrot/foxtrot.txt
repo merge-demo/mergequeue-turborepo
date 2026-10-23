@@ -9695,7 +9695,7 @@ fissionability
 festinate
 footmanry
 frontrunner 1
-flumerin
+flumerin 1
 faunch
 facework
 fluviograph
