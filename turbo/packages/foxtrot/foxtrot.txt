@@ -2847,7 +2847,7 @@ faeries
 forepreparation
 fetwa
 ferlies
-fetterlock
+fetterlock 1
 foretype
 flatfish
 forewing
