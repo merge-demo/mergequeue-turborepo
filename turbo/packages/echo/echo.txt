@@ -10743,7 +10743,7 @@ enid
 ephemerae
 enclaret
 endorsee 1
-extort
+extort 1
 evangelically
 ephemeran
 extramoralist
