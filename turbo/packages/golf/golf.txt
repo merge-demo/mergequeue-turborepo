@@ -4272,7 +4272,7 @@ gawks
 geodesist
 galeopsis
 gingered
-gaugeable
+gaugeable 1
 gessamine
 guss 1
 garrulity
