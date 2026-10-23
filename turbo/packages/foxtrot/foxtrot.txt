@@ -4345,7 +4345,7 @@ finagle
 feebler 1
 filthless 1
 foraramina
-fylfots
+fylfots 1
 froppish
 footcloths
 fencer
