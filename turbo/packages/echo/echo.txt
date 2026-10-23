@@ -1349,7 +1349,7 @@ empty
 efferents 1
 effervescency
 eights 1
-epode 1
+epode 2
 encloser
 endoskeletal
 essentialness
