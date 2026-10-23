@@ -1043,7 +1043,7 @@ fulfill
 farmeress
 fireling
 flerrying
-farmerly 1
+farmerly 2
 funambulating
 forrel
 fletcherize
@@ -7464,7 +7464,7 @@ faultily
 fergus
 fellatah
 foisting 2
-floppily 2
+floppily 3
 fastly
 fullface
 forebode
