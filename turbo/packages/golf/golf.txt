@@ -10103,7 +10103,7 @@ gasoscope
 goalage 1
 glottid
 gazetteer
-gonystylus
+gonystylus 1
 goldenfleece
 gnomic
 galactoid
