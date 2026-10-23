@@ -1561,7 +1561,7 @@ gasser
 glutelin
 gripe
 ghegish
-gregarinoidea 1
+gregarinoidea 2
 gluelikeness 1
 gout
 gassing
