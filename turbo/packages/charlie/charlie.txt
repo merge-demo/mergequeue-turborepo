@@ -13252,7 +13252,7 @@ chrysarobin
 chancrous
 cavalcades
 cyclometer
-chairmending
+chairmending 1
 choeropsis
 couchers
 clipperman
