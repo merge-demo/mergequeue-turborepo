@@ -7089,7 +7089,7 @@ foundress
 feeder
 ferly 1
 flanging
-footballs
+footballs 1
 flinchers
 footboard
 footboards
@@ -7989,7 +7989,7 @@ fungaceous
 forestal
 funerals
 flutterer
-fundraise
+fundraise 1
 fitment
 fishwives
 faroese
