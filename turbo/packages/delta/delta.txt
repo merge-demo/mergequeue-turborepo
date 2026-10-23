@@ -10919,7 +10919,7 @@ dyingness
 dysacousis
 dodecahydrated
 disacquaint
-dayglows
+dayglows 1
 datolite
 diallist
 dispenses

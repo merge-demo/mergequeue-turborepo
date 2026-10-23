@@ -4410,7 +4410,7 @@ gyroscopic 1
 gleba
 gluttony
 galloman
-gaultherine
+gaultherine 1
 gipon 1
 gaetulan
 gunlayer
