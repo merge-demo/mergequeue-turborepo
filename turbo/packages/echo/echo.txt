@@ -5822,7 +5822,7 @@ engoument 1
 encounter 1
 exanthema
 entification 1
-evade
+evade 1
 emulatory
 etherizing
 efficace
