@@ -5196,7 +5196,7 @@ gammer
 gawkier
 genial 1
 grenade
-goatish
+goatish 1
 gelsemiums
 gusseting 1
 glenohumeral
