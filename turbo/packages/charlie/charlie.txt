@@ -28842,7 +28842,7 @@ commander
 comte
 cretaceously
 creach
-cretacic
+cretacic 1
 cretan
 cripplingly
 cymotrichy
