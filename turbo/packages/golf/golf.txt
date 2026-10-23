@@ -10530,7 +10530,7 @@ griffinhood
 gossipingly
 gudesakes
 gentamicin 1
-gunge
+gunge 1
 germinability
 gunjah 1
 gaucheries 1
