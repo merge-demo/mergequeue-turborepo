@@ -4728,7 +4728,7 @@ glar
 gypsy
 givingness
 globes 1
-grifter
+grifter 1
 garrnishable
 gizz
 gorgoniaceous
