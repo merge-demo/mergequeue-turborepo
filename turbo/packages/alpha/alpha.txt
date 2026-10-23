@@ -3973,7 +3973,7 @@ ambassage
 ameba
 assortment
 affirm
-amelification
+amelification 1
 anecdotical
 adlumidin
 apoplexious
