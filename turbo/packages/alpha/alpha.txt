@@ -10745,7 +10745,7 @@ agrement
 aminoketone
 aminomalonic
 analities
-anisodactyl
+anisodactyl 1
 antiorgastic
 aminopherase 1
 aminopyrine
@@ -23003,7 +23003,7 @@ atropidae
 altigraph
 atropisms
 atropos
-atropous
+atropous 1
 atrorubent
 aeoline
 angiocarditis
