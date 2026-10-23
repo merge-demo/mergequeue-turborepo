@@ -15568,7 +15568,7 @@ deathsmen 1
 donum
 donzel
 discovering
-doubt
+doubt 1
 donzels
 doob 1
 diazobenzene
