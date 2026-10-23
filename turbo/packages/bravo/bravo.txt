@@ -6157,7 +6157,7 @@ buyout
 biobibliographies
 bends
 bendwise
-begay
+begay 1
 balaneutics
 benedicks
 benedicta 1
