@@ -11517,7 +11517,7 @@ flypasts
 firebirds
 forethoughtless 1
 fuscin
-frictional
+frictional 1
 fuscohyaline
 fundamentally 1
 furthered
