@@ -6269,7 +6269,7 @@ futurable
 flumping
 filate
 fitting
-ferriprussiate
+ferriprussiate 1
 fringed
 facadal 1
 floreted
