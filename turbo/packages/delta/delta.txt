@@ -18204,7 +18204,7 @@ donjons
 dispensary 1
 duncish
 dechlog
-duncishness
+duncishness 1
 dermataneuria
 duotriacontane
 decener
