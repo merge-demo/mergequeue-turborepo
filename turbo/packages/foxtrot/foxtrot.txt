@@ -2745,7 +2745,7 @@ festilogies
 feddans
 festinance
 festoonery 1
-familistere
+familistere 1
 fuddlebrained
 forgivingness
 festinated
