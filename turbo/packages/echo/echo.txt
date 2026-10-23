@@ -11195,7 +11195,7 @@ ethiops
 enactment
 eradiated
 evangeliarium
-establishmentarian
+establishmentarian 1
 enalyron
 enforcers
 ethine
