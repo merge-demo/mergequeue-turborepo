@@ -5964,7 +5964,7 @@ floorcloths 1
 fumid
 fledgeling
 folkways
-fawny
+fawny 1
 fluidrachm
 fidia 1
 foliole

@@ -10507,7 +10507,7 @@ diplantidian 1
 drynaria
 diplarthrism
 dilapidator
-decentest
+decentest 1
 depressants
 defoggers
 depectible
