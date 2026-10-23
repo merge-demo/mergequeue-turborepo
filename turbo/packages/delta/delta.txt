@@ -15831,7 +15831,7 @@ dorsocentral
 diminishing
 discipular
 dayglow
-disfrancnise
+disfrancnise 1
 disaccredit
 distillers
 disprovable
