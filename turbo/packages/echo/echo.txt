@@ -9835,7 +9835,7 @@ endoceras
 engin
 eligibleness 1
 enslumber
-esterified
+esterified 1
 eclipsation
 eatage
 esterization 1
