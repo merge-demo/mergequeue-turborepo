@@ -10977,7 +10977,7 @@ cfh
 chiropodous
 chiropompholyx 1
 contraposita
-chiropterygian
+chiropterygian 1
 chiros
 chirotherian
 casern
