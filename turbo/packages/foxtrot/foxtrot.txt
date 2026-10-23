@@ -357,7 +357,7 @@ factions 1
 forfeiture
 flyingly
 fellers 1
-flattering
+flattering 1
 fiercening
 familiary
 featherway
