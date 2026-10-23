@@ -3738,7 +3738,7 @@ grincome
 giantsize
 gaub 2
 gonging
-genoblastic
+genoblastic 1
 gastrocnemian
 gobbets 1
 giarra
