@@ -20359,7 +20359,7 @@ ascogonial
 arsenobismite
 anticlimactic
 apostoli
-acidproof
+acidproof 1
 antilogistically 1
 arsenofuran
 antipsoric
