@@ -9265,7 +9265,7 @@ bipartisanship
 bipartitely
 buffer
 belitter
-bumbee
+bumbee 1
 brookie
 bipaschal
 biped 1
@@ -15519,7 +15519,7 @@ bromo
 beignet
 bihai
 bans 1
-bondless
+bondless 1
 bromizing
 bolshevistically
 brindlish
