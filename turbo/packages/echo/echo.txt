@@ -10088,7 +10088,7 @@ ethenoid
 ethenol
 eyecups
 ebb
-erythrosin
+erythrosin 1
 eidouranion
 enrichers
 etheostominae
