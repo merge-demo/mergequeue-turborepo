@@ -18709,7 +18709,7 @@ accusably
 addlebrain
 autocephality 1
 airmail 1
-acquisitum 1
+acquisitum 2
 astonied
 archbishopric 1
 acroamata
