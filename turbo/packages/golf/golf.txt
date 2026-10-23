@@ -5514,7 +5514,7 @@ gadus 1
 goffle
 gephyrophobia 1
 glycerizine
-grandames
+grandames 1
 giggliest
 goback
 gconvert
@@ -9346,7 +9346,7 @@ galenobismutite
 gobelin
 glaymore 1
 gorgonize
-gelatinized
+gelatinized 1
 gheraoed
 geneserin
 graciosity 1
