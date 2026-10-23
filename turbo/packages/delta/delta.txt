@@ -11571,7 +11571,7 @@ drawnwork
 devillike
 disconsent
 dextrinase
-diphthongised
+diphthongised 1
 dithering
 discerpibility
 disconsolately
@@ -17060,7 +17060,7 @@ dissents 1
 dynametrical
 decompensates
 dressmakery
-dressmakers 1
+dressmakers 2
 dressmaking
 dressoir
 disagreeableness 1

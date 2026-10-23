@@ -17594,7 +17594,7 @@ burgers
 becurtained
 bwanas
 bivalency
-bacteriostatically
+bacteriostatically 1
 baseballs
 burggrave
 burghbote
