@@ -30064,7 +30064,7 @@ commandress
 crouth
 cellule
 conversational
-chattanoogan
+chattanoogan 1
 crowbait
 centuriate
 crowbar
