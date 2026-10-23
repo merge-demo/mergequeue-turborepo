@@ -9312,7 +9312,7 @@ galleasses
 goliad 1
 gunnysacks 1
 ghaznevid
-ghaist 1
+ghaist 2
 gymnosophical 1
 gyrostat
 gimmick
