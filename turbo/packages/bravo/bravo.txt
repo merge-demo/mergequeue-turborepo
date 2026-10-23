@@ -957,7 +957,7 @@ bivinyl 1
 biopsychic
 blackmailers
 bazookaman
-bassalian
+bassalian 1
 barbeled
 bravely
 beprank
