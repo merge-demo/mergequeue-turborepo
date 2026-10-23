@@ -24903,7 +24903,7 @@ abeyancies
 accoladed
 atavisms
 arimasp
-awaiting
+awaiting 1
 awaitlala
 awakable 1
 acoelomate
