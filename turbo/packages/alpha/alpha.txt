@@ -8264,7 +8264,7 @@ alienabilities
 airfields
 acceleratory
 antitheological
-ampelograpny
+ampelograpny 1
 agouties
 acetylacetone
 ancylodactyla
