@@ -14368,7 +14368,7 @@ deign
 deanship
 desoxyribose
 decimestrial
-diuranate
+diuranate 1
 dreadingly
 drawly
 diureide
