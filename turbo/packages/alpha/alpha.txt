@@ -16964,7 +16964,7 @@ antifermentative
 ammonite
 affreight
 aplite
-alfione
+alfione 1
 aplites
 amulet 1
 aplitic
