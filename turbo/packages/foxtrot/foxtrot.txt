@@ -2778,7 +2778,7 @@ fimbriation 1
 frazzles
 furciform
 filace
-fixations
+fixations 1
 frondeurs
 forgoing
 florists
@@ -7464,7 +7464,7 @@ faultily
 fergus
 fellatah
 foisting 2
-floppily 2
+floppily 3
 fastly
 fullface
 forebode
