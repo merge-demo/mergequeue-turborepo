@@ -21693,7 +21693,7 @@ coplotting
 conumerary
 claviculus
 conditionalist
-cassytha
+cassytha 1
 campiness
 conditionality
 conditionalize
@@ -26726,7 +26726,7 @@ costulation
 counteravouch
 counteravouchment
 counterbalanced 1
-crackerjack
+crackerjack 1
 counterbarrage
 checkmark
 cardiotomy
