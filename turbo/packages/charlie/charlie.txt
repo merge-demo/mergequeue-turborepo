@@ -24486,7 +24486,7 @@ cootie
 copps
 coelogyne 1
 candles
-chlorosis
+chlorosis 1
 copa
 carrs
 charta 1
