@@ -26726,7 +26726,7 @@ costulation
 counteravouch
 counteravouchment
 counterbalanced 1
-crackerjack
+crackerjack 1
 counterbarrage
 checkmark
 cardiotomy
