@@ -23884,7 +23884,7 @@ allotters
 apocaffeine
 athetosic
 auganite
-avionic
+avionic 1
 appositively
 alumbrado
 anzac
