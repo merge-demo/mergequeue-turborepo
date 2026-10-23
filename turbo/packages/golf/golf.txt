@@ -3514,7 +3514,7 @@ goth
 gangues
 garmentworker
 ganglions 1
-gymnorhina
+gymnorhina 1
 geomagnetist 2
 grugru
 grinded
