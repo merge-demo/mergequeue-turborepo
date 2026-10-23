@@ -6667,7 +6667,7 @@ guid
 gonid
 gabeler
 gluttonies
-gynecratic
+gynecratic 1
 gynaecologic
 guaiol
 geotactic
