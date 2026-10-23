@@ -4964,7 +4964,7 @@ gigantical 1
 gonocheme
 granulose 1
 grivoise
-garavance
+garavance 1
 glowed
 gelt
 geosynclinal
