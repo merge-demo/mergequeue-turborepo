@@ -11903,7 +11903,7 @@ disarming
 desulphurate
 defeasive
 debonaire 1
-diseasedness
+diseasedness 1
 diseases
 diastemata
 dicetyl
