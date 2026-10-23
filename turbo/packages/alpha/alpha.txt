@@ -3526,7 +3526,7 @@ allesthesia
 assignment
 anhydrization
 arvicole
-ambilateral
+ambilateral 1
 anybodyd
 antthrush
 apargia 1
