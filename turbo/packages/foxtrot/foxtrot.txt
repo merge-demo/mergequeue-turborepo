@@ -2897,7 +2897,7 @@ flagonless
 flyboy
 fingian
 farinha
-furazane 1
+furazane 2
 foreswearing
 frustums
 fencing
@@ -7089,7 +7089,7 @@ foundress
 feeder
 ferly 1
 flanging
-footballs
+footballs 1
 flinchers
 footboard
 footboards
