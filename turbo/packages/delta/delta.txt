@@ -17222,7 +17222,7 @@ decemberish
 drivelingly
 driveller
 devulcanization
-drivenness
+drivenness 1
 drivepipe
 driver 2
 despising
