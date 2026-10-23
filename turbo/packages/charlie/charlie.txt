@@ -10213,7 +10213,7 @@ chiasmic
 cleruchic 1
 chiasms
 chiasmus
-coeline
+coeline 1
 curacao
 chiastoneural
 chiastoneury 1
