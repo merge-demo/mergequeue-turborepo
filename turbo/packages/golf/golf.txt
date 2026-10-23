@@ -1819,7 +1819,7 @@ granat
 gratility
 gaggling
 gouts 1
-gemmiparity
+gemmiparity 1
 gobleted 1
 guinean
 gullah
