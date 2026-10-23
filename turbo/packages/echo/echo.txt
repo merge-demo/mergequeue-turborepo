@@ -5829,7 +5829,7 @@ efficace
 electrovalency 1
 exfoliation
 erlkings
-epicele
+epicele 1
 extrinsic 1
 eluants
 engrafter
