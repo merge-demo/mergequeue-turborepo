@@ -14178,7 +14178,7 @@ equalled
 exsec
 exulcerating 1
 eviction
-exultingly
+exultingly 1
 eisteddfod
 empyromancy
 eebree
