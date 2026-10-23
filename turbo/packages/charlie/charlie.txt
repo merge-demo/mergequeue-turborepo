@@ -27526,7 +27526,7 @@ calving
 coventry
 coroplast
 creaturehood 1
-cover
+cover 1
 containable
 coverages
 coverall
