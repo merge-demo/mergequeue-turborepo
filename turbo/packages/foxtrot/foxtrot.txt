@@ -1043,7 +1043,7 @@ fulfill
 farmeress
 fireling
 flerrying
-farmerly 1
+farmerly 2
 funambulating
 forrel
 fletcherize
