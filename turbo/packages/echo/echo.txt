@@ -12284,7 +12284,7 @@ exsequatur
 exempted
 exemption
 essenhout
-errorless
+errorless 1
 exemptions
 ephemerist
 egalites
