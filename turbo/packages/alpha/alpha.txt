@@ -14768,7 +14768,7 @@ altiscope
 anticaustic
 affreighter
 anticensorial 1
-atomically
+atomically 1
 amusee
 ammonitish
 achor 1

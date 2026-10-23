@@ -13011,7 +13011,7 @@ ephebos
 exterior
 equipollently
 exhaustingly
-expostulatory
+expostulatory 1
 estive
 expeded 2
 expatiated
