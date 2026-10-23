@@ -719,7 +719,7 @@ eosinate 1
 enneaspermous 1
 enabler 1
 economise
-eschaunge
+eschaunge 1
 extremital
 eidolism
 eumenides
