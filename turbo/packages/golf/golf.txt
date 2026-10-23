@@ -1982,7 +1982,7 @@ gimbal
 geology
 geranic
 goring
-grubroot
+grubroot 1
 grusian 1
 gripes
 grudged 2
