@@ -10531,7 +10531,7 @@ firetail 1
 farandman
 frousty
 frouzy
-finch
+finch 1
 flirtiest
 fazendas
 frouziest
