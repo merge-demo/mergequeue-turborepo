@@ -1575,7 +1575,7 @@ egises
 euosmite
 enterokinetic
 eglamore
-eglandular 1
+eglandular 2
 electrosynthetically
 exorcization
 eglantines
