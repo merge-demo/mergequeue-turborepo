@@ -8424,7 +8424,7 @@ goonch
 glossograph
 grenatite
 guaguanche
-gnathopodous
+gnathopodous 1
 guinea
 galinsoga
 glottises
