@@ -3613,7 +3613,7 @@ encyclopaediac
 equivalents
 encanker
 erythric
-enchainement
+enchainement 1
 ensuable
 eyeliner 1
 embracement
