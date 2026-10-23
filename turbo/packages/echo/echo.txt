@@ -13011,7 +13011,7 @@ ephebos
 exterior
 equipollently
 exhaustingly
-expostulatory
+expostulatory 1
 estive
 expeded 2
 expatiated
@@ -13295,7 +13295,7 @@ ectrogeny
 eupterotidae
 estoile
 espousers
-efformation
+efformation 1
 eminences
 ethicalities
 eclipsareon
