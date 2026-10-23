@@ -4274,7 +4274,7 @@ galeopsis
 gingered
 gaugeable
 gessamine
-guss
+guss 1
 garrulity
 gingerline 1
 glomerular
