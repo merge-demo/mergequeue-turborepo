@@ -10956,7 +10956,7 @@ fulness
 fess
 fulnesses
 flanconade 1
-forgetness
+forgetness 1
 floristic
 furfuran
 fusoid
