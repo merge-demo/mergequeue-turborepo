@@ -19529,7 +19529,7 @@ czar
 chlorazide
 capabilities
 columbaria
-columbaries
+columbaries 1
 clours
 columbate
 columbeion
