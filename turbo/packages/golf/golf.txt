@@ -9299,7 +9299,7 @@ gorbellies
 gamodeme
 genuflect
 gangtide
-geronomite 1
+geronomite 2
 galivanting
 glossas 1
 goldurn
