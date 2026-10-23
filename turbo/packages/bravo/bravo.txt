@@ -2027,7 +2027,7 @@ bandcutter
 bhaiachara
 banisher
 bilateralities
-banishing
+banishing 1
 bucolics
 banishment
 banyuls
