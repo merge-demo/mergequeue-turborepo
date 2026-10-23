@@ -19430,7 +19430,7 @@ antillean
 argentometry
 alternize
 aday
-anchoritical
+anchoritical 1
 aeriness 1
 actinians 1
 aahing

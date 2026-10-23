@@ -26008,7 +26008,7 @@ coseasonal
 chelidonian
 cryptomeria
 coseat
-cosecant
+cosecant 1
 conducive
 cosecants
 collude
