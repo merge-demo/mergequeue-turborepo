@@ -6687,7 +6687,7 @@ glomerate 1
 globulimeter
 geyseral
 gurdfish 1
-garneter
+garneter 1
 gruine
 guiltlessness
 goniocraniometry
