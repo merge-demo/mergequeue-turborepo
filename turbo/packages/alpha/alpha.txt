@@ -6445,7 +6445,7 @@ aguilt
 astucious
 antiweed
 aguirage
-aguise
+aguise 1
 antimeter 1
 axanthopsia
 antignostical
@@ -6889,7 +6889,7 @@ androscoggin
 aggrieving
 anatinacea 1
 attestive
-asphyctous
+asphyctous 1
 addie
 anisosepalous
 anorthoclase
