@@ -10148,7 +10148,7 @@ goodmanship
 grazers
 giddyish
 gothite
-gloried
+gloried 1
 glideness
 guardianly 1
 git 1
