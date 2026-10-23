@@ -6847,7 +6847,7 @@ entomologized
 enstatolite 1
 exaugurate
 euryalidan 1
-engle
+engle 1
 extramarginal
 ey
 entomophila
@@ -11276,7 +11276,7 @@ ethicals
 emblemology
 epitonion
 episcoparian 1
-engined 1
+engined 2
 epoche
 excoriator
 earthbred
