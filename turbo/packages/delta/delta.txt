@@ -9382,7 +9382,7 @@ durabilities
 decadic
 discontentive
 dissoluble
-diffusate
+diffusate 1
 dipnoous 1
 deploring
 djinni
