@@ -5470,7 +5470,7 @@ equestrian
 epacrid
 extrasystole
 exospheres
-epimanikion
+epimanikion 1
 eigenstate
 entitledness
 edematous
