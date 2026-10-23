@@ -6814,7 +6814,7 @@ bisects
 bersagliere
 brittles
 bin 1
-boeotia
+boeotia 1
 berserks
 bringer
 barnumize
