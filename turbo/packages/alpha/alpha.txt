@@ -24526,7 +24526,7 @@ armsize
 abhor
 aerophile
 abstrude
-aglaos
+aglaos 1
 athwart 1
 abbreviatable
 aceology
