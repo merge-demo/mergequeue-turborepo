@@ -10566,7 +10566,7 @@ furnaces
 fossilised 1
 featherier 1
 fieldpiece 1
-frowziest
+frowziest 1
 frowzled
 firebases
 fresh 1
