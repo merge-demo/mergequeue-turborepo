@@ -1773,7 +1773,7 @@ evitation
 everliving
 euphonous 1
 effractor
-escalloping
+escalloping 1
 epauleted
 eyesight
 epigenic
