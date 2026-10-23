@@ -13822,7 +13822,7 @@ deflexible
 deerskin
 dialogistically
 demurral
-deader
+deader 1
 dramatis
 dogvane
 decapod
