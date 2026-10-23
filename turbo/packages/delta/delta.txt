@@ -1562,7 +1562,7 @@ dominancy
 defilades
 deadish
 dysgenesic
-dhanush
+dhanush 1
 demand
 disposition 1
 deadlines
