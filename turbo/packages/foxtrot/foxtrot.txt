@@ -1367,7 +1367,7 @@ forespeech
 fidac
 flaggish
 fanning
-fatigue
+fatigue 1
 fossicks
 fatiguesome 1
 frownless
