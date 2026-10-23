@@ -2425,7 +2425,7 @@ freemasons
 fractur
 frizzle
 fingered
-frisco
+frisco 1
 farandola 1
 frazer
 fulgourous
