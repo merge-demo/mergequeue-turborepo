@@ -1883,7 +1883,7 @@ foodless
 fuligula
 foretaster
 fallow
-fewer
+fewer 1
 flintier
 foredoom 1
 footstep
