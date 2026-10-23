@@ -4007,7 +4007,7 @@ countertierce
 choosingly
 carcinomatoid
 carcinomatosis
-cellophane
+cellophane 1
 cholers 1
 cornhusk
 carcinomatous
@@ -10977,7 +10977,7 @@ cfh
 chiropodous
 chiropompholyx 1
 contraposita
-chiropterygian
+chiropterygian 1
 chiros
 chirotherian
 casern
