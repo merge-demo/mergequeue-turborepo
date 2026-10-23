@@ -7876,7 +7876,7 @@ featherworker
 foresee
 fluidized
 faitor 1
-frakturs
+frakturs 1
 foreseeable
 falkland
 futchel
@@ -9393,7 +9393,7 @@ foreteeth
 frary 1
 flouriness
 frolicly
-forecar
+forecar 1
 forlore
 fulsomeness 1
 fenman
@@ -9637,7 +9637,7 @@ foretoken
 faldstool 1
 fringe 1
 fouquieria
-foldouts 1
+foldouts 2
 fourfiusher
 flapmouthed
 fragor
