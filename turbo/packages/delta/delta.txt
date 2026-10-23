@@ -17060,7 +17060,7 @@ dissents 1
 dynametrical
 decompensates
 dressmakery
-dressmakers 1
+dressmakers 2
 dressmaking
 dressoir
 disagreeableness 1
