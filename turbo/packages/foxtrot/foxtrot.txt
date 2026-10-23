@@ -6113,7 +6113,7 @@ fallibilism
 flouted
 fumarole
 fulminations
-fretish
+fretish 1
 frondigerous 1
 frustration
 fantom
