@@ -10193,7 +10193,7 @@ dormitory
 decillionth
 doblons
 diphthong
-defibrination
+defibrination 1
 desobligeant
 decoys
 divisionary

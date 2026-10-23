@@ -1047,7 +1047,7 @@ glycohaemia 1
 groan
 glassfuls 1
 gabardine
-gnarl
+gnarl 1
 geriatrics
 gentles
 gastrectomy
