@@ -5706,7 +5706,7 @@ gloomth
 gradin
 goings 1
 gleeds
-gish
+gish 1
 grimmish
 grapsoid
 gymnoplast 1
