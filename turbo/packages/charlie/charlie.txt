@@ -12825,7 +12825,7 @@ crosshatches
 churchyard
 crawlways
 churchyards
-chuckholes 1
+chuckholes 2
 churching
 crabbedly
 cognisance
