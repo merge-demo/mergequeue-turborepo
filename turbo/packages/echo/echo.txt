@@ -5525,7 +5525,7 @@ evertors
 extraocular
 exoterics 1
 espiritual 1
-enfeebles
+enfeebles 1
 enfeebling
 epigrammatised 1
 edessan
