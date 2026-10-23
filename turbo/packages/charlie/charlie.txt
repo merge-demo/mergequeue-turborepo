@@ -26377,7 +26377,7 @@ coteen
 chainage
 cotele
 curlers
-cotemporanean
+cotemporanean 1
 cotemporaneously 1
 cotemporaries
 clubbable
