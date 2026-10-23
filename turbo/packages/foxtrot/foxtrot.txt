@@ -5859,7 +5859,7 @@ fistfight
 filopodia
 facsimilize
 fates
-flexity 1
+flexity 2
 feague 1
 fangas
 flinted
