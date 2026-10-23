@@ -3323,7 +3323,7 @@ emanativ
 erupt
 enwreath
 enzooty
-emasculates
+emasculates 1
 endoesophagitis 1
 escapingly
 emancipated
