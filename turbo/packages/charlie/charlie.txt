@@ -13232,7 +13232,7 @@ chetverik
 communicants
 cataloguer
 chemiatry
-cycloid
+cycloid 1
 compulsoriness 1
 coalternation
 cycloidean
