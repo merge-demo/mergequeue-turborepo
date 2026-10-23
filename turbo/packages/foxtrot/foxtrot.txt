@@ -7417,7 +7417,7 @@ finger 1
 funditores
 fantasists 1
 fumeuse
-fudges 1
+fudges 2
 fossarian
 filer 1
 fluorinations 1
@@ -7876,7 +7876,7 @@ featherworker
 foresee
 fluidized
 faitor 1
-frakturs
+frakturs 1
 foreseeable
 falkland
 futchel
@@ -9637,7 +9637,7 @@ foretoken
 faldstool 1
 fringe 1
 fouquieria
-foldouts 1
+foldouts 2
 fourfiusher
 flapmouthed
 fragor
