@@ -17617,7 +17617,7 @@ backster
 belduque
 barricadoing
 bobcoat
-burglarproofs
+burglarproofs 1
 burglars
 basote
 breath
