@@ -11187,7 +11187,7 @@ enthronised
 elohism
 enosis
 encomimiums
-encapsuled
+encapsuled 1
 engraving
 endoplastular
 eophyton
