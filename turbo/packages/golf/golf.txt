@@ -3127,7 +3127,7 @@ germanite
 gurgles
 georgics
 glycosyl 1
-goosetongue
+goosetongue 1
 gnast
 galumphing
 garial
