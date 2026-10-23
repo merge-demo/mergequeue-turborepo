@@ -9096,7 +9096,7 @@ barbershop
 burnouts
 boldface 1
 biophagism
-biophysic
+biophysic 1
 burghmaster
 biophysiography
 balibuntal
