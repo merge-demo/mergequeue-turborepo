@@ -17793,7 +17793,7 @@ disarrange
 domicilii 1
 dallying
 duckery
-duckers 1
+duckers 2
 duces
 disfigurements
 deposita
