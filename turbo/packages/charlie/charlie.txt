@@ -5944,7 +5944,7 @@ cathedrated
 cathedratic
 cathedraticum
 cathepsin
-cathern
+cathern 1
 catties
 catheterisation
 cattail
