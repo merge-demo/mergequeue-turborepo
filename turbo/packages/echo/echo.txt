@@ -6847,7 +6847,7 @@ entomologized
 enstatolite 1
 exaugurate
 euryalidan 1
-engle
+engle 1
 extramarginal
 ey
 entomophila
@@ -11613,7 +11613,7 @@ enforcibility 1
 electrolytes
 embordering
 epulosis
-economics
+economics 1
 ew
 exacerbatingly
 expulses
