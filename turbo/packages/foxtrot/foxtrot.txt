@@ -1053,7 +1053,7 @@ formicarian
 frieda
 focalization
 flopper
-felspathose
+felspathose 1
 floricomous
 fringillidae
 foraging 2
