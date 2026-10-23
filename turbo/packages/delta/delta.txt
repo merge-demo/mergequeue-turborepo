@@ -7220,7 +7220,7 @@ disarrest
 diarial 1
 deteriorating
 deterioration
-deuce
+deuce 1
 data
 dear
 dicyan 1
