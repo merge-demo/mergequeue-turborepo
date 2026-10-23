@@ -9265,7 +9265,7 @@ bipartisanship
 bipartitely
 buffer
 belitter
-bumbee
+bumbee 1
 brookie
 bipaschal
 biped 1
