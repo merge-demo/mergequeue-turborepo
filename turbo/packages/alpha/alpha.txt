@@ -25073,7 +25073,7 @@ alacha
 aor 1
 awrong
 acromyodian
-anural
+anural 1
 anesthetizing
 antipapistic
 ax
