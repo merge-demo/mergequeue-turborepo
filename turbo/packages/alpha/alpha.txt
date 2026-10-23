@@ -16840,7 +16840,7 @@ alterate
 aphthartodocetic
 acromonogrammatic
 aphthong
-arkite
+arkite 1
 admittedly
 antisensitizer
 apyrene
