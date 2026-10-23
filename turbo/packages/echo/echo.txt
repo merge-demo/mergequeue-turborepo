@@ -10879,7 +10879,7 @@ embryoplastic
 esthetic
 enchaser 1
 electrothanasia
-euphonically
+euphonically 1
 exemplaric
 epizoism
 exmoor
