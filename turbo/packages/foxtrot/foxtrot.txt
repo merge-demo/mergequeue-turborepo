@@ -9253,7 +9253,7 @@ fairkeeper
 fertil
 flagons
 fordull
-foregoers
+foregoers 1
 fruticeta
 funfairs
 farinaceous
