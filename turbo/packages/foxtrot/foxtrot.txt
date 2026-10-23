@@ -2471,7 +2471,7 @@ favonian
 floripondio
 frecket
 foliously
-flabile
+flabile 1
 foamlike
 fris
 flea

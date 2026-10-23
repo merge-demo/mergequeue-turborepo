@@ -6478,7 +6478,7 @@ evincingly 1
 euphratean 1
 exstruct
 euphonicalness
-entocyst
+entocyst 1
 enlivens
 ectoethmoid
 erubescence
