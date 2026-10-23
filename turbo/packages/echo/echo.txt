@@ -1998,7 +1998,7 @@ eryngo
 ekron
 encephalocele
 educement
-epidemics
+epidemics 1
 execrable
 ektenes
 expeditious
