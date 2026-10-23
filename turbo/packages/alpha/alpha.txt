@@ -24624,7 +24624,7 @@ abnegative
 arab 1
 aeraria
 ascebc
-actinophore
+actinophore 1
 antilactase
 avellane
 alloxuric
