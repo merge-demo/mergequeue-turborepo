@@ -8177,7 +8177,7 @@ glutethimide
 gravid
 gladlier
 gigabit
-gujar
+gujar 1
 gelatinise
 geometricize
 grandfatherless
