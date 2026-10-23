@@ -7876,7 +7876,7 @@ featherworker
 foresee
 fluidized
 faitor 1
-frakturs
+frakturs 1
 foreseeable
 falkland
 futchel
