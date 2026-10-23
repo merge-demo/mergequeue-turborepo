@@ -3798,7 +3798,7 @@ acephalina
 adamantoblastoma
 accomplis 1
 aedility 1
-afer
+afer 1
 adiaphorist
 alamo 1
 airframes
