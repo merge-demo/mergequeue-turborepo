@@ -9474,7 +9474,7 @@ bungfu
 bargehouse
 borak
 befitting
-basichromatic
+basichromatic 1
 bluegums 1
 belabours
 biophotometer
