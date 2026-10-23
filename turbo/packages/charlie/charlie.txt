@@ -6005,7 +6005,7 @@ catholicize
 corotating
 catholicly
 centricipital
-catholicoi
+catholicoi 1
 chawia
 cytomorphological
 catholicon
