@@ -8606,7 +8606,7 @@ feet
 fuzes
 forborn
 fytte
-farstepped
+farstepped 1
 furthering
 frigidness
 frictionproof
