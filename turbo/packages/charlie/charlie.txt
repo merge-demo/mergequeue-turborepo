@@ -4082,7 +4082,7 @@ copromoter
 collops
 cardiectasis
 compileable
-chamoisette
+chamoisette 1
 cardiectomize
 cardielcosis
 cushiest
