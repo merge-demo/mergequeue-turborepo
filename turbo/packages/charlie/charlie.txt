@@ -21621,7 +21621,7 @@ condescending
 capot 1
 condescendingly
 carminophilous
-clinoprism
+clinoprism 1
 carideer
 condescensions
 crownation
