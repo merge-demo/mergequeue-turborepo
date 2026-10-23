@@ -23474,7 +23474,7 @@ contending
 contendress
 cornstalk
 civil
-contends
+contends 1
 carotic
 contenement
 contrapuntal
