@@ -79,7 +79,7 @@ gandum
 gradationately
 galliums
 grayish
-geometdecrne
+geometdecrne 1
 giddap
 glowing
 graticule
