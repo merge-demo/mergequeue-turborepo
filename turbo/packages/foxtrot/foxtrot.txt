@@ -7152,7 +7152,7 @@ formedon
 faecalith
 flites
 forthteller
-footless
+footless 1
 footlights
 fratries
 farer
@@ -10755,7 +10755,7 @@ fuder
 frustrating
 fairing
 fingerless
-frustrative 1
+frustrative 2
 fohn
 feting
 feminized
