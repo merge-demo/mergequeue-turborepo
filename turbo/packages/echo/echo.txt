@@ -11705,7 +11705,7 @@ exurban 1
 elasticizing
 exobiology
 entreat
-examinable
+examinable 1
 esthesioneurosis
 epichil
 educatability
