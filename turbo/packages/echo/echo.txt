@@ -10558,7 +10558,7 @@ ephectic
 eckehart
 exitial
 ethmose 1
-ethrog
+ethrog 1
 ergatandromorphic
 evaders
 erotomania

@@ -3878,7 +3878,7 @@ fanwe
 foregrounds 1
 frequencies 1
 fits
-foretime
+foretime 1
 fortuitously
 fecundating
 fluidness
