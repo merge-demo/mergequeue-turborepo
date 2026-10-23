@@ -10313,7 +10313,7 @@ goralog
 ghettoing 1
 gnathions
 gemologist
-gujarati
+gujarati 1
 gametic 2
 gamodesmic
 gravitates
