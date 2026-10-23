@@ -6656,7 +6656,7 @@ geochronometry
 gibbergunyah
 gymnosperm
 grattage
-gewgawed
+gewgawed 1
 grittle
 gardenize 1
 goosey 1
