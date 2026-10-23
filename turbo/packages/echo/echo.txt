@@ -4762,7 +4762,7 @@ extend
 endosporously
 emeried
 epencephalon 1
-emboite
+emboite 1
 erosiveness 1
 enscrolling
 elucubration
