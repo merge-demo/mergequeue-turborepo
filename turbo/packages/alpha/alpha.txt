@@ -18979,7 +18979,7 @@ awheft
 ambassadorships
 autoallogamy
 alidade
-architecturalist
+architecturalist 1
 architecture
 anticize
 architypographer 1
