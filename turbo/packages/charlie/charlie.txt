@@ -17057,7 +17057,7 @@ comptometer
 censorial
 coachsmith
 caponisation
-cumacea
+cumacea 1
 centrodesmose
 crambambulee
 coevolving
