@@ -13306,7 +13306,7 @@ estella
 encephalodialysis
 evict
 educts 1
-exembryonate
+exembryonate 1
 ecphore
 englishmen
 exorcisms
