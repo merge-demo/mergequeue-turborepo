@@ -6959,7 +6959,7 @@ bagheli 1
 brott 1
 bilihumin
 begohm
-bornean
+bornean 1
 bagoong
 balky
 brainwater
