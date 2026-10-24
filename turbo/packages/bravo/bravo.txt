@@ -2005,7 +2005,7 @@ bangled
 bangles 1
 bloodsucking
 begoniaceous
-bangos
+bangos 1
 blubberman
 bundt
 brezhnev
