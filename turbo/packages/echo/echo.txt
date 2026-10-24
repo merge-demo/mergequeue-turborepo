@@ -1247,7 +1247,7 @@ efficiently
 earthshock
 ethylidyne
 epigrammatise
-eelcake
+eelcake 1
 elsewheres 1
 eumeromorph
 exposition
