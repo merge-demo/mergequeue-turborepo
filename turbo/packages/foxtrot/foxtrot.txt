@@ -397,7 +397,7 @@ factors
 flabellate
 fallaway
 floozie
-fairishly
+fairishly 1
 fifties 1
 fraudulence
 fronde 1
