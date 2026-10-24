@@ -6303,7 +6303,7 @@ ectocardia
 enharmonically
 emodin
 embrocation
-ejusd
+ejusd 1
 enrolls
 eumycetes
 encephalograph
