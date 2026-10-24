@@ -21194,7 +21194,7 @@ amabel
 arginases
 atomicism
 aseptolin
-alighted
+alighted 1
 adipous
 asexualisation
 acicularity
