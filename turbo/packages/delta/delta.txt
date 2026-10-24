@@ -4554,7 +4554,7 @@ disfunction
 dittoing
 dichelyma 1
 demirilievo
-deflea
+deflea 1
 demonastery
 donn
 dinic
