@@ -8846,7 +8846,7 @@ embellish
 euploidy 1
 ecuelling
 epitheloid
-enkernel
+enkernel 1
 ecospecifically
 esthesiometer
 eremuri
