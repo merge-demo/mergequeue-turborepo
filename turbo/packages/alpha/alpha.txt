@@ -19940,7 +19940,7 @@ autohemorrhage
 armors
 aqueous
 apophyge 1
-artistically
+artistically 1
 armouchiquois
 ammine
 armour 1
