@@ -8136,7 +8136,7 @@ deciduae
 diastasimetry 1
 decasualize
 detribalize
-disruptively
+disruptively 1
 deferrization
 diachronic
 dipleurule

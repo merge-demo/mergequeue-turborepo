@@ -10817,7 +10817,7 @@ galactophthysis
 gyokuro
 glimmers
 gargol
-glucocorticord
+glucocorticord 1
 grazings
 gelatinizing
 gyved
