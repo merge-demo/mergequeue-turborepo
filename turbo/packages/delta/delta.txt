@@ -15910,7 +15910,7 @@ deradenoncus
 dossier
 dormition
 devilwood
-dims
+dims 1
 distileries 1
 dossmen 1
 dissemblies
