@@ -11264,7 +11264,7 @@ euphorbine
 evaporating
 eviscerating
 endoarteritis
-esophagodynia
+esophagodynia 1
 excursing
 endue
 epicureanism
@@ -11829,7 +11829,7 @@ elutriate
 erythrophore
 excandescent
 explemental
-erythrochroic
+erythrochroic 1
 endocrinopathy
 effuse 1
 engrossingness

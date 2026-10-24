@@ -14321,7 +14321,7 @@ circumtonsillar
 coelelminth
 cacorrhachis
 contagious
-computate
+computate 1
 cachot
 chapacuran
 cankering
@@ -29673,7 +29673,7 @@ crocuses
 crocuta
 confusing
 circumambagious
-croft
+croft 1
 claybank
 cathars
 cornucopiate
