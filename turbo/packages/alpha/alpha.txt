@@ -14456,7 +14456,7 @@ anthraquinone
 adoptianist
 alden
 antiphysical
-anaglyptical
+anaglyptical 1
 antimetabolite
 abiotrophy
 arsenical
