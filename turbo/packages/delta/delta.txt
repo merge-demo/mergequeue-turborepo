@@ -8081,7 +8081,7 @@ diabetes
 drollery
 diaphyses
 disendower
-debeaker
+debeaker 1
 duodial
 dentex
 developpes
