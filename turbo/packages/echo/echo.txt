@@ -8419,7 +8419,7 @@ endothecate
 entemple
 eradiates
 encephalomere
-epizootology
+epizootology 1
 estensible
 enwrought 1
 epocha
