@@ -7172,7 +7172,7 @@ atellan
 aphizog
 alabastrian
 alabastrine 1
-aortographic
+aortographic 1
 acutish
 ascenders 1
 awane
