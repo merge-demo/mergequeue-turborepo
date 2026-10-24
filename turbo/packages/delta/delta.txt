@@ -3870,7 +3870,7 @@ dearomatize 1
 dogfoot
 dekes
 derivationally 1
-drisheen
+drisheen 1
 douser
 duopoly
 disleal
