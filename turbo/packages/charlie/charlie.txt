@@ -2191,7 +2191,7 @@ camping 1
 campions
 contemporaneously
 calcaneus 1
-cample
+cample 1
 campimetry
 cordyline
 cornamute
