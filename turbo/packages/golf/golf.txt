@@ -5268,7 +5268,7 @@ galiongee
 glycollate
 glomerulose
 geometricist
-generalised
+generalised 1
 glaucus
 grammatology
 granitite
@@ -9747,7 +9747,7 @@ gelatinous 1
 gregarine
 gonochorismus
 giantess 1
-geic
+geic 1
 gaulsh
 gean
 gelidities 1
