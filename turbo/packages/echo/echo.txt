@@ -2373,7 +2373,7 @@ exasperating
 epidotization
 exognathion 1
 etherealisation
-excentricity
+excentricity 1
 electroscopes
 ethnotechnics
 epicaridan
