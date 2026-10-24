@@ -12155,7 +12155,7 @@ disfigurer
 drona
 demarcated
 didactician
-diasper
+diasper 1
 degausser
 despiciency
 demander
