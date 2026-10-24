@@ -11635,7 +11635,7 @@ friendship
 foliaceous
 fetlow
 frizzled
-fineness
+fineness 1
 fructoses
 frized
 feists
