@@ -8472,7 +8472,7 @@ debaucher
 declassify
 dunites
 desiringly
-denigrating
+denigrating 1
 doughman
 draffier
 diamorphine
