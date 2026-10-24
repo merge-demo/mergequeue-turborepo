@@ -11537,7 +11537,7 @@ elenchus
 encodement
 epiblastema 1
 embrittled
-errantness 1
+errantness 2
 ennoy
 evoe
 ensilaging
