@@ -12547,7 +12547,7 @@ anemographically
 anemologic
 anemometrically
 attenuated
-amanuenses
+amanuenses 1
 anemometrographically
 alfilaria
 arteriorrhagia
