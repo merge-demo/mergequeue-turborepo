@@ -3060,7 +3060,7 @@ fibrinose 1
 fibrinosis 1
 fibro
 fantasia
-fiercehearted
+fiercehearted 1
 flintily
 frontispiece 1
 fortifyingly
