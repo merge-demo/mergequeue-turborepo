@@ -5003,7 +5003,7 @@ caruncula
 croupiest
 crusades
 canaanites
-carunculae
+carunculae 1
 caruncular
 cohue
 carunculated
