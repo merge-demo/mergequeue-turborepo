@@ -5730,7 +5730,7 @@ galacaceae
 gangways
 glossophobia
 gadflies
-goofiest
+goofiest 1
 garlicky 1
 gumhar
 garrulously
