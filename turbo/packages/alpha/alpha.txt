@@ -9678,7 +9678,7 @@ aition
 aluminose
 aluminothermy
 acrotarsial
-austerity
+austerity 1
 aluminums
 altruist
 alumish
