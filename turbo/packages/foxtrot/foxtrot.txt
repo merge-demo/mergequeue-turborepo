@@ -4181,7 +4181,7 @@ fanions
 flummadiddle
 federals
 ferfathmur
-felonries 1
+felonries 2
 featherstitch
 fluidglycerate
 foothold
