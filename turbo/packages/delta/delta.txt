@@ -9092,7 +9092,7 @@ didder
 diddy
 diddies
 divinely
-decagons
+decagons 1
 didelphid
 dhoty
 dispunct
