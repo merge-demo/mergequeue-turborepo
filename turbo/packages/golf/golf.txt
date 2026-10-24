@@ -8674,7 +8674,7 @@ gavelling
 grammars
 gearing
 gastraeal
-gnathonical
+gnathonical 1
 gastrodisc
 growler 1
 guaranteing

@@ -9339,7 +9339,7 @@ bullterrier
 bonavist 1
 butler
 bantamweights
-botches
+botches 1
 bipolarity
 bipolarization
 besmear
