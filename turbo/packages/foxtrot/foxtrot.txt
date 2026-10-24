@@ -1281,7 +1281,7 @@ flabbergasts
 fibrillate
 flouring
 fowled
-figurine
+figurine 1
 foresaw
 fleys 3
 fertileness
