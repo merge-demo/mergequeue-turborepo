@@ -20313,7 +20313,7 @@ communicating 1
 communicative 1
 countrie
 cercospora
-combatter
+combatter 1
 command
 communicators
 communionable
