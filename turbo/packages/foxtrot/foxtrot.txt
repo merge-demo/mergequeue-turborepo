@@ -6494,7 +6494,7 @@ farfal
 formative
 flagrate
 fluttering
-forswears
+forswears 1
 feedboard 1
 feminin
 flutterment
