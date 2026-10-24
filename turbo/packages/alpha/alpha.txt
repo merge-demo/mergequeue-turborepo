@@ -18030,7 +18030,7 @@ apers 1
 aprication
 aeric 1
 association
-aprickle
+aprickle 1
 apricot
 ablesse
 adjoin
@@ -25152,7 +25152,7 @@ alums
 advocatrice
 alcoholuria
 aberuncate
-apperil
+apperil 1
 axites
 assault
 anacanthini
