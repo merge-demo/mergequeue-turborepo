@@ -4157,7 +4157,7 @@ doeskin
 drabbish
 delphine 1
 despiritualization
-diarrhetic
+diarrhetic 1
 downthrust
 disentranced
 dinornithine

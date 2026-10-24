@@ -661,7 +661,7 @@ azoted
 alkalisation
 abominations
 abominator
-affably
+affably 1
 attrist
 abominators
 abomine 1
@@ -24594,7 +24594,7 @@ apollyon
 antesunrise
 abrogators
 admixture
-aumaga
+aumaga 1
 ammobium
 ambergrease
 actinophryan
