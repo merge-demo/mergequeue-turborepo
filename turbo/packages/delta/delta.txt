@@ -7400,7 +7400,7 @@ detrect
 detrench
 demigentleman
 dismoded
-diapensia
+diapensia 1
 devisals 1
 daddynut
 daroga
