@@ -4212,7 +4212,7 @@ greenheaded
 gulae
 gunshots
 gleamed
-gratuities 1
+gratuities 2
 gastroscope
 governments 1
 gangliated 2
