@@ -4458,7 +4458,7 @@ gawcey
 gorry
 graveless 2
 grippers 1
-gypsology
+gypsology 1
 gymnotokous 1
 glib
 gulp
