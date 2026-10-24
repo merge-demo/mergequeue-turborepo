@@ -11003,7 +11003,7 @@ dozen 1
 dhoti
 dumfound 1
 dobbers
-divides
+divides 1
 deanthropomorphic
 dialyphyllous
 disambiguating
