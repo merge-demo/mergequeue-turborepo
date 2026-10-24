@@ -308,7 +308,7 @@ dourine 1
 disperses
 dalasi
 daybooks 1
-deckman
+deckman 1
 desand
 desquamative
 dutifully
