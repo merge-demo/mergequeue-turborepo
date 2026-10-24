@@ -6525,7 +6525,7 @@ firming
 filiated
 fluorhydric
 frabjous
-fortuitist 1
+fortuitist 2
 flyboats
 falconiform
 franseria
