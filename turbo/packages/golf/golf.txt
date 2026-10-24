@@ -4958,7 +4958,7 @@ glyptological
 gleetiest 1
 goofed
 ganders
-gallingness
+gallingness 1
 grovels
 gigantical 1
 gonocheme
