@@ -1203,7 +1203,7 @@ eatche
 ephesians
 educatress 1
 emetical
-extranuclear
+extranuclear 1
 embroscopic
 ennuyee
 extermine
