@@ -10065,7 +10065,7 @@ bivoluminous
 bivouaced 1
 bivouacked
 balaphon
-bodes
+bodes 1
 byway
 baining
 basely 1
