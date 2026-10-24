@@ -7704,7 +7704,7 @@ balanidae
 bilabiate
 bezan
 biplace
-bezanty
+bezanty 1
 brassiness
 bargain
 bezants
