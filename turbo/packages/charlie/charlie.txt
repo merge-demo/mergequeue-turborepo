@@ -20555,7 +20555,7 @@ crumpling
 clarkia
 chordotomy
 cipherable
-costerdom
+costerdom 1
 colorability
 clayware
 copepodan
