@@ -21654,7 +21654,7 @@ chromatopathia
 choristic
 condignly 1
 comethers
-condylar
+condylar 1
 chichis 1
 curuminaca
 circumspectly
