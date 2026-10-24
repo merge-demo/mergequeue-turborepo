@@ -163,7 +163,7 @@ graniteware
 gasthauser
 ghettoized
 galactosyl
-galvanosurgery
+galvanosurgery 1
 gybe 1
 glacialize
 guesthouse
