@@ -11264,7 +11264,7 @@ euphorbine
 evaporating
 eviscerating
 endoarteritis
-esophagodynia
+esophagodynia 1
 excursing
 endue
 epicureanism
