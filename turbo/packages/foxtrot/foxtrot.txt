@@ -1765,7 +1765,7 @@ fossildom 1
 fibropsammoma
 fantasmagoric
 famatinite
-featheredged
+featheredged 1
 fanzines
 forejudgment 1
 feldspathoidal 1
