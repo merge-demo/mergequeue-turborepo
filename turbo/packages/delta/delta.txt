@@ -13006,7 +13006,7 @@ disoxygenation
 dioscuri
 debacchate
 distater 1
-dispand
+dispand 1
 descaling
 diphthongized
 dispar
