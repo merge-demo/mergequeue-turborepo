@@ -8250,7 +8250,7 @@ chalybeate
 chalybes
 chalice
 conservatively
-chancelry
+chancelry 1
 chaliced
 chalicosis
 chalicotheriid
