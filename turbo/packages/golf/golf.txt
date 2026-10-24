@@ -7649,7 +7649,7 @@ gardeny
 grader
 gingerous
 grouseward 1
-glovey
+glovey 1
 gradient
 galey
 greybeard
