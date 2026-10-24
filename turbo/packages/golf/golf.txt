@@ -644,7 +644,7 @@ gonapophysis 1
 gonangial
 gabionage
 gemmaceous
-gerodontia
+gerodontia 1
 gasometry
 globous
 gestatorial
