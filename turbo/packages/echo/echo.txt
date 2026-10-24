@@ -11141,7 +11141,7 @@ ensiform 1
 extractibility 1
 ectatic
 evacuator 1
-evaded
+evaded 1
 earthlier
 evades
 evadingly
