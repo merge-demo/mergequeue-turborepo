@@ -1060,7 +1060,7 @@ foraging 2
 fastigiately
 faro
 fluoridization
-floriken
+floriken 1
 floter
 foredestining
 furriery
