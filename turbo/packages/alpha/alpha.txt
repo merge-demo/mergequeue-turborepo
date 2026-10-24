@@ -23440,7 +23440,7 @@ auftakt
 apomict
 augend 1
 adversity
-antiantidote
+antiantidote 1
 aquiform
 aivr
 antihygienically
