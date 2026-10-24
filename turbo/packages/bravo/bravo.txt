@@ -8504,7 +8504,7 @@ bullshot
 bilder
 barostat
 blighted
-bloomed
+bloomed 1
 bilection 1
 bileve
 bilewhit
