@@ -241,7 +241,7 @@ duckweeds
 daggling
 daghesh
 deoxyribonuclease
-duplicative
+duplicative 1
 dappling
 denitrate
 deincrustant
