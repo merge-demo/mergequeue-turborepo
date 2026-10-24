@@ -12629,7 +12629,7 @@ disjected
 discourage
 duntle
 daredevils
-drate
+drate 1
 delegant
 dertrotheca 1
 defaultant

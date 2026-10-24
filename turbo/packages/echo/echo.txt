@@ -9254,7 +9254,7 @@ errable
 ejido 1
 errancies
 endospermous
-entrapments
+entrapments 1
 electra
 exonerative
 exarch
