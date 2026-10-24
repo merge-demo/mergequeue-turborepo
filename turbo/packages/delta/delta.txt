@@ -14921,7 +14921,7 @@ dix 1
 disparagements
 demonising
 dichromat
-disponing
+disponing 1
 digammas
 dominates
 descrying
