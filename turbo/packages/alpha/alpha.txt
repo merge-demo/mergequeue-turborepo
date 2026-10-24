@@ -19601,7 +19601,7 @@ antitheses
 arybballi
 archichlamydeous
 adhesions
-astringing
+astringing 1
 apostolical
 ambages
 arider
