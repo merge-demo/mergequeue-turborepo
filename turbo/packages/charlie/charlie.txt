@@ -26916,7 +26916,7 @@ counterlatration
 counterlaw
 chauffers
 counterlegislation
-counterly
+counterly 1
 creeshie
 counterlight
 conceivably
