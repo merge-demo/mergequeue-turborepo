@@ -13607,7 +13607,7 @@ embrued
 extance
 elkanah
 eisegesis
-edriophthalmian
+edriophthalmian 1
 encyclopaedically
 electropyrometer
 expulsory
