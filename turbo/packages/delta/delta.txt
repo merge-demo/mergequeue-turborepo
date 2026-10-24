@@ -7419,7 +7419,7 @@ doggereled
 doebird
 detrude
 darbha
-diplegic
+diplegic 1
 defrosts
 dich
 dermoplasty 1
@@ -11569,7 +11569,7 @@ denotable
 dollarfish
 drawnwork
 devillike
-disconsent
+disconsent 1
 dextrinase
 diphthongised 1
 dithering
