@@ -650,7 +650,7 @@ abomasum
 apadana
 abomasus 1
 alkylize
-abominably
+abominably 1
 abominate
 avifaunal
 aphanite
