@@ -5056,7 +5056,7 @@ goldeneye
 greesagh
 gte
 ginnel
-gourmander
+gourmander 1
 galoping
 geyan
 glycocholic
