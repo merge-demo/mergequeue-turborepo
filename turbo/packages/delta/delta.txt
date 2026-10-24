@@ -14287,7 +14287,7 @@ dyspnoeic
 diffiding 1
 deporter
 depravers
-deisms
+deisms 1
 downcrying
 defoliator
 dodoes
