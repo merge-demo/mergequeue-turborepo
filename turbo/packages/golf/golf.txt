@@ -2094,7 +2094,7 @@ guilefully 1
 gorefish
 gawgaw
 graminological
-gozzard
+gozzard 1
 gerberia
 greatening
 guerillaism
