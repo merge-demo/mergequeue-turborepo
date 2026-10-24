@@ -11513,7 +11513,7 @@ bundlers 1
 bandsmen
 basophilia
 begemming 1
-baccalaurean
+baccalaurean 1
 bluewoods
 blicky
 bialveolar
