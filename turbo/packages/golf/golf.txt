@@ -8295,7 +8295,7 @@ gentlewoman
 gau
 geographic 1
 gravicembalo
-glucuronidase
+glucuronidase 1
 giansar 1
 glaciated
 ghostwritten
