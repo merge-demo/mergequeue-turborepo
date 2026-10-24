@@ -4443,7 +4443,7 @@ defence
 deceptions
 demicuirass
 doxologies
-defused
+defused 1
 drinkableness
 drumloidal
 destruction
