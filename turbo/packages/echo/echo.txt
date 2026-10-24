@@ -2480,7 +2480,7 @@ enstatite
 electrogasdynamics
 electroharmonic
 electrohemostasis
-endearing
+endearing 1
 ebony
 epicleses
 endexines
