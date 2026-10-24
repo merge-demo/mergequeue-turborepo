@@ -29198,7 +29198,7 @@ chromatospheric
 criosphinxes
 cryostat
 cryosurgeon
-cryosurgery
+cryosurgery 1
 cryptogamia
 cryosurgical
 crenelating
