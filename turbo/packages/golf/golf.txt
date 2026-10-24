@@ -2091,7 +2091,7 @@ gamblers
 gyrocompasses
 glottology
 guilefully 1
-gorefish
+gorefish 1
 gawgaw
 graminological
 gozzard 1
