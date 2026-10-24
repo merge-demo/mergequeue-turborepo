@@ -16669,7 +16669,7 @@ dabblers 1
 deeny
 drains
 drageoir
-deponer
+deponer 1
 dedifferentiate
 draintile
 debouchure
