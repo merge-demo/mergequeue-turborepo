@@ -1323,7 +1323,7 @@ catalects
 caliburn
 choledochitis
 crewless
-cravatted
+cravatted 1
 crab 1
 costliest
 contrist
