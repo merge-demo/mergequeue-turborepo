@@ -438,7 +438,7 @@ gasometer
 galcha
 gipsire
 grandevous
-growl
+growl 1
 garnishees 1
 grapeys
 goober
