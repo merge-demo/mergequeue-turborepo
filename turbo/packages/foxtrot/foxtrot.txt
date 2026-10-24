@@ -11331,7 +11331,7 @@ frontozygomatic 1
 flathat
 faceted
 fusulina
-foldless
+foldless 1
 fps
 foundational 1
 funebrious
