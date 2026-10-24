@@ -7220,7 +7220,7 @@ gelatinisation
 gimcracks 1
 goriness
 galvanometrically 1
-germanocentric
+germanocentric 1
 gangion
 governorate
 gourmands
