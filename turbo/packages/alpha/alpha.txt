@@ -1648,7 +1648,7 @@ accrual
 actualities
 accrued
 accruement
-accruer
+accruer 1
 anatta
 adiabatic 1
 accruing
@@ -24594,7 +24594,7 @@ apollyon
 antesunrise
 abrogators
 admixture
-aumaga
+aumaga 1
 ammobium
 ambergrease
 actinophryan
