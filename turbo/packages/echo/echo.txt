@@ -3479,7 +3479,7 @@ exceptionableness
 enamels
 ebionism
 eversporting
-evocable
+evocable 1
 expiative 1
 eleutherosepalous
 ennuis
