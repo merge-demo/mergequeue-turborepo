@@ -10248,7 +10248,7 @@ aiguilletted
 admortization
 araban
 antics
-asiarchate
+asiarchate 1
 amebicide
 antiface
 attorneys
