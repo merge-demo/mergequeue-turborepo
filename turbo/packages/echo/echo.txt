@@ -11829,7 +11829,7 @@ elutriate
 erythrophore
 excandescent
 explemental
-erythrochroic
+erythrochroic 1
 endocrinopathy
 effuse 1
 engrossingness
