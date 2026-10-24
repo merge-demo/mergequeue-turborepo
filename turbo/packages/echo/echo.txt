@@ -7788,7 +7788,7 @@ epigastrocele
 epigee
 escapism
 endaze
-excyst 1
+excyst 2
 electromagnetize
 extrudable
 ethnobotany 1
