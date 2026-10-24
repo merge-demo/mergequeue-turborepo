@@ -8781,7 +8781,7 @@ eviller
 enterobiliary
 etcetera 1
 enoplan
-exemplificative
+exemplificative 1
 extrabuccal
 energises
 electrocardiograms
