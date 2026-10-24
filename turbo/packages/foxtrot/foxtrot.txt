@@ -10954,7 +10954,7 @@ francs
 fulminurate
 fulness
 fess
-fulnesses
+fulnesses 1
 flanconade 1
 forgetness 1
 floristic
