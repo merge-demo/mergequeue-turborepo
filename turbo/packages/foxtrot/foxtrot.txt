@@ -9175,7 +9175,7 @@ fragments
 foresighted
 fishbed
 foraneous 1
-facts
+facts 1
 frayedness
 flagmaking
 flashier
