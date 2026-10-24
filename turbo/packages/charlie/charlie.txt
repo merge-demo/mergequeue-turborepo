@@ -27469,7 +27469,7 @@ coaeval
 cuprous
 couxia
 citrous
-chronicity
+chronicity 1
 covalency
 carpoptosis
 coriander
