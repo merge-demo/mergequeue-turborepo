@@ -9088,7 +9088,7 @@ eschalots
 eyrer
 equitangential
 expulse
-endoscopic
+endoscopic 1
 equipollent
 epicolic
 euryalae
