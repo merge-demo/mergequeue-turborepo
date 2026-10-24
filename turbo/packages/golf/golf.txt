@@ -10379,7 +10379,7 @@ garbanzos
 giambeux 1
 gonyalgia
 gunda
-gynaecology
+gynaecology 1
 glycyls
 gutta
 gullies
