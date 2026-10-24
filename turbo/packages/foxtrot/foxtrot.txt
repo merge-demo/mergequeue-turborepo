@@ -192,7 +192,7 @@ ferns
 factotum
 felsitic
 ferrihemoglobin
-furloughing
+furloughing 1
 feower
 furcate
 frasier
@@ -8822,7 +8822,7 @@ furbelow
 flambage
 froghopper
 faulter
-foujdarry
+foujdarry 1
 flushes
 fibrousness
 foul
