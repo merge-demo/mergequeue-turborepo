@@ -7954,7 +7954,7 @@ grandiosity
 gudok
 gothonic
 ganglionectomy
-globing 1
+globing 2
 glottologies
 goldenmouthed
 gasifiable
