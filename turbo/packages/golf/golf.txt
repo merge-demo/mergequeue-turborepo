@@ -4639,7 +4639,7 @@ guaranteeship 1
 glutin
 germicidal
 girts
-gettered
+gettered 1
 gynomonecious
 gise
 granges
