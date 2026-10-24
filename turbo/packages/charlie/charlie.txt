@@ -19378,7 +19378,7 @@ chymifying
 colorful
 colorfulness
 conal
-cognisably
+cognisably 1
 contestability
 colorific
 colorifics
