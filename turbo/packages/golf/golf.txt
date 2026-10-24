@@ -3048,7 +3048,7 @@ gemmipares 1
 glyptotheca
 gametogenous
 gidgee
-garnetz
+garnetz 1
 gossipper
 giant
 girons
