@@ -21761,7 +21761,7 @@ assentive
 antithet
 antiberiberin
 antiphonic
-assents
+assents 1
 asseour 1
 assert
 asserta
