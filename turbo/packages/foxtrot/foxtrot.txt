@@ -1868,7 +1868,7 @@ fiances
 flabellation
 frutify 1
 fatuously
-fec
+fec 1
 fight
 feelingly 1
 fecundate
