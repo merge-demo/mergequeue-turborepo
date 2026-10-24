@@ -654,7 +654,7 @@ evilness
 exprobration
 extimulate
 enshrouding
-electrophysiology
+electrophysiology 1
 emaculate
 estheses
 eteocreton
@@ -13519,7 +13519,7 @@ epigrapher
 elinor
 equipollence
 establishing
-examine
+examine 1
 erotology
 exteriorization
 endostoma
