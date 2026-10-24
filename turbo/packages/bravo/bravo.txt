@@ -6439,7 +6439,7 @@ bastioned
 benzoylated
 becuna
 buccate
-benzene
+benzene 1
 benzoylation
 benzoinated 2
 borize
