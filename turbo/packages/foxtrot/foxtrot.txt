@@ -5233,7 +5233,7 @@ fratcheous
 fluctuosity
 foetiferous 1
 fylker
-forecastingly
+forecastingly 1
 farandole
 fidfad
 factum
