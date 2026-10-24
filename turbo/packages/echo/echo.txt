@@ -2297,7 +2297,7 @@ exterminations
 eobionts
 ensepulchre
 evangelicalness
-electrizable
+electrizable 1
 electrization 1
 expressionist
 enterohepatitis
