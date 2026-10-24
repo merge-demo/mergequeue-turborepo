@@ -8289,7 +8289,7 @@ gazelle
 gilenyer
 gregos
 greenslade
-gracefulness 1
+gracefulness 2
 greyer
 gentlewoman
 gau
