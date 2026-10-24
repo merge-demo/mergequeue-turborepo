@@ -777,7 +777,7 @@ fetidness
 fezzan
 fibroangioma
 frier
-ferv 1
+ferv 2
 frequently
 forelouper 1
 fibreboard
@@ -6923,7 +6923,7 @@ flaky
 fostership
 flusherman
 fee
-follily
+follily 1
 feeblemindedness 1
 fungivorous
 fadeless
