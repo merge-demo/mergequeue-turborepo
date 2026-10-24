@@ -12762,7 +12762,7 @@ euhemeristically 1
 eucarpous
 eremochaetous
 emperess
-entertissue
+entertissue 1
 embolomycotic
 evictee
 exorcism
