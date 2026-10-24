@@ -11039,7 +11039,7 @@ deadpan
 diakinesis
 decarbonylate
 disappearer
-diamagnetically
+diamagnetically 1
 deedy
 denumerability 1
 decernment 1
