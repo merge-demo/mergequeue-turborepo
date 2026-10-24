@@ -16502,7 +16502,7 @@ coronale
 compensations
 chondrolipoma
 cloisonless 1
-chancering
+chancering 1
 clammish
 cloisonn
 cloisonne
