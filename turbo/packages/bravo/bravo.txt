@@ -12984,7 +12984,7 @@ bookmate 1
 balawu
 buttermilk
 banausic
-bipennated
+bipennated 1
 bombycillidae 1
 bandersnatch
 briseis
