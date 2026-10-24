@@ -2128,7 +2128,7 @@ decaffeinated
 decapitation
 deterrable
 decapitations
-disassemble
+disassemble 1
 distresses
 downfall
 decalcomanias
