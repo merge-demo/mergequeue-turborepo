@@ -24774,7 +24774,7 @@ cueman
 candlewick
 cops
 catocathartic
-copses
+copses 1
 classicized
 copsewood
 circs
