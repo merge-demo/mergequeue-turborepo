@@ -4549,7 +4549,7 @@ globulose
 girlishly 1
 glink
 giornata
-guarantees
+guarantees 1
 gallingly 1
 gufought
 galbulae
