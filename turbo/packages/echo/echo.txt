@@ -10774,7 +10774,7 @@ edgemaker
 endogenicity
 elephantous 1
 elaborating
-emoting
+emoting 1
 euskera
 esterases
 eluviation
