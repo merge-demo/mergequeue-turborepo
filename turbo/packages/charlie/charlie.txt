@@ -8324,7 +8324,7 @@ coronograph
 chalot
 chaloupe
 cowpunch
-chaluka
+chaluka 1
 catacrotic
 chalumeau
 carnalism

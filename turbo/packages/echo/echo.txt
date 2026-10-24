@@ -653,7 +653,7 @@ ennoble 1
 evilness
 exprobration
 extimulate
-enshrouding
+enshrouding 1
 electrophysiology 1
 emaculate
 estheses
