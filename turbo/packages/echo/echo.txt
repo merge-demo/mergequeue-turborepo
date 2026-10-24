@@ -1203,7 +1203,7 @@ eatche
 ephesians
 educatress 1
 emetical
-extranuclear
+extranuclear 1
 embroscopic
 ennuyee
 extermine
@@ -13607,7 +13607,7 @@ embrued
 extance
 elkanah
 eisegesis
-edriophthalmian
+edriophthalmian 1
 encyclopaedically
 electropyrometer
 expulsory
