@@ -10999,7 +10999,7 @@ dieselized
 dysarthria
 degusts
 disclosable
-dozen
+dozen 1
 dhoti
 dumfound 1
 dobbers
