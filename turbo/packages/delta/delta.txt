@@ -7419,7 +7419,7 @@ doggereled
 doebird
 detrude
 darbha
-diplegic
+diplegic 1
 defrosts
 dich
 dermoplasty 1
