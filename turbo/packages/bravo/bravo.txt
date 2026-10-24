@@ -7090,7 +7090,7 @@ billiardist
 besouth
 blaming
 bespangle
-bespangling
+bespangling 1
 bespate
 bewraps
 brickbatted
