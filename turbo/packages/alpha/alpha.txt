@@ -3838,7 +3838,7 @@ adios
 adipate 1
 amphitruo
 aequorin
-alexiterical
+alexiterical 1
 amphithuron
 acetabuliform
 adipinic
