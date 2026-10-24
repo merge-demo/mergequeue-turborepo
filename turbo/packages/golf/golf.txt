@@ -515,7 +515,7 @@ gruffing
 graff
 galivants
 geneticism 1
-galloped
+galloped 1
 growthful
 guruship
 grooty
