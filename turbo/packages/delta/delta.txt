@@ -11569,7 +11569,7 @@ denotable
 dollarfish
 drawnwork
 devillike
-disconsent
+disconsent 1
 dextrinase
 diphthongised 1
 dithering
