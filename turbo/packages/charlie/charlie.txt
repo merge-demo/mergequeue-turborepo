@@ -11054,7 +11054,7 @@ cothish
 circuminsular
 chinoiserie
 compander
-colloquies
+colloquies 1
 chitarroni
 clitoris
 cyclicly
