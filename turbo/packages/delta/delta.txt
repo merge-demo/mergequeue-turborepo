@@ -1675,7 +1675,7 @@ dephysicalization 1
 dehumanisation 1
 delineator 1
 debonnaire
-dismissive
+dismissive 1
 dears
 dottard
 dipleiodoscope
