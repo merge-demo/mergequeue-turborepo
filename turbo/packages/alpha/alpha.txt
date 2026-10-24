@@ -2552,7 +2552,7 @@ acontia 1
 aircraftman
 acroterteria
 addda 1
-assumingness
+assumingness 1
 acopyrine
 acopon
 atrabiliar
