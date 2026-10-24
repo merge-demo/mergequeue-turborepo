@@ -5655,7 +5655,7 @@ ethnarch
 ellipsonic
 enfranchisements
 epididymis
-elaeagnaceous
+elaeagnaceous 1
 extinct
 exsertion
 essayist
