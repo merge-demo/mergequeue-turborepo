@@ -8554,7 +8554,7 @@ exclusively
 epichoristic 1
 equative
 electre
-echini
+echini 1
 eburneous
 etherial
 elucid
