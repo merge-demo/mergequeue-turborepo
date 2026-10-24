@@ -9906,7 +9906,7 @@ genevese
 girderless
 glebes
 geoparallelotropic 1
-gateway
+gateway 1
 grisailles 1
 granddaddies
 guaranties
