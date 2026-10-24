@@ -7633,7 +7633,7 @@ gunsmithery
 gorgonlike 1
 girders
 ghostwriting
-gool
+gool 1
 gnathometer 1
 guachamaca
 garancin
