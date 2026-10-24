@@ -22438,7 +22438,7 @@ anthropomorphize
 aliments
 astrometeorology
 apprend
-asterina
+asterina 1
 amphiscians
 agric 1
 animalising
