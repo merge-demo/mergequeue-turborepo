@@ -3318,7 +3318,7 @@ grooverhead
 glossologies 1
 gerundial
 gentlewomanlike
-germier
+germier 1
 givenness
 goatsfoot 1
 gaetulian 1
