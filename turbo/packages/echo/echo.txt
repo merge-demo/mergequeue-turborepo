@@ -8752,7 +8752,7 @@ expatiator
 equivocal
 exuperable 1
 extermination
-erk
+erk 1
 encystment
 eulogising
 emphractic
