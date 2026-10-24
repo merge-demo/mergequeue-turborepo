@@ -1946,7 +1946,7 @@ curdling
 colletic 1
 camenes 1
 coveters
-confeder
+confeder 1
 crotalid
 checkered
 capitols
