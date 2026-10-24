@@ -4777,7 +4777,7 @@ gladhearted
 greeted
 guardhouse
 geometroidea
-giggish
+giggish 1
 glaciology
 guideway 1
 glissandos
