@@ -553,7 +553,7 @@ fatstock
 falters 1
 fronts
 formamidoxime
-foresays
+foresays 1
 flosculose
 freshes
 fainest
