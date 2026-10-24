@@ -4078,7 +4078,7 @@ delinter
 deliquiate 1
 deliquium
 demisolde
-despot
+despot 1
 demagnetised
 dianthuses
 debye
