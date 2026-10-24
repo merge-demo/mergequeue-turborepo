@@ -654,7 +654,7 @@ evilness
 exprobration
 extimulate
 enshrouding
-electrophysiology
+electrophysiology 1
 emaculate
 estheses
 eteocreton
@@ -11677,7 +11677,7 @@ effluence
 electromer
 epiphragmal
 epileptologist
-ephraimitish
+ephraimitish 1
 epistemologically
 erythrolysin 1
 earscrew
