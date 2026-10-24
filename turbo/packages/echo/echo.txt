@@ -9861,7 +9861,7 @@ envelopments
 enragedly
 exuberation
 exhibitionistic
-expedite
+expedite 1
 episodial
 expletiveness
 eupepsy
