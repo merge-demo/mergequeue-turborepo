@@ -12994,7 +12994,7 @@ emotion
 entice 1
 expectorant
 espiglerie
-expectorated
+expectorated 1
 echinococcus 1
 enneahedria
 exculpate
