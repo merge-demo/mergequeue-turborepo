@@ -10990,7 +10990,7 @@ acquainted
 arched
 amoebaeum
 athogen
-amoebalike 2
+amoebalike 3
 amoebas
 asmolder
 aggregatory
