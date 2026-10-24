@@ -8400,7 +8400,7 @@ chamm
 chamma
 chammy
 citellus
-contemperature
+contemperature 1
 crookeder
 checkerboarded
 confiscator
