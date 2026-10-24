@@ -5501,7 +5501,7 @@ enervate
 embalmers 1
 enervating
 encake
-electroscope
+electroscope 1
 elritch
 ectocarpic
 excitate
