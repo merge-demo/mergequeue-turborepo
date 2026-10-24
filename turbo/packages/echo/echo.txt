@@ -10554,7 +10554,7 @@ excursionary
 encoffinment
 egged
 ethylenic
-ephectic
+ephectic 1
 eckehart
 exitial
 ethmose 1
