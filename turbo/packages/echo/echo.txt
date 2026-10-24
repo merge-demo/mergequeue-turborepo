@@ -1626,7 +1626,7 @@ exsanguine
 exportation
 emptiness
 egurgitate
-egurgitated
+egurgitated 1
 eheu
 explanatively
 euryaleae 1
