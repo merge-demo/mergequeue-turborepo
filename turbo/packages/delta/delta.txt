@@ -14496,7 +14496,7 @@ disproof
 divertisement
 dextrogyrous
 divertissements
-deferment
+deferment 1
 divested 1
 doradidae
 dicynodontidae 1
