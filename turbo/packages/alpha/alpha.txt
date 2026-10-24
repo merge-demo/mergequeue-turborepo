@@ -5279,7 +5279,7 @@ agency
 acrosome 1
 axis
 atelic
-apartments
+apartments 1
 anthriscus
 affirmations
 antiegotistically
