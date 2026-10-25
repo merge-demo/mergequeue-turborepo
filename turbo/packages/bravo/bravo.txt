@@ -6637,7 +6637,7 @@ berenice
 beresite
 beret
 brangler
-berets
+berets 1
 bleb 1
 berewick
 biunity
