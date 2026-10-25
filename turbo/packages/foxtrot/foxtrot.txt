@@ -2942,7 +2942,7 @@ fiberize 1
 fewest
 fluke
 fissiparity
-fading 1
+fading 2
 fewterer
 fewtrils
 follower 1
@@ -4014,7 +4014,7 @@ fallible
 feudatorial
 foredawn
 fissural
-frettiest 1
+frettiest 2
 feudalise
 fingram
 fossilisable 1
