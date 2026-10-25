@@ -17385,7 +17385,7 @@ apostrophising
 assembly
 adiabatically
 airmobile
-apostrophus
+apostrophus 1
 apotactic 1
 apotactici
 agriculturalist
