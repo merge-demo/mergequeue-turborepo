@@ -9507,7 +9507,7 @@ financier 1
 favouress
 flyted
 fuseless
-frecklish
+frecklish 1
 frecklier
 feudalizing
 findfault
