@@ -1648,7 +1648,7 @@ envisage
 eide
 excommunications
 encephalitogenic
-enactors
+enactors 1
 eyewashes
 epigastrium
 eider
