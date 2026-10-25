@@ -9215,7 +9215,7 @@ fascinery
 frontispieced
 fraktur
 frizer 1
-fasciolet
+fasciolet 1
 fresnel 2
 flavoury 1
 foresentence
