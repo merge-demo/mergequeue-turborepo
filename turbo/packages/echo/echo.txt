@@ -10654,7 +10654,7 @@ embryotrophe
 eunuchs
 expediment
 easeless
-echolocation
+echolocation 1
 enarbor
 excrements
 ecrasite
