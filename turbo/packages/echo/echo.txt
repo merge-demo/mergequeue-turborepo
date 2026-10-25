@@ -12952,7 +12952,7 @@ expatriatism
 equispaced
 epipsychidion
 egotistical
-encyclopedial
+encyclopedial 1
 emblematized
 east
 enhaunt
