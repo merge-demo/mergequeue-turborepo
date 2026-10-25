@@ -2626,7 +2626,7 @@ eave 1
 euconic 1
 eu
 ecthetically
-execrations
+execrations 1
 etymologisable
 exempla
 electroplater
