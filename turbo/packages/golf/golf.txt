@@ -2078,7 +2078,7 @@ gomari
 giftless
 gutturonasal 1
 glossers
-gingkoes
+gingkoes 1
 gnawer
 glorious 1
 glossophorous
@@ -4683,7 +4683,7 @@ gratinate
 greenfishes
 grandiflora
 gudemother 1
-gainstand
+gainstand 1
 garua
 greenbottle 1
 galactite
