@@ -6421,7 +6421,7 @@ eastering
 exsanguinate
 egbert
 eastern
-equatorial
+equatorial 1
 ecophene 1
 embarrassing
 endangerments 2
