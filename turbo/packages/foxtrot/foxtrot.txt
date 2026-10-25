@@ -2833,7 +2833,7 @@ fisty
 finable
 foresails
 fungid 1
-familistery
+familistery 1
 fortuned
 fettered 1
 frowstiness
