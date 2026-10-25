@@ -1366,7 +1366,7 @@ echelon
 examinative 1
 efficacy
 ethene
-exhortation
+exhortation 1
 eleutherodactyli 1
 epithecium
 embolden
