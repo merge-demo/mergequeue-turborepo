@@ -19059,7 +19059,7 @@ clarencieux
 chloridizing
 collimated
 collimates
-collimation
+collimation 1
 collimator
 convictfishes 1
 considered 1
