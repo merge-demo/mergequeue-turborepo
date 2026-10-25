@@ -8334,7 +8334,7 @@ dioestrum
 disincline
 dipneusti
 duchies
-dialed
+dialed 1
 depredation
 disvouch
 dyed
