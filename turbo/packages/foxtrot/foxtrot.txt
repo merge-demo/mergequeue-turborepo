@@ -3955,7 +3955,7 @@ focalise
 forfends
 fingerer
 flaunch
-fingerers
+fingerers 1
 feed
 fono 1
 fixature
