@@ -10795,7 +10795,7 @@ backspierer 1
 botherment 1
 bossship
 baramika 1
-bangiaceous
+bangiaceous 1
 birdbrained
 baldberry
 beggarism
