@@ -2454,7 +2454,7 @@ glycocoll 2
 gigmanism 1
 geographers
 glacionatant
-gaps
+gaps 1
 gloaming 2
 gaiting
 goniac
