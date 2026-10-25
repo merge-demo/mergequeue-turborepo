@@ -7437,7 +7437,7 @@ emboliform
 ephestia 1
 enregistering
 emphatical
-encyclicals
+encyclicals 1
 ephelcystic
 eunuchizing
 expenses
