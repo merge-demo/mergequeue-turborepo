@@ -5486,7 +5486,7 @@ fiant
 friseurs
 fossed
 fretwork
-forbarred
+forbarred 1
 fratching
 fleshy 1
 fillet
