@@ -7901,7 +7901,7 @@ droughty
 diminuting
 degringolade
 dewlapped 2
-deuniting
+deuniting 1
 dewless
 daggled
 dewlike
