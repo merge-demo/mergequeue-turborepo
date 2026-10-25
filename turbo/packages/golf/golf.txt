@@ -6580,7 +6580,7 @@ gyrohorizon
 gonaduct 1
 guiling
 grinner 1
-gonalgia
+gonalgia 1
 gallinipper
 gradatively
 galanga
