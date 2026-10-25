@@ -9526,7 +9526,7 @@ ferulic
 frederik
 futilitarian 1
 filthier
-freightyard
+freightyard 1
 fletcherite
 forwalk
 foolmonger
