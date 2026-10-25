@@ -7371,7 +7371,7 @@ dermacentor
 diadoche
 disozonize
 dagesh
-daric
+daric 1
 dehorter
 dicyclist
 diadochian

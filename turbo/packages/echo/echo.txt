@@ -4199,7 +4199,7 @@ emprint
 emprises
 emprison
 euphausiid 1
-emulgent
+emulgent 1
 emprosthotonic
 effeteness 1
 emptied
