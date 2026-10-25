@@ -1065,7 +1065,7 @@ ganglionate
 ganglionated
 gymnoconia
 gift 1
-gymnospermism
+gymnospermism 1
 gruffish
 guck
 gremial 1
