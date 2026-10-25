@@ -11010,7 +11010,7 @@ disambiguating
 derah
 defamingly
 dogmatising
-disanalogy
+disanalogy 1
 deinosauria
 disanalogous 1
 disanchor
@@ -12369,7 +12369,7 @@ dishellenize
 disembodies
 deigning
 dantist
-decomposing
+decomposing 1
 disconnective
 degrade
 doweries
