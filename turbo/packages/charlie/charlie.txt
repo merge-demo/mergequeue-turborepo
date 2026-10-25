@@ -387,7 +387,7 @@ cacoon
 cancroids
 calliphora
 cacophonic 1
-cacophonically
+cacophonically 1
 cacophonists
 calyptrate
 cacophonous
