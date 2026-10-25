@@ -3937,7 +3937,7 @@ efflorescent
 emollience 1
 escharotic
 elevenths 1
-estruate
+estruate 1
 earthbound
 excommunicators 1
 emollients
