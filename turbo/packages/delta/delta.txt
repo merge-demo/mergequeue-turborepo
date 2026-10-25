@@ -9360,7 +9360,7 @@ demonstrance
 depulse
 dottels
 demasted
-deluge 1
+deluge 2
 dentirostres
 dautie
 dulosis
@@ -14282,7 +14282,7 @@ dreadnoughts 1
 dooms 1
 dithecal
 dither
-deductibles
+deductibles 1
 dyspnoeic
 diffiding 1
 deporter
