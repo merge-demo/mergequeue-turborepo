@@ -4987,7 +4987,7 @@ fettle
 flood
 faured
 flaneurs 1
-flanked 1
+flanked 2
 fledging
 factordom
 fullage
