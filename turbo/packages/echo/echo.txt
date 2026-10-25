@@ -2123,7 +2123,7 @@ elastivity
 eucarpic
 eleusine
 exuberancy
-embargoing
+embargoing 1
 externat 1
 emperish
 equilibrio
