@@ -2071,7 +2071,7 @@ guideboard
 gallicolous
 gutlessness
 grotto 1
-gavots
+gavots 1
 gazetteership
 glycerophosphoric
 gomari
