@@ -356,7 +356,7 @@ gaussian
 grilses
 gleen 2
 gerontologic
-gangetic
+gangetic 1
 governingly
 goosegrass
 gastrohepatitis 1
