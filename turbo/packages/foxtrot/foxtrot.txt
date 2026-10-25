@@ -10991,7 +10991,7 @@ forthright 1
 focaloid
 finland
 firebolt 1
-feminist
+feminist 1
 fleshlier
 furmities
 flatuous
