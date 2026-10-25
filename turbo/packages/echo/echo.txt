@@ -8060,7 +8060,7 @@ exosporal 1
 empeopled
 emerize
 encoop
-epiphytic
+epiphytic 1
 extensum
 expositor
 eparch

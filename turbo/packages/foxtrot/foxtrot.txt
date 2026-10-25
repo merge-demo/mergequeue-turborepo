@@ -10597,7 +10597,7 @@ fattish
 fishybacking
 froggier 2
 fluorimetry 1
-fustier
+fustier 1
 fragmental
 forks
 furfurals 1
