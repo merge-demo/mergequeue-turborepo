@@ -3082,7 +3082,7 @@ bikhaconitine
 biobibliographical
 bdellostomatidae
 baruria
-barvel
+barvel 1
 besmearing 1
 brocage
 baleful
