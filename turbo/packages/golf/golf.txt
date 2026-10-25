@@ -3588,7 +3588,7 @@ grewhound 1
 ghees
 gladen 1
 glaumrie
-guanylic 1
+guanylic 2
 granilla
 goglets
 glottalize
