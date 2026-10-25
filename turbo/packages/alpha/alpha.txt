@@ -1676,7 +1676,7 @@ alkalimeter
 ahmadiya
 arank
 autecologically
-ambiguously
+ambiguously 1
 acculturation
 acculturize
 anarchoindividualist
