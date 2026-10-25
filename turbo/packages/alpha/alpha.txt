@@ -15654,7 +15654,7 @@ abysm
 antiorthodoxy
 antioxidants 1
 atoneable
-amygdalectomy
+amygdalectomy 1
 andamentos 1
 aphetic
 alehoof
