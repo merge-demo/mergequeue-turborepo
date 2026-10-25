@@ -10218,7 +10218,7 @@ groundsel 1
 gastradenitis
 geotonus
 glamourously
-galusha
+galusha 1
 geissospermin 1
 gainsays
 glaucous
