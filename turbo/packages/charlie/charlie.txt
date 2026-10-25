@@ -14514,7 +14514,7 @@ cosmologic
 choppy
 cistercianism
 cisternae
-cisternal
+cisternal 1
 cornier
 compotier
 cystic
