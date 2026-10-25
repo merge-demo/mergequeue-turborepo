@@ -9250,7 +9250,7 @@ graduale 1
 gooney
 groenlandicus
 goyana
-gurge
+gurge 1
 gangliate
 gunocracy 1
 galactophagous
