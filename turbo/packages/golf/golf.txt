@@ -4218,7 +4218,7 @@ governments 1
 gangliated 2
 gibeonite
 gasconism
-gynecological
+gynecological 1
 gramineousness
 gaunty 1
 goon 1
