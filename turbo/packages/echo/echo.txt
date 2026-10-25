@@ -2794,7 +2794,7 @@ enjeopard 1
 endomixis
 ecthyma
 ephebeibeia 2
-engarble
+engarble 1
 ethylene
 experimentor
 egyptological
