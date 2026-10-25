@@ -3950,7 +3950,7 @@ biassedly
 bch
 borsholder 1
 bchs
-ballotage
+ballotage 1
 bd
 boracium
 buttonholes
