@@ -6248,7 +6248,7 @@ asperifoliate
 agoraphobiac
 antiferment
 aquerne
-agoraphobic
+agoraphobic 1
 annuitant
 antiracing
 agorot
