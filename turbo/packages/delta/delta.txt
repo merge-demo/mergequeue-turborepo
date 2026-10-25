@@ -5414,7 +5414,7 @@ doryphoros
 dews
 deoxygenated
 depaints
-divestitures
+divestitures 1
 dilatation
 deoxyribonucleotide
 dipsomania 1
