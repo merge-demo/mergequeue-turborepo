@@ -1673,7 +1673,7 @@ farmhands
 fundamentalists
 forthcut
 fluible 1
-faddisms
+faddisms 1
 flamboyantly
 furbelowed 1
 focally

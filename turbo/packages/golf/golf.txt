@@ -6858,7 +6858,7 @@ giganticide
 geomalism
 glowers 1
 ganglioform
-geographer
+geographer 1
 geneserine
 gangliglia 1
 grippiness
