@@ -2939,7 +2939,7 @@ eelshop
 effectful
 evaporatively
 erythrasma
-embarrassments
+embarrassments 1
 eyewinks
 elicitation 1
 entrymen
