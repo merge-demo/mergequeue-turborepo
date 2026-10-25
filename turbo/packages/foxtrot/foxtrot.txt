@@ -1442,7 +1442,7 @@ floorer
 follow
 fanwork
 fall
-funis
+funis 1
 fattishness
 fother 1
 fathomed
