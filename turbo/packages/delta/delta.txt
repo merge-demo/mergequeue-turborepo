@@ -12949,7 +12949,7 @@ disaffectedness
 differed 1
 disoperculate 1
 desmosome
-dicephalous
+dicephalous 1
 demons
 dosimetrician
 differers
