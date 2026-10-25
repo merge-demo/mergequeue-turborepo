@@ -6442,7 +6442,7 @@ gapeworms
 gurry
 glycols
 glabrate
-grit
+grit 1
 guirlande
 graduatical
 ghazel

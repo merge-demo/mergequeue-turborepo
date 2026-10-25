@@ -10087,7 +10087,7 @@ ambition
 acorned
 anisoin 1
 amission
-angaralite
+angaralite 1
 amerceable
 ambivalence
 aiger
