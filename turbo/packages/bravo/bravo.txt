@@ -6064,7 +6064,7 @@ bellow
 bemoan
 bookie
 bemoaned
-bauxitic
+bauxitic 1
 bowenite
 boiling
 brouette
