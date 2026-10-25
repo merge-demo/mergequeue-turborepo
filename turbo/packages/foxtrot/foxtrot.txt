@@ -4998,7 +4998,7 @@ flankers 1
 feued
 franklin
 folksier 2
-fathered
+fathered 1
 flashtester
 floerkea
 familiarly 1
@@ -5484,7 +5484,7 @@ fullwords
 feliform
 fiant
 friseurs
-fossed
+fossed 1
 fretwork
 forbarred 1
 fratching
