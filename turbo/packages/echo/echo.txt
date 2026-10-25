@@ -9745,7 +9745,7 @@ entotrophi
 entitles 1
 epitomisation
 equisonance 2
-everyplace
+everyplace 1
 eddo
 enneahedron
 emarcid
