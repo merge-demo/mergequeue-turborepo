@@ -4517,7 +4517,7 @@ flooded
 fountainhead
 fructify
 fortread 1
-finickiest
+finickiest 1
 fissirostrate
 fissura
 frugal
