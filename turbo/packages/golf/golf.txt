@@ -867,7 +867,7 @@ geezers
 gernitz
 gratulated
 glimpsed
-gelatinize
+gelatinize 1
 gamdeboo
 girtline
 gliadin

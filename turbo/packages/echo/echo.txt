@@ -6044,7 +6044,7 @@ ecumenopolis
 exurbias
 escroll
 eolith
-exhusband 1
+exhusband 2
 elastin 1
 evittate
 eddaic
