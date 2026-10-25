@@ -11554,7 +11554,7 @@ blastoma 1
 bestare 1
 blunderhead
 buttonbur
-barotaxis
+barotaxis 1
 betaxed
 bullae 1
 brushability
