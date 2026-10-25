@@ -2331,7 +2331,7 @@ fra 1
 fogramite
 fiftyfold
 footstalk
-fer
+fer 1
 firecoat 1
 featherstitching
 ferae
