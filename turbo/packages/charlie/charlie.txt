@@ -20203,7 +20203,7 @@ chappie
 cowlick 1
 commodata
 commodate
-clerics
+clerics 1
 commodation
 capmint
 coft
