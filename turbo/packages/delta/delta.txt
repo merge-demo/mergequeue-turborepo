@@ -7982,7 +7982,7 @@ discording
 degummer
 demanganize
 deliberate
-dextrousness
+dextrousness 1
 dispergating
 duodecuple
 dataset 1
@@ -17973,7 +17973,7 @@ depauperation
 danish
 domanial
 decompensate
-dukedoms
+dukedoms 1
 decongestive 1
 dukes 1
 deifical
