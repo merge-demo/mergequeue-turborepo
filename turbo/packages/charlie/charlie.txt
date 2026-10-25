@@ -26578,7 +26578,7 @@ carmelite
 coughed
 choosiest
 cyanephidrosis
-calumniate
+calumniate 1
 culch
 commandeered
 clank
