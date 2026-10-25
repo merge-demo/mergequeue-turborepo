@@ -1687,7 +1687,7 @@ claytonia
 conflagrating
 cele
 curlicuing 1
-circ
+circ 1
 cestoi
 counterdiscipline
 calorifical
