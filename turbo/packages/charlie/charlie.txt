@@ -18131,7 +18131,7 @@ centralistic
 coequates
 creepage 1
 coerce
-coerced
+coerced 1
 controversion
 cobaltocyanide
 condylarth
