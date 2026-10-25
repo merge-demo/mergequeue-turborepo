@@ -11530,7 +11530,7 @@ fireflaught 1
 foldout 1
 forbreak
 forleave
-ferruler
+ferruler 1
 fistic
 foreremembered
 fab 1

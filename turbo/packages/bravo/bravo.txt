@@ -9742,7 +9742,7 @@ bismuthal
 bumblefoot
 bismuthate
 burhinus
-bismuthide
+bismuthide 1
 bethanked
 beneficing
 bezzled
