@@ -7900,7 +7900,7 @@ freeheartedness 1
 filibustering
 frisket
 forgivenesses
-foreshadowed
+foreshadowed 1
 featherman
 flammivomous
 fishhold
