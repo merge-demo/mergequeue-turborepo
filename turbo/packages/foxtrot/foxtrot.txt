@@ -3904,7 +3904,7 @@ fluoridated
 frostproof 1
 frolicsomely
 fustianize
-fang
+fang 1
 formalised
 fellowing
 false
