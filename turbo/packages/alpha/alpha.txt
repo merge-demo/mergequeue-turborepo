@@ -20768,7 +20768,7 @@ aruac 1
 aplodontia
 amphicrania
 austenitic
-artilleryship
+artilleryship 1
 artillerist
 aetosaur
 apocarpy
