@@ -4822,7 +4822,7 @@ geopolar
 guttersnipe 2
 guessed
 gorgonizing
-gladiatrix
+gladiatrix 1
 goyim
 gladier
 guaranteeing
