@@ -12270,7 +12270,7 @@ els
 elegises
 everduring
 exemplarism
-exempli
+exempli 1
 embodier
 evocatrix
 everlasting
