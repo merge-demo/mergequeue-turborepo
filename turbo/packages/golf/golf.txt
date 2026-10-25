@@ -6749,7 +6749,7 @@ gesticulate
 gradate
 glutathione
 goniunia 1
-groceteria
+groceteria 1
 goitrogen
 gisement
 gremials 1
