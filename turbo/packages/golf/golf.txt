@@ -2614,7 +2614,7 @@ granules
 galluot
 genesial
 glees
-groupoid
+groupoid 1
 geographized
 gymnastics
 genethliacal
@@ -6326,7 +6326,7 @@ gastrotrich
 gimmer
 given
 getspace
-goldspink 2
+goldspink 3
 glimmered
 gunmetals
 glucosone
