@@ -5115,7 +5115,7 @@ detruncating
 devoid
 denitrifier
 demophile
-denizenation
+denizenation 1
 diquats
 deflectionization
 drumbler
