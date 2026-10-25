@@ -9540,7 +9540,7 @@ glamorized
 geodynamical
 guidage
 groveller 2
-gauteite
+gauteite 1
 gallinule
 gruels
 girgasite
