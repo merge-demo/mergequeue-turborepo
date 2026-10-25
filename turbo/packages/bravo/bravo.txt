@@ -7009,7 +7009,7 @@ breme
 bepaid
 beslobber
 besluit 1
-basenjis
+basenjis 1
 bespread
 besmile
 besmiled
