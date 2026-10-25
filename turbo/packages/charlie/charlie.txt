@@ -18596,7 +18596,7 @@ coindicant
 coiner 1
 comparograph
 comme
-concoction
+concoction 1
 coyness 1
 cerebration
 castanian
