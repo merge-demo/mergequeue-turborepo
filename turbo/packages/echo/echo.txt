@@ -12282,7 +12282,7 @@ extradites
 epibolic
 exsequatur
 exempted
-exemption
+exemption 1
 essenhout
 errorless
 exemptions
