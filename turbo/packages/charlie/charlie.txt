@@ -925,7 +925,7 @@ chaptalization
 cakewalked
 cakewalker
 cakewalking 1
-carnotite
+carnotite 1
 caky
 clientelage
 conformant
