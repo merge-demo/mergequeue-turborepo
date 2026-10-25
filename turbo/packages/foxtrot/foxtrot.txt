@@ -2121,7 +2121,7 @@ feldsparphyre
 fountainous 2
 ferrotungsten
 foreprize
-fulsome
+fulsome 1
 faculous
 funnel
 favours 1
