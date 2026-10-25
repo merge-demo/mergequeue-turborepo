@@ -7982,7 +7982,7 @@ discording
 degummer
 demanganize
 deliberate
-dextrousness
+dextrousness 1
 dispergating
 duodecuple
 dataset 1
