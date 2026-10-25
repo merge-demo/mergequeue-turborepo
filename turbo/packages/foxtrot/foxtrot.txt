@@ -7623,7 +7623,7 @@ flippancies
 fables
 factualism
 foreworn
-forestalls
+forestalls 1
 foreguess
 flammant
 flambant
