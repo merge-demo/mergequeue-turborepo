@@ -5741,7 +5741,7 @@ galactosemic
 gnatworm
 genupectoral
 goniometer
-globoid 1
+globoid 2
 geobotanically
 garblers
 gluemaking
