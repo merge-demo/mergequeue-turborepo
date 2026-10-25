@@ -560,7 +560,7 @@ gnatflower
 galempong
 gableended
 gravamem
-ganglionless
+ganglionless 1
 gadinine
 glucosazone 2
 gallian
