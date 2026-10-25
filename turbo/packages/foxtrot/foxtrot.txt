@@ -2530,7 +2530,7 @@ freet
 freebee
 freeboot
 fem
-functionalistic
+functionalistic 1
 foresightful
 falerno
 fairyhood
