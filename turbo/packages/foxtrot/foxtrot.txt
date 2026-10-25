@@ -2497,7 +2497,7 @@ flashforward
 fumarin
 fastus
 frumety
-fingers
+fingers 1
 flerry 1
 fudging 1
 fainthearted

@@ -5331,7 +5331,7 @@ disputatively 1
 desegregating
 deyhouse
 decoction
-delicatesse
+delicatesse 1
 daffodil
 dendra 1
 decontrol
