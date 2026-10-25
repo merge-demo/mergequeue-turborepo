@@ -20387,7 +20387,7 @@ cybister
 cuiejos
 compact
 coutures
-compactability
+compactability 1
 communisteries
 compactable
 compacted
