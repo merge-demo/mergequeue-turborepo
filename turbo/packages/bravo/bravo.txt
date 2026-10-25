@@ -5493,7 +5493,7 @@ baptised
 behymn
 brutes
 behither
-bankera
+bankera 1
 bendways
 bechamel
 bonce
