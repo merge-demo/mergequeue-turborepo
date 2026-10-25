@@ -11523,7 +11523,7 @@ emprize
 endosteitis
 edital
 evocating
-ensign
+ensign 1
 engendered
 enkerchief
 esterlin
