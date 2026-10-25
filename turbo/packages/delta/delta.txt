@@ -2982,7 +2982,7 @@ denaturizing
 dhai 1
 dolomitizing
 dochmius
-dermapteran
+dermapteran 1
 deeper
 dealings
 dies
