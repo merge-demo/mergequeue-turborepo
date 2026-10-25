@@ -7940,7 +7940,7 @@ aleppo
 alerce
 alerse 1
 agglutinates
-alerta
+alerta 1
 anorak
 annually
 adp
