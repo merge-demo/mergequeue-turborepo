@@ -12648,7 +12648,7 @@ essancia
 elateroid 1
 egurgitating
 excussio
-exoenzyme
+exoenzyme 1
 enterobacterial 2
 esrogim
 exogamies
