@@ -18135,7 +18135,7 @@ coerced 1
 controversion
 cobaltocyanide
 condylarth
-calendry
+calendry 1
 crowdweed
 cutbacks
 coercers
