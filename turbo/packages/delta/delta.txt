@@ -6393,7 +6393,7 @@ dozened
 desacralization 1
 drizzled
 dictatorially
-degenerating 1
+degenerating 2
 drugshop
 danseusse 1
 desagrement
@@ -14660,7 +14660,7 @@ dizzily 1
 dramaturgic
 doter
 diagnose
-djagoong 1
+djagoong 2
 darioles 1
 disemboguement
 djave
