@@ -6674,7 +6674,7 @@ flunks
 fogproof
 frugally
 forstand
-flaughter
+flaughter 1
 fellator
 frangulaceae
 follyproof
