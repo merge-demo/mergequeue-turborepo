@@ -8875,7 +8875,7 @@ erewhiles
 ergane
 ethnohistorically 1
 elfdom
-epergnes
+epergnes 1
 erysiphe
 evonymus
 ergative
