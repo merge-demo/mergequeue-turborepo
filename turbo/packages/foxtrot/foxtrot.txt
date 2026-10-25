@@ -2897,7 +2897,7 @@ flagonless
 flyboy
 fingian
 farinha
-furazane 2
+furazane 3
 foreswearing
 frustums
 fencing
