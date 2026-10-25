@@ -11894,7 +11894,7 @@ earlobes
 exceptiousness
 exultation
 expectations 1
-eyr
+eyr 1
 estuarial
 enhypostatic
 epiphytes
