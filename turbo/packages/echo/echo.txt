@@ -9198,7 +9198,7 @@ elates
 electrographite
 empiricism
 exotropia
-enclasp
+enclasp 1
 egomaniac
 eroticizing
 evangelion
