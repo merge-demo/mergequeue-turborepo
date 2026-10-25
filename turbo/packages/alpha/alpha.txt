@@ -24726,7 +24726,7 @@ anteceding 1
 acardiac
 absinths
 accosted
-adyta
+adyta 1
 airest
 antipathogene
 ankylosaurus
