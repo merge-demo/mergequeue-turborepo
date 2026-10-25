@@ -6293,7 +6293,7 @@ grail
 goosenecked
 geomance
 gemots
-gearings
+gearings 1
 genarchaship
 graptoloidea
 goatsucker
