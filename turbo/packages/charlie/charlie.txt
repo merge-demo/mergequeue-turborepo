@@ -20132,7 +20132,7 @@ commination
 conceited
 congealable
 canewise
-comminative
+comminative 1
 cloddish 1
 comminator
 commingled
