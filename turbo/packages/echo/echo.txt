@@ -14012,7 +14012,7 @@ extraprofessional
 evocation
 existences
 extrapunitive
-endogen 1
+endogen 2
 extraregularly 1
 expirers
 exiling
