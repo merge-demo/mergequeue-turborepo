@@ -23593,7 +23593,7 @@ aked 1
 allochthonous
 aimed
 auntish
-auntly
+auntly 1
 adjust
 auntliest
 auntlike
