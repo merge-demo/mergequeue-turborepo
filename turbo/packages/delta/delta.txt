@@ -4784,7 +4784,7 @@ deaneries
 ductile
 declive
 durrie
-depredationist
+depredationist 1
 dispersity
 dormmice
 denicotinize
