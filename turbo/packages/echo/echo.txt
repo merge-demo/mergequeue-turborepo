@@ -5669,7 +5669,7 @@ erysiphaceae
 ectocelic 1
 extranatural
 everbearing
-elephanta
+elephanta 1
 eng
 esurience
 evangelicals 1
