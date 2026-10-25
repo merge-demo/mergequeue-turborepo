@@ -6743,7 +6743,7 @@ elaborator
 entrechat
 endoceratitic
 enthusiastically
-exculpated
+exculpated 1
 eta
 enthusiastly 1
 emydosaurian
