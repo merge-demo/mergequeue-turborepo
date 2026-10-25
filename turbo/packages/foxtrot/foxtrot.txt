@@ -8962,7 +8962,7 @@ fizelyite
 fender
 farolito 1
 feeling
-freakery
+freakery 1
 flimflammer
 fistle
 fragile
