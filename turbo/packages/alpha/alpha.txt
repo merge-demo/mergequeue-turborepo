@@ -8527,7 +8527,7 @@ accelerograph
 alkylarylsulfonate
 anallergic
 agnate
-actinopterous
+actinopterous 1
 alkylate
 atremate
 alkylbenzenesulfonates
