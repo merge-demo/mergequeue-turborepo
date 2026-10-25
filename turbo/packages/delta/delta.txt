@@ -3021,7 +3021,7 @@ deerweed
 dollyway
 detest
 deescalate
-dyehouse
+dyehouse 1
 deeses 1
 deepfrozen
 deemphasize
