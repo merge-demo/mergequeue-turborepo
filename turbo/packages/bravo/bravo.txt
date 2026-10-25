@@ -5845,7 +5845,7 @@ becrawling
 bromization
 bedlamic 1
 bombyliidae 2
-batfish
+batfish 1
 bimetallism
 berengelite
 bonasa
