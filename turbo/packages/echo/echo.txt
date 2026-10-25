@@ -13047,7 +13047,7 @@ expatriated
 exhibiting
 ebauchoir
 euhemerised
-epiperipheral
+epiperipheral 1
 expediter
 enunciates
 eulogistically
