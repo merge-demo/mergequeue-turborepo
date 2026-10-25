@@ -8939,7 +8939,7 @@ dail
 dihydride
 dinkies
 dated
-dichroitic
+dichroitic 1
 dichromasia
 defrayed
 deltafication 1
