@@ -8147,7 +8147,7 @@ gemmiparous
 grapeless 1
 guillem
 geloscopy
-gossipers
+gossipers 1
 groomsmen
 grapeflower
 grapefruit
