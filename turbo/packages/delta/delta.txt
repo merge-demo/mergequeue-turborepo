@@ -15669,7 +15669,7 @@ dopey
 decrements
 doper
 disbarring
-dopier 1
+dopier 2
 deniable
 dogstone
 desi
