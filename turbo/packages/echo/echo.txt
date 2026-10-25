@@ -936,7 +936,7 @@ electrological
 efform 1
 endocardium 1
 epoxied
-entada 1
+entada 2
 ecttypal
 equates
 emanatory
