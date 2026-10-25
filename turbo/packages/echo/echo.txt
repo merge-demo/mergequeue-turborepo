@@ -2765,7 +2765,7 @@ exhilaratory
 evergreenite 1
 equangular 1
 explorations 1
-ebracteate
+ebracteate 1
 eurithermophilic
 excecate
 elytrous
