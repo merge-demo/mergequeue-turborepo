@@ -9421,7 +9421,7 @@ digamies
 divekeeper
 disfranchise
 displume
-deglut 1
+deglut 2
 destructively
 digamma
 demilegato
