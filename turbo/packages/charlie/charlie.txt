@@ -26045,7 +26045,7 @@ cosh
 coshed
 cosher 2
 countermanded
-cupreine
+cupreine 1
 coshery
 coshers
 cholralosed
