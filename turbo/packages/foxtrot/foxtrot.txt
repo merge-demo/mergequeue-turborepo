@@ -5282,7 +5282,7 @@ fails
 freemasonry
 flawing
 fosteringly
-footloose
+footloose 1
 fluorosis
 flawlessness
 fangy
