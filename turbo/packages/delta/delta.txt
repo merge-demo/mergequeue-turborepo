@@ -17973,7 +17973,7 @@ depauperation
 danish
 domanial
 decompensate
-dukedoms
+dukedoms 1
 decongestive 1
 dukes 1
 deifical
