@@ -245,7 +245,7 @@ duplicative
 dappling
 denitrate
 deincrustant
-decemcostate
+decemcostate 1
 dictyopteran
 dagmar
 deliverly
