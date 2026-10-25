@@ -3679,7 +3679,7 @@ furloughed
 feistiest
 foysen
 fruitwise
-futurisms
+futurisms 1
 firesider
 franchisal
 flannelboard
