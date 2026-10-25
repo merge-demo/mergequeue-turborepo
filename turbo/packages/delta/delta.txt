@@ -12870,7 +12870,7 @@ devitrify
 danglers
 diacoele
 darklier
-decalcify
+decalcify 1
 disadvantageousness
 dubhe
 drywalls
