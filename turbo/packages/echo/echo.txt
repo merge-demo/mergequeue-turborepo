@@ -13241,7 +13241,7 @@ explement
 envine
 edacity 1
 ephebeum
-envisioned
+envisioned 1
 explicably
 expensive
 explicanda
