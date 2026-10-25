@@ -4265,7 +4265,7 @@ delimit
 duckhood
 dequeue
 dronel
-diversicolored
+diversicolored 1
 daubster
 diamondiferous
 diacritical
