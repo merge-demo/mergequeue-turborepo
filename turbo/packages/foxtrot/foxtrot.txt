@@ -11052,7 +11052,7 @@ flammulated
 fontainea
 frontolysis 1
 fancies
-flanerie
+flanerie 1
 friendliness
 fermented 1
 fumuli
