@@ -7376,7 +7376,7 @@ goosiest 1
 gunflints
 gelsemine
 gayness
-gunnery
+gunnery 1
 globousness
 grangerization
 gadean
