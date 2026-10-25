@@ -3777,7 +3777,7 @@ gratefulness
 greyling
 greenbugs
 greenland
-goloka
+goloka 1
 gavialoid 1
 gulancha
 gorblimey

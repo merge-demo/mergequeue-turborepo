@@ -1213,7 +1213,7 @@ friborgh
 fasherie
 fusilier
 foolishness
-fashing
+fashing 1
 fleeted 1
 factorylike
 fritt
