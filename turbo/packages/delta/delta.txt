@@ -11742,7 +11742,7 @@ discrepancies
 dimatis
 dedendum
 discrepancries
-deterger
+deterger 1
 disbrain
 determinating
 decaudation
