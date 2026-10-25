@@ -5484,7 +5484,7 @@ fullwords
 feliform
 fiant
 friseurs
-fossed
+fossed 1
 fretwork
 forbarred 1
 fratching
