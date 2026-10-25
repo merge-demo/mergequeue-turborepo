@@ -12382,7 +12382,7 @@ chromatoscopy
 chromatosis
 chromaturia
 calciphilic 1
-chromazurine
+chromazurine 1
 chromdiagnosis
 complication
 clangorousness
