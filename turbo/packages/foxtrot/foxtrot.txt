@@ -4014,7 +4014,7 @@ fallible
 feudatorial
 foredawn
 fissural
-frettiest 1
+frettiest 2
 feudalise
 fingram
 fossilisable 1
