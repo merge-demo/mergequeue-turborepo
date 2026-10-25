@@ -3511,7 +3511,7 @@ decarchy
 disenchanter
 divinify
 dipleura
-dregginess
+dregginess 1
 defunctionalize
 defusion
 deformalize
