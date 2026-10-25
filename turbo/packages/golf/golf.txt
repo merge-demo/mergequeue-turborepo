@@ -9194,7 +9194,7 @@ grisly
 gyse
 glagolitic 1
 gravigrade
-grahamite
+grahamite 1
 grist
 guanase
 growthiness
