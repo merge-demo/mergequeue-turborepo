@@ -8177,7 +8177,7 @@ bidiagonal 1
 bidimensional
 binucleate 1
 barble
-befouls
+befouls 1
 biremes
 biding
 bidirectional
