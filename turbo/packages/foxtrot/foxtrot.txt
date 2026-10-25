@@ -3200,7 +3200,7 @@ fougade 1
 flexibly
 fusicoccum
 ficklest
-flimsier
+flimsier 1
 ficklety
 fosterable
 fictionalize
