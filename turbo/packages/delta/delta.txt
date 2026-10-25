@@ -15946,7 +15946,7 @@ dispreads
 disbudded
 decadist
 doth
-deglutination
+deglutination 1
 dl
 debacles
 dauntlessness
