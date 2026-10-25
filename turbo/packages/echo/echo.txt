@@ -2319,7 +2319,7 @@ electrobath
 emplacements 1
 ethnologically
 escoted
-epicenity 1
+epicenity 2
 epically
 effulge
 epistroma
