@@ -16512,7 +16512,7 @@ brusquest
 boucherize 1
 brussel 1
 blackshirt
-bordered
+bordered 1
 bestrode
 brustle
 bridal 1
