@@ -5540,7 +5540,7 @@ glottogonist
 gervais
 gurges
 garuda
-gadinic
+gadinic 1
 gametal 1
 ginks
 groovers
