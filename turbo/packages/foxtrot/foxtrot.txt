@@ -4807,7 +4807,7 @@ footbath
 frostbiter
 foggy
 fibrinuria
-fumish
+fumish 1
 fracticipita 1
 faunus
 flinthead
