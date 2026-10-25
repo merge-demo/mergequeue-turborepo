@@ -2802,7 +2802,7 @@ corruptibility
 cannons
 coulure
 chedreux
-crispening
+crispening 1
 cannulae 1
 cannulate
 circumscribe
