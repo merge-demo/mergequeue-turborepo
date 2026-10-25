@@ -1043,7 +1043,7 @@ bibliology
 bioavailability
 butadiene 1
 baiginet
-biparental
+biparental 1
 brichen
 bronchiocrisis
 barbarizes
