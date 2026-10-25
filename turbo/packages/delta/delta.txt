@@ -4461,7 +4461,7 @@ demifigure
 disinflated 1
 downdraught
 debentureholder
-demigauntlet
+demigauntlet 1
 disclosing
 decussis
 dendrite
