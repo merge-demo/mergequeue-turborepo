@@ -4076,7 +4076,7 @@ allowanced
 anisosthenic
 aldrin
 admits
-australopithecine
+australopithecine 1
 admittance
 admitted
 agitpunkt

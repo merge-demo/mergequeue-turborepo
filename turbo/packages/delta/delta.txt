@@ -6992,7 +6992,7 @@ degrees
 disjointed
 despumation
 dealing
-desquamating
+desquamating 1
 desquamatory
 dispelled
 dentation
@@ -11774,7 +11774,7 @@ dandification
 demirep 1
 diplococcoid
 dollarleaf
-delabialize
+delabialize 1
 dosserets
 deinodon
 discriminating
