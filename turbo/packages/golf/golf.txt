@@ -9856,7 +9856,7 @@ ghrush 1
 gladdens
 gerygone
 gadget
-garble
+garble 1
 gustless
 guanin
 gagate
