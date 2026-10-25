@@ -9733,7 +9733,7 @@ decence
 duct
 discapacitate
 demiram
-decider
+decider 1
 divulgating
 dilection
 dilemmatic
