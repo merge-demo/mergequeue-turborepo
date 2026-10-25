@@ -4862,7 +4862,7 @@ gliomata
 gorier
 gorse 1
 glauberite
-glair
+glair 1
 glaire
 glosses
 gigger 1
