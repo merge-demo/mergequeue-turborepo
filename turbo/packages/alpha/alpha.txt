@@ -5264,7 +5264,7 @@ atonement
 alemanni
 aggerate
 affinities
-affinition
+affinition 1
 apostrophe
 affinitive
 affirmable
