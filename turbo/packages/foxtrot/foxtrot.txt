@@ -9986,7 +9986,7 @@ futureless
 fibroid
 feracity 1
 firelike
-frigotherapy
+frigotherapy 1
 facial
 fencings
 fliest

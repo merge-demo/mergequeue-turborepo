@@ -10398,7 +10398,7 @@ gaucheness
 gonake
 gayish
 greypate
-generalisable
+generalisable 1
 gangwayman
 graciousness
 glassing
