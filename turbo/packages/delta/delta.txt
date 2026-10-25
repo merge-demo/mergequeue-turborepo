@@ -8340,7 +8340,7 @@ disvouch
 dyed
 dromed
 decigrams
-dialycarpous
+dialycarpous 1
 dialin
 dialiness
 dilution 1
