@@ -7500,7 +7500,7 @@ filemaking
 ferroboron 1
 factorizations
 forespake
-foreroyal
+foreroyal 1
 fallacious
 fasciation
 foreboder
