@@ -27493,7 +27493,7 @@ colorism
 cathisma
 chadri
 clitellar
-clavier
+clavier 1
 cuban
 covariate
 covariates
