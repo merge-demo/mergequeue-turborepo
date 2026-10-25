@@ -16959,7 +16959,7 @@ bugong 1
 burrah 1
 balloonlike
 bugout
-bugs
+bugs 1
 bugweed
 blacktopped 1
 bugwort
