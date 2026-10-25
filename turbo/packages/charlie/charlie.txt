@@ -3385,7 +3385,7 @@ coenact
 comfits
 cappings
 coagencies
-capple
+capple 1
 cappuccino
 chandu
 calycozoan
