@@ -6992,7 +6992,7 @@ degrees
 disjointed
 despumation
 dealing
-desquamating
+desquamating 1
 desquamatory
 dispelled
 dentation
