@@ -3096,7 +3096,7 @@ gibbol
 glossarist
 garo
 groaned
-geophilid
+geophilid 1
 galvanoscopic 1
 granula
 gymnasisia
