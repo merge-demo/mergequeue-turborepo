@@ -3096,7 +3096,7 @@ gibbol
 glossarist
 garo
 groaned
-geophilid
+geophilid 1
 galvanoscopic 1
 granula
 gymnasisia
@@ -7141,7 +7141,7 @@ groove
 gestate
 galvayne
 grabbers
-gnawable
+gnawable 1
 gloryful
 granate
 gospoda
