@@ -13887,7 +13887,7 @@ distemperedly
 dendritically
 drinn
 distempering 1
-distemperoid
+distemperoid 1
 distending
 drowns
 disalike
