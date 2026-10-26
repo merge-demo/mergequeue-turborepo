@@ -86,7 +86,7 @@ facetiae
 foxiest 1
 faciation
 facilitations
-fluxionally
+fluxionally 1
 frangi
 fusibleness
 fibrinous
