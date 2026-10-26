@@ -6644,7 +6644,7 @@ dinitrophenol
 downcurved
 derries
 desyatin
-deaconries
+deaconries 1
 desman
 desiderable
 diascopy
