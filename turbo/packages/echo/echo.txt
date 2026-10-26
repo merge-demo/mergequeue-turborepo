@@ -169,7 +169,7 @@ engelmanni
 exacts
 ejidal
 eugenetic 1
-ergogram
+ergogram 1
 exploration
 elaps
 electromotion
