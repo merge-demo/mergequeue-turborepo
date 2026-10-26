@@ -10342,7 +10342,7 @@ gown 1
 gonoph
 grot
 gummaker
-glebal
+glebal 1
 gaums
 gulfweeds 1
 greenlandish
