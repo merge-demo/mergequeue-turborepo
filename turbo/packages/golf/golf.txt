@@ -224,7 +224,7 @@ graphing
 gallish
 gaudsman 1
 goldcup
-glagolitsa
+glagolitsa 1
 greys
 gooks 1
 gravelstone
