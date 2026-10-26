@@ -6431,7 +6431,7 @@ descanted
 dog 2
 descants 1
 discourtesies
-diastatic
+diastatic 1
 denunciatory
 dime
 daubingly
