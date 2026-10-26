@@ -3717,7 +3717,7 @@ baste
 bucketful
 bally
 belfather 1
-batteaux
+batteaux 1
 battement
 balladising
 batteners 1
