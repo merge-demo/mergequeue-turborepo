@@ -4977,7 +4977,7 @@ badchan
 bouncing
 bitriseptate
 braggite
-bowie
+bowie 1
 boatel
 bandy
 beek 1
