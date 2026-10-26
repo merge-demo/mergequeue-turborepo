@@ -6605,7 +6605,7 @@ forevouched
 faulted
 fulgurating
 forenotice
-foemanship
+foemanship 1
 fripperer
 fecifork
 foemen
