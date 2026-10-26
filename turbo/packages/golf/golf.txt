@@ -7944,7 +7944,7 @@ goma
 gerontophilia
 generativeness
 gangster
-galvanotaxis 1
+galvanotaxis 2
 goniatitid
 ghettoize
 grided
