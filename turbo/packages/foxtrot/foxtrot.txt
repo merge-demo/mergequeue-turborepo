@@ -917,7 +917,7 @@ fennelflower
 fanums
 ferine
 fenberry
-fanwise
+fanwise 1
 fadaise 1
 fleabug 1
 fallouts
