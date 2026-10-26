@@ -24531,7 +24531,7 @@ cerographist
 copastor
 copastors
 candlebox
-copatentee
+copatentee 1
 copatriot
 copatroness
 cathectic
