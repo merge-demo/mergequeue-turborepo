@@ -20708,7 +20708,7 @@ articulare
 allelomorph 1
 associate
 alder
-anglophobe
+anglophobe 1
 abounder 1
 anteroclusion
 auriculovertical
