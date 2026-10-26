@@ -19743,7 +19743,7 @@ albarellos
 aucan 1
 arithmetizes
 acrosticheae
-araeostyle
+araeostyle 1
 anteprandial
 allelopathy
 ascriptive
