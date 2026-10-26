@@ -7996,7 +7996,7 @@ dotations
 detonability
 dezincifying
 doughboys
-discifloral 1
+discifloral 2
 draining 1
 deluders
 dezincking
@@ -17707,7 +17707,7 @@ dullhearted
 dynamometer
 dotal
 dwarves
-deuteroelastose
+deuteroelastose 1
 decaffeinating
 duodecagon
 disinvestiture
