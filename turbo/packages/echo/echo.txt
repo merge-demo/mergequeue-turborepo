@@ -4879,7 +4879,7 @@ excitoglandular
 empoisons
 egomanias
 ebulliometer 1
-exoperidium
+exoperidium 1
 endoderm
 enculturation
 ergatandromorph
