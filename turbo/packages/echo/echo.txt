@@ -4085,7 +4085,7 @@ exteriorize
 epiphonemae
 empathized 1
 eugenical
-electrotonize
+electrotonize 1
 emil
 entries
 ethmophysal
