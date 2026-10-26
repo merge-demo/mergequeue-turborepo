@@ -4665,7 +4665,7 @@ electrophonically
 encyclics
 extroversive
 eucrites 1
-elbowing
+elbowing 1
 eyeopener
 extraterritorially
 encyclopedia
