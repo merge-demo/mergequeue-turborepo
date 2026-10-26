@@ -16872,7 +16872,7 @@ durwan
 disceptation
 diminutival 1
 drawtongs
-dehumanizes
+dehumanizes 1
 disacryl
 deaired
 dicyclic
