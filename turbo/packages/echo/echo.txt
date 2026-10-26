@@ -2817,7 +2817,7 @@ eleomargaric
 epipolic
 entoptical 1
 equivalencing
-externalness
+externalness 1
 eater
 epiclesis
 eleoptene
