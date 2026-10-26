@@ -12809,7 +12809,7 @@ exines
 extensional
 exostosis
 exostra 1
-ebullition
+ebullition 1
 elementary 1
 exostrae
 exoteric 1
