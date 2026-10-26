@@ -4724,7 +4724,7 @@ comeliest
 cyclicality 1
 cyanogenamide
 coindicate
-carphiophiops
+carphiophiops 1
 carpholite
 ceiler
 calonyction
