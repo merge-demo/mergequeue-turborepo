@@ -5650,7 +5650,7 @@ exhibitorial
 eschewing
 exquisitism
 enframed
-elaphebolion
+elaphebolion 1
 ethnarch
 ellipsonic
 enfranchisements

@@ -2425,7 +2425,7 @@ distomatous
 deucing
 disintegrative
 decipherably 1
-damgalnunna
+damgalnunna 1
 drepane
 diffidently
 deciphering
