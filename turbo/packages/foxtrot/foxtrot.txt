@@ -8324,7 +8324,7 @@ forkier
 fumewort
 forcy 1
 familiars
-foveolated
+foveolated 1
 forgot
 frontenis
 fightable

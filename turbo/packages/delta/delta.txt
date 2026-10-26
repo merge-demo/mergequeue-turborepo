@@ -18253,7 +18253,7 @@ dictery
 dipody
 diabolification
 darts
-deltoid
+deltoid 1
 dungiest
 disapprobative
 dacryorrhea 1
