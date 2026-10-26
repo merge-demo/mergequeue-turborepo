@@ -1380,7 +1380,7 @@ fatima
 fruticeous
 filecard
 flenser
-fullword
+fullword 1
 filicology 1
 fractostratus 1
 forspoke
