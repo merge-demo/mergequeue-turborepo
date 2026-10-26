@@ -2961,7 +2961,7 @@ externalising 1
 elicitors
 eloined
 endonuclear
-elicits 1
+elicits 2
 engagee
 equaeval
 epihydrinic
@@ -4665,7 +4665,7 @@ electrophonically
 encyclics
 extroversive
 eucrites 1
-elbowing
+elbowing 1
 eyeopener
 extraterritorially
 encyclopedia
