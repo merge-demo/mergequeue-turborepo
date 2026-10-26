@@ -2908,7 +2908,7 @@ careerer
 cantaloupes
 catboat
 cantankerous
-capsizable
+capsizable 1
 cantankerously
 counteractive
 chonicrite
