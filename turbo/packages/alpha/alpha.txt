@@ -14883,7 +14883,7 @@ abnormality 1
 acetylic
 antliate
 angeles
-anticyclically
+anticyclically 1
 anticity
 anticytolysin
 almsgiving 1
