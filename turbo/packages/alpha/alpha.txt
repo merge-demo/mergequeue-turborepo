@@ -21001,7 +21001,7 @@ ascends
 aerogeologist
 ascension
 accourage
-armorless
+armorless 1
 ascensionist
 ascaridol
 approached
