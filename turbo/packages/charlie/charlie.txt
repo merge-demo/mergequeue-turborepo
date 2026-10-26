@@ -26381,7 +26381,7 @@ cotemporanean 1
 cotemporaneously 1
 cotemporaries
 clubbable
-cozeiest
+cozeiest 1
 circumsaturnian 1
 colorcasted
 continuous
