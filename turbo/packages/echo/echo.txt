@@ -6971,7 +6971,7 @@ excavatorial
 enfuddle
 eager 1
 entreats 1
-esophagopathy
+esophagopathy 1
 entrec
 escalin
 exiting
