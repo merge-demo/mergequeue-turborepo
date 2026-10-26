@@ -8799,7 +8799,7 @@ dib
 decryptions
 dyspraxia
 dibbing
-depolarizers
+depolarizers 1
 deliberates
 deterring
 drachmas

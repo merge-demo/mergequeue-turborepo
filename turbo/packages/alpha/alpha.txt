@@ -24795,7 +24795,7 @@ avions
 avirulence
 antimonsoon 1
 automaton
-algolagny
+algolagny 1
 anxious 1
 axle
 avis
