@@ -636,7 +636,7 @@ dioptoscopy
 decoyman
 dextroversion 1
 dinoflagellata
-deploitation
+deploitation 1
 decartelization
 damnify 1
 dearth
