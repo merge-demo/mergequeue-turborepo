@@ -123,7 +123,7 @@ chordophone
 clitelline
 cabinetworker
 cabinlike
-crafter
+crafter 1
 cabio
 costotransverse
 cabiria
