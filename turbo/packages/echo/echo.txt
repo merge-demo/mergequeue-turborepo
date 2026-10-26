@@ -2422,7 +2422,7 @@ euphausid
 epitaxial
 enapt 2
 etherate
-earthnut
+earthnut 1
 extinguished
 earmarked
 exciting 1
