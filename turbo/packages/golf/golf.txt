@@ -3368,7 +3368,7 @@ gerocomical
 gerodontic
 geobiont 1
 gothicist
-gerontic
+gerontic 1
 generale
 graphometry
 glomi

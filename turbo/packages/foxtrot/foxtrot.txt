@@ -581,7 +581,7 @@ flutey 1
 falloff
 flamier 1
 frequentative
-frappe
+frappe 1
 funerate
 fenugreek
 flagstaff
