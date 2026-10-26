@@ -5016,7 +5016,7 @@ discomfit
 dispone
 dissipated
 dissimulates 1
-disterr
+disterr 1
 destitute
 deperition
 decollating
