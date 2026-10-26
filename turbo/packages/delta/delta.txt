@@ -17189,7 +17189,7 @@ dribbing
 drippage
 drippers
 deddy
-diathermotherapy
+diathermotherapy 1
 doves 1
 differentiators
 drippier
