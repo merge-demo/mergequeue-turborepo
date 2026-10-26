@@ -4186,7 +4186,7 @@ featherstitch
 fluidglycerate
 foothold
 flittermmice
-featurish 1
+featurish 2
 froe
 fidicinales
 fetus
