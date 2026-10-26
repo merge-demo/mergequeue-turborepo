@@ -3243,7 +3243,7 @@ capitalizers
 catecheses
 creophagism
 crackbrain
-curtana
+curtana 1
 casques
 capitalizing
 clippie
