@@ -4217,7 +4217,7 @@ gastroscope
 governments 1
 gangliated 2
 gibeonite
-gasconism
+gasconism 1
 gynecological 1
 gramineousness
 gaunty 1
