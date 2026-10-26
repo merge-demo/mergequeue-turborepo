@@ -1214,7 +1214,7 @@ caffoy
 commoditable
 clobbering 1
 chiding
-causativeness
+causativeness 1
 cestuses
 cecily
 caledonite

@@ -24974,7 +24974,7 @@ awee
 aweek 1
 acanthology
 aweel
-anaerobism
+anaerobism 1
 autogamic
 acyl
 arthrophyma
