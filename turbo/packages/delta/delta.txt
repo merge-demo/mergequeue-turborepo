@@ -467,7 +467,7 @@ dakotas
 decopperize
 desocialization
 dalapons
-dermititis
+dermititis 1
 dairying
 dilleniaceous
 dale
