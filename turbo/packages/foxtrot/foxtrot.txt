@@ -4190,7 +4190,7 @@ featurish 2
 froe
 fidicinales
 fetus
-fungibility
+fungibility 1
 fructose
 fibrospongiae 1
 fruitlessness
