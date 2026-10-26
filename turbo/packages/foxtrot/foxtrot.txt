@@ -1446,7 +1446,7 @@ funis 1
 fattishness
 fother 1
 fathomed
-flavoprotein
+flavoprotein 1
 frimitts
 freewheel
 fatuism 1
