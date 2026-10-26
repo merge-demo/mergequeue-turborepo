@@ -11452,7 +11452,7 @@ assigner
 approximant
 adversive
 admire
-ampul
+ampul 1
 admonitory
 ampullary
 ampullate
