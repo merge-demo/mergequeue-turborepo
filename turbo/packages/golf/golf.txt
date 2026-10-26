@@ -740,7 +740,7 @@ galvanizers 1
 gripple
 goaling
 galvanizing
-goles
+goles 1
 gemmiferousness
 gunner
 galvanologist
