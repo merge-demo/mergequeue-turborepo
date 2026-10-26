@@ -6482,7 +6482,7 @@ bumpering
 backcloth
 barangay
 biternate
-benzothiofuran
+benzothiofuran 1
 burs
 benzothiophene
 bolection
