@@ -5575,7 +5575,7 @@ gastrasthenia 1
 game 2
 gunstick
 glueman
-gallinago 1
+gallinago 2
 gowkedness
 gasps
 geisenheimer 1
