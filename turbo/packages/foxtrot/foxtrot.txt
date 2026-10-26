@@ -4920,7 +4920,7 @@ fluidised
 foining
 fluoresced 1
 forsooth
-foppishly
+foppishly 1
 fourteens
 flamen 1
 fuzziness
