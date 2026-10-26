@@ -4296,7 +4296,7 @@ freshest
 fease 1
 florescence
 fluyt
-factive
+factive 1
 fet
 flamethrower
 fluxive
