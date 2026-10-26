@@ -1890,7 +1890,7 @@ footstep
 fourdrinier 1
 farinacious
 flamboyantize
-faradizing
+faradizing 1
 frs
 fraidycat
 flybrush
