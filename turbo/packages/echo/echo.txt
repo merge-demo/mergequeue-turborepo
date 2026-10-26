@@ -463,7 +463,7 @@ ecclesiastics 1
 encup
 expositionary
 explants
-exclamatively
+exclamatively 1
 estevin
 erythrophilous
 ecclesiological

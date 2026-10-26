@@ -8113,7 +8113,7 @@ finity
 foregate
 fretless
 ferberite
-fructuosity
+fructuosity 1
 fossilology 1
 foretrace
 forecastleman
