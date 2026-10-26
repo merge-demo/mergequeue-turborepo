@@ -9084,7 +9084,7 @@ fracid
 frizzier
 foraminulous
 furioso
-frothi
+frothi 1
 flopover
 fluosilicate 1
 fuzee
