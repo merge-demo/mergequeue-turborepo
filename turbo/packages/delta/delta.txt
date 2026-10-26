@@ -2979,7 +2979,7 @@ destructiveness
 deemphasized
 donator
 denaturizing
-dhai 1
+dhai 2
 dolomitizing
 dochmius
 dermapteran 1
