@@ -1077,7 +1077,7 @@ ammoniojarosite
 apparelled
 abundancy
 abundant
-accroached
+accroached 1
 abundantly
 agnatically
 abune
