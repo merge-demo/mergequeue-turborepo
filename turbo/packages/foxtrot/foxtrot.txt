@@ -8151,7 +8151,7 @@ fantastry
 feverberries
 frouze
 formicinae
-faddle
+faddle 1
 fraught
 flourishable 1
 fob 1
