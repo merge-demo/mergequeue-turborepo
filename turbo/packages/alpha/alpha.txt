@@ -10329,7 +10329,7 @@ assess
 amenance
 amydon 1
 amendatory
-amending
+amending 1
 autumns
 amoebian
 amendment
