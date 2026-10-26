@@ -8031,7 +8031,7 @@ dharma
 dharmas
 dolorously
 discombobulated
-dumpies
+dumpies 1
 dharmic
 dozening 1
 demicylindrical
