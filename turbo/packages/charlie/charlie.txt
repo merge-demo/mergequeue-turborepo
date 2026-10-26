@@ -7701,7 +7701,7 @@ chastises
 cerotin 1
 chorogi
 cerotypes
-confirmedly
+confirmedly 1
 cerous
 cerrial
 cecidology
