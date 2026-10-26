@@ -938,7 +938,7 @@ cakravartin
 calaba
 crawfoot
 calabari
-cornices
+cornices 1
 collared
 colpotomy
 commerce
