@@ -377,7 +377,7 @@ arsenide
 abetted
 adustive
 actinoelectric 1
-amphisbaenas
+amphisbaenas 1
 abetters
 abettor
 asphaltite
