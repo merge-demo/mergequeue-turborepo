@@ -1288,7 +1288,7 @@ encircler
 endogenesis
 enteroid
 epyllia
-epicranius
+epicranius 1
 earthless
 enfelon
 effectiveness
