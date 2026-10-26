@@ -791,7 +791,7 @@ devolatilize
 dacryocystotomy
 dandles 1
 discute 1
-delirament
+delirament 1
 dissections
 diapsidan
 dandruffs
