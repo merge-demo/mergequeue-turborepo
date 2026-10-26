@@ -3846,7 +3846,7 @@ emasculate
 eschatologist
 eodiscid
 exchangee
-entreasured
+entreasured 1
 emerizing
 engrieve
 emerods
