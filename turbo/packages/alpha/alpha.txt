@@ -24632,7 +24632,7 @@ autoheterodyne
 aralkyl
 ambassador
 anaspadias
-antischolastically
+antischolastically 1
 avena
 agouti
 acclaim
