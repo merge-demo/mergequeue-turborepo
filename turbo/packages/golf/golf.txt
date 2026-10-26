@@ -7141,7 +7141,7 @@ groove
 gestate
 galvayne
 grabbers
-gnawable
+gnawable 1
 gloryful
 granate
 gospoda
