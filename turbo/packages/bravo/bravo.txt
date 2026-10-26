@@ -3706,7 +3706,7 @@ batt
 buisson
 bobadilism
 blippers
-bammed
+bammed 1
 befrilled 1
 bisabol
 booklover
