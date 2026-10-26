@@ -25524,7 +25524,7 @@ coronations
 chitchatty
 coronel
 chamaerrhine
-coronership
+coronership 1
 chasidim
 coroneted
 caburn
