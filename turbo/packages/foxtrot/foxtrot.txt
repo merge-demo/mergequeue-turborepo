@@ -11171,7 +11171,7 @@ flintwork 1
 forefather
 fiddly
 force
-frowy
+frowy 1
 fungia
 fades
 fungicide
