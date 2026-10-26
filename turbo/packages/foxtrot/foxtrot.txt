@@ -6054,7 +6054,7 @@ foxhounds
 filchery
 florisugent
 funambule
-flauntingly
+flauntingly 1
 forsook 1
 feak
 foretriangle
