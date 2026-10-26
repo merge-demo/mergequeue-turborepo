@@ -24953,7 +24953,7 @@ cannet
 cystine
 chummiest
 corbicula
-corbiculate
+corbiculate 1
 cellulolytic
 campaniform
 corbiculum
