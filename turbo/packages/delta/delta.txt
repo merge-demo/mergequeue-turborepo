@@ -7706,7 +7706,7 @@ delative
 daryl
 destituted
 decapodan
-diverged
+diverged 1
 decempunctate
 devilkins
 doubling
