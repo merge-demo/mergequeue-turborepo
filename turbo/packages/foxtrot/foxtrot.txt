@@ -709,7 +709,7 @@ familism 2
 firebolted 1
 farmstead
 forenotion
-ferromagnetic
+ferromagnetic 1
 futilitarianism 1
 fascioloid
 forehard
