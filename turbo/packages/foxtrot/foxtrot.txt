@@ -75,7 +75,7 @@ flunkeyhood
 flocklike
 forme
 faces
-folkright
+folkright 1
 flattening
 flowerfence
 fiendish
