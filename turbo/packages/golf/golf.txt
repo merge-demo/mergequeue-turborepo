@@ -10612,7 +10612,7 @@ goy
 guildite
 gunpoints
 gloomiest
-gunpower 1
+gunpower 2
 gasping
 gentled
 gimmickry 1
