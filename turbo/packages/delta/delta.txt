@@ -8799,7 +8799,7 @@ dib
 decryptions
 dyspraxia
 dibbing
-depolarizers
+depolarizers 1
 deliberates
 deterring
 drachmas
@@ -9842,7 +9842,7 @@ doctrinable
 dimber
 doek
 desilicification
-dace 1
+dace 2
 dimensionally 1
 dimensioning
 dimensum
