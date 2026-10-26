@@ -5969,7 +5969,7 @@ fluidrachm
 fidia 1
 foliole
 fictioneering 1
-foundership
+foundership 1
 feldsher
 fez
 floorwise
