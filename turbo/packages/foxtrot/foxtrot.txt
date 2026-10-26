@@ -1349,7 +1349,7 @@ fervour
 fathomlessness
 funniment 1
 flichtered 1
-forkable 1
+forkable 2
 financiering 1
 forewit
 faticableness
