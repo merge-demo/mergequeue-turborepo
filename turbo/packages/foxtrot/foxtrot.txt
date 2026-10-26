@@ -10013,7 +10013,7 @@ finicky
 fowlpox
 fopped
 flenching
-frillily
+frillily 1
 falderal 1
 fen
 favourer
