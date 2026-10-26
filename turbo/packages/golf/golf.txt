@@ -5833,7 +5833,7 @@ genteelest
 gadder 1
 guadalcazarite
 goldfinch
-gighe
+gighe 1
 gawney
 gipsyweed
 glucoses 1
