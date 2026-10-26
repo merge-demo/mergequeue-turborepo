@@ -1051,7 +1051,7 @@ edged
 eidolon
 exacted
 edger
-edgeshot
+edgeshot 1
 ermani
 edgeway
 embalmment
@@ -5211,7 +5211,7 @@ equilibrate
 endomitosis
 endomorphy
 exta
-ekebergite
+ekebergite 1
 either
 endoneurium
 edify

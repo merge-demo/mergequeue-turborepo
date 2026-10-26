@@ -7209,7 +7209,7 @@ fitz
 footslogger
 flailed
 financiery
-fatstocks 1
+fatstocks 2
 fluorogen
 foregoing
 fungate
@@ -11171,7 +11171,7 @@ flintwork 1
 forefather
 fiddly
 force
-frowy
+frowy 1
 fungia
 fades
 fungicide
