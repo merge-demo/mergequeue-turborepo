@@ -1698,7 +1698,7 @@ frisker
 fearedness
 fluidizes 1
 fathometer
-frypan
+frypan 1
 fellest
 firesafety
 fieldmice
