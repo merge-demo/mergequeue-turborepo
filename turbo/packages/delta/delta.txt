@@ -5443,7 +5443,7 @@ dehistoricize 1
 drama
 denotement 1
 dynatron
-directionality
+directionality 1
 drought
 dyvour 1
 diptyca
