@@ -5994,7 +5994,7 @@ diopsis
 deputing
 diaconicon 1
 dolous
-dells
+dells 1
 digitalization
 dissimilitude
 dactylus
