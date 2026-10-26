@@ -16531,7 +16531,7 @@ apagogic
 avenses 1
 arumlike
 apagogically
-androsporangium
+androsporangium 1
 apagogue
 apay
 apayao
