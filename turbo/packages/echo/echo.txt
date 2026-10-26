@@ -6861,7 +6861,7 @@ epic
 electrochemical
 entomophthorales
 erythrodextrin
-enfeoffed
+enfeoffed 1
 ectrodactylism
 estruses 2
 extremism 1
