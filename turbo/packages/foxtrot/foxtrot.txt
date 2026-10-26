@@ -7872,7 +7872,7 @@ flakily 2
 fetticus
 forewarned 1
 feiseanna 2
-featherworker
+featherworker 1
 foresee
 fluidized
 faitor 1
