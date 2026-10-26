@@ -1836,7 +1836,7 @@ electroballistic
 errableness
 enigmatical 1
 eared
-eighties
+eighties 1
 eightieth
 edematose 1
 elychnious 1
