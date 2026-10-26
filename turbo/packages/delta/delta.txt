@@ -4209,7 +4209,7 @@ detribalized
 dejects
 decorously
 deratized
-debruising
+debruising 1
 disyllabic
 debunker
 dunal
@@ -11940,7 +11940,7 @@ disembitter
 diplanetic
 disembocation
 domicils 1
-diesels
+diesels 1
 disembodiment
 disloyalty
 deducer 1
