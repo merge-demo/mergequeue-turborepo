@@ -10562,7 +10562,7 @@ frowze 1
 franking
 fluky
 flatus
-furnaces
+furnaces 1
 fossilised 1
 featherier 1
 fieldpiece 1
