@@ -11502,7 +11502,7 @@ bullhoof 1
 bejade
 bulbul
 beltmen
-bluetongue
+bluetongue 1
 bedmates
 bluetop
 berths
