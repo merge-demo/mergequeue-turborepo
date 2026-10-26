@@ -5391,7 +5391,7 @@ figuration
 fittest
 fruittime 1
 forthbringer
-formable
+formable 1
 flecking
 forgoer 1
 firehouses 2
