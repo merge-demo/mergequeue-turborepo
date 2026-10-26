@@ -10885,7 +10885,7 @@ befriz
 bromate
 boxtree
 bawneen 1
-bhikku
+bhikku 1
 banished
 blethe
 bromomethane 1
