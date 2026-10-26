@@ -17764,7 +17764,7 @@ applique
 appliques
 antinarcotics
 assorters 1
-annuloida
+annuloida 1
 apinae
 antidora
 acylated
