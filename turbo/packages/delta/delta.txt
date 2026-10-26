@@ -13309,7 +13309,7 @@ dole
 disprince
 dittay
 degradable
-diligentness
+diligentness 1
 disprizes 1
 deficiently
 dermosynovitis
