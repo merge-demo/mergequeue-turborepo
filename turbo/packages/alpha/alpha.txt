@@ -21124,7 +21124,7 @@ ascophore
 alfas
 aerobiont
 aclydes
-arkoses
+arkoses 1
 ascothoracica
 acritude
 aerographer 1
