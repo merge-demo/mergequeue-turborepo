@@ -23463,7 +23463,7 @@ absolutistic
 augmentable
 archdruid
 atumble 1
-annotine
+annotine 1
 augmentedly
 architraves 1
 augmenters

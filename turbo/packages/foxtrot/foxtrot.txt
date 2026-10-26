@@ -11430,7 +11430,7 @@ furomethyl
 firring
 furcated
 fishings
-furfuraceously
+furfuraceously 1
 furred
 frieze
 ferrated
