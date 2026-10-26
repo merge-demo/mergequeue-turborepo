@@ -7830,7 +7830,7 @@ cess
 cessantly
 cessative 1
 cessavit
-cessed
+cessed 1
 cesser
 cesses
 criticism
