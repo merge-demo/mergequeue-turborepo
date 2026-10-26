@@ -3273,7 +3273,7 @@ filopodium
 fiddlestick
 frambesia 1
 fulldo
-farsight
+farsight 1
 fivescore 1
 flounces
 fortier
