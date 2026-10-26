@@ -5660,7 +5660,7 @@ divergenge
 deoxidiser
 demonland
 donship
-depoetize
+depoetize 1
 deconsider
 depoh 1
 decd 1
