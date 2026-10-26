@@ -11082,7 +11082,7 @@ downflow
 disarrays 1
 disarranges
 do
-discernibility
+discernibility 1
 dulled
 dorhawk
 dotless
