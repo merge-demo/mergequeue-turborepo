@@ -3386,7 +3386,7 @@ comfits
 cappings
 coagencies
 capple 1
-cappuccino
+cappuccino 1
 chandu
 calycozoan
 credos
