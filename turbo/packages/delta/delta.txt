@@ -18656,7 +18656,7 @@ duvetynes
 devaporation 1
 deflagrability 1
 daishikis
-dwayberry
+dwayberry 1
 dilemi
 descendance
 diligently
