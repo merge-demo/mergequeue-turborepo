@@ -2051,7 +2051,7 @@ gasometrically 1
 goaf
 gallied
 glime
-grapeful
+grapeful 1
 gazzetta
 gutterize
 gavels
