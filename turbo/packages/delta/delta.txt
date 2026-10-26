@@ -5708,7 +5708,7 @@ disjaskit
 decaliter
 deportability
 deportations
-decriminalized
+decriminalized 1
 delphin
 demonomancy
 dissipatedly
