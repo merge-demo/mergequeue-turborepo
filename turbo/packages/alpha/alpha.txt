@@ -25253,7 +25253,7 @@ agrology
 antitax
 avigators
 attrition
-afrogaean
+afrogaean 1
 azide 1
 asclepiadeous
 aphasiology
