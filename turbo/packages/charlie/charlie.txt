@@ -1214,7 +1214,7 @@ caffoy
 commoditable
 clobbering 1
 chiding
-causativeness
+causativeness 1
 cestuses
 cecily
 caledonite
@@ -24928,7 +24928,7 @@ crazier
 caproate
 corolliform
 cocaigne
-caulophyllum
+caulophyllum 1
 corantoes 1
 centesimi
 chan
