@@ -635,7 +635,7 @@ empetrum
 ecphorable
 embryogeny
 eyestones
-epizoite
+epizoite 1
 eluviating 1
 etwees
 elocute
