@@ -14395,7 +14395,7 @@ devilbird
 dielec
 doled
 divagated
-divagates
+divagates 1
 drillmaster
 divagationally
 divan 1
