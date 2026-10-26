@@ -7765,7 +7765,7 @@ daphnephoria
 devocalized
 dicyandiamide
 diptychon
-dignation
+dignation 1
 devoice
 duvet
 desires
