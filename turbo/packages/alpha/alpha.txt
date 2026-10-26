@@ -14842,7 +14842,7 @@ antimachinery
 anticyclic
 arrondi
 alife
-ambrosias
+ambrosias 1
 anticyclical
 apocodeine
 amorously
