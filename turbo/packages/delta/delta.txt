@@ -9147,7 +9147,7 @@ dipsaceae
 decapods
 dowses
 diductively
-devotions
+devotions 1
 didunculinae
 doraphobia
 dimouts
