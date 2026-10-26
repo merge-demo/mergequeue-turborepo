@@ -17840,7 +17840,7 @@ apposition
 aphrodision 1
 alpujarra 1
 appositive
-accusatory 1
+accusatory 2
 annexed
 amobarbital
 apppetible
