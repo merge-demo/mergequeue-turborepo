@@ -923,7 +923,7 @@ gaverick 1
 guna
 gnatcatcher
 gelatinate
-gyrocompass
+gyrocompass 1
 garnishable 1
 grittiness
 gemeinschaften

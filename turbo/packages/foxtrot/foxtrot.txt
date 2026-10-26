@@ -11529,7 +11529,7 @@ fissidactyl
 fireflaught 1
 foldout 1
 forbreak
-forleave
+forleave 1
 ferruler 1
 fistic
 foreremembered
