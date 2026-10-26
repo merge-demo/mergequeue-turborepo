@@ -12523,7 +12523,7 @@ etymologized
 euphemy
 emissaria
 enhalos
-eugeny
+eugeny 1
 enneacontahedron
 exoskeleton
 equicohesive 1
