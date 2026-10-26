@@ -5563,7 +5563,7 @@ glochid
 gigliato
 geranial
 gemology
-garnice 1
+garnice 2
 geophilidae
 gondolet 1
 golfers
@@ -5833,7 +5833,7 @@ genteelest
 gadder 1
 guadalcazarite
 goldfinch
-gighe
+gighe 1
 gawney
 gipsyweed
 glucoses 1
