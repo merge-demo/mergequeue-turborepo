@@ -11731,7 +11731,7 @@ darkening
 discreeter 1
 dispensation
 drawled
-dermography
+dermography 1
 desoxymorphine
 debtor
 discreetly
@@ -12695,7 +12695,7 @@ dracaena 1
 dissimilarity
 dendric
 disappoints
-daemonistic 1
+daemonistic 2
 disli
 dutiable
 diskophile
