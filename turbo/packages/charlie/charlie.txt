@@ -26600,7 +26600,7 @@ cornbird
 cystectomies
 coulombmeter 1
 culprit
-coulombs
+coulombs 1
 coulter
 circumscription
 coumaphos
