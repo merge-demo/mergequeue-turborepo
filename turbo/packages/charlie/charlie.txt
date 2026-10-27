@@ -14509,7 +14509,7 @@ cnidophore
 cysted
 cysteins
 cyclolith
-cystelcosis
+cystelcosis 1
 cosmologic
 choppy
 cistercianism
