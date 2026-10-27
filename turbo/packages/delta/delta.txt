@@ -14417,7 +14417,7 @@ durian
 dehydrocorydaline 1
 detainable
 dephlogisticated
-dolicholus
+dolicholus 1
 divaricator
 doubtable
 divebomb
