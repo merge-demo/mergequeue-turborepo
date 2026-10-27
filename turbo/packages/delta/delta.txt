@@ -11705,7 +11705,7 @@ disworth 1
 diabolised
 decancellation
 discoverture
-deplume
+deplume 1
 discradle
 delfts
 dockhands
