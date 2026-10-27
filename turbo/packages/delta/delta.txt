@@ -3680,7 +3680,7 @@ dichromism
 deglutinate
 depot
 domitic
-delegated
+delegated 1
 dehkan
 durmasts
 decimate
