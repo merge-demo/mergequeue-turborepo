@@ -2876,7 +2876,7 @@ decussatively
 desideratum
 disyllabizing
 decussoria
-decwriter
+decwriter 1
 divia
 dashel 1
 dedanite 1
