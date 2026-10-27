@@ -29376,7 +29376,7 @@ cavaedium
 cryptostome
 cryptous 1
 cryptovalence
-cholane
+cholane 1
 cymoidium
 corelysis
 cryptovolcanism 1
