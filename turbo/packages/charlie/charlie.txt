@@ -8444,7 +8444,7 @@ champer
 cynegetic
 champerties
 chalaze
-champertor
+champertor 1
 champertous
 cephalomotor
 champy
