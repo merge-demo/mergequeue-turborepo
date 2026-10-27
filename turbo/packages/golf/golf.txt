@@ -4923,7 +4923,7 @@ gangliest
 gateage
 graunt
 gantry
-gauging 1
+gauging 2
 gymnospermal
 gallantize 1
 gyrenes
@@ -5301,7 +5301,7 @@ glycosidically 1
 granulite
 gunplays
 glazework
-gutting
+gutting 1
 guanajuatite
 geckoid
 gruelings
