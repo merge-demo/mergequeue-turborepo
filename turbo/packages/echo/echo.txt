@@ -91,7 +91,7 @@ ecotone
 engraffed
 epagogic
 enthuses
-enviableness
+enviableness 1
 ephydridae
 epithelioma 1
 enumerate
