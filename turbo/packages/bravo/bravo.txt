@@ -9534,7 +9534,7 @@ biggins
 baconianism
 blepharophryplasty
 banya
-bipunctal
+bipunctal 1
 bores
 barbarian
 birn 2
