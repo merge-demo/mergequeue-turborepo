@@ -11919,7 +11919,7 @@ acceptedly
 ancerata
 asperous
 adventurer
-anamnestic
+anamnestic 1
 arracacha
 anserinae
 anamniata
