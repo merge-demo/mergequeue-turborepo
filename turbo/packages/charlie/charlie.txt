@@ -18199,7 +18199,7 @@ clubbiness
 coextends 1
 creep
 coextent
-cofactors
+cofactors 1
 castrating
 cofane 1
 conflagrator
