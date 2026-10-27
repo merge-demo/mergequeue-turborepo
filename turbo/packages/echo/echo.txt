@@ -12005,7 +12005,7 @@ etherion
 espeire
 electrostrictive 1
 embolus
-equilibrize
+equilibrize 1
 electioneerer
 enthusiasts
 ectromelian
