@@ -7529,7 +7529,7 @@ epicedia
 encephalopathic
 emasculative
 ebriose
-earnie
+earnie 1
 electronics
 eastward 1
 eunuchoidism 1
