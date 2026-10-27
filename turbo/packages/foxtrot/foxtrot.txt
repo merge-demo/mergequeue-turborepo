@@ -328,7 +328,7 @@ froghood
 fluxionary
 feods
 forces
-fireplough
+fireplough 1
 faineancy
 fayles
 fimbricated
@@ -10139,7 +10139,7 @@ foreheaded
 fissiparously 1
 frittering
 fuchi
-freakier
+freakier 1
 frivolities
 froughy
 fumarium

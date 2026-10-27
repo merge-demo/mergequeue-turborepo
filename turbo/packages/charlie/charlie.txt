@@ -25686,7 +25686,7 @@ centupled
 corregimientos
 craniomalacia
 chaucerianism
-correl
+correl 1
 coolaman 1
 correlatable
 cathedrae
