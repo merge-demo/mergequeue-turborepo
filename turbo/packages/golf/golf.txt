@@ -7611,7 +7611,7 @@ ghoster
 gears 1
 glancingly
 guenons
-geologist
+geologist 1
 guardianless 1
 gradated
 gatecrasher
