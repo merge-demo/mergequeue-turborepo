@@ -5268,7 +5268,7 @@ elaterin
 endopodite 1
 exagitation
 eskimoid
-exarteritis
+exarteritis 1
 elapsoidea
 earthshakingly
 electrobiological 1
