@@ -5487,7 +5487,7 @@ behenic
 bemixed 1
 booing
 brettice 1
-beehouse
+beehouse 1
 bardulph
 baptised
 behymn
