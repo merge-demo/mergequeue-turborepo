@@ -2817,7 +2817,7 @@ downstater
 daur
 desiring
 decubiti
-didymus
+didymus 1
 deculturate
 dentata
 driverless
