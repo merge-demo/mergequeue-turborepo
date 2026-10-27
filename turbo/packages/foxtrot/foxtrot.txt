@@ -6665,7 +6665,7 @@ folksily 1
 flame
 felted
 fernery
-frescoists 1
+frescoists 2
 fighters
 feast
 fellowships
