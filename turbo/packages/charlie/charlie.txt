@@ -3861,7 +3861,7 @@ courie
 carbonylene
 chalukyan
 carbonimeter 1
-carbonimide
+carbonimide 1
 choultries
 contrastimulant
 costaea
@@ -13565,7 +13565,7 @@ chickens
 cryptoanalysis
 cimicifuga
 capillitial
-compressure
+compressure 1
 conformableness
 calcaneonavicular
 cymiferous
