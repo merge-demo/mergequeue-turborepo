@@ -12193,7 +12193,7 @@ dovecots
 disfrocking
 dysfunctional 1
 documentaries
-dysfunctioning
+dysfunctioning 1
 deltoidal
 disarmers
 durous
