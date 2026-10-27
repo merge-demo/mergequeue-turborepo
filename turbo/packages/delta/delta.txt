@@ -9684,7 +9684,7 @@ dilatants
 dilatate
 dicalcic
 decremented
-discutient
+discutient 1
 dilatative
 dodecahedron
 distillations
