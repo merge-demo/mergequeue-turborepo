@@ -9270,7 +9270,7 @@ brookie
 bipaschal
 biped 1
 bipedal
-beggared
+beggared 1
 bogo
 bourbonesque
 bipedality
