@@ -7668,7 +7668,7 @@ annot
 alcoholdom
 abbrev
 alcoholemia
-alcoholically
+alcoholically 1
 antiscience
 appetition
 anaudia
