@@ -540,7 +540,7 @@ fawnery
 falcunculus
 foolocracy
 falderals 1
-flossed
+flossed 1
 fussier
 familiarity
 forewarn

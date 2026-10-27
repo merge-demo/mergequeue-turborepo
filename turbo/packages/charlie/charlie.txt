@@ -27513,7 +27513,7 @@ corpus
 cocas
 canephoros
 covenance
-cammed
+cammed 1
 covenantal
 cypridinoid
 cisted
