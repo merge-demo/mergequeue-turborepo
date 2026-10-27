@@ -6760,7 +6760,7 @@ enemied 1
 ergon
 educator
 extramural
-entire
+entire 1
 epithumetic
 epinephelus
 entireness
