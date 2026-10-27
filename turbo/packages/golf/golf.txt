@@ -10096,7 +10096,7 @@ garrulus
 ghostwrote
 galactodensimeter
 grammarian
-gatehouse 1
+gatehouse 2
 gekkonoid 1
 gonfaloniership
 gasoscope
