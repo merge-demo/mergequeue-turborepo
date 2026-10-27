@@ -10271,7 +10271,7 @@ fleetness
 feme
 filum
 felons 1
-fistinut
+fistinut 1
 frolic
 fermentation 1
 forensics
