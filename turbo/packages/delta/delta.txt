@@ -7070,7 +7070,7 @@ diagnostic
 dicoccous
 discouple
 duroquinone 1
-denigrates
+denigrates 1
 destructivity
 dabbing 1
 deplorable
