@@ -4138,7 +4138,7 @@ excursus
 envisaged 2
 endives
 exedral
-epirote
+epirote 1
 eiffel
 ensheathed
 every 1
