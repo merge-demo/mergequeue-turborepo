@@ -621,7 +621,7 @@ emblic
 evincement
 eclamptic 1
 efficacious
-extuberate
+extuberate 1
 epizoites
 earsore
 ecstatics 1
