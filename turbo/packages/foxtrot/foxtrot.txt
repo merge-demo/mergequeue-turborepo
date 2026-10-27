@@ -4705,7 +4705,7 @@ fougue
 feathermonger 1
 fratchety
 fijian
-fulgor
+fulgor 1
 ferrugineous
 flabella
 folksey
