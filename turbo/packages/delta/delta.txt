@@ -2927,7 +2927,7 @@ dolt
 deducibility
 dermises
 drawstop
-deducted
+deducted 1
 devolatilized 1
 disseisoress
 doxycycline
