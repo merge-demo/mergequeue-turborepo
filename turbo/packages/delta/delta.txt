@@ -13056,7 +13056,7 @@ dekastere
 desilverizing
 dialogical
 djinns
-deicidal
+deicidal 1
 decanol 1
 dispatch
 deprecators
