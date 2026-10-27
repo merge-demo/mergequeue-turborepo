@@ -6917,7 +6917,7 @@ adibasi
 arienzo
 ablepharia
 argyranthemous
-antivitalistic
+antivitalistic 1
 alkalified
 afflatus
 airtimes
