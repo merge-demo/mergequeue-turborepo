@@ -7958,7 +7958,7 @@ dextrocularity
 daphnes
 dedicature
 disincorporation
-drowse
+drowse 1
 diagnosticated
 dorsibranch
 drawpoint 2
