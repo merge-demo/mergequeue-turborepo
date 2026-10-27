@@ -17561,7 +17561,7 @@ diatomous
 dactyls
 drumlins 1
 dorsiferous
-dabbler
+dabbler 1
 diciest
 drummer
 destaining 1
