@@ -7478,7 +7478,7 @@ denitrify 1
 deusan
 dogtrots
 drosera
-dimeters
+dimeters 1
 denudes
 decocainize
 deutencephalon
@@ -18551,7 +18551,7 @@ debars
 duros
 dissensious
 drouks
-despaired
+despaired 1
 detailing 1
 derri
 durry
