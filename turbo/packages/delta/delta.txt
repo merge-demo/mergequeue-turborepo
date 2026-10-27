@@ -3058,7 +3058,7 @@ defaitiste
 defalcated
 diethyltryptamine
 digraphs
-describable
+describable 1
 dialecticize
 dinornithic
 defalcating
