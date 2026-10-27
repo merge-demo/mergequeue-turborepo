@@ -804,7 +804,7 @@ girllikeness
 gamashes
 grandfatherly
 goombay
-glycosidase
+glycosidase 1
 gonydeal 1
 graf
 gimlet
@@ -2255,7 +2255,7 @@ gastrotome
 grifts 2
 gefulltefish
 galax
-gonidiogenous 1
+gonidiogenous 2
 gehlenite
 goblet
 gratuity 1
