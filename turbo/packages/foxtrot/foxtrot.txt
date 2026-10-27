@@ -10493,7 +10493,7 @@ frostfish
 forcite
 frostbitten
 frosty
-frictionable
+frictionable 1
 feuillet
 fantasticality
 frostily 2
