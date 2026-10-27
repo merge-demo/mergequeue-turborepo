@@ -17936,7 +17936,7 @@ appro
 amate
 approach 1
 anthracotheriidae 1
-approachable
+approachable 1
 administration
 amphirhine
 amblypod
