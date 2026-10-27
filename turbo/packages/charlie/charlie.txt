@@ -26397,7 +26397,7 @@ cinderlike
 coterie
 ciminite
 cryptoglioma
-cartaceous
+cartaceous 1
 concavities
 centipoise
 chronically
