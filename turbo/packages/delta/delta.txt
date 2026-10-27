@@ -1480,7 +1480,7 @@ discernableness
 dazzlingness
 descale
 dbms
-degenerationist
+degenerationist 1
 dbridement
 decidual
 dracma 1
