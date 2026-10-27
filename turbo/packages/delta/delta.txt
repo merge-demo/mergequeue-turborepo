@@ -6750,7 +6750,7 @@ dietzeite
 desiredly
 distruster
 desirer
-drachma
+drachma 1
 daira
 dihedrons
 desirous
