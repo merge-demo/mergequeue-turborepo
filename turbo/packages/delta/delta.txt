@@ -10653,7 +10653,7 @@ dissipating
 durned 1
 draws
 derivable
-declinometer
+declinometer 1
 dirking 1
 downstreet
 dogman
