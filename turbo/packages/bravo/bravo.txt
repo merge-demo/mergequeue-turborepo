@@ -994,7 +994,7 @@ brassards
 betook
 brooming 1
 bronchoscopically
-bindle
+bindle 1
 bahoe 1
 biotype
 bycoket
