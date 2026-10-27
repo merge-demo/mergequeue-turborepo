@@ -3306,7 +3306,7 @@ glottalization
 gyneccia
 geepounds
 gauderies
-geostrophically
+geostrophically 1
 goldenmouth
 gobio
 gimbaled 1
