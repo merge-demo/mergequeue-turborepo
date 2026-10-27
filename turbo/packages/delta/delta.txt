@@ -5525,7 +5525,7 @@ diamine
 dialyzation
 disaffections
 diabolizing
-desmognathae
+desmognathae 1
 deperdite
 deperditely 1
 domain
