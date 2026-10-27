@@ -1251,7 +1251,7 @@ eelcake 1
 elsewheres 1
 eumeromorph
 exposition
-episomal
+episomal 1
 evaluation
 efflation
 enmanche
