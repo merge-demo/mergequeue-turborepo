@@ -8904,7 +8904,7 @@ grandiloquous 1
 gasteropod
 gnaw 1
 grisset 1
-glycosidic 1
+glycosidic 2
 geranomorphic
 gothicize
 gringole
