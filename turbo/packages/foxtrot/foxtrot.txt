@@ -10809,7 +10809,7 @@ fth
 feuars
 footsoldiers
 fanned 1
-frayproof
+frayproof 1
 factualistic
 flue
 fubbery 1
