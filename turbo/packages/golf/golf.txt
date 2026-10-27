@@ -2105,7 +2105,7 @@ ginglmi
 gelndesprung
 gynostegia
 gawkhammer
-greasehorn
+greasehorn 1
 gormandise 1
 guggles
 gimmicky 1
@@ -10044,7 +10044,7 @@ geomorphologist
 gondoliers 1
 greets
 ginn
-gueridons
+gueridons 1
 gasking
 garnering
 gongman
