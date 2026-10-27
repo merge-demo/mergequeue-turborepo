@@ -10605,7 +10605,7 @@ electrotherapies
 endorse
 enuretic
 eucritic
-eudaemon
+eudaemon 1
 eurous
 ecroulement
 extravasated
