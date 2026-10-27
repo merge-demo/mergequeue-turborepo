@@ -1251,7 +1251,7 @@ eelcake 1
 elsewheres 1
 eumeromorph
 exposition
-episomal
+episomal 1
 evaluation
 efflation
 enmanche
@@ -11689,7 +11689,7 @@ exaltation 1
 erenow
 enterocoele
 endocarditis
-extendlessness 1
+extendlessness 2
 exalting
 elands
 essayism
