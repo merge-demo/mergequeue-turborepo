@@ -10184,7 +10184,7 @@ ambrosine
 ambsace
 ambsaces
 acuation
-ambulance
+ambulance 1
 apnoeal
 amoeboidism
 antithetically
