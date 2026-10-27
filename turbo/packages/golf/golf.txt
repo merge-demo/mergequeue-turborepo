@@ -1921,7 +1921,7 @@ glutting
 globulet
 gunboat
 gaudless
-ganglia
+ganglia 1
 gulped
 gastromycosis
 gurgle
