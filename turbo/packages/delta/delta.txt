@@ -7474,7 +7474,7 @@ dipsadinae
 doorwise
 degger
 dibase
-denitrify
+denitrify 1
 deusan
 dogtrots
 drosera
