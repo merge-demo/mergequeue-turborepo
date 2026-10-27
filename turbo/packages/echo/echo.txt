@@ -112,7 +112,7 @@ egotistically
 eartab
 exodermal
 euphonised
-echinoderma
+echinoderma 1
 exanthemata
 enantiomorphous 1
 endometritis
