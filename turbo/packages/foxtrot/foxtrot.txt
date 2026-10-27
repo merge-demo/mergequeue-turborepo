@@ -4416,7 +4416,7 @@ felstone
 frenghi 1
 fraiser
 fei 1
-falsary
+falsary 1
 fovent
 flogmaster
 fumishly
