@@ -3115,7 +3115,7 @@ fairlead
 fantastic
 foretokened 1
 fizz
-functionals
+functionals 1
 felsophyric
 filtrating
 formerly
