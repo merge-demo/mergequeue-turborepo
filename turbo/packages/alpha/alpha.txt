@@ -11583,7 +11583,7 @@ aristogenesis
 asparagyl
 albification
 anabibazon
-autochthons
+autochthons 1
 anabiotic
 autosauria
 antihypertensive 1
