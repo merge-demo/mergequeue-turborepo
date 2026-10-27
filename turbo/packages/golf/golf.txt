@@ -2255,7 +2255,7 @@ gastrotome
 grifts 2
 gefulltefish
 galax
-gonidiogenous 1
+gonidiogenous 2
 gehlenite
 goblet
 gratuity 1
