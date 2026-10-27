@@ -11193,7 +11193,7 @@ anfractuous 1
 arette
 ashkenazi
 antisun
-amphibiety
+amphibiety 1
 azimuthally
 appersonification
 artifices
