@@ -10141,7 +10141,7 @@ emballonurid
 eupion
 exemplifier
 endive
-earstone 1
+earstone 2
 epithalami
 errs
 expositress 2
@@ -12412,7 +12412,7 @@ earlduck
 enthrones 1
 evilhearted
 exonerations
-ectypes
+ectypes 1
 enemies 1
 exporting
 exorcisement
