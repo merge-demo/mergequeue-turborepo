@@ -3149,7 +3149,7 @@ dulcineas
 dandriffs
 determinant
 deracine
-drivelled
+drivelled 1
 distilment
 detainingly
 deinotherium
