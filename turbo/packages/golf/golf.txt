@@ -1711,7 +1711,7 @@ glycerinate
 gorkhali
 gynocracy 2
 gympie
-goldstone
+goldstone 1
 genotypes
 gastriloquous
 glike
