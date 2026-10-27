@@ -12922,7 +12922,7 @@ echea
 erythropenia
 engr
 eosaurus
-erne
+erne 1
 expeditiousness 1
 ecchymose
 epithymetic
