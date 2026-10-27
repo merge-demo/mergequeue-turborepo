@@ -3183,7 +3183,7 @@ guardant
 glossolabiolaryngeal
 gametoid
 ganglial
-gooier
+gooier 1
 geotaxy
 gie
 geologers 1
@@ -4923,7 +4923,7 @@ gangliest
 gateage
 graunt
 gantry
-gauging 1
+gauging 2
 gymnospermal
 gallantize 1
 gyrenes
