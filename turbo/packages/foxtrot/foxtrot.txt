@@ -65,7 +65,7 @@ fairleads
 faceharden
 flagships 1
 flecken
-facellite
+facellite 1
 felonious
 fordeal
 fullfaces
