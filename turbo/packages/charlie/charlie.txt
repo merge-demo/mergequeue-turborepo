@@ -2697,7 +2697,7 @@ catostomus 1
 cankerfret
 compiles
 calcemia 2
-cannabinol
+cannabinol 1
 cankery
 cannoneering
 cankerroot
@@ -27941,7 +27941,7 @@ cradlechild
 cradled
 corvee
 cradleland
-captivatrix
+captivatrix 1
 counterselection
 cognosce
 cradlemaker
