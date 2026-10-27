@@ -1085,7 +1085,7 @@ acromimia
 ausubo
 absorbability
 aburton
-artemisia
+artemisia 1
 atestine
 amphioxidae
 abused
