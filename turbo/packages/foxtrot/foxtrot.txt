@@ -5438,7 +5438,7 @@ floatative 1
 fleering 1
 faunal 1
 forcibly 1
-floridians
+floridians 1
 figurativeness
 formulator 1
 famished
