@@ -6789,7 +6789,7 @@ dolichoblond
 definition
 ducamara 1
 disfranchisers
-donataries
+donataries 1
 degenerates
 dextrocardial
 dendrograph
