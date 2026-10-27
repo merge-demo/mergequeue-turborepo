@@ -1103,7 +1103,7 @@ epeisodion
 equidistantly
 esterification
 elatrometer
-equipartition
+equipartition 1
 electrotypes
 epicaridea
 evaporativity
