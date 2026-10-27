@@ -534,7 +534,7 @@ gomphocarpus
 gnetaceous
 galler
 glycyrize 1
-grandmammy
+grandmammy 1
 grandsirs 1
 germanium
 galvanotonic
