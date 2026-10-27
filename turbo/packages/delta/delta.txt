@@ -2088,7 +2088,7 @@ daintify
 doline
 daunts
 disinheritances
-duddies
+duddies 1
 despoilment
 decameron
 digraph
