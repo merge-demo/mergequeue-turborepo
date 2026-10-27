@@ -15182,7 +15182,7 @@ bullionless
 biddulphiaceae
 bryanism
 barsom
-bahuvrihis
+bahuvrihis 1
 brawlys
 briard
 bromins
