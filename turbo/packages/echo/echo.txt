@@ -10316,7 +10316,7 @@ electuaries
 enneacontahedral 1
 exosmic 1
 extemporise
-exaggerative
+exaggerative 1
 eupomatiaceae
 ethonomics
 ethnocentric 1
