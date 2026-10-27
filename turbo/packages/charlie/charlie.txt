@@ -10704,7 +10704,7 @@ collinearity
 communicates
 cyanformic
 chondralgia
-chinaman
+chinaman 1
 chinamaniac
 chinamen
 chinaphthol
