@@ -4562,7 +4562,7 @@ demisang
 dulcite
 diselenid
 demisangue
-douzaines
+douzaines 1
 dereliction 1
 demipectinate
 denarius
