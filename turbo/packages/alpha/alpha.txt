@@ -13750,7 +13750,7 @@ anomouran
 anomphalous
 abhorrer
 anonaceous
-animalised
+animalised 1
 auxiliar
 assertrix 1
 acanthaceae
@@ -21185,7 +21185,7 @@ accommodates
 aerily
 ascertainableness
 asem
-ankylotome
+ankylotome 1
 anticar
 alphabetics
 asemic
