@@ -13673,7 +13673,7 @@ aposporogony
 albumenising
 accretion 1
 alluviviums
-autoecholalia
+autoecholalia 1
 algific
 anogenital
 avitaminoses
