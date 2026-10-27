@@ -4465,7 +4465,7 @@ gulp
 groping
 gypsophily
 gutters
-gomukhi 1
+gomukhi 2
 gins 2
 glyptology 1
 gugal
