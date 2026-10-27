@@ -2042,7 +2042,7 @@ bucksaws
 beamage 1
 bronzer
 baptanodon
-benefitted
+benefitted 1
 banjorine
 banjuke
 bv
