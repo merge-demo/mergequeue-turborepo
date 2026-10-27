@@ -5301,7 +5301,7 @@ glycosidically 1
 granulite
 gunplays
 glazework
-gutting
+gutting 1
 guanajuatite
 geckoid
 gruelings
