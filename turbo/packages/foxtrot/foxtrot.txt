@@ -3601,7 +3601,7 @@ fragmentised 1
 fableland
 fogus
 fanwort
-figurize
+figurize 1
 filibusterers
 fomento 1
 freddie
