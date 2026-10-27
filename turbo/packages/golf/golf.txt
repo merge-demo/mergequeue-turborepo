@@ -10343,7 +10343,7 @@ gonoph
 grot
 gummaker
 glebal 1
-gaums
+gaums 1
 gulfweeds 1
 greenlandish
 gadgety
