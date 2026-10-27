@@ -24511,7 +24511,7 @@ auxanogram
 auxanometer
 ayubite
 auxeses 1
-altercative
+altercative 1
 antispreader
 acceleration
 aoristic
