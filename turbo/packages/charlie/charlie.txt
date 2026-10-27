@@ -11484,7 +11484,7 @@ coheads
 circularizer
 choirman 1
 conspirers
-counterflux
+counterflux 1
 colonizations
 choirmasters 1
 cornaceous
