@@ -365,7 +365,7 @@ gofers
 greekless
 galactophoritis 1
 gutwort 1
-gallicanism
+gallicanism 1
 gingerin
 gyrectomies
 grade
