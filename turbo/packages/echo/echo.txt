@@ -6691,7 +6691,7 @@ endamebiasis 1
 entertainingly
 electrophysics
 endarteritis
-entertainment
+entertainment 1
 endosepsis
 epicenters
 equines
