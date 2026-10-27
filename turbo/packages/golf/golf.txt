@@ -4412,7 +4412,7 @@ gluttony
 galloman
 gaultherine 1
 gipon 1
-gaetulan
+gaetulan 1
 gunlayer
 gypped
 giardia 1
@@ -7092,7 +7092,7 @@ geotectology
 garnett 1
 gnathostomatous 1
 gamecock
-gatetender
+gatetender 1
 gorals
 genealogize
 gastrocystic
