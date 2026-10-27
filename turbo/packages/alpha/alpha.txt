@@ -15936,7 +15936,7 @@ antiquaries 1
 americas
 amylase
 aromatise
-acquital
+acquital 1
 achaenodon
 aliasing
 antiquated
