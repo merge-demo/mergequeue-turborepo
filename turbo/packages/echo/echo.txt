@@ -3677,7 +3677,7 @@ euploids
 eruptiveness
 exscinded
 endocrinopathic 1
-entangling
+entangling 1
 eunomy 1
 extravert
 encolpion
