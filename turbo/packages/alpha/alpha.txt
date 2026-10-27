@@ -833,7 +833,7 @@ ambisinistrous 1
 absampere
 alalunga
 awanting
-ambiguities
+ambiguities 1
 agaves
 araeotic
 albright
