@@ -6547,7 +6547,7 @@ guttiferal 1
 gruis
 geldesprung
 graduateship
-gluconeogenetic
+gluconeogenetic 1
 genty
 gallinula 1
 gelandelaufer
