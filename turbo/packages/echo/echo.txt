@@ -7021,7 +7021,7 @@ elastomer 1
 electricalize 1
 eglatere
 ethos 1
-enepidermic
+enepidermic 1
 eliquate
 excorticated
 ephods
