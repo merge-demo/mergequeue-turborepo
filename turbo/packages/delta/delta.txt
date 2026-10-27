@@ -18403,7 +18403,7 @@ demilune
 demonstrable 1
 duopsonistic
 devota
-defrauder
+defrauder 1
 diatribist 1
 depark
 doke
