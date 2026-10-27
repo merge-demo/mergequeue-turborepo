@@ -1461,7 +1461,7 @@ fringing 1
 fadmongering
 fellatios
 fetched
-fatuoid
+fatuoid 1
 fatuus
 frankly 1
 fairtime
