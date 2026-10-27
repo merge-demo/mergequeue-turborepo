@@ -1501,7 +1501,7 @@ greediest
 groose
 guaxima
 glandless 1
-gorlin
+gorlin 1
 gregarinidal
 grisounite
 gestureless
