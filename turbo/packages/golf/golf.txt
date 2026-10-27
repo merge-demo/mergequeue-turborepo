@@ -5449,7 +5449,7 @@ gerridae
 goldish 1
 gloomingly
 garnishment
-gadaria
+gadaria 1
 gastroparietal
 glucosemia
 gazingly 1
