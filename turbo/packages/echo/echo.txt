@@ -11821,7 +11821,7 @@ emboil
 eulogization 1
 extromit 1
 excalceate
-emasculatory
+emasculatory 1
 excalceation
 excalibur
 esophagectasia
