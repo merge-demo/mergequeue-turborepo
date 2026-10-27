@@ -10523,7 +10523,7 @@ aasvogels
 amyclaean
 alisonite
 anatinae
-absonant
+absonant 1
 adscendent
 agib
 amyclas
