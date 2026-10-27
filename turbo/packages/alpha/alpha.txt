@@ -4514,7 +4514,7 @@ arming
 atelopodia
 ako
 adventurous
-anaglyptic
+anaglyptic 1
 adventurousness
 ankle
 antebridal
