@@ -2393,7 +2393,7 @@ barcelona
 boxwork
 benzoylformic 1
 blip
-boutel 1
+boutel 2
 bebeeru
 barcone
 baizes 1
