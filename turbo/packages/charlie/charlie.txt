@@ -30878,7 +30878,7 @@ cathop
 cosmologygy
 culpeo
 compar
-culpose
+culpose 1
 considerability 1
 cypselid
 culsdesac
