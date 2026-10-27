@@ -10287,7 +10287,7 @@ flagitiousness 1
 faitour
 ferricyanhydric
 figuriste
-frolicsome
+frolicsome 1
 fishful 1
 fratched
 frammit

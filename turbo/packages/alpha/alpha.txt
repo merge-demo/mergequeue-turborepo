@@ -5828,7 +5828,7 @@ antiturnpikeism
 arithmetical
 atteal
 agelast 1
-agelaus
+agelaus 1
 agelessness
 aphicidal
 adradial
