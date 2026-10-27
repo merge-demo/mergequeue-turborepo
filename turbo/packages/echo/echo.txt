@@ -10141,7 +10141,7 @@ emballonurid
 eupion
 exemplifier
 endive
-earstone 1
+earstone 2
 epithalami
 errs
 expositress 2
