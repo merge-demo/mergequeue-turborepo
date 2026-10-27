@@ -795,7 +795,7 @@ cunas
 collyr
 circulating
 circumvent
-chesboil
+chesboil 1
 calidity 1
 cahot
 cahows
