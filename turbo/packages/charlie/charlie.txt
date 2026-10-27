@@ -30966,7 +30966,7 @@ cum
 cants
 cumay
 currack
-caprigenous
+caprigenous 1
 cumal
 cytozoic
 cumaphyte
