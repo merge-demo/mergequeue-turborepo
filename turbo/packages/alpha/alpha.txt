@@ -6917,7 +6917,7 @@ adibasi
 arienzo
 ablepharia
 argyranthemous
-antivitalistic
+antivitalistic 1
 alkalified
 afflatus
 airtimes
@@ -21185,7 +21185,7 @@ accommodates
 aerily
 ascertainableness
 asem
-ankylotome
+ankylotome 1
 anticar
 alphabetics
 asemic
