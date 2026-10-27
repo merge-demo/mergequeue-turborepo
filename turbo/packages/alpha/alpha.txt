@@ -10426,7 +10426,7 @@ alberttype
 amerimnon
 analysing 1
 abducing
-amerind
+amerind 1
 artichokes
 axe
 androgen
