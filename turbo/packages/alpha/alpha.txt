@@ -869,7 +869,7 @@ amianthoid
 absentees 1
 absenters
 antisensuousness
-aflatus
+aflatus 1
 amurcosity
 absentminded
 absentness
