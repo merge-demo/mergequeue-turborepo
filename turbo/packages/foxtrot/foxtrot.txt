@@ -7867,7 +7867,7 @@ fictionalizing
 foresail
 feuilletonistic
 fasten
-fork
+fork 1
 flakily 2
 fetticus
 forewarned 1
