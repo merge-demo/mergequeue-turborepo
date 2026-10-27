@@ -5917,7 +5917,7 @@ grangerize
 glanduligerous
 gensengs
 graylag
-geodesics
+geodesics 1
 gazogenes
 galactopathy
 ginkgoes
