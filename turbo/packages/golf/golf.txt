@@ -839,7 +839,7 @@ galoots 1
 granose
 gnarring
 gramp
-gramary
+gramary 1
 gamblesomeness
 greenback
 genseng
