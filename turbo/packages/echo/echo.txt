@@ -6411,7 +6411,7 @@ eye
 earthling
 enterprisingness 1
 euthanasia
-enbaissing
+enbaissing 1
 edgeweed
 ecotypic 1
 exceptioner
