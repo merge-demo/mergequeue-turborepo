@@ -1860,7 +1860,7 @@ gatewaying 1
 griddlecakes
 gawain
 ghibellinism
-gnomide
+gnomide 1
 gallonage
 gill
 gawkihood
