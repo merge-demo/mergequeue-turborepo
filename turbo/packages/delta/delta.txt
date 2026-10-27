@@ -9747,7 +9747,7 @@ dilettanti
 decriminalizing
 dilettantism
 diligence
-diligences
+diligences 1
 diligent
 dilis 1
 dillenia
