@@ -11718,7 +11718,7 @@ dimane
 decoupage
 dopamelanin
 discreation
-depersonalizes
+depersonalizes 1
 disburses
 discredit
 devocalizing
