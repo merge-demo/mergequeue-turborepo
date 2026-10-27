@@ -8421,7 +8421,7 @@ champagneless
 champagning
 chockman
 champagnize
-caracolling
+caracolling 1
 cardiogenic
 champagnized
 cesurae
