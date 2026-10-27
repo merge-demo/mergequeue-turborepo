@@ -3139,7 +3139,7 @@ euphonetic
 emissive
 endoscopy
 earthsmoke
-eloigning
+eloigning 1
 euryte
 eloigns 1
 eloin
