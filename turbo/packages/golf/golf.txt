@@ -7413,7 +7413,7 @@ gynecophore 1
 guanins
 gadroonage
 gou 1
-gyrometer
+gyrometer 1
 goodmen
 grimacingly
 glasswork
