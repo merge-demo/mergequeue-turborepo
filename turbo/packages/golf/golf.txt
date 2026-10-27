@@ -2099,7 +2099,7 @@ gerberia
 greatening
 guerillaism
 geobotanist
-galvanizer 1
+galvanizer 2
 gerontes 1
 ginglmi
 gelndesprung
