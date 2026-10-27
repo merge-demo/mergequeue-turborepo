@@ -2921,7 +2921,7 @@ fevered
 foliate
 flitchen
 franklinian
-feveret
+feveret 1
 forefending
 forefault
 forworden
