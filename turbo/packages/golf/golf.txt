@@ -8392,7 +8392,7 @@ glossed
 guadagnini
 gavottes
 gawked
-gawkiest
+gawkiest 1
 grumphy 1
 greenbacker
 gauntree

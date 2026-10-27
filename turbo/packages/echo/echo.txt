@@ -12183,7 +12183,7 @@ epigraphs
 exec
 epiphonemas
 eudemonist
-exacervation
+exacervation 1
 excogitation
 enflame
 entrechats
