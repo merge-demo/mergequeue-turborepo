@@ -8906,7 +8906,7 @@ energumen
 ergostat
 eddie
 entelam
-experimentally
+experimentally 1
 ergoted
 explosible
 encephalomalaxis 1
