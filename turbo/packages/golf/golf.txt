@@ -1097,7 +1097,7 @@ gestes 1
 galactolipin
 goularo
 glossopharyngeal
-gamboge
+gamboge 1
 genitives
 gymnodiniidae 1
 goriest
