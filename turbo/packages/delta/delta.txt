@@ -13330,7 +13330,7 @@ disproves
 disprovide
 distillate
 destuffing
-daintier
+daintier 1
 dustpoint
 dispurvey
 disputability
