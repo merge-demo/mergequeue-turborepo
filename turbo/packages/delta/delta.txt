@@ -1976,7 +1976,7 @@ diced
 dermatoma 1
 drover 1
 demyelinate
-deflection
+deflection 1
 descloizite
 disbenchment
 decadary
