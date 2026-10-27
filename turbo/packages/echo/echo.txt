@@ -1880,7 +1880,7 @@ einsteinian
 encomiast
 epimyocardium
 elapsed
-endamage
+endamage 1
 everwho
 eightball 1
 eclat
