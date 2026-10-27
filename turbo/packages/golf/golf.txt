@@ -6486,7 +6486,7 @@ glycogenosis
 geanticlinal
 ghis
 gunster
-geotherm
+geotherm 1
 gamopetalous
 goldsmithry
 groveler
