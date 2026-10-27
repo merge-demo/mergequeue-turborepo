@@ -10424,7 +10424,7 @@ filigree 1
 fictility
 flyspecked
 firstling
-faller
+faller 1
 femicide
 forcaria
 fertilizer
