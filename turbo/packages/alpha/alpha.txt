@@ -13565,7 +13565,7 @@ anglicizes
 announced 1
 agronomial
 astrophyllite
-announcing
+announcing 1
 affronting
 annualized
 apair

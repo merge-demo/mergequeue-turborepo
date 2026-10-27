@@ -10548,7 +10548,7 @@ guayules 1
 grandmaster
 goustie
 gatepost
-glyphs
+glyphs 1
 guanays
 gunmaking 2
 gaun
