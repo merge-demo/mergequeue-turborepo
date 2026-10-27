@@ -13928,7 +13928,7 @@ cintre
 cinura 1
 cion
 chaum
-croy
+croy 1
 cacique
 corruptions
 cionitis
