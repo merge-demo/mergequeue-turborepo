@@ -10033,7 +10033,7 @@ fruitier
 fringent
 frizzer 2
 feminacy
-fringetail
+fringetail 1
 fimbles
 frogskin
 fortune
