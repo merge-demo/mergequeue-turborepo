@@ -2097,7 +2097,7 @@ facture
 finetop
 favorless
 fleshen
-frument
+frument 1
 fayence 1
 fluming
 falcate
