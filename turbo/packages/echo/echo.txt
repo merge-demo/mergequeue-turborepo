@@ -9285,7 +9285,7 @@ expositional
 ebricty
 eumorphous
 entertains
-euchologia
+euchologia 1
 eugeosynclinal
 epitaphize
 elytrin 1
