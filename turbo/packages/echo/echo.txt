@@ -11896,7 +11896,7 @@ exultation
 expectations 1
 eyr 1
 estuarial
-enhypostatic
+enhypostatic 1
 epiphytes
 emissivity
 epiploon
