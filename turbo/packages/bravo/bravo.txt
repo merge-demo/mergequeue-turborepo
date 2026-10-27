@@ -5083,7 +5083,7 @@ botanised
 battlers
 blazoned
 bloodthirst
-befamilied
+befamilied 1
 biogeography
 bibracteolate 1
 bewith
@@ -9534,7 +9534,7 @@ biggins
 baconianism
 blepharophryplasty
 banya
-bipunctal
+bipunctal 1
 bores
 barbarian
 birn 2
