@@ -8411,7 +8411,7 @@ ality
 apocentricity
 alphabeting
 ayllu
-asternia
+asternia 1
 algenib
 anthropophagic
 acuerdo 1
