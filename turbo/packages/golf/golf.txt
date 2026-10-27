@@ -6284,7 +6284,7 @@ geophysics
 gruneritization
 gallivanters
 gebang
-gobo
+gobo 1
 globins
 gaybine
 gobony 2
