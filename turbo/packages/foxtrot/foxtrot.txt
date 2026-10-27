@@ -6804,7 +6804,7 @@ frescoers
 format
 favoringly
 favourableness 2
-facemaking
+facemaking 1
 friarhood 1
 fistiness
 floridities
