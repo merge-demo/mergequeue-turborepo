@@ -3440,7 +3440,7 @@ gallicisms
 gynecology
 grum
 gubernance 1
-gaveler
+gaveler 1
 gravimeters 1
 gudgeons
 gowl 1
