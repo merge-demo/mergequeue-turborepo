@@ -18117,7 +18117,7 @@ chiotilla
 chaetal
 centerward 1
 chincha
-counterpunch
+counterpunch 1
 chronologist
 colpeo
 chinbone

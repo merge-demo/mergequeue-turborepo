@@ -2907,7 +2907,7 @@ dansk
 diacope 1
 dedifferentiating
 developist
-dimanganion
+dimanganion 1
 dipterans
 disalicylide
 displayer
