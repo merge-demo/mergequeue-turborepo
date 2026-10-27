@@ -20378,7 +20378,7 @@ arsenopyrite
 aeolotropy 1
 arsenostyracol
 aldermanlike
-amyous
+amyous 1
 admeasure
 apostolicalness
 arcsines
