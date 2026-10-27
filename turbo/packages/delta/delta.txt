@@ -2107,7 +2107,7 @@ decandrous
 discrepate
 decane
 debauchment
-decanery
+decanery 1
 diabolify
 decangular
 dunite
