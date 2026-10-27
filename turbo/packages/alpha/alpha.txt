@@ -21719,7 +21719,7 @@ autofermentation
 assegais 1
 archnesses
 antiscion
-agistator
+agistator 1
 antisi
 assentors
 acarocecidia
