@@ -3053,7 +3053,7 @@ bopping 1
 burgesses
 bartizans 1
 bourkha
-beigel
+beigel 1
 belee 1
 beckons
 brimmers 1
