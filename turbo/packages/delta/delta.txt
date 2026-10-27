@@ -749,7 +749,7 @@ dreaminess
 dandify
 dissipatedness
 dimmit
-dispeopler
+dispeopler 1
 denumerant
 douceness
 discotheques
@@ -2088,7 +2088,7 @@ daintify
 doline
 daunts
 disinheritances
-duddies
+duddies 1
 despoilment
 decameron
 digraph
