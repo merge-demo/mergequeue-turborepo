@@ -8330,7 +8330,7 @@ frontenis
 fightable
 forking
 flaveria
-fingerable
+fingerable 1
 freedoms
 formicative
 forklift
