@@ -8293,7 +8293,7 @@ favuses
 foryield
 furnished
 fautorship
-foxtrot
+foxtrot 1
 fantasmagoria
 fodge
 flytraps 1
