@@ -4865,7 +4865,7 @@ encrinic
 encrinidae
 encrinital 1
 elegance
-encroacher
+encroacher 1
 equalizing 1
 exponentiations
 effeminateness
