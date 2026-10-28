@@ -7410,7 +7410,7 @@ ceramium
 ceramographic
 cinnamic 1
 canvass
-citified
+citified 1
 chloroformed
 cerasein
 chouser
