@@ -11500,7 +11500,7 @@ fiercened
 furud 1
 flamboyant
 flotant
-fructuousness
+fructuousness 1
 fashery
 furunculous
 furzeling
