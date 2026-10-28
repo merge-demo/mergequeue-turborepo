@@ -13495,7 +13495,7 @@ debenture
 ditrigonal
 dizygous
 disruddered
-dehepatize
+dehepatize 1
 dairymaid
 disquietedness
 demoid
