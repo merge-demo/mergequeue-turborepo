@@ -7892,7 +7892,7 @@ fike 1
 firy
 fantasticness
 fervorous
-federalisation 1
+federalisation 2
 fopdoodle
 federalness
 feebly
@@ -8160,7 +8160,7 @@ flockbed 1
 foghorn
 forewings
 fichus
-frenate
+frenate 1
 furtherances
 faldetta
 fribblery 2
