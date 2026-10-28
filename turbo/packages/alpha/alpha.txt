@@ -15208,7 +15208,7 @@ arterioles
 antifeudalistic
 antifeudalization
 ankyroid
-affiancer
+affiancer 1
 androtauric
 antifibrinolysin
 antifibrinolysis
