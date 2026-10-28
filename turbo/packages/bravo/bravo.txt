@@ -10384,7 +10384,7 @@ bargepole
 buxomness
 billot 1
 bounderish
-buffability
+buffability 1
 bamboozlers
 bordman
 boil
