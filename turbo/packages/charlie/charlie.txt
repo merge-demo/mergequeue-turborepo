@@ -25771,7 +25771,7 @@ cephalotheca
 corroborations
 caddish 1
 conciliating
-cataleptize
+cataleptize 1
 corroborative
 corroboratively
 corroborator
