@@ -7207,7 +7207,7 @@ arroz
 ablastin
 appetising
 anadipsia
-accommodative
+accommodative 1
 algorist 1
 alalonga
 aurodiamine
