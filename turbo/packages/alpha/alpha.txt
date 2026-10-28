@@ -12020,7 +12020,7 @@ axoneme
 aesthesia 1
 aeschynomene
 arithmetizations
-adiaphora
+adiaphora 1
 adosculation
 actualistic 1
 autobahnen
