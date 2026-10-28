@@ -2611,7 +2611,7 @@ canephorae 1
 canephore 1
 canephori
 canephoroi
-canepin 1
+canepin 2
 cooser
 ciphonies
 cheeseflower
