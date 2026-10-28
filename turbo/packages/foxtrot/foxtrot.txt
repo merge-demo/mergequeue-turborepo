@@ -1935,7 +1935,7 @@ froze
 forebearing
 floccule
 fonly
-flanchard
+flanchard 1
 forworn
 flated
 formulization
@@ -3299,7 +3299,7 @@ fioritura 1
 felicitating
 fairings
 fulgide
-feture
+feture 1
 flabbergastation 2
 flexility
 fracted
