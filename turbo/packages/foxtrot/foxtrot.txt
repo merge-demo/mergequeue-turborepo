@@ -8160,7 +8160,7 @@ flockbed 1
 foghorn
 forewings
 fichus
-frenate
+frenate 1
 furtherances
 faldetta
 fribblery 2
