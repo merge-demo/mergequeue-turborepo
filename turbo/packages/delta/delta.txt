@@ -7046,7 +7046,7 @@ doughfoots
 deterrently
 domajig
 dingdonging
-demesmerize
+demesmerize 1
 descriptiveness
 disorient
 desto
