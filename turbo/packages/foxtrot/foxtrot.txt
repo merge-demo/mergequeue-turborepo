@@ -9727,7 +9727,7 @@ fornicate
 friends
 fraicheur
 folklorists
-frenzy
+frenzy 1
 foredays
 fabrics 1
 figurability
