@@ -8768,7 +8768,7 @@ frailes 1
 flotillas
 fossage
 featurely
-fanlight
+fanlight 1
 female 1
 fearable
 flexured
