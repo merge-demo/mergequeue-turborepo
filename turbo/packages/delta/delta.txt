@@ -12756,7 +12756,7 @@ dakoits
 domesticize
 deer
 dysneuria
-dislodgement 1
+dislodgement 2
 desertress
 disestablishmentarianism
 distasted
@@ -14835,7 +14835,7 @@ doctorless
 diffusibly
 dimissorial
 disorderly
-doctress
+doctress 1
 due
 discombobulation
 dissilient 1
