@@ -11335,7 +11335,7 @@ chlorometry
 categorem
 coopted
 capman
-chloromycetin
+chloromycetin 1
 curbed
 chiasmatype
 chloronitrate
