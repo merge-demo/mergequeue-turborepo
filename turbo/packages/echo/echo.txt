@@ -5878,7 +5878,7 @@ entangledly
 elb
 edificing
 electorial
-epigeum
+epigeum 1
 ewest
 extrazodiacal
 exacerbescence
@@ -12666,7 +12666,7 @@ effusion
 exognathite
 expunges
 exornate
-elixed 1
+elixed 2
 exogenetic
 enkolpion
 exometritis
