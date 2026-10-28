@@ -11234,7 +11234,7 @@ acold
 ascaricide
 amphicarpium
 aluconidae
-apocalyptist
+apocalyptist 1
 alterius
 adenology
 apian
