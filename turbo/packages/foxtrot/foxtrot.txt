@@ -10818,7 +10818,7 @@ fullering 1
 footpads 1
 farmerette
 fort
-fructificative
+fructificative 1
 floundered
 flustra
 facet
