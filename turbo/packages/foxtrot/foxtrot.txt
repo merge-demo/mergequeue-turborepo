@@ -4217,7 +4217,7 @@ feistier
 felicide 1
 footsies
 fowls
-footpaths
+footpaths 1
 farinosely
 formed 1
 firepinks
@@ -10363,7 +10363,7 @@ faithfully
 felichthys
 furrowers
 foederis 1
-frenchily
+frenchily 1
 freshwoman
 flaps
 fingan

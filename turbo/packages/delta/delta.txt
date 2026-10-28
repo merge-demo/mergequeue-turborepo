@@ -3910,7 +3910,7 @@ dissertating
 dominatingly
 dustband
 ditchdigging
-dominant
+dominant 1
 delightedly
 diarize
 dkm
@@ -14835,7 +14835,7 @@ doctorless
 diffusibly
 dimissorial
 disorderly
-doctress
+doctress 1
 due
 discombobulation
 dissilient 1
