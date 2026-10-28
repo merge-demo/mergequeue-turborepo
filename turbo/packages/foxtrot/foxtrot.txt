@@ -6900,7 +6900,7 @@ formication
 follicular
 firebote 1
 folliculated
-fauna
+fauna 1
 firepink
 finjan
 flatworm
