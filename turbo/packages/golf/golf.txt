@@ -9059,7 +9059,7 @@ giraffa
 garishness
 gherkin 1
 gentlehood
-gasiform
+gasiform 1
 grinch
 grovellings 1
 goldwork
