@@ -1757,7 +1757,7 @@ enswathe
 eyepiece 1
 enrapturer 2
 everard 2
-extg
+extg 1
 embattle
 exhbn
 epigraphic 1
