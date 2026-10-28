@@ -13613,7 +13613,7 @@ electropyrometer
 expulsory
 ectad 1
 exiledom
-extemporary
+extemporary 1
 extemporisation 1
 ewing
 extraspinal
