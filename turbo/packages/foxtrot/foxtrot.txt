@@ -4081,7 +4081,7 @@ federation 1
 fakers
 flatnesses 1
 foreprovided 1
-fabulosity
+fabulosity 1
 fylgjur
 foolship
 finnicize
