@@ -11091,7 +11091,7 @@ footrace
 flew 1
 falconet 1
 flangeless 1
-forbidder
+forbidder 1
 foreknowableness
 functionation
 fane 1
