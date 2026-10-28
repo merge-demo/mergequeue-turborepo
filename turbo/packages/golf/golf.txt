@@ -6841,7 +6841,7 @@ glibly
 goodenia
 gestated
 goldcrest
-gatling
+gatling 1
 guyed
 gitterns
 guttiferae
