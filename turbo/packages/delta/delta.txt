@@ -15176,7 +15176,7 @@ dressily 2
 dimna
 defunctness
 distributable
-dolabrate
+dolabrate 1
 dialectalize
 dhurra
 doli
