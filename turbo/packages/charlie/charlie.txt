@@ -25121,7 +25121,7 @@ chirotherium
 coinstantaneous
 corequisite 1
 corer
-collinsonia
+collinsonia 1
 coughers
 corers
 cores

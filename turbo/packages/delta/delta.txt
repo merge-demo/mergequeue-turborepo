@@ -4626,7 +4626,7 @@ dropkicker 1
 decking
 derealization
 declaration
-dewaxed
+dewaxed 1
 drifting 1
 disheveling
 ducklar
