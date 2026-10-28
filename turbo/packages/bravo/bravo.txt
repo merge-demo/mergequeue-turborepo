@@ -9477,7 +9477,7 @@ befitting
 basichromatic 1
 bluegums 1
 belabours
-biophotometer
+biophotometer 1
 bullyhuff
 brattach
 bathman 1
