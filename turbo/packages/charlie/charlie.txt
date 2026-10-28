@@ -28670,7 +28670,7 @@ crenation
 cellblocks
 clarisse
 classific
-canonicalize
+canonicalize 1
 crenel
 chroococcus
 constantine
