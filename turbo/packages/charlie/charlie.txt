@@ -4998,7 +4998,7 @@ clipsheets
 carucate
 carum
 coachwork
-caruncles
+caruncles 1
 caruncula
 croupiest
 crusades
