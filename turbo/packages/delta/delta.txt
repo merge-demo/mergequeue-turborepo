@@ -14352,7 +14352,7 @@ dittying
 denizen
 dandified
 deuteranomaly
-disadvantages
+disadvantages 1
 ditto
 droopily
 disperato
