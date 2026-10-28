@@ -9026,7 +9026,7 @@ gis
 gunpowdery
 gryllid
 glottogonic
-glassworking
+glassworking 1
 glasser
 genitive
 gigahertz
