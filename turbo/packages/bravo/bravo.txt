@@ -15047,7 +15047,7 @@ benzdiazine 1
 begift
 barraters
 breedable 1
-borderies
+borderies 1
 bendlet
 breeder
 breakneck
