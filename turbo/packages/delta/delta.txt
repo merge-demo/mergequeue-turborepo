@@ -1772,7 +1772,7 @@ diseur
 drydenism
 disregardfully
 dorsolum
-dissevers
+dissevers 1
 divalence
 dowdyish 1
 dissociated
@@ -14866,7 +14866,7 @@ dodecasemic
 documentarist
 documentational
 decarbonator
-dictyograptus
+dictyograptus 1
 documentations
 deoxidator
 divertive
