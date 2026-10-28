@@ -11485,7 +11485,7 @@ dysautonomia 1
 dullhead
 dwarfy
 discomedusae 1
-defrauded
+defrauded 1
 dentiphone
 dynasties
 discomfiter
