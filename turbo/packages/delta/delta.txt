@@ -10735,7 +10735,7 @@ decarboxylize
 drainspout
 drools
 discomfiture
-dipsomaniac
+dipsomaniac 1
 dietotherapeutics
 dipsomaniacs
 diestrual
