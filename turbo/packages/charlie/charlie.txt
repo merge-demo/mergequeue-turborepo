@@ -2898,7 +2898,7 @@ clothesmonger
 chalcis 1
 cantabrian
 cantabrigian
-cuprites
+cuprites 1
 cantalever
 cantaliver
 catacombs

@@ -13730,7 +13730,7 @@ diphosgene
 disturbation 1
 discoids 1
 defends
-doorplate
+doorplate 1
 divalent
 dejecta
 demulsion
