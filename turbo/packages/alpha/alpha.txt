@@ -4450,7 +4450,7 @@ australic
 antipuritan
 adust
 adustion
-abatjour
+abatjour 1
 apsides
 amang
 aldoxime
