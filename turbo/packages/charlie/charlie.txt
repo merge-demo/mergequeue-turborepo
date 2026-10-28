@@ -1412,7 +1412,7 @@ caligulism
 capparidaceae
 calimeris
 calymma
-confisk
+confisk 1
 cadmopone
 clochards
 carfuls
@@ -30008,7 +30008,7 @@ crotonate
 crotonyl
 crotonylene
 crotonization
-chitchat
+chitchat 1
 crotons
 crotophaga
 chrismal

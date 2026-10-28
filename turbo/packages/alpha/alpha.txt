@@ -5010,7 +5010,7 @@ antiparagraphe
 assessory
 angiohyalinosis
 adinvention
-aerophor 1
+aerophor 2
 antithermic
 arrode
 aerophotos
@@ -10467,7 +10467,7 @@ accidents
 ametallous
 amphicytula
 apa
-autogenetic
+autogenetic 1
 alkanna
 abbeys
 acceptances
