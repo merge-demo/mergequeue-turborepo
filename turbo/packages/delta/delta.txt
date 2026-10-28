@@ -1582,7 +1582,7 @@ deadpanned
 deadpans 2
 depayse
 daikering
-doryanthes
+doryanthes 1
 disinfector
 deadwork
 deaerated
