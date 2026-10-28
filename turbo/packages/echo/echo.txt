@@ -13335,7 +13335,7 @@ exponible
 existible
 evolvable
 encowl
-enough
+enough 1
 erithacus
 entitled
 exceedingly
