@@ -13832,7 +13832,7 @@ elucidative
 effervescingly
 enringed
 electrophilic 1
-earworm
+earworm 1
 extracystic
 equiarticulate
 entomolite
