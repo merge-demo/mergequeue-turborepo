@@ -823,7 +823,7 @@ flatulently
 frowsy 1
 flypast
 flusher
-florilege
+florilege 1
 faucial
 fumingly 1
 faun
@@ -3135,7 +3135,7 @@ factiously
 felworts
 frolicful
 fluxibleness 1
-fadedly
+fadedly 1
 filing
 foreright
 fibrositis
