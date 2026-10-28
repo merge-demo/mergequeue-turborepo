@@ -895,7 +895,7 @@ exercises
 extensivity
 expeditionary
 enures
-emperies
+emperies 1
 extrastate
 episedia
 encomiastic
