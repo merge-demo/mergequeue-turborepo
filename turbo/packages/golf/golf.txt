@@ -6980,7 +6980,7 @@ gnathic
 goondie
 gamostely
 gavel
-gummer
+gummer 1
 goofily 1
 gamelote 1
 gladioli
