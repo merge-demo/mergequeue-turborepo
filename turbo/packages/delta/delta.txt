@@ -536,7 +536,7 @@ damageous
 deaccessions
 dovyalis
 deliber
-dao
+dao 1
 damagers
 damalic 1
 dextrorotation
@@ -15549,7 +15549,7 @@ dilator
 diascord
 demodulator
 drummers
-donnas
+donnas 1
 defeasible
 dereligionize
 donnerd
