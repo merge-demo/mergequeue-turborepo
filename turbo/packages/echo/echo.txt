@@ -4842,7 +4842,7 @@ excellences
 effulgence
 epigne
 expertise
-encourages
+encourages 1
 embusy
 escapable
 exorciser
