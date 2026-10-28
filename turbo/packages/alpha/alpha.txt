@@ -20322,7 +20322,7 @@ annoying
 arrowsmith
 arrowworm
 acrobatics
-arsenic
+arsenic 1
 arsenicism
 aphelia
 afterwards
