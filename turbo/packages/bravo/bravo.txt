@@ -11362,7 +11362,7 @@ bespoused 1
 blowtorches
 bromos
 bossiness
-blowups
+blowups 1
 byroad
 backbearing
 blaugas
