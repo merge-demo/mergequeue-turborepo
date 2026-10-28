@@ -11531,7 +11531,7 @@ foldout 1
 forbreak
 forleave 1
 ferruler 1
-fistic
+fistic 1
 foreremembered
 fab 1
 furtiveness
