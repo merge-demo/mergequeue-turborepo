@@ -10794,7 +10794,7 @@ ethicalism
 exequatur
 extremal
 eighteenth
-exoplasm
+exoplasm 1
 eunuchism
 endoprocta
 euodic
