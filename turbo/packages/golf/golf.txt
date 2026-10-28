@@ -645,7 +645,7 @@ gonangial
 gabionage
 gemmaceous
 gerodontia 1
-gasometry
+gasometry 1
 globous
 gestatorial
 gnarled
