@@ -9198,7 +9198,7 @@ grahamite 1
 grist
 guanase
 growthiness
-gluttons
+gluttons 1
 glucagon
 gyroceran
 gristy
