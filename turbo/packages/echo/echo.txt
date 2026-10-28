@@ -1261,7 +1261,7 @@ emperors 1
 enrobe 1
 ecclesiarch
 equalness
-eclated
+eclated 1
 equilibriate
 eeliest 1
 epiky
