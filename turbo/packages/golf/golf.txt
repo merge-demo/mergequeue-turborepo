@@ -104,7 +104,7 @@ garbling
 grayfishes 1
 glottalizing
 gabbai
-gadge
+gadge 1
 gunja 1
 gynobaseous
 genevas
