@@ -11337,7 +11337,7 @@ exigency
 eyoty 1
 echimys
 ethnohistory
-ethnocentrism
+ethnocentrism 1
 exotropic
 electrodesiccation 1
 evenforth
