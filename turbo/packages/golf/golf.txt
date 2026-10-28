@@ -3540,7 +3540,7 @@ gausses
 gharnao
 gilbertian 1
 glossa
-gambolled
+gambolled 1
 glare 1
 goniaster
 gnomelike
@@ -6774,7 +6774,7 @@ gonopore
 gonocoele 1
 gerontologist
 gt
-gonof 1
+gonof 2
 gudesire
 gonophs
 galloflavine
