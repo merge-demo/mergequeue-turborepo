@@ -12905,7 +12905,7 @@ anglewise
 avenger
 academies
 asteraceous
-anglian
+anglian 1
 apportionment 1
 anglicanisms
 antispiritual
