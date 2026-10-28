@@ -8447,7 +8447,7 @@ diambic
 diamegnetism
 diazepam
 diamesogamous
-dult
+dult 1
 disclike
 delabialized
 dumfounderment
