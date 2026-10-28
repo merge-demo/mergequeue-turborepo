@@ -8697,7 +8697,7 @@ blockheaded
 behear
 basins
 bilobe
-besiegingly
+besiegingly 1
 bilobed
 bilocular
 braches
@@ -9766,7 +9766,7 @@ blaewort 1
 bayeta
 bizes
 benj
-bicolored
+bicolored 1
 boondogglers
 ballywrack
 bisques

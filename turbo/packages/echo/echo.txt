@@ -856,7 +856,7 @@ endorsation
 epiderms 1
 emraud
 englobement
-eddic
+eddic 1
 entourages
 epistolizer
 eigenfunction 1
