@@ -1448,7 +1448,7 @@ disinfect
 durain
 dihydrosphingosine
 domical
-deltation
+deltation 1
 dietotoxicity
 dawtit
 dawts
