@@ -14887,7 +14887,7 @@ cytostomal
 cordwood
 cytostromatic
 compromised
-cytotactic
+cytotactic 1
 cerebroganglion
 cytotaxis
 creosols
