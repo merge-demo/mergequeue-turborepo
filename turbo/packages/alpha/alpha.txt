@@ -208,7 +208,7 @@ antisavage
 abbe
 amides
 abbey
-abscissin
+abscissin 1
 archapostate
 aleshot
 azophen
