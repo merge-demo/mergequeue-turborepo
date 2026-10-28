@@ -4603,7 +4603,7 @@ gamophyllous
 guamuchil
 gravitational 1
 gyrophoraceous
-glance
+glance 1
 gringophobia
 ghafir 1
 geobiology
