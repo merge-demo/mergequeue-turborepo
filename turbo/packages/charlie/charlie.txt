@@ -18501,7 +18501,7 @@ chronocinematography
 chello
 cill 1
 cohortative 1
-cohosh
+cohosh 1
 circumdiction
 cephalalgia
 crownlet
