@@ -30018,7 +30018,7 @@ complaintive
 crottle
 crouch
 crouchant
-carditic
+carditic 1
 chilognathan
 collare
 crouchback

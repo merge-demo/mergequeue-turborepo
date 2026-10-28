@@ -160,7 +160,7 @@ geometers
 geryon
 galipot
 graniteware
-gasthauser
+gasthauser 1
 ghettoized
 galactosyl
 galvanosurgery 1
