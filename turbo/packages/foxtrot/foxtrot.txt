@@ -823,7 +823,7 @@ flatulently
 frowsy 1
 flypast
 flusher
-florilege
+florilege 1
 faucial
 fumingly 1
 faun
