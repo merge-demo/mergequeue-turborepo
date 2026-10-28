@@ -9526,7 +9526,7 @@ eugenesis 1
 extrasolar
 exempt
 envois
-enneateric
+enneateric 1
 esebrias
 ellops
 enantiotropy
