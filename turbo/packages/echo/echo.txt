@@ -3094,7 +3094,7 @@ executiveness
 esemplastic
 enolic 1
 ethiopian
-ellipticity
+ellipticity 1
 elliptograph 1
 esprise
 elliptoid
