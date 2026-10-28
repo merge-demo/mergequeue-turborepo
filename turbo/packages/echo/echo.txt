@@ -8346,7 +8346,7 @@ ebonised
 educative
 excitomotory
 estivated
-exclusory
+exclusory 1
 epithyme 1
 extacie
 eloped
