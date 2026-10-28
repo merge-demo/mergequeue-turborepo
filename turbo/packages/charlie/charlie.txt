@@ -4998,7 +4998,7 @@ clipsheets
 carucate
 carum
 coachwork
-caruncles
+caruncles 1
 caruncula
 croupiest
 crusades
@@ -24182,7 +24182,7 @@ claw
 crestless
 collocutory
 counterrecoil
-crepeiest
+crepeiest 1
 comedial
 cleaverwort
 culicidal
