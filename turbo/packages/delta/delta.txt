@@ -3619,7 +3619,7 @@ discalced
 denigrate
 dropworts 1
 degraduate
-digitinervate
+digitinervate 1
 degravate
 demipike
 degreaser
