@@ -4680,7 +4680,7 @@ flamboyancy
 filmist
 fistlike
 fizgig
-fizgigs
+fizgigs 1
 figaro
 feta
 fairyish
