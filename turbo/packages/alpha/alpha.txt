@@ -17091,7 +17091,7 @@ asportation
 apodematal 1
 alcibiadean
 abstinence
-apodiabolosis
+apodiabolosis 1
 arsenyl
 arithmetize
 apodictive
