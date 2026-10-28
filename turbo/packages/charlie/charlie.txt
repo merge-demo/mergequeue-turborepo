@@ -24502,7 +24502,7 @@ cupfuls
 clr
 courtliness
 circovarian
-clavis
+clavis 1
 copaivic
 copaliferous
 copalite
