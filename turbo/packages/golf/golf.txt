@@ -3540,7 +3540,7 @@ gausses
 gharnao
 gilbertian 1
 glossa
-gambolled
+gambolled 1
 glare 1
 goniaster
 gnomelike
