@@ -7315,7 +7315,7 @@ cephalocentesis
 coprocessors 1
 cufflink
 cephalocercal
-cushlamochree
+cushlamochree 1
 cephalochord
 cowmen
 cephalochordal 1
