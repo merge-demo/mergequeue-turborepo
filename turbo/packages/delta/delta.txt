@@ -9891,7 +9891,7 @@ diplodocuses 1
 ductilely
 dermatoptic
 direly
-dimetry
+dimetry 1
 disorganizes
 densimetry 1
 dimyaria
