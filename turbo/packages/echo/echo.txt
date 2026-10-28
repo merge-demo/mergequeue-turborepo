@@ -11538,7 +11538,7 @@ encodement
 epiblastema 1
 embrittled
 errantness 2
-ennoy
+ennoy 1
 evoe
 ensilaging
 exoculating
