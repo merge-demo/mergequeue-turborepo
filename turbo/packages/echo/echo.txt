@@ -11117,7 +11117,7 @@ externalised
 expiating
 eutropous 1
 entanglingly
-entry
+entry 1
 enjambments
 encomy
 evacuant
