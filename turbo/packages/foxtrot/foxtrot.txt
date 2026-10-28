@@ -10475,7 +10475,7 @@ fragrant 1
 fermatian
 fungitoxic 1
 factionalist
-fribblers 1
+fribblers 2
 ferruling
 farrant
 frontiersmen
