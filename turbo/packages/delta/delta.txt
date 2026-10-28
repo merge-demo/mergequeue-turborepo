@@ -12678,7 +12678,7 @@ diffrangibility
 disleaved
 decolorized
 disjointure
-dentalize
+dentalize 1
 demiheavenly
 dogger 1
 desexualize
