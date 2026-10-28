@@ -451,7 +451,7 @@ gamosepalous 1
 gardenable
 grapefruits
 generalship
-grimace
+grimace 1
 garrote
 gallantness
 goldless 1
@@ -10753,7 +10753,7 @@ grandisonian
 gerald
 gut
 grasswards 1
-glycerins 1
+glycerins 2
 giber
 generation 2
 gutbucket
