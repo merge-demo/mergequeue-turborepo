@@ -8727,7 +8727,7 @@ backen
 birching
 branners
 bimalar 1
-bimana
+bimana 1
 bimanal
 binoxalate
 bimanous
