@@ -10430,7 +10430,7 @@ douzainier
 diplomatism 1
 duenna
 dashikis
-demibath
+demibath 1
 diphonia 1
 dismiss 1
 drowsy
