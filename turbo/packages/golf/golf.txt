@@ -9785,7 +9785,7 @@ guacacoa
 grimacer
 gorce
 grantor
-gue
+gue 1
 goury
 globulinuria
 gypsyism 1
