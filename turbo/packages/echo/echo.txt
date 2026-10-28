@@ -13584,7 +13584,7 @@ exsudate
 embowelling
 extumescence
 ectadenia 1
-egeria
+egeria 1
 emulation
 esoteric 1
 exsufflate
