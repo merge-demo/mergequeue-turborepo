@@ -2879,7 +2879,7 @@ geal 1
 gallerylike
 gigmanhood
 gravediggers
-gynospore
+gynospore 1
 guarana
 gyromitra
 gossoons
