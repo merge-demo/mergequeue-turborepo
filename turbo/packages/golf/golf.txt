@@ -7492,7 +7492,7 @@ glitzy
 grayfly
 glabellous
 gryllus
-grigri
+grigri 1
 germanical
 graypate 1
 gloomfully
