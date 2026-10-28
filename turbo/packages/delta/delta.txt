@@ -10381,7 +10381,7 @@ diverges
 dioxindole
 decoyers
 dipartite
-dipartition
+dipartition 1
 dominicks
 dekkos 1
 demersion
