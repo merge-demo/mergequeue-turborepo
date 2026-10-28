@@ -234,7 +234,7 @@ autodiagrammatic
 antirealistically
 anis
 antiritual
-abbotric
+abbotric 1
 allokinesis
 alchemistical
 adipolytic
