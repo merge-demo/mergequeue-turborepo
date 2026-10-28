@@ -10290,7 +10290,7 @@ figuriste
 frolicsome 1
 fishful 1
 fratched
-frammit
+frammit 1
 flung
 fibrinolysin
 fornent 1
