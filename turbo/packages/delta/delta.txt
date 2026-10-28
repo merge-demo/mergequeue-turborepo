@@ -3237,7 +3237,7 @@ defibrillatory
 dropax
 dissatisfactory
 defier
-drogues
+drogues 1
 disguisal 1
 deracinated
 denuded 1
