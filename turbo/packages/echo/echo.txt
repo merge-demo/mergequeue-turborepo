@@ -238,7 +238,7 @@ elaborative
 easer 1
 episodic
 electroluminescence 1
-easy
+easy 1
 epionychium
 extratubal
 eyeshots
