@@ -9411,7 +9411,7 @@ gotchy
 greekery
 gallybeggar 1
 gradable
-gorgeous
+gorgeous 1
 guacharos 1
 gigues 1
 gallinulinae 1
