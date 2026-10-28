@@ -4968,7 +4968,7 @@ endeictic
 entropium
 expectable
 embryotomy
-endellionite
+endellionite 1
 eucephalous
 emigates
 electrocorticogram
