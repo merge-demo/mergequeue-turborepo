@@ -10404,7 +10404,7 @@ fecundities
 fertilizable
 frontignan
 fucate
-fronting
+fronting 1
 fizzle
 focus
 feedable
