@@ -4647,7 +4647,7 @@ attently
 aedile
 adject
 aediles 2
-aknee
+aknee 1
 airbursts
 aedileship
 anthropomorphitism
