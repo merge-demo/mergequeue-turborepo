@@ -1412,7 +1412,7 @@ caligulism
 capparidaceae
 calimeris
 calymma
-confisk
+confisk 1
 cadmopone
 clochards
 carfuls
