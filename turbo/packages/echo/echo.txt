@@ -5258,7 +5258,7 @@ extract
 exfiguration
 emigrant 1
 embryotrophy
-emanator
+emanator 1
 epitomatory
 etaerio
 excommunicated
