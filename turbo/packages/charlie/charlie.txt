@@ -15971,7 +15971,7 @@ clansmen
 cyamelid
 coolheadedness 1
 cleruchy
-crossbirth
+crossbirth 1
 cracked
 cluppe
 colubriformes
