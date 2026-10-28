@@ -7655,7 +7655,7 @@ cyrtoceratitic
 clampers
 cerionidae
 cerise
-cadere
+cadere 1
 combustively
 cerithiidae
 cerithium
