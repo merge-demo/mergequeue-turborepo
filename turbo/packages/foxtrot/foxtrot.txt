@@ -1152,7 +1152,7 @@ florulas
 flavoursome 1
 facials
 fiberization
-fidelis
+fidelis 1
 figworm 1
 flax 1
 fatally
