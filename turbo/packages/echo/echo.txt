@@ -6586,7 +6586,7 @@ embank
 enseam
 egyptianism 2
 expulsatory
-eructed 1
+eructed 2
 execrate 1
 easterliness 2
 enteroepiplocele
