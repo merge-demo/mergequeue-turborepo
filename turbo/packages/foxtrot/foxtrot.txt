@@ -868,7 +868,7 @@ fellness
 farenheit 1
 fantasmal
 fundus
-fantasms
+fantasms 1
 forsloth 1
 finked
 flowage
