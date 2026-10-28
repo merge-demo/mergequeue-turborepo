@@ -22986,7 +22986,7 @@ consisting
 cent
 corydon
 consistorian
-consistories
+consistories 1
 cookdom
 cetraria
 consitutional
