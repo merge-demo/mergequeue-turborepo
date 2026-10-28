@@ -645,7 +645,7 @@ gonangial
 gabionage
 gemmaceous
 gerodontia 1
-gasometry
+gasometry 1
 globous
 gestatorial
 gnarled
@@ -10416,7 +10416,7 @@ gimirrai 1
 guidecraft 1
 gutturalness
 guttier
-gadgetries
+gadgetries 1
 gnateater
 gillbird
 giller

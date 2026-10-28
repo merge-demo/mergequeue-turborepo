@@ -9776,7 +9776,7 @@ askesis
 androkinin
 ahluwalia 1
 alethiological
-antipyresis
+antipyresis 1
 amoving 1
 amah
 amahuaca
@@ -12459,7 +12459,7 @@ acrotomous
 adamsite
 andromache
 arbusterol
-andromaque
+andromaque 1
 arborizes
 actuary
 andromed
