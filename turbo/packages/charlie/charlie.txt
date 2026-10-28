@@ -16484,7 +16484,7 @@ cloghead
 carboxyl
 cowsharn
 calendar
-coinheritance
+coinheritance 1
 clogmaking
 clogwheel
 canners
