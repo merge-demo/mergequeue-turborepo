@@ -8039,7 +8039,7 @@ gypsydoms
 guttulae
 geminiflorous
 glyceryl 2
-gruffness
+gruffness 1
 gravels 1
 glenoidal 1
 granitiform
