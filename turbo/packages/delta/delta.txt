@@ -1772,7 +1772,7 @@ diseur
 drydenism
 disregardfully
 dorsolum
-dissevers
+dissevers 1
 divalence
 dowdyish 1
 dissociated
@@ -6603,7 +6603,7 @@ draughtswoman
 desertification
 dodecahedric
 deserting 1
-drabs
+drabs 1
 diastimeter
 desertlessly
 dungaree
