@@ -3198,7 +3198,7 @@ elopes 1
 elops
 elicit
 emission
-empanelment
+empanelment 1
 epiphanized 1
 everything
 extruding
