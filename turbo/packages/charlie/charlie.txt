@@ -26278,7 +26278,7 @@ costious
 costipulator
 costispinal
 cylindromata
-costiveness
+costiveness 1
 changeableness
 calliper
 costlessness
