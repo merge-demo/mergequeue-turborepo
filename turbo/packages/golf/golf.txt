@@ -451,7 +451,7 @@ gamosepalous 1
 gardenable
 grapefruits
 generalship
-grimace
+grimace 1
 garrote
 gallantness
 goldless 1
