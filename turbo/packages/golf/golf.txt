@@ -2773,7 +2773,7 @@ gangwayed 2
 governably
 glassie
 gelee
-guttling
+guttling 1
 gantlope
 grimsir
 grouchiest
