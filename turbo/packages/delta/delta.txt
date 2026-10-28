@@ -16793,7 +16793,7 @@ dinergate
 disorganized
 drawback
 drawbar 1
-disposability
+disposability 1
 desisted
 diazines
 decolorate
