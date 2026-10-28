@@ -4571,7 +4571,7 @@ gyrodactylidae 1
 glucagons
 greeter 1
 gobbledegook 1
-gapa
+gapa 1
 girthing 1
 gaudeamus 1
 gyrodactylus
