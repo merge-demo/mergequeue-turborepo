@@ -23089,7 +23089,7 @@ cotula
 conspection
 coccosphere
 conspectus
-cullying
+cullying 1
 colias
 conspectuses
 consperse
@@ -27685,7 +27685,7 @@ circumdate
 crassier
 cowitch 1
 coercionist
-corrigendum 1
+corrigendum 2
 cadaveric
 chamite
 cycloplegia
