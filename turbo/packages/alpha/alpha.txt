@@ -19609,7 +19609,7 @@ asterospondyli
 apterium
 alloclase
 apophorometer 1
-aridian
+aridian 1
 analogy
 aridity
 admonishes
