@@ -6358,7 +6358,7 @@ deportment
 disadvanced
 derride
 derriere
-deprovincialize
+deprovincialize 1
 dactyli
 duster
 discriminatory
