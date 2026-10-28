@@ -19674,7 +19674,7 @@ combatable
 crawled
 coshes
 chroma
-chrismale
+chrismale 1
 combatant
 cimbalom
 combater
