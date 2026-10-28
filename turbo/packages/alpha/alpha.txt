@@ -3403,7 +3403,7 @@ assemblywoman
 auxil
 acreak
 abridgeable 1
-adarme
+adarme 1
 adatis
 afterpain
 antiecclesiastical
