@@ -21438,7 +21438,7 @@ compassionated
 criterion
 chemicalize 1
 cementlike
-cyetic
+cyetic 1
 conclusory
 calybite
 conclusum
