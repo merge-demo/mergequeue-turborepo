@@ -4311,7 +4311,7 @@ fluorins
 fellnesses 1
 fasteners
 frankish
-flectional
+flectional 1
 foreleech
 ferritin
 firms
