@@ -7826,7 +7826,7 @@ exarchate
 ejaculator
 eddish
 ethmoids
-epigoni
+epigoni 1
 espressivo
 entomotaxy
 exegetes
