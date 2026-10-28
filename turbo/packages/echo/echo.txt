@@ -4219,7 +4219,7 @@ emptor 1
 eccyclema
 eggeater 1
 euphotide
-evagination
+evagination 1
 epicycloid 1
 erubescite 1
 eduction
