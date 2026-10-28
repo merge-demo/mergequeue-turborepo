@@ -843,7 +843,7 @@ fiddlehead
 foveolarious
 fraudulentness 1
 frown
-felinely
+felinely 1
 ferrets 2
 flummox
 fannia 1
