@@ -6767,7 +6767,7 @@ airburst
 arresting
 airbusses
 antibias 1
-axometer
+axometer 1
 archsacrificer
 arid
 altars
