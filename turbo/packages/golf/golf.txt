@@ -6636,7 +6636,7 @@ glitters
 garmentless
 giantism
 gunpowderous
-gastroscopies
+gastroscopies 1
 golach 1
 gimlets
 gayway
