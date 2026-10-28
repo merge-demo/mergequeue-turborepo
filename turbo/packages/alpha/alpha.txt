@@ -10767,7 +10767,7 @@ araru
 anglice
 abrazo
 aethalium
-amins
+amins 1
 anacrusis
 agrobacterium
 amyotonia 1
