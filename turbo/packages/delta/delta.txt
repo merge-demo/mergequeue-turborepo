@@ -17736,7 +17736,7 @@ dungeon
 dubiousness
 deportees
 delegative 1
-dubitable
+dubitable 1
 dichondra
 dubitably
 deflagrates
