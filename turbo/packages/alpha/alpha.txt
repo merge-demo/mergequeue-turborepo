@@ -12730,7 +12730,7 @@ angelize
 alliterated 1
 angelized 1
 angellike
-auf
+auf 1
 almoravid
 arthrography
 antiquarism
