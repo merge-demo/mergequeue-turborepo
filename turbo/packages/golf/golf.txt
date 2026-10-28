@@ -10779,7 +10779,7 @@ guttated 1
 galeage
 glutimate
 gorki
-gazelles
+gazelles 1
 gawky
 gesellschaften 1
 gutterspout
