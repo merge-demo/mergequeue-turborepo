@@ -6774,7 +6774,7 @@ gonopore
 gonocoele 1
 gerontologist
 gt
-gonof 1
+gonof 2
 gudesire
 gonophs
 galloflavine
