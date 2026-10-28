@@ -2275,7 +2275,7 @@ eyelets
 endolymph
 excretal
 eger 1
-encased
+encased 1
 egest
 ester
 equality
