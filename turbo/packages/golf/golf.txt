@@ -3242,7 +3242,7 @@ gruellers 1
 glucemia
 geometrising
 geosynclines 2
-goetical
+goetical 1
 gere
 gereagle
 gleeful
