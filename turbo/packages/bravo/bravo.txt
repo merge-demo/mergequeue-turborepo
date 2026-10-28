@@ -17209,7 +17209,7 @@ bullrush
 bulls 1
 baccillum
 brodee
-bullated
+bullated 1
 bronchopneumonia
 boffo 1
 bejelling
