@@ -1433,7 +1433,7 @@ gargle 1
 gynoeciumcia
 gats
 garsil
-gymnasiums
+gymnasiums 1
 governless
 glumpiest 1
 germinate
