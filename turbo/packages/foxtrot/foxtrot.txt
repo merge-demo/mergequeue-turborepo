@@ -10700,7 +10700,7 @@ foxy
 felsophyre
 fivepenny
 fairstead
-fruitstalk
+fruitstalk 1
 fg
 frecked 1
 foreset
