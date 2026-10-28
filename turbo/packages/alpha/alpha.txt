@@ -4249,7 +4249,7 @@ assemblement
 autosuggest 1
 aclastic
 adposition
-acmispon
+acmispon 1
 azonium
 armorer
 autotomize
