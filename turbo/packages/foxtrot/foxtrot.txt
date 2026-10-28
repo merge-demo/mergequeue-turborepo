@@ -4809,7 +4809,7 @@ foggy
 fibrinuria
 fumish 1
 fracticipita 1
-faunus
+faunus 1
 flinthead
 franchisers
 fleay
