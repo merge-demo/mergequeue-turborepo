@@ -24182,7 +24182,7 @@ claw
 crestless
 collocutory
 counterrecoil
-crepeiest
+crepeiest 1
 comedial
 cleaverwort
 culicidal
