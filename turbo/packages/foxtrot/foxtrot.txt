@@ -585,7 +585,7 @@ frappe 1
 funerate
 fenugreek
 flagstaff
-frighteningly
+frighteningly 1
 furmety
 forelocks
 faufel
