@@ -10295,7 +10295,7 @@ diagrammers
 ditton
 diopter
 diopters 1
-decumary
+decumary 1
 diacetylene
 discounter
 dioptometer

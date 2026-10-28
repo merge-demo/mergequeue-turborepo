@@ -2665,7 +2665,7 @@ globulariaceous 2
 giboia
 gadgets 1
 gribbles 1
-gnathoplasty
+gnathoplasty 1
 grudgingness
 gauzily
 gratefullest
