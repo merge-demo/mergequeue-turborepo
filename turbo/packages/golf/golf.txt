@@ -10670,7 +10670,7 @@ gambol
 grove
 glyphographic
 generalty
-glycerols
+glycerols 1
 gurnard
 gib
 glaucomatous
