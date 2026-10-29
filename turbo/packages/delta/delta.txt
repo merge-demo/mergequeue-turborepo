@@ -5063,7 +5063,7 @@ densation
 dadoed
 doggiest 1
 denebola
-diplonts
+diplonts 1
 dulbert
 disburdened
 denervation
