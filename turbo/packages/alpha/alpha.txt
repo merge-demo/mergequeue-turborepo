@@ -19850,7 +19850,7 @@ agoroth
 aethon
 animalization
 aginner
-archthief
+archthief 1
 araguato
 armhole 1
 agnomen
