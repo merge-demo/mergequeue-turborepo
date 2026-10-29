@@ -17826,7 +17826,7 @@ amphikaryotic
 appeasable
 amplex
 alisphenoid
-amphiarthrosis
+amphiarthrosis 1
 asterales
 archiblast
 astraeidae
