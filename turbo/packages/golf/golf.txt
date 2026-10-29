@@ -7427,7 +7427,7 @@ glovemaking
 garlopa 1
 goujat
 grampuses
-garrulous
+garrulous 1
 goodrich 1
 googlies
 grangerized
