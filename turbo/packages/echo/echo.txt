@@ -8260,7 +8260,7 @@ escapado
 epitoke 2
 epigones
 erratums
-emulate
+emulate 1
 endolaryngeal
 endplay
 eucalyptian
