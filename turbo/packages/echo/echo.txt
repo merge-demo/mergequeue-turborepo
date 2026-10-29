@@ -3990,7 +3990,7 @@ edictum
 enfolded
 edgrew
 egalite
-extramodal
+extramodal 1
 empatron
 extemporizes
 etrurian
@@ -4503,7 +4503,7 @@ enforcing
 exterminator
 encephalomas
 escudo
-encephalomeningocele
+encephalomeningocele 1
 evenglome
 endoerythrocytic
 entothorax

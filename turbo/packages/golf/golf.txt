@@ -6311,7 +6311,7 @@ geotropism
 goety 1
 gummage
 gardencraft
-gymnolaemata
+gymnolaemata 1
 gaels
 gerontomorphosis
 gloriosa
