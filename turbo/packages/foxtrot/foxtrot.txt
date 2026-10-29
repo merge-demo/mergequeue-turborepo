@@ -3556,7 +3556,7 @@ filched
 fellowmen
 fucivorous
 frenchism 1
-fogie
+fogie 1
 flamboyance
 funmaker
 fencelet 1
