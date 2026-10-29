@@ -8743,7 +8743,7 @@ bourbonist
 bimastic
 bengal
 backberand
-bimaxillary
+bimaxillary 1
 bimbisara
 bracketted
 basibranchial
@@ -15076,7 +15076,7 @@ bepuzzle
 bountifully
 bolling
 biseptate
-blastophore
+blastophore 1
 bregma
 bordel
 bregmate
