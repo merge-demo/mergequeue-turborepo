@@ -2789,7 +2789,7 @@ greatcoat
 gyro
 guydom
 gyne
-gershon
+gershon 1
 guzzledom
 gyges 1
 glovelike
