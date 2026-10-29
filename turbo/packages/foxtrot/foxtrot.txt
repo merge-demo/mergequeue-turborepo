@@ -2555,7 +2555,7 @@ feedsman
 femorotibial
 fiduciaries
 freesilverism 1
-fanti
+fanti 1
 fimbriatum
 flappy
 fluidification
