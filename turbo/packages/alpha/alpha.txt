@@ -2146,7 +2146,7 @@ aching
 achiotes
 altruism
 angerly
-alinasal 1
+alinasal 2
 ambrosin
 achirite
 achkan
@@ -22158,7 +22158,7 @@ abjudge
 argute
 acromegalies 1
 antebrachium
-alcavala
+alcavala 1
 asthenia
 amours
 amoeboid
