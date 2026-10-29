@@ -8898,7 +8898,7 @@ aeolodicon
 allochthon 1
 antlike
 ambilevous
-azurous
+azurous 1
 amakebe
 anetic
 allocyanine
@@ -19013,7 +19013,7 @@ adigei
 arciferous
 archliar
 archmachine
-adread 1
+adread 2
 austroriparian 1
 acetotoluid
 angeluses
