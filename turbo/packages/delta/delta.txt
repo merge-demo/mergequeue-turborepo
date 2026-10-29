@@ -12358,7 +12358,7 @@ disheartenedly
 doubles
 desulfurizer
 disheartener
-doveflower
+doveflower 1
 devachan
 dissemilative
 daphnean
