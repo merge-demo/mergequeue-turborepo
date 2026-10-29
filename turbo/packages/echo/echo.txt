@@ -7484,7 +7484,7 @@ encounterer
 ekphory
 euda 1
 exocoetidae
-extensively
+extensively 1
 estrins
 estall
 eophytic
