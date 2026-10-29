@@ -8303,7 +8303,7 @@ fontlet
 ferrotyping
 firmament
 fatherlike
-flapperish
+flapperish 1
 flatulentness
 faultfinders
 fittiest
