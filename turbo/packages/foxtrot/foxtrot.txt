@@ -6953,7 +6953,7 @@ fonding
 fondle
 foreface
 frayings
-funnelling
+funnelling 1
 fondled
 fondles
 fainter
