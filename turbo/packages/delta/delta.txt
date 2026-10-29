@@ -1060,7 +1060,7 @@ darraign
 depositions 1
 digitalic
 darrein
-darshan
+darshan 1
 dampening
 dorsomesal 1
 darsonval 1
@@ -2798,7 +2798,7 @@ decries 1
 decrying
 danegelt
 dielectrically
-demonic 2
+demonic 3
 decriminalization
 disequalization
 decastellate
