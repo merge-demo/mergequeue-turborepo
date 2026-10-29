@@ -9494,7 +9494,7 @@ ganoidean
 grouser
 gorgeted 1
 gyred
-grimp
+grimp 1
 giftbook
 gymnosporous
 granting
