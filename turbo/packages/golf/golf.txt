@@ -1154,7 +1154,7 @@ genitors
 gantlet 2
 grocer
 gled
-gantleted
+gantleted 1
 grouses
 gery
 goninidia 1
