@@ -26056,7 +26056,7 @@ cosie
 cosier
 cedrine 1
 colotyphoid
-creches
+creches 1
 colicystitis
 cosies
 circumscriber
