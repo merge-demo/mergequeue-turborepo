@@ -2068,7 +2068,7 @@ gunbuilder 1
 girsh
 glyptodont
 guideboard
-gallicolous
+gallicolous 1
 gutlessness
 grotto 1
 gavots 1
