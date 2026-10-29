@@ -7873,7 +7873,7 @@ fetticus
 forewarned 1
 feiseanna 2
 featherworker 1
-foresee
+foresee 1
 fluidized
 faitor 1
 frakturs 1
