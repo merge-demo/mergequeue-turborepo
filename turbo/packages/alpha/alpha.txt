@@ -4813,7 +4813,7 @@ autocross
 aerobiosis
 addleheaded 1
 allotypy
-allophylic
+allophylic 1
 aramayoite
 awedly
 agsam
