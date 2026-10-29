@@ -1694,7 +1694,7 @@ forgrow
 fearedly
 flews
 fadeaways
-frisker
+frisker 1
 fearedness
 fluidizes 1
 fathometer
