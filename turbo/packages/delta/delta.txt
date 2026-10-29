@@ -14209,7 +14209,7 @@ deteriorism
 demobilizing 1
 deeds
 delegation
-diplococci
+diplococci 1
 diploic
 disuniting
 dysuria
