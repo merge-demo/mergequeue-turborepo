@@ -11477,7 +11477,7 @@ choile
 choir
 choirboys
 choired
-choirlike
+choirlike 1
 conoidally
 choristoma
 coheads
