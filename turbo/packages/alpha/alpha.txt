@@ -6495,7 +6495,7 @@ autunian
 affiancing
 animalian
 anthemed
-ahmed 1
+ahmed 2
 atrienses
 asphalted
 aholds
@@ -21527,7 +21527,7 @@ arrhal
 asperula
 ambulatoria 1
 anticovenanting
-autonomy
+autonomy 1
 adiaphanous
 alluvium
 axolotls

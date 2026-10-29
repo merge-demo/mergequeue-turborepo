@@ -3094,7 +3094,7 @@ disability 1
 domesticity 1
 duringly
 defaulted
-depauperization
+depauperization 1
 downfolded
 defaults
 decked

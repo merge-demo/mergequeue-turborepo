@@ -11715,7 +11715,7 @@ eschewer
 enscrolled
 exceptless
 examinatory
-endochrome
+endochrome 1
 encumbering
 equivocacies
 examinatorial
