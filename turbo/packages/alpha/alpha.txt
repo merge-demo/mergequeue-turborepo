@@ -20692,7 +20692,7 @@ aulostomid
 anywise 1
 arefy
 acetometer
-ayurvedas
+ayurvedas 1
 axiolitic
 aphidid
 articulacy
