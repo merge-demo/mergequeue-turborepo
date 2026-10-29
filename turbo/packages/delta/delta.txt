@@ -13367,7 +13367,7 @@ dysorexy
 detainees
 discerns 1
 desanding 1
-denticles
+denticles 1
 disputes 1
 disdiaclast
 disputing
