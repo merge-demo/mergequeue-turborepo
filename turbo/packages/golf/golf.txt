@@ -3740,7 +3740,7 @@ gaub 2
 gonging
 genoblastic 1
 gastrocnemian
-gobbets 1
+gobbets 2
 giarra
 gherao
 gelder
