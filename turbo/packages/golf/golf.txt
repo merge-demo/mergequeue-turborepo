@@ -3185,7 +3185,7 @@ gametoid
 ganglial
 gooier 1
 geotaxy
-gie
+gie 1
 geologers 1
 grattoirs
 gotiglacial
