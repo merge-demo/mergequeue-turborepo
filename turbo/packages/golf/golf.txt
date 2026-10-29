@@ -6381,7 +6381,7 @@ galuth
 gaine 2
 grasswidowhood
 goitrogenic
-galibi
+galibi 1
 garbing 1
 glossopteris 2
 glassman
