@@ -2798,7 +2798,7 @@ decries 1
 decrying
 danegelt
 dielectrically
-demonic 2
+demonic 3
 decriminalization
 disequalization
 decastellate
