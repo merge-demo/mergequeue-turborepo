@@ -16822,7 +16822,7 @@ apostolian
 avocational
 azosulphine
 angelographer
-alienates
+alienates 1
 acquisitional
 apogamous
 alterman
