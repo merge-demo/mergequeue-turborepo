@@ -9339,7 +9339,7 @@ frayne 1
 functionary
 fettled
 fastenings
-frisbee
+frisbee 1
 fowk 1
 frails
 fisheater
