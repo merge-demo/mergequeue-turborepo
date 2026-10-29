@@ -5262,7 +5262,7 @@ gallinaginous
 gonidia 1
 glomerulate
 galactoma
-gabionade
+gabionade 1
 glassmen
 galiongee
 glycollate
@@ -6311,7 +6311,7 @@ geotropism
 goety 1
 gummage
 gardencraft
-gymnolaemata
+gymnolaemata 1
 gaels
 gerontomorphosis
 gloriosa
