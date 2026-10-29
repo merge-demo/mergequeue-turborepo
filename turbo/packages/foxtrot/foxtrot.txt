@@ -7613,7 +7613,7 @@ forthtell
 flickers
 ferruginean
 foregift 1
-feyness 1
+feyness 2
 foregleam
 faction
 forst 1
