@@ -2043,7 +2043,7 @@ cropper
 capitalizer
 chicomecoatl
 cypresses
-crystalloidal
+crystalloidal 1
 cruelize
 colonial
 camoudie 1
@@ -8456,7 +8456,7 @@ champian
 copyholder
 champignon
 champignons
-caveat
+caveat 1
 carle
 contrabassoonist
 champine
