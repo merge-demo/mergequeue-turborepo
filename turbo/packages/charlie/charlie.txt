@@ -10658,7 +10658,7 @@ coagment
 caribou
 chimes
 chymes 1
-caseoses
+caseoses 1
 covering
 ctenophorous
 coprolite
