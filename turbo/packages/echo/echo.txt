@@ -4125,7 +4125,7 @@ evenly
 electrovalence
 employe
 etamin
-emperor
+emperor 1
 epigene
 empestic
 epicanthus
