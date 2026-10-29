@@ -6557,7 +6557,7 @@ deselected 1
 depiction
 dysmerogenesis
 deadborn
-duddie
+duddie 1
 desiccants
 dichotomised
 decretory
