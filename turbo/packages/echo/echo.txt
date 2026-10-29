@@ -5042,7 +5042,7 @@ excuses
 encumbrances 1
 eucosmid
 emboweller
-escobedo
+escobedo 1
 ensuer
 emphaticalness 1
 ectoproct
