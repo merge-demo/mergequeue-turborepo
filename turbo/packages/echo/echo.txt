@@ -13268,7 +13268,7 @@ eolation
 eyeshield
 englifier
 empierce
-endophragm
+endophragm 1
 estranger
 englishable
 eponymize
