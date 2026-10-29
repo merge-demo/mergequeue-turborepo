@@ -1339,7 +1339,7 @@ explosives
 eelspear
 effeminising
 effeminize
-effeminizing
+effeminizing 1
 exhibitionize 1
 electrogilding
 embusque
