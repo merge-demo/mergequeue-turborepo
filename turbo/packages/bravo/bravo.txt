@@ -16566,7 +16566,7 @@ bibliopolical
 blackplate
 brachypinacoid
 bleary
-brutishness
+brutishness 1
 blockheadism 1
 blotched
 bandster
