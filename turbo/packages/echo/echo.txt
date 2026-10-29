@@ -5109,7 +5109,7 @@ emanatistic
 epilogic
 estray
 exsanguinous
-exprobratory
+exprobratory 1
 exsuscitate
 endocoele
 enaliosaurian
