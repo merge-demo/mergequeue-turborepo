@@ -28168,7 +28168,7 @@ celebres 1
 colter
 cuckooed 1
 crosscutter
-cranked
+cranked 1
 cranker
 cullis
 crankily
