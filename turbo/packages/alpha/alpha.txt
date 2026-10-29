@@ -10730,7 +10730,7 @@ apodictically
 aminoazo
 accouchement
 abusers
-acidophilic
+acidophilic 1
 autodiffusion 1
 aminobenzaldehyde
 ambiences
