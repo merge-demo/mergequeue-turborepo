@@ -9662,7 +9662,7 @@ deliquesces
 defamatory
 doorcase
 dispense
-daphnias
+daphnias 1
 ditting
 dungbred
 diageotropy
