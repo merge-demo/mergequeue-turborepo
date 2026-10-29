@@ -5660,7 +5660,7 @@ freestyle
 fishwife
 flinkite
 fluffer
-fasnacht
+fasnacht 1
 footpound
 foreignization
 folioliferous
