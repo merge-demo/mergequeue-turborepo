@@ -5957,7 +5957,7 @@ antiagglutinin
 anatomicophysiologic
 amaranthaceous
 aggregative 1
-aggregatively
+aggregatively 1
 aggregator
 alepole
 arcubalist
@@ -22601,7 +22601,7 @@ actinotoxemia
 acclaimers 1
 archhouse
 athabasca
-acetylcholine
+acetylcholine 1
 acontium
 aliased 1
 acuate 1
