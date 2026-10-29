@@ -14010,7 +14010,7 @@ antievolutional
 apollonicon
 armillary 1
 austenitized
-aryepiglottic
+aryepiglottic 1
 ablatively
 antarctogaea
 amphitropal
