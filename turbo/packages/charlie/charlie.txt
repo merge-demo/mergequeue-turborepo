@@ -7674,7 +7674,7 @@ cityward
 croquet
 cerniture
 cernuous
-cerographer
+cerographer 1
 contestants
 contracter
 cerographical
@@ -30607,7 +30607,7 @@ cuckolded
 cuckoldize
 condor
 cuckoldly
-cuckoomaid
+cuckoomaid 1
 cuckoomate
 chronaxia
 cuckoopintle
