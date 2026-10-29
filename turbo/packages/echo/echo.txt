@@ -13445,7 +13445,7 @@ etas 1
 expressway
 existentialists
 exencephalous
-epoch
+epoch 1
 endocranial
 euprepia
 embolomerous 1
