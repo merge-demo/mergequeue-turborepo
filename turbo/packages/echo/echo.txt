@@ -6621,7 +6621,7 @@ entomophagan 1
 exchangite
 escambron
 enteroischiocele
-enlacement
+enlacement 1
 expergefacient
 esplees
 electronarcosis
