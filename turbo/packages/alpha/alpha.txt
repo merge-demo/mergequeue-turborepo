@@ -20522,7 +20522,7 @@ arteriometer
 arteriomotor
 aesculus
 antiasthmatic
-arteriorenal
+arteriorenal 1
 accentless
 amnesty 1
 airfreight
