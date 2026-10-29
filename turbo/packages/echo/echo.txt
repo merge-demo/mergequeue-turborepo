@@ -10489,7 +10489,7 @@ equaller
 ettle
 eightpenny
 enologies
-exorbitant
+exorbitant 1
 eclectics
 epulary 1
 etwee
