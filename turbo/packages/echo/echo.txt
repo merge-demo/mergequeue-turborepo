@@ -1339,7 +1339,7 @@ explosives
 eelspear
 effeminising
 effeminize
-effeminizing
+effeminizing 1
 exhibitionize 1
 electrogilding
 embusque
@@ -2182,7 +2182,7 @@ entozoologist
 elderberries
 extrabureau
 erythemic
-emissitious 1
+emissitious 2
 elderliness
 exponentiated
 expect
