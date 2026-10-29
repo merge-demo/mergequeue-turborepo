@@ -6589,7 +6589,7 @@ gaed
 goncalo
 gyrectomy
 geminating 1
-gyrovagues
+gyrovagues 1
 girlery
 globulysis
 glycosuria
