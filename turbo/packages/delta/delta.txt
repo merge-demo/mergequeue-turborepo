@@ -14787,7 +14787,7 @@ diglot
 deviating
 dodd 1
 dantophily
-diocesian
+diocesian 1
 dockets
 dyphone
 dockhand
