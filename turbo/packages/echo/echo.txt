@@ -4753,7 +4753,7 @@ endosmosic
 ebulliometry
 epistler
 entomophytous
-establishments
+establishments 1
 exploratory
 extracardial
 encloister
