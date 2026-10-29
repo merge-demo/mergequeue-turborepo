@@ -10602,7 +10602,7 @@ enthusiasticalness
 ergatandry
 electroendosmose
 electrotherapies
-endorse
+endorse 1
 enuretic
 eucritic
 eudaemon 1
