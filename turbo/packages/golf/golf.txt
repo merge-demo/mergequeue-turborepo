@@ -2029,7 +2029,7 @@ goloch
 goitrogenicity
 gainsayers 1
 gonna
-giggly
+giggly 1
 gelatiniform
 gases 1
 gaveled
