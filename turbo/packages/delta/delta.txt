@@ -9899,7 +9899,7 @@ downwardness
 dimidiate
 dispart
 deodorizers
-dissonancy
+dissonancy 1
 dissinew
 decimeter
 downcourt 1
