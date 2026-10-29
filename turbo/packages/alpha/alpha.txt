@@ -4759,7 +4759,7 @@ avaunt
 aftermath
 adenochondroma
 asterionella
-acarology
+acarology 1
 autopathic 1
 anaretic
 antihum
