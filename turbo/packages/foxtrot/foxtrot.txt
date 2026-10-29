@@ -4301,7 +4301,7 @@ fet
 flamethrower
 fluxive
 fruticous 1
-funditor
+funditor 1
 fructiferousness 1
 fretworked
 foddering
