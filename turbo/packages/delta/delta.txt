@@ -5093,7 +5093,7 @@ denyer
 didromy
 dolphinfish
 damia
-decarburation
+decarburation 1
 desertic
 denierer 1
 dipolarize
