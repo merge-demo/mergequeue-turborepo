@@ -28354,7 +28354,7 @@ cymbalers 1
 califate
 counteragent
 colaphize
-clanned
+clanned 1
 crawberry
 crawdad
 crawdads
