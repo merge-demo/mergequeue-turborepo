@@ -11180,7 +11180,7 @@ arms
 adjutancies
 antirationality
 araeometer
-amphetamines
+amphetamines 1
 abasgi
 antecedaneous
 antipharmic
