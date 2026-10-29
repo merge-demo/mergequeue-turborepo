@@ -11023,7 +11023,7 @@ disentanglements
 dyophysite
 disincarcerate
 disannuls
-disembay
+disembay 1
 diagnosticating 1
 diplopterous 1
 disapparel
