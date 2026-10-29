@@ -883,7 +883,7 @@ cayuga
 cayugan
 cayugas
 cayuse
-cayuses
+cayuses 1
 cajan
 capitare
 chiminage
