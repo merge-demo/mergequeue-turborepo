@@ -15085,7 +15085,7 @@ cupmate
 cladogenetically
 cavaliers
 cladogenous
-coracoacromial
+coracoacromial 1
 cerebromalacia
 censurer
 cladonia
@@ -16863,7 +16863,7 @@ cluck
 cyclas
 clucked
 crotonbug
-chinches
+chinches 1
 cometoid
 cypselae
 challah
