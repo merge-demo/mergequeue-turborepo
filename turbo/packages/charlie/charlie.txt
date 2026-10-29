@@ -12072,7 +12072,7 @@ chounce
 coalesced 1
 cholorrhea
 choupic
-chous
+chous 1
 chouse
 choused 1
 cyanogenesis
