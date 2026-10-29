@@ -4560,7 +4560,7 @@ bae
 bandolero
 bodenbenderite
 blankest
-barricaded
+barricaded 1
 burnsides
 batata
 balushai 1
