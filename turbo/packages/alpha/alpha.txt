@@ -17750,7 +17750,7 @@ ammunition
 applicatively 1
 applicatory 1
 appliedly
-allegorized
+allegorized 1
 abacterial
 acettoluide
 acrocera 1
