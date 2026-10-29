@@ -1645,7 +1645,7 @@ dishrag 1
 dissects
 democratizes
 dentimeter
-deaminase
+deaminase 1
 digitize
 daws
 daw
