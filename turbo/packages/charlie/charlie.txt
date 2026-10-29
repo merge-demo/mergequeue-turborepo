@@ -26054,7 +26054,7 @@ cosy
 caulicule
 cosie
 cosier
-cedrine
+cedrine 1
 colotyphoid
 creches
 colicystitis
