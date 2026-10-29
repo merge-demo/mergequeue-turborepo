@@ -13259,7 +13259,7 @@ clipperman
 crudding
 cyclometric 1
 contributes
-cyclonal
+cyclonal 1
 contravention
 cyclone
 cyclonic
