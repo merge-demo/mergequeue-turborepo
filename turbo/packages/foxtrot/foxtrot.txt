@@ -4049,7 +4049,7 @@ festoony
 flindersia
 freefd
 finitism
-finitive
+finitive 1
 felapton
 formants
 foppishness
