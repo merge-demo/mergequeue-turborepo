@@ -18187,7 +18187,7 @@ dunbird
 dermatoscopy 1
 disobedience
 diable
-disarticulated
+disarticulated 1
 depravedness
 divinifying
 dunch
