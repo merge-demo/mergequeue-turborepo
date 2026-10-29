@@ -18399,7 +18399,7 @@ cognizor
 cognomens
 claught
 cathedral
-cognominated
+cognominated 1
 cognomination
 cognoscent
 changeling
