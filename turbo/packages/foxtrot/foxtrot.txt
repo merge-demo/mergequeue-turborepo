@@ -5249,7 +5249,7 @@ faugh
 flavorsome
 falda
 frivoling
-fossilage
+fossilage 1
 foodful 1
 fills 1
 fstore
