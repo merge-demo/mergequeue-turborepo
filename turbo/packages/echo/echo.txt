@@ -2740,7 +2740,7 @@ eleemosynary
 etymology
 emetic
 engorge
-eleemosynarily
+eleemosynarily 1
 egos
 erythrocyte
 evangelary
