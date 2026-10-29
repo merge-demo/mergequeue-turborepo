@@ -21190,7 +21190,7 @@ concentrations 1
 chaos
 concentrative
 cicatricial
-carnally
+carnally 1
 codirect
 contrabasso
 concentrativeness
