@@ -9984,7 +9984,7 @@ geophysically 1
 gogglier
 glow
 graveness
-gargled
+gargled 1
 gleaner
 gelatinify
 galago
