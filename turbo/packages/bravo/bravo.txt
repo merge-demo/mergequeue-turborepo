@@ -15580,7 +15580,7 @@ badinaging
 broomstick
 begrain 1
 boxes
-bdelloida
+bdelloida 1
 barraclade
 braggadocio
 bryozoon
