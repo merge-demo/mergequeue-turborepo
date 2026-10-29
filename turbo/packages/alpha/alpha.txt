@@ -22846,7 +22846,7 @@ adjurers
 atoke
 assemblages 1
 alphenic 1
-anyhow
+anyhow 1
 assonate
 aquo
 avidness
