@@ -504,7 +504,7 @@ effluency
 explorers
 echappe
 examinator
-emphyteusis
+emphyteusis 1
 echelle
 exhibitant
 electrosurgeries 2
