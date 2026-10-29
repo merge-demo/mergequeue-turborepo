@@ -4620,7 +4620,7 @@ ervenholder 1
 ephebeia
 epithalamic 1
 enchytraeid
-evacuated
+evacuated 1
 emceing
 enchytraeus
 eradicative
