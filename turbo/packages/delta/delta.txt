@@ -12158,7 +12158,7 @@ didactician
 diasper 1
 degausser
 despiciency
-demander
+demander 1
 depurates
 duply
 disambiguates
