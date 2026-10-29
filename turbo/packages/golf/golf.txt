@@ -5839,7 +5839,7 @@ gipsyweed
 glucoses 1
 glances
 glucoside 2
-geophagy
+geophagy 1
 goshawk
 glissading
 gormandizers
