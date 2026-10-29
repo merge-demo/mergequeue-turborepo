@@ -7409,7 +7409,7 @@ galbulidae
 girdering 1
 gastralgy
 greable
-gynecophore 1
+gynecophore 2
 guanins
 gadroonage
 gou 1
