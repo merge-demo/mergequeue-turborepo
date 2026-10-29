@@ -1852,7 +1852,7 @@ funambulate
 foreign
 frilly
 feastless
-febrific
+febrific 1
 feloid 1
 febrile
 forrue
