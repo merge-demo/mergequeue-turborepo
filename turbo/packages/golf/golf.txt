@@ -9021,7 +9021,7 @@ gimcracky 1
 grinnellia 2
 grimaced
 gulose
-genoese
+genoese 1
 gis
 gunpowdery
 gryllid
