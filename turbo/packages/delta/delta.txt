@@ -11738,7 +11738,7 @@ discreetly
 declarant 1
 derogatively
 dioscorine
-discrepancies
+discrepancies 1
 dimatis
 dedendum
 discrepancries
