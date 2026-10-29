@@ -9054,7 +9054,7 @@ bartizan
 brender 1
 bacterioagglutinin
 biomathematics
-bets
+bets 1
 bomi
 byp
 biomechanical
