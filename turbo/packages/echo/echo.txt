@@ -7759,7 +7759,7 @@ easternmost 1
 embolite
 expedientially
 episodes 1
-electrodynamical
+electrodynamical 1
 etymologies
 endophytal
 etherizer
@@ -11966,7 +11966,7 @@ exarchateship
 enteromesenteric
 epistemophilic
 epitaphist
-excitations 2
+excitations 3
 escapes
 eastbound
 eulogists
