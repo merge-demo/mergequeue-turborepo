@@ -1234,7 +1234,7 @@ asaphic
 acarari
 acarian 2
 apothece
-acarid
+acarid 1
 accord
 addorsed
 anarthropod
