@@ -16636,7 +16636,7 @@ blazing
 botryogen
 breathier
 becrampon
-bowmaker
+bowmaker 1
 blackarm 1
 beanpole
 bejewelled
