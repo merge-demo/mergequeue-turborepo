@@ -17426,7 +17426,7 @@ antiattrition
 autocratically
 apotheosised
 azon
-apotheosized
+apotheosized 1
 apothesine
 anteportico
 amercers
