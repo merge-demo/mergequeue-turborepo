@@ -8683,7 +8683,7 @@ candids
 cathexion
 chilindre 1
 chimbley
-chapatties
+chapatties 1
 chapattis 1
 codify
 connectant
