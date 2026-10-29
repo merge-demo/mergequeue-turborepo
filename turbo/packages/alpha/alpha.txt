@@ -304,7 +304,7 @@ affiant
 addleplot
 abnormals
 agas
-admiratively
+admiratively 1
 abdominothoracic
 adjective
 acquiescent
