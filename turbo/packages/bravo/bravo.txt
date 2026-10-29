@@ -7760,7 +7760,7 @@ bhangi
 bhara 1
 bevy
 bharal
-basaltiform
+basaltiform 1
 bhat
 burglaries
 bunning
@@ -10479,7 +10479,7 @@ boltmaking
 beesting
 broidery
 boviform 1
-bemadam
+bemadam 1
 bromoform
 bribetaking
 briquetting
