@@ -1060,7 +1060,7 @@ darraign
 depositions 1
 digitalic
 darrein
-darshan
+darshan 1
 dampening
 dorsomesal 1
 darsonval 1
