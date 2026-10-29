@@ -10014,7 +10014,7 @@ beryllate
 bilinguality
 bridleman
 biases
-bivalence
+bivalence 1
 blethering
 byelaw
 biland
