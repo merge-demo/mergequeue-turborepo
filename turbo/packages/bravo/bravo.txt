@@ -7615,7 +7615,7 @@ bugfish
 beweeps
 bombazette
 bombilate
-bastardize
+bastardize 1
 bloodripe
 begiggle
 barnacle
