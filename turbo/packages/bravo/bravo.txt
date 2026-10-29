@@ -2256,7 +2256,7 @@ ballism
 bridgebote
 barbarianizing
 bandog
-barbarically
+barbarically 1
 blandiloquous
 barbequing
 bourage
