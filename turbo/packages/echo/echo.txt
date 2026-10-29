@@ -12312,7 +12312,7 @@ emusive 2
 earthlings
 ethic
 enhydrous
-etymologicon
+etymologicon 1
 equivalencies 1
 exercitation
 elecampane
