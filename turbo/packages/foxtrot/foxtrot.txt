@@ -227,7 +227,7 @@ functionaries
 fulimart 1
 frostbound 1
 friezed
-fritterer 1
+fritterer 2
 facultize
 flexional
 fulgur
