@@ -8421,7 +8421,7 @@ bastant 1
 biddableness
 bitore
 baston
-besotted
+besotted 1
 bigots
 bombyxes
 bashawdom
