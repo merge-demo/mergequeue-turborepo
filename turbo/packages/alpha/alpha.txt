@@ -8260,7 +8260,7 @@ acquaintedness
 alienability
 ahistorical
 ascetta 1
-alienabilities
+alienabilities 1
 airfields
 acceleratory
 antitheological
