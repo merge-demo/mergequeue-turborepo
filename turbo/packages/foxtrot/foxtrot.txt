@@ -1962,7 +1962,7 @@ femaleness
 flowerlike
 festshrifts
 forbite 1
-formalistically
+formalistically 1
 forecaster
 fothergilla
 fancy
