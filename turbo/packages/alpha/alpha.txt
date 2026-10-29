@@ -4084,7 +4084,7 @@ ardoise
 ampliation
 aedoeagi
 attentate
-allocates
+allocates 1
 admitters
 anahau
 admitting
