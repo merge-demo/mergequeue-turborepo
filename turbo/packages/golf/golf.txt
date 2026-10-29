@@ -275,7 +275,7 @@ gumminess
 grapta
 graziery 1
 geoplagiotropism
-grenada
+grenada 1
 gnomon
 glauconiferous
 glomeroporphyritic
