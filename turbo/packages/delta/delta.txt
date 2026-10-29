@@ -9457,7 +9457,7 @@ dustiest
 detester
 desultor
 disparateness 1
-dopy
+dopy 1
 digestibility
 diaconicum
 disserting
