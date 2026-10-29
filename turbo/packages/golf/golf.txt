@@ -4945,7 +4945,7 @@ grippe 1
 gammed
 glykopectic
 griddles
-galleypot
+galleypot 1
 governesshood 1
 glaucousness
 geryoniidae
