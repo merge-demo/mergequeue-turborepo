@@ -3156,7 +3156,7 @@ extinguishment 1
 eloins
 exergue 1
 etioporphyrin
-explorativeness 1
+explorativeness 2
 embalms
 eloise 1
 exocoelom
@@ -10489,7 +10489,7 @@ equaller
 ettle
 eightpenny
 enologies
-exorbitant
+exorbitant 1
 eclectics
 epulary 1
 etwee
