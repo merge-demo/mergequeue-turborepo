@@ -2075,7 +2075,7 @@ elapine 1
 endysis
 eutectics
 edictal
-entraps
+entraps 1
 ecphractic 1
 epi
 eugene
