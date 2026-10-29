@@ -8227,7 +8227,7 @@ estreating
 electromagnetist
 elephantiasic
 epipharyngeal
-exonerates
+exonerates 1
 epilimnionia
 epistatic
 empyrosis
