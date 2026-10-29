@@ -9019,7 +9019,7 @@ edriophthalma
 erythrite 1
 emaciating 1
 enfeeblement
-exponent
+exponent 1
 espionage
 erythritol
 equivalue 1
