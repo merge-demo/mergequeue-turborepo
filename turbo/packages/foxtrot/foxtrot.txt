@@ -3575,7 +3575,7 @@ feddan 1
 flapjacks
 fussle
 fainaiguing
-fairbanks
+fairbanks 1
 fourniture 1
 flashover
 fardels
