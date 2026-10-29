@@ -21527,7 +21527,7 @@ arrhal
 asperula
 ambulatoria 1
 anticovenanting
-autonomy
+autonomy 1
 adiaphanous
 alluvium
 axolotls
