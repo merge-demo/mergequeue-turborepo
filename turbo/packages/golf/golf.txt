@@ -4387,7 +4387,7 @@ galuchat
 glamours
 gazangabin
 globigerinidae
-gynura
+gynura 1
 goyazite
 gadsman
 glucuronide 1
