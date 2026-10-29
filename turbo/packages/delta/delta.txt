@@ -616,7 +616,7 @@ disegno
 deadrize
 disintegrating
 deadhand
-disgracefulness
+disgracefulness 1
 definientia
 disinhumed
 determinantal

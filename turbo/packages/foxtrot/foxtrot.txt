@@ -10302,7 +10302,7 @@ fusilladed 1
 fromenties 1
 fogyishness
 fastening
-fluorated
+fluorated 1
 floscularian
 fluorotic 1
 faquirs
