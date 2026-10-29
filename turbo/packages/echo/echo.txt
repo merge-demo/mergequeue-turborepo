@@ -8803,7 +8803,7 @@ extracurial
 elide 1
 ensellure
 eight
-egritude
+egritude 1
 esteems 1
 electropsychrometer
 enskyed
@@ -11685,7 +11685,7 @@ emphatic
 escolar
 enfolding
 eventualities
-exaltation 1
+exaltation 2
 erenow
 enterocoele
 endocarditis
