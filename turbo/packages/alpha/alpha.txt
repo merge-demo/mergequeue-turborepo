@@ -21620,7 +21620,7 @@ antiphonaries
 angary
 allegorist
 asporogenic
-annexes
+annexes 1
 applicability
 aspredo
 antirickets
