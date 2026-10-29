@@ -8974,7 +8974,7 @@ flaxwort 1
 fustian 1
 fractus 2
 forwork
-fricassee
+fricassee 1
 fiendship 2
 feudaries
 flintified

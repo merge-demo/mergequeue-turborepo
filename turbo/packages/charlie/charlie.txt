@@ -11950,7 +11950,7 @@ chorioallantois
 centrifugation
 cornbread 1
 counterculturist 1
-choriocele
+choriocele 1
 corked
 cichoriaceous
 covens
