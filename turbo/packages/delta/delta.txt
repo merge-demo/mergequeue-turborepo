@@ -11729,7 +11729,7 @@ damianist
 dynodes
 darkening
 discreeter 1
-dispensation
+dispensation 1
 drawled
 dermography 1
 desoxymorphine
