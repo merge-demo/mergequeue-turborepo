@@ -13172,7 +13172,7 @@ earclip
 epigynous
 enhancive
 edema 1
-endognathal
+endognathal 1
 edriophthalmic
 egualmente
 eurhodol
