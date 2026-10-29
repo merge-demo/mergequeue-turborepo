@@ -10717,7 +10717,7 @@ avoy
 asok
 autogenously
 allotriophagia
-amphistylar
+amphistylar 1
 amino
 aminoacetic
 anatomicosurgical
