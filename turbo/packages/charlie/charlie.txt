@@ -2043,7 +2043,7 @@ cropper
 capitalizer
 chicomecoatl
 cypresses
-crystalloidal
+crystalloidal 1
 cruelize
 colonial
 camoudie 1
@@ -4045,7 +4045,7 @@ chromocentral
 creaminess
 cardiac
 cardiacal
-cestui
+cestui 1
 cleronomy
 caliginous
 cardiacle
