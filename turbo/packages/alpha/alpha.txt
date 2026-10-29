@@ -8898,7 +8898,7 @@ aeolodicon
 allochthon 1
 antlike
 ambilevous
-azurous
+azurous 1
 amakebe
 anetic
 allocyanine
