@@ -418,7 +418,7 @@ fusetron
 friendliwise
 festive
 frondless
-flints
+flints 1
 fibrotic
 festae 1
 fibroligamentous
