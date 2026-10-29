@@ -11426,7 +11426,7 @@ distorted
 desertless
 dubiety
 diverted
-discobolos
+discobolos 1
 disbelieving
 degassing
 disengaging
