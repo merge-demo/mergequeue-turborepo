@@ -17780,7 +17780,7 @@ delft
 donga
 dorsosternal
 desoxycorticosterone 1
-depa
+depa 1
 desoxyanisoin
 duckbill
 dossing
