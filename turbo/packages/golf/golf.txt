@@ -4650,7 +4650,7 @@ glazen
 geisothermal
 gigged 1
 geelbec
-galchic
+galchic 1
 gifting 1
 giraffes
 generis
