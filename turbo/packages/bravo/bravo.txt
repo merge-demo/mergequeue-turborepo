@@ -6211,7 +6211,7 @@ bromvoel
 blacker
 beneficialness 1
 bloodthirsting
-banlieue
+banlieue 1
 brassiest 1
 bowfin 1
 bassorin
