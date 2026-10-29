@@ -9715,7 +9715,7 @@ gelants
 gratiosolin
 guying
 grummet
-genuflector
+genuflector 1
 gordiidae
 gemeinde
 gablewise 1

@@ -6949,7 +6949,7 @@ biplosive
 breediness
 betail 1
 baselessness
-betta 1
+betta 2
 becoward
 bargoose 1
 bodhisattwa

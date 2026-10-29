@@ -1339,7 +1339,7 @@ explosives
 eelspear
 effeminising
 effeminize
-effeminizing
+effeminizing 1
 exhibitionize 1
 electrogilding
 embusque
@@ -10602,7 +10602,7 @@ enthusiasticalness
 ergatandry
 electroendosmose
 electrotherapies
-endorse
+endorse 1
 enuretic
 eucritic
 eudaemon 1
