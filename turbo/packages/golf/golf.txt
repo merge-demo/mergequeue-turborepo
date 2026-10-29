@@ -517,7 +517,7 @@ galivants
 geneticism 1
 galloped 1
 growthful
-guruship
+guruship 1
 grooty
 gaieties
 gives 1
