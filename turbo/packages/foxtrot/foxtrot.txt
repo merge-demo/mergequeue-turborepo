@@ -1050,7 +1050,7 @@ fletcherize
 folates
 farmership 1
 formicarian
-frieda
+frieda 1
 focalization
 flopper
 felspathose 1
