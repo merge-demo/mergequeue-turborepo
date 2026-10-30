@@ -11594,7 +11594,7 @@ discontinuances
 dambonite 1
 dashiki
 debuts
-dishabit
+dishabit 1
 defeminize
 discontinuee 1
 disprepare
