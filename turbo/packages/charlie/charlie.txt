@@ -652,7 +652,7 @@ caesarotomy
 choice
 caesious
 caespitose
-caespitosely
+caespitosely 1
 cinemize
 crownal
 caestus
