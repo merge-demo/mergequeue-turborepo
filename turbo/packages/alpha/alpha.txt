@@ -729,7 +729,7 @@ abradable
 arteriopressor
 atrede
 abradants 1
-aver
+aver 1
 anglicized 1
 aptote
 allantoic
