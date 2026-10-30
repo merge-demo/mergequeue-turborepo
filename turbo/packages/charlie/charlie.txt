@@ -25756,7 +25756,7 @@ corrival
 corrivality
 craniologist
 corrivalry
-corrivalship 1
+corrivalship 2
 corrivate
 corrivation
 corrive
