@@ -10795,7 +10795,7 @@ directly
 deceptivity 1
 deviscerate
 dispartment
-dixies
+dixies 1
 dissave
 discolorate
 deviates
