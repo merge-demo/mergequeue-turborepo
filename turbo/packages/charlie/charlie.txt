@@ -1524,7 +1524,7 @@ chemurgy
 colleens
 calligraphers
 college
-calligraphy
+calligraphy 1
 calligraphic
 chiba
 cooeying
