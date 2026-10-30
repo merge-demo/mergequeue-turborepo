@@ -7559,7 +7559,7 @@ bardelle
 bedgery
 bevenom
 bever
-barleducs
+barleducs 1
 blemishment
 burses 1
 bonneted
