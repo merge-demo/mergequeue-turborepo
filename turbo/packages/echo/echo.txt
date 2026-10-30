@@ -4970,7 +4970,7 @@ expectable
 embryotomy
 endellionite 1
 eucephalous
-emigates
+emigates 1
 electrocorticogram
 envy
 engraphic 1
