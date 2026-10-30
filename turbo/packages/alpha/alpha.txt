@@ -20740,7 +20740,7 @@ affrontingly 1
 avid
 antarchy
 augmenting
-acquitment
+acquitment 1
 autoplagiarism
 artifactitious
 aniseroot
