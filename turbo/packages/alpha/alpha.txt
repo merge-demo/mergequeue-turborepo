@@ -5227,7 +5227,7 @@ antievolutionistic 1
 affiants
 affiches
 affidare
-affidation
+affidation 1
 altropathy 1
 antihemorrhagic 1
 allegorists
