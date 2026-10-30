@@ -24372,7 +24372,7 @@ ankylomele
 arksutite
 apothec
 autoscope 1
-autoscopic
+autoscopic 1
 apparentation
 antagonise
 autosight
