@@ -11448,7 +11448,7 @@ dekaliter
 dishier
 diplodia
 dicarboxylic
-deployments
+deployments 1
 disaccharid
 discoideae
 despatchers
