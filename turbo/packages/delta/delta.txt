@@ -3195,7 +3195,7 @@ defenestrating
 danae
 dayside 1
 derricking
-defenseless
+defenseless 1
 defenselessness
 devitalising
 dolichostylous
