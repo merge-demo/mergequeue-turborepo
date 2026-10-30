@@ -6237,7 +6237,7 @@ administers
 agonizingly
 alphabetise
 absolver
-agonizingness
+agonizingness 1
 alswith
 agoranomus
 advertiser
@@ -24179,7 +24179,7 @@ allachesthesia
 autolater
 advertising
 autolatry
-aguara
+aguara 1
 artemia 2
 antherless
 anteambulate
