@@ -6708,7 +6708,7 @@ decontaminative
 desucration
 desilicify 1
 desilicified
-desiliconization
+desiliconization 1
 discoactine
 dribbed
 doubly
