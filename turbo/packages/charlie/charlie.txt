@@ -24985,7 +24985,7 @@ circumflant
 cordaitaceous
 cordaites
 cowperitis
-circumpolar
+circumpolar 1
 cordal
 cordate
 contrayerva
