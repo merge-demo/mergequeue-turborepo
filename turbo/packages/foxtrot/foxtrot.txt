@@ -8290,7 +8290,7 @@ ficoidaceae
 flashing
 funniest
 favuses
-foryield
+foryield 1
 furnished
 fautorship
 foxtrot 1
@@ -10071,7 +10071,7 @@ figure
 faradonervous
 fleyed
 foretaste 1
-flyball
+flyball 1
 foamiest 1
 forleit
 flannelmouthed 1
