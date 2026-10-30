@@ -430,7 +430,7 @@ gymmal
 gabion
 greatened
 greatcoated 1
-gegger 1
+gegger 2
 galbanums
 genophobia
 gimcrackiness 1
@@ -2831,7 +2831,7 @@ gentrices
 galenian
 gryph 1
 gayment
-gamodesmy
+gamodesmy 1
 glyoxaline
 gether
 genu
