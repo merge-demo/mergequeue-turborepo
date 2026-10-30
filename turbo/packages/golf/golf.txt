@@ -2252,7 +2252,7 @@ gristle
 gossipmongering 1
 galactase
 gastrotome
-grifts 2
+grifts 3
 gefulltefish
 galax
 gonidiogenous 2
