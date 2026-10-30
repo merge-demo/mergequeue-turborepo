@@ -5141,7 +5141,7 @@ cyphering
 caserne
 coulomb
 casernes
-costumery
+costumery 1
 caserns
 cases
 caseum
@@ -17344,7 +17344,7 @@ coastguardman
 cheapskates 1
 coastguardsman
 coastguardsmen
-cacheted
+cacheted 1
 cruder
 coastland
 constipated
