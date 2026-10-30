@@ -3834,7 +3834,7 @@ araneose
 adynamia
 adion 1
 arhat
-adios
+adios 1
 adipate 1
 amphitruo
 aequorin
