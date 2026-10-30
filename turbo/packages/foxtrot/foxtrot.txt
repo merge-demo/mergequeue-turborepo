@@ -2129,7 +2129,7 @@ forloin
 foddered
 fellatrice
 fluoresage 1
-frigate
+frigate 1
 fletch
 faujdar
 fldxt 2
