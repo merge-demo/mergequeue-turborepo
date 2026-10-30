@@ -6947,7 +6947,7 @@ destroyers 1
 despoiler
 docketing
 disabilities
-despoilers
+despoilers 1
 decongest
 decamps
 discreditably
