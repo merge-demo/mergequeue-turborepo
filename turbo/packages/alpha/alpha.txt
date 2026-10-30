@@ -19170,7 +19170,7 @@ aspread
 agnostically
 arcograph
 astrophysicist
-apneic
+apneic 1
 azurmalachite
 angiomatous
 anticommunists 1
