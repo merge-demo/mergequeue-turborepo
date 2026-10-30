@@ -4859,7 +4859,7 @@ gethsemane
 glaieul
 geodal
 gliomata
-gorier
+gorier 1
 gorse 1
 glauberite
 glair 1
