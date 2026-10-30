@@ -8209,7 +8209,7 @@ forficulidae
 finestra
 faltering
 flatette
-forgat
+forgat 1
 flavines
 forgather
 fossulet 1
