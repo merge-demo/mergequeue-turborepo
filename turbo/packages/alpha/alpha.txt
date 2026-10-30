@@ -8338,7 +8338,7 @@ aketon
 antarctical
 aliyah
 alikeness
-alikewise
+alikewise 1
 abr
 anticodon
 alilonghi
