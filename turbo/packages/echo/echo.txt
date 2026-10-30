@@ -4539,7 +4539,7 @@ enureses
 emplaned
 embarkation
 encephalotome
-ethics
+ethics 1
 epionynychia
 euphony
 epagoge
