@@ -7186,7 +7186,7 @@ barret
 backless
 besprinkles 1
 bloodied
-barefoot 1
+barefoot 2
 bogglingly
 boxiana
 babylonism
