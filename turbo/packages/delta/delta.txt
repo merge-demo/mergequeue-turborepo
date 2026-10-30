@@ -6249,7 +6249,7 @@ disload
 dermatozzoa
 dermatrophia
 deallocate
-disgrade
+disgrade 1
 dephlegmatory 1
 dermenchysis 1
 delacrimation
