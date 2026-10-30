@@ -22428,7 +22428,7 @@ antidetonant
 astrologist
 anagrammatise 1
 antiluetin
-astrologize
+astrologize 1
 advancers
 astromancer
 astromantic
