@@ -18044,7 +18044,7 @@ basifying
 bottler
 busthead
 barberries
-bustian
+bustian 1
 beforehand
 bifistular
 bradypod 1
