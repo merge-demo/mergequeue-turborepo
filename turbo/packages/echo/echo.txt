@@ -4970,7 +4970,7 @@ expectable
 embryotomy
 endellionite 1
 eucephalous
-emigates
+emigates 1
 electrocorticogram
 envy
 engraphic 1
@@ -7347,7 +7347,7 @@ equinoctial
 eparterial
 emasculations
 experiencible
-epaulement
+epaulement 1
 enstranged
 elsin 1
 epeeist
