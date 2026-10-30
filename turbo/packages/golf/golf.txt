@@ -2831,7 +2831,7 @@ gentrices
 galenian
 gryph 1
 gayment
-gamodesmy
+gamodesmy 1
 glyoxaline
 gether
 genu
