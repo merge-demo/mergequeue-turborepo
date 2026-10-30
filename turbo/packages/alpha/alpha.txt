@@ -4943,7 +4943,7 @@ aerolitic
 aerological
 antepartum
 aeromancer
-anthonomus
+anthonomus 1
 anselmian
 aerometer
 aspen
