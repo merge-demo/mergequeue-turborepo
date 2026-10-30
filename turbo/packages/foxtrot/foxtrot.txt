@@ -9073,7 +9073,7 @@ flintlike 1
 furdle
 funambulated 1
 faulkner
-frizzers
+frizzers 1
 forepoint
 foldboating
 frusta

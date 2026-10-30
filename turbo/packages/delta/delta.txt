@@ -16055,7 +16055,7 @@ douceur 1
 dakir
 dextrins 1
 devout
-doucker
+doucker 1
 danny
 dipode
 dough
