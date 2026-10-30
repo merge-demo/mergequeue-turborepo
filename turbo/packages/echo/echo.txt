@@ -4720,7 +4720,7 @@ epiglottidean
 electrowin
 erythrodegenerative
 exalbuminose
-encist
+encist 1
 electrokinetics
 exponentially
 encysting 1
