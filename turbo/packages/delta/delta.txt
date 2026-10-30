@@ -10437,7 +10437,7 @@ drowsy
 duumvirs
 deglutitive
 distortion 1
-droits
+droits 1
 denaturate
 diphtherian
 dogberrydom
@@ -15434,7 +15434,7 @@ dionym
 damoisel
 dines
 dominick
-dominies
+dominies 1
 dominion
 dinkly
 diplobacillus
