@@ -10129,7 +10129,7 @@ forklifts 1
 fleshment
 fowells
 frithstool
-fritniency
+fritniency 1
 fare
 foreknee
 fe
