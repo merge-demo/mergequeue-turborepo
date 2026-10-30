@@ -13604,7 +13604,7 @@ annuloid
 autoaddress
 abura
 akaakai
-apostasis
+apostasis 1
 ambuscading
 annulosa
 antings
