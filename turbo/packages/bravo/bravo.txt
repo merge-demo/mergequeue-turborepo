@@ -4670,7 +4670,7 @@ bedecking
 beholdingness
 broadens
 bedehouse
-broadenings
+broadenings 1
 byrewards
 bullrushes 1
 bedehouses 1
