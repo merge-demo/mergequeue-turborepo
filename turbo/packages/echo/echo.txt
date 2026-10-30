@@ -1495,7 +1495,7 @@ equippers 1
 estivate 1
 elytrigerous
 ebbs
-eclegme
+eclegme 1
 escadrille
 effusively
 effuviate
