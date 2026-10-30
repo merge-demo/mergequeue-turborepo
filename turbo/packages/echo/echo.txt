@@ -7626,7 +7626,7 @@ electrophoridae 1
 encumber
 epicoracoid
 exocrine
-exhumations
+exhumations 1
 eccentricities
 eoliths
 enterohelcosis
