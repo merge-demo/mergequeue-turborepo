@@ -7327,7 +7327,7 @@ gnawers
 gougingly
 goldlike
 gratify
-gossiped
+gossiped 1
 glessite
 griffon
 glyoxime
