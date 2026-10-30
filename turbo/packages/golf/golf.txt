@@ -8368,7 +8368,7 @@ gawby 1
 grebe
 gizzards
 gulping
-grippes
+grippes 1
 genuflectory
 giantry
 gunplay

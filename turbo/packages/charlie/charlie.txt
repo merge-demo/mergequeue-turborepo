@@ -19344,7 +19344,7 @@ connectionism
 captainships
 cherubin
 consecrating
-colorant
+colorant 1
 colorants
 colorate
 coloration
@@ -27861,7 +27861,7 @@ croqueted
 crabbiest
 crabbily
 crabbing
-crabcatcher
+crabcatcher 1
 cytohyaloplasm
 concerting
 crabeating
