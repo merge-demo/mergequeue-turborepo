@@ -7868,7 +7868,7 @@ disard
 desmocyte
 dispenser
 dihydrogen
-dewberries
+dewberries 1
 dewcap
 disbudder
 div

@@ -3282,7 +3282,7 @@ factitious
 framed
 forayers
 fideicommissaries
-fungus
+fungus 1
 flirtling
 finesser
 foreward
