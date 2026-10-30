@@ -15902,7 +15902,7 @@ antiprojectivity 1
 antiprostate
 antiprostatic
 adiabat
-astrobiologically 1
+astrobiologically 2
 adulators
 alaskaite
 attentively
