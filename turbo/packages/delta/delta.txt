@@ -9753,7 +9753,7 @@ dilis 1
 dillenia
 datsw
 decaphyllous
-deckpipe
+deckpipe 1
 dysoxidize
 dogmatiser
 dermatocyst
