@@ -8244,7 +8244,7 @@ fractionalizing
 friction
 forging 1
 flow
-furacity
+furacity 1
 formous
 forgings
 figgy
