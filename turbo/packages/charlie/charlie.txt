@@ -6400,7 +6400,7 @@ cautious
 cautiously
 colubrids
 cannoneers
-cloister
+cloister 1
 cav
 corah 1
 curvinervate
