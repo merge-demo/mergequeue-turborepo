@@ -7606,7 +7606,7 @@ graft 1
 gyal
 glossoepiglottic
 gunkholing
-gleamiest
+gleamiest 1
 ghoster
 gears 1
 glancingly
