@@ -1343,7 +1343,7 @@ alabamians
 accelerates
 abencerrages
 alinotum
-accelerative
+accelerative 1
 aboiteaux
 adiaphanousness
 azote
