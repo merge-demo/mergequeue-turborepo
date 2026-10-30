@@ -14170,7 +14170,7 @@ disulfonic
 dispread
 disulfoxid
 dirgelike
-dhobi 1
+dhobi 2
 defective
 demandingness
 dona
