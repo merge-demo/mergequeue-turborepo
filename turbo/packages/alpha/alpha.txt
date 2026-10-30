@@ -587,7 +587,7 @@ alphameric
 abnegates
 anthropomancy
 aneuria
-amphictyon
+amphictyon 1
 amanitins
 aesthophysiology 1
 acriflavine
