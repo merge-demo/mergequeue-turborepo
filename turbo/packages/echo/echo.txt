@@ -6679,7 +6679,7 @@ enterprize
 egestion 2
 earlish 1
 epee
-expertising
+expertising 1
 entosclerite
 eulogiser 2
 extroverts
