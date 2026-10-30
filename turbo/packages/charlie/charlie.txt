@@ -23721,7 +23721,7 @@ contraindications
 cologarithm
 contralateral
 crappers
-camassia
+camassia 1
 conjunctural
 chessmen
 cothurned

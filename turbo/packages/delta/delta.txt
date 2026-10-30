@@ -11820,7 +11820,7 @@ decrement
 dustbin
 dhourras
 discure
-discriminates
+discriminates 1
 disponee
 disgorger 1
 dawing
