@@ -6738,7 +6738,7 @@ fantasy 1
 frosts
 frosteds
 fledgeless 2
-foredevised
+foredevised 1
 floridean
 foldaway
 feretory
