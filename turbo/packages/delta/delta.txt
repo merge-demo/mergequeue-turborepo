@@ -15551,7 +15551,7 @@ demodulator
 drummers
 donnas 1
 defeasible
-dereligionize
+dereligionize 1
 donnerd
 donnick
 donnock
