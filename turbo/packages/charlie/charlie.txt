@@ -14216,7 +14216,7 @@ cypripedin 2
 centralizes
 circumlocutionist
 centrisms
-cousiness
+cousiness 1
 circumlocutory 1
 circumlunar
 clodder
@@ -25419,7 +25419,7 @@ cornigerous
 conies
 cornin
 consignable
-corning
+corning 1
 cornishman
 cornless
 cornmeal
