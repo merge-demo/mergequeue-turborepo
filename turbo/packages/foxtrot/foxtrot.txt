@@ -6667,7 +6667,7 @@ felted
 fernery
 frescoists 2
 fighters
-feast
+feast 1
 fellowships
 fogon 1
 flunks
