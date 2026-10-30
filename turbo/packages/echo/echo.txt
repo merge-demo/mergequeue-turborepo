@@ -4422,7 +4422,7 @@ excentrical 1
 entertainments
 endenizen
 extispices
-enthymeme
+enthymeme 1
 espacement
 exoculate
 ejaculation 1
