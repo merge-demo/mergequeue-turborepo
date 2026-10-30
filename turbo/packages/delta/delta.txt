@@ -15444,7 +15444,7 @@ dominionist
 dominions
 delocalising 1
 drongo
-doorway
+doorway 1
 dominique
 despairingly
 dewanship
