@@ -430,7 +430,7 @@ gymmal
 gabion
 greatened
 greatcoated 1
-gegger
+gegger 1
 galbanums
 genophobia
 gimcrackiness 1
