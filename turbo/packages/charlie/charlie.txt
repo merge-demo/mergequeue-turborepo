@@ -27443,7 +27443,7 @@ combativity
 couters 1
 coequally
 coromandel
-cumulativeness
+cumulativeness 1
 coutet
 carotids
 committing
