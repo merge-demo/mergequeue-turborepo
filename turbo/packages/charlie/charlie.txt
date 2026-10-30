@@ -29414,7 +29414,7 @@ craaled
 chromatogram
 classicised
 curdy
-crispier
+crispier 1
 cryptophyte
 carcinolytic
 contemporizing
