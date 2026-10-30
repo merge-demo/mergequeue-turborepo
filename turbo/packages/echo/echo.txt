@@ -12859,7 +12859,7 @@ efecks
 exoticist
 eudipleural 1
 encircled
-eateries
+eateries 1
 endolabyrinthitis
 exoterically
 engrave
