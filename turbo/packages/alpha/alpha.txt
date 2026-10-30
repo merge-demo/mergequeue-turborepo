@@ -7159,7 +7159,7 @@ archaeus
 assistantships
 autoregulation
 antibiotics
-argovian
+argovian 1
 aweigh 1
 alabamide
 alabamine
@@ -24372,7 +24372,7 @@ ankylomele
 arksutite
 apothec
 autoscope 1
-autoscopic
+autoscopic 1
 apparentation
 antagonise
 autosight
