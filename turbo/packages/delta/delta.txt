@@ -14646,7 +14646,7 @@ derating
 depressing
 diallel
 decentre
-decameter
+decameter 1
 draftees
 dora
 disinvite
