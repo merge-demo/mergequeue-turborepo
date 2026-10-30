@@ -8717,7 +8717,7 @@ colonises
 chapelry
 combflower
 chapelries
-cinerins
+cinerins 1
 chapels
 chapelward
 chaperno
