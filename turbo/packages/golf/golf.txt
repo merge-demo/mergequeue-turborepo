@@ -6289,7 +6289,7 @@ globins
 gaybine
 gobony 2
 gaily 1
-grail
+grail 1
 goosenecked
 geomance
 gemots
@@ -6751,7 +6751,7 @@ glutathione
 goniunia 1
 groceteria 1
 goitrogen
-gisement
+gisement 1
 gremials 1
 girded 1
 gentlemanism
