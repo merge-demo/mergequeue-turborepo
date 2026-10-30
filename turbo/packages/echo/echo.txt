@@ -10194,7 +10194,7 @@ emancipation
 escrowed
 emmarbled
 electrotelegraphic
-externals
+externals 1
 escargotieres
 exuberating
 esperantic
