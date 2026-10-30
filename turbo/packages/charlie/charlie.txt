@@ -18810,7 +18810,7 @@ colichemarde
 colicines
 cenotaphy
 cultigen
-celiac
+celiac 1
 colicins
 commercializes
 corvisor
