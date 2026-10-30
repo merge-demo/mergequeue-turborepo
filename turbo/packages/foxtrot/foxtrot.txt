@@ -8728,7 +8728,7 @@ foreplace
 fraud
 fated
 frugality 1
-fashionative 1
+fashionative 2
 fumbler 1
 forhooie
 face

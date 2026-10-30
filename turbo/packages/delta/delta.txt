@@ -12804,7 +12804,7 @@ diffusedness 1
 dismay
 doudle
 disconfirm
-dismayable
+dismayable 1
 denticular
 dolesman
 dismayfully
@@ -16790,7 +16790,7 @@ draw
 digest
 disreputation
 dinergate
-disorganized
+disorganized 1
 drawback
 drawbar 1
 disposability 1

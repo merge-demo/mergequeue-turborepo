@@ -7469,7 +7469,7 @@ gamesmanship
 gymnotidae
 gordon
 greenleaf 1
-galangals
+galangals 1
 globulousness
 gaet
 galilean
