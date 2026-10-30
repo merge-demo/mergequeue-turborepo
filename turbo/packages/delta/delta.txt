@@ -15691,7 +15691,7 @@ dopping
 doppio 1
 dactyloscopy
 dissipators
-daiquiris
+daiquiris 1
 divaporation
 discriminatorily
 dorad
