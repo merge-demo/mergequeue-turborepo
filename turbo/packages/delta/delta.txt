@@ -7921,7 +7921,7 @@ demur
 doublets
 delawarean
 dex
-democritean
+democritean 1
 downside
 disobligingness
 dresden
