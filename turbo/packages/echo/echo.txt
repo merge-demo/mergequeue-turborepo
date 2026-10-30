@@ -2291,7 +2291,7 @@ essene 1
 entheal
 endosteum
 eval
-escalatory
+escalatory 1
 epidemiologist
 exterminations
 eobionts
