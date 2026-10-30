@@ -12804,7 +12804,7 @@ diffusedness 1
 dismay
 doudle
 disconfirm
-dismayable
+dismayable 1
 denticular
 dolesman
 dismayfully
