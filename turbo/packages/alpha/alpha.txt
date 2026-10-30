@@ -13049,7 +13049,7 @@ abbreviating
 aeroballistics
 arrowy
 agglomeratic
-anhedral
+anhedral 1
 anhelation
 anhelose
 amici
