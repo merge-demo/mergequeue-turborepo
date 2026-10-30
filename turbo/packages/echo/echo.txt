@@ -331,7 +331,7 @@ enturret
 extramolecular
 empresse
 embleming
-epirogenic
+epirogenic 1
 eagerer
 expatiater
 exoduses
@@ -11528,7 +11528,7 @@ engendered
 enkerchief
 esterlin
 encia
-executry
+executry 1
 euphoric
 ess
 extypal
