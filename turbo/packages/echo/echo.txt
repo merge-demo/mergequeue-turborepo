@@ -905,7 +905,7 @@ exampled
 exegesist
 epilogistic
 enteritidis
-echinoids
+echinoids 1
 extropical
 encapsulating 1
 electrifiers
