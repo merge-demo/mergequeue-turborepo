@@ -7347,7 +7347,7 @@ equinoctial
 eparterial
 emasculations
 experiencible
-epaulement
+epaulement 1
 enstranged
 elsin 1
 epeeist
@@ -10612,7 +10612,7 @@ extravasated
 ecdyson
 experience
 emblematically
-epimysium
+epimysium 1
 exodium
 elaterid 1
 eudaimonia

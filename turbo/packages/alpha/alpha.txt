@@ -24745,7 +24745,7 @@ axonost 1
 auscult
 aviations
 aviatoriality
-aviatress
+aviatress 1
 azotises
 aviatrice 1
 amadan
