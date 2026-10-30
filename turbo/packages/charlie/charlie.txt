@@ -5598,7 +5598,7 @@ choiceless
 carnality
 catalogist
 catalogistic
-conquinamine
+conquinamine 1
 catalogize
 coleplant
 constabulary
