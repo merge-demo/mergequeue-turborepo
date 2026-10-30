@@ -13378,7 +13378,7 @@ bunder
 bothnian
 bajulate
 bothnic
-batteled
+batteled 1
 bawn
 bulletproofs
 bimillenniums
