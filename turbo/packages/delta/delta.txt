@@ -4373,7 +4373,7 @@ dictionally
 disangelical
 dilapidated
 dementing
-decayers
+decayers 1
 demeore
 decap
 dependant
