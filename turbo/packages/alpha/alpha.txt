@@ -11653,7 +11653,7 @@ asphalting
 anacid
 ambulacriform
 amal
-apersee
+apersee 1
 acronyc
 amarevole
 atomise
