@@ -930,7 +930,7 @@ filleted 1
 foaling
 flamed
 fluoroborate
-faradisation
+faradisation 1
 freeings
 fluosilicic
 fimbrilliferous
