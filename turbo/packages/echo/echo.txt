@@ -10974,7 +10974,7 @@ electrokinematics
 excavates
 epibaterium 1
 eurybenthic
-endeared
+endeared 1
 etacist
 endears 1
 eusynchite
