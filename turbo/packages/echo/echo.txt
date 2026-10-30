@@ -13738,7 +13738,7 @@ ensnares
 esteemed
 educating 1
 elfhood
-euphemised
+euphemised 1
 emblazoning
 extersive
 exerting
