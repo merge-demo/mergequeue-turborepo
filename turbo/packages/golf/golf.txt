@@ -9247,7 +9247,7 @@ groenendael
 gecko
 gallstone
 graduale 1
-gooney
+gooney 1
 groenlandicus
 goyana
 gurge 1
