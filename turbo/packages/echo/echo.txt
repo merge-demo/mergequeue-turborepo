@@ -453,7 +453,7 @@ enumerable
 enlacing
 ensnarls
 ecclesiast
-entrada
+entrada 1
 empasm
 extended
 endoconidium
