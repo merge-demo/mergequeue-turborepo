@@ -13531,7 +13531,7 @@ earcap 1
 evensongs
 epitimesis
 epicranial
-error
+error 1
 embowels
 eccles
 eumolpides 1
