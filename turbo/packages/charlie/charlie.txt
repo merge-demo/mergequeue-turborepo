@@ -27738,7 +27738,7 @@ corkscrews
 connecters
 cowshed 1
 cowsheds
-cowshot
+cowshot 1
 capitellar
 camorristi
 chough
