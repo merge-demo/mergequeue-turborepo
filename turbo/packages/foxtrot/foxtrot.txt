@@ -1636,7 +1636,7 @@ flutterable
 flightless
 favoredly
 fawned
-fretize
+fretize 1
 fleaseed
 fetchingly
 fluoridation
