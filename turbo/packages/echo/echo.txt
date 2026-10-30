@@ -11759,7 +11759,7 @@ egyptianization
 exorcista
 exaration
 extracorpuscular
-euripidean
+euripidean 1
 ekphore
 eversive
 egyptianize
