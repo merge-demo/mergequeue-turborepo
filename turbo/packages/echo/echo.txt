@@ -13520,7 +13520,7 @@ elinor
 equipollence
 establishing
 examine 1
-erotology
+erotology 1
 exteriorization
 endostoma
 erected
