@@ -552,7 +552,7 @@ acetolysis
 ataraxies
 amidophosphoric
 akenobeite
-amyotrophia
+amyotrophia 1
 actualize
 anba
 ascolichenes
