@@ -24821,7 +24821,7 @@ chloragogen
 coquette
 cleome
 coquettishly
-curlycue
+curlycue 1
 coquicken
 cartload
 contumax
