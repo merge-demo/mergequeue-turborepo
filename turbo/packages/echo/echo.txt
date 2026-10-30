@@ -338,7 +338,7 @@ exoduses
 exigible 1
 eaten
 eighty
-enchantment
+enchantment 1
 empeirema
 epacridaceous
 espying
