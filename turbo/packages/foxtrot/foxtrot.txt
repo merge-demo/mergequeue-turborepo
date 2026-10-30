@@ -1636,7 +1636,7 @@ flutterable
 flightless
 favoredly
 fawned
-fretize
+fretize 1
 fleaseed
 fetchingly
 fluoridation
@@ -8150,7 +8150,7 @@ ferula
 fantastry
 feverberries
 frouze
-formicinae
+formicinae 1
 faddle
 fraught
 flourishable 1
