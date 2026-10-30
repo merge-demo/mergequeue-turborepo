@@ -4432,7 +4432,7 @@ awonder
 abductores
 ap
 adumbrations
-asthenias
+asthenias 1
 agrypnode 1
 angild
 agallochum
