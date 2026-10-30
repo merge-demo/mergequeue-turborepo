@@ -8303,7 +8303,7 @@ geomagnetics
 gentes 2
 greeneries
 gladness
-gelation
+gelation 1
 grailing
 gudes 1
 grandparental
