@@ -729,7 +729,7 @@ abradable
 arteriopressor
 atrede
 abradants 1
-aver
+aver 1
 anglicized 1
 aptote
 allantoic
@@ -22461,7 +22461,7 @@ aragallus
 agami
 algarobas
 acrisia
-anteal
+anteal 1
 aromatical
 autolysate
 assumptionist
