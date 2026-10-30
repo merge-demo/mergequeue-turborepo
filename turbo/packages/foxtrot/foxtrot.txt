@@ -4704,7 +4704,7 @@ forkfuls
 fougue
 feathermonger 1
 fratchety
-fijian
+fijian 1
 fulgor 1
 ferrugineous
 flabella
