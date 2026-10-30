@@ -9825,7 +9825,7 @@ amamau
 ancyloceras
 asphaltic
 antimale
-amande
+amande 1
 acounter
 actinoid
 amanist
