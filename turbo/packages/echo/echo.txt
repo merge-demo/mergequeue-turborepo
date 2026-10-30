@@ -6549,7 +6549,7 @@ eulogious
 estrangedness
 episcopant
 excusive
-eccritic
+eccritic 1
 embattled
 epimedium
 enorthotrope
