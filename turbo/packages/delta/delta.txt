@@ -2833,7 +2833,7 @@ daphnin
 dolomitised
 diskos
 discretively
-disposure
+disposure 1
 dangle
 diaskeuasis
 disjointedness
@@ -11076,7 +11076,7 @@ disarms
 dishonouring
 decentralist
 defector
-disarray
+disarray 1
 dictatorial
 downflow
 disarrays 1

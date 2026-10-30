@@ -8161,7 +8161,7 @@ foghorn
 forewings
 fichus
 frenate 1
-furtherances
+furtherances 1
 faldetta
 fribblery 2
 florilegia
@@ -10129,7 +10129,7 @@ forklifts 1
 fleshment
 fowells
 frithstool
-fritniency
+fritniency 1
 fare
 foreknee
 fe
