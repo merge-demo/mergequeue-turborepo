@@ -15135,7 +15135,7 @@ berlina
 bushbuck
 breviconic 1
 bunkered
-brevilingual
+brevilingual 1
 bestirring
 besmearer
 bloodies 1
