@@ -19344,7 +19344,7 @@ connectionism
 captainships
 cherubin
 consecrating
-colorant
+colorant 1
 colorants
 colorate
 coloration
