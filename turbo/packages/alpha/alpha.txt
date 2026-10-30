@@ -9670,7 +9670,7 @@ aluminize
 aviary
 archer
 asserted
-aluminizes
+aluminizes 1
 anticardium 1
 archantiquary
 adobe
