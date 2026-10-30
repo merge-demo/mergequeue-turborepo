@@ -8337,7 +8337,7 @@ aligning
 aketon
 antarctical
 aliyah
-alikeness
+alikeness 1
 alikewise 1
 abr
 anticodon
