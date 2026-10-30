@@ -8150,7 +8150,7 @@ ferula
 fantastry
 feverberries
 frouze
-formicinae
+formicinae 1
 faddle
 fraught
 flourishable 1
