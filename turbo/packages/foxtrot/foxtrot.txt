@@ -1933,7 +1933,7 @@ friable
 fangot
 froze
 forebearing
-floccule
+floccule 1
 fonly
 flanchard 1
 forworn
