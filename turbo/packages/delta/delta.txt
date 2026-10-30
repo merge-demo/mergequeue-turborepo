@@ -2199,7 +2199,7 @@ dendrophile
 dissipativity
 decasualise
 disgavel
-decasualized
+decasualized 1
 dialectological
 didymous
 doormaker 2
