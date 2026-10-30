@@ -9293,7 +9293,7 @@ gallipot 1
 gromia
 grinder
 goldy
-geomagnetically
+geomagnetically 1
 gront
 gorbellies 1
 gamodeme
