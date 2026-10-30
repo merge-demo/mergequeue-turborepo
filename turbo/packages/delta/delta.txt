@@ -10437,7 +10437,7 @@ drowsy
 duumvirs
 deglutitive
 distortion 1
-droits
+droits 1
 denaturate
 diphtherian
 dogberrydom
