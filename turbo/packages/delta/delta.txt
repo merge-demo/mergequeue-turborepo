@@ -967,7 +967,7 @@ dizzyingly
 dextrosazone
 dyslogy 1
 dipsey
-dray
+dray 1
 doughmen
 dare
 dottle
