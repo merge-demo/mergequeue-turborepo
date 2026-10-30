@@ -10389,7 +10389,7 @@ bamboozlers
 bordman
 boil
 boozers
-blame
+blame 1
 blamefully
 bicyclical 1
 betise
