@@ -21094,7 +21094,7 @@ acalypha
 antipatriotically
 auricularia
 attachedly
-amblygon
+amblygon 1
 ascogone
 abstinency
 antipleuritic
