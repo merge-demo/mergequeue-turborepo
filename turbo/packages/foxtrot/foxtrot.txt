@@ -7735,7 +7735,7 @@ fanbearer
 ferroprussic
 fractionize
 flyflower
-feasor
+feasor 1
 flawed 1
 fabliau
 fondouk 1
