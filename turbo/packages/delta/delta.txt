@@ -11831,7 +11831,7 @@ dearsenicate
 dihalo
 dislikable
 dopas
-donatively 1
+donatively 2
 dbl
 disk
 dissociableness
@@ -13067,7 +13067,7 @@ diathermance
 duckish
 disintegrator
 disesteeming
-dispatches
+dispatches 1
 drillings
 dimethylsulfoxide
 discocarpium
