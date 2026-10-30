@@ -11076,7 +11076,7 @@ disarms
 dishonouring
 decentralist
 defector
-disarray
+disarray 1
 dictatorial
 downflow
 disarrays 1
