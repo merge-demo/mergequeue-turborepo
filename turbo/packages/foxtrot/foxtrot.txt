@@ -10568,7 +10568,7 @@ featherier 1
 fieldpiece 1
 frowziest 1
 frowzled
-firebases
+firebases 1
 fresh 1
 falding
 filth
