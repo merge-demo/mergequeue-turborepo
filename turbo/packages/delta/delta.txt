@@ -9959,7 +9959,7 @@ decisiveness
 dermatographism 1
 dysacousma
 disopinion
-dimoric
+dimoric 1
 demigoddess
 dotardism
 disconnectiveness 1
