@@ -9082,7 +9082,7 @@ equivocations
 epithelioid 1
 educe
 erythrolein 1
-enteromorpha
+enteromorpha 1
 ennobled 1
 eschalots
 eyrer
