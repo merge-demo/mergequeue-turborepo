@@ -17474,7 +17474,7 @@ disestimation
 dhundia 1
 discarder
 decuplet
-dimwitted
+dimwitted 1
 drowsihead 1
 drowte
 dreads

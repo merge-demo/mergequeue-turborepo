@@ -7039,7 +7039,7 @@ felix
 formfeeds
 footful
 foolhardiness 1
-fabulousness
+fabulousness 1
 foolhardiship
 foredeck
 flapperdom
