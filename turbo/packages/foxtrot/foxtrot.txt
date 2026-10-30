@@ -93,7 +93,7 @@ fibrinous
 frilling
 friendly 1
 futharc
-finbacks 1
+finbacks 2
 finnickier
 functioned
 fleshliest
@@ -4628,7 +4628,7 @@ fossane
 fitzroya
 federatively
 faussebraye
-fourthly
+fourthly 1
 fatale
 flange
 folkmooter 1
