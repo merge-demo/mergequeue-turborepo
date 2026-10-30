@@ -5200,7 +5200,7 @@ frontierlike
 frivolers 1
 foreclaw
 formalin
-fuchsia
+fuchsia 1
 familarity
 frumpery 1
 funest
