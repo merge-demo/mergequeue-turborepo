@@ -7868,7 +7868,7 @@ disard
 desmocyte
 dispenser
 dihydrogen
-dewberries
+dewberries 1
 dewcap
 disbudder
 div
@@ -13067,7 +13067,7 @@ diathermance
 duckish
 disintegrator
 disesteeming
-dispatches
+dispatches 1
 drillings
 dimethylsulfoxide
 discocarpium
