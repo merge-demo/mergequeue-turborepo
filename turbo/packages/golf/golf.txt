@@ -10731,7 +10731,7 @@ graille 1
 grittie
 gavage
 galloot 1
-garnish
+garnish 1
 gournard
 gagers 1
 gustiest
