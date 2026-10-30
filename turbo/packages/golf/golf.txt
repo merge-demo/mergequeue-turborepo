@@ -4913,7 +4913,7 @@ gyneocracy
 geographics
 goldhead
 genealogists
-goofballs
+goofballs 1
 growled
 glandered
 global
