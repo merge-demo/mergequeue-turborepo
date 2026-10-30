@@ -1309,7 +1309,7 @@ calaverite
 caliber
 compulsatory
 calibers
-colunar
+colunar 1
 conelet
 calibrated
 calibrater
