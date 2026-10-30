@@ -2833,7 +2833,7 @@ daphnin
 dolomitised
 diskos
 discretively
-disposure
+disposure 1
 dangle
 diaskeuasis
 disjointedness
@@ -3142,7 +3142,7 @@ deipnodiplomatic
 declaratives
 defectlessness
 delegatory
-dislevelment 1
+dislevelment 2
 descendible
 despiteous
 dulcineas
@@ -11076,7 +11076,7 @@ disarms
 dishonouring
 decentralist
 defector
-disarray
+disarray 1
 dictatorial
 downflow
 disarrays 1
@@ -11448,7 +11448,7 @@ dekaliter
 dishier
 diplodia
 dicarboxylic
-deployments
+deployments 1
 disaccharid
 discoideae
 despatchers
