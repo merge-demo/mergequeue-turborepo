@@ -17619,7 +17619,7 @@ barricadoing
 bobcoat
 burglarproofs 1
 burglars
-basote
+basote 1
 breath
 blay
 blaeberry
