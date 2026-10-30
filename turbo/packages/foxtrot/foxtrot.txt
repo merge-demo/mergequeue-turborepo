@@ -5895,7 +5895,7 @@ folliculosis 1
 frostbites 1
 flogs
 fermis
-foeticidal
+foeticidal 1
 fluviovolcanic 2
 flybane 1
 foveola 1
