@@ -11824,7 +11824,7 @@ excalceate
 emasculatory 1
 excalceation
 excalibur
-esophagectasia
+esophagectasia 1
 elutriate
 erythrophore
 excandescent
