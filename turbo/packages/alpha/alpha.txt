@@ -14980,7 +14980,7 @@ anticonventional
 anticor
 anticorona
 anticorrosiveness
-animose
+animose 1
 anisidino 1
 alsatia
 autotherapy
