@@ -8140,7 +8140,7 @@ erudit
 elliptical
 echeveria
 episcopate
-expulsions 1
+expulsions 2
 entosphere
 elaidinic
 episcopature
