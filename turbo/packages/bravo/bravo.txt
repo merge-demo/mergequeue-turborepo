@@ -8106,7 +8106,7 @@ bluntness
 betainogen
 bicornate
 bowery
-brutal
+brutal 1
 bicorned
 booby
 bicornous
