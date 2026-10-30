@@ -4670,7 +4670,7 @@ gowland
 gitanos
 gite
 gonarthritis 1
-gnawn
+gnawn 1
 gitim
 gormandising
 groveled
