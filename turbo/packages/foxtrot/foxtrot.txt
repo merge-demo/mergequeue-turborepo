@@ -7622,7 +7622,7 @@ feudatory
 flippancies
 fables
 factualism
-foreworn
+foreworn 1
 forestalls 1
 foreguess
 flammant
