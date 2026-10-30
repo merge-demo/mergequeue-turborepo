@@ -2661,7 +2661,7 @@ grimnesses
 gwag 1
 genevan
 grabbing
-globulariaceous 2
+globulariaceous 3
 giboia
 gadgets 1
 gribbles 1
@@ -9080,7 +9080,7 @@ glycuronide
 gummers 1
 grinders
 gobonated
-ginward
+ginward 1
 geopolitics
 grummel
 gambier
