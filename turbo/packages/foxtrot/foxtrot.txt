@@ -4714,7 +4714,7 @@ frises
 fernseed
 facy
 factice
-frederic
+frederic 1
 fumers
 flacianist
 fife
