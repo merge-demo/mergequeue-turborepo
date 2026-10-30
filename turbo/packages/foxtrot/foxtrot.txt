@@ -8161,7 +8161,7 @@ foghorn
 forewings
 fichus
 frenate 1
-furtherances
+furtherances 1
 faldetta
 fribblery 2
 florilegia
@@ -9171,7 +9171,7 @@ feldspathose
 flosh
 fastigious
 fusing 2
-fragments
+fragments 1
 foresighted
 fishbed
 foraneous 1
