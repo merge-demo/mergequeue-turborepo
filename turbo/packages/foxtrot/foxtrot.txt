@@ -4709,7 +4709,7 @@ fulgor 1
 ferrugineous
 flabella
 folksey
-flyweight
+flyweight 1
 frises
 fernseed
 facy
