@@ -338,7 +338,7 @@ exoduses
 exigible 1
 eaten
 eighty
-enchantment
+enchantment 1
 empeirema
 epacridaceous
 espying
@@ -7613,7 +7613,7 @@ elne
 exactest
 extratelluric
 epicondylic
-epoptist
+epoptist 1
 equichangeable
 enviousness
 encephalous
