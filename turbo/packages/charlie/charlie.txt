@@ -8774,7 +8774,7 @@ competes
 catchplate
 causeless 1
 chaprasi
-chapstick
+chapstick 1
 concurbit
 cloudless
 conceptualisation
