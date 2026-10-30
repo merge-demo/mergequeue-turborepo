@@ -14469,7 +14469,7 @@ anthribidae
 antipharisaic 2
 antimonate
 arunta
-adjudged
+adjudged 1
 alima
 armigero
 auramin
