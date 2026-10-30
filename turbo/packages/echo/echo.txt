@@ -3698,7 +3698,7 @@ endocoeliac
 embosking
 embryologist
 elocutionist
-entify
+entify 1
 embryonic
 encyrtidae 1
 erythromycin
