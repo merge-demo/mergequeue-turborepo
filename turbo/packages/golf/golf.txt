@@ -682,7 +682,7 @@ gript
 gluttonousness
 giterne
 grapelet
-gelosine
+gelosine 1
 guardfish
 gynecomaniac
 geopolitician
