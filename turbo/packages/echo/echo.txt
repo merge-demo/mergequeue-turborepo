@@ -6690,7 +6690,7 @@ epitaphic
 endamebiasis 1
 entertainingly
 electrophysics
-endarteritis
+endarteritis 1
 entertainment 1
 endosepsis
 epicenters
