@@ -7074,7 +7074,7 @@ epapophysial
 evejar 1
 estivage
 estuous
-edicule
+edicule 1
 equiprobability
 electrophoric
 earnest
