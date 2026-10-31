@@ -10927,7 +10927,7 @@ disforestation
 doublethinking
 dorsoradial
 digressions
-disadvance 1
+disadvance 2
 disadvancing
 disbursals
 ditetragonal
