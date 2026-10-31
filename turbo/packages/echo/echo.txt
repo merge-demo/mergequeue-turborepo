@@ -10621,7 +10621,7 @@ epirhizous
 eric 1
 eudemonic
 epappose
-evilproof
+evilproof 1
 eisodic
 enmoss
 excavate
