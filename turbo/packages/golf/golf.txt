@@ -9430,7 +9430,7 @@ gibbet
 grocerly
 garad
 grapple
-glial
+glial 1
 glorified
 gauntness
 grassiest
