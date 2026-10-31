@@ -13050,7 +13050,7 @@ euhemerised
 epiperipheral 1
 expediter
 enunciates
-eulogistically
+eulogistically 1
 expeditiously
 erythrocarpous 1
 ecstasies
