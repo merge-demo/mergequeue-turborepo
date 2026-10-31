@@ -9116,7 +9116,7 @@ bunching
 bearbaiting
 basking
 bipectinated 1
-biopotential
+biopotential 1
 biopsy
 ballium 1
 biopsic

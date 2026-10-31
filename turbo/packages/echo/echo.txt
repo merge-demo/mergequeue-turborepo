@@ -4078,7 +4078,7 @@ eutherian
 ecthymata 1
 euthymy 1
 esthetophore
-equitant
+equitant 1
 enjambement
 erotophobia
 exteriorize
