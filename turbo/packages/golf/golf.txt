@@ -754,7 +754,7 @@ gasted
 galvanology
 geomechanics
 gombeen
-gueridon 1
+gueridon 2
 goumi
 genae 1
 galvanoplasty
