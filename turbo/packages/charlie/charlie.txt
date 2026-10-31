@@ -8714,7 +8714,7 @@ chapelling
 commonplaces
 chapelmaster
 colonises
-chapelry
+chapelry 1
 combflower
 chapelries
 cinerins 1
@@ -16688,7 +16688,7 @@ catharpin
 crimpling
 clots
 clottage
-chaconne
+chaconne 1
 clotted
 cyanus
 carts
