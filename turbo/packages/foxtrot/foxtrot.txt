@@ -2749,7 +2749,7 @@ familistere 1
 fuddlebrained
 forgivingness
 festinated
-festinating
+festinating 1
 festination
 forgettery
 furriest
