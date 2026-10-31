@@ -5974,7 +5974,7 @@ gusting
 glossoplasty
 greenshank
 guanabana 1
-gnarly
+gnarly 1
 gourdes
 gnarliest
 gnarliness 1
