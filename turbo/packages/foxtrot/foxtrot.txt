@@ -10825,7 +10825,7 @@ facet
 foveation
 foredestined
 fleeten 1
-fucinita 1
+fucinita 2
 featliness
 forclose
 ferntickled
