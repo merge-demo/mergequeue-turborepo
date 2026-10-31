@@ -969,7 +969,7 @@ centrifugalized 1
 calamarmar
 canccelli
 cilioflagellate 1
-calamars
+calamars 1
 combustious
 calambac
 coastmen 1
