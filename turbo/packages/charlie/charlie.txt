@@ -16688,7 +16688,7 @@ catharpin
 crimpling
 clots
 clottage
-chaconne
+chaconne 1
 clotted
 cyanus
 carts
@@ -22759,7 +22759,7 @@ coemptio
 consecrative
 columnarized
 cloison 1
-caligraphy
+caligraphy 1
 conscience 1
 canalete
 canoeiro
