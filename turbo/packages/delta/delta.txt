@@ -764,7 +764,7 @@ desmognathous
 diselectrification
 didnt
 diselenide
-demagnetisable
+demagnetisable 1
 delimitized
 doug
 dominicale
