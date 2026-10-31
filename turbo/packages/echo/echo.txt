@@ -12080,7 +12080,7 @@ enantiomorphism 1
 expressor
 easels
 emblazonry
-ekphoria
+ekphoria 1
 expostulation
 erepsin
 escuage
