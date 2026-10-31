@@ -4899,7 +4899,7 @@ encumbrous
 evolves
 eyednesses
 errancy
-enterocoelic
+enterocoelic 1
 exsanguination 1
 electrodialysis 1
 endable
