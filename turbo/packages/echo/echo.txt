@@ -2692,7 +2692,7 @@ entrep
 escrol 1
 evenfalls
 expectorating
-erosions
+erosions 1
 excitors
 enmesh
 enduros
