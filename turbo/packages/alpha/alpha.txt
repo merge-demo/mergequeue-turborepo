@@ -2406,7 +2406,7 @@ acaricidal
 acinic
 aciniform
 anatomicophysiological
-acinus
+acinus 1
 actinozoon
 aedes
 academicianship
