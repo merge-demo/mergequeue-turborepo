@@ -5145,7 +5145,7 @@ costumery 1
 caserns
 cases
 caseum
-cordis
+cordis 1
 caseworks
 caseworm
 casha
