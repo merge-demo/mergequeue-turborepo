@@ -4445,7 +4445,7 @@ gowk
 glossokinesthetic
 graeculus
 gummed
-gypsywise
+gypsywise 1
 guzzling
 grufted
 gyromele 1
