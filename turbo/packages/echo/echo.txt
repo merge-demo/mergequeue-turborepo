@@ -6447,7 +6447,7 @@ exercisable
 ensorcellment
 encumberment 1
 endometriosis 1
-embolismus
+embolismus 1
 eurypteroidea
 ensoul
 ensouled
