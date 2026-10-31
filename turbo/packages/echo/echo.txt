@@ -7093,7 +7093,7 @@ extortion
 effusely
 extemporaneously
 endpaper
-envelops
+envelops 1
 euphorbiaceous
 enduing 1
 encarnalise
