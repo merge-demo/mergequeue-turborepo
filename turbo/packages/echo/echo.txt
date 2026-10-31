@@ -5577,7 +5577,7 @@ epistasy
 ethologist
 enflaming
 epiklesis
-embryulcus
+embryulcus 1
 enflower 1
 essexite
 embrocating
