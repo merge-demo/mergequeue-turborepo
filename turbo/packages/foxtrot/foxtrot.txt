@@ -10634,7 +10634,7 @@ forerunner
 farceurs
 flative
 forseen 1
-fractile
+fractile 1
 ferity
 franc
 frontalis
