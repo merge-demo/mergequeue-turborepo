@@ -2256,7 +2256,7 @@ epitomist
 electret
 electrets
 extensometer
-embryony
+embryony 1
 embraceable
 encoach 1
 extremely
