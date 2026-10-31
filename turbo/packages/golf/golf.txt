@@ -4237,7 +4237,7 @@ graveclothes 1
 goatlike
 gigantesque
 grousing
-gumlike
+gumlike 1
 gabfests
 granulate
 glyptotherium
