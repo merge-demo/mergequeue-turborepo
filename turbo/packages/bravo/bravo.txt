@@ -12571,7 +12571,7 @@ bonitary
 bistroic 1
 bonitarian
 bonity
-balsam 1
+balsam 2
 boroughlet
 bragi
 barndoor
