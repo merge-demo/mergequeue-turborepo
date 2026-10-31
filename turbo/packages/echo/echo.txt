@@ -9344,7 +9344,7 @@ eruptive 1
 extortioner
 essoinee
 endear
-earable
+earable 1
 eruptivity
 echinuliform
 esbatement
