@@ -12679,7 +12679,7 @@ disleaved
 decolorized
 disjointure
 dentalize 1
-demiheavenly
+demiheavenly 1
 dogger 1
 desexualize
 diviners
