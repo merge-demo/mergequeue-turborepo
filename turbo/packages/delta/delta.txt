@@ -6986,7 +6986,7 @@ depose
 demographer
 decede
 dissentiate 1
-destress
+destress 1
 dorje
 degrees
 disjointed
