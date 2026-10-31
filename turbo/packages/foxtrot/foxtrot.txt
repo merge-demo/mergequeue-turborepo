@@ -9982,7 +9982,7 @@ fumigate
 frisson
 feloniousness 1
 foun
-futureless
+futureless 1
 fibroid
 feracity 1
 firelike
