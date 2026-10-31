@@ -14600,7 +14600,7 @@ chillum
 cystonectae
 cystoneuralgia
 csi
-cornicle
+cornicle 1
 cholochrome
 campodeiform
 cystophora
