@@ -11844,7 +11844,7 @@ antimalarial
 antidysuric
 africanthropus
 aglimmer
-aparavidya
+aparavidya 1
 anguille
 analysers
 arcticologist
