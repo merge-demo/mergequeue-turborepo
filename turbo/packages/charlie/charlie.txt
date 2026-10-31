@@ -19491,7 +19491,7 @@ convenientness
 counterclockwise 1
 colpoplasty
 chromogenetic
-colpoptosis
+colpoptosis 1
 colporrhagia
 colporrhaphy
 colportage

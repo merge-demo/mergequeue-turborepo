@@ -843,7 +843,7 @@ dolerites
 danielle
 dalbergia
 demonetizes
-delignate
+delignate 1
 disheartenment
 dreamtime
 dartmoor
