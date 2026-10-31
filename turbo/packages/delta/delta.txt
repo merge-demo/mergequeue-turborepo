@@ -12772,7 +12772,7 @@ determents
 dotardly
 drawfiling
 donative
-disloyalist
+disloyalist 1
 disloyally
 decrepity
 downcomer 1
