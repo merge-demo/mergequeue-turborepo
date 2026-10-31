@@ -3197,7 +3197,7 @@ assumptive
 approvement
 antiaggressively
 arty
-anamnia
+anamnia 1
 admonished 1
 acropathy
 annamese
