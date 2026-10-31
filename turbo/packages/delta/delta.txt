@@ -2360,7 +2360,7 @@ dwyka
 deciders
 diphenylguanidine
 dubitante
-disownment
+disownment 1
 diplontic
 dismantlement 1
 dayakker
