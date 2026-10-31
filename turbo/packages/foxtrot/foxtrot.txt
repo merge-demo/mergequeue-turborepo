@@ -9852,7 +9852,7 @@ firebricks
 fadlike 1
 fricando
 fakement
-frouncing 1
+frouncing 2
 feminize
 fattily
 funge
