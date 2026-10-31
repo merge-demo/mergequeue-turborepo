@@ -4514,7 +4514,7 @@ gressible 1
 girdles
 grids 1
 girella
-gracefully
+gracefully 1
 girellidae 1
 gurts
 gluelike
