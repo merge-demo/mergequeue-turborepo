@@ -18117,7 +18117,7 @@ attesters
 apus
 akinesis 1
 ambulia
-antechoir 1
+antechoir 2
 analogising
 aquacade
 amotion
