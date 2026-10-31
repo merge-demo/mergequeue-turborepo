@@ -3110,7 +3110,7 @@ guffaws
 gurglet
 grees
 grips
-goan
+goan 1
 golandaas
 gooseherd 1
 germinative
