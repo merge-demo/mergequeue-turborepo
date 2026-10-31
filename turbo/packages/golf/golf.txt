@@ -8993,7 +8993,7 @@ groomer
 golem
 gramashes
 glistered
-granatum
+granatum 1
 geomorphogenist
 gnathonic
 gorhens
@@ -9046,7 +9046,7 @@ graveyards 1
 glaucomys 1
 genteel
 greund
-girdling
+girdling 1
 glires 1
 gilberts
 gladiatorism
