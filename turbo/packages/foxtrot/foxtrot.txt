@@ -2569,7 +2569,7 @@ forechase
 fogramity
 flongs
 ferrocyanate 1
-ferroelectric
+ferroelectric 1
 fingerbreadth
 form 2
 fattier

@@ -8885,7 +8885,7 @@ ergatocrat
 etched
 epiblast
 embreastment
-ergatogyne
+ergatogyne 1
 ergatomorphic 1
 extrameridian
 educationally
