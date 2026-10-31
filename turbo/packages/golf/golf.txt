@@ -5542,7 +5542,7 @@ gurges
 garuda
 gadinic 1
 gametal 1
-ginks
+ginks 1
 groovers
 gipsyry
 gravestone
