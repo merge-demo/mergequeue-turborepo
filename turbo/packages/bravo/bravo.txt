@@ -6109,7 +6109,7 @@ botanizing
 benami 1
 bunton
 boyishly
-bumfeg
+bumfeg 1
 bituminization 1
 bequeathable
 becowarded
