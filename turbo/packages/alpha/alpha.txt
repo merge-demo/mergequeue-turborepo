@@ -9072,7 +9072,7 @@ allotropies
 ashamedly
 adrostral
 anurans
-allotted
+allotted 1
 antiballistic
 ague
 anticheater
