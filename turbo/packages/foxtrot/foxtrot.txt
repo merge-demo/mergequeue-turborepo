@@ -4293,7 +4293,7 @@ fumaryl 1
 fennig
 forficulate
 freshest
-fease 1
+fease 2
 florescence
 fluyt
 factive 1
@@ -8243,7 +8243,7 @@ faverole
 fractionalizing
 friction
 forging 1
-flow
+flow 1
 furacity 1
 formous
 forgings
