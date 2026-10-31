@@ -2580,7 +2580,7 @@ ancestrial
 arctomys
 acouometer
 azocoralline
-antihelminthic
+antihelminthic 1
 asphyxiating 1
 acoup 1
 acousticon
