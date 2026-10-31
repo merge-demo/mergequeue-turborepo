@@ -1028,7 +1028,7 @@ darkly
 despumated
 dizain 1
 darkliest
-draffsack
+draffsack 1
 distains 1
 drabbed
 daggly
@@ -2360,7 +2360,7 @@ dwyka
 deciders
 diphenylguanidine
 dubitante
-disownment
+disownment 1
 diplontic
 dismantlement 1
 dayakker
