@@ -2053,7 +2053,7 @@ dummy
 defaced 1
 disproportionally 1
 decal
-dissightly
+dissightly 1
 dilatory
 decalage
 dinghy
