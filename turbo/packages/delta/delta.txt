@@ -13879,7 +13879,7 @@ dematiaceous
 dammers
 decipherment
 dollship
-doubletone
+doubletone 1
 ductileness
 dancery
 devours
