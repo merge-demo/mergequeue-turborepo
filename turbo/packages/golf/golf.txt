@@ -8638,7 +8638,7 @@ gliders
 graphitizing 1
 growthless
 gerip 1
-goopy
+goopy 1
 geyser 1
 glossless
 gobmouthed
