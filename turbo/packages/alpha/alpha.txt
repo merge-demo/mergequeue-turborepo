@@ -22742,7 +22742,7 @@ archplunderer
 avoidment
 arrondissement
 acrogynous
-arthrodira
+arthrodira 1
 aeronef
 actian
 ahurewa
