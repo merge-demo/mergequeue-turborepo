@@ -3957,7 +3957,7 @@ buttonholes
 butternose
 bdellium
 balarao
-bdelliums
+bdelliums 1
 brownist
 bdelloid
 bdellometer
