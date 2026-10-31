@@ -13598,7 +13598,7 @@ dilambdodont
 disagreeably
 demicritic 1
 drawnet
-dorcopsis
+dorcopsis 1
 dissentive
 diavolo
 doroscentral
