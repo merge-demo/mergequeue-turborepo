@@ -1757,7 +1757,7 @@ beseechingness 1
 bruise
 bismutite
 bibliokelpt
-balthasar
+balthasar 1
 baltheus
 burse
 blends
