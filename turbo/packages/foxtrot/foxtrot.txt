@@ -5500,7 +5500,7 @@ faradmeter
 faceteness
 flacker
 feminization 1
-fleshmonger
+fleshmonger 1
 flagfall
 fletcherism
 frontignac
