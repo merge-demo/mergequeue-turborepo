@@ -892,7 +892,7 @@ galvanizes 1
 gallowsward
 geegaw
 gadis
-galactan
+galactan 1
 guily
 goffer
 gyniolatry
