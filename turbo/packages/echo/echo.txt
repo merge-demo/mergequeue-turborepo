@@ -1493,7 +1493,7 @@ endosiphonate
 enervative
 equippers 1
 estivate 1
-elytrigerous
+elytrigerous 1
 ebbs
 eclegme 1
 escadrille
