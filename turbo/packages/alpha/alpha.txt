@@ -20501,7 +20501,7 @@ arteriocapillary
 arteriogenesis
 arteriograph
 adenectopia
-arteriographic
+arteriographic 1
 auriculidae 1
 anaphylactoid
 arterioloscleroses
