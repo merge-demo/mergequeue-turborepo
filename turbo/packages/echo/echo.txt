@@ -3261,7 +3261,7 @@ ecumenicize
 eluvies 1
 erasure
 euphonize
-ethopoeia
+ethopoeia 1
 ellwand 1
 eludes
 ermitophobia
@@ -6042,7 +6042,7 @@ epistles
 exsects
 ecumenopolis
 exurbias
-escroll
+escroll 1
 eolith
 exhusband 2
 elastin 1
