@@ -7675,7 +7675,7 @@ flexes
 firth
 firm
 fellmonger
-fastens
+fastens 1
 fleawort 1
 fossa
 fidessa
