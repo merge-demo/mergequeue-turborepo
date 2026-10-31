@@ -6432,7 +6432,7 @@ burdener 1
 benzofulvene 2
 bollen
 benzofuran
-biozone
+biozone 1
 benzoglycolic
 benzoglyoxaline
 bastioned
