@@ -10898,7 +10898,7 @@ doohinkus
 devalorize
 dignitas 1
 disabuse
-disbursement
+disbursement 1
 diapir
 disabuses
 dispondaic
