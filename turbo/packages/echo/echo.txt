@@ -4253,7 +4253,7 @@ eumeristic
 expolish
 expendible
 endoglobular
-expressways
+expressways 1
 equidiagonal
 escutcheons
 endocrinologies
