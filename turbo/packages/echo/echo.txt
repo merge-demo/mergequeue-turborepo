@@ -1049,7 +1049,7 @@ eagerly 1
 exsheath
 edged
 eidolon
-exacted
+exacted 1
 edger
 edgeshot 1
 ermani
@@ -12958,7 +12958,7 @@ east
 enhaunt
 eulogiae
 expectancy
-endotherm
+endotherm 1
 ephebea 1
 epistemophilia
 ecologist
