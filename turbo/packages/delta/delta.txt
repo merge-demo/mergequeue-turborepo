@@ -14301,7 +14301,7 @@ dithionous
 devotionate
 depaganize
 dithyrambs
-dithyrambus
+dithyrambus 1
 dominicker
 denotationally
 dytiscid
