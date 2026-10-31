@@ -1837,7 +1837,7 @@ featurelessness
 featureliness
 furrows 1
 figureheadship
-fellahin
+fellahin 1
 firebreaks
 feudalize
 flabellum
