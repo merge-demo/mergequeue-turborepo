@@ -4266,7 +4266,7 @@ chondrosteous
 caretook
 comfiest
 carets
-careworn
+careworn 1
 concorporation
 carex
 cottages
