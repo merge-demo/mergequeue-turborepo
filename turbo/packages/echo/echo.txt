@@ -2493,7 +2493,7 @@ electroing
 electrokinetic
 eluviate
 elaeometer
-ecosphere
+ecosphere 1
 epicanthic
 exterminative
 elasticum
