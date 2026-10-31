@@ -11438,7 +11438,7 @@ frowstiest
 fettering
 forebemoaned
 founte 1
-fortunetell
+fortunetell 1
 fallibleness 1
 formfeed 1
 fiducially 1
