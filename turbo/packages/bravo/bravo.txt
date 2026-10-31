@@ -1114,7 +1114,7 @@ burel
 barbasco 1
 bayonets
 benefactors
-bifacial
+bifacial 1
 blksize
 babongo
 bairagi
