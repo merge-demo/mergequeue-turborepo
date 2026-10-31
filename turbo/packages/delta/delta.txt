@@ -17958,7 +17958,7 @@ determinacy
 demandable
 dietitian
 dugouts
-dugs
+dugs 1
 dugway
 deaerator
 doornboom
