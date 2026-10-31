@@ -7310,7 +7310,7 @@ grainless
 gossamered
 galega
 gossamers
-galloglass
+galloglass 1
 geochronometric
 geratology
 glareole
