@@ -1257,7 +1257,7 @@ gonglike 1
 garbill
 guyline 1
 goosebone
-ganomalite 1
+ganomalite 2
 garbler
 gradings
 golliwogg
