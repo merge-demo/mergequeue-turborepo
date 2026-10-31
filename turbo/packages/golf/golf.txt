@@ -976,7 +976,7 @@ gitanemuck
 gunstone 1
 glomeruli
 graptolite
-glist
+glist 1
 genomic
 gamostele 1
 glottogony
