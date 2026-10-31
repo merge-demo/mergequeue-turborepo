@@ -12177,7 +12177,7 @@ epigraphically
 eucolite
 enlistee
 empory
-exeat
+exeat 1
 electropotential
 epigraphs
 exec
