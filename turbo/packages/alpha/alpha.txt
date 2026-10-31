@@ -4823,7 +4823,7 @@ antemeridian
 aeroboat
 aerobranchia
 appearing
-alditol
+alditol 1
 anglic 1
 aerocamera
 anthropotheism
