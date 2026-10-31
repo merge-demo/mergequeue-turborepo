@@ -2966,7 +2966,7 @@ cakile
 chare 1
 chamberlains
 cingular 1
-cuthbert
+cuthbert 1
 contradistinction
 cantholysis
 commonable
