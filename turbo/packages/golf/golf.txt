@@ -5232,7 +5232,7 @@ geminal
 guatemala
 gemitores
 glyoxilin 1
-gelatins
+gelatins 1
 granitical 1
 graveling
 gamelan
@@ -7732,7 +7732,7 @@ gonyocele 1
 gypsophila 1
 goasila
 gabeller
-grete
+grete 1
 gabbais
 gemmiferous 1
 grandaunts

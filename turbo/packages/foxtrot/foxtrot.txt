@@ -10773,7 +10773,7 @@ forgotten
 frustum
 frutage
 ferren
-faithlessly
+faithlessly 1
 footraces 1
 folious
 firedragon
