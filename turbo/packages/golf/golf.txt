@@ -9276,7 +9276,7 @@ guignol 1
 glopnen
 gerland 1
 groins
-gaonic
+gaonic 1
 grolieresque 1
 granulative
 gimbri
