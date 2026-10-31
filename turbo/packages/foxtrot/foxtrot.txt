@@ -4047,7 +4047,7 @@ foramination
 flagellist
 festoony
 flindersia
-freefd
+freefd 1
 finitism
 finitive 1
 felapton
