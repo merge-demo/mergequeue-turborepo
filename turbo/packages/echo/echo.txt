@@ -8185,7 +8185,7 @@ excalfaction
 episiotomies
 eequinoctium
 enroots
-expirant
+expirant 1
 episodical
 earsh
 episodically
