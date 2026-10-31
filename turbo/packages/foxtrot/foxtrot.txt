@@ -9784,7 +9784,7 @@ featness 1
 formyls
 fluozirconic
 farrows 1
-feldspathic
+feldspathic 1
 floweret
 fuds
 followup
