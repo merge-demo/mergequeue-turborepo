@@ -1345,7 +1345,7 @@ galligaskins 1
 glycosine
 growingupness
 garlandless
-greenalite
+greenalite 1
 geoside
 glomerulus 1
 galloner
@@ -2383,7 +2383,7 @@ glug
 george
 galloots
 ghiordes
-gadwall
+gadwall 1
 greenboard
 gedds
 grampa
