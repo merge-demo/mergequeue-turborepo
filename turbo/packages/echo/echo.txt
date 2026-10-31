@@ -12958,7 +12958,7 @@ east
 enhaunt
 eulogiae
 expectancy
-endotherm
+endotherm 1
 ephebea 1
 epistemophilia
 ecologist
