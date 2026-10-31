@@ -2380,7 +2380,7 @@ glump 1
 gerrhosaurid
 greeshoch
 glug
-george
+george 1
 galloots
 ghiordes
 gadwall 1
