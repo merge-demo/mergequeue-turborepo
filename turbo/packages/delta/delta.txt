@@ -6462,7 +6462,7 @@ deviability
 dialectic 1
 dynel
 descension
-dereligion
+dereligion 1
 descensionist 1
 descensive
 donor
