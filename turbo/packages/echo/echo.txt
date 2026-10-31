@@ -1229,7 +1229,7 @@ equicaloric
 exstemporal
 eme 1
 extrascripturality 1
-evenmete
+evenmete 1
 epit 1
 enneastyle 1
 eel
