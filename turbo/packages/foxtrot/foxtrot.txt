@@ -2638,7 +2638,7 @@ fluviatic
 feedings
 fainaigue
 froufrou
-flickering
+flickering 1
 foxfishes
 fifty 2
 frostbow
