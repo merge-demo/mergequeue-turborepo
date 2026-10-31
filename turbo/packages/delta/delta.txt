@@ -265,7 +265,7 @@ daguerreotyped
 daguerreotyping
 dissociations
 digitonin
-dreadnaught
+dreadnaught 1
 drillbit
 docken
 debugged
