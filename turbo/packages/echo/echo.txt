@@ -3079,7 +3079,7 @@ emetia 1
 exhaustible
 excreters
 exor
-esthetes
+esthetes 1
 endarterium
 entellus 1
 escar

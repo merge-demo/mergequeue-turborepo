@@ -4861,7 +4861,7 @@ geodal
 gliomata
 gorier 1
 gorse 1
-glauberite
+glauberite 1
 glair 1
 glaire
 glosses
