@@ -8791,7 +8791,7 @@ allies
 acceders
 autoagglutinating
 arctoid
-alligatorfish
+alligatorfish 1
 alligatorfishes
 arbinose
 allying
@@ -21457,7 +21457,7 @@ asper
 amnesties
 asperate
 artefact
-azarole
+azarole 1
 antitegula
 authorish
 anosmias
