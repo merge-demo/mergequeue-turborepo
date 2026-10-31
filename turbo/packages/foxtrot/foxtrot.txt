@@ -1887,7 +1887,7 @@ fewer 1
 flintier
 foredoom 1
 footstep
-fourdrinier 1
+fourdrinier 2
 farinacious
 flamboyantize
 faradizing 1

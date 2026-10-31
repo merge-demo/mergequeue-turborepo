@@ -426,7 +426,7 @@ gispin
 gemstones 1
 gotham
 gymnogynous
-gymmal
+gymmal 1
 gabion
 greatened
 greatcoated 1
