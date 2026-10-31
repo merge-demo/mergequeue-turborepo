@@ -9226,7 +9226,7 @@ friesic
 fruiter 1
 fayalites
 freckling
-frangipani
+frangipani 1
 frizers 1
 framea
 framer
