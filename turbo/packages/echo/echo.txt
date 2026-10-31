@@ -11289,7 +11289,7 @@ equisurface
 expressionable
 englander
 enrank 2
-entirety
+entirety 1
 exalbuminous
 evaporimeter 1
 electrocute
