@@ -4271,7 +4271,7 @@ echoless
 excruciatingly
 etymologist
 erysibe
-earjewel
+earjewel 1
 encephaloscopy
 emulsions
 equidistantial
