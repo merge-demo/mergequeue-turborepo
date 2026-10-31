@@ -12539,7 +12539,7 @@ borrows
 bannimus
 beaus
 bedposts
-burseeds
+burseeds 1
 biham
 bonhomies
 boni
