@@ -3986,7 +3986,7 @@ borborygm 1
 beachcombers
 beachdrops
 biliment 1
-bowed
+bowed 1
 bumpiest 1
 bisulphate
 backstays
