@@ -3796,7 +3796,7 @@ founce
 ferrier 1
 furnitureless 2
 foreflap
-filterableness
+filterableness 1
 fractable 1
 facette
 fairyism
