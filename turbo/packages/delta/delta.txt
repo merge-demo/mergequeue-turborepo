@@ -3049,7 +3049,7 @@ degradand
 delightfully
 disagrees
 defaces
-disennoble
+disennoble 1
 defacing
 defacto
 defade
