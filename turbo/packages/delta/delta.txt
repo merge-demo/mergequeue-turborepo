@@ -17312,7 +17312,7 @@ dronage
 discovenant
 dronepipe
 decurion
-deduct
+deduct 1
 devolvement
 drony
 droningly
