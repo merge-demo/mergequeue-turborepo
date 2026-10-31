@@ -9428,7 +9428,7 @@ exostosed
 epipodium
 escarps
 enfeoff
-encephalos
+encephalos 1
 eschatological
 enaliosauria 1
 epistemonical 1
