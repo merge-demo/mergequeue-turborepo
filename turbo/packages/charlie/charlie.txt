@@ -22759,7 +22759,7 @@ coemptio
 consecrative
 columnarized
 cloison 1
-caligraphy
+caligraphy 1
 conscience 1
 canalete
 canoeiro
