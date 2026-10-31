@@ -1511,7 +1511,7 @@ ballade
 bespottedness
 beglad
 bathyhyperesthesia
-bemadamed
+bemadamed 1
 bacteremia
 bucrnia
 borstal
@@ -13289,7 +13289,7 @@ boswellian
 boswelliana
 barrulet 1
 boulders
-bombesin
+bombesin 1
 beng
 bacteriostatic
 braciolas
