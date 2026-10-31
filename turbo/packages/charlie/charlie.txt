@@ -12274,7 +12274,7 @@ clothier
 christianizer
 christianizes
 christianizing
-christianly
+christianly 1
 contraindicative
 cheken
 curviest
