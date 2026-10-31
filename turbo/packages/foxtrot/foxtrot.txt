@@ -6060,7 +6060,7 @@ feak
 foretriangle
 fleyland
 forecome
-floush
+floush 1
 focalisation 1
 fungillus
 fouls
