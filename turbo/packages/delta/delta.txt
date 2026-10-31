@@ -3893,7 +3893,7 @@ delayful
 dooli
 decanate
 devitalisation 1
-delaminated
+delaminated 1
 dibranchia
 demonolatrously
 dowieite
