@@ -3133,7 +3133,7 @@ galumphing
 garial
 grangousier
 gammoned
-galena 1
+galena 2
 glims
 gestures
 gastroelytrotomy 1
