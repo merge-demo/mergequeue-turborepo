@@ -11066,7 +11066,7 @@ egoity 1
 exulceratory
 empower
 ekacaesium
-epistemolog
+epistemolog 1
 epiglottal
 extravasation
 endosporium
