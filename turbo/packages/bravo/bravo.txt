@@ -3698,7 +3698,7 @@ barrelsful
 besetting
 benzophenol
 bardolater
-bangia
+bangia 1
 bottomchrome 2
 bunsen 1
 batsmen
