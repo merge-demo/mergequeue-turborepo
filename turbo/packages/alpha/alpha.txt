@@ -3369,7 +3369,7 @@ adamsia 1
 adiathermanous
 absinthismic
 adamsites
-appeasableness
+appeasableness 1
 adapt
 apeman
 airmarker

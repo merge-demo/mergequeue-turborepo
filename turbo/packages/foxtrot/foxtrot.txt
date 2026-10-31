@@ -9130,7 +9130,7 @@ foolify
 formicaria
 fraena
 faroff
-frostproofing
+frostproofing 1
 fudgy 1
 fulfulde 2
 forward
