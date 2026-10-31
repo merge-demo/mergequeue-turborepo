@@ -4010,7 +4010,7 @@ delicense
 dynamometamorphosed 1
 deliciouses
 deliciousness
-debouches
+debouches 1
 delict
 deaquation
 deliquescence
