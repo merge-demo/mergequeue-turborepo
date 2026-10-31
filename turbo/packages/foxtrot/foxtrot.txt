@@ -5315,7 +5315,7 @@ faitery
 flb 1
 fantasque
 foregather 1
-fifteen 1
+fifteen 2
 feasts 1
 filial
 faltboats
