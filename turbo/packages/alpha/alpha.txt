@@ -20276,7 +20276,7 @@ arrogated
 alaloi
 acanthodii
 adorns
-amateurish
+amateurish 1
 afocal
 anthropomorphization
 alkalify
