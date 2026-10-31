@@ -13992,7 +13992,7 @@ antanacathartic 1
 antanaclasis
 antelopes
 antebrachia
-antanagoge
+antanagoge 1
 aneurysmally
 alcyonaria
 antanandro
