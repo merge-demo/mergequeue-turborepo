@@ -11617,7 +11617,7 @@ disconventicle 1
 discophoran
 discoplacenta
 dionymal
-defeminise
+defeminise 1
 dinder
 discoplasm 1
 dostoevsky
