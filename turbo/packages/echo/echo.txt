@@ -13439,7 +13439,7 @@ erogate
 ethnodicy
 eponymous
 electrotechnical
-expurge
+expurge 1
 employless 1
 etas 1
 expressway
