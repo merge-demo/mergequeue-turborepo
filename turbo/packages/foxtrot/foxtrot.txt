@@ -5104,7 +5104,7 @@ fractionise
 funking
 forbidding 1
 forthy 1
-fireweed
+fireweed 1
 fishiest
 fainness
 flashgun
