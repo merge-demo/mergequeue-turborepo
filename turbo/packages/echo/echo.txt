@@ -4507,7 +4507,7 @@ encephalomeningocele 1
 evenglome
 endoerythrocytic
 entothorax
-embiidae
+embiidae 1
 encephalomyelitic
 epochally
 extramorainal 2

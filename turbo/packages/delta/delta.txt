@@ -17673,7 +17673,7 @@ donsky
 desulphurating
 disapprovingly
 disanimal
-dimerisms
+dimerisms 1
 deconcentrate
 dualizes
 demarcate
