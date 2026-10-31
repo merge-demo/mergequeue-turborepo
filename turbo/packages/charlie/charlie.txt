@@ -17152,7 +17152,7 @@ condottieri
 coaggregation 1
 computationally 1
 cladophoraceae
-coagitator
+coagitator 1
 cleptobiotic
 coagmentation
 coagonize 1
