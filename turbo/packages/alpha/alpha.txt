@@ -10833,7 +10833,7 @@ amlong
 ammelide
 apodemal
 arenaria
-apothecary
+apothecary 1
 adductor
 ammeters 1
 amplexuses
