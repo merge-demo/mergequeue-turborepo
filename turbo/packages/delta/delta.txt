@@ -11367,7 +11367,7 @@ deemster
 disquieten
 dollie
 disobey
-disciplinarily
+disciplinarily 1
 distrouser
 disciplinatory
 datchas
