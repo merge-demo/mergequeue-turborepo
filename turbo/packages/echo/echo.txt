@@ -6447,7 +6447,7 @@ exercisable
 ensorcellment
 encumberment 1
 endometriosis 1
-embolismus
+embolismus 1
 eurypteroidea
 ensoul
 ensouled
@@ -12492,7 +12492,7 @@ escarbuncle
 erythrophyllin
 esophagotomy
 enrollees
-eximidus
+eximidus 1
 ense
 etiogenic
 eluviates
