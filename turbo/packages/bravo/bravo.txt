@@ -10723,7 +10723,7 @@ blearness
 bleated
 brewings 1
 butcherdom
-bleaty
+bleaty 1
 bleating
 bibliognostic 1
 bluejoint
