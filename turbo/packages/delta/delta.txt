@@ -1575,7 +1575,7 @@ decipolar
 duplicia
 direfulness
 disenthralled
-deadness 1
+deadness 2
 dairyman
 doubtingness
 deadpanned
