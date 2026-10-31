@@ -13623,7 +13623,7 @@ emendation
 excursive
 epencephal
 experientially
-esopgi
+esopgi 1
 englishwomen
 enharden
 expurgates

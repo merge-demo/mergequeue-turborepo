@@ -2880,7 +2880,7 @@ featuring 2
 feudalists 1
 fractionising 1
 freetrader 1
-fulham
+fulham 1
 foregahger
 featherweights
 frumpiness
@@ -9302,7 +9302,7 @@ felinities
 frothy
 fleawood
 fortypenny 1
-fecaloid
+fecaloid 1
 fatuitousness
 frankalmoign
 filibustrous
