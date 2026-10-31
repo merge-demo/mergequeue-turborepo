@@ -2132,7 +2132,7 @@ galidia
 ganodus
 guarabu
 gazebo 1
-gazeboes
+gazeboes 1
 guestship 2
 glumiferous
 galla
