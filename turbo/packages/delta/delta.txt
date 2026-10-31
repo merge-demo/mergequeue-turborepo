@@ -2883,7 +2883,7 @@ dedanite 1
 dedecorous
 divide
 desmodont 1
-deferral
+deferral 1
 duodecimomos
 dedicant
 dichotic
