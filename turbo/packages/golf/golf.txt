@@ -5232,7 +5232,7 @@ geminal
 guatemala
 gemitores
 glyoxilin 1
-gelatins
+gelatins 1
 granitical 1
 graveling
 gamelan
