@@ -14201,7 +14201,7 @@ enlists
 effecters 1
 enjoyments
 enow
-equiradiate
+equiradiate 1
 exerciser
 exust
 encaging
