@@ -887,7 +887,7 @@ gilded
 gulinular
 goldfields
 glycerinize
-gazi
+gazi 1
 galvanizes 1
 gallowsward
 geegaw
