@@ -10520,7 +10520,7 @@ amice
 anatriptic
 algomian
 aasvogels
-amyclaean
+amyclaean 1
 alisonite
 anatinae
 absonant 1
