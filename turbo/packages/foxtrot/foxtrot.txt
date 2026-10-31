@@ -2590,7 +2590,7 @@ filthy 1
 feoffed 1
 fancily
 ferromanganese 1
-ferrometer
+ferrometer 1
 foller 1
 filagreed
 fameflower
