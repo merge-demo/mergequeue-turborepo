@@ -8117,7 +8117,7 @@ deepener
 diacaustic
 diamminonitrate
 diapasons 1
-dipsetic
+dipsetic 1
 dakotan
 divaricated
 devein
