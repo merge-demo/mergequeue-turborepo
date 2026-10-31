@@ -15705,7 +15705,7 @@ broadeners
 bribee
 bisulcated
 bosoming
-bauxitite
+bauxitite 1
 bluster 1
 botulismus
 bowman
