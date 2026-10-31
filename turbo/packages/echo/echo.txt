@@ -1049,7 +1049,7 @@ eagerly 1
 exsheath
 edged
 eidolon
-exacted
+exacted 1
 edger
 edgeshot 1
 ermani
@@ -5577,7 +5577,7 @@ epistasy
 ethologist
 enflaming
 epiklesis
-embryulcus
+embryulcus 1
 enflower 1
 essexite
 embrocating

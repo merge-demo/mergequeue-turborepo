@@ -1835,7 +1835,7 @@ downwarp
 declinograph 1
 dewberry 1
 doorstead
-doughnut
+doughnut 1
 debellator
 darapti 1
 drugmaker
@@ -13184,7 +13184,7 @@ dicentrin
 damasks
 dispiritedly
 daughtership
-detonable
+detonable 1
 dyssystole
 dispiteousness 1
 decomposed
