@@ -6735,7 +6735,7 @@ fitcher
 fold
 flowing
 fantasy 1
-frosts
+frosts 1
 frosteds
 fledgeless 2
 foredevised 1
