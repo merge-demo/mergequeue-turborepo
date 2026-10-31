@@ -604,7 +604,7 @@ abode
 aryballus
 auricularly
 archbishoprics
-arisen
+arisen 1
 algonquians 1
 antarctic
 aphasic 1
@@ -22742,7 +22742,7 @@ archplunderer
 avoidment
 arrondissement
 acrogynous
-arthrodira
+arthrodira 1
 aeronef
 actian
 ahurewa
