@@ -1986,7 +1986,7 @@ epigastriocele
 equiparable
 effetman
 evenblush
-exorcisory
+exorcisory 1
 encamp
 encyclopedist
 electrine
