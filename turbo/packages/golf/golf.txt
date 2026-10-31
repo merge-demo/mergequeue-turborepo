@@ -4927,7 +4927,7 @@ gauging 2
 gymnospermal
 gallantize 1
 gyrenes
-gingelis
+gingelis 1
 germanization
 ganof
 gastrelcosis
