@@ -17004,7 +17004,7 @@ cneorum 1
 cytotrophy
 cnicin
 cnidae
-cnidarian
+cnidarian 1
 cnidian
 cnidoblast
 cobbed
