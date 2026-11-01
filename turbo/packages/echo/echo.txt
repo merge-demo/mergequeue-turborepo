@@ -10674,7 +10674,7 @@ enveloper
 extirpatory
 electrotelegraphy
 evolve
-eva
+eva 1
 euglenaceae
 extrasyllabic
 ensigning
