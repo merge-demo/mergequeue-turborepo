@@ -6983,7 +6983,7 @@ gavel
 gummer 1
 goofily 1
 gamelote 1
-gladioli
+gladioli 1
 gentil
 gumshoes
 gastronomes
