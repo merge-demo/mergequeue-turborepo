@@ -4151,7 +4151,7 @@ flocculation
 farkleberries
 fellowcraft 2
 fibrils
-faintness
+faintness 1
 foreaccounting
 frequence
 flunkeydom
