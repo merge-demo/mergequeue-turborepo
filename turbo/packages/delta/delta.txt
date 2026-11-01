@@ -2042,7 +2042,7 @@ disagreeability
 delictum
 dermatotomy
 daikered
-devotion
+devotion 1
 dimedon
 downgate
 debilities
