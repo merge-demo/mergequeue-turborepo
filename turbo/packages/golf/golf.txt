@@ -659,7 +659,7 @@ gallophilism
 givey
 gravimetry
 galloon
-glower
+glower 1
 gantryman
 genecologically
 galeated 1
@@ -9349,7 +9349,7 @@ gorgonize
 gelatinized 1
 gheraoed
 geneserin
-graciosity 1
+graciosity 2
 gradeless 1
 galtonia
 geordie
