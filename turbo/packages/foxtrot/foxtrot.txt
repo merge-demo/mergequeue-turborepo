@@ -8898,7 +8898,7 @@ fermental
 faroeish
 flimsily
 favorers 1
-frenchy
+frenchy 1
 frostbiting
 fusiformis
 floit
