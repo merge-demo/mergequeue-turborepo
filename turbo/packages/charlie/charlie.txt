@@ -14105,7 +14105,7 @@ conversably
 circularizes 1
 choriambs
 circularly
-circularness
+circularness 1
 circulars
 caravaneer
 circulatable
