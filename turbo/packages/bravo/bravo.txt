@@ -9734,7 +9734,7 @@ boisseau
 bismerpund
 buoyages 1
 bipartisanism
-bewitch
+bewitch 1
 bourette
 bismite
 bankrupcy

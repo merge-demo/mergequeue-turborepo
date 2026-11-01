@@ -1044,7 +1044,7 @@ grasp
 golp
 glanced
 glycohaemia 1
-groan
+groan 1
 glassfuls 1
 gabardine
 gnarl 1
