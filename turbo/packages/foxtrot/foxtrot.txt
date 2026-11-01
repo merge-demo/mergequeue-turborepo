@@ -8008,7 +8008,7 @@ fructiculture
 fractiously
 foresteep
 flockmaster
-feyest
+feyest 1
 flowerist 1
 fellahs
 flash
