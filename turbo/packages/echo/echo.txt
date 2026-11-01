@@ -6312,7 +6312,7 @@ embowed
 enrut 1
 explainability
 euclidean
-exobiological 1
+exobiological 2
 ens
 emmenagogue
 elenchtic
