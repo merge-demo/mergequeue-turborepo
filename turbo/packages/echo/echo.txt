@@ -12719,7 +12719,7 @@ etchers 1
 exalted
 exophthalmia
 embloom
-epibolism
+epibolism 1
 endarchies
 exenterating
 exophthalmus
