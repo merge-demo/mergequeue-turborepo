@@ -4809,7 +4809,7 @@ baldling
 blast
 bed
 bedribble
-burglarizes 1
+burglarizes 2
 bibracteate
 billfold 1
 barbarize
