@@ -1720,7 +1720,7 @@ epistilbite 1
 ejective
 epileptic
 evang
-eyeground
+eyeground 1
 epornitically
 encephaloid 1
 enginery 1
