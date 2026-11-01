@@ -26552,7 +26552,7 @@ cymbaled
 chemosis
 clingers
 conjecturable
-cheverons
+cheverons 1
 coucal
 couchancy
 couchant
