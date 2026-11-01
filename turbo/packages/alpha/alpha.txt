@@ -12182,7 +12182,7 @@ anopsy
 anatomizer
 advisiveness
 attacco 1
-anatopism
+anatopism 1
 adorally
 antiaristocratical
 algic
