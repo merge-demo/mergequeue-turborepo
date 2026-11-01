@@ -12554,7 +12554,7 @@ djakarta
 disinheritable
 diuturnity
 disinheritance 1
-dinaphthyl
+dinaphthyl 1
 deirdre
 darac
 ditrematous
