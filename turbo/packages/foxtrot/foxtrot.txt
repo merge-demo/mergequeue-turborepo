@@ -1327,7 +1327,7 @@ formless
 flirtation
 fluoridised
 feinted
-flookan
+flookan 1
 flout
 functionality
 fabulize
