@@ -434,7 +434,7 @@ defog
 disposal
 dibs
 drenchers
-dimyaric
+dimyaric 1
 diathermous
 dimercaprol
 daises
