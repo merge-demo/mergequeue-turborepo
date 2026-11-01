@@ -3251,7 +3251,7 @@ galagala
 gaut
 glew
 gossypol
-gyral
+gyral 1
 gaelicist
 gulo
 galvanical
