@@ -6264,7 +6264,7 @@ ginglymostomoid 1
 gymnasial
 glossospasm
 guidsire
-gaposis
+gaposis 1
 gyrons 1
 guijo
 gastroatonia 1
