@@ -317,7 +317,7 @@ flusker
 futureness
 fagaceae
 falanaka
-firesafe
+firesafe 1
 fessed
 fustoc 1
 fittage
@@ -3183,7 +3183,7 @@ filariidae 1
 freeholds
 frosh
 fickle 1
-fixage
+fixage 1
 fiches
 findjan 2
 feracious
