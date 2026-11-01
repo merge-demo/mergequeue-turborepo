@@ -5854,7 +5854,7 @@ ebrillade
 ectogeneous
 epithecia
 ecesis
-engrandizement 1
+engrandizement 2
 epidermatous 1
 enodate
 emancipatory
