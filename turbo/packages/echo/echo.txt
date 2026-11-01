@@ -14058,7 +14058,7 @@ e
 enterochromaffin
 extravagance
 eupatory
-extravagantly
+extravagantly 1
 enchantingly
 euemerism
 emulsibility
