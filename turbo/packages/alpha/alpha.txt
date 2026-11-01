@@ -11750,7 +11750,7 @@ agamy
 artal
 apodidae
 anaesthetized 1
-anaesthetizer
+anaesthetizer 1
 arthralgic
 adsum
 arbalester
