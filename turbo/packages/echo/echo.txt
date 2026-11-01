@@ -5536,7 +5536,7 @@ etherlike
 ecanda
 enfeoffing
 enfeoffment
-exestuate
+exestuate 1
 exhaustedly
 ethions
 enophthalmos 1
