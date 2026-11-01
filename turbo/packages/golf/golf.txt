@@ -2257,7 +2257,7 @@ gefulltefish
 galax
 gonidiogenous 2
 gehlenite
-goblet
+goblet 1
 gratuity 1
 geoplanidae 1
 glucokinase
