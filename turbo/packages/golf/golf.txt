@@ -1057,7 +1057,7 @@ garvock
 gestapo 1
 gerardias
 gorgonin
-gasteromycete
+gasteromycete 1
 ganglioid
 ganglioma
 gangliomas 1

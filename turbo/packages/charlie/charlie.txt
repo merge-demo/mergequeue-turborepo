@@ -8423,7 +8423,7 @@ chockman
 champagnize
 caracolling 1
 cardiogenic
-champagnized
+champagnized 1
 cesurae
 champak 1
 chamfering
@@ -23038,7 +23038,7 @@ consomme
 consommes
 consonance
 consonancy
-consonant
+consonant 1
 consonantal
 consonantalize
 consonantic
