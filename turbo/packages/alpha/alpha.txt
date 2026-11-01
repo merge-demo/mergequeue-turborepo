@@ -4259,7 +4259,7 @@ assubjugate
 annoyful
 akhlame
 alumen
-abime
+abime 1
 abaka
 anencephaly
 atavism 1
@@ -21386,7 +21386,7 @@ autist
 asynergy
 asynergia
 adamantly
-annuluses
+annuluses 1
 asyngamy
 analyzing
 asyntactic

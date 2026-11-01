@@ -1327,7 +1327,7 @@ formless
 flirtation
 fluoridised
 feinted
-flookan
+flookan 1
 flout
 functionality
 fabulize
@@ -4511,7 +4511,7 @@ farmlands
 feer 1
 forheed
 foreigner
-forslake 1
+forslake 2
 flensing
 flooded
 fountainhead
