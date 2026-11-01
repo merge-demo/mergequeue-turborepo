@@ -24746,7 +24746,7 @@ cullen
 coproduction 1
 coprojector
 coprolagnia
-chuffy
+chuffy 1
 coprolaliac
 chernozemic
 carlage
@@ -29215,7 +29215,7 @@ crippleness
 crippler
 cripples
 creaser
-capillarity
+capillarity 1
 cystomatous
 crippling
 cryptaesthesia
