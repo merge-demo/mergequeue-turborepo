@@ -11379,7 +11379,7 @@ apochae
 amphibian 1
 autoclasis
 attaste
-arachnologist
+arachnologist 1
 antipeptone
 alloquy
 anchoveta
