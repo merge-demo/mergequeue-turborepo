@@ -4834,7 +4834,7 @@ gladiola 1
 granatite 1
 ghassanid 1
 goldurns 2
-goatly
+goatly 1
 gastroenteric
 gladship 2
 galleylike
