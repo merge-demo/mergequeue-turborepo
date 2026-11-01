@@ -12961,7 +12961,7 @@ expectancy
 endotherm 1
 ephebea 1
 epistemophilia
-ecologist
+ecologist 1
 entotic
 empurple
 enchafe
