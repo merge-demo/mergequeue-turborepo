@@ -8265,7 +8265,7 @@ gruff
 gentians
 grapples
 grappling
-graptolitha
+graptolitha 1
 gambits
 gutturalise
 gleets 1
