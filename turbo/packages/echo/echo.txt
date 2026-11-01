@@ -7279,7 +7279,7 @@ enclitics
 exlex
 elechi
 engird
-excheat
+excheat 1
 encharnel
 emigres 1
 eristics
