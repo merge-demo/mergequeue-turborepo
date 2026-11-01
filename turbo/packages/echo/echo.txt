@@ -8408,7 +8408,7 @@ epizoon
 edemic
 emblossom 2
 exulceration
-equinumerally
+equinumerally 1
 earflaps 1
 epinasties
 exchange 1
