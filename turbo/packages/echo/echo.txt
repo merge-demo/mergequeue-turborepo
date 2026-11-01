@@ -12293,7 +12293,7 @@ exemptive 1
 exendospermous
 environal 1
 exenterate
-etheostomidae
+etheostomidae 1
 electronegative
 esquires
 ewers
