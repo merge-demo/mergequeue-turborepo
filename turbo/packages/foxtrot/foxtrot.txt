@@ -726,7 +726,7 @@ favourably
 foraminulose
 fisherwoman
 foreladies 2
-fortify
+fortify 1
 fatheadedness
 flincher
 flagroot
