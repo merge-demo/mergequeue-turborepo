@@ -594,7 +594,7 @@ epigeal
 enhydros
 echometer 1
 echopractic
-examinate
+examinate 1
 epidictic 1
 elitisms
 ebonise
@@ -5458,7 +5458,7 @@ emblematicalness
 energesis
 energetic
 electrochronographic 1
-extrinsicality
+extrinsicality 1
 eleutherophyllous 1
 earmark
 echoized 1
