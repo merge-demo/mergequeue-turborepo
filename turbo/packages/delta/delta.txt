@@ -15144,7 +15144,7 @@ doilies
 decancellating
 diglottism
 divarication
-deerherd
+deerherd 1
 dislustre
 damaging
 disallows
