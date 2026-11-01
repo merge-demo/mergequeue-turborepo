@@ -6984,7 +6984,7 @@ desmocytoma
 despotat 1
 depose
 demographer
-decede
+decede 1
 dissentiate 1
 destress 1
 dorje
