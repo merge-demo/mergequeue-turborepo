@@ -2630,7 +2630,7 @@ gonocalyx
 galores
 grayware
 graal
-gymnosophist
+gymnosophist 1
 genethlic
 glossopetra
 goatee
