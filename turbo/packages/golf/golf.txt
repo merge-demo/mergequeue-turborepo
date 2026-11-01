@@ -2930,7 +2930,7 @@ gallons 1
 gabardines 1
 gulley 1
 growlier
-glumpish
+glumpish 1
 gobblers
 gavelkind
 gaeldom
