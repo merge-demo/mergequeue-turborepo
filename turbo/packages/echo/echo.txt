@@ -12179,7 +12179,7 @@ enlistee
 empory
 exeat 1
 electropotential
-epigraphs
+epigraphs 1
 exec
 epiphonemas
 eudemonist
