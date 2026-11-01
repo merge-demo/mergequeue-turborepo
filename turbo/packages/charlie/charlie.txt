@@ -4520,7 +4520,7 @@ congratulate
 carnaria
 carnassial
 carnate 1
-ctimo
+ctimo 1
 corupay 1
 cordialize
 counterassurance
