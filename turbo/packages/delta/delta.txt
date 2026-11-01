@@ -1250,7 +1250,7 @@ dendrogaea
 dothienenteritis
 devitalizing
 demeritoriously
-diseconomy
+diseconomy 1
 discogastrula
 diarrheal
 discovert
