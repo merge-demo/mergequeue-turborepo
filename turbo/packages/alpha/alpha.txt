@@ -15540,7 +15540,7 @@ antilapse
 analyzable
 anthropophagi
 antiatheism
-aquaplanes
+aquaplanes 1
 antimonies
 antimonium 1
 aboves
