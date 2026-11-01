@@ -4765,7 +4765,7 @@ bastardization
 bedlamitish
 bedub
 bovid
-bibliogenesis
+bibliogenesis 1
 bedewing 1
 bloomeria
 blennorrhinia 1
@@ -4809,7 +4809,7 @@ baldling
 blast
 bed
 bedribble
-burglarizes 1
+burglarizes 2
 bibracteate
 billfold 1
 barbarize
