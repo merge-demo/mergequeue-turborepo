@@ -8810,7 +8810,7 @@ binaphthyl
 binaries
 betuckered 1
 bulginess
-basilics
+basilics 1
 binaural
 blow
 binbashi
