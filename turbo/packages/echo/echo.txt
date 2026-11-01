@@ -8910,7 +8910,7 @@ experimentally 1
 ergoted
 explosible
 encephalomalaxis 1
-ergotism
+ergotism 1
 ergotizing
 erichthoid
 ewder
