@@ -6762,7 +6762,7 @@ forseeable 1
 fluidics
 ferme
 frontal
-forehandedly 1
+forehandedly 2
 fruitiest
 flaccidity
 footbeat
