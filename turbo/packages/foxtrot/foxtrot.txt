@@ -7687,7 +7687,7 @@ foreimpressed
 foreinstruct
 fallal
 feudality 1
-fruggin
+fruggin 1
 flyeater
 foreknew
 farcically
