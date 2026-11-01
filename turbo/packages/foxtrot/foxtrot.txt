@@ -10731,7 +10731,7 @@ fartlek 1
 fortran
 forelaid
 fil
-fingerwise
+fingerwise 1
 flavedo
 frutescence
 fetter
