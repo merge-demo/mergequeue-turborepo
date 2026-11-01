@@ -11153,7 +11153,7 @@ fanega
 faiences 1
 fiats
 frumperies
-flocculence
+flocculence 1
 fernlike
 foederal 1
 flywire
