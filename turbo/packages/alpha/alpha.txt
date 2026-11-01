@@ -9780,7 +9780,7 @@ antipyresis 1
 amoving 1
 amah
 amahuaca
-assoil
+assoil 1
 antigen
 amanori 1
 aeroscope
@@ -14156,7 +14156,7 @@ auriga
 adjusts
 agglutinogenic
 assonanced
-anarthrous
+anarthrous 1
 antiabrin
 achlamydate
 assonantly
