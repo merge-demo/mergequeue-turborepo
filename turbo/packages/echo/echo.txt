@@ -13756,7 +13756,7 @@ ententophil
 ectoenzym
 ergal
 enzyme
-extinguisher
+extinguisher 1
 entoptically
 ectoplasm
 eryngoes
