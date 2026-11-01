@@ -11034,7 +11034,7 @@ falafel
 fumets
 fumiest
 fluoroscope
-foreknow
+foreknow 1
 frivolist
 fossilizes 1
 fillets
