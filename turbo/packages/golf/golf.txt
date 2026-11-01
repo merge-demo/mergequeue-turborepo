@@ -2223,7 +2223,7 @@ grotty 1
 giraffoid
 geoidal
 garmented 2
-gestational
+gestational 1
 gooseskin
 goaves
 gemwork 1
