@@ -2861,7 +2861,7 @@ geol
 guilefulness
 ganglionic
 gyrate 1
-gustavus
+gustavus 1
 guardsman
 gipser
 grasschat
