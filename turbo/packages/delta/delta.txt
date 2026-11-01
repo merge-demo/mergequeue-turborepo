@@ -12360,7 +12360,7 @@ desulfurizer
 disheartener
 doveflower 1
 devachan
-dissemilative
+dissemilative 1
 daphnean
 dinkey
 dizygotic
