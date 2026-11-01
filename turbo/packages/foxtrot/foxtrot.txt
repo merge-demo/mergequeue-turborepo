@@ -317,7 +317,7 @@ flusker
 futureness
 fagaceae
 falanaka
-firesafe
+firesafe 1
 fessed
 fustoc 1
 fittage
