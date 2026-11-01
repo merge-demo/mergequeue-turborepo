@@ -9073,7 +9073,7 @@ brontephobia
 besmuts
 biometries 1
 bion
-byon
+byon 1
 bionditional
 bionics
 brachyprosopic
