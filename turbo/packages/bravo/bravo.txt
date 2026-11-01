@@ -9632,7 +9632,7 @@ barbal 1
 biscayner
 beechiest
 bondage
-bedismal
+bedismal 1
 beneficently
 bonapartist
 biscuitroot
