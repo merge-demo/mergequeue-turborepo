@@ -3440,7 +3440,7 @@ boehmenism
 bryophytic 1
 benzalazine
 burghership
-bedsores
+bedsores 1
 blushing
 bulletmaker 1
 bastardism
