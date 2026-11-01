@@ -4722,7 +4722,7 @@ erythrodegenerative
 exalbuminose
 encist 1
 electrokinetics
-exponentially
+exponentially 1
 encysting 1
 emptiest
 evenest
