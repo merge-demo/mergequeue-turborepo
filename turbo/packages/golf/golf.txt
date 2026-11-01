@@ -4830,7 +4830,7 @@ glozes
 gyrotheca
 gimme
 grandstanding
-gladiola
+gladiola 1
 granatite 1
 ghassanid 1
 goldurns 2
