@@ -7716,7 +7716,7 @@ cetin
 certainty
 certhia
 caryatidic
-cfi
+cfi 1
 claviceps
 certifiability
 categorematic
