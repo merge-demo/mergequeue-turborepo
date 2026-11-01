@@ -594,7 +594,7 @@ epigeal
 enhydros
 echometer 1
 echopractic
-examinate
+examinate 1
 epidictic 1
 elitisms
 ebonise
