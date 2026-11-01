@@ -15229,7 +15229,7 @@ antiformin
 animater
 antifouling
 autobasidiomycetes
-austere
+austere 1
 arborolatry
 apicilar
 adarticulation
