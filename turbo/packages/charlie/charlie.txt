@@ -15848,7 +15848,7 @@ chirker
 cleistogamously
 cringe 1
 catalectic
-cleistogeny
+cleistogeny 1
 clinium
 camauro
 cicatrisate
