@@ -290,7 +290,7 @@ gamings 3
 gainsaying
 gypsyish
 groin
-guillochee
+guillochee 1
 gibing 1
 gaslock
 gaddish
@@ -623,7 +623,7 @@ gnaphalioid
 gallisin
 gunslingers
 gillie
-geophysicist
+geophysicist 1
 gigartina
 glide
 goldenlocks

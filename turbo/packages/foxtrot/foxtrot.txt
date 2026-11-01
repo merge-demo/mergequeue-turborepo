@@ -777,7 +777,7 @@ fetidness
 fezzan
 fibroangioma
 frier
-ferv 2
+ferv 3
 frequently
 forelouper 1
 fibreboard
