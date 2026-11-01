@@ -5825,7 +5825,7 @@ fulcrums
 flidge
 fertilisable 1
 fowling
-factorially
+factorially 1
 floatsmen
 fraternise
 fluff
