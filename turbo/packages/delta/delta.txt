@@ -18067,7 +18067,7 @@ disgavelled
 deglaze
 deflexing
 demihearse
-devoto
+devoto 1
 dialectologies
 dulness
 dysphemism
