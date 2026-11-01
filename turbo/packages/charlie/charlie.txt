@@ -4996,7 +4996,7 @@ carucarius
 charivariing
 clipsheets
 carucate
-carum
+carum 1
 coachwork
 caruncles 1
 caruncula
