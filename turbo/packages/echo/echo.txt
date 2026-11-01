@@ -12785,7 +12785,7 @@ enmask
 exorcizer
 epiceratodus 1
 exordium
-engold 1
+engold 2
 exotism
 earlike 1
 elsewise 1
