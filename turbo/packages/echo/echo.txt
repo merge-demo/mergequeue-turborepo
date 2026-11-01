@@ -3578,7 +3578,7 @@ exclusionary
 ectoglia 1
 encyclical
 electrometallurgist
-embosoming
+embosoming 1
 euchlaena
 emancipative
 encraal
