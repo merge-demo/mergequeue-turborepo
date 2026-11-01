@@ -3442,7 +3442,7 @@ exemplar
 ecliptic
 embatholithic
 enfiladed 2
-editorializes
+editorializes 1
 eurylaimidae
 extradoses
 exteriors
