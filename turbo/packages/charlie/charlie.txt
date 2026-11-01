@@ -27198,7 +27198,7 @@ collen
 coparent 1
 countertraverse
 corbelling
-callowness
+callowness 1
 catholicus 1
 confessors
 collodionize

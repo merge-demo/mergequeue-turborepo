@@ -10010,7 +10010,7 @@ daughterling
 dubieties
 dynamically
 debarkations
-deflate
+deflate 1
 defailance 1
 descript
 divertingly
