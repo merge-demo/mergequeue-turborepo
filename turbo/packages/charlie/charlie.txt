@@ -25423,7 +25423,7 @@ corning 1
 cornishman
 cornless
 cornmeal
-ceramicist
+ceramicist 1
 contumaciousness
 cornmeals
 cornmuse 1

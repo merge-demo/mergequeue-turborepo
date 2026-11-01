@@ -6173,7 +6173,7 @@ dermasurgery
 dedolomitization
 dermatagra
 dermatophagus
-dermatotropic 1
+dermatotropic 2
 decalcifying
 diaphragmatically 1
 desiccator
