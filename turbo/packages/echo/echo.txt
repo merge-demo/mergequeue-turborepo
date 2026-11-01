@@ -4452,7 +4452,7 @@ enworthy
 entirely
 eudemonistically
 ectorganism
-encases
+encases 1
 eumenidae
 electrotechnologist
 enhydris
