@@ -23250,7 +23250,7 @@ construe
 controversialize
 construer
 cyamus 1
-cardiatomy
+cardiatomy 1
 cohobation
 construes
 ciceroning
