@@ -12730,7 +12730,7 @@ crippingly
 cuisinary
 cabassou
 chultun
-creolism
+creolism 1
 copyism
 chum
 coaxed
