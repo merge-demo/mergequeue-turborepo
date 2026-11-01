@@ -14133,7 +14133,7 @@ equivorous
 existentialize
 eutrophy
 endosternite
-embusqu
+embusqu 1
 exopterygotic 1
 exegetical
 endosiphonal 1
