@@ -6822,7 +6822,7 @@ galeas
 genitival
 geed
 gaposises
-goniatitic
+goniatitic 1
 gowd
 grainman 1
 granma
