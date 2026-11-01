@@ -5291,7 +5291,7 @@ goofer
 gonopod
 generalisation
 gyrencephalate
-goiters
+goiters 1
 gormands 1
 ganoses 1
 gipsyism
