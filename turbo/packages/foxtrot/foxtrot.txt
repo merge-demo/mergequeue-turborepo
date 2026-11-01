@@ -4698,7 +4698,7 @@ fantasticate
 flet
 frettage
 fictation
-frumentarious
+frumentarious 1
 flabbergast 1
 forkfuls
 fougue
