@@ -3465,7 +3465,7 @@ gewgawry
 gyrfalcon
 gigantological
 gestatory 1
-geriatric
+geriatric 1
 graphonomy 1
 genipaps
 gnathotheca 1
