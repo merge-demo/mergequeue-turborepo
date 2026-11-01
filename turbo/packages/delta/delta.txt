@@ -11080,7 +11080,7 @@ disarray 1
 dictatorial
 downflow
 disarrays 1
-disarranges 1
+disarranges 2
 do
 discernibility 1
 dulled
