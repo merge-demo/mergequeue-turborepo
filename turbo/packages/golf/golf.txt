@@ -8250,7 +8250,7 @@ graphophone
 grossulariaceae
 graphophonic
 gasteria
-graphoscope
+graphoscope 1
 glycoprotein
 grinderies
 gamestress 1
@@ -9040,7 +9040,7 @@ gerent 1
 gripper
 girthline 1
 glutination
-gyres
+gyres 1
 gease
 graveyards 1
 glaucomys 1
