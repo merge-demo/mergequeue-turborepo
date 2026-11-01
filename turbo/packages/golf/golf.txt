@@ -5181,7 +5181,7 @@ gynecopathic
 grindery
 grissons
 gambian 1
-gloamings
+gloamings 1
 gaited 1
 gemmipara
 golgi

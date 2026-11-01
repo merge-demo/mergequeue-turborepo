@@ -10823,7 +10823,7 @@ diletant
 dashwheel
 diadematoida
 desmidiaceous
-digit
+digit 1
 dislicense
 dynameter
 darkest
