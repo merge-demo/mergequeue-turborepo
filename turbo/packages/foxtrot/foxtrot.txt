@@ -827,7 +827,7 @@ florilege 3
 faucial
 fumingly 1
 faun
-fenny
+fenny 1
 ferratin
 frogeyes
 fishberries
