@@ -2300,7 +2300,7 @@ diabrotica
 determinists 1
 decke 1
 diethylstilbestrol
-demidolmen
+demidolmen 1
 downwash
 diazoaminobenzene 1
 deceptively

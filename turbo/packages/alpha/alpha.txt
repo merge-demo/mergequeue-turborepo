@@ -20052,7 +20052,7 @@ adjourns
 auriscopically
 aromatics
 autochthonal
-adscripted
+adscripted 1
 aromatised
 afterburner
 anchoret
