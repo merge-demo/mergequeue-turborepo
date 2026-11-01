@@ -2692,7 +2692,7 @@ flaggella 1
 factorization
 fouette
 fervor
-flanks
+flanks 1
 flamenco
 frondous
 fruitive 1
