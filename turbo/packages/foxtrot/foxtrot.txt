@@ -2311,7 +2311,7 @@ fens
 fluctuates
 furrowless
 frangipane
-fensive
+fensive 1
 flippest
 furner
 falbalas
