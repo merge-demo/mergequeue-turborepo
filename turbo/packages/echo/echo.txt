@@ -6683,7 +6683,7 @@ expertising 1
 entosclerite
 eulogiser 2
 extroverts
-ecrevisse
+ecrevisse 1
 epulis
 espundia
 epitaphic
