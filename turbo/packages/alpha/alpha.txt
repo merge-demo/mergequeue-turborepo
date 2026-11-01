@@ -16721,7 +16721,7 @@ amylometer
 anterointerior
 accur
 aluniferous 1
-ametaboly
+ametaboly 1
 anthophagy 1
 aciculums
 aphemia
