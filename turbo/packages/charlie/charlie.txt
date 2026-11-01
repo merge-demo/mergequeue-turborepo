@@ -19336,7 +19336,7 @@ clothing
 coloradan
 collies
 colorado 1
-chagrin
+chagrin 1
 celestinian
 chorioretinitis
 coloradoite
