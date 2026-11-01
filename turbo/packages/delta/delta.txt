@@ -10263,7 +10263,7 @@ diolefins
 diomate
 discoglossoid 1
 dibucaine 1
-delightingly
+delightingly 1
 dearly
 darks
 draftmanship
@@ -15300,7 +15300,7 @@ dorididae
 dumpty
 diabolical 1
 delusory
-dwamish
+dwamish 1
 dolores
 decemflorous
 dispenditure
