@@ -12341,7 +12341,7 @@ deepening
 decempartite
 didymiums
 decoagulation
-dishaunt
+dishaunt 1
 draughtmanship 1
 duddery
 deflationary
