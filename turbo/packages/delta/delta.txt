@@ -12953,7 +12953,7 @@ dicephalous 1
 demons
 dosimetrician
 differers
-demihague
+demihague 1
 disks
 doddard 1
 dyschromatoptic
