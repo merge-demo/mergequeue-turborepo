@@ -10999,7 +10999,7 @@ floricin
 fumatoria
 flob
 focusses
-frontispiecing
+frontispiecing 1
 fumbled 1
 farde 1
 fausen
