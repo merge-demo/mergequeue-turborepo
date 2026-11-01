@@ -5212,7 +5212,7 @@ affector
 antagonisation
 accoast
 affeerer
-aum
+aum 1
 antichristianly
 almendron
 ampulated
@@ -9307,7 +9307,7 @@ anamorphous
 astragaloscaphoid
 acapulco
 ateba
-analyser
+analyser 1
 afflate
 ambeer
 abasements
