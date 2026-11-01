@@ -2836,7 +2836,7 @@ glyoxaline
 gether
 genu
 grillers
-gastrosophy
+gastrosophy 1
 gynaecic 1
 geogenous
 gater
