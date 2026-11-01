@@ -8602,7 +8602,7 @@ diapsida
 dyskinetic
 deathin 1
 dyarchy
-deadbeat
+deadbeat 1
 dehydrant
 drainless
 duckhouse
