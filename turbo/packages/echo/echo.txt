@@ -108,7 +108,7 @@ ecphoria
 eusteles
 eaves
 exsculptate
-egotistically
+egotistically 1
 eartab
 exodermal
 euphonised
