@@ -3542,7 +3542,7 @@ gilbertian 1
 glossa
 gambolled 1
 glare 1
-goniaster
+goniaster 1
 gnomelike
 gregarinaria
 gavial
