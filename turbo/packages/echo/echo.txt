@@ -7055,7 +7055,7 @@ efficiency
 enlinked
 enshell
 entoiling
-enunciability
+enunciability 1
 etymologer 1
 euphemous 1
 eer
@@ -10419,7 +10419,7 @@ ergosterin
 electroreduction 1
 endomyces
 engraved
-enstatitite
+enstatitite 1
 estruation 1
 etymologization 1
 edentalous
