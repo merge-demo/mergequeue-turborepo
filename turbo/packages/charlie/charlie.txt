@@ -28564,7 +28564,7 @@ curliness
 coelelminthic
 countershear
 credulity
-cardiosclerosis
+cardiosclerosis 1
 credulities
 carabin
 creed

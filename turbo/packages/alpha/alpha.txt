@@ -24603,7 +24603,7 @@ agre
 apotheosize 1
 amantadine
 associateship
-avalanches
+avalanches 1
 actless
 aquaplaner
 absolve
