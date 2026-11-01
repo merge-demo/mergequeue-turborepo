@@ -9073,7 +9073,7 @@ brontephobia
 besmuts
 biometries 1
 bion
-byon
+byon 1
 bionditional
 bionics
 brachyprosopic
@@ -15614,7 +15614,7 @@ bussy
 benzopyranyl
 barbule 2
 boardable
-brisking 1
+brisking 2
 briss
 backwoodsman
 bolsterer
