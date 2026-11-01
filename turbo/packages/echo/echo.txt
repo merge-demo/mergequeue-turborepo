@@ -1620,7 +1620,7 @@ epiblastic
 egressed
 egresses 1
 extraphysiological
-expounded
+expounded 1
 egret
 exsanguine
 exportation
