@@ -1093,7 +1093,7 @@ buzzards
 burghal
 bailors
 birdlimed
-bomos
+bomos 1
 borosalicylate
 bailey
 becense
