@@ -6626,7 +6626,7 @@ finewed 1
 faence
 fofarraw 1
 fortifier
-faqirs
+faqirs 1
 feted
 flyblow
 flores
