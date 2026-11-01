@@ -9644,7 +9644,7 @@ gyroidally
 gastrojejunostomies
 grueled 1
 ghana
-guipures
+guipures 1
 gamogony
 gibuses
 griotte
