@@ -1493,7 +1493,7 @@ gasterolichenes
 grainier
 guittonian
 gonopores 1
-garners
+garners 1
 garotted
 goutish
 gaolage
