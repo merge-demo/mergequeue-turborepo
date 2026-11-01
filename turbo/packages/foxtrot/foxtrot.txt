@@ -6533,7 +6533,7 @@ flunkeyism
 feltness 1
 frounce
 flammulation
-flexile
+flexile 1
 forthcomer
 flatteners
 frocks
