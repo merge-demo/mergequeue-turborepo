@@ -9307,7 +9307,7 @@ anamorphous
 astragaloscaphoid
 acapulco
 ateba
-analyser
+analyser 1
 afflate
 ambeer
 abasements
