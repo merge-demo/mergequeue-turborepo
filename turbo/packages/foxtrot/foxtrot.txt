@@ -3743,7 +3743,7 @@ furoate
 failure
 fibula
 fjorgyn
-fogyish
+fogyish 1
 fulls
 fally
 fascinatingly 1
