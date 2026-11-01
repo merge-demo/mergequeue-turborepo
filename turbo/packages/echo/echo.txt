@@ -7404,7 +7404,7 @@ encheat
 escarpment
 eternalizing
 eperua 1
-embitters
+embitters 1
 enterprises 1
 enworthed
 epistrophe
@@ -12719,7 +12719,7 @@ etchers 1
 exalted
 exophthalmia
 embloom
-epibolism
+epibolism 1
 endarchies
 exenterating
 exophthalmus
