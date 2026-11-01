@@ -18364,7 +18364,7 @@ cognisable
 chiragrical
 catholicized
 calpulli
-corporal
+corporal 1
 coenosarcal
 concomitate
 cognisant
