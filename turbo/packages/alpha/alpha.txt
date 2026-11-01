@@ -5212,7 +5212,7 @@ affector
 antagonisation
 accoast
 affeerer
-aum
+aum 1
 antichristianly
 almendron
 ampulated
