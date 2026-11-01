@@ -7942,7 +7942,7 @@ dextral 1
 directed
 dextran
 dextranase
-doublelunged
+doublelunged 1
 disallowable
 downsteepy
 diuresis
