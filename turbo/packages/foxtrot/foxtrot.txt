@@ -1042,7 +1042,7 @@ foussa 1
 fulfill
 farmeress
 fireling
-flerrying
+flerrying 1
 farmerly 2
 funambulating
 forrel
@@ -7514,7 +7514,7 @@ fortuuned 1
 foreclosure
 fevering 1
 fodientia 1
-forecommend
+forecommend 1
 foreconclude
 flagonet
 figworts
