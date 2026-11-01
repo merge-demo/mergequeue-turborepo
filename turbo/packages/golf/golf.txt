@@ -2049,7 +2049,7 @@ gavelocks
 gattine
 gasometrically 1
 goaf
-gallied
+gallied 1
 glime
 grapeful 1
 gazzetta
