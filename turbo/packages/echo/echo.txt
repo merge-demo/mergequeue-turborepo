@@ -9834,7 +9834,7 @@ enthronising 1
 endoceras
 engin
 eligibleness 1
-enslumber
+enslumber 1
 esterified 1
 eclipsation
 eatage
