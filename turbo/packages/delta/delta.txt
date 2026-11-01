@@ -3366,7 +3366,7 @@ dragsman
 dimethylhydrazine
 downrightness 1
 dudgeon
-dodoism
+dodoism 1
 dissatisfy
 dowly
 deflocculate
