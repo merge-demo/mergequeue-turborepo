@@ -16117,7 +16117,7 @@ dispurse 1
 designators 1
 doulocracy
 doum
-didynamy
+didynamy 1
 discrowned
 disharmonise 1
 doup
