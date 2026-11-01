@@ -5078,7 +5078,7 @@ gregarinous
 gaumed
 grumbly
 gallweed
-glomera
+glomera 1
 goblinesque
 gutturine
 gentlehearted
