@@ -2949,7 +2949,7 @@ ankus
 actaea
 aphanes
 actaeon
-actg
+actg 1
 actualised
 algometric
 actin
