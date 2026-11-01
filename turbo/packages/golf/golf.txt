@@ -5253,7 +5253,7 @@ gangsters
 gammaroid
 goodman
 globularly
-gutturalism
+gutturalism 1
 gingals
 glaived
 gourds
