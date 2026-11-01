@@ -6371,7 +6371,7 @@ eprouvette
 enshrined
 enshrinement 1
 embars
-enshrinements
+enshrinements 1
 endovaccination
 ephebe
 expenseful 1
