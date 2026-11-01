@@ -633,7 +633,7 @@ gradatory
 gobi
 guenepe
 guideline
-galvanist
+galvanist 1
 gramineal
 geodetic
 genarchship 1
