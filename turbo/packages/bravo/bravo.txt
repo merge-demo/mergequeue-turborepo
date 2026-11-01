@@ -15614,7 +15614,7 @@ bussy
 benzopyranyl
 barbule 2
 boardable
-brisking 1
+brisking 2
 briss
 backwoodsman
 bolsterer
