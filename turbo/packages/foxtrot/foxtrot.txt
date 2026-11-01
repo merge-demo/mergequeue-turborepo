@@ -8912,7 +8912,7 @@ feverwort
 filament
 favositoid
 formally
-felty
+felty 1
 fourier
 fanglet
 fourierism
