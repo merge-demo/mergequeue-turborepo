@@ -5340,7 +5340,7 @@ afformative
 abuseful
 affrayers
 affraying 2
-affrays
+affrays 1
 admeasured
 affranchise
 automen
