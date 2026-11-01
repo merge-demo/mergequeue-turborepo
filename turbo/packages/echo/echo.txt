@@ -12236,7 +12236,7 @@ equipment
 epanalepsis
 eclogue 1
 executress
-elshin 1
+elshin 2
 exsurge
 exch
 endosteal
