@@ -4176,7 +4176,7 @@ geysers
 gaillard
 gynandria
 gladiators
-glairiness 1
+glairiness 2
 grovelling
 gonoblast
 gumptionless
