@@ -11768,7 +11768,7 @@ anileness 1
 avoure
 appraisal
 anagyrine
-anagyris
+anagyris 1
 anaglyph
 annulism
 anisopleural
