@@ -29613,7 +29613,7 @@ commutableness
 columbanian
 crociate
 crocidura
-cosinesses
+cosinesses 1
 crock
 clashy 1
 cantative
