@@ -13978,7 +13978,7 @@ discohexaster
 doryphorus
 diactin
 daubreelite
-deys
+deys 1
 dephilosophize
 daubed
 distomes
