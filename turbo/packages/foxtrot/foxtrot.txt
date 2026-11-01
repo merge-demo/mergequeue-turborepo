@@ -3183,7 +3183,7 @@ filariidae 1
 freeholds
 frosh
 fickle 1
-fixage
+fixage 1
 fiches
 findjan 2
 feracious
@@ -9144,7 +9144,7 @@ fruiterer
 fasciotomy
 finitudes
 fascinations 1
-foveoles
+foveoles 1
 furcating
 footled
 fries 1
