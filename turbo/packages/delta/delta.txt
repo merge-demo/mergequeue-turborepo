@@ -1333,7 +1333,7 @@ daunted
 dhobies
 daunters
 daffy
-dermostenosis
+dermostenosis 1
 dipentine
 demissive
 draftsperson
