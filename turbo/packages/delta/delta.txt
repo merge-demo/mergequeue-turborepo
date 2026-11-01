@@ -18510,7 +18510,7 @@ durbachite
 dustwoman
 diocesans
 decolonisation
-disownable
+disownable 1
 distortional
 demisavage
 dissilition
