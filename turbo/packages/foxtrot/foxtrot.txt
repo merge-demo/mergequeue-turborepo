@@ -1851,7 +1851,7 @@ farcicality
 funambulate
 foreign
 frilly
-feastless
+feastless 1
 febrific 1
 feloid 1
 febrile
