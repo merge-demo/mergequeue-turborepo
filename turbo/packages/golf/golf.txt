@@ -5848,7 +5848,7 @@ gestening 1
 galvaniser 1
 glassless
 gynephobia
-gluttonize
+gluttonize 1
 grown
 gomerels
 gunneries
