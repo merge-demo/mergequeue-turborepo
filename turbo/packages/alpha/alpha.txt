@@ -24508,7 +24508,7 @@ autrefois
 autunites
 acroconidium
 auxanogram
-auxanometer
+auxanometer 1
 ayubite
 auxeses 1
 altercative 1
