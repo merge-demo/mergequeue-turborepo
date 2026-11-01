@@ -1420,7 +1420,7 @@ diapering
 dioptrate
 dogly
 dehydrogenates
-disassimilated
+disassimilated 1
 dicarbonic
 dealcoholist
 deflationist
