@@ -9144,7 +9144,7 @@ fruiterer
 fasciotomy
 finitudes
 fascinations 1
-foveoles
+foveoles 1
 furcating
 footled
 fries 1
