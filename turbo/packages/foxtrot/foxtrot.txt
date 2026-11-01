@@ -6485,7 +6485,7 @@ frailish
 flutist
 frenchman
 firebed
-forecover
+forecover 1
 fricasseed
 faucal
 fluotantalate
