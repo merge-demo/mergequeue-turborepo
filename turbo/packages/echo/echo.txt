@@ -12895,7 +12895,7 @@ excommunicating
 elvish
 eserines
 extorting 1
-erastus
+erastus 1
 expandible
 editions
 envenoms
