@@ -6325,7 +6325,7 @@ eschar
 euchred
 ensphered
 eyespot 1
-enseal
+enseal 1
 embryotegae
 estancias
 esophoric
