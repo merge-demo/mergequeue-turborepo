@@ -9258,7 +9258,7 @@ guidebook
 gelatiniser
 gi
 geodynamicist
-glandular 1
+glandular 2
 grapeline
 girnel 1
 gallowglass
