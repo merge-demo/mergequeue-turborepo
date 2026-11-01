@@ -10321,7 +10321,7 @@ alumine
 amen
 agathosma
 ammonocarbonic
-amenability
+amenability 1
 atoll
 allocaffeine
 amenably 1
