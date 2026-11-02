@@ -2388,7 +2388,7 @@ fantods
 flycatcher
 fervidor
 formicivorous
-filtrable
+filtrable 1
 fingernail
 flanged 1
 finnip
@@ -8899,7 +8899,7 @@ faroeish
 flimsily
 favorers 1
 frenchy 1
-frostbiting
+frostbiting 1
 fusiformis
 floit
 flywort

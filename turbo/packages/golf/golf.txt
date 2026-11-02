@@ -10168,7 +10168,7 @@ guato
 genres
 guidepost
 geostrategist
-gurneyite
+gurneyite 1
 gerusia
 gastropathy
 giglots
