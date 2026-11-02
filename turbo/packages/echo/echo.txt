@@ -6788,7 +6788,7 @@ enneatic
 encinillo 1
 escribing
 eutrophies
-exostema
+exostema 1
 elaphine
 enrooted
 euaster

@@ -1933,7 +1933,7 @@ anamirtin
 acetylization
 ammonization
 airflows
-aviso
+aviso 1
 acetylizer
 anterofrontal
 acetylizing
@@ -12807,7 +12807,7 @@ anetholes
 anglophilia
 antiricin
 angioid
-amentum
+amentum 1
 anisocytosis
 antimilitarist
 angiokeratoma
