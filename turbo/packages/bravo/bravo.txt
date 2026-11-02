@@ -15030,7 +15030,7 @@ bredbergite 1
 baumhauerite
 bredes
 blindfoldedly
-bunnell
+bunnell 1
 bredestitch
 butyls
 burtons
@@ -17417,7 +17417,7 @@ byerite
 bushbaby
 blindest
 bestriding 2
-bassoon
+bassoon 1
 berserker
 bluebird
 blotchier

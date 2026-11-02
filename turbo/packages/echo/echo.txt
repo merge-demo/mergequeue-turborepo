@@ -4051,7 +4051,7 @@ elsewhen
 evangelizes
 executrices
 epipodial 1
-ex
+ex 1
 enringing
 evangelised
 encyclopaedism 2
@@ -6619,7 +6619,7 @@ exoderms
 enthralled
 entomophagan 1
 exchangite
-escambron
+escambron 1
 enteroischiocele
 enlacement 1
 expergefacient
