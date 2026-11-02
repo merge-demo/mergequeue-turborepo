@@ -8677,7 +8677,7 @@ epiglottides
 emendations
 equipoise
 endophyllous
-erotical
+erotical 1
 euphemizing 1
 epilepsy
 excite
