@@ -17008,7 +17008,7 @@ bulblike
 biacetyl 1
 biochore
 boldfacedness
-beliing
+beliing 1
 bimotor
 beleaguered 1
 bulbously
