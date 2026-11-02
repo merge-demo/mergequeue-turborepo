@@ -6582,7 +6582,7 @@ desert
 despiteful
 darkroom 1
 deescalated
-deacidification
+deacidification 1
 denotational
 dissentism
 desorb
