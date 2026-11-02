@@ -10758,7 +10758,7 @@ elasticate
 egling
 embryomas
 eumemorrhea
-enface
+enface 1
 englishwoman
 entrapped
 epharmony 1
