@@ -11564,7 +11564,7 @@ bourrasque
 blunger
 blunk
 berrypicker
-bdellid
+bdellid 1
 blameworthiness
 barer
 boswellism
