@@ -2988,7 +2988,7 @@ basiation
 bolthole
 bisiliquous
 barophobia
-barricoes
+barricoes 1
 barrigudos
 barrikin
 babouche
