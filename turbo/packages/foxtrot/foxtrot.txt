@@ -3397,7 +3397,7 @@ fodda
 fortressed
 farcie
 fanfaronading
-fungible
+fungible 1
 floc
 flecker
 featherlike
