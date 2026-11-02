@@ -216,7 +216,7 @@ bradyesthesia
 banditries
 brainpower
 biofog 1
-bandicoot
+bandicoot 1
 baccy
 banishments
 bacciferous
