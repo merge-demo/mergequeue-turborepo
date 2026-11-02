@@ -6548,7 +6548,7 @@ frothily
 founders
 floodway
 fiends 1
-floristically
+floristically 1
 fingerstone 1
 fascioliasis
 feelies
