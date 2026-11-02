@@ -6381,7 +6381,7 @@ flibbertigibbet
 freshish
 farmed
 facsimileing
-foppish
+foppish 1
 farset
 fluorimetric
 fluorobenzene
@@ -9224,7 +9224,7 @@ fleuret 1
 fourchet
 friesic
 fruiter 1
-fayalites
+fayalites 1
 freckling
 frangipani 1
 frizers 1
