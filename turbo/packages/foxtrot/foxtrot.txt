@@ -3835,7 +3835,7 @@ formicary
 fiberscope
 filiopietistic 1
 forgiveable 1
-fungistat
+fungistat 1
 flavanthrene
 forjudging
 favous
