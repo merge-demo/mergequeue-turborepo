@@ -6110,7 +6110,7 @@ fishlines
 fabrique
 footblower
 fallibilism
-flouted
+flouted 1
 fumarole
 fulminations
 fretish 1
