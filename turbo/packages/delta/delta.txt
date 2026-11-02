@@ -13541,7 +13541,7 @@ disseat
 disgood
 diphyodont
 donnism
-daredeviltry
+daredeviltry 1
 datelines
 doumas
 diving 1
