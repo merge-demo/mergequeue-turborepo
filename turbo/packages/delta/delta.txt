@@ -5872,7 +5872,7 @@ dimethylnitrosamine
 deceiver
 disconcerts
 davy
-dingly
+dingly 1
 damascening
 dianthus
 destalinize
