@@ -14142,7 +14142,7 @@ episcopates 1
 ebonizing
 ephemerality
 enseraph
-enplanement
+enplanement 1
 emulates
 enlard 1
 entocuneiform
