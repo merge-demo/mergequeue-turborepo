@@ -13861,7 +13861,7 @@ defoliated 1
 distastefulness 1
 denom
 displuviate
-dross
+dross 1
 deplorate
 displaces
 donee
