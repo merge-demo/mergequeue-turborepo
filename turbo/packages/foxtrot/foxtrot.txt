@@ -5029,7 +5029,7 @@ fumatory 1
 forekeel
 fragrance
 faconne 1
-fulmarus
+fulmarus 1
 flapdock
 familiarized
 flowered 1
