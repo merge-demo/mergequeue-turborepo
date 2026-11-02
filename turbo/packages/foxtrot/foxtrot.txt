@@ -7081,7 +7081,7 @@ fibrillae
 fuscous
 fulminic 1
 football
-flaglet
+flaglet 1
 frowning
 feh
 frigid 1
