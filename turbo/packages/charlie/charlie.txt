@@ -5550,7 +5550,7 @@ catalepsis
 catalexes
 camacey
 corrodentia
-catalexis
+catalexis 1
 catalin
 curule
 cauponation
