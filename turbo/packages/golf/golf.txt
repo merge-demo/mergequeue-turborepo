@@ -1886,7 +1886,7 @@ gentilesse
 gatherers
 gemlike
 galumph
-gooma
+gooma 1
 gamenesses 1
 graveside
 grecale 1
