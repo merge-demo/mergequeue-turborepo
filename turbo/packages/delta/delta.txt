@@ -229,7 +229,7 @@ domba
 daggar
 dualities
 dyssynergia
-daggerproof
+daggerproof 1
 diskettes
 dagging
 disavaunce
