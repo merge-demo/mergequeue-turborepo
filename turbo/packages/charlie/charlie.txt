@@ -14190,7 +14190,7 @@ clumplike
 ccesser
 circumforaneous
 circumfulgent
-coast
+coast 1
 conrector
 circumgenital
 clubhouse
