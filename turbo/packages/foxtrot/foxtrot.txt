@@ -6772,7 +6772,7 @@ faithfuls
 finmark
 forams
 fungin
-forewonted
+forewonted 1
 freelancer 1
 folderols
 foreheater
