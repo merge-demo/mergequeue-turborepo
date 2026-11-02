@@ -11152,7 +11152,7 @@ chlamydobacteriales
 clamours
 chlamydosaurus
 chlamydozoan
-chlamyphore
+chlamyphore 1
 carroting
 chlamyphorus
 chlamyses
