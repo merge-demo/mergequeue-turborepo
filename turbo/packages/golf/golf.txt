@@ -7569,7 +7569,7 @@ grille
 glycosaemia
 gambians
 grab 1
-guanamine
+guanamine 1
 gullibility
 guarantied
 gopherman
