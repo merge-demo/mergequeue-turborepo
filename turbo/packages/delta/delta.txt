@@ -5590,7 +5590,7 @@ disaugment
 discommodate
 dispiritedness
 depilating
-depilatories
+depilatories 1
 deists
 discos
 decerniture
