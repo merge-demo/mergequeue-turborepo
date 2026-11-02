@@ -7619,7 +7619,7 @@ gleaminess 1
 gusher
 geospiza
 grandeza
-goals
+goals 1
 germinancy
 gramarye
 gastropyloric
