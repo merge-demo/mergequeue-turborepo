@@ -2133,7 +2133,7 @@ blanca
 bosch 1
 brouillon
 bulging
-barring
+barring 1
 borofluoride 1
 bantayan
 bulbous
