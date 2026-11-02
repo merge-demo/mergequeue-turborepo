@@ -4528,7 +4528,7 @@ galloper
 goobers
 germane 1
 gagger
-grinter
+grinter 1
 gladiole
 guardrail 1
 garotter
@@ -9915,7 +9915,7 @@ gymnite
 giddea 2
 gulleting
 gambir
-guardable
+guardable 1
 gastroparalysis
 greening
 gathered 1
