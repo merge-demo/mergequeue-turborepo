@@ -1973,7 +1973,7 @@ exanimation
 extraperitoneal
 ecstatically
 ekasilicon
-euthamia
+euthamia 1
 exteriorate
 elastics
 eluviated
@@ -5682,7 +5682,7 @@ expectorants
 eustacies
 emendator
 eflagelliferous
-eppie
+eppie 1
 extraventricular
 extras
 episcopalism
