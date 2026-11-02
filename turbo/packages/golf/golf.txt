@@ -3400,7 +3400,7 @@ geometrized 1
 glossolaryngeal
 globularia 1
 gourmets
-grappled
+grappled 1
 gerrymander
 gorgons
 goldwater
@@ -7343,7 +7343,7 @@ gramas 1
 grisettish
 granulosis
 gamming
-gullishness
+gullishness 1
 glisky
 gardenful
 gossipped
