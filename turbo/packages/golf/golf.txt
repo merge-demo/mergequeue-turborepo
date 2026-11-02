@@ -1613,7 +1613,7 @@ glassteel
 grimly
 grimines
 glibness 1
-geratologous
+geratologous 1
 gaskin
 grists
 grants 1
