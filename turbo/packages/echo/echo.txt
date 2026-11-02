@@ -6674,7 +6674,7 @@ ecosystems
 enterozoon
 enterprise
 exploitations
-elongations
+elongations 1
 enterprize
 egestion 2
 earlish 1
