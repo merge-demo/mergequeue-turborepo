@@ -2762,7 +2762,7 @@ dop 2
 disharmonize
 decremeter
 dicyemida
-demarches
+demarches 1
 degass
 duodecahedral
 drypoints 1
