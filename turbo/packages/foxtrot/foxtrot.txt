@@ -4538,7 +4538,7 @@ fishgigs 1
 fatiguing
 fissuring
 flagellation
-fruitcake
+fruitcake 1
 forethinker 1
 flotations
 foolable
