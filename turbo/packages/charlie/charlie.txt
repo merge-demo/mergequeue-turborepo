@@ -10802,7 +10802,7 @@ ceorls
 chinoleine
 chinoline
 clowring 2
-chinologist
+chinologist 1
 chinone
 chinook
 chinookan
