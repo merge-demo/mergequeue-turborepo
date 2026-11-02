@@ -13605,7 +13605,7 @@ enteroceptor 1
 endosteomas
 embrued
 extance
-elkanah
+elkanah 1
 eisegesis
 edriophthalmian 1
 encyclopaedically

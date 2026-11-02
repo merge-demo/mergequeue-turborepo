@@ -6066,7 +6066,7 @@ girja
 gardinol 1
 gulleries
 gyrous
-gurniad
+gurniad 1
 genuflections 1
 gastroid
 geissorhiza
