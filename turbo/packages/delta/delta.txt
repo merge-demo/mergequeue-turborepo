@@ -5627,7 +5627,7 @@ disparities
 dishearteningly
 delthyrium
 deploy
-deprogrammer
+deprogrammer 1
 desipramine
 despotic
 deltoids
