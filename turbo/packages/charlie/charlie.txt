@@ -2317,7 +2317,7 @@ curatial
 canaliculate
 ceremoniously
 canaliculated
-capricorns
+capricorns 1
 coffining
 coendear
 corector
