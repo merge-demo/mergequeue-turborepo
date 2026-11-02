@@ -7962,7 +7962,7 @@ golgotha 1
 gainer
 guttee
 globosity 2
-glouts 1
+glouts 2
 goodhap
 galleyman
 gabblement
