@@ -267,7 +267,7 @@ fatidic
 filander
 felsic 1
 fairly
-folk 2
+folk 3
 fotive
 fideist
 flashiest 1
