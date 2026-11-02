@@ -6591,7 +6591,7 @@ alada
 anchoresses
 autobolide
 aphroditeum
-antsy
+antsy 1
 aiglets
 affirms
 aigre
