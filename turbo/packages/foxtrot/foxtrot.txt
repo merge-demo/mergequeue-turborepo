@@ -8660,7 +8660,7 @@ filii
 fourness
 flunkeyish
 fiendhead
-frightsome
+frightsome 1
 fogydom 1
 faith
 fortieth
