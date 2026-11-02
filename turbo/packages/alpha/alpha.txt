@@ -15716,7 +15716,7 @@ aggravatingly
 antipatriarch 1
 antipatriarchy
 apimania
-aurinasal
+aurinasal 1
 antipatriot
 antipatriotic 1
 afterfermentation
