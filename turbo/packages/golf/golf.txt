@@ -3590,7 +3590,7 @@ gladen 1
 glaumrie
 guanylic 2
 granilla
-goglets
+goglets 1
 glottalize
 gigantal 1
 gld
