@@ -3046,7 +3046,7 @@ agonia
 actinomycete
 allogeneity
 analcime
-actinomycosistic
+actinomycosistic 1
 alacrify 1
 aphrodisiac
 ambreate
