@@ -193,7 +193,7 @@ genetrix
 grangerizer
 goaled
 gelandejump
-gabarit
+gabarit 1
 gammacism
 gelled
 garred
