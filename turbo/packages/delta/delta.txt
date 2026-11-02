@@ -11225,7 +11225,7 @@ delouses
 donnybrooks
 disbury
 diosmose 1
-definitively
+definitively 1
 dogstail
 disburse
 disillusionist
