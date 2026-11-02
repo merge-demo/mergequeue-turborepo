@@ -3776,7 +3776,7 @@ fibrinolyses
 fixated 2
 firefangs
 freya 1
-flawiest
+flawiest 1
 ferroconcretor
 fraterniser
 flyflap 1
