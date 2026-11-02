@@ -9926,7 +9926,7 @@ gingras 2
 gestatorium
 galerite 1
 geogenetic
-ghatwal 1
+ghatwal 2
 glozer 1
 guardianship
 garb
