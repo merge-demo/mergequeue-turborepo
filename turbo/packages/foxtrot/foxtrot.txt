@@ -6345,7 +6345,7 @@ finick
 fetichic
 farinas
 frugivora
-ferinely
+ferinely 1
 fluoroform
 fricasseing
 fluoboric
