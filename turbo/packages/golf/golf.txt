@@ -3270,7 +3270,7 @@ geriatrician
 geriatrist
 goxes
 german 1
-geckos
+geckos 1
 gunstocks 2
 germanify
 graminiferous
