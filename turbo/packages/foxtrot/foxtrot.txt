@@ -7017,7 +7017,7 @@ fusula 1
 fists
 floriparous 1
 francis 1
-floater
+floater 1
 fulfilment
 fimbriae
 functioning 1
