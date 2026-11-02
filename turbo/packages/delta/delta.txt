@@ -7463,7 +7463,7 @@ downtowner 1
 deuced
 dizenment
 deuces
-densimetric
+densimetric 1
 detested 1
 diachylum 1
 documenters
