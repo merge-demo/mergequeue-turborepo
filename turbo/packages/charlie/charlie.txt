@@ -9279,7 +9279,7 @@ chauchat
 ceratophyllaceae
 cuorin
 coxing
-conjunctive
+conjunctive 1
 chauffage
 chauffer
 chauffeured
