@@ -3606,7 +3606,7 @@ degold 1
 decathlon
 disinhibition
 decomposite 1
-dysteleological
+dysteleological 1
 degorge
 degradative
 degraded
@@ -6582,7 +6582,7 @@ desert
 despiteful
 darkroom 1
 deescalated
-deacidification
+deacidification 1
 denotational
 dissentism
 desorb
