@@ -5848,7 +5848,7 @@ edwardine
 eudaemonistical 1
 elia
 endless
-esox
+esox 1
 engrandize
 ebrillade
 ectogeneous
@@ -11737,7 +11737,7 @@ ephraim
 ephydrid
 euplocomi
 engoue
-erysipelous
+erysipelous 1
 epanadiplosis
 elusory
 excavating

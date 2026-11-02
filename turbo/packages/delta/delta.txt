@@ -9856,7 +9856,7 @@ decolonising
 daturic
 deuteronomist 1
 dimeride 1
-dampproofer
+dampproofer 1
 diosgenin 1
 dumba
 dynamic
