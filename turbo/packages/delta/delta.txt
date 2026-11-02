@@ -558,7 +558,7 @@ disbursable
 disfranchiser
 damaskeen
 dod
-dynamoneure
+dynamoneure 1
 denounces
 diethylmalonylurea
 disenthralment 1
@@ -10527,7 +10527,7 @@ disserviceableness 1
 ddname
 derate
 doorsills
-diceratidae
+diceratidae 1
 diazotate
 deipotent
 dimpling
