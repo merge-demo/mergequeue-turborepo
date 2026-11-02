@@ -1835,7 +1835,7 @@ gentile
 groupage
 gasparillo
 grasses
-glutenous
+glutenous 1
 gates
 generalcies
 gemmules
