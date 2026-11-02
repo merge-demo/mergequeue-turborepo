@@ -976,7 +976,7 @@ abstains
 antiserum
 assis
 atlantomastoid
-abstemiousness 1
+abstemiousness 2
 abstentionism
 addis
 anaptyctical

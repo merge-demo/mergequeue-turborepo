@@ -8801,7 +8801,7 @@ dyspraxia
 dibbing
 depolarizers 1
 deliberates
-deterring
+deterring 1
 drachmas
 degame
 donkeyman
