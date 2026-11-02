@@ -6331,7 +6331,7 @@ burying
 baltic
 benthamism
 blurping
-benthic
+benthic 1
 barbar
 bagfuls
 bevors
