@@ -11298,7 +11298,7 @@ firstborn
 flaxwife
 frigorify
 femmes
-fogy
+fogy 1
 foolhardiest
 fiscalize
 flurrying 1
