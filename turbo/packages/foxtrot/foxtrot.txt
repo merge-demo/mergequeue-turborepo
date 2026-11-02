@@ -9499,7 +9499,7 @@ flask
 foveate 2
 fishmeals
 fermenter 1
-freckle
+freckle 1
 furnace
 fieldmouse
 fruitfullness
