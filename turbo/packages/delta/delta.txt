@@ -3486,7 +3486,7 @@ dagobas
 dufoil
 drapery
 drowsiest
-defrauds
+defrauds 1
 defrocked
 derogately 1
 dispensational
