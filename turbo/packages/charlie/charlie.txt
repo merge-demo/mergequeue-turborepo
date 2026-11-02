@@ -16946,7 +16946,7 @@ clusiaceous
 chuter
 chlorosilicate 1
 chancer
-chorio
+chorio 1
 carbocer
 comparable
 clustered
