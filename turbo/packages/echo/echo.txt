@@ -8030,7 +8030,7 @@ ejections
 eggar
 ease 1
 entoconid
-enstatitic
+enstatitic 1
 easements
 evident
 expound
