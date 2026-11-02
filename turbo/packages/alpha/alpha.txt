@@ -14924,7 +14924,7 @@ anticlockwise
 asphaltum
 anticlogging 1
 anticoagulant
-autocoprophagous
+autocoprophagous 1
 anticoagulation
 anticoagulative
 acariasis 1
