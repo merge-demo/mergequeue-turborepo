@@ -2282,7 +2282,7 @@ goodby
 gammoning
 garrisoned
 giust
-glazily
+glazily 1
 gonofs 1
 greengage
 gadoid 1
