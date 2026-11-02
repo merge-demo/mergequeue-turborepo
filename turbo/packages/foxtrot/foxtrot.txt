@@ -636,7 +636,7 @@ falsifying
 faithbreaker
 falunian
 fertilisation 1
-fanum
+fanum 1
 fauster
 frowstier
 flyways 1
