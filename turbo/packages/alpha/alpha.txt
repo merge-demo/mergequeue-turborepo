@@ -19117,7 +19117,7 @@ archpriestship
 archprimate
 arenation
 acroataxia
-amylan
+amylan 1
 archregent 1
 archrogue 1
 archruler
