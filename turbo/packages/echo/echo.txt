@@ -1382,7 +1382,7 @@ ennead 1
 enneastylos
 epeidia
 epilaryngeal
-enneandrous
+enneandrous 1
 eubranchipus
 efflagitate
 epitympanic
