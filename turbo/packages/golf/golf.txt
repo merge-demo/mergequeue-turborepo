@@ -1274,7 +1274,7 @@ ged
 gavall
 goethites
 gromatical 1
-gyrator
+gyrator 1
 glyphographer
 gumpus
 grallina
