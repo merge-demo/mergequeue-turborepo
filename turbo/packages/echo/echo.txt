@@ -7438,7 +7438,7 @@ ephestia 1
 enregistering
 emphatical
 encyclicals 1
-ephelcystic
+ephelcystic 1
 eunuchizing
 expenses
 extinguishant
@@ -10897,7 +10897,7 @@ easternize
 enterokinase
 enfin
 encephalocoele
-euktolite
+euktolite 1
 evolutoid 1
 euphory
 enchondrosis 1

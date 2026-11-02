@@ -919,7 +919,7 @@ ferine
 fenberry
 fanwise 1
 fadaise 1
-fleabug 1
+fleabug 2
 fallouts
 ferrate 2
 farad
@@ -1083,7 +1083,7 @@ fingerprint 1
 futiley
 foregame 1
 federates
-farrel
+farrel 1
 figuresome
 ferrumination
 faculae
