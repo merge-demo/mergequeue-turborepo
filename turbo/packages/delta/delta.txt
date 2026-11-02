@@ -1417,7 +1417,7 @@ dichotomized 1
 damnit
 dawk
 diapering
-dioptrate
+dioptrate 1
 dogly
 dehydrogenates
 disassimilated 1
