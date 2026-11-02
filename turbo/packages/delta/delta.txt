@@ -8401,7 +8401,7 @@ diallings
 dehair
 dovefoot
 deliracy
-disciplines
+disciplines 1
 deliveror
 ditties
 dialogers
