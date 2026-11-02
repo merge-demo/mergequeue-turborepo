@@ -5518,7 +5518,7 @@ catacromyodian
 ceratothecal
 cardiological
 catadicrotic
-cronie
+cronie 1
 cursal
 catadicrotism
 cartbote
