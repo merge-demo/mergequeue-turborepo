@@ -16858,7 +16858,7 @@ botchiness
 borderless
 buffeters
 bistros
-bubalises
+bubalises 1
 bradyteleokinesis
 bietle
 bucketman
