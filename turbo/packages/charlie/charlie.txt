@@ -27828,7 +27828,7 @@ cozes
 cerebroside
 caracaras
 cottoneer
-cozie
+cozie 1
 conspect 1
 civiliser
 cp
