@@ -4908,7 +4908,7 @@ fairgrounds
 forebemoan 2
 fusee
 flidder
-freezes
+freezes 1
 frogflower 2
 facetiously
 flatteringly
