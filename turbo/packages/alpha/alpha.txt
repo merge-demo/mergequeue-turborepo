@@ -12033,7 +12033,7 @@ anapterygotism 1
 awe
 anarcestes
 alteregoistic
-abators
+abators 1
 archibuteo
 anarchy
 aerocolpos
