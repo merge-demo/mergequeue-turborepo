@@ -22770,7 +22770,7 @@ atypic
 alkalimetrical
 atis
 apostatized
-atlantal
+atlantal 1
 amated
 accomodate
 akepiros
