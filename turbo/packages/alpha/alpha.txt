@@ -8611,7 +8611,7 @@ aegagropiles 1
 allassotonic
 alleviations
 allatrate
-alfresco
+alfresco 1
 abaction
 autosuggestibility
 antimedicine
