@@ -17752,7 +17752,7 @@ coctile
 chloroformist 1
 cytoderm
 condog
-cocuyo
+cocuyo 1
 cocullo 1
 cocurator 1
 coviello
