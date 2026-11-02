@@ -2421,7 +2421,7 @@ erythematous
 euphausid
 epitaxial
 enapt 3
-etherate
+etherate 1
 earthnut 1
 extinguished
 earmarked
@@ -9595,7 +9595,7 @@ esophago
 esophagogastroscopy
 esophagometer
 emotionalized
-evoked
+evoked 1
 esophagoplasty
 enigmatic
 embodiment
