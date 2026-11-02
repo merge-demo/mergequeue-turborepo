@@ -30187,7 +30187,7 @@ cryptocleidus
 cruciformity
 cruciformly
 crucily
-crucilly
+crucilly 1
 cruck
 cyclize
 crud
@@ -31156,7 +31156,7 @@ cupfulfuls
 canvassing
 cupid
 cupidinous
-cupidities
+cupidities 1
 congealment
 cupidon
 cupiuba
