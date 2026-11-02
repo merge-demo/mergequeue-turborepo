@@ -7892,7 +7892,7 @@ geotic 1
 grubs
 germanically
 gummy
-gripier
+gripier 1
 generalist
 gouged
 geochemistry
