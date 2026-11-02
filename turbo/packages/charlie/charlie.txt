@@ -831,7 +831,7 @@ catachthonian 1
 cayman
 carboniferous
 caimans
-caymans
+caymans 1
 cain
 caynard
 clydesdale
