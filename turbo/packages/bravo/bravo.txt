@@ -5650,7 +5650,7 @@ busings 1
 buccaneers
 belah
 belaying
-bingo
+bingo 1
 bogie
 belam
 bettas
