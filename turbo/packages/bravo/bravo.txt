@@ -7026,7 +7026,7 @@ bankfull
 besmooth
 besmooths
 bicentral 1
-betrust
+betrust 1
 bleeders 1
 basilian
 besmouch
