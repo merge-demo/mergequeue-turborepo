@@ -1973,7 +1973,7 @@ exanimation
 extraperitoneal
 ecstatically
 ekasilicon
-euthamia
+euthamia 1
 exteriorate
 elastics
 eluviated
@@ -11266,7 +11266,7 @@ eviscerating
 endoarteritis
 esophagodynia 1
 excursing
-endue
+endue 1
 epicureanism
 eliquated
 empyrean
