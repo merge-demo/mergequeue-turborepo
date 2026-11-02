@@ -3400,7 +3400,7 @@ geometrized 1
 glossolaryngeal
 globularia 1
 gourmets
-grappled
+grappled 1
 gerrymander
 gorgons
 goldwater
