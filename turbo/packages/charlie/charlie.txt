@@ -10330,7 +10330,7 @@ chickstone
 consultory
 canariote
 chicly
-chicness
+chicness 1
 chantries
 chico 1
 chugalugged
