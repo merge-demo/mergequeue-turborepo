@@ -10449,7 +10449,7 @@ folks
 flodge
 feedhead 1
 fumous
-forfex
+forfex 1
 finnesko
 fescue
 follied
