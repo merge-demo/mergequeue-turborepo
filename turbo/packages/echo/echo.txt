@@ -5526,7 +5526,7 @@ extraocular
 exoterics 1
 espiritual 1
 enfeebles 1
-enfeebling
+enfeebling 1
 epigrammatised 1
 edessan
 enfeeblish
