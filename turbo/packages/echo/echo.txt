@@ -4401,7 +4401,7 @@ electrobioscopy 1
 endoparasite 1
 environmentally
 enfacing
-exarticulation
+exarticulation 1
 ensigncies
 eubacteria
 ecumenist 1
@@ -6425,7 +6425,7 @@ equatorial 2
 ecophene 1
 embarrassing
 endangerments 2
-electromyography
+electromyography 1
 espave
 espousal
 enunciate
