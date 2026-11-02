@@ -3572,7 +3572,7 @@ douzeper
 disked 1
 deontological
 degging
-deglamorizing
+deglamorizing 1
 disaffiliating
 doubtlessly
 dreepiness
