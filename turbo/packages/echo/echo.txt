@@ -11737,7 +11737,7 @@ ephraim
 ephydrid
 euplocomi
 engoue
-erysipelous
+erysipelous 1
 epanadiplosis
 elusory
 excavating
