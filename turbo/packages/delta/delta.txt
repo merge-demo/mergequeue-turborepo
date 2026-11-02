@@ -5446,7 +5446,7 @@ dynatron
 directionality
 drought
 dyvour 1
-diptyca
+diptyca 1
 disattire
 debunked
 deutomala
@@ -5872,7 +5872,7 @@ dimethylnitrosamine
 deceiver
 disconcerts
 davy
-dingly
+dingly 1
 damascening
 dianthus
 destalinize

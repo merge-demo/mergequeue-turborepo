@@ -9141,7 +9141,7 @@ entwining 1
 endosiphuncle
 eggbeaters
 elegise 1
-exograph
+exograph 1
 endothermism
 erliche
 etiolating
@@ -9153,7 +9153,7 @@ ermanrich
 endotheca
 entailer
 epizoarian
-equiponderancy
+equiponderancy 1
 ermiline 1
 epidemy
 excarnation
