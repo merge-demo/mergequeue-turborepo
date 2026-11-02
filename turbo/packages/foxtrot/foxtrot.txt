@@ -2314,7 +2314,7 @@ frangipane
 fensive 1
 flippest
 furner
-falbalas
+falbalas 1
 frillings
 fecula
 fenzelia
