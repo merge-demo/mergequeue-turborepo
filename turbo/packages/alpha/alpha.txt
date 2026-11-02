@@ -15673,7 +15673,7 @@ aquaphobia
 antipapistical
 afterfriend
 amercement
-aurothiosulphate
+aurothiosulphate 1
 antiparallel
 androidal
 algieba
