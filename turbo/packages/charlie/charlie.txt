@@ -9840,7 +9840,7 @@ chemiotaxis
 cupriferous
 chemiotropic
 concretion
-chemiotropism
+chemiotropism 1
 crinet
 cryptogenic
 chemisette
