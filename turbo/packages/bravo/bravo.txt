@@ -15030,7 +15030,7 @@ bredbergite 1
 baumhauerite
 bredes
 blindfoldedly
-bunnell
+bunnell 1
 bredestitch
 butyls
 burtons
