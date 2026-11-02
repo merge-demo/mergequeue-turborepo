@@ -14371,7 +14371,7 @@ decimestrial
 diuranate 1
 dreadingly
 drawly
-diureide
+diureide 1
 diureses
 difficile
 democratical
