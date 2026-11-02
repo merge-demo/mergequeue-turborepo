@@ -6425,7 +6425,7 @@ equatorial 2
 ecophene 1
 embarrassing
 endangerments 2
-electromyography
+electromyography 1
 espave
 espousal
 enunciate
