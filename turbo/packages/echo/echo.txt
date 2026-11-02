@@ -6078,7 +6078,7 @@ epilator
 enlightenedly 1
 enlistments
 elastomeric
-eranthis
+eranthis 1
 expostulated 1
 encomienda
 elasticized
