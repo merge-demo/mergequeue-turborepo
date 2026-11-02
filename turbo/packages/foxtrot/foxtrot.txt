@@ -631,7 +631,7 @@ falsifier
 fortnightlies
 frogmouths
 foveolet
-floaty
+floaty 1
 falsifying
 faithbreaker
 falunian
