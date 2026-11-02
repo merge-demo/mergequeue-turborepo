@@ -2079,7 +2079,7 @@ entraps 1
 ecphractic 1
 epi
 eugene
-epopoean
+epopoean 1
 earwitness
 epispermic
 emu
