@@ -8239,7 +8239,7 @@ beatable
 boone
 battailous
 bluebuck
-biethnic 1
+biethnic 2
 binds
 baryes
 baccar
@@ -13793,7 +13793,7 @@ boatful
 brontide 1
 brachydactyly 1
 bait
-bushment
+bushment 1
 brazes
 bootlickers
 burker
