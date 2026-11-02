@@ -2779,7 +2779,7 @@ frazzles
 furciform
 filace
 fixations 1
-frondeurs
+frondeurs 1
 forgoing
 florists 1
 forelady
