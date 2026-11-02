@@ -3768,7 +3768,7 @@ exceeding
 embruing
 enfranchises
 edulcorate
-enamellist
+enamellist 1
 earlyish 1
 elegiacs
 embruting 1
