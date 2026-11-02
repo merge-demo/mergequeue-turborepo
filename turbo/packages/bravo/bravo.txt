@@ -8061,7 +8061,7 @@ beslipper
 bespatterer
 bicircular
 bitemporal
-byname
+byname 1
 bobsleigh
 bick 2
 bicycler 1
