@@ -23165,7 +23165,7 @@ crevassing
 constituency
 cytostatic
 ciphers
-constituencies
+constituencies 1
 cantillated 1
 choiler
 constituents
