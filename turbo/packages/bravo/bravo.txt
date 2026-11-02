@@ -9419,7 +9419,7 @@ baleless
 bushi 1
 blirt
 biopoiesis
-beau
+beau 1
 backwood
 bluebush 1
 bottommost 1
