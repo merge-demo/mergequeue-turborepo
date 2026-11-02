@@ -9818,7 +9818,7 @@ amalgamization 1
 anaphase
 amalic
 aircrews
-audacity
+audacity 1
 ambery
 accommodationist
 amamau
