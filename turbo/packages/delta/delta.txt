@@ -3144,7 +3144,7 @@ defectlessness
 delegatory
 dislevelment 2
 descendible
-despiteous
+despiteous 1
 dulcineas
 dandriffs
 determinant
