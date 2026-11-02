@@ -9153,7 +9153,7 @@ ermanrich
 endotheca
 entailer
 epizoarian
-equiponderancy
+equiponderancy 1
 ermiline 1
 epidemy
 excarnation
