@@ -8339,7 +8339,7 @@ depredation
 disvouch
 dyed 1
 dromed
-decigrams
+decigrams 1
 dialycarpous 1
 dialin
 dialiness
