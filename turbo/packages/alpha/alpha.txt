@@ -8663,7 +8663,7 @@ angioparalytic
 amygdaloidal
 annunciatory
 anglophobist
-allegorizer
+allegorizer 1
 adorantes
 antidinic
 anomuran
