@@ -4401,7 +4401,7 @@ electrobioscopy 1
 endoparasite 1
 environmentally
 enfacing
-exarticulation
+exarticulation 1
 ensigncies
 eubacteria
 ecumenist 1
