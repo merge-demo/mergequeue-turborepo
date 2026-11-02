@@ -5446,7 +5446,7 @@ dynatron
 directionality
 drought
 dyvour 1
-diptyca
+diptyca 1
 disattire
 debunked
 deutomala
