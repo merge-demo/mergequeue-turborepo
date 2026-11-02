@@ -8304,7 +8304,7 @@ epitheliolytic
 estragole
 eskimoic
 embroiler 1
-earthy
+earthy 1
 evg
 excursional 1
 essonites
