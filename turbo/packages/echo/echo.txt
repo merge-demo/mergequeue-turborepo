@@ -13852,7 +13852,7 @@ expos 1
 euthenics 2
 elects
 elaeothesia 1
-extraversively
+extraversively 1
 eyesores
 extracosmical
 excommunication
