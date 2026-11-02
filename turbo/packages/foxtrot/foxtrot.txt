@@ -10580,7 +10580,7 @@ foreloper 1
 favose
 feudalist 3
 funambulation
-fructescent
+fructescent 1
 fruitlessly
 flumadiddle
 fatherlands
