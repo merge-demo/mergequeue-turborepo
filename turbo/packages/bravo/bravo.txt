@@ -857,7 +857,7 @@ bulbus 1
 bartletts
 bushelbasket 1
 bonelike
-bedene
+bedene 1
 bouleversement
 bergsonism
 becomingly
