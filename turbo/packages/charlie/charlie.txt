@@ -15873,7 +15873,7 @@ clench
 carbamino
 clenched
 clencher
-cordinar
+cordinar 1
 contravariant 1
 clenchers
 clarshech 1
