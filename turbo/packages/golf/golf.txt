@@ -6929,7 +6929,7 @@ geswarp
 gablewindowed 1
 galvanoplastical
 goof
-gwantus
+gwantus 1
 goofah
 gip
 guaiac 1

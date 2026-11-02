@@ -11831,7 +11831,7 @@ acacine
 analeptic
 anabasis
 adenoidectomies
-analgesics
+analgesics 1
 anthropophagous
 allargando 1
 apportion
