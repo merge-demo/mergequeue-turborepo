@@ -9818,7 +9818,7 @@ amalgamization 1
 anaphase
 amalic
 aircrews
-audacity
+audacity 1
 ambery
 accommodationist
 amamau
@@ -12322,7 +12322,7 @@ ancistrocladaceous
 ancistroid
 ancodont
 aerified
-anubing
+anubing 1
 ancoly
 ancome
 ancona 1

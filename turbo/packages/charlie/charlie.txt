@@ -30187,7 +30187,7 @@ cryptocleidus
 cruciformity
 cruciformly
 crucily
-crucilly
+crucilly 1
 cruck
 cyclize
 crud
