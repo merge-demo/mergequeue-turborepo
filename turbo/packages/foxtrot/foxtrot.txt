@@ -2172,7 +2172,7 @@ forane
 felonwort 1
 falutin
 flatterdock
-fisheress
+fisheress 1
 fraudproof
 fligger
 foretypified 1
