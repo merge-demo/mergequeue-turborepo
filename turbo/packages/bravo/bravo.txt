@@ -6980,7 +6980,7 @@ bleacherman 1
 beastbane 1
 bewildering 1
 beshrews
-bebrine 1
+bebrine 2
 beshroud
 brachiostrophosis
 barrooms
