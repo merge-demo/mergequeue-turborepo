@@ -9813,7 +9813,7 @@ disarmament
 disillusionizer 1
 deviancies
 diamicton
-defacers
+defacers 1
 darnings 1
 dactylosternal
 dissertation
