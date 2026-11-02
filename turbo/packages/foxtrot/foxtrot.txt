@@ -3285,7 +3285,7 @@ fideicommissaries
 fungus 1
 flirtling
 finesser
-foreward
+foreward 1
 flyting
 flasket
 factories
