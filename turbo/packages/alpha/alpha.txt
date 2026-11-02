@@ -6202,7 +6202,7 @@ agonal
 athetize
 aurorae
 azygoses
-ascendency
+ascendency 1
 acetnaphthalide
 avirulent
 amazing
