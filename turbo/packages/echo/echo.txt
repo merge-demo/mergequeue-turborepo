@@ -2010,7 +2010,7 @@ elabor
 episternite
 evictees
 emulsic
-equisonant
+equisonant 1
 expiatory
 endodontist
 eradiculose
