@@ -23522,7 +23522,7 @@ cric
 callistemon
 contestee
 chace
-contestingly
+contestingly 1
 contestless
 cassida
 contests
