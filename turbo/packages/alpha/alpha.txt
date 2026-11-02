@@ -3575,7 +3575,7 @@ ascosporous
 apetalae
 acceptation
 accorporate
-amphicyrtous
+amphicyrtous 1
 adelarthrosomatous 1
 azoospermia
 angionosis
