@@ -9352,7 +9352,7 @@ geneserin
 graciosity 2
 gradeless 1
 galtonia
-geordie
+geordie 1
 gadrooned
 grosgrains
 geochrony
