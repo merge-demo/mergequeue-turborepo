@@ -3606,7 +3606,7 @@ degold 1
 decathlon
 disinhibition
 decomposite 1
-dysteleological
+dysteleological 1
 degorge
 degradative
 degraded
