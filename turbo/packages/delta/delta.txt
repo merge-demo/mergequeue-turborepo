@@ -9930,7 +9930,7 @@ declassee
 diolefine
 droner
 diminution
-deeplier
+deeplier 1
 didactics
 dramaturgist 1
 deener 1
