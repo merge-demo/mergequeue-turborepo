@@ -4946,7 +4946,7 @@ endeavour
 endamaging 1
 estreated
 ericeticolous
-exilable
+exilable 1
 equiliria
 effacer
 emulsifiable
