@@ -2676,7 +2676,7 @@ atonally 1
 antiarcha
 antitheft
 angiograph
-archeozoic
+archeozoic 1
 abrasiometer
 africa 1
 anticyclonic
@@ -5550,7 +5550,7 @@ ascry
 aftermost
 afternoons
 afternose
-afterpains 1
+afterpains 2
 auburns
 antifreezing
 afterpast
