@@ -7434,7 +7434,7 @@ distalia
 detruding
 disulphid
 diviner
-detruncation
+detruncation 1
 damneder
 dodgery 1
 detrusion
