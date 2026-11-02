@@ -9908,7 +9908,7 @@ controls
 comma
 carices
 chemotherapeutical
-clamlike
+clamlike 1
 chemotherapeutically
 comox
 campanulales
