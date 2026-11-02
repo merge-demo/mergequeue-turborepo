@@ -210,7 +210,7 @@ greengrocer
 gambone
 gloxinias
 goaler
-genuinely
+genuinely 1
 grummer
 gerrymandering
 goslings 1
