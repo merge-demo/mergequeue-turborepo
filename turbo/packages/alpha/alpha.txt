@@ -12807,7 +12807,7 @@ anetholes
 anglophilia
 antiricin
 angioid
-amentum
+amentum 1
 anisocytosis
 antimilitarist
 angiokeratoma
