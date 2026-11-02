@@ -11065,7 +11065,7 @@ edo
 egoity 1
 exulceratory
 empower
-ekacaesium
+ekacaesium 1
 epistemolog 1
 epiglottal
 extravasation
