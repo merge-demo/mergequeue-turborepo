@@ -14741,7 +14741,7 @@ dedolomitize
 docetae
 deferrable
 docetize 1
-deerstand
+deerstand 1
 divorcements
 dochmiacal
 dispossessor
