@@ -14443,7 +14443,7 @@ diversiform
 dachshunde
 dutiful 1
 desmotomy
-diversisporous
+diversisporous 1
 deindividuate
 doctus
 datedness
