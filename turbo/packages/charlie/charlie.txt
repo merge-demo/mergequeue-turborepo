@@ -5102,7 +5102,7 @@ casebox
 cased 1
 cisatlantic 1
 convulsionism
-casefy
+casefy 1
 counterenamel
 compeller
 chondrectomy
