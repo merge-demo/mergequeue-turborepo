@@ -4051,7 +4051,7 @@ elsewhen
 evangelizes
 executrices
 epipodial 1
-ex
+ex 1
 enringing
 evangelised
 encyclopaedism 2
@@ -8533,7 +8533,7 @@ esophagotome
 equatable
 epiphanised
 eudaemons
-ecclesiasticize
+ecclesiasticize 1
 essentializing
 echinated
 embezzling
