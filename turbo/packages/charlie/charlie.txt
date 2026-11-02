@@ -1108,7 +1108,7 @@ cytherea
 cheeser
 calciner
 chomer
-clamworm
+clamworm 1
 congressman
 columella
 calcinosis
