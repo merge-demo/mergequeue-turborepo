@@ -17485,7 +17485,7 @@ adsbud 1
 acinacifoliate
 audiogenic 1
 audients
-apsis
+apsis 1
 astrographic
 anglicisation
 ama
