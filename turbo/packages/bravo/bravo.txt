@@ -3236,7 +3236,7 @@ blastozooid
 bromelia
 beadily
 bangash
-basidigital
+basidigital 1
 bouteselle
 bangwaketsi
 barotactic 1
