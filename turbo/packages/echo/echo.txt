@@ -9539,7 +9539,7 @@ enteradenology
 emboldened
 englutting
 eserine
-esexual
+esexual 1
 esguard 1
 embracing
 electroviscous
