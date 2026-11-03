@@ -1865,7 +1865,7 @@ abiezer
 anadyomene
 athlothete
 acestes 1
-adstrict
+adstrict 1
 anthropomorphological
 advanced
 acetable 1
