@@ -6348,7 +6348,7 @@ frugivora
 ferinely 1
 fluoroform
 fricasseing
-fluoboric
+fluoboric 1
 forefoot
 fronture 1
 furry 1
