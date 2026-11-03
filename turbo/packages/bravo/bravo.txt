@@ -14902,7 +14902,7 @@ breakers 1
 breakfast
 buffetings
 bastard
-breakfronts
+breakfronts 1
 breaking
 barkeep
 breakings
