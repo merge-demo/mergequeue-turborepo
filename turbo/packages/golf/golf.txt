@@ -7333,7 +7333,7 @@ griffon
 glyoxime
 generalizers
 gomarite
-gaura 1
+gaura 2
 germanous
 gleamier 1
 gamotropism 1
