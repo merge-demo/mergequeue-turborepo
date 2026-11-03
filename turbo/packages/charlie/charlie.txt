@@ -25414,7 +25414,7 @@ cornific
 circumlocutions
 centesimally
 corniform
-chaft
+chaft 1
 cornigerous
 conies
 cornin
