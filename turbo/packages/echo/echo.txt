@@ -1226,7 +1226,7 @@ exorcismal 1
 equvalent
 estamin
 equicaloric
-exstemporal
+exstemporal 1
 eme 1
 extrascripturality 1
 evenmete 1
