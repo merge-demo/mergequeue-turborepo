@@ -10066,7 +10066,7 @@ gumshoed
 gonomere
 gorgerin
 gratia
-gigabits
+gigabits 1
 guillotiner
 gibblegable 1
 gossampine 1
