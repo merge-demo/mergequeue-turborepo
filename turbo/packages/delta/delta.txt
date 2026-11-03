@@ -13833,7 +13833,7 @@ dampishly
 distain
 distaining
 denumeration
-diatomic 1
+diatomic 2
 devastate
 dryers
 doable
