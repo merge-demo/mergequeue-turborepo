@@ -9190,7 +9190,7 @@ floodable
 fanterie
 floccus
 ficin
-feminate
+feminate 1
 fissioning 1
 flopped
 flagellum 1
