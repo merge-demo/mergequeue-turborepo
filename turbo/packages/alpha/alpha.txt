@@ -9827,7 +9827,7 @@ asphaltic
 antimale
 amande 1
 acounter
-actinoid
+actinoid 1
 amanist
 airwaybill
 amanitine
