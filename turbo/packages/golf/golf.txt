@@ -5742,7 +5742,7 @@ gnatworm
 genupectoral
 goniometer
 globoid 2
-geobotanically
+geobotanically 1
 garblers
 gluemaking
 granitize
