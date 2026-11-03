@@ -9969,7 +9969,7 @@ dukker 1
 dissatisfactorily
 dally
 disparted
-desophisticate
+desophisticate 1
 deforests
 duim
 dimorphotheca
