@@ -27150,7 +27150,7 @@ counterfeitness
 counterstimulation
 coattail
 counterstimulus
-counterstock
+counterstock 1
 counterstroke
 cyclopoid
 clientless
