@@ -6646,7 +6646,7 @@ epibatus
 extraduction 1
 enthalpies
 excusers
-expanded
+expanded 1
 enarthrodial
 ethnocracy 1
 enterorrhagia

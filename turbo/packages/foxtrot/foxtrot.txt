@@ -11244,7 +11244,7 @@ fabricative
 flexuosities 1
 ferned
 flemished
-fluorescing
+fluorescing 1
 funked
 flatbrod
 forbearable
