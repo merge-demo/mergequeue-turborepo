@@ -16694,7 +16694,7 @@ cyanus
 carts
 consonantalized
 clotty
-contemplatingly
+contemplatingly 1
 clotting
 characterful
 cloture
@@ -16934,7 +16934,7 @@ clupeids
 creatureliness
 classis
 cachalot
-caviar
+caviar 1
 clupien
 choledochoplasty
 consols
