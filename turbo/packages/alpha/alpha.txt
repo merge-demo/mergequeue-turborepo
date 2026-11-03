@@ -8940,7 +8940,7 @@ allantoid
 admired
 alloyage 1
 athermancy
-accolled
+accolled 1
 alloiogenesis
 assizer
 alloiometric 1
