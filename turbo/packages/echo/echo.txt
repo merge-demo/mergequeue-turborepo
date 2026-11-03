@@ -3098,7 +3098,7 @@ ellipticity 1
 elliptograph 1
 esprise
 elliptoid
-encrease
+encrease 1
 extraparietal
 elm
 embarrassment
