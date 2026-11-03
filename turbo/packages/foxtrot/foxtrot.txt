@@ -383,7 +383,7 @@ fluorides
 ferrymen
 fearer
 filicauline
-forbid
+forbid 1
 facets
 faceoff
 fancifully
@@ -5468,7 +5468,7 @@ funniness 1
 frillers
 forswear
 fidelities
-feus
+feus 1
 farouk
 furunculoid
 flesh
