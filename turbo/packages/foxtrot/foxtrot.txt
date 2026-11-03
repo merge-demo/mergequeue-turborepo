@@ -3893,7 +3893,7 @@ findable 1
 fruz 1
 familiarize
 function
-formfitting
+formfitting 1
 findhorn
 filarees
 fine
