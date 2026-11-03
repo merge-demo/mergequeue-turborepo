@@ -2212,7 +2212,7 @@ eldersisterly
 epiglottiditis 1
 eggless
 encrisp
-eldest
+eldest 1
 eyrir
 effigiated
 eventuate
