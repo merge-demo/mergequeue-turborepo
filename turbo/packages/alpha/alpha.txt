@@ -8249,7 +8249,7 @@ allot
 alidad
 agammaglobulinemic 1
 alidads
-anchored
+anchored 1
 anticoagulin
 aposporous 1
 android
