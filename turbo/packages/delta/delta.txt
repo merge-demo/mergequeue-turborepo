@@ -8363,7 +8363,7 @@ dinitrophenylhydrazine
 dobbins
 dreamlessly
 delocalizing 1
-digestant
+digestant 1
 disniche
 dialysis
 debauchedness 1
@@ -10074,7 +10074,7 @@ dieties
 dentistries 1
 deodar
 dynast
-deaminating
+deaminating 1
 deliciae 1
 dieticians
 dextrane 1
