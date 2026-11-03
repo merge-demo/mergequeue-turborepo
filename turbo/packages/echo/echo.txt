@@ -8767,7 +8767,7 @@ equoidean
 exhedra
 euphyllite
 eradicable
-enticement
+enticement 1
 eradicant
 electroengraving 1
 epineolithic
