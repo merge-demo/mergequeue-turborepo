@@ -5501,7 +5501,7 @@ faceteness
 flacker
 feminization 1
 fleshmonger 1
-flagfall
+flagfall 1
 fletcherism
 frontignac
 fieri 1
