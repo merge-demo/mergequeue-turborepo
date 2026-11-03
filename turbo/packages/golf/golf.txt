@@ -9592,7 +9592,7 @@ glassite
 gagroot
 gobinist
 grumium
-glaucodote
+glaucodote 1
 geests
 goiter
 grizzlier 1
