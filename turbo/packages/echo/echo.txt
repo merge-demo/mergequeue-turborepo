@@ -12826,7 +12826,7 @@ exoterical
 exotericism
 extenuated
 entotympanic
-excusefully
+excusefully 1
 emboldener
 evangelicity
 ensepulchered
