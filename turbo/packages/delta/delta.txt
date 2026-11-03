@@ -12663,7 +12663,7 @@ diskindness
 dextrorse
 doleful
 divining
-dehorts
+dehorts 1
 diatrymiformes
 dridder
 disdiplomatize
