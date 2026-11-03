@@ -6467,7 +6467,7 @@ freir
 farweltered
 fip
 failsoft
-fused
+fused 1
 forspread
 furcular
 foldskirt
