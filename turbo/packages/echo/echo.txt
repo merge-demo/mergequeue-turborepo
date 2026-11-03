@@ -3930,7 +3930,7 @@ enanthem
 emmett 1
 existentialism
 explicitly
-eulamellibranchia
+eulamellibranchia 1
 emmy
 epilabrum 1
 efflorescent
@@ -10453,7 +10453,7 @@ ericius
 etypically
 emblemed 1
 everlastingly
-enteroviral
+enteroviral 1
 etherin
 epochist
 exalate
