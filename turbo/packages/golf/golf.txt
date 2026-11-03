@@ -1400,7 +1400,7 @@ gearshift
 gcd
 gangplow
 grandam
-gastrovascular
+gastrovascular 1
 gaddishness 1
 grundyite
 galvanopsychic
