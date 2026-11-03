@@ -16557,7 +16557,7 @@ brutify
 basic
 bargeese 1
 barbarianize
-brownish
+brownish 1
 biflorate 1
 backbiters
 bushmen
