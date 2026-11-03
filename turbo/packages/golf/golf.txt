@@ -4191,7 +4191,7 @@ gluttonise 1
 gynantherous
 gonadectomized
 goliath
-gomavel 1
+gomavel 2
 gynarchic 1
 gazella
 geumatophobia 1
@@ -5032,7 +5032,7 @@ gigas
 gynaecea
 gypper
 griffins
-granza
+granza 1
 gastroptosia
 glycan
 guilders
