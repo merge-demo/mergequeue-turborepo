@@ -12027,7 +12027,7 @@ chortlers
 cheating
 cooee
 chortosterol
-chaunters
+chaunters 1
 champlev
 choruses
 confected
@@ -25414,7 +25414,7 @@ cornific
 circumlocutions
 centesimally
 corniform
-chaft
+chaft 1
 cornigerous
 conies
 cornin
