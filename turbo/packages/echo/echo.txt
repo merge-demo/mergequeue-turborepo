@@ -5243,7 +5243,7 @@ euchroic
 euhemerising
 exsected
 extrascriptural
-escartelly
+escartelly 1
 euphuizing
 esphresis 1
 expenseless
