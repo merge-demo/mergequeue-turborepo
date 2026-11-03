@@ -302,7 +302,7 @@ aurata
 axiomatic
 affiant
 addleplot
-abnormals
+abnormals 1
 agas
 admiratively 1
 abdominothoracic
