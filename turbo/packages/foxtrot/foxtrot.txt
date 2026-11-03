@@ -4184,7 +4184,7 @@ ferfathmur
 felonries 2
 featherstitch
 fluidglycerate
-foothold
+foothold 1
 flittermmice
 featurish 2
 froe
