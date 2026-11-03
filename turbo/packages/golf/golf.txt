@@ -1305,7 +1305,7 @@ geodiatropism
 gingilis
 garganey 2
 gastropancreatitis
-garget
+garget 1
 gibbousness
 goodie
 gamekeeping
