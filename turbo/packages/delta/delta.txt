@@ -8078,7 +8078,7 @@ detrimentalness
 doghole
 definienda 1
 diabetes
-drollery
+drollery 1
 diaphyses
 disendower
 debeaker 1
