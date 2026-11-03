@@ -10111,7 +10111,7 @@ euphausiacea
 ethereality 1
 earpiece
 epiboly
-etherealization
+etherealization 1
 extrusible
 electrochemistry
 endorses
