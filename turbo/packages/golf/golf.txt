@@ -6839,7 +6839,7 @@ glis 1
 gannet
 glibly
 goodenia
-gestated
+gestated 1
 goldcrest
 gatling 1
 guyed
