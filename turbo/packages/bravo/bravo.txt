@@ -14281,7 +14281,7 @@ blites
 biographize
 brads 1
 brainsickness
-butyne
+butyne 1
 byword
 boarding
 buglosses
