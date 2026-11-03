@@ -5589,7 +5589,7 @@ gunyang 1
 grimoire 2
 grouch
 guggled
-germanics
+germanics 1
 gubernacular
 geyserine
 gastralgic
