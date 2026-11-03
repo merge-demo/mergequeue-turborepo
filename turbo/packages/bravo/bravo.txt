@@ -16050,7 +16050,7 @@ bowess
 bronchotyphus 1
 bronchotome
 belucki
-bozos
+bozos 1
 bespectacled
 brindle
 barythymia
