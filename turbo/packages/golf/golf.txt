@@ -5434,7 +5434,7 @@ galumphed
 gablet
 gantlets
 grande
-ganoids
+ganoids 1
 gentlemen
 goodyera
 goldilocks
