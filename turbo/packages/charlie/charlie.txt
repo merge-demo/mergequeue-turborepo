@@ -27481,7 +27481,7 @@ carnaubic
 covarecas
 covary
 chelicerae
-curtailer
+curtailer 1
 covariable
 chumpiness
 cathartical
