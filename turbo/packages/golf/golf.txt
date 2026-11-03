@@ -4025,7 +4025,7 @@ gibboseness
 gim 1
 gambolling
 gerundively
-gurjun
+gurjun 1
 groining
 gletscher
 grifted
