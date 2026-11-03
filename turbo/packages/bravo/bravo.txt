@@ -5933,7 +5933,7 @@ belock
 basimesostasis
 balayeuse
 belomancy
-belonephobia
+belonephobia 1
 belonger
 bagonet
 biased
