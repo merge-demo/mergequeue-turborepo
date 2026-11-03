@@ -6124,7 +6124,7 @@ goal
 griffithite
 galactophore
 greenly
-galactolysis
+galactolysis 1
 goniatite
 gigantolite
 gymnasisiums 1
