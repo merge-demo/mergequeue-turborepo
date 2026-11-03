@@ -13356,7 +13356,7 @@ antilogies 1
 allegretto
 aspca
 agamont
-anisopteran
+anisopteran 1
 absolvitory 1
 abrading
 antecedent 1
