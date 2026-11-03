@@ -8526,7 +8526,7 @@ extratorrid
 ethmoiditis
 epiphysis 1
 elain
-esoterically
+esoterically 1
 eupnea
 exsufflicate
 esophagotome
