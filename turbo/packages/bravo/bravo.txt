@@ -6914,7 +6914,7 @@ beshake 1
 bentinck
 bendel
 bloodwite
-beryllosis 1
+beryllosis 2
 beseemliness
 benignancies
 beseems
