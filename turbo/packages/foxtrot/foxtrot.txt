@@ -3946,7 +3946,7 @@ fruitcakey 1
 fondlers
 frenziedly
 frightfulness
-foreshown 1
+foreshown 2
 funneled
 farcical
 fossil
