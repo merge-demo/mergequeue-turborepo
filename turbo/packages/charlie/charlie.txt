@@ -5132,7 +5132,7 @@ casemates
 cytogeneticist
 casemented
 casements 1
-copolar
+copolar 1
 caseolysis 1
 caseose
 caseous
