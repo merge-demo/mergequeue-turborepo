@@ -8352,7 +8352,7 @@ extacie
 eloped
 epityphlitis
 erythrosinophile
-effrenate
+effrenate 1
 evolutional
 estranged
 expeding
@@ -9617,7 +9617,7 @@ esp
 elatha
 eventless
 eternalise
-espada
+espada 1
 ethanethial
 equatability
 esurine
