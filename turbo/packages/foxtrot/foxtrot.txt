@@ -1057,7 +1057,7 @@ felspathose 1
 floricomous
 fringillidae
 foraging 2
-fastigiately
+fastigiately 1
 faro
 fluoridization
 floriken 1
