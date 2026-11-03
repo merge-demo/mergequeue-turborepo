@@ -16396,7 +16396,7 @@ bangup
 bioelectrogenetically
 bioelectronics
 borrowed 1
-barefacedness
+barefacedness 1
 boryl
 branchipus
 brushers
