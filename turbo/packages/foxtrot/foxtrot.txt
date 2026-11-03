@@ -1467,7 +1467,7 @@ frankly 1
 fairtime
 feaked
 fantasie
-fractureproof
+fractureproof 1
 filago
 fifish
 fireside
