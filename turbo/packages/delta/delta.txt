@@ -8138,7 +8138,7 @@ decasualize
 detribalize
 disruptively 1
 deferrization
-diachronic
+diachronic 1
 dipleurule
 daer
 darger
