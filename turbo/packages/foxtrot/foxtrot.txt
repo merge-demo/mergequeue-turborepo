@@ -9417,7 +9417,7 @@ fico
 flamens
 fratry
 flippery
-furnaceman
+furnaceman 1
 fulcrate
 flayers 1
 furculum
