@@ -5975,7 +5975,7 @@ already
 alimenter
 aggressed
 ancilia
-autotomous
+autotomous 1
 arrogancy
 aggressin
 adarbitrium
