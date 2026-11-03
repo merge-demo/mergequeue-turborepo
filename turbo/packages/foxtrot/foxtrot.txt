@@ -6800,7 +6800,7 @@ fourhanded
 fabled
 furomonazole 1
 foliary
-frescoers
+frescoers 1
 format
 favoringly
 favourableness 2
