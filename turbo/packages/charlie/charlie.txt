@@ -6763,7 +6763,7 @@ cerinthian
 cowshard
 capless
 celioscope
-cella
+cella 1
 cellared
 chamoix
 choleraic
