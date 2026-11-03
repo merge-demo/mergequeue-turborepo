@@ -22273,7 +22273,7 @@ abjoint 1
 ariel
 amorphy
 aerated
-anticlassicist
+anticlassicist 1
 anecdotalism
 alfred
 atherinidae
