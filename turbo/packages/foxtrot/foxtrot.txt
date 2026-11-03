@@ -10354,7 +10354,7 @@ fikey
 friendless
 fundungi
 floribunda
-foxinesses
+foxinesses 1
 flaught
 fosterers
 fomentations

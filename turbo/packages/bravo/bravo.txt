@@ -12976,7 +12976,7 @@ betulaceae
 benettle
 bushelage
 ballades
-boozes
+boozes 1
 boozier
 bombings
 booziest
