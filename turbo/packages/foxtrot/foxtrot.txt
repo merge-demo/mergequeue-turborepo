@@ -426,7 +426,7 @@ fauchards 1
 fur
 frockmaker 1
 fairship
-feal
+feal 1
 flitting
 fogmen
 fairway
