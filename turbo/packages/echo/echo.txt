@@ -1153,7 +1153,7 @@ enterobiasis
 edomitish
 eutomous 1
 exorbitate
-edoni
+edoni 1
 excisemen
 entrochite 1
 edplot
