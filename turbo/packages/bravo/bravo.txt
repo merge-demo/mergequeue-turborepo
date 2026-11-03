@@ -9800,7 +9800,7 @@ boatie
 byssoid
 bedragglement
 bissonata
-bistate
+bistate 1
 biosyntheses
 biochemist 1
 brainwashed
