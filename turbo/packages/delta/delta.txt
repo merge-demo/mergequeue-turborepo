@@ -4011,7 +4011,7 @@ dynamometamorphosed 1
 deliciouses
 deliciousness
 debouches 1
-delict
+delict 1
 deaquation
 deliquescence
 divertila
@@ -4100,7 +4100,7 @@ divagate
 delisk
 delists
 demonstratorship
-dob
+dob 1
 delitescent
 deliverer
 disincorporate
