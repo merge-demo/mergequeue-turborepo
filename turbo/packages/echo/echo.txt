@@ -11022,7 +11022,7 @@ episcopacies
 eliminator
 eurythmics
 epiphenomena
-endotrophic
+endotrophic 1
 enterrologist
 eudiometrically 1
 establish
