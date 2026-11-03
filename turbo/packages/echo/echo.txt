@@ -5958,7 +5958,7 @@ enigmas 1
 enjambements 1
 enigmata
 eluvial
-exquisite
+exquisite 1
 etourderie
 ephphatha
 enigmatist
