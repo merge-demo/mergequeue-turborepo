@@ -7500,7 +7500,7 @@ glitch
 glottalized
 gat
 governed 1
-gotten
+gotten 1
 graecizing
 governesses
 greathead
