@@ -2239,7 +2239,7 @@ femora 1
 fatil
 fain
 fenced
-fascinated
+fascinated 1
 fimbrilla 1
 fencelessness
 fengite
