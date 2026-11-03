@@ -50,7 +50,7 @@ aquativeness
 astrakhan
 alcyone 1
 achira
-allusively
+allusively 1
 arcella
 arcaded
 arguitively
