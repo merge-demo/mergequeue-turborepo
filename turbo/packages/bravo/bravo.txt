@@ -14552,7 +14552,7 @@ bearded
 blackcurrant
 betrail
 branchiogenous
-branchiomere
+branchiomere 1
 baikie
 bibliogony
 bottomless
@@ -16050,7 +16050,7 @@ bowess
 bronchotyphus 1
 bronchotome
 belucki
-bozos
+bozos 1
 bespectacled
 brindle
 barythymia
