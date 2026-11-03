@@ -1472,7 +1472,7 @@ filago
 fifish
 fireside
 faubourgs
-frightful
+frightful 1
 focussing
 fistulose
 forestial
@@ -10136,7 +10136,7 @@ fe
 fulciform
 fortuitus
 foreheaded
-fissiparously 1
+fissiparously 2
 frittering
 fuchi
 freakier 1
