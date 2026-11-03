@@ -19076,7 +19076,7 @@ collinses
 circumterraneous
 cristate 1
 chaptrel
-collinsite
+collinsite 1
 colliquable
 colliquate
 collyria
