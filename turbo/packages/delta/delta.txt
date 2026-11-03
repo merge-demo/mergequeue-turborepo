@@ -3571,7 +3571,7 @@ dinus
 douzeper
 disked 1
 deontological
-degging
+degging 1
 deglamorizing 1
 disaffiliating
 doubtlessly
