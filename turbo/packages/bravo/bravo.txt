@@ -16085,7 +16085,7 @@ brontology
 blackened 1
 bollards
 barbiturates
-bearpaw
+bearpaw 1
 burgessdom
 brontosauruses
 buying
