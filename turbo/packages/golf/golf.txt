@@ -7341,7 +7341,7 @@ grumps 1
 globated
 gramas 1
 grisettish
-granulosis
+granulosis 1
 gamming
 gullishness 1
 glisky
