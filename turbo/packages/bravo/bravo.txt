@@ -851,7 +851,7 @@ belone
 balk 1
 bual 1
 bafflers
-baffling 2
+baffling 3
 bafflingly
 bulbus 1
 bartletts
@@ -7268,7 +7268,7 @@ bladdernut
 bestrewment
 besnow
 baconist
-bisporous
+bisporous 1
 basses
 bestridden
 bluesides

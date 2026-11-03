@@ -7702,7 +7702,7 @@ devility 1
 deprotestantize
 daurna
 devilize
-delative
+delative 1
 daryl
 destituted
 decapodan
@@ -14814,7 +14814,7 @@ dewata
 diswarren
 decidua
 docs
-doctor
+doctor 1
 dumontite
 doctored
 deservingly
