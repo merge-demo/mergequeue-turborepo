@@ -777,7 +777,7 @@ guahiban
 geometrically
 graywether
 glome
-galvanotherapy 1
+galvanotherapy 2
 goods
 geomorphic
 galvanotropism
