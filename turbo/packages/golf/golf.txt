@@ -5481,7 +5481,7 @@ gently
 grassfinch
 griefs
 gauffers 1
-guttiferous
+guttiferous 1
 germinally
 gangplanks
 glycidol
