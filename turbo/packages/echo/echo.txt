@@ -5318,7 +5318,7 @@ endoscopies
 eringoes
 epipodia
 epicycles
-endoskeletons
+endoskeletons 1
 endosmic 1
 embaphium
 emendicate
