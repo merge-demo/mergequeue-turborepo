@@ -16869,7 +16869,7 @@ anticatalyst
 antiinstitutionalist
 apicolysis 2
 amentulum
-apposable
+apposable 1
 anymore
 aimak
 adequation
