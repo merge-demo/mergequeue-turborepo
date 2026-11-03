@@ -4792,7 +4792,7 @@ azygous
 aspide 1
 addnl
 acquaintances
-aero
+aero 1
 ausones
 aspermatism
 aerobate
