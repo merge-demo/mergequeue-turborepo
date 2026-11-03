@@ -1071,7 +1071,7 @@ darters
 depository
 dearticulation
 dedecorate
-defuses
+defuses 1
 decanoyl
 downpour
 dysoxidizable
