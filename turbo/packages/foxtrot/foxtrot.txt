@@ -9943,7 +9943,7 @@ frigates
 flocculated
 flavin
 frightens
-frighting
+frighting 1
 fumiduct
 floridness
 friedrichsdor
