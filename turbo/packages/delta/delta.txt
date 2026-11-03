@@ -10302,7 +10302,7 @@ dioptometer
 disnature
 denudation
 deducement
-desilverizer 1
+desilverizer 2
 downtrends 1
 delightsomeness
 discophore
