@@ -1027,7 +1027,7 @@ chamberlainship 1
 calathiform
 calathiscus
 cognise
-calathos
+calathos 1
 crapshooter
 cyrilla
 capsulated
