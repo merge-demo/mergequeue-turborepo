@@ -7038,7 +7038,7 @@ bronzite 1
 bespouses
 boxhaul
 behaviorism
-boma
+boma 1
 besnowing
 besognier
 besoil
