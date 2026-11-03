@@ -8233,7 +8233,7 @@ epistatic
 empyrosis
 epistemically
 extemporising
-enjoyingly
+enjoyingly 1
 engirded
 episternal
 expectancies
