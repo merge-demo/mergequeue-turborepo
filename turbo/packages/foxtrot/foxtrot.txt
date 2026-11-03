@@ -11329,7 +11329,7 @@ favorability 1
 freebees
 frontozygomatic 2
 flathat
-faceted
+faceted 1
 fusulina
 foldless 1
 fps
