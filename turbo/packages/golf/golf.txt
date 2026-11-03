@@ -9255,7 +9255,7 @@ gangliate
 gunocracy 1
 galactophagous
 guidebook
-gelatiniser
+gelatiniser 1
 gi
 geodynamicist
 glandular 2
