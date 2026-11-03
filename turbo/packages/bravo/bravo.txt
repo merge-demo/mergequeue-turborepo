@@ -1871,7 +1871,7 @@ broadlings
 befogging 1
 barkinji 1
 bandfile
-bandh
+bandh 1
 burdon
 babroot
 brownism
