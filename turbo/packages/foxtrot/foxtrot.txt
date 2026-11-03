@@ -2372,7 +2372,7 @@ futures 1
 footganger 1
 fetial
 fortunetellers
-friendlier 1
+friendlier 2
 frondage
 feriation
 falsedad
@@ -8798,7 +8798,7 @@ fossulae
 flatfishes
 featureless
 fostered
-flocoon 2
+flocoon 3
 fator 1
 figeter
 fluidities
