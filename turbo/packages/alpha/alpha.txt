@@ -7773,7 +7773,7 @@ arsacidan
 aldide
 assibilated
 affile
-avianize
+avianize 1
 amability
 alcatras
 aldimin 1
