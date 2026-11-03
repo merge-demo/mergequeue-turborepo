@@ -11167,7 +11167,7 @@ concubitant
 chloragogue
 chloral
 chloralformamide
-cupelling
+cupelling 1
 carettochelydidae
 comburimeter
 cymbocephalic
