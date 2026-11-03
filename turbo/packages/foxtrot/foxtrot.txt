@@ -1472,7 +1472,7 @@ filago
 fifish
 fireside
 faubourgs
-frightful
+frightful 1
 focussing
 fistulose
 forestial
