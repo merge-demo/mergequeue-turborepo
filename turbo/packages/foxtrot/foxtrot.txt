@@ -6718,7 +6718,7 @@ frayed
 fried 1
 fronded
 fissate
-folacin
+folacin 1
 fuchsone
 falsidical
 foibles
