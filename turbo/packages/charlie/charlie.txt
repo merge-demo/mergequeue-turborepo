@@ -2166,7 +2166,7 @@ corgi 1
 camphoroyl
 clerkliest
 camphorone 1
-copolymerous
+copolymerous 1
 camphorweed
 camphorwood
 cotan
