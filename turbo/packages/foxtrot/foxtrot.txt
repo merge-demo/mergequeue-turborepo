@@ -5101,7 +5101,7 @@ falasha
 forebespeak 1
 fatherling
 fractionise
-funking
+funking 1
 forbidding 1
 forthy 1
 fireweed 1
