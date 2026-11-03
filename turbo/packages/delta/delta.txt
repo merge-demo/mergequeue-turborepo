@@ -16640,7 +16640,7 @@ designation
 dilettantes
 dragsters
 demisovereign
-doctoress
+doctoress 1
 drayage
 drayhorse
 dipteraceous
