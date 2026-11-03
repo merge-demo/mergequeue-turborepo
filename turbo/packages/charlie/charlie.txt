@@ -31590,7 +31590,7 @@ catcalled
 curucucu
 canadol
 curucui
-copromisor
+copromisor 1
 colegatee
 curuminacan
 calculagraph
