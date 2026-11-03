@@ -6048,7 +6048,7 @@ fizzling
 frecken
 fingerhook
 fleckier
-forgeman
+forgeman 1
 figurial
 foxhounds
 filchery
