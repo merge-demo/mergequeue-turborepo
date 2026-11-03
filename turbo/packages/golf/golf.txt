@@ -10650,7 +10650,7 @@ generableness 1
 gonagra
 generalizeable
 gurgitation
-gasolines 1
+gasolines 2
 gametogony 1
 gladius
 goatsbane
