@@ -8808,7 +8808,7 @@ aluminography
 allis
 aristocrat
 airliner
-alliterate
+alliterate 1
 announceable
 acescence
 atwind
