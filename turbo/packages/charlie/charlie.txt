@@ -10130,7 +10130,7 @@ cahoot 1
 circumfusing
 celioncus
 chevesaile
-chevetaine
+chevetaine 1
 commodores
 capitalistic
 copurchaser
