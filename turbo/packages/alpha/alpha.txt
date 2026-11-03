@@ -18313,7 +18313,7 @@ acridine
 absinthism 1
 apostatising
 austenitize
-aracana
+aracana 1
 aracanga
 antefebrile
 autotomised
