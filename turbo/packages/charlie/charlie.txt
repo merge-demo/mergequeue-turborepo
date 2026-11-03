@@ -8841,7 +8841,7 @@ characteristically
 characteristicalness
 cucaracha
 characteristicness
-cognizableness
+cognizableness 1
 characterization
 characterizing
 characterless
