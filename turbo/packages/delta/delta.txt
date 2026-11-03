@@ -5818,7 +5818,7 @@ diagnoses
 deleting
 droshky
 depredatory
-deontic
+deontic 1
 disembargoed
 deodars
 duffy
