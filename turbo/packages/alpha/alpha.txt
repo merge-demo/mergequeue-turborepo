@@ -9827,7 +9827,7 @@ asphaltic
 antimale
 amande 1
 acounter
-actinoid
+actinoid 1
 amanist
 airwaybill
 amanitine
@@ -12594,7 +12594,7 @@ anenst
 antifame 1
 arboroid
 anepigraphic
-anklebones
+anklebones 1
 aesthetics
 abogados
 apodoses

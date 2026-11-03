@@ -2162,7 +2162,7 @@ electioneering 1
 extrovertively
 ethoxycaffeine
 epizoan
-extrabold
+extrabold 1
 endocyclic
 extremeness
 elbowy
