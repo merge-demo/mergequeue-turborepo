@@ -4797,7 +4797,7 @@ ausones
 aspermatism
 aerobate
 aerobatic
-arsenism
+arsenism 1
 azalea
 anthropolater
 aerobia
