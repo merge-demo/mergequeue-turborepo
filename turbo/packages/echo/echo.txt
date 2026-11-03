@@ -13985,7 +13985,7 @@ exundance
 exsuperance 1
 extraperiosteal
 engem 2
-eurodollars
+eurodollars 1
 eucryphia
 eodevonian
 espagnolette
