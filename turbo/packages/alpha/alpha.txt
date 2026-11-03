@@ -17706,7 +17706,7 @@ allopaths
 argils
 avignonese
 averseness
-ambiguity
+ambiguity 1
 aganippe
 axhead
 antiquities
