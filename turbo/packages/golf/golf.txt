@@ -1080,7 +1080,7 @@ glossic
 gangplows
 geomalic
 glaucoma
-glor
+glor 1
 gonimous 1
 gilden
 genoas

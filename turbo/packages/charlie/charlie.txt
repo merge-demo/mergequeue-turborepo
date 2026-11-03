@@ -9097,7 +9097,7 @@ charterism
 charterless
 chartermaster
 charters
-cryptograms
+cryptograms 1
 cindered
 chartist
 chartless
