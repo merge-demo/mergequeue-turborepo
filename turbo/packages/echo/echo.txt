@@ -6828,7 +6828,7 @@ exceptionless
 epitome
 embarque 1
 enameloma
-extractive
+extractive 1
 entomologies
 entomologised
 emblemized
@@ -13589,7 +13589,7 @@ emulation
 esoteric 1
 exsufflate
 exsufflation
-epithymetical 1
+epithymetical 2
 endangering
 extracutaneous
 evasions
