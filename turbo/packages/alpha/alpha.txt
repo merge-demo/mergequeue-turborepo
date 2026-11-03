@@ -966,7 +966,7 @@ alidades
 absquatulate
 anchorites
 americanoid
-abstain
+abstain 1
 abstainer
 ameland 1
 angoras
