@@ -12844,7 +12844,7 @@ expansive 1
 extoll
 exothecal 1
 emboss
-eccentrics
+eccentrics 1
 exothermically
 eloignment
 erythrolysis 1
