@@ -20498,7 +20498,7 @@ centenionalis
 corundum
 composition
 chamaeleon
-compartments
+compartments 1
 chapin
 celticist
 compass
