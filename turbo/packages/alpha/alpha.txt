@@ -21636,7 +21636,7 @@ asquint
 anallagmatis 1
 authorising
 agriotypus
-alfur
+alfur 1
 achenodia
 acheilous
 anteflected
