@@ -24867,7 +24867,7 @@ coracomorphae
 chrysopoeia
 coracopectoral
 coracoprocoracoid
-cognoscibility
+cognoscibility 1
 crepitation 1
 cheilion
 conveyers
