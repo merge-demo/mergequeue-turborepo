@@ -1348,7 +1348,7 @@ fellani 1
 fervour
 fathomlessness
 funniment 1
-flichtered 1
+flichtered 2
 forkable 2
 financiering 1
 forewit
@@ -1399,7 +1399,7 @@ furmenties
 fiche
 fornicates
 formose 2
-fortuneteller
+fortuneteller 1
 foreshower
 fibrocaseose
 ferkin
