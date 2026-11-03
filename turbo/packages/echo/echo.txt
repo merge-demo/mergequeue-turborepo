@@ -7939,7 +7939,7 @@ expounds
 epimeres
 electrostenolysis
 epimerism
-enterolithiasis
+enterolithiasis 1
 essoined
 evangels
 epitomate 1
