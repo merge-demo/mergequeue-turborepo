@@ -8264,7 +8264,7 @@ emulate 1
 endolaryngeal
 endplay
 eucalyptian
-enlaurel
+enlaurel 1
 epitheliomatous 1
 epitaphian
 ejection
