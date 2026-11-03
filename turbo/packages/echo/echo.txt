@@ -9644,7 +9644,7 @@ especialness
 esperantido
 extrapatriarchal
 enclosing
-emissaries
+emissaries 1
 espy
 espial
 episyllogism 1
