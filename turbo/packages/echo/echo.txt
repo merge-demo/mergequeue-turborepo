@@ -6488,7 +6488,7 @@ execration
 englishes 1
 ephemeris
 ectosphenoid
-entrenchments
+entrenchments 1
 entails
 eaglet
 embarrassedly 1
