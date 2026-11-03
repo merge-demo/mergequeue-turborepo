@@ -6503,7 +6503,7 @@ graceless
 galls 1
 glossoplegia
 granduncles
-gelseminic
+gelseminic 1
 gromwell
 gamelans
 groaner
