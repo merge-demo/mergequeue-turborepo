@@ -383,7 +383,7 @@ fluorides
 ferrymen
 fearer
 filicauline
-forbid
+forbid 1
 facets
 faceoff
 fancifully
