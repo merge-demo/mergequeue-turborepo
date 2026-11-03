@@ -1574,7 +1574,7 @@ galleria
 gunlock
 gasterotheca
 gandermooner 1
-gymnetrous
+gymnetrous 1
 glabellar
 glutaeous
 gunreach
