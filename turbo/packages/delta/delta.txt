@@ -15473,7 +15473,7 @@ donack
 dowsed 1
 daishiki
 defibrillate
-deduit
+deduit 1
 dogless
 donat
 donatee
