@@ -1587,7 +1587,7 @@ disinfector
 deadwork
 deaerated
 dustiness
-dorsum
+dorsum 1
 deaf
 dynamogenous
 disacidified
