@@ -5026,7 +5026,7 @@ fungoidal
 forepaw 2
 ferries
 fumatory 1
-forekeel
+forekeel 1
 fragrance
 faconne 1
 fulmarus 1
