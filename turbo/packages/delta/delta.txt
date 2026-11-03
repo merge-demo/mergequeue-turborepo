@@ -4966,7 +4966,7 @@ dextrocardia
 darci
 denationalise 1
 denationalize
-dedicator
+dedicator 1
 decaesarize
 dayal 2
 drivingly
