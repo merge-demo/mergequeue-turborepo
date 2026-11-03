@@ -670,7 +670,7 @@ aimara
 abysmal
 apostrophation
 abonnement
-artesian
+artesian 1
 aborad
 aboral
 abord
