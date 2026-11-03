@@ -641,7 +641,7 @@ caesareans
 cardiopyloric
 campagnol 1
 connubialism
-cottage 1
+cottage 2
 caesarian
 caesarism
 caesarist
