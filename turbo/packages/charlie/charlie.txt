@@ -6783,7 +6783,7 @@ cellfalcicula
 cyprians
 concaveness
 celliform 1
-cellist
+cellist 1
 cellite
 currs
 continua 1
