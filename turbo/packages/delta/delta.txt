@@ -5856,7 +5856,7 @@ depressomotor
 dunniewassel
 densifier
 depressurize
-deaconate
+deaconate 1
 disentraced
 dere
 defeatee
