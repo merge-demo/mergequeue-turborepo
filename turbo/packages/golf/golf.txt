@@ -81,7 +81,7 @@ galliums 1
 grayish
 geometdecrne
 giddap
-glowing
+glowing 1
 graticule
 geotical 1
 gay 1
