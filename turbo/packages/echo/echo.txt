@@ -5994,7 +5994,7 @@ excerption
 expatiatingly
 enjoiner
 excubant
-euonym
+euonym 1
 emporial
 emily
 endotheliulia
@@ -12746,7 +12746,7 @@ embryography
 exceeds
 exospheric
 exorbitation
-extensionless
+extensionless 1
 epithamia 1
 eloah
 epidemiologically 1
