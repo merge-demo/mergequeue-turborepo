@@ -9300,7 +9300,7 @@ gamodeme
 genuflect
 gangtide
 geronomite 2
-galivanting
+galivanting 1
 glossas 1
 goldurn
 governability
