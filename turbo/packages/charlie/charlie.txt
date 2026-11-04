@@ -12271,7 +12271,7 @@ cumuliform
 christianite
 cramoisie
 clothier
-christianizer
+christianizer 1
 christianizes
 christianizing
 christianly 1
