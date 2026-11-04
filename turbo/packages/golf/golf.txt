@@ -108,7 +108,7 @@ gadge 1
 gunja 1
 gynobaseous
 genevas
-goldthread
+goldthread 1
 gesticular
 goodnaturedness
 glassily
