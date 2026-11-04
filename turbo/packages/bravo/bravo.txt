@@ -17681,7 +17681,7 @@ bevomits
 birgus
 blackfin
 blueings
-bonuses 1
+bonuses 2
 boomlets
 burleycue
 burlesquer
