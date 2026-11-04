@@ -7422,7 +7422,7 @@ fossarian
 filer 2
 fluorinations 1
 factures
-furciferous
+furciferous 1
 fordableness
 fathership
 featless
