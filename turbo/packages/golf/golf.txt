@@ -8953,7 +8953,7 @@ grievable
 grievance 1
 grievous
 gearbox
-germinating
+germinating 1
 galingale 1
 guaranteed 1
 gradgrindish
