@@ -9115,7 +9115,7 @@ alveus
 allround
 alls 1
 adolesce
-artabe
+artabe 1
 appeasive
 allspice
 angulosity
