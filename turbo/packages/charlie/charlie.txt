@@ -21933,7 +21933,7 @@ confidante
 copout
 coresort
 confidants 1
-centaurs
+centaurs 1
 counterproductivity
 coseismic
 confidence
