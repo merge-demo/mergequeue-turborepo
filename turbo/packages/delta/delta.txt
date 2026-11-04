@@ -3427,7 +3427,7 @@ dormered
 drogh
 didelphous 1
 dorism
-defoil
+defoil 1
 dorsobranchiata
 defoliants
 diclinic
@@ -9133,7 +9133,7 @@ diffund
 descend
 dunnage
 druggiest
-divorceuse
+divorceuse 1
 dy
 dido
 diaglyptic 1
