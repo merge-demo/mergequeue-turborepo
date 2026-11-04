@@ -3027,7 +3027,7 @@ deepfrozen
 deemphasize
 diester
 downward
-deewan
+deewan 1
 deary
 dehydrogenising
 durzada
