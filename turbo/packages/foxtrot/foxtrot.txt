@@ -11084,7 +11084,7 @@ forficated 2
 flicflac
 fumariaceous
 flaunter
-foreordains
+foreordains 1
 freightment 1
 flense
 footrace
