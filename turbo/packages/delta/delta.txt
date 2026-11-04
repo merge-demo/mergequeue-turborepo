@@ -1886,7 +1886,7 @@ deicate
 debateable 1
 disinfection 1
 deboss
-debouche
+debouche 1
 dupery
 disbench
 disconcertingness
