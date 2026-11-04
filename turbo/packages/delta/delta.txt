@@ -1558,7 +1558,7 @@ dim
 denominant 1
 deadheartedly 1
 deadheartedness
-dominancy
+dominancy 1
 defilades
 deadish
 dysgenesic
