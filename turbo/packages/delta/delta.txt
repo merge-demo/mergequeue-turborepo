@@ -11556,7 +11556,7 @@ dipt 1
 defrocks
 dosology
 deglamorize
-disconformities
+disconformities 1
 disconjure
 disconnectedness
 diphtheroidal
