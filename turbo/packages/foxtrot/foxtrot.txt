@@ -1419,7 +1419,7 @@ fancying 1
 fluoborid
 fermiums
 fratricides
-fusilly
+fusilly 1
 frequentage
 fraenum
 fatsos
