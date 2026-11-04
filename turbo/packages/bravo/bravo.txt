@@ -17995,7 +17995,7 @@ busily 1
 blastophthoria
 biotins 1
 beguiler
-beadeyes
+beadeyes 1
 babbool
 bennel
 bagle 1
