@@ -1635,7 +1635,7 @@ funfair
 flutterable
 flightless
 favoredly
-fawned
+fawned 1
 fretize 1
 fleaseed
 fetchingly
