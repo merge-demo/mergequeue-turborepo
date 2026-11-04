@@ -15758,7 +15758,7 @@ dornic
 deletive
 deterred
 dropsy
-dornick
+dornick 1
 dornicks
 datival
 dornock
