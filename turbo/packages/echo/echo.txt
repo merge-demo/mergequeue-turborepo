@@ -2247,7 +2247,7 @@ epigonos
 exhume
 elks
 encyclopedian
-encell
+encell 1
 epauletted
 electragy
 electress 1
