@@ -1494,7 +1494,7 @@ flaillike 1
 fissidentaceous
 flunkyhood 3
 fluoroscopist
-folkish
+folkish 1
 floatability
 faucre
 fishmeal
