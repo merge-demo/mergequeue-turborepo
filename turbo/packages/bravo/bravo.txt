@@ -1187,7 +1187,7 @@ bupleurol
 beadflush 1
 bronzitite
 bile
-bradyphrasia
+bradyphrasia 1
 blennoma
 bajarigar
 brideman 1
