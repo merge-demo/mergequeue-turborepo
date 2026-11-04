@@ -1072,7 +1072,7 @@ gremial 1
 gynomonoecism
 gambesons
 gentlewomanhood
-gipsology
+gipsology 1
 gomphiasis
 gasserian
 grays
