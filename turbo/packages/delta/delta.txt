@@ -1191,7 +1191,7 @@ dahabiah
 doormat
 demibrassart
 devilhood
-datana
+datana 1
 discounting
 denasalizing
 disordination
@@ -12217,7 +12217,7 @@ disgarnish
 descartes
 deliberativeness
 dossiere
-demoniacism
+demoniacism 1
 drubbing
 desegregate
 despoticalness
