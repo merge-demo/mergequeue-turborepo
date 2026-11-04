@@ -9960,7 +9960,7 @@ archaeolithic
 acerata
 alveolodental
 airers
-adminiculate
+adminiculate 1
 abducens
 anticlastic
 auricled
