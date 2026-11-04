@@ -5616,7 +5616,7 @@ fuddle 1
 fulgurata
 flimflamming 1
 flimflams
-favouritism
+favouritism 1
 fishbolt
 florist
 fellowshiped

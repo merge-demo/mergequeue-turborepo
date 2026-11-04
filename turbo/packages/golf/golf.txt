@@ -4417,7 +4417,7 @@ gunlayer
 gypped
 giardia 1
 gyp
-gundog
+gundog 1
 greffier
 graveyard
 giddyhead 1
