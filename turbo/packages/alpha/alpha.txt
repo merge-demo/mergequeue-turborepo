@@ -15796,7 +15796,7 @@ assistants
 abiogenist
 alloisomeric
 antiphrases
-antiphthisic
+antiphthisic 1
 autoerotically
 amberiferous
 antiepileptic
