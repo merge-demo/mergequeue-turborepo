@@ -3740,7 +3740,7 @@ funnily
 flippantness
 faultlessly 1
 furoate
-failure
+failure 1
 fibula
 fjorgyn
 fogyish 1
