@@ -4805,7 +4805,7 @@ encomiastically
 extols
 exflagellation
 emulously
-encomic
+encomic 1
 executory
 excipient 1
 encomiumia 2
