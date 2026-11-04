@@ -1202,7 +1202,7 @@ antimedically
 acanthodes
 alcoholise 1
 aspirations
-alligations
+alligations 1
 avowal
 antivitamin 1
 acanthomas
