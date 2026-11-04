@@ -21179,7 +21179,7 @@ apostates
 anthracitiferous
 agnathic 1
 autospore
-arkansan
+arkansan 1
 ambroids
 accommodates
 aerily
