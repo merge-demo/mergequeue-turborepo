@@ -9336,7 +9336,7 @@ alout
 acierate
 alliterations 1
 aloxite
-alpacas
+alpacas 1
 alpargata
 avertive
 abscind 1
