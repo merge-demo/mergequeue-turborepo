@@ -16760,7 +16760,7 @@ distal 1
 draughtboard
 daub
 divulsive
-decastylos
+decastylos 1
 dramshop
 darg
 disseminule
