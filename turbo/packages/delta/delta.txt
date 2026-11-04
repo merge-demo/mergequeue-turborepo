@@ -1538,7 +1538,7 @@ dextrously
 dicranoid
 doubtfulness 1
 deactivation
-deactivators
+deactivators 1
 distressedness
 doublure
 drail
