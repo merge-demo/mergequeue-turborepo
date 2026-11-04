@@ -18530,7 +18530,7 @@ coiffe
 coiffed
 caustics 1
 coiffeur
-coiffeurs
+coiffeurs 1
 coiffeuses
 coiffured
 ceroxylon
