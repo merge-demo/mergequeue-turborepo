@@ -12190,7 +12190,7 @@ annet
 anatox
 axed
 anatoxin
-anapnoic
+anapnoic 1
 anthropophysite
 ailie
 auxinic
