@@ -664,7 +664,7 @@ abominator
 affably 1
 attrist
 abominators
-abomine 1
+abomine 2
 abondance
 aimara
 abysmal
