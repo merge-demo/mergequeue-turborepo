@@ -6252,7 +6252,7 @@ deallocate
 disgrade 1
 dephlegmatory 1
 dermenchysis 1
-delacrimation
+delacrimation 1
 dermestid
 dermatoneural
 dextrogyration 1
