@@ -1420,7 +1420,7 @@ epipodialia
 entoretina
 erythrocytolytic
 espoused
-expenditure
+expenditure 1
 ethnicon
 exaggeratory
 enols
