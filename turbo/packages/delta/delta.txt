@@ -13687,7 +13687,7 @@ drupal
 dictatorialism
 diligency
 decatyl
-devious
+devious 1
 dermatocellulitis
 djellabas
 decagramme 1
