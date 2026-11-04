@@ -4920,7 +4920,7 @@ dueness
 diversionary
 distinguish 1
 derk 1
-demultiplexer
+demultiplexer 1
 devocalised
 deurbanize
 dacoited 1
