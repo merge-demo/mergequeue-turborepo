@@ -5892,7 +5892,7 @@ catfoot
 catfooted
 chhatri
 cedarn
-catgut
+catgut 1
 chancellorism 1
 cath
 cannibalic
