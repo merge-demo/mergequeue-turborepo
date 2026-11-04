@@ -16504,7 +16504,7 @@ chondrolipoma
 cloisonless 2
 chancering 1
 clammish
-cloisonn
+cloisonn 1
 cloisonne
 convival
 carrigeen
@@ -22949,7 +22949,7 @@ consigned
 consignee
 consignify
 cantorous
-chob
+chob 1
 consignificant
 consignification
 consignificative
