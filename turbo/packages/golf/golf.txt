@@ -2304,7 +2304,7 @@ glimpses
 granulocytopoiesis
 geitonogamy
 gooiest
-gonostyle
+gonostyle 1
 grange
 gunite 1
 granulosa 1
