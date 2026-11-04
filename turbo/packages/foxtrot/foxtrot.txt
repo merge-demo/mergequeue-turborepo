@@ -5469,7 +5469,7 @@ frillers
 forswear
 fidelities
 feus 1
-farouk
+farouk 1
 furunculoid
 flesh
 forbids
