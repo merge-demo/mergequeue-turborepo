@@ -3938,7 +3938,7 @@ foxtongue 1
 foal
 feedbacks
 finest 1
-finew
+finew 1
 flection
 fish
 fermentor
