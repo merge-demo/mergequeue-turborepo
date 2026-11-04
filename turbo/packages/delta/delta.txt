@@ -8005,7 +8005,7 @@ dioeciously
 drouthiest
 damageable
 defiances 1
-dft
+dft 1
 dysthymic
 dialects
 defences
