@@ -4940,7 +4940,7 @@ diplographical
 dressmakership
 disnest
 dannie 1
-demurrant
+demurrant 1
 dually 1
 driveling
 demonstratedly

@@ -6427,7 +6427,7 @@ cavalryman
 crinigerous 1
 cavalrymen
 carbazide
-coryl
+coryl 1
 cavate
 conynge
 cancelability
