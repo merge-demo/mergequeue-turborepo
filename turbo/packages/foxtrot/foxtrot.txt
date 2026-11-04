@@ -4016,7 +4016,7 @@ foredawn
 fissural
 frettiest 2
 feudalise
-fingram
+fingram 1
 fossilisable 1
 fiaunt
 feds
