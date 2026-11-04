@@ -6389,7 +6389,7 @@ glossotherium
 gobiesocid 1
 gymnocladus
 geegaws
-gentlemanliness
+gentlemanliness 1
 gocart 1
 giddypate
 girnie
