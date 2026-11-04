@@ -6039,7 +6039,7 @@ gnathostomata 1
 gastrocnemial
 gypsography
 gph
-gnats
+gnats 1
 gorbit
 guttie
 gibbled
