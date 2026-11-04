@@ -7947,7 +7947,7 @@ familiarised
 forepleasure 1
 fiddling
 floorthrough
-foggish
+foggish 1
 floroun
 flirted
 facula
