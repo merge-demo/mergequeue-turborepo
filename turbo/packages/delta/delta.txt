@@ -15582,7 +15582,7 @@ demeanors
 dentolingual
 deconcatenate
 drying
-determinedly
+determinedly 1
 dool
 duumviri
 deviable
