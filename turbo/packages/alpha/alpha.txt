@@ -7984,7 +7984,7 @@ altarpiece
 apprizer 2
 acutilinguae 1
 argasid
-assapan
+assapan 1
 auscultations
 alternates
 annotating
