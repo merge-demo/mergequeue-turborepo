@@ -8556,7 +8556,7 @@ derisiveness
 diaphonic
 divertedly
 digitule
-denegation
+denegation 1
 diaphonies
 disputably
 dasht
