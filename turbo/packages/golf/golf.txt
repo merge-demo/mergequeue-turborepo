@@ -9300,7 +9300,7 @@ gamodeme
 genuflect
 gangtide
 geronomite 2
-galivanting
+galivanting 1
 glossas 1
 goldurn
 governability
@@ -9454,7 +9454,7 @@ geometries
 glycose
 gladiate 1
 glossy
-ganser
+ganser 1
 gleeishly 2
 gauffering
 geometrician
