@@ -1723,7 +1723,7 @@ evang
 eyeground 1
 epornitically
 encephaloid 1
-enginery 1
+enginery 2
 exasper
 exclaimers
 energeia
