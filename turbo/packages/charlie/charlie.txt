@@ -16657,7 +16657,7 @@ covings
 clapbread
 clote
 chayota
-clomb
+clomb 1
 cloth
 clothe
 clothed
