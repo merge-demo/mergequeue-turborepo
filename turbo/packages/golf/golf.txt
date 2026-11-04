@@ -1277,7 +1277,7 @@ gromatical 1
 gyrator 1
 glyphographer
 gumpus
-grallina
+grallina 1
 greyiaceae 1
 grandisonous
 gnatsnapper 1
@@ -9300,7 +9300,7 @@ gamodeme
 genuflect
 gangtide
 geronomite 2
-galivanting
+galivanting 1
 glossas 1
 goldurn
 governability
