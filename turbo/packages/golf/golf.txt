@@ -1020,7 +1020,7 @@ gangava
 groundward
 gynobase 1
 greekess
-gilse
+gilse 1
 gurnetty
 granitizing
 grimacing
@@ -1302,7 +1302,7 @@ government
 geeing
 gulliver
 geodiatropism
-gingilis
+gingilis 1
 garganey 2
 gastropancreatitis
 garget 1
@@ -2304,7 +2304,7 @@ glimpses
 granulocytopoiesis
 geitonogamy
 gooiest
-gonostyle
+gonostyle 1
 grange
 gunite 1
 granulosa 1
