@@ -3511,7 +3511,7 @@ ghastily 1
 gynecolatry
 grenadin
 goth
-gangues
+gangues 1
 garmentworker
 ganglions 1
 gymnorhina 1
