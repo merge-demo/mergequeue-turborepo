@@ -6686,7 +6686,7 @@ adenotyphus
 atacameno 1
 anseres
 ambrology
-amorphophyte
+amorphophyte 1
 accredits
 aimless
 acropolis
