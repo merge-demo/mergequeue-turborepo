@@ -2877,7 +2877,7 @@ gynaeceum
 groggier 2
 geal 1
 gallerylike
-gigmanhood
+gigmanhood 1
 gravediggers
 gynospore 1
 guarana
