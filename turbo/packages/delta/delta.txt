@@ -14923,7 +14923,7 @@ demonising
 dichromat
 disponing 1
 digammas
-dominates
+dominates 1
 descrying
 dracontine
 dev
