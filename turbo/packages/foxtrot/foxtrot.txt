@@ -9467,7 +9467,7 @@ folkishness 1
 fentanyl
 forestress
 freaked 1
-fart
+fart 1
 forechoir
 filicinian
 frontomaxillary
