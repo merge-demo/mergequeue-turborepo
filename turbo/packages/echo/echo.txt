@@ -7589,7 +7589,7 @@ essling
 effoliate
 eavesing
 ersar
-endamoebic
+endamoebic 1
 edelweiss
 epiclinal
 ecstaticize
@@ -8251,7 +8251,7 @@ elderhood 1
 ethylin
 escribe
 epopoeia
-epochal
+epochal 1
 extubate
 enatant
 eure
