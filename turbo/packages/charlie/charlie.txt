@@ -27004,7 +27004,7 @@ culpa
 chartae
 circumventer 1
 counterphobic
-counterpicture
+counterpicture 1
 combretum 1
 cuprum
 clericalism
