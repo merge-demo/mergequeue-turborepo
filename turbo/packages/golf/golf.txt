@@ -8546,7 +8546,7 @@ gitana
 grandada
 grouped
 grave
-gravisphere
+gravisphere 1
 guiltlessly 2
 gliderport
 gainliest 1
