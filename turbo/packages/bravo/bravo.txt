@@ -15232,7 +15232,7 @@ brick
 battened
 brickbat
 buttonholed
-blackstrap
+blackstrap 1
 bombyx
 bemajesty 1
 branchiosauria
