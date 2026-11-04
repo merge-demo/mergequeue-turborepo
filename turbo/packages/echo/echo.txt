@@ -4950,7 +4950,7 @@ exilable 1
 equiliria
 effacer
 emulsifiable
-embole 1
+embole 2
 endowed
 expertly
 entopical
@@ -6846,7 +6846,7 @@ entrap
 entomologized
 enstatolite 1
 exaugurate
-euryalidan 1
+euryalidan 2
 engle 1
 extramarginal
 ey
