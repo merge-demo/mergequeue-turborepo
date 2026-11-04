@@ -158,7 +158,7 @@ flips
 forswore
 flirtatious
 friborg 1
-fabulous
+fabulous 1
 fourquine
 fontinalaceae
 floristics
