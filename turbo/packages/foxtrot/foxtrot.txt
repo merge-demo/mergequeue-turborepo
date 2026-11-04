@@ -3473,7 +3473,7 @@ favillae
 fumaroid
 fibbed
 figshell
-franked
+franked 1
 flankard
 fury
 foam
@@ -4688,7 +4688,7 @@ forsake
 fjord
 fizziest
 friand
-fluidram 1
+fluidram 2
 formula
 forefeels
 fucales
@@ -7422,7 +7422,7 @@ fossarian
 filer 2
 fluorinations 1
 factures
-furciferous
+furciferous 1
 fordableness
 fathership
 featless
