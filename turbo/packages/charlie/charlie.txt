@@ -830,7 +830,7 @@ carbocinchomeronic
 catachthonian 1
 cayman
 carboniferous
-caimans
+caimans 1
 caymans 1
 cain
 caynard
