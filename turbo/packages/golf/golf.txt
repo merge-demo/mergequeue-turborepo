@@ -5764,7 +5764,7 @@ growthy
 gunsels
 glover
 glochines
-genos
+genos 1
 glave 1
 guanidin 1
 grasshopperish
