@@ -2823,7 +2823,7 @@ epiclesis
 eleoptene
 embden 1
 endomastoiditis
-erratuta
+erratuta 1
 exostracize
 elan
 eleostearic
