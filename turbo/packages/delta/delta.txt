@@ -5856,7 +5856,7 @@ depressomotor
 dunniewassel
 densifier
 depressurize
-deaconate
+deaconate 1
 disentraced
 dere
 defeatee
@@ -7832,7 +7832,7 @@ dil 1
 devour
 devourers
 discourseless
-dependently
+dependently 1
 doers
 daylighting
 danziger
