@@ -7823,7 +7823,7 @@ diglyphic
 dissertationist
 dinoceras
 dogsleds
-deckhands
+deckhands 1
 diadochokinesis 1
 dismantle
 dyothelism
