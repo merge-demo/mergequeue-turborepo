@@ -9448,7 +9448,7 @@ alsophila
 allusory
 adamitic
 alstonia 1
-alstonite
+alstonite 1
 amphiphloic
 anticathode
 alimentatively
