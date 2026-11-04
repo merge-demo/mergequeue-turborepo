@@ -1202,7 +1202,7 @@ antimedically
 acanthodes
 alcoholise 1
 aspirations
-alligations
+alligations 1
 avowal
 antivitamin 1
 acanthomas
@@ -15310,7 +15310,7 @@ aidless
 arroba
 antihierarchism
 aitis
-assignations
+assignations 1
 amortise
 anelectrotonic
 aircraftswomen
