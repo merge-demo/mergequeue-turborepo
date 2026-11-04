@@ -11047,7 +11047,7 @@ furzery
 foresights
 filiferous
 fraction
-fumarate
+fumarate 1
 flammulated
 fontainea
 frontolysis 1
