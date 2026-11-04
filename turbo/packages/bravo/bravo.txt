@@ -6038,7 +6038,7 @@ befooling
 brewis
 bilabials
 bribeability
-bruises
+bruises 1
 bitterbark
 bemean 1
 biphenyls
