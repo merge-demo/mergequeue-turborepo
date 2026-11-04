@@ -15997,7 +15997,7 @@ dispetal
 douane 1
 doub
 downsize
-decrepitude
+decrepitude 1
 direct 2
 double
 demos
