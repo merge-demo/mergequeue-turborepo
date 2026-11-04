@@ -5202,7 +5202,7 @@ foreclaw
 formalin
 fuchsia 1
 familarity
-frumpery 1
+frumpery 2
 funest
 fraternizes
 formylating
