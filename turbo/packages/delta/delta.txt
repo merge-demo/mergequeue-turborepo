@@ -10246,7 +10246,7 @@ dioctahedral
 dioctophyme
 deave
 distritbuted
-defaulting
+defaulting 1
 diodontidae 1
 dioecy
 dislodged
