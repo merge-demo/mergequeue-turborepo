@@ -972,7 +972,7 @@ fnese
 frape
 fastigiums
 forkers
-formalizer
+formalizer 1
 fillagreed
 fardage
 ferriages
@@ -10226,7 +10226,7 @@ formalities
 fractures
 frailer 1
 falcated 1
-flaming
+flaming 1
 frogman
 fluoroscopically
 fasciodesis 1
