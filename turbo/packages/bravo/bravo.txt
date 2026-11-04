@@ -9117,7 +9117,7 @@ bearbaiting
 basking
 bipectinated 1
 biopotential 1
-biopsy
+biopsy 1
 ballium 1
 biopsic
 bailliage
