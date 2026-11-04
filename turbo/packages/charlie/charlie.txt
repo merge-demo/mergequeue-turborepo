@@ -9184,7 +9184,7 @@ chasteweed
 censurers
 chastiment
 chastise
-chastiser
+chastiser 1
 consulships
 clapperboard
 cheering 1
