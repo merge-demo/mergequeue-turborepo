@@ -4912,7 +4912,7 @@ freezes 1
 frogflower 2
 facetiously
 flatteringly
-fergusite 1
+fergusite 2
 frenetic
 formly
 fchar

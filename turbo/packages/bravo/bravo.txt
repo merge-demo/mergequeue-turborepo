@@ -56,7 +56,7 @@ bundocks
 babbly
 befrogged
 brushable
-bersaglieri
+bersaglieri 1
 babbit
 baton
 botrytises
