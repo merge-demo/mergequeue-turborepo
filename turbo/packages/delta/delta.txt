@@ -16967,7 +16967,7 @@ dunkard
 dazedness
 domus
 drearing 1
-drearly
+drearly 1
 drearness
 dopperbird
 decimalist
