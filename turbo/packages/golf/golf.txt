@@ -9346,7 +9346,7 @@ galenobismutite
 gobelin
 glaymore 1
 gorgonize
-gelatinized 1
+gelatinized 2
 gheraoed
 geneserin
 graciosity 2
