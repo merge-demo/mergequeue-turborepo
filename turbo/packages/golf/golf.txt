@@ -5623,7 +5623,7 @@ gatemen
 gant 2
 gothites
 grizzler
-grenat
+grenat 1
 gaultheria
 guitarlike
 gaudies
