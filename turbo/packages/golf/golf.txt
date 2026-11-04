@@ -4332,7 +4332,7 @@ gangrene 1
 gallanilide
 gyniatries
 gluhwein
-gambias
+gambias 1
 gynaecomorphous
 gowdnook
 grindings
