@@ -13322,7 +13322,7 @@ agglutinability
 autosome
 abobra
 anthelminthic
-apoturmeric
+apoturmeric 1
 aeroballistic 1
 agamidae
 antimerger
