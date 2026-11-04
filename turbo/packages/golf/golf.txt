@@ -2424,7 +2424,7 @@ gummose
 gratification
 guardship
 gemmological
-gemmologist
+gemmologist 1
 grocers
 guativere 2
 graphotypic
