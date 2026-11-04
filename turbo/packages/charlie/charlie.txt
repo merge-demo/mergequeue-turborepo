@@ -12915,7 +12915,7 @@ cia
 crystallised
 cyan
 cyanamid
-conspires 1
+conspires 2
 coextension
 coaxially
 cyanate
