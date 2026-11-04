@@ -1907,7 +1907,7 @@ flitched
 fainly
 filicologist 1
 flowerlessness
-fanatics
+fanatics 1
 fascicularly
 flimsy
 fruitlets
