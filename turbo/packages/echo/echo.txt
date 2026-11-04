@@ -8890,7 +8890,7 @@ ergatomorphic 1
 extrameridian
 educationally
 enfollow 1
-ergodic
+ergodic 1
 evenhead
 euphoria 1
 expectorators
