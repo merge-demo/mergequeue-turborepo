@@ -2238,7 +2238,7 @@ fainaiguer 1
 femora 1
 fatil
 fain
-fenced
+fenced 1
 fascinated 1
 fimbrilla 1
 fencelessness

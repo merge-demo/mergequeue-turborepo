@@ -27059,7 +27059,7 @@ cumbrous
 conceptualization 1
 counterproposal
 caplock
-croupily
+croupily 1
 clerking
 counterprotection
 counterpull
