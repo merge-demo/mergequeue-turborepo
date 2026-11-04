@@ -8124,7 +8124,7 @@ gemsboks
 gallies 1
 granulization
 gliff 1
-ghastful
+ghastful 1
 gleek 1
 gallicization 1
 gauntly 1
