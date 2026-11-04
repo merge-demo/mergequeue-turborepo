@@ -5878,7 +5878,7 @@ grogshops 1
 goofs
 gambirs
 glamourizer
-gluepot
+gluepot 1
 gemitorial
 globuliform
 gaylussacia
