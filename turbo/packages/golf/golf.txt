@@ -4057,7 +4057,7 @@ gulgul
 gratifiedly
 gilder 1
 glycerogelatin
-giraffish
+giraffish 1
 genapper
 galavant
 gimleteyed
