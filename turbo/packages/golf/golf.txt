@@ -10743,7 +10743,7 @@ gedackt 1
 geckotoid
 gye
 globulin
-gd
+gd 1
 gorsebird
 grovelers
 gouge 1
