@@ -2545,7 +2545,7 @@ fishpot
 fretter
 forewarningly
 forequarter
-fluvicoline
+fluvicoline 1
 farrand
 flimp
 ferricyanide
