@@ -145,7 +145,7 @@ gageable 1
 glycolipide
 guerdonable
 guelf
-gadwalls
+gadwalls 1
 gentlewomanly
 gigantology
 gaelic
