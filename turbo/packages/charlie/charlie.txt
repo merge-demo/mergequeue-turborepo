@@ -12603,7 +12603,7 @@ chronothermal 1
 countable
 collocution 1
 cheney
-coriandrum
+coriandrum 1
 chroococcaceae
 cynanthropy 1
 chopines
