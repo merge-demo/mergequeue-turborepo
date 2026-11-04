@@ -10676,7 +10676,7 @@ electrotelegraphy
 evolve
 eva 1
 euglenaceae
-extrasyllabic
+extrasyllabic 1
 ensigning
 embraced
 endopleural
