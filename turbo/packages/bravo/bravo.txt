@@ -5765,7 +5765,7 @@ beamful
 bloomery
 blankite
 budge 2
-bencite
+bencite 1
 believingly
 brerd
 burials
