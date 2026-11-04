@@ -9244,7 +9244,7 @@ foggily
 foldboats
 fistulization 2
 frowsiness
-frances
+frances 1
 figurants
 forcelet
 franchisees
