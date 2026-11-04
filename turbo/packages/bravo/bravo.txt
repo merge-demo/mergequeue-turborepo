@@ -5194,7 +5194,7 @@ baronne
 befraught
 befreight
 befountained
-borosilicic
+borosilicic 1
 baddish 1
 baguette
 burbank

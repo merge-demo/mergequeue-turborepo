@@ -3427,7 +3427,7 @@ dormered
 drogh
 didelphous 1
 dorism
-defoil
+defoil 1
 dorsobranchiata
 defoliants
 diclinic
