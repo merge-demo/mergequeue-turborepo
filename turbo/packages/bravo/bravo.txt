@@ -17053,7 +17053,7 @@ braces 1
 bulimus
 baler
 bimahs
-bishoping
+bishoping 1
 bulkage
 boldfaces
 bailed 1
