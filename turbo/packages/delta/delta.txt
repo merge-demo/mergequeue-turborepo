@@ -7832,7 +7832,7 @@ dil 1
 devour
 devourers
 discourseless
-dependently
+dependently 1
 doers
 daylighting
 danziger
