@@ -7485,7 +7485,7 @@ deutencephalon
 dumfounding
 dehgan
 deuteranope
-deuteration
+deuteration 1
 denucleate
 demarcator
 desulfurized 2
