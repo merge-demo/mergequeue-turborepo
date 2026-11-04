@@ -7992,7 +7992,7 @@ flutterer
 fundraise 1
 fitment
 fishwives
-faroese
+faroese 1
 felsites 1
 ferroalloy 1
 faunally 1
