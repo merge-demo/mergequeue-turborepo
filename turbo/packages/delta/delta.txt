@@ -2797,7 +2797,7 @@ disulphonate
 decries 1
 decrying
 danegelt
-dielectrically
+dielectrically 1
 demonic 3
 decriminalization
 disequalization
