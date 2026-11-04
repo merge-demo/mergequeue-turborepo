@@ -1807,7 +1807,7 @@ boswellized
 bowmen
 balloonet 1
 bedsprings
-bambute
+bambute 1
 blackheart
 becombed
 baserunning
