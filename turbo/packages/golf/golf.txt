@@ -145,7 +145,7 @@ gageable 1
 glycolipide
 guerdonable
 guelf
-gadwalls
+gadwalls 1
 gentlewomanly
 gigantology
 gaelic
@@ -3336,7 +3336,7 @@ guan 1
 gaults
 gobemouche
 gymnurine 1
-gneu 1
+gneu 2
 gadbush
 gigantosaurus
 gonfanons
