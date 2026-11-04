@@ -29192,7 +29192,7 @@ colicolitis
 cryoscopic
 cryoscopies
 constipate
-cryosel
+cryosel 1
 cryospheric
 chromatospheric
 criosphinxes
