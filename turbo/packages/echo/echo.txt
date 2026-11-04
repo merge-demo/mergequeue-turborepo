@@ -14030,7 +14030,7 @@ emulsin 1
 emmet
 extraspectral
 exordize
-enigmatography
+enigmatography 1
 endothecia
 exr
 enteroclisis
