@@ -1857,7 +1857,7 @@ gulinulae
 gummosity 1
 gateposts 1
 gatewaying 1
-griddlecakes
+griddlecakes 1
 gawain
 ghibellinism
 gnomide 1
