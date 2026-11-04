@@ -8739,7 +8739,7 @@ ensiles
 equivaluer
 exposited
 evulgation 1
-extempore
+extempore 1
 effs
 emmergoose
 evitate 2
