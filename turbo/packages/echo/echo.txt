@@ -9520,7 +9520,7 @@ escrowing 1
 esculents
 ethnog
 esculin
-expansively
+expansively 1
 essences
 eugenesis 1
 extrasolar
