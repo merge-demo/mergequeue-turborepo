@@ -11700,7 +11700,7 @@ epicrises
 endmatcher
 examen
 elementals 1
-enregistry
+enregistry 1
 exurban 1
 elasticizing
 exobiology
