@@ -2603,7 +2603,7 @@ gemmification
 greillade
 glaucine
 glamourization
-grisette
+grisette 1
 gowf
 gasometrical 1
 glossolabial
