@@ -981,7 +981,7 @@ genomic
 gamostele 1
 glottogony
 genoise
-genetically
+genetically 1
 gamp
 graysby 2
 gastrolobium

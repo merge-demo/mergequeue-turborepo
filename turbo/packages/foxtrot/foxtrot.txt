@@ -1581,7 +1581,7 @@ funning
 froufrous 1
 frugalities 1
 fortyfold 1
-flights
+flights 1
 farcelike
 frisca
 fissirostres
