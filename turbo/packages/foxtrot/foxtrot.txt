@@ -2259,7 +2259,7 @@ feluccas
 floralize
 fastigated
 ficoid
-facaded
+facaded 1
 filiety
 florentinism
 fimble 2
@@ -3422,7 +3422,7 @@ foreside
 fieriness
 fummle 1
 fierte
-fifed
+fifed 1
 flerried
 frontals
 feminising

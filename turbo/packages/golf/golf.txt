@@ -4332,7 +4332,7 @@ gangrene 1
 gallanilide
 gyniatries
 gluhwein
-gambias
+gambias 1
 gynaecomorphous
 gowdnook
 grindings
@@ -6039,7 +6039,7 @@ gnathostomata 1
 gastrocnemial
 gypsography
 gph
-gnats
+gnats 1
 gorbit
 guttie
 gibbled
