@@ -5392,7 +5392,7 @@ donation
 disenablement
 deorsum
 deossification
-dissipates
+dissipates 1
 dyakisdodecahedron 2
 deoxycorticosterone
 dandically
