@@ -11326,7 +11326,7 @@ faultfinding 1
 fluoroscopic
 fossilogist
 favorability 1
-freebees
+freebees 1
 frontozygomatic 2
 flathat
 faceted 1
