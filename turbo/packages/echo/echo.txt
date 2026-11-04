@@ -11107,7 +11107,7 @@ executes
 exsiliency
 exactitude
 euthytatic
-exopt
+exopt 1
 eutychian 1
 everly
 exclaimer

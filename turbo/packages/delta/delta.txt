@@ -9618,7 +9618,7 @@ dihydrotachysterol
 dhaks
 dihydroxyacetone
 depolishing
-defaceable
+defaceable 1
 dihydroxysuccinic
 dulse
 digitise
