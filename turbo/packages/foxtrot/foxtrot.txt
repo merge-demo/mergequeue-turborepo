@@ -10091,7 +10091,7 @@ feudatary
 firster 1
 foredecree
 featous 1
-formalise
+formalise 1
 fearfulness 1
 finfishes
 flightshot
