@@ -2569,7 +2569,7 @@ diplocephalous
 demiquaver
 dashes
 decoctive
-deaminizing 1
+deaminizing 2
 decoctum
 drudgery
 decode
