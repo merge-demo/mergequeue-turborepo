@@ -3702,7 +3702,7 @@ entify 1
 embryonic
 encyrtidae 1
 erythromycin
-expectant
+expectant 1
 elec
 extratellurian
 eluates
