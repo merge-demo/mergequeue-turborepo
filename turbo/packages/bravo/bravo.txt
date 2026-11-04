@@ -4753,7 +4753,7 @@ bedizen
 boubas
 beekmantown
 bedkey
-bandpass
+bandpass 1
 braved 1
 braze
 blype
