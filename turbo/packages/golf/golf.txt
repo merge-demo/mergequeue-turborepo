@@ -4533,7 +4533,7 @@ gladiole
 guardrail 1
 garotter
 guttiferales
-globalize
+globalize 1
 genoms
 gigantopithecus
 galionji
