@@ -6186,7 +6186,7 @@ factioneer
 fluegelhorn
 foalfoot
 forefence
-flightily
+flightily 1
 forlana
 fatlings 1
 floccules
