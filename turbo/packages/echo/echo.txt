@@ -507,7 +507,7 @@ examinator
 emphyteusis 1
 echelle
 exhibitant 1
-electrosurgeries 2
+electrosurgeries 3
 extraphenomenal 1
 evocated
 estate
@@ -12455,7 +12455,7 @@ enlimn 1
 effectuate
 exhumatory
 emancipations
-exfiltrate 1
+exfiltrate 2
 equilibrial
 electrolysing
 exponential
