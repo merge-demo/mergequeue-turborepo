@@ -5911,7 +5911,7 @@ endsweep
 eurytopicity
 exoenzymic
 embuskin
-exclave
+exclave 1
 esophagogastrostomy
 eftest 1
 ethmonasal
