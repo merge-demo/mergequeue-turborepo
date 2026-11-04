@@ -7156,7 +7156,7 @@ appalto
 assignation 1
 al
 archaeus
-assistantships
+assistantships 1
 autoregulation
 antibiotics
 argovian 1
@@ -16753,7 +16753,7 @@ autopsychorhythmia
 aphodi
 archipterygium
 astronauts
-albatros
+albatros 1
 amphigonia
 adultoid 1
 arrouse

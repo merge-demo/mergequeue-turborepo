@@ -11382,7 +11382,7 @@ discontentedly
 deadbeats 1
 doctrinize
 dowagers
-disclass
+disclass 1
 deuterogenesis
 dermorhynchous
 disclimax
@@ -14927,7 +14927,7 @@ dominates
 descrying
 dracontine
 dev
-dumbbells
+dumbbells 1
 divulgater
 defendants
 deridingly
