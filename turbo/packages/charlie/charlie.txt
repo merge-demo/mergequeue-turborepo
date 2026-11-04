@@ -15619,7 +15619,7 @@ claustral
 claustration
 characinoid
 concludence
-coenoecium
+coenoecium 1
 claustrophilia
 cassabanana
 circumambulatory
