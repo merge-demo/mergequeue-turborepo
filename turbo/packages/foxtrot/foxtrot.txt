@@ -5269,7 +5269,7 @@ fockle
 ferricyanate
 flavours
 fimbriate 1
-feelinglessly
+feelinglessly 1
 fibrilation
 flawedness
 footstools 1

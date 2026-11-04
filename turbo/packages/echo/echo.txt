@@ -12166,7 +12166,7 @@ embergoose
 elytron 1
 endpoint
 exposure
-euphuism
+euphuism 1
 ellipse
 econometrical
 ethmoturbinate
