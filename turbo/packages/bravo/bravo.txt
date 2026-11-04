@@ -15046,7 +15046,7 @@ biosatellite
 benzdiazine 1
 begift
 barraters
-breedable 1
+breedable 2
 borderies 1
 bendlet
 breeder
