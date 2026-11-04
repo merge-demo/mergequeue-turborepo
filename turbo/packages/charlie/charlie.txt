@@ -27556,7 +27556,7 @@ covertly
 cadency
 cupmaker
 coves
-censured
+censured 1
 covet 1
 cerealin
 covetable
