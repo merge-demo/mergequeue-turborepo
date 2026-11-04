@@ -3158,7 +3158,7 @@ fossate 1
 femurs 1
 freelanced
 fibrovascular
-frigostable
+frigostable 1
 federalese
 feazings
 flagrantness

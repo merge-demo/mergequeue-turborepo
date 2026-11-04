@@ -16854,7 +16854,7 @@ discontinual
 determinativeness
 discharity
 dozes
-depreciations
+depreciations 1
 dissyllabise 1
 diffidence
 demargarinate
