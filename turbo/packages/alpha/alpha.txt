@@ -12898,7 +12898,7 @@ adffroze
 arousement
 angletouch 1
 abysses
-antiquarianly
+antiquarianly 1
 angletwitch
 allays
 anglewise

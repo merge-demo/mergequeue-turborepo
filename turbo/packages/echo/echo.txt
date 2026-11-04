@@ -1335,7 +1335,7 @@ eriocomi
 effeminise
 electrochronometer
 especial
-explosives
+explosives 1
 eelspear
 effeminising
 effeminize
