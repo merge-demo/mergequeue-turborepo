@@ -6307,7 +6307,7 @@ ejusd 1
 enrolls
 eumycetes
 encephalograph
-equijacent
+equijacent 1
 embowed
 enrut 1
 explainability
