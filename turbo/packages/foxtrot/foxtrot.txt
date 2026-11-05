@@ -8262,7 +8262,7 @@ flintify
 finableness
 fetas 1
 flasher 2
-fetishes
+fetishes 1
 frisolee
 freeholders
 forefronts
