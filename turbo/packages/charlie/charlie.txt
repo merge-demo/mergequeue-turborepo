@@ -12937,7 +12937,7 @@ continentality
 cyanides
 cyanidrosis
 clothes
-cyanids
+cyanids 1
 cyanine
 commemorators
 chaldrons
