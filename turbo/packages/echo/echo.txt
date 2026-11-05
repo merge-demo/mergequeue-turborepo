@@ -3542,7 +3542,7 @@ embarras
 exhibit
 eloquentness
 escorted
-enured
+enured 1
 epigonichthyidae
 embolectomy
 enicuridae
