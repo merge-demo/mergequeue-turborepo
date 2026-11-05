@@ -4722,7 +4722,7 @@ gaullist
 gotta
 gomeril
 galleta
-genarch
+genarch 1
 gameness
 glar
 gypsy
