@@ -13479,7 +13479,7 @@ chisel
 chrysocolla
 comitiva 1
 cylindroid
-ceratites
+ceratites 1
 caudillos
 cylindromatous
 crosswords
