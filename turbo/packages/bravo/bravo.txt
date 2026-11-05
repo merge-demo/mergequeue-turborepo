@@ -6462,7 +6462,7 @@ benzopyrylium
 backcourt
 breastweed
 bluestem
-benzoquinoxaline
+benzoquinoxaline 1
 balau
 benzosulfimide
 barbaresque
