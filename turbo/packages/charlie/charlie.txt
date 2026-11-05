@@ -2052,7 +2052,7 @@ camouflage
 camouflageable
 camouflager
 contradictorily
-camouflagers
+camouflagers 1
 camouflagic
 companionship
 cruddle 1
