@@ -11426,7 +11426,7 @@ furl
 furodiazole 1
 feminise
 feoff
-furomethyl
+furomethyl 1
 firring
 furcated
 fishings
