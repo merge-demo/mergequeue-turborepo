@@ -12753,7 +12753,7 @@ chumpaka
 communalisation
 chumpish
 convertibleness
-chumps
+chumps 1
 chums
 cruth
 concise
