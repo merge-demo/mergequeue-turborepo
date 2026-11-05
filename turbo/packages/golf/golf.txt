@@ -4784,7 +4784,7 @@ glissandos
 gobiesociform
 gypaetus 1
 griffinism
-gumma
+gumma 1
 gubernaculum
 gynecidal 1
 garlicwort
