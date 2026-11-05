@@ -10742,7 +10742,7 @@ frumpishly
 foreyear 1
 fructified
 fascistize
-freelancing
+freelancing 1
 filagree
 fringelike 1
 faenus
