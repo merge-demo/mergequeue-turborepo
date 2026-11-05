@@ -9753,7 +9753,7 @@ flummoxed
 fastiia
 fascists
 fencers
-frescoed
+frescoed 1
 forthcoming
 fraxinella
 fresheners
