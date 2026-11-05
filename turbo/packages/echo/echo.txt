@@ -4542,7 +4542,7 @@ encephalotome
 ethics 1
 epionynychia
 euphony
-epagoge
+epagoge 1
 echinodermal
 emberizidae
 electing
