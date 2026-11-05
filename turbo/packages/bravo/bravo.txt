@@ -9448,7 +9448,7 @@ birdies
 boondocker
 bonser
 byssogenous
-butterflying
+butterflying 1
 brimse
 basidial
 boastless
