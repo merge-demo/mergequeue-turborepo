@@ -2320,7 +2320,7 @@ beearn 1
 bilbie 1
 barbequed
 barber 1
-bordrag
+bordrag 1
 businessese
 bizet
 bromidic
@@ -7605,7 +7605,7 @@ beloam
 begirding 1
 bewary
 bewaste 1
-beweary 2
+beweary 3
 besottedness
 botflies 2
 brainworker
