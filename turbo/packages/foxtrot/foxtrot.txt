@@ -6670,7 +6670,7 @@ fighters 1
 feast 1
 fellowships
 fogon 1
-flunks
+flunks 1
 fogproof
 frugally
 forstand 1
