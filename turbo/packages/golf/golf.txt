@@ -5960,7 +5960,7 @@ gaols
 garoter 2
 gillot
 groutiest
-gestating
+gestating 1
 gonifs
 gemmates 2
 gastroenterocolostomy
