@@ -5691,7 +5691,7 @@ egotisticalness
 evocatory
 emerson
 eagerest 1
-engallant
+engallant 1
 enlargedly
 exameter
 exogastric
