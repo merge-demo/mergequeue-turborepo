@@ -8064,7 +8064,7 @@ epiphytic 1
 extensum
 expositor
 eparch
-embroiderers
+embroiderers 1
 epiphloeum
 explicit
 etherize
