@@ -9100,7 +9100,7 @@ dichoptic 1
 dyslexias
 didelphidae
 discursive 1
-dingdong
+dingdong 1
 disweapon
 dredging
 didelphoid
