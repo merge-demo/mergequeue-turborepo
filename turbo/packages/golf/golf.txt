@@ -8185,7 +8185,7 @@ gestative
 gooseneck
 govern 1
 graphemically 1
-gris
+gris 1
 gasconading
 genevois
 graphically 1
