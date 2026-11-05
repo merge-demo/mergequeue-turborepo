@@ -9938,7 +9938,7 @@ acromiosternal
 acceptive
 amateur
 antidotal
-arietid
+arietid 1
 accipenser 1
 amateurishness
 aspergillaceae
