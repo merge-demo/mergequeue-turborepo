@@ -31293,7 +31293,7 @@ crackle
 curbs
 curbside
 curbstone
-curbstoner
+curbstoner 1
 catchingness
 curcas
 citric
