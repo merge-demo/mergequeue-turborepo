@@ -11542,7 +11542,7 @@ broadshare 1
 budder 1
 blufter
 bluggy 1
-bispore 1
+bispore 2
 bethwack 2
 bombload
 blumes
