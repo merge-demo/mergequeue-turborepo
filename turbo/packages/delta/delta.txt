@@ -10737,7 +10737,7 @@ drools
 discomfiture
 dipsomaniac 1
 dietotherapeutics
-dipsomaniacs
+dipsomaniacs 1
 diestrual
 dipsopathy
 deutonephron
