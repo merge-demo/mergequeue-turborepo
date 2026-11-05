@@ -14407,7 +14407,7 @@ charades
 capataces
 cervix
 cirrocumulative
-chasmogamic
+chasmogamic 1
 cirrocumulous
 cebatha
 compressingly

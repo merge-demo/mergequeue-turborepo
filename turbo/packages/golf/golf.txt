@@ -7446,7 +7446,7 @@ granuliferous
 gabbler
 guereza
 ghettoizes
-glossist
+glossist 1
 grabbier
 grunerite
 gourmandizer
