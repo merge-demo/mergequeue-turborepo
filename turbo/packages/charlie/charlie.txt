@@ -19272,7 +19272,7 @@ colonials
 colonical
 critically
 colonies
-colonisability
+colonisability 1
 cholecystis
 colonisable
 clinid
