@@ -4158,7 +4158,7 @@ cardiometric
 cardiomyomalacia 1
 cardiomyopathy
 camshaft
-cafoy
+cafoy 1
 cardionecrosis
 cannibal
 cardioneurosis
