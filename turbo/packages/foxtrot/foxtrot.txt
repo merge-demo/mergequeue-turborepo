@@ -6432,7 +6432,7 @@ flourlike
 fortes
 foremessenger
 fluoroscoped
-furriers
+furriers 1
 fingerfish
 flusterating 1
 fornicating
