@@ -10202,7 +10202,7 @@ fending
 foggages 1
 faros
 flaskful
-frog
+frog 1
 frutilla
 filazer
 freudianism 1
