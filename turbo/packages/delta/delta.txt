@@ -5217,7 +5217,7 @@ dissimulate
 dilettanteish
 degressively
 downhearted
-darkener
+darkener 1
 dentalia
 dentalism
 decultivate
