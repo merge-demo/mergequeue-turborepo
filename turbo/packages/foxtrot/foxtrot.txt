@@ -5665,7 +5665,7 @@ footpound
 foreignization
 folioliferous
 fluidmeter
-fresnels
+fresnels 1
 factional
 facilitator 1
 flyovers
