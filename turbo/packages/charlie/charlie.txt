@@ -3489,7 +3489,7 @@ capstans
 capstone
 capsula
 cons
-capsular
+capsular 1
 conceitedness
 capsulation
 collegatary
