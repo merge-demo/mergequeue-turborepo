@@ -126,7 +126,7 @@ flashforwards
 financiers 1
 fibre
 fossiled
-facsimiled
+facsimiled 1
 footfeed
 falser
 fracturable
