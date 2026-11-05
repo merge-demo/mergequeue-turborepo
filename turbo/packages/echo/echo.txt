@@ -13829,7 +13829,7 @@ editorializing
 extracerebral
 embolo
 elucidative
-effervescingly
+effervescingly 1
 enringed
 electrophilic 1
 earworm 1
