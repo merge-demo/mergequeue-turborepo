@@ -13096,7 +13096,7 @@ expensiveness
 expergefaction 1
 embedding
 epistolographic
-eyeshine
+eyeshine 1
 effeminatize
 excide
 expediency
