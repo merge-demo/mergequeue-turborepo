@@ -10619,7 +10619,7 @@ eudaimonia
 eudaimonist
 epirhizous
 eric 1
-eudemonic
+eudemonic 1
 epappose
 evilproof 1
 eisodic
