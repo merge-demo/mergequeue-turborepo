@@ -10002,7 +10002,7 @@ foreshroud
 framableness
 fenceless
 fanga
-forerevelation
+forerevelation 1
 fecundations
 foredeclare
 foxite 1
