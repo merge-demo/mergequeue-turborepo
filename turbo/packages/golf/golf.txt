@@ -6675,7 +6675,7 @@ girderage
 glycolyl
 geer 1
 gride
-graphitic
+graphitic 1
 gigs
 gastronephritis
 gonidic
