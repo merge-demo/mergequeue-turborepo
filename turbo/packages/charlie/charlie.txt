@@ -9588,7 +9588,7 @@ counteracting
 cheekfuls
 cheekiest
 cheekiness
-cheeking
+cheeking 1
 claustrophobiac
 cheekless 1
 cheeney
@@ -20494,7 +20494,7 @@ chappaul
 chrysenic
 compartmented 1
 cracinae
-centenionalis
+centenionalis 1
 corundum
 composition
 chamaeleon
