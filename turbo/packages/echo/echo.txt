@@ -2257,7 +2257,7 @@ electret
 electrets
 extensometer
 embryony 1
-embraceable
+embraceable 1
 encoach 1
 extremely
 evenhand
