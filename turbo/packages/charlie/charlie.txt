@@ -30496,7 +30496,7 @@ chilblains
 cuba
 cubages
 cubicovariant
-corozos
+corozos 1
 cubane 1
 cubanite
 cubatory
