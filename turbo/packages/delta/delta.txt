@@ -13599,7 +13599,7 @@ disagreeably
 demicritic 1
 drawnet
 dorcopsis 1
-dissentive
+dissentive 1
 diavolo
 doroscentral
 datakit
