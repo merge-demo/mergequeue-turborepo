@@ -13998,7 +13998,7 @@ encoignures
 embryo
 ecchymosis
 emboitement 1
-euler
+euler 1
 epitoniidae 1
 embargoist 1
 epicoracohumeral
