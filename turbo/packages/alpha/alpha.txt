@@ -25245,7 +25245,7 @@ antical
 aciduria
 azeotrope
 asininely
-alveoloclasia
+alveoloclasia 1
 azeotropic 1
 azerbaijani
 azerbaijanian
