@@ -894,7 +894,7 @@ geegaw
 gadis
 galactan 1
 guily
-goffer
+goffer 1
 gyniolatry
 ghatti
 gymnophiona
