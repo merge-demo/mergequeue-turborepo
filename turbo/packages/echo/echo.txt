@@ -2194,7 +2194,7 @@ eths
 ere 1
 engrosser
 emphasising 1
-epanthous
+epanthous 1
 elderman 1
 ensorcels 1
 eggwhisk
