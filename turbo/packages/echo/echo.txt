@@ -9026,7 +9026,7 @@ equivalue 1
 expurgating
 erythroblast
 echinulation 1
-evertor
+evertor 1
 electromyographic 1
 eurychoric 1
 erythroblastic
