@@ -4323,7 +4323,7 @@ ficiform 1
 flambes
 fieriest 1
 fibromatoid
-fosslify
+fosslify 1
 finific 1
 fibromyxoma
 frankify
