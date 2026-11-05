@@ -3106,7 +3106,7 @@ antifeudal
 actinost
 auctioned 1
 appendicularia
-actinostereoscopy
+actinostereoscopy 1
 azthionium
 avowableness
 antigropelos
