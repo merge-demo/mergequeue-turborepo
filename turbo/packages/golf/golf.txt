@@ -3506,7 +3506,7 @@ griffe
 gamines
 gents
 glycolysis
-generalships
+generalships 1
 ghastily 1
 gynecolatry
 grenadin
