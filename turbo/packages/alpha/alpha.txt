@@ -6621,7 +6621,7 @@ aiguille
 aiguillette
 anthropoids
 aquiline
-antinuke
+antinuke 1
 agorae
 aikane
 aldazin 1
