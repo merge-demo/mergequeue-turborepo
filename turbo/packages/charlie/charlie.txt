@@ -961,7 +961,7 @@ calaite
 calamancoes
 calamander
 catti
-calamansi
+calamansi 1
 calamar
 calamary
 calamariaceous
