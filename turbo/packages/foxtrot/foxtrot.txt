@@ -6411,7 +6411,7 @@ flummery
 fordy
 fellatrix
 forsar
-flurn
+flurn 1
 flurried 1
 futhorks
 fernbird

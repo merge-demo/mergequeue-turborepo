@@ -2933,7 +2933,7 @@ encystation
 elias
 epitomiser
 epistomal 1
-egyptian
+egyptian 1
 etchings 1
 eelshop
 effectful
