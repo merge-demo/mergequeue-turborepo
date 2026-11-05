@@ -9474,7 +9474,7 @@ alterably
 argas
 anchylose
 archaeocyte
-abetter
+abetter 1
 anythingarian
 anointed
 althein
