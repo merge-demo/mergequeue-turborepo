@@ -5784,7 +5784,7 @@ awacs
 apickaback
 ancestor
 agate
-agates
+agates 1
 autoturning 1
 advocate
 appal
