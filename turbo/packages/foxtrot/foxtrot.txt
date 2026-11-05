@@ -6187,7 +6187,7 @@ fluegelhorn
 foalfoot
 forefence
 flightily 1
-forlana
+forlana 1
 fatlings 1
 floccules
 focusable
