@@ -4292,7 +4292,7 @@ enhydra
 ethnobiological
 equiponderate
 excerpts
-effectible
+effectible 1
 edifyingly
 en
 extirpation 1
