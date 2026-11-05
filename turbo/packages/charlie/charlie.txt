@@ -29746,7 +29746,7 @@ challenged
 cheder
 caliciform
 colpheg
-confessory
+confessory 1
 crookbacked
 crookbill
 castral
