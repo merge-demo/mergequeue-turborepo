@@ -12811,7 +12811,7 @@ exostosis
 exostra 1
 ebullition 1
 elementary 1
-exostrae
+exostrae 1
 exoteric 1
 exoterica
 elementalistically

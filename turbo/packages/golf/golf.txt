@@ -9647,7 +9647,7 @@ ghana
 guipures 1
 gamogony
 gibuses
-griotte
+griotte 1
 gastroscopy
 gascons 1
 gowaned
