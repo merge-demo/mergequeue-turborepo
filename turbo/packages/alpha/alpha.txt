@@ -2467,7 +2467,7 @@ asparagus
 amphisbaenidae
 ascendingly
 acme 1
-acquiring
+acquiring 1
 articulata
 anticlinal
 americana
