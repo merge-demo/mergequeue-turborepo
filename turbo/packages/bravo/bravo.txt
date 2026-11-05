@@ -7124,7 +7124,7 @@ beetler 1
 bathyscaphes
 baxter
 bespeckle
-bethylid
+bethylid 1
 bespeckled
 benzoyls
 blindman
