@@ -10136,7 +10136,7 @@ fe
 fulciform
 fortuitus
 foreheaded
-fissiparously 2
+fissiparously 3
 frittering
 fuchi
 freakier 1
