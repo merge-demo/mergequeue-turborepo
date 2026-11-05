@@ -13287,7 +13287,7 @@ endocrinopath
 episcopy
 expiscate 1
 effie
-exploiting
+exploiting 1
 exploiture 1
 entozoological 1
 exploratively
