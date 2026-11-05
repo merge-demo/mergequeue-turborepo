@@ -7821,7 +7821,7 @@ delthyria
 delates 1
 diglyphic
 dissertationist
-dinoceras
+dinoceras 1
 dogsleds
 deckhands 1
 diadochokinesis 1
