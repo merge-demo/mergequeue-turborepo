@@ -3206,7 +3206,7 @@ genizah
 galban 1
 gerah
 goodwily 1
-gloppen 2
+gloppen 3
 gorcock 1
 grammies
 geraniums
@@ -5960,7 +5960,7 @@ gaols
 garoter 2
 gillot
 groutiest
-gestating
+gestating 1
 gonifs
 gemmates 2
 gastroenterocolostomy
