@@ -10956,7 +10956,7 @@ excluder
 eoan
 emydea
 estufa
-eupsychics
+eupsychics 1
 eurafric
 eurasianism
 eremites 1
