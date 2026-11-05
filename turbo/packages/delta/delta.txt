@@ -6089,7 +6089,7 @@ deregulation
 deregulationize
 dicolic
 deregulations
-deputable
+deputable 1
 disinthrall
 dichromatism 1
 drumloid
