@@ -5199,7 +5199,7 @@ grenade
 goatish 1
 gelsemiums
 gusseting 1
-glenohumeral
+glenohumeral 1
 genomes
 grouted 1
 garnets 1
