@@ -9461,7 +9461,7 @@ blander
 birdless
 bimucronate
 balbutiate
-banish
+banish 1
 birdlimes
 blennoemesis
 bimolecularly
