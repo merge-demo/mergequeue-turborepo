@@ -4699,7 +4699,7 @@ ensuance 1
 englishism
 enciphering
 enrapture
-eulogism
+eulogism 1
 engerminate
 executonis
 epacmaic
