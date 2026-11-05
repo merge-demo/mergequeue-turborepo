@@ -7477,7 +7477,7 @@ ceratostomataceae 1
 cytococcus
 cimicidae
 cheliceral 1
-ceratotheca
+ceratotheca 1
 cypridinidae 1
 clergyman
 coolhouse
@@ -7496,7 +7496,7 @@ chromididae
 coloni
 cercarian
 cilices
-cercariform
+cercariform 1
 chaffs
 cerci
 cercidiphyllaceae
