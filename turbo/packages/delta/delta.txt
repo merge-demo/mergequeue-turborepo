@@ -11218,7 +11218,7 @@ deckers 1
 devitrifiable
 dysbulic
 damnatory
-dunnaging
+dunnaging 1
 disburdenment
 disgage
 delouses
