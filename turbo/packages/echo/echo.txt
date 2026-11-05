@@ -4158,7 +4158,7 @@ expungement 1
 erythrodermia 1
 externum
 encl
-encaustes
+encaustes 1
 exporter
 elaeosia 2
 evadne
