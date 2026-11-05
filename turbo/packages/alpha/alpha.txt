@@ -8496,7 +8496,7 @@ amebocyte
 acanthosis
 alkapton
 anorganology
-alkaptone
+alkaptone 1
 ascent
 alkaptonuric 1
 ancipital

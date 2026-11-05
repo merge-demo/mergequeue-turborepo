@@ -4388,7 +4388,7 @@ glamours 1
 gazangabin
 globigerinidae
 gynura 1
-goyazite
+goyazite 1
 gadsman
 glucuronide 1
 gobby 1
