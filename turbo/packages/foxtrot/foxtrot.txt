@@ -6063,7 +6063,7 @@ forecome
 floush 1
 focalisation 1
 fungillus
-fouls
+fouls 1
 foudroyant
 flossiest
 filibusterism
