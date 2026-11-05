@@ -10998,7 +10998,7 @@ flatuous
 floricin
 fumatoria
 flob
-focusses
+focusses 1
 frontispiecing 1
 fumbled 1
 farde 1
