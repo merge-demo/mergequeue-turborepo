@@ -4176,7 +4176,7 @@ cardiosphygmograph
 citternhead
 cardiotrophotherapy
 cardiovascular
-coalhole
+coalhole 1
 chamomile
 cypseliform 1
 carditis
