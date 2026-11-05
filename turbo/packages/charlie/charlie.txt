@@ -8835,7 +8835,7 @@ clodbreaker
 cuniform
 cumarone
 cowards
-characterism
+characterism 1
 cueing
 characteristically
 characteristicalness
