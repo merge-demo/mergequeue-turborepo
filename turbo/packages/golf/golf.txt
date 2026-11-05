@@ -2075,7 +2075,7 @@ gavots 1
 gazetteership
 glycerophosphoric
 gomari
-giftless
+giftless 1
 gutturonasal 1
 glossers
 gingkoes 1
@@ -9667,7 +9667,7 @@ govt
 gypsophilous
 gidgea
 granuliform 1
-gruellings 1
+gruellings 2
 gruesome
 galeod 1
 gasp
