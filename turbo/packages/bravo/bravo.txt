@@ -2023,7 +2023,7 @@ brachydiagonal 1
 bourdis 1
 baniya
 baning
-bandcutter 1
+bandcutter 2
 bhaiachara
 banisher
 bilateralities
