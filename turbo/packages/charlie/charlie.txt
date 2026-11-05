@@ -11251,7 +11251,7 @@ compaternity 1
 carlin
 chlorimeter
 chlorimetric
-chlorinating
+chlorinating 1
 curly 1
 candela
 chlorination 1
@@ -16019,7 +16019,7 @@ clubmobile
 clianthus
 clansmanship
 columned
-coxalgia
+coxalgia 1
 clich
 cliche
 cryopathy
