@@ -5181,7 +5181,7 @@ endogenous
 entangledness
 enlistment
 electo 1
-eleme
+eleme 1
 existibility 2
 ecchymoses
 embossment 1
