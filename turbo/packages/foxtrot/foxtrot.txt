@@ -3932,7 +3932,7 @@ fullest
 foeniculum
 flitted
 fictionmonger 1
-fluey
+fluey 1
 fogyism
 foxtongue 1
 foal
