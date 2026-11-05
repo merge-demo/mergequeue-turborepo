@@ -3646,7 +3646,7 @@ glyceral
 griphus 2
 gastronomical
 groover
-gaslighted
+gaslighted 1
 galumptious
 gelastic
 grapsus
