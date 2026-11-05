@@ -8650,7 +8650,7 @@ didactyl 1
 dissection
 dyassic
 demagogies
-divulgate
+divulgate 1
 decoymen 1
 drumbling
 diaspidine
