@@ -14822,7 +14822,7 @@ cytomere
 carefully
 captivative
 citrated 1
-cordages
+cordages 1
 cyton
 cytone
 chorda
