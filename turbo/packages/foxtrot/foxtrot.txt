@@ -3781,7 +3781,7 @@ ferroconcretor
 fraterniser
 flyflap 1
 freon
-ferritization
+ferritization 1
 frizzliest 1
 fistulate
 frijolillo 1
