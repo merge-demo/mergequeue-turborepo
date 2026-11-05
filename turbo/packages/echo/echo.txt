@@ -5181,7 +5181,7 @@ endogenous
 entangledness
 enlistment
 electo 1
-eleme
+eleme 1
 existibility 2
 ecchymoses
 embossment 1
@@ -6819,7 +6819,7 @@ examiningly
 entomical
 empoisoning 2
 electroimpulse
-entomol
+entomol 1
 eyepopper
 exocentric
 ensky
