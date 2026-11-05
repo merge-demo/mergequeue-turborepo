@@ -12623,7 +12623,7 @@ decupled
 devel 1
 degradational
 disjasked 1
-drubbings
+drubbings 1
 disject
 disjected
 discourage
