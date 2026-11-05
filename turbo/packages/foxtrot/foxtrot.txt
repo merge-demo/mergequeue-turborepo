@@ -3286,7 +3286,7 @@ fungus 1
 flirtling
 finesser
 foreward 1
-flyting
+flyting 1
 flasket
 factories
 foreconscious
