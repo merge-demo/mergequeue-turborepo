@@ -8730,7 +8730,7 @@ fated
 frugality 1
 fashionative 2
 fumbler 1
-forhooie
+forhooie 1
 face 1
 floatiest
 foiblesse
