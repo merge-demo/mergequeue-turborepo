@@ -5450,7 +5450,7 @@ fanatic
 fretsome 1
 fleeter
 flex
-fusionless
+fusionless 1
 firefighter
 frondosely
 forevow 1
