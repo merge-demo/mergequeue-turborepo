@@ -21825,7 +21825,7 @@ antifertilizer
 argentamid 1
 abaxial
 assessed
-assessment
+assessment 1
 advowry
 aphacial
 assessors 1
