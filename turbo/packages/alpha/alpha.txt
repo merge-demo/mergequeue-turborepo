@@ -17028,7 +17028,7 @@ anthropomorphic
 apoquinine
 acroscleroderma
 apocha
-apochromatism
+apochromatism 1
 archimorula
 astrophotometry
 airbrushes
