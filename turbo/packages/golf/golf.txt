@@ -6250,7 +6250,7 @@ genistein
 gullable 1
 goosing
 gobies
-graftproof
+graftproof 1
 gallify 1
 gasogenes 2
 gobiid
