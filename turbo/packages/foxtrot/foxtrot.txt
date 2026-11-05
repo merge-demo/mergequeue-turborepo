@@ -4000,7 +4000,7 @@ furrow
 fabricated
 filmlike 1
 fadmongery
-festin
+festin 1
 forehorse
 fatling
 fluoaluminic
