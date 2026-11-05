@@ -4757,7 +4757,7 @@ establishments 1
 exploratory
 extracardial
 encloister
-easternizing
+easternizing 1
 extend
 endosporously
 emeried
