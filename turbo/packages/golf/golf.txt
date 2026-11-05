@@ -2075,7 +2075,7 @@ gavots 1
 gazetteership
 glycerophosphoric
 gomari
-giftless
+giftless 1
 gutturonasal 1
 glossers
 gingkoes 1
