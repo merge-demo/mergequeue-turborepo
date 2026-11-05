@@ -7062,7 +7062,7 @@ fumishing
 foolproof
 foolproofness
 ferret
-fibulare
+fibulare 1
 frocking 1
 filipinization
 flagger
