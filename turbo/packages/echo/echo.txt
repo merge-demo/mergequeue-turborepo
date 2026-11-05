@@ -3459,7 +3459,7 @@ eutelegenic
 endiadem
 encheason
 episcia
-enchained
+enchained 1
 encolden
 embers
 estival
