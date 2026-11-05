@@ -497,7 +497,7 @@ gridirons
 glut
 gauric
 gipsies 1
-galericulate
+galericulate 1
 germing 1
 gess
 gadding
