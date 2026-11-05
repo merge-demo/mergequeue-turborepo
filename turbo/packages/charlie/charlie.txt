@@ -20494,7 +20494,7 @@ chappaul
 chrysenic
 compartmented 1
 cracinae
-centenionalis
+centenionalis 1
 corundum
 composition
 chamaeleon
@@ -25447,7 +25447,7 @@ cornual
 compulsory
 cornuated
 coelastraceae
-cornubianite
+cornubianite 1
 cornule
 constringed
 corporatism
