@@ -19878,7 +19878,7 @@ arithmomania
 aromatising 1
 armilla
 astraphobia
-armillae
+armillae 1
 atonies
 accrues
 antigone
