@@ -4695,7 +4695,7 @@ electroencephalographs
 egomania 1
 enmuffle
 entrammel
-ensuance
+ensuance 1
 englishism
 enciphering
 enrapture
@@ -8064,7 +8064,7 @@ epiphytic 1
 extensum
 expositor
 eparch
-embroiderers
+embroiderers 1
 epiphloeum
 explicit
 etherize
