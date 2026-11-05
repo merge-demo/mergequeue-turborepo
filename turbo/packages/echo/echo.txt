@@ -12663,7 +12663,7 @@ exogenously 1
 examplar
 enterogram
 effusion
-exognathite
+exognathite 1
 expunges
 exornate
 elixed 2
