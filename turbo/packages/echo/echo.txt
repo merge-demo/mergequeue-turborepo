@@ -12667,7 +12667,7 @@ exognathite
 expunges
 exornate
 elixed 2
-exogenetic
+exogenetic 1
 enkolpion
 exometritis
 excogitate 1
