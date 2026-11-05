@@ -1627,7 +1627,7 @@ greetingly
 groovier
 grousewards
 garawi
-gumlikeness
+gumlikeness 1
 ghalva 1
 geode 1
 goyish
