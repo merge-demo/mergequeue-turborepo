@@ -1453,7 +1453,7 @@ effort
 ethmovomer
 emeline
 emication
-ergonomic
+ergonomic 1
 epanorthotic
 emunct
 exenteritis
@@ -2398,7 +2398,7 @@ epipetalous
 erythroid
 episcopalianize
 echinostoma
-ensorcell
+ensorcell 1
 enterocentesis
 events
 entrail 1
