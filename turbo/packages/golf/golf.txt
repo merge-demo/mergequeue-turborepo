@@ -9262,7 +9262,7 @@ glandular 2
 grapeline
 girnel 1
 gallowglass
-gaure
+gaure 1
 guttera
 grudgingness 1
 ghosted 1
