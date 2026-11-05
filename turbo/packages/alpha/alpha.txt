@@ -12194,7 +12194,7 @@ anapnoic 1
 anthropophysite
 ailie
 auxinic
-anatreptic
+anatreptic 1
 androdynamous 1
 agendas
 accoucheuse
