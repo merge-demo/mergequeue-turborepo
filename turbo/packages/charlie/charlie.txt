@@ -1025,7 +1025,7 @@ calathi
 calathidia
 chamberlainship 1
 calathiform
-calathiscus
+calathiscus 1
 cognise
 calathos 1
 crapshooter
