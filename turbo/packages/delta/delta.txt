@@ -9828,7 +9828,7 @@ disclander
 dinars
 derival
 diluvianism
-demibastioned
+demibastioned 1
 diluvium
 digests
 dextrality 2
