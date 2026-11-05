@@ -4672,7 +4672,7 @@ encyclopedia
 enwoman
 encyclopediacal
 equestrianship
-exceptionability
+exceptionability 1
 evolutionize
 extrasacerdotal
 endemics
