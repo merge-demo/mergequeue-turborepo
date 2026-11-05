@@ -10682,7 +10682,7 @@ gurk
 gellants
 groundbird
 geostatic
-gurnet
+gurnet 1
 gildings
 girdlers
 goldbrickers 1
