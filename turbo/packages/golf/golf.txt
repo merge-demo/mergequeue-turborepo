@@ -8575,7 +8575,7 @@ gregarinian
 gibbeting
 gaudeamuses
 geothermometer
-gaufrettes
+gaufrettes 1
 glucose
 geometrizing
 graziers
