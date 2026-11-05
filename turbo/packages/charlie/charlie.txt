@@ -11251,7 +11251,7 @@ compaternity 1
 carlin
 chlorimeter
 chlorimetric
-chlorinating
+chlorinating 1
 curly 1
 candela
 chlorination 1
@@ -19389,7 +19389,7 @@ chemmy
 colorimetrist
 carinthian
 chrysobalanaceae
-connoisseurs
+connoisseurs 1
 crosscurrents
 colorin
 colorings
