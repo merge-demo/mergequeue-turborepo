@@ -6836,7 +6836,7 @@ eelskin 1
 ealdorman
 emanations
 epituberculosis
-ermine
+ermine 1
 exults
 epidermoidal
 educability
