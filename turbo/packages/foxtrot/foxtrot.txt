@@ -11583,7 +11583,7 @@ fluctigerous
 fusillading
 feuage 1
 furzechat
-fundatrix
+fundatrix 1
 fanleaf
 federalization
 fluence
