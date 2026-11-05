@@ -2256,7 +2256,7 @@ decemviral
 deepish
 decemvirship
 decayer
-decene
+decene 1
 depurator 1
 decennial
 dingdongs

@@ -764,7 +764,7 @@ gavotted
 gastrohysterorrhaphy
 gravitater
 gestapos
-gerim
+gerim 1
 gunbearer 1
 gerkin
 galvanopuncture
