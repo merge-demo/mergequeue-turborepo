@@ -2140,7 +2140,7 @@ ditheistic
 dehydration
 drowsing
 dinguses
-decarbonated
+decarbonated 1
 decarbonation
 declaratively
 disintegrations
@@ -14675,7 +14675,7 @@ djerib
 demonolatrous
 djersa
 dschubba
-djin
+djin 1
 disrespondency
 dissected
 describe
