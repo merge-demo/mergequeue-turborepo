@@ -10130,7 +10130,7 @@ fleshment
 fowells
 frithstool
 fritniency 1
-fare
+fare 1
 foreknee
 fe
 fulciform
