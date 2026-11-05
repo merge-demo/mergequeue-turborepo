@@ -3929,7 +3929,7 @@ fluoranthene 1
 foresummon
 fendered 1
 fullest
-foeniculum
+foeniculum 1
 flitted
 fictionmonger 1
 fluey 1
