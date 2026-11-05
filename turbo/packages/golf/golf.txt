@@ -1727,7 +1727,7 @@ gammon
 granduncle
 glibber
 gave
-gloeal
+gloeal 1
 goric
 glass
 guesses
