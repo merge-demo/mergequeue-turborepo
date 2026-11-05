@@ -6226,7 +6226,7 @@ glucolipin
 galoch 1
 gospelly
 gaillardia 1
-gainable
+gainable 1
 gobble
 gowpen 1
 gobbled
