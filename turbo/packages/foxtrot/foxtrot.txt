@@ -7880,7 +7880,7 @@ frakturs 1
 foreseeable
 falkland
 futchel
-footeite
+footeite 1
 footslog
 fletching
 foreseer
