@@ -5418,7 +5418,7 @@ endpoints
 endrudge
 extrabulbar 1
 eyewort
-ecderonic
+ecderonic 1
 endseal
 endshake
 elfishly
