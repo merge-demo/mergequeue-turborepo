@@ -3925,7 +3925,7 @@ fireboxes
 fumattoria
 flemish
 frailejon
-fluoranthene
+fluoranthene 1
 foresummon
 fendered 1
 fullest
