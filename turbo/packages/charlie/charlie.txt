@@ -19604,7 +19604,7 @@ columnistic
 coach
 columnists
 callets
-cinematographical
+cinematographical 1
 columnized
 creeperless
 columnizing
