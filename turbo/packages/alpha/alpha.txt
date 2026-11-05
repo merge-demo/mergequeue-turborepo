@@ -448,7 +448,7 @@ abintestate
 apathist
 abiogenetical
 abiogenetically
-apothems
+apothems 1
 anonychia 1
 abiotic
 argentometer 1
