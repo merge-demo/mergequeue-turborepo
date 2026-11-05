@@ -6072,7 +6072,7 @@ gastroid
 geissorhiza
 griege
 geitonogamous 1
-gnomologist
+gnomologist 1
 gyroma 1
 greit
 greatly

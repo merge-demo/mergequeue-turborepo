@@ -14542,7 +14542,7 @@ disjointly
 demotic
 dyadic 1
 divinister
-deallocating
+deallocating 1
 denudant 1
 dissimuler
 discoverers
