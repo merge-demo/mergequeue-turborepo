@@ -2010,7 +2010,7 @@ glyconian 2
 goosewing 2
 gaspingly
 galleass
-goutify
+goutify 1
 grubberies
 galatian 1
 glacon
