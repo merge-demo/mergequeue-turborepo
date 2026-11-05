@@ -1491,7 +1491,7 @@ balking 1
 budgy
 backbiter 1
 boyarisms
-blighter
+blighter 1
 balkish
 brigous 1
 bodaciously
