@@ -7228,7 +7228,7 @@ glassmaker
 gribble 2
 gingernut
 gemination
-gorgoneion
+gorgoneion 1
 gammas
 gromyl
 gormand
