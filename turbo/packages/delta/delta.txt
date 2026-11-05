@@ -788,7 +788,7 @@ defs
 dispurpose 1
 drawn
 devolatilize
-dacryocystotomy
+dacryocystotomy 1
 dandles 1
 discute 1
 delirament 1
