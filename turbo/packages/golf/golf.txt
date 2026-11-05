@@ -3377,7 +3377,7 @@ gnatling
 gorkun
 galbe
 glaciable
-gainor
+gainor 1
 gravy 1
 gentiles
 gymnoceratous
