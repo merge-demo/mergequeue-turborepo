@@ -5813,7 +5813,7 @@ elephant
 electroencephalograms 1
 egyptologer
 embraces
-engrammic
+engrammic 1
 estrangement
 epopees
 explanation
