@@ -6765,7 +6765,7 @@ graze 1
 garle
 ghazi
 gonococci
-glossopharyngeus
+glossopharyngeus 1
 gratuitous
 granogabbro
 gregarinida
