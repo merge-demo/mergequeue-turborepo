@@ -16363,7 +16363,7 @@ derelictions
 drainable
 downstate
 dissimulating
-duplation
+duplation 1
 defilade
 defrost
 downstrokes
