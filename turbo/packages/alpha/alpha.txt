@@ -13256,7 +13256,7 @@ ancestors 1
 aegithognathous
 animus
 administrationist
-animuses
+animuses 1
 anomaly
 anionic
 amiles
