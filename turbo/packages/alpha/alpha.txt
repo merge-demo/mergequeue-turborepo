@@ -19419,7 +19419,7 @@ argentin
 anglicanism 1
 antidemocratical
 advertisee
-astrolog
+astrolog 1
 argentine
 argentineans
 argentinian
