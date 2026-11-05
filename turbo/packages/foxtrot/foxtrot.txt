@@ -8212,7 +8212,7 @@ flatette
 forgat 1
 flavines
 forgather
-fossulet 1
+fossulet 2
 falsifications
 fossulate
 foresweat
@@ -10136,7 +10136,7 @@ fe
 fulciform
 fortuitus
 foreheaded
-fissiparously 2
+fissiparously 3
 frittering
 fuchi
 freakier 1

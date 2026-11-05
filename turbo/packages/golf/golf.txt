@@ -1727,7 +1727,7 @@ gammon
 granduncle
 glibber
 gave
-gloeal
+gloeal 1
 goric
 glass
 guesses
@@ -6309,7 +6309,7 @@ groceries
 gardeen
 geotropism
 goety 1
-gummage
+gummage 1
 gardencraft
 gymnolaemata 1
 gaels
