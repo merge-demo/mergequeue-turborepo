@@ -7036,7 +7036,7 @@ besmudge
 beamless
 bronzite 1
 bespouses
-boxhaul
+boxhaul 1
 behaviorism
 boma 1
 besnowing
