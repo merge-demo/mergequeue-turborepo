@@ -23860,7 +23860,7 @@ autecism
 autecology
 arrach
 artic 1
-adaptiveness
+adaptiveness 1
 aaa 1
 abrocoma
 auth
