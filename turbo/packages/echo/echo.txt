@@ -8063,7 +8063,7 @@ encoop
 epiphytic 1
 extensum
 expositor
-eparch
+eparch 1
 embroiderers
 epiphloeum
 explicit
