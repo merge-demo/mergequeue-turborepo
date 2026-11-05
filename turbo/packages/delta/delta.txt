@@ -10550,7 +10550,7 @@ digammate
 denote
 dislikes
 disequilibrium
-duteously
+duteously 1
 discoblastula
 deafens 1
 dafla
