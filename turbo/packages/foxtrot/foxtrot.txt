@@ -10009,7 +10009,7 @@ foxite 1
 frilled
 fegary 1
 flexitime
-finicky
+finicky 1
 fowlpox
 fopped
 flenching
