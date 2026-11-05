@@ -3916,7 +3916,7 @@ grubworms
 gigawatts
 glossoscopia 1
 geoty
-gads
+gads 1
 gorgoneioneia
 gastrological
 guested 1
@@ -6765,7 +6765,7 @@ graze 1
 garle
 ghazi
 gonococci
-glossopharyngeus
+glossopharyngeus 1
 gratuitous
 granogabbro
 gregarinida
