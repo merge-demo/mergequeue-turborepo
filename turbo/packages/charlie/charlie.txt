@@ -9588,7 +9588,7 @@ counteracting
 cheekfuls
 cheekiest
 cheekiness
-cheeking
+cheeking 1
 claustrophobiac
 cheekless 1
 cheeney
