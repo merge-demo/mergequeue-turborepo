@@ -15118,7 +15118,7 @@ dentist
 damningness 1
 disadvantaged
 delawn
-degustate
+degustate 1
 dubitatively
 dipolarization
 disconsider
