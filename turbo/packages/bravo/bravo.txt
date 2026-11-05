@@ -17418,7 +17418,7 @@ bushbaby
 blindest
 bestriding 2
 bassoon 1
-berserker
+berserker 1
 bluebird
 blotchier
 bunkerage
