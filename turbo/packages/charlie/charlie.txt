@@ -12995,7 +12995,7 @@ crunchingness
 cryogens
 curcumas
 craniates
-curies
+curies 1
 cyanophile
 cyanophoric
 colloquize
