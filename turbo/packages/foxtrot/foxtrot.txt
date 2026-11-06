@@ -1555,7 +1555,7 @@ farrow
 forepayment 1
 flowcontrol 1
 fishbowl
-fauvism
+fauvism 1
 funk
 filmier
 fuselage
