@@ -25320,7 +25320,7 @@ azoles
 aleph
 aegirinolite
 analysands
-allots
+allots 1
 astrophobia
 azonaphthalene
 azons 1
