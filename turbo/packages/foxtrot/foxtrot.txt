@@ -8178,7 +8178,7 @@ feudalities 1
 flaggelated
 friezing
 forfaulture 2
-francophile
+francophile 1
 fluminose
 fernandinite
 fluoroscoping
