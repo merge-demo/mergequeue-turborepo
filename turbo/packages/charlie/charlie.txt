@@ -1977,7 +1977,7 @@ camerinidae
 camerist 1
 circummigrate
 campanero
-comp
+comp 1
 crenelates
 choliambist
 cameronian
