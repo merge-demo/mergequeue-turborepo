@@ -3750,7 +3750,7 @@ disunities
 diwan
 desole
 disunified
-durani
+durani 1
 dysphemistic
 denigrative
 donkey
