@@ -1484,7 +1484,7 @@ flittern 1
 flix
 flavorings
 favourable
-friedman
+friedman 1
 fundholder
 flamer 1
 foreshows 1
