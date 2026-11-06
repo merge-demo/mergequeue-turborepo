@@ -23141,7 +23141,7 @@ confers
 celtically
 constellate
 coystrel
-curupay
+curupay 1
 ck
 conceits
 constellated
