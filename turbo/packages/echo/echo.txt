@@ -4713,7 +4713,7 @@ encircle
 emittent
 elocutive
 entryway
-epulo 1
+epulo 2
 euchologion
 euripides
 epiglottidean
