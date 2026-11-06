@@ -902,7 +902,7 @@ forestlike
 fatheads 1
 featural
 flatheads 2
-fortake
+fortake 1
 fishhook
 fistulatous 1
 fissipedial
