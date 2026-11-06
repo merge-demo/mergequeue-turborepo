@@ -3665,7 +3665,7 @@ drabble
 didact
 dehydrogenate
 dawtet
-distillable
+distillable 1
 disentangled
 devisable 1
 dehydrogenisation
