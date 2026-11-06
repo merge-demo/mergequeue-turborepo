@@ -11025,7 +11025,7 @@ epiphenomena
 endotrophic 1
 enterrologist
 eudiometrically 1
-establish
+establish 1
 euroaquilo
 earthier
 elargement 1
