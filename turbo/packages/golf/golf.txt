@@ -5536,7 +5536,7 @@ geophysical 1
 gefilte
 grandame
 gownlet
-glottogonist
+glottogonist 1
 gervais
 gurges
 garuda
@@ -8901,7 +8901,7 @@ gigi
 gnocchetti
 gladelike 1
 grandiloquous 1
-gasteropod
+gasteropod 1
 gnaw 1
 grisset 1
 glycosidic 2
