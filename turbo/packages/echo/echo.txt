@@ -13934,7 +13934,7 @@ ectoderm
 eburnated
 electee 1
 epimerizing
-exorcized
+exorcized 1
 errordump
 emigrative
 extramusical
