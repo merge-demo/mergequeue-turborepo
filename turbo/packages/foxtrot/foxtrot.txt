@@ -9306,7 +9306,7 @@ fecaloid 1
 fatuitousness
 frankalmoign
 filibustrous
-fellowly
+fellowly 1
 futurize
 fluoresces
 frankenstein
