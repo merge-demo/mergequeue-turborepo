@@ -3038,7 +3038,7 @@ gibbed
 gyrostatically
 giraffidae 1
 gorra
-globulins
+globulins 1
 gastromyces
 geometridae
 gangshag
