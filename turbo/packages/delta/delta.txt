@@ -15063,7 +15063,7 @@ desmic
 delightable
 dimply
 doggish
-doggle
+doggle 1
 drownings
 doggo
 distinguisher
