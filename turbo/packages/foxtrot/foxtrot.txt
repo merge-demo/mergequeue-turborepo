@@ -451,7 +451,7 @@ ferrophosphorus
 formulise 1
 formulistic
 fulminating
-fluctisonous
+fluctisonous 1
 ferk
 faithlessness
 fringeless 1
