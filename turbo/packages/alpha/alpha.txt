@@ -22677,7 +22677,7 @@ advancer
 atherosclerotic
 acerbic
 absent
-angulation
+angulation 1
 aeronomic
 abjuratory 1
 acumen
