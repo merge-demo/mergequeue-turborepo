@@ -8485,7 +8485,7 @@ eydent
 expansions
 externally 1
 endball
-exculpation
+exculpation 1
 eleemosynariness
 evolutive
 eupyrene
