@@ -10422,7 +10422,7 @@ femororotulian
 fraggings
 filigree 1
 fictility
-flyspecked
+flyspecked 1
 firstling
 faller 1
 femicide
