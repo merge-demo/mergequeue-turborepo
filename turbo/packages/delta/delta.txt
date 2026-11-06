@@ -6781,7 +6781,7 @@ disleafing
 decayed
 discoidal
 desmidiology 1
-dandyishy
+dandyishy 1
 dethroner
 diorthotic
 dvorak
