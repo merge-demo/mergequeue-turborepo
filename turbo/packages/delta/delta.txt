@@ -12630,7 +12630,7 @@ discourage
 duntle
 daredevils
 drate 1
-delegant
+delegant 1
 dertrotheca 1
 defaultant
 descendentalist
