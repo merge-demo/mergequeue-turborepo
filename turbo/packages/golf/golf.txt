@@ -1479,7 +1479,7 @@ girllike 1
 grotesque 2
 garner
 galaginae
-glumly
+glumly 1
 gunmaker
 gusseted
 gluconate
