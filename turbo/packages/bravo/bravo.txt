@@ -9847,7 +9847,7 @@ bartender
 brokenhearted
 banderoles
 boos
-brigandish 1
+brigandish 2
 bisubstituted
 bombarder
 benzoquinone
