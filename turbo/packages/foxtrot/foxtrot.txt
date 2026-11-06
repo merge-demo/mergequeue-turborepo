@@ -9404,7 +9404,7 @@ fraternally
 formic
 fraternised
 footstone
-following 1
+following 2
 fraternism 1
 fitfulness
 faux
@@ -11002,7 +11002,7 @@ focusses 1
 frontispiecing 1
 fumbled 1
 farde 1
-fausen
+fausen 1
 frostiest
 flintiest
 foreproffer
