@@ -31150,7 +31150,7 @@ cupcakes
 cupel
 clinometria
 cupeller
-conscripts
+conscripts 1
 cupellers
 cupfulfuls
 canvassing
