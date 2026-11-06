@@ -2784,7 +2784,7 @@ forgoing
 florists 1
 forelady
 flagitate 1
-flaxiest
+flaxiest 1
 frightfully
 funli
 fumigation

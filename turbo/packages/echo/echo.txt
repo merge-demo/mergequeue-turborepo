@@ -3884,7 +3884,7 @@ exotheca
 epithelilia
 emigrating
 excogitating
-epidotic
+epidotic 1
 enculturated
 enfeebled
 eclipsis 1
