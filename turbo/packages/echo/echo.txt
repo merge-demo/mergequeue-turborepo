@@ -6663,7 +6663,7 @@ encharged
 enright
 enterotoxemia
 enterotoxication
-earthshattering
+earthshattering 1
 evenmindedness
 enlight
 equestrianize 1
