@@ -4991,7 +4991,7 @@ epichirema
 endemism
 etta 1
 eco 1
-eightscore
+eightscore 1
 endenization
 excusator
 ecarte
