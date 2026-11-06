@@ -3846,7 +3846,7 @@ deja 1
 dejection
 devested
 derivation 1
-drake 1
+drake 2
 dejeration 1
 dejeuner
 dekadrachm

@@ -7043,7 +7043,7 @@ fabulousness 1
 foolhardiship
 foredeck
 flapperdom
-futurologists
+futurologists 1
 fractioning 1
 fraken
 fledge
