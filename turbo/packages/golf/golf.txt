@@ -934,7 +934,7 @@ gametophoric
 gorbet
 gated
 gnashes
-gerardia 1
+gerardia 2
 glycaemia
 grumousness
 gawkishness
