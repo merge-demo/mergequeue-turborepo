@@ -11576,7 +11576,7 @@ fulmar
 futhermore
 finnickiest
 faucet
-fluoric
+fluoric 1
 feu
 feuing
 fluctigerous
