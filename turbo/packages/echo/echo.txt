@@ -7535,7 +7535,7 @@ eastward 1
 eunuchoidism 1
 epicedium 3
 entropies
-entopterygoid
+entopterygoid 1
 eburine
 exogastrically 1
 eduardo
