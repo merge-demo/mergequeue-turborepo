@@ -5020,7 +5020,7 @@ fenianism 1
 flammation
 forepad
 flipping 1
-fallows
+fallows 1
 flatbeds
 fungoidal
 forepaw 2

@@ -6024,7 +6024,7 @@ eurhythmics
 ectodermoidal
 enumerates 1
 enkidu
-ekatantalum
+ekatantalum 1
 enterospasm
 empaler
 eyrie
