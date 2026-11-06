@@ -12892,7 +12892,7 @@ egoism
 endsheet
 emprizes
 excommunicating
-elvish
+elvish 1
 eserines
 extorting 1
 erastus 1
