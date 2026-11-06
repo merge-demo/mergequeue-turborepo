@@ -12052,7 +12052,7 @@ excortication
 eschewals
 estrepe
 enlightener
-eruptions
+eruptions 1
 ethynyls
 expediate
 entrainer
