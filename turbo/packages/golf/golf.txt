@@ -10742,7 +10742,7 @@ glunching
 gedackt 1
 geckotoid
 gye
-globulin
+globulin 1
 gd 1
 gorsebird
 grovelers
