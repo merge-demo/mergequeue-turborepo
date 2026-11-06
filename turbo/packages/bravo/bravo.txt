@@ -7863,7 +7863,7 @@ bazaars
 bicephalous
 bogman
 biface 1
-bark
+bark 1
 bhar
 balconette 1
 bronzy 1
