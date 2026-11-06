@@ -13506,7 +13506,7 @@ boulter 1
 bolide
 bottstick
 botulins
-bashaw
+bashaw 1
 breastful
 bangboard
 botulinus
