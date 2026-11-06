@@ -7542,7 +7542,7 @@ generability
 grinagog
 gypsying
 gowked
-gambet
+gambet 1
 gnus
 ghastfulness
 glucolysis
