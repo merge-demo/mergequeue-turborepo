@@ -3622,7 +3622,7 @@ feest
 flook
 farmable
 fridstool
-frictionlessly
+frictionlessly 1
 forefeeling
 faintishness
 fielder
