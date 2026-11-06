@@ -1586,7 +1586,7 @@ equinity
 eglomerate
 eaglets
 eglomise 1
-episkeletal 1
+episkeletal 2
 errite
 extraoral
 entires
