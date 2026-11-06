@@ -724,7 +724,7 @@ brilliantine 1
 boglander
 bischofite
 bombardo
-breathable 1
+breathable 2
 banjo
 baddie
 betimber 1
