@@ -8686,7 +8686,7 @@ druid 1
 deoxyribose
 dismayed
 diphtherotoxin
-dolesomely
+dolesomely 1
 dehumanized 1
 diastomatic
 davyne
