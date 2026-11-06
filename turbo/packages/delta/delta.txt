@@ -15576,7 +15576,7 @@ diphenylchloroarsine
 doodab
 dehnstufe
 dyvours 1
-doodlebug
+doodlebug 1
 doodlers
 demeanors
 dentolingual
