@@ -1478,7 +1478,7 @@ granolith
 girllike 1
 grotesque 2
 garner
-galaginae
+galaginae 1
 glumly 1
 gunmaker
 gusseted
