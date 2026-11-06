@@ -71,7 +71,7 @@ debilitating
 dactylion
 dobbin
 direcly
-deescalating
+deescalating 1
 dumb 1
 deploying
 disqualifiable
