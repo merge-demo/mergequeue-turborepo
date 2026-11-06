@@ -2116,7 +2116,7 @@ affusions
 abdicable
 agave
 aptness
-anematize
+anematize 1
 acrostolion 1
 atticize 1
 acroteral
