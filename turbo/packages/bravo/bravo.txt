@@ -4158,7 +4158,7 @@ birthroot
 bedrenched
 bras
 brachycera
-bearfoots
+bearfoots 1
 bearhug
 babirousa 2
 bock
