@@ -18488,7 +18488,7 @@ despecialize 1
 dementi
 driftlet
 declamator
-dyslogistically
+dyslogistically 1
 duramater 2
 duramens
 daffish

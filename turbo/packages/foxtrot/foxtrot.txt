@@ -888,7 +888,7 @@ folliculose 3
 footworks
 florivorous
 feverfews
-fantastication
+fantastication 1
 flap
 flyaways
 faventine 1
