@@ -27233,7 +27233,7 @@ chlorhydrate
 catbird
 coetus
 counterweigh
-cerealose
+cerealose 1
 counterweight
 counterweighted
 counterweights
