@@ -5018,7 +5018,7 @@ dissipated
 dissimulates 1
 disterr 1
 destitute
-deperition
+deperition 1
 decollating
 ductings
 dravya
