@@ -1344,7 +1344,7 @@ garishly
 galligaskins 1
 glycosine
 growingupness
-garlandless
+garlandless 1
 greenalite 1
 geoside
 glomerulus 1
