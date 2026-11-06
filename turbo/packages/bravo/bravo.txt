@@ -15740,7 +15740,7 @@ botanophile
 breakfront 2
 broadsiding
 broadspread 1
-broadsword
+broadsword 1
 bamangwato
 bromethyl
 betorcin
