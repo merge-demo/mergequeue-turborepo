@@ -2529,7 +2529,7 @@ gadaba
 gibed
 griever
 gigmania
-goloe
+goloe 1
 gained
 guessive
 generalise 2
