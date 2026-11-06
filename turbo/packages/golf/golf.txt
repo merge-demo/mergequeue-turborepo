@@ -5536,7 +5536,7 @@ geophysical 1
 gefilte
 grandame
 gownlet
-glottogonist
+glottogonist 1
 gervais
 gurges
 garuda
