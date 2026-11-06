@@ -5653,7 +5653,7 @@ glossemic
 gibbously
 glaciometer
 glossies
-glossiest
+glossiest 1
 gybed 1
 garrison
 glossinas 2
