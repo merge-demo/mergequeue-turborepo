@@ -1486,7 +1486,7 @@ flavorings
 favourable
 friedman
 fundholder
-flamer
+flamer 1
 foreshows 1
 fabulate
 flytes
