@@ -4942,7 +4942,7 @@ cartloads
 clicket
 columbia
 cartogram
-cartography
+cartography 1
 cypseli
 cartographic
 cartographical
