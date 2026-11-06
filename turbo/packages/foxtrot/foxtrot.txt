@@ -888,7 +888,7 @@ folliculose 3
 footworks
 florivorous
 feverfews
-fantastication
+fantastication 1
 flap
 flyaways
 faventine 1
@@ -3875,7 +3875,7 @@ feckless
 figurato
 fungicidal
 fanwe
-foregrounds 1
+foregrounds 2
 frequencies 1
 fits
 foretime 1

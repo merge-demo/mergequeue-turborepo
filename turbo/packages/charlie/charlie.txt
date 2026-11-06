@@ -21421,7 +21421,7 @@ cicadidae
 camerlingos
 concludingly
 celestify
-clerkly
+clerkly 1
 corvinas 1
 conclusible
 conclusion
