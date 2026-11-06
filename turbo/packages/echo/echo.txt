@@ -7204,7 +7204,7 @@ escheve
 eyeleteer
 entophytous
 electrophilically
-encase
+encase 1
 ectomeres
 enteritis
 episarcine
