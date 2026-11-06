@@ -13763,7 +13763,7 @@ eryngoes
 enouncing
 emberizine
 equilibrated
-effervescence
+effervescence 1
 emancipationist 1
 evokers
 enki
