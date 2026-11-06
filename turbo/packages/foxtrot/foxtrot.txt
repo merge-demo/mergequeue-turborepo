@@ -3477,7 +3477,7 @@ franked 1
 flankard
 fury
 foam
-ficins
+ficins 1
 fordays
 fuzil
 floorhead
