@@ -7316,7 +7316,7 @@ filles
 forbad
 faeces
 fat 1
-forbborne
+forbborne 1
 freshen
 feudalism
 formicina 1

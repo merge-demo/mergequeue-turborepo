@@ -10183,7 +10183,7 @@ decatizing
 delitescency 1
 despise
 deemed
-dinkier
+dinkier 1
 dismalities
 dinkiest
 dinking
