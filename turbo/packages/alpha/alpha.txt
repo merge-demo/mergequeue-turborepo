@@ -476,7 +476,7 @@ affirmativeness
 abirritation 1
 akvavit
 antisocialistic
-anglians
+anglians 1
 agriotes
 abyss
 abyssopelagic
@@ -12435,7 +12435,7 @@ apprest
 abjection
 androclinium
 androclus 1
-agialid
+agialid 1
 absoil
 aspergilliform
 alacrious
