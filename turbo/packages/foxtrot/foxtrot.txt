@@ -10622,7 +10622,7 @@ famular
 finched
 fructuate
 flucan
-forcipulate
+forcipulate 1
 formalizing 1
 fishifying
 festooned
