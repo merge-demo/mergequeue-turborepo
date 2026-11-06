@@ -10770,7 +10770,7 @@ consequents
 casinet
 chinkara
 chinker
-chinkerinchee
+chinkerinchee 1
 chinky
 ctenidia
 constricts
