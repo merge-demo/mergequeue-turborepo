@@ -7216,7 +7216,7 @@ fungate
 fissuration
 fledglings
 fratricidal
-foeffment
+foeffment 1
 flares
 forecasts
 formiate 1

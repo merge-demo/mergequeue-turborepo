@@ -826,7 +826,7 @@ encrust
 ectypography
 epitheton
 epop
-exulate
+exulate 1
 errants
 ectiris
 etamines 2
