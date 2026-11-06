@@ -9583,7 +9583,7 @@ goitered
 garrick
 gemses 1
 gowns
-gutteral
+gutteral 1
 gr
 glaucophanization
 gallize

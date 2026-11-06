@@ -1595,7 +1595,7 @@ feasibilities
 favorer
 foresty
 ferrash 1
-fleecelike
+fleecelike 1
 fourstrand
 falsettist
 fibrinogen 1
