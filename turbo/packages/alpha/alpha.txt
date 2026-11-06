@@ -12179,7 +12179,7 @@ anatomiser
 antoecians
 anatomize
 anopsy
-anatomizer
+anatomizer 1
 advisiveness 1
 attacco 1
 anatopism 1
