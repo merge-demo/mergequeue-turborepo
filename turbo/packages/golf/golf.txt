@@ -10645,7 +10645,7 @@ genny
 gnomed
 gastroperiodynia
 goldmist
-glyoxalase
+glyoxalase 1
 generableness 1
 gonagra
 generalizeable

@@ -4418,7 +4418,7 @@ becking 2
 beckoner
 buriat
 bedizened
-beati
+beati 1
 balitao
 byward
 bourgeois 1
