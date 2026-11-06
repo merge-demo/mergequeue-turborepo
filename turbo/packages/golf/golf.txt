@@ -5986,7 +5986,7 @@ gravelweed
 geminative 2
 guard
 gingerly
-goodwilly
+goodwilly 1
 geranium
 gamier
 gelatinously
