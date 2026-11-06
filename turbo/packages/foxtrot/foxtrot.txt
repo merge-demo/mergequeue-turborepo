@@ -2312,7 +2312,7 @@ fluctuates
 furrowless
 frangipane
 fensive 1
-flippest
+flippest 1
 furner
 falbalas 1
 frillings

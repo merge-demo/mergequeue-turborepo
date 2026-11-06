@@ -3750,7 +3750,7 @@ disunities
 diwan
 desole
 disunified
-durani
+durani 1
 dysphemistic
 denigrative
 donkey
@@ -10464,7 +10464,7 @@ dendrodra
 disordeine
 diphthonging
 diphthongisation
-deisticalness
+deisticalness 1
 dipterad
 devocalization
 dozent
