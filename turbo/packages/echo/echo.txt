@@ -11429,7 +11429,7 @@ encipherment
 elucidation
 emasculated
 ectonephridium 1
-exes
+exes 1
 erinnic 1
 effectually
 electrotypist
