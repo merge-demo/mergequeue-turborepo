@@ -228,7 +228,7 @@ diastrophe
 domba
 daggar
 dualities
-dyssynergia
+dyssynergia 1
 daggerproof 1
 diskettes
 dagging
