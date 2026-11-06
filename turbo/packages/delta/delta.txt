@@ -16451,7 +16451,7 @@ difflugia 1
 doodskop
 downtimes 1
 dunnesses
-dacoities
+dacoities 1
 drabbling
 doubler
 drabler
