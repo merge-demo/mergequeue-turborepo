@@ -3500,7 +3500,7 @@ flusk
 fictionalizes
 fisetin
 farness 1
-fermentology
+fermentology 1
 fraternity
 fleches
 falcones
@@ -11665,7 +11665,7 @@ filoselle
 foretalking
 forcingly
 farasula
-fut
+fut 1
 futhorc
 fleshers
 fillowite 1
