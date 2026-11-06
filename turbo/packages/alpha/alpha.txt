@@ -8466,7 +8466,7 @@ allocators
 adulatory
 apotheosizing
 aristolochiaceae
-amebous
+amebous 1
 alkalise
 alkalised
 affrayed
