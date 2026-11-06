@@ -6262,7 +6262,7 @@ fluminous
 freak
 floricultural
 flummer
-flickerproof 1
+flickerproof 2
 fistnote 2
 fusionism 1
 futurable
