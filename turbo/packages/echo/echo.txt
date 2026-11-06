@@ -6853,7 +6853,7 @@ ey
 entomophila
 entomophobia
 ensue
-earwaxes
+earwaxes 1
 esthesiography 1
 embarked
 eucryptite
