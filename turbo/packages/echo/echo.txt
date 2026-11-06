@@ -14134,7 +14134,7 @@ existentialize
 eutrophy
 endosternite
 embusqu 1
-exopterygotic 1
+exopterygotic 2
 exegetical
 endosiphonal 1
 extensory 1
