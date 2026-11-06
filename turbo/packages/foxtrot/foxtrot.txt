@@ -1510,7 +1510,7 @@ fient
 forebodingness 1
 forestology
 freebooters
-formamido
+formamido 1
 fermentatory
 florizine
 fanaticism 1
