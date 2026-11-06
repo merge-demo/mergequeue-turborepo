@@ -1628,7 +1628,7 @@ brasier 1
 boxfuls
 boiguacu 2
 ballonne
-bewrays
+bewrays 1
 ballooners
 bickering
 brattier
