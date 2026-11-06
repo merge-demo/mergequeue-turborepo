@@ -9419,7 +9419,7 @@ fratry
 flippery
 furnaceman 1
 fulcrate
-flayers 1
+flayers 2
 furculum
 fastwalk
 febricitant
