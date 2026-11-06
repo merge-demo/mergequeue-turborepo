@@ -5044,7 +5044,7 @@ colat
 casanova
 cleeking
 casas
-cojudge
+cojudge 1
 coevolve 1
 colisepsis
 cerianthus
