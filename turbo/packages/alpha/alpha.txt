@@ -20870,7 +20870,7 @@ arzan
 acapu
 apportions 1
 amputator
-avenery
+avenery 1
 archmock
 arf 1
 amplifiable
