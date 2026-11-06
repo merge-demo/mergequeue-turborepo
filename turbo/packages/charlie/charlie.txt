@@ -2573,7 +2573,7 @@ candolleaceous
 carangid
 chlorotrifluoromethane
 catalan
-ceraunograph 1
+ceraunograph 2
 carbona
 cerianthoid
 cracowe
@@ -30750,7 +30750,7 @@ cuisine 1
 coaxingly
 castelet
 cuisines
-crine
+crine 1
 chummy
 cuisse
 canonical
