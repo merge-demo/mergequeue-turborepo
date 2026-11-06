@@ -4077,7 +4077,7 @@ gemological
 geggee
 gimmickery 2
 gendering
-guiltful
+guiltful 1
 gymnasic
 genitivally 1
 grapsidae
