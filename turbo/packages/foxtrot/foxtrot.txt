@@ -3875,7 +3875,7 @@ feckless
 figurato
 fungicidal
 fanwe
-foregrounds 1
+foregrounds 2
 frequencies 1
 fits
 foretime 1
