@@ -467,7 +467,7 @@ fainant 1
 fawningly
 fundulus
 ferroprussiate
-fimbricate
+fimbricate 1
 feateous
 fumble 1
 foreclosures
