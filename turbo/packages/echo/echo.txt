@@ -6375,7 +6375,7 @@ enshrinements 1
 endovaccination
 ephebe
 expenseful 1
-earthward
+earthward 1
 electrooptic
 emulsor 1
 espagnole
