@@ -306,7 +306,7 @@ grainy
 gargoylism 2
 gonk
 gaminesque
-gaist
+gaist 1
 gladstonianism
 gulpingly
 grantsmanship
