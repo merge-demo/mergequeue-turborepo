@@ -11945,7 +11945,7 @@ eructating
 enhorror 1
 ecuador
 ectopatagium 1
-excise
+excise 1
 enunciable
 enlisting
 elsehow
