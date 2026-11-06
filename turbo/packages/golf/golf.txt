@@ -782,7 +782,7 @@ goods
 geomorphic
 galvanotropism
 guntub
-globulolysis
+globulolysis 1
 gaulter
 ganymede
 glossolalist
