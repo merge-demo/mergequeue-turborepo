@@ -6470,7 +6470,7 @@ benzosulphimide
 barricaders
 botanises
 bedlamer 1
-behoot
+behoot 1
 byliner
 benzothiazine
 benzothiazoline
