@@ -10600,7 +10600,7 @@ gillion
 glandaceous
 gowned
 goldsmith
-glossologist
+glossologist 1
 greenockite
 gallow 1
 glumose
