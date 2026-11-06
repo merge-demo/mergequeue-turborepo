@@ -8238,7 +8238,7 @@ gaseosity
 gurries 1
 gara
 geeks
-geopolitist
+geopolitist 1
 glycocin
 galenite
 glissaded
