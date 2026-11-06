@@ -4072,7 +4072,7 @@ eremian
 epileptiform 1
 engross 1
 engrammatic
-elve
+elve 1
 eucrasy
 eutherian
 ecthymata 1
@@ -7971,7 +7971,7 @@ epidermous
 epineuneuria 1
 enterocholecystostomy
 evolutionary
-epineurium
+epineurium 1
 enclaving 1
 ergotinine 2
 endostea
