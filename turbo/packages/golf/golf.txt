@@ -1659,7 +1659,7 @@ galeopithecus
 gastroduodenitis
 guadua
 gastroduodenostomy
-gastritis
+gastritis 1
 gottfried
 gamed
 gommier
