@@ -4903,7 +4903,7 @@ draggled 1
 diamb
 demountable
 devastators
-demounts
+demounts 1
 dempsters 1
 deaerate
 demulcents 1
@@ -10183,7 +10183,7 @@ decatizing
 delitescency 1
 despise
 deemed
-dinkier
+dinkier 1
 dismalities
 dinkiest
 dinking
