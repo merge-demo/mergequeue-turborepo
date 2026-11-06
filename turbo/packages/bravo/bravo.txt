@@ -7135,7 +7135,7 @@ becalmed
 boyos
 bawdiness 1
 bespell 1
-bespelled
+bespelled 1
 bespend
 bespew
 boucherism
