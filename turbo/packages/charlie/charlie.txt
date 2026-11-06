@@ -20420,7 +20420,7 @@ conjurison 1
 compadres
 circumscriptly
 compage
-compagnies
+compagnies 1
 coprophagan
 cresols
 condonative
