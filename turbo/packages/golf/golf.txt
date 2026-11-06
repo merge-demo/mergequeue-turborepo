@@ -4782,7 +4782,7 @@ glaciology
 guideway 1
 glissandos
 gobiesociform
-gypaetus 1
+gypaetus 2
 griffinism
 gumma 1
 gubernaculum
