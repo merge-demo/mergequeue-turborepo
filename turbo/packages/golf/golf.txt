@@ -7218,7 +7218,7 @@ grievously
 glabella
 gelatinisation
 gimcracks 2
-goriness
+goriness 1
 galvanometrically 1
 germanocentric 1
 gangion

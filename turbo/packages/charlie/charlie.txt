@@ -6248,7 +6248,7 @@ caulinary 1
 ceroplast
 cannular
 cathartides
-caulivorous
+caulivorous 1
 choanosomal
 caulk
 casbahs 1
