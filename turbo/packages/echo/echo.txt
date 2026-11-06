@@ -4069,7 +4069,7 @@ expositorily
 enforcement
 encrusting
 eremian
-epileptiform
+epileptiform 1
 engross 1
 engrammatic
 elve
