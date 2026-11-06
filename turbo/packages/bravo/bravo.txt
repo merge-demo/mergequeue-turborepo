@@ -11732,7 +11732,7 @@ beslaved
 bolivias 1
 bobbinite
 bobbish
-bais
+bais 1
 basidia
 bobcats
 binmen
