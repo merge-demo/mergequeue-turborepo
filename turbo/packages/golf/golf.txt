@@ -5814,7 +5814,7 @@ gateaux
 gangflower
 giggle 1
 glucocorticoid 1
-gardenless
+gardenless 1
 gardon
 griddled
 gasfiring
@@ -8143,7 +8143,7 @@ granulocytic
 gestations
 gambroon
 glazier
-gemmiparous
+gemmiparous 1
 grapeless 1
 guillem
 geloscopy
