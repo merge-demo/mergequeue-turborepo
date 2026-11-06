@@ -10012,7 +10012,7 @@ bituminous
 bisecting
 beryllate
 bilinguality
-bridleman
+bridleman 1
 biases
 bivalence 1
 blethering
