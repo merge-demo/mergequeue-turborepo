@@ -10791,7 +10791,7 @@ folles
 foils 1
 firstness
 fructiculose 1
-femme
+femme 1
 footglove
 fatalism
 fashious
