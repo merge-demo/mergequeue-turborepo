@@ -11002,7 +11002,7 @@ focusses 1
 frontispiecing 1
 fumbled 1
 farde 1
-fausen
+fausen 1
 frostiest
 flintiest
 foreproffer
