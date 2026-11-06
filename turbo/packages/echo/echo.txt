@@ -1249,7 +1249,7 @@ ethylidyne
 epigrammatise
 eelcake 1
 elsewheres 1
-eumeromorph 1
+eumeromorph 2
 exposition
 episomal 1
 evaluation
