@@ -2686,7 +2686,7 @@ bilge
 bimensal
 bellying
 bable
-bribeable
+bribeable 1
 barling 1
 bertholletia
 barghest
