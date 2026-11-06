@@ -13007,7 +13007,7 @@ dioscuri
 debacchate
 distater 1
 dispand 2
-descaling
+descaling 1
 diphthongized
 dispar
 disparageable
