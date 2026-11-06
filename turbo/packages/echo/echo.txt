@@ -2210,7 +2210,7 @@ enumerating
 endognathion
 eldersisterly
 epiglottiditis 1
-eggless
+eggless 1
 encrisp
 eldest 1
 eyrir
