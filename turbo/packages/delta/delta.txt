@@ -3211,7 +3211,7 @@ datiscetin 1
 drakefly 1
 dudder
 deferrer 1
-deferrize
+deferrize 1
 disturbative
 densen
 decentralized
