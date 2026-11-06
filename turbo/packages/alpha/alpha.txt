@@ -22163,7 +22163,7 @@ asthenia
 amours
 amoeboid
 anarchically
-abampere
+abampere 1
 audiograms
 asthenical 1
 arpeggiando
