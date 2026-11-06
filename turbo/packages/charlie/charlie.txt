@@ -16926,7 +16926,7 @@ clunking 1
 clunter
 coutille
 clupanodonic
-clupea
+clupea 1
 chartism
 clupeid
 cosignitary
