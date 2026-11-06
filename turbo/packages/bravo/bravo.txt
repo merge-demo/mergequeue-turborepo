@@ -13668,7 +13668,7 @@ bladder
 blab
 bloodsucker
 baud
-bande
+bande 1
 binocs 2
 blendcorn
 balkingly
