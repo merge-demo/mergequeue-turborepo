@@ -13274,7 +13274,7 @@ englishable
 eponymize
 explosimeter
 ensheath
-epignathous
+epignathous 1
 eyedroppers 1
 eyliad
 egregious 1
