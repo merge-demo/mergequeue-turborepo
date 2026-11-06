@@ -15328,7 +15328,7 @@ acetopiperone
 autodecrements
 antispermotoxin 1
 amphicyon
-antihistaminic
+antihistaminic 1
 antidogmatism
 antipragmaticism
 attorning
@@ -22163,7 +22163,7 @@ asthenia
 amours
 amoeboid
 anarchically
-abampere
+abampere 1
 audiograms
 asthenical 1
 arpeggiando
