@@ -3707,7 +3707,7 @@ elec
 extratellurian
 eluates
 ecklein 1
-epitheliosis
+epitheliosis 1
 enantiotropic 1
 elucidators
 embryophore
