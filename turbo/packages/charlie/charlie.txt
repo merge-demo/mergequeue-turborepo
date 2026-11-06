@@ -26464,7 +26464,7 @@ cotorture
 corymbosely
 chorography
 crowbars
-calli
+calli 1
 cotqueans
 concerningly
 courbache
@@ -26494,7 +26494,7 @@ crub
 cotsetland
 citations
 cotswold
-calctuff
+calctuff 1
 curn
 cottae
 cubature

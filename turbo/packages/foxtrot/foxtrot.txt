@@ -11254,7 +11254,7 @@ functional
 fylfot
 fabiform
 fatherkin
-funkiness
+funkiness 1
 fezzes
 forerunnings
 frontispieces 1
