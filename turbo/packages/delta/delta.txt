@@ -5165,7 +5165,7 @@ denounce
 disputativeness
 dynamogenously
 devalued 1
-denouncement
+denouncement 1
 denouncements
 digladiate 1
 deprehensible
