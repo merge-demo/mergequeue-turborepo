@@ -2448,7 +2448,7 @@ glycohemia
 gainsayer 1
 ghoulish
 gastraeum
-galravage
+galravage 1
 ghettoed 1
 glycocoll 2
 gigmanism 1
