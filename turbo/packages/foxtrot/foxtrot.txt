@@ -1912,7 +1912,7 @@ fascicularly
 flimsy
 fruitlets
 forgiver
-farrowing
+farrowing 1
 franklinization
 fanglike 1
 federalism
