@@ -2573,7 +2573,7 @@ candolleaceous
 carangid
 chlorotrifluoromethane
 catalan
-ceraunograph 1
+ceraunograph 2
 carbona
 cerianthoid
 cracowe
@@ -5558,7 +5558,7 @@ contentful
 catalinite
 catalyse
 craterellus
-classified
+classified 1
 copr
 censused
 cofactor
