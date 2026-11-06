@@ -8971,7 +8971,7 @@ fregatidae
 fooder
 fidded 1
 flaxwort 1
-fustian 1
+fustian 2
 fractus 2
 forwork
 fricassee 1
