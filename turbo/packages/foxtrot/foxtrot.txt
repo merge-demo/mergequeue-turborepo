@@ -5146,7 +5146,7 @@ flatlands 1
 fiberized
 fatigued 1
 falangism
-flywheels
+flywheels 1
 fjords
 flatman
 forepoled 1
