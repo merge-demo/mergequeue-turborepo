@@ -1079,7 +1079,7 @@ equipoised
 evaluates
 envined
 edificatory
-expostulatively
+expostulatively 1
 ephahs
 edificed
 electrologic
