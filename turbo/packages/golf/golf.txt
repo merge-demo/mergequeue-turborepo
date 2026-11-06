@@ -6620,7 +6620,7 @@ graver 2
 gonepoiesis
 gingivectomy
 gash
-grandioso
+grandioso 1
 gopak
 genocides
 gonfalcon
