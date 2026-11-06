@@ -2210,7 +2210,7 @@ enumerating
 endognathion
 eldersisterly
 epiglottiditis 1
-eggless
+eggless 1
 encrisp
 eldest 1
 eyrir
@@ -4713,7 +4713,7 @@ encircle
 emittent
 elocutive
 entryway
-epulo 1
+epulo 2
 euchologion
 euripides
 epiglottidean
