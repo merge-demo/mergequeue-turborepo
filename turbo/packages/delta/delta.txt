@@ -2619,7 +2619,7 @@ discriminably 1
 decian
 deepens
 discernably
-decompensating
+decompensating 1
 delinquents
 decenniad
 decompensations
