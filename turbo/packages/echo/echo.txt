@@ -5147,7 +5147,7 @@ expression 1
 ethylate
 endodontology
 enneagynous 1
-exundancy
+exundancy 1
 electroosmotic
 euphorbiaceae
 extrapolate
