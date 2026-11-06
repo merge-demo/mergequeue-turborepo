@@ -1126,7 +1126,7 @@ extricates
 electralize
 ecphory
 expunction
-enclosed
+enclosed 1
 emblematising
 editorializers
 elephantic
