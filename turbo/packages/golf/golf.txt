@@ -6620,7 +6620,7 @@ graver 2
 gonepoiesis
 gingivectomy
 gash
-grandioso
+grandioso 1
 gopak
 genocides
 gonfalcon
@@ -7110,7 +7110,7 @@ guayaba
 greenfly
 gile
 gore 1
-gordioid
+gordioid 1
 gearboxes
 gloggs
 gored
