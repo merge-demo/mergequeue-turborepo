@@ -9458,7 +9458,7 @@ detester
 desultor
 disparateness 1
 dopy 1
-digestibility
+digestibility 1
 diaconicum
 disserting
 demark
