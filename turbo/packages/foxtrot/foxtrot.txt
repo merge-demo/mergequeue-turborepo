@@ -2721,7 +2721,7 @@ fascis
 fiercer
 fragmentarily
 fellinic
-felineness
+felineness 1
 fireproofing
 fesses
 flaunche
@@ -9306,7 +9306,7 @@ fecaloid 1
 fatuitousness
 frankalmoign
 filibustrous
-fellowly
+fellowly 1
 futurize
 fluoresces
 frankenstein
