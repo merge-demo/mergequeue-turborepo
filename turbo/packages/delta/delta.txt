@@ -1001,7 +1001,7 @@ dit
 darings
 dithematic
 darius
-doubleprecision 1
+doubleprecision 2
 dark
 dinkeys
 darked
