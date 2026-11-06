@@ -21739,7 +21739,7 @@ claustrophobia
 condolers
 calcivorous
 camden 1
-condolingly
+condolingly 1
 contracture
 collarbones
 condominiums
