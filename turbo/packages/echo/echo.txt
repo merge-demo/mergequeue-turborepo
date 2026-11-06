@@ -8461,7 +8461,7 @@ epoxies 1
 employed
 evangelistaries
 easterlies 1
-eprise
+eprise 1
 epimorpha
 ee
 endures
