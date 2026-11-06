@@ -741,7 +741,7 @@ famuli
 frustrater
 fana
 feoffment 1
-foretokening
+foretokening 1
 fluxion
 feministics
 fragmentate
@@ -11576,7 +11576,7 @@ fulmar
 futhermore
 finnickiest
 faucet
-fluoric
+fluoric 1
 feu
 feuing
 fluctigerous

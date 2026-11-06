@@ -20293,7 +20293,7 @@ apothegm
 adsignification
 arroyos
 arroyuelo 1
-arrosive
+arrosive 1
 aleuritic
 antistreptococcal 1
 allowances
