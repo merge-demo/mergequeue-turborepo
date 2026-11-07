@@ -20185,7 +20185,7 @@ arrau
 assiduously
 arrearage
 aromaticity
-aphanesite
+aphanesite 1
 argentometric
 arrenotoky
 arrentation 1
