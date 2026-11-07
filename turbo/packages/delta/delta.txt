@@ -2040,7 +2040,7 @@ dramas 1
 dessiatine
 disagreeability
 delictum
-dermatotomy
+dermatotomy 1
 daikered
 devotion 1
 dimedon
