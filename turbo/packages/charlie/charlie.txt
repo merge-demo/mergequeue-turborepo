@@ -1369,7 +1369,7 @@ colourlessness 1
 calycozoa
 cutify
 cephalobranchiate
-curveball
+curveball 1
 caliculate
 calyculate
 cavernitis
