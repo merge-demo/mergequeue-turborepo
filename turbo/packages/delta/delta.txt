@@ -2593,7 +2593,7 @@ decoll
 deguelia
 dumbcow
 dispensaries
-decolletage
+decolletage 1
 discontinues
 desalter
 decoloring
