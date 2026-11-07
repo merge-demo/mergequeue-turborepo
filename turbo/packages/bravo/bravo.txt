@@ -2845,7 +2845,7 @@ buffaloback
 bedarken
 bruta
 beisa
-biquadrate
+biquadrate 1
 baroswitch
 bld
 bitis
