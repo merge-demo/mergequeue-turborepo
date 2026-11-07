@@ -11780,7 +11780,7 @@ deinodon
 discriminating
 dacryuria
 dimitted
-discriminatively
+discriminatively 1
 despatch
 discriminativeness
 discriminator
