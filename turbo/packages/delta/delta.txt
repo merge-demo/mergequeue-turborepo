@@ -2020,7 +2020,7 @@ duplicitas
 dichloramin
 derivations
 dourness
-decagrams
+decagrams 1
 despised
 diverberate
 decahedron
