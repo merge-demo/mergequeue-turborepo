@@ -1685,7 +1685,7 @@ eyeberry
 ethnohistorical 1
 essentialist
 electrothermancy
-ellan
+ellan 1
 esophagi
 eddoes
 elaioleucite
