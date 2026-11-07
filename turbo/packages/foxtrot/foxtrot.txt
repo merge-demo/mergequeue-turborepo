@@ -1242,7 +1242,7 @@ foredeem 1
 frizzily
 ferrimagnet
 filipendula 2
-forespeed
+forespeed 1
 fluorography 1
 folds
 fassalite
