@@ -16244,7 +16244,7 @@ aluta 1
 alertedly
 arthromere
 antitheologizing
-anacusis
+anacusis 1
 anthracomarti
 aggravative
 advocatrix 1
