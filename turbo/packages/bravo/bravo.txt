@@ -8228,7 +8228,7 @@ biens
 benefice
 bienvenue
 bayaderes
-bespurred
+bespurred 1
 bier 2
 broid
 briolet
