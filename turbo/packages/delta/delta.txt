@@ -2450,7 +2450,7 @@ decivilize
 dateline
 deckel
 deporte
-debased
+debased 1
 ditchdown
 dirigent
 deckhand
@@ -9521,7 +9521,7 @@ digitizes
 digitizing
 desorbed
 decimosexto
-downthrow
+downthrow 1
 decimated
 draggly
 diastereomer
