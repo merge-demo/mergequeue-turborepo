@@ -15447,7 +15447,7 @@ drongo
 doorway 1
 dominique
 despairingly
-dewanship
+dewanship 1
 deboners
 dominule
 dissociability
