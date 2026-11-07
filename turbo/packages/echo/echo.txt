@@ -9110,7 +9110,7 @@ escrowee
 ephors
 equinoxes
 eccrisis
-egyptologist
+egyptologist 1
 evasion
 embordered
 erythropsia
