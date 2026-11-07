@@ -8761,7 +8761,7 @@ gulfs
 goalless
 gymnostomina 1
 greese 1
-gust
+gust 1
 genual
 gelatined
 glacious
