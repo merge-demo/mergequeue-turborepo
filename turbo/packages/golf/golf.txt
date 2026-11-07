@@ -9553,7 +9553,7 @@ geophones
 granted
 gazed
 gynecologist
-gleams
+gleams 1
 galactoscope
 grind
 gingersnap
