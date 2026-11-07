@@ -11780,7 +11780,7 @@ deinodon
 discriminating
 dacryuria
 dimitted
-discriminatively
+discriminatively 1
 despatch
 discriminativeness
 discriminator
@@ -12327,7 +12327,7 @@ dactyl
 dielectrics 1
 doitrified
 discharged
-decolorimeter
+decolorimeter 1
 differentiates
 drias
 disharmonising 2
