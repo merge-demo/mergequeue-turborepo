@@ -12900,7 +12900,7 @@ boorishness 1
 bulldog
 bertrandite
 blondes
-beauticians
+beauticians 1
 boost
 bromizes
 bruin
