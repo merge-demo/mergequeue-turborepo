@@ -16404,7 +16404,7 @@ doeuvre
 downwind
 dowp
 dowse
-defibrillative
+defibrillative 1
 dihydric
 drolled 1
 defyingly 1
