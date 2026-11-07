@@ -11617,7 +11617,7 @@ cervelases
 choleriform
 cholerigenous
 chelicerate 1
-cholerine
+cholerine 1
 choleroid
 covalent
 cholerophobia
