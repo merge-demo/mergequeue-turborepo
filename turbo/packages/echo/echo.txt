@@ -11648,7 +11648,7 @@ electrophone
 equimomental
 electromechanics 1
 ethnical 1
-exaestuate
+exaestuate 1
 eyeball
 erept
 epulones
