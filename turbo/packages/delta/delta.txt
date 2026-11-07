@@ -13079,7 +13079,7 @@ daulias
 descantist
 dispeaceful
 dory
-dital
+dital 1
 decampment
 decliners 1
 devitalised
