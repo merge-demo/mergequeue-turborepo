@@ -1632,7 +1632,7 @@ ghalva 1
 geode 1
 goyish
 gastroenteroptosis 1
-graculus
+graculus 1
 grammates
 gonnardite
 geratic
