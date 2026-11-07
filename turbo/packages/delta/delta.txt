@@ -5683,7 +5683,7 @@ duree
 disjoint
 descriptor
 decasualizing
-depolymerize
+depolymerize 1
 deadpay
 davened
 depolished
