@@ -5112,7 +5112,7 @@ exsanguinous
 exprobratory 1
 exsuscitate
 endocoele
-enaliosaurian
+enaliosaurian 1
 exploiter
 effaced
 expositoriness 1
