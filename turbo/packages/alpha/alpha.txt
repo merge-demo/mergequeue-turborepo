@@ -1121,7 +1121,7 @@ abetting
 allegros
 abwab 1
 aureateness
-ac
+ac 1
 anguliferous
 acacatechol
 acacia
@@ -16661,7 +16661,7 @@ apesthetic
 arachnitis
 affiche
 acariatre
-akrteria
+akrteria 1
 ammonic 1
 attachment
 asymmetranthous
