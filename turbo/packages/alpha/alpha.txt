@@ -19203,7 +19203,7 @@ arctoidean
 arctos
 ager
 allituric
-arctostaphylos
+arctostaphylos 1
 alick
 arcuale
 antiphysician
