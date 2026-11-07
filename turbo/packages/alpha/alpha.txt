@@ -13311,7 +13311,7 @@ anisognathism
 anisoiconia 1
 amphodelite
 alcoholometry
-archiater
+archiater 1
 abstemiously
 anisoles
 adipopexic

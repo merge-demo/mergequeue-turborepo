@@ -5379,7 +5379,7 @@ flechettes 1
 flecked 1
 forkhead
 fleckering
-franco
+franco 1
 fosterhood 1
 flecky
 fosterite
@@ -6488,7 +6488,7 @@ firebed
 forecover 1
 fricasseed
 faucal
-fluotantalate
+fluotantalate 1
 flutteriness
 farfal
 formative
