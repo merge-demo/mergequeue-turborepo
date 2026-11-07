@@ -6528,7 +6528,7 @@ frabjous
 fortuitist 2
 flyboats
 falconiform
-franseria
+franseria 1
 flunkeyism
 feltness 1
 frounce
