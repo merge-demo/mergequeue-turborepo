@@ -857,7 +857,7 @@ freckened
 freedoot
 forebows 2
 free
-fragilities
+fragilities 1
 fantasying
 falterer 1
 forthbrought
@@ -10025,7 +10025,7 @@ fantod
 franchiser 1
 flor
 fryer
-foollike
+foollike 1
 flans
 fringehead
 fringelet

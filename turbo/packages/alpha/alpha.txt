@@ -3346,7 +3346,7 @@ adamantoblast
 archery
 amblystoma
 absentee
-atresic
+atresic 1
 atelets 1
 aircheck
 andean
@@ -20185,7 +20185,7 @@ arrau
 assiduously
 arrearage
 aromaticity
-aphanesite
+aphanesite 1
 argentometric
 arrenotoky
 arrentation 1
