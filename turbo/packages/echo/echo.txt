@@ -10237,7 +10237,7 @@ emphraxis
 ethylenimine
 exasperated 1
 epigenous
-enciente
+enciente 1
 emanationist
 esponton
 eucalypteol
