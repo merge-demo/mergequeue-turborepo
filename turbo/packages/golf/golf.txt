@@ -9454,7 +9454,7 @@ geometries
 glycose
 gladiate 1
 glossy
-ganser
+ganser 1
 gleeishly 2
 gauffering
 geometrician
