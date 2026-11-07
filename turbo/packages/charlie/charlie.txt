@@ -15787,7 +15787,7 @@ clearstoried
 crispest
 cascara
 commis
-cleat
+cleat 1
 cleated
 cleats
 cyclonologist 1
