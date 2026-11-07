@@ -15812,7 +15812,7 @@ alert
 antipyretics
 antipyrin
 accustomedness 1
-alinota
+alinota 1
 antipyrine
 annuli
 aryballoi
