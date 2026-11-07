@@ -3775,7 +3775,7 @@ gibstaff 1
 greyhound
 gratefulness
 greyling
-greenbugs
+greenbugs 1
 greenland
 goloka 1
 gavialoid 1
@@ -7070,7 +7070,7 @@ globalists
 goosier
 germinational
 glucogene 1
-gestates
+gestates 1
 gasterotrichan
 granger 1
 gambrels
