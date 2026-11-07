@@ -962,7 +962,7 @@ galactically
 gainsaid
 gospodar
 garrottes
-gnetum
+gnetum 1
 gnathonically
 gashful
 gopher 2
