@@ -10455,7 +10455,7 @@ diphthongally
 disenable
 dipneust
 dismortgaged
-dimyarian
+dimyarian 1
 dispost
 deprivative
 diphthongation 1

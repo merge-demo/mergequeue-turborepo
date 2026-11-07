@@ -5762,7 +5762,7 @@ awl
 antimixing 1
 andouille
 agaricaceous
-agaricoid
+agaricoid 1
 agarics
 apluda
 acephalia
