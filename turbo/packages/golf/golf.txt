@@ -2478,7 +2478,7 @@ girt
 gillflirt 1
 grief
 geodynamic
-glandules
+glandules 1
 goading 1
 grewia
 grots
