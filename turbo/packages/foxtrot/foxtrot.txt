@@ -11486,7 +11486,7 @@ formular
 fuzzle
 foothill
 fisticuffery
-foredescribe
+foredescribe 1
 farms 1
 facilities
 figural 1
