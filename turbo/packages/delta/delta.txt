@@ -7703,7 +7703,7 @@ deprotestantize
 daurna
 devilize
 delative 1
-daryl
+daryl 1
 destituted
 decapodan
 diverged 1
