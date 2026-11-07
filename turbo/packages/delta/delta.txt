@@ -12327,7 +12327,7 @@ dactyl
 dielectrics 1
 doitrified
 discharged
-decolorimeter
+decolorimeter 1
 differentiates
 drias
 disharmonising 2
