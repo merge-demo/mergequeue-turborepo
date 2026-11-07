@@ -18148,7 +18148,7 @@ abdicated
 afflicting
 acapnia
 ableptically
-allegator
+allegator 1
 antipsychotic
 aerogenic
 algeria
