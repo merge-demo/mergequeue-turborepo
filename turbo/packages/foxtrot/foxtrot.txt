@@ -7562,7 +7562,7 @@ flintworker
 frizzes
 foreshadow 1
 forespeak
-fervors 1
+fervors 2
 forgathers 1
 forril 1
 fatalize
