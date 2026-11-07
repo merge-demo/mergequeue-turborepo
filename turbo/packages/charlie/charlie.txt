@@ -8290,7 +8290,7 @@ circumflect 2
 catechizable
 chalkworker
 centriciput
-challas
+challas 1
 copesman
 contraponend
 chamicuro
