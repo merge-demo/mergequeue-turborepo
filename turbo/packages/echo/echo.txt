@@ -2974,7 +2974,7 @@ etagere
 eligibles
 entrecotes
 equipede
-elbowchair
+elbowchair 1
 enjoining
 ensepulchering 1
 encephalopsychesis 1
