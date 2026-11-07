@@ -3118,7 +3118,7 @@ cytinus
 chalker
 catercornerways
 clone
-capanna
+capanna 1
 cystolithectomy
 caparison
 caparisoned
