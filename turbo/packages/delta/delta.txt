@@ -9177,7 +9177,7 @@ diecious
 diectasis 1
 dead
 damascenes
-discase
+discase 1
 dermomuscular
 drawbench
 doeling
@@ -11891,7 +11891,7 @@ dramm
 danism
 decalescence 1
 discuses
-dentalisation
+dentalisation 1
 defectively
 deductile
 diseased
