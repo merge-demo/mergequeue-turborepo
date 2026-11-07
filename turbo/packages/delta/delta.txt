@@ -12399,7 +12399,7 @@ delomorphic
 doyens
 dismissingly 1
 doeskins
-diakineses
+diakineses 1
 dishley
 diamond
 deterrability 2
