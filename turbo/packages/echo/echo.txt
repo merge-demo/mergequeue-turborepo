@@ -11599,7 +11599,7 @@ elumbated
 entrances
 effet
 excided
-enfrenzy
+enfrenzy 1
 ersatz 1
 ethnocentricity
 empoison
@@ -14052,7 +14052,7 @@ eidolons
 embellishments
 extrathermodynamic
 emes 1
-edition
+edition 1
 excitonic
 e
 enterochromaffin
