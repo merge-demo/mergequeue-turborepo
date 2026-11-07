@@ -1280,7 +1280,7 @@ eleonorite
 enforceable
 eoghanacht
 epinephrin
-epigramme
+epigramme 1
 eq
 eeriness 1
 epithalamion
