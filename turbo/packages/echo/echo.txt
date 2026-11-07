@@ -13332,7 +13332,7 @@ exponention
 elephantopus
 enduement
 exponible
-existible
+existible 1
 evolvable
 encowl
 enough 1
