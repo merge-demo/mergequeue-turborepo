@@ -942,7 +942,7 @@ gatewise
 gymnophobia 1
 guelphism 1
 greedy
-germal
+germal 1
 gelototherapy
 garaging
 gammarine

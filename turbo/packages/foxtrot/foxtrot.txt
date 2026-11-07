@@ -3344,7 +3344,7 @@ firmisternia
 funicle
 fieldish 1
 funereality
-flatfoot
+flatfoot 1
 fattener
 fossores
 foveolate
