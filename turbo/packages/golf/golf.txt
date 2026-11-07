@@ -2578,7 +2578,7 @@ guillotined
 grassed 1
 gyrogonite
 gargling
-gametogeny
+gametogeny 1
 globiferous
 generant
 generate 1
