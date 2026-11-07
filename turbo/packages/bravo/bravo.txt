@@ -2929,7 +2929,7 @@ becrawls
 barratrously
 barrelage
 barreled 1
-barreleyes
+barreleyes 1
 barrelet
 bookend
 batuque
