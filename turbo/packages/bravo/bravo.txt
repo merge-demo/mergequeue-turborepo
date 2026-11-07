@@ -7098,7 +7098,7 @@ basset
 benzalethylamine
 bezzant
 bennetweed
-bespattered 1
+bespattered 2
 batara
 barracks
 bannerette
@@ -18071,7 +18071,7 @@ biologize
 bustlingly
 blenny
 bloom
-banzais
+banzais 1
 busts
 busulfans
 bughouse
