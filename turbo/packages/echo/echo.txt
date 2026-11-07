@@ -4880,7 +4880,7 @@ empoisons
 egomanias
 ebulliometer 1
 exoperidium
-endoderm
+endoderm 1
 enculturation 1
 ergatandromorph
 epispastic
