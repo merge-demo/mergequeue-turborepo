@@ -526,7 +526,7 @@ evelina
 exemptible
 eching
 echinidan
-expy
+expy 1
 enzymologist
 eclipsises
 echinococcosis

@@ -2963,7 +2963,7 @@ gibes
 gastroenterostomy 1
 geomant
 graviers
-gasaliers 1
+gasaliers 2
 goluptious
 glutinousness
 gigantomachy
