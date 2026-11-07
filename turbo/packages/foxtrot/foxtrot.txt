@@ -857,7 +857,7 @@ freckened
 freedoot
 forebows 2
 free
-fragilities
+fragilities 1
 fantasying
 falterer 1
 forthbrought
