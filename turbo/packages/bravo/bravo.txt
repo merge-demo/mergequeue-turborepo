@@ -3531,7 +3531,7 @@ bactericides
 bedimples 1
 baalism
 batboy
-bicarpellary
+bicarpellary 1
 batboys
 byzants
 blubberous 1
