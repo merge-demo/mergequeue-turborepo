@@ -13971,7 +13971,7 @@ eozoonal
 endokaryogamy
 escheatage
 extraparochial
-equicurve
+equicurve 1
 ectophytic 1
 essoiner
 embezzles

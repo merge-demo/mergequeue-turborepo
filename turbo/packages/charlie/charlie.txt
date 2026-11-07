@@ -18414,7 +18414,7 @@ craftier
 coherent 1
 chondromata
 conspiratorially
-cogonal
+cogonal 1
 chomped
 cogovernor
 cellularity
