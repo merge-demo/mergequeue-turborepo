@@ -13668,7 +13668,7 @@ dequantitate
 diedral
 dissimilate 1
 depletion
-disacquaintance 1
+disacquaintance 2
 dissimilative
 dangered
 dandyishly
