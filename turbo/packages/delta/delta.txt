@@ -7005,7 +7005,7 @@ desserts
 dignified
 dessertspoon
 disenthroning
-duramen
+duramen 1
 destinezite
 driveable
 dessous
