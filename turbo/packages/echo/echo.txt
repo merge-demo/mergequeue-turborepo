@@ -7999,7 +7999,7 @@ epicleidian
 exorganic
 enzymically 1
 eolian 1
-endocannibalism
+endocannibalism 1
 erotopathic
 epiotic
 eutannin
