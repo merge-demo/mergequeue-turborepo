@@ -8962,7 +8962,7 @@ allonymous
 allonyms
 allonomous 1
 abortion
-apodan
+apodan 1
 admiralships
 arris
 appreciate
