@@ -3633,7 +3633,7 @@ degressive
 dactylopterus
 daunting
 descender
-deregulatory
+deregulatory 1
 degust
 dasnt
 degusted
