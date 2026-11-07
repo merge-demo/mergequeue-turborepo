@@ -5379,7 +5379,7 @@ flechettes 1
 flecked 1
 forkhead
 fleckering
-franco
+franco 1
 fosterhood 1
 flecky
 fosterite
