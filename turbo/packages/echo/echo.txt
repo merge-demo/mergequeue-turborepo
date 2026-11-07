@@ -3686,7 +3686,7 @@ excogitates
 emaciated 1
 expatiatory
 erythrons
-enwheel
+enwheel 1
 everse 2
 everywheres
 evangelistically
