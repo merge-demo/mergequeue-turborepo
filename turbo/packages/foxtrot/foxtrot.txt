@@ -10892,7 +10892,7 @@ fango
 flayer
 furore
 fullish
-foeman 1
+foeman 2
 frigorifico
 fulgurated 1
 finished 1
