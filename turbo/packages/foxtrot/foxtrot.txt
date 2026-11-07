@@ -7650,7 +7650,7 @@ foziest
 fruition
 foreturn
 flotter 1
-furriness
+furriness 1
 florences
 forspeak
 favourers
