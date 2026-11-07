@@ -6176,7 +6176,7 @@ enneasepalous
 ennia 1
 endotheliolytic
 enargite
-endeavorer
+endeavorer 1
 enniche
 elytrum
 engraft
