@@ -6631,7 +6631,7 @@ gekkota 1
 gild
 gynodioeciously
 gunsman
-gaufferer
+gaufferer 1
 glitters
 garmentless
 giantism
