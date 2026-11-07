@@ -3217,7 +3217,7 @@ goldenseal 1
 girtonian
 ghosty
 gundelet
-gilgul 1
+gilgul 2
 goldenwing
 galoot
 greatish
