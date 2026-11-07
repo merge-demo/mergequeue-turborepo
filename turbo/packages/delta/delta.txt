@@ -3630,7 +3630,7 @@ daffadowndilly
 degreewise
 dorsers
 degressive
-dactylopterus
+dactylopterus 1
 daunting
 descender
 deregulatory 1
