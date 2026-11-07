@@ -9527,7 +9527,7 @@ alternatively
 alternativeness
 acaleph
 alternatives
-apparence
+apparence 1
 angioblast
 alternifoliate
 alternipetalous
