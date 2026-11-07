@@ -11130,7 +11130,7 @@ fundatrices
 frizzed
 frostbit
 fearlessness
-fisticuffs
+fisticuffs 1
 franca 1
 fetidly
 farads
