@@ -8945,7 +8945,7 @@ enzymatic 1
 exsanguineous 1
 expatiators
 eightvo
-erika
+erika 1
 erikite
 erinaceidae
 ephebes
