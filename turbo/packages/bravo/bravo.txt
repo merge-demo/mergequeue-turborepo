@@ -9537,7 +9537,7 @@ banya
 bipunctal 1
 bores
 barbarian
-birn 2
+birn 3
 byrnie
 battlefront
 birodo
