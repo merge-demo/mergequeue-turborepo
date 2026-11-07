@@ -11268,7 +11268,7 @@ buckeye
 becudgeled
 beaker 1
 boder
-burkes
+burkes 1
 batterfang
 brazenness
 bracts
