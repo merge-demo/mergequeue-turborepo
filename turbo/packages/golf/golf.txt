@@ -4686,7 +4686,7 @@ gudemother 2
 gainstand 1
 garua
 greenbottle 1
-galactite
+galactite 1
 glick
 genethliatic
 gendarme 1
