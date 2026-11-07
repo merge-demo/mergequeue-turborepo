@@ -433,7 +433,7 @@ fairway
 fragilariaceae
 fieldbird
 forebitt
-furthy
+furthy 1
 faisan
 forcefulness 1
 floriculturist
