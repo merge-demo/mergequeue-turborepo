@@ -11949,7 +11949,7 @@ addable
 ananym
 aves
 ananism
-ananite
+ananite 1
 anelace
 aplanospore
 anankastic 1

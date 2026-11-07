@@ -12331,7 +12331,7 @@ emanators 1
 entangled 1
 eaning
 eviscerations
-evectant
+evectant 1
 exertionless 1
 ethernet
 eschscholtzia
