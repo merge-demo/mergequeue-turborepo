@@ -4355,7 +4355,7 @@ biaural 1
 beakiest
 bulkheaded 1
 braquemard
-bdrm
+bdrm 1
 bulimia
 becarpeted
 bulbourethral
