@@ -3346,7 +3346,7 @@ adamantoblast
 archery
 amblystoma
 absentee
-atresic
+atresic 1
 atelets 1
 aircheck
 andean
