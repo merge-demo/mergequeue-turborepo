@@ -13577,7 +13577,7 @@ ergusia
 exsolving
 epochs
 expectative
-exposedness
+exposedness 1
 energies
 ebeneous
 exsudate
