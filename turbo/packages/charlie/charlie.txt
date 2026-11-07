@@ -20739,7 +20739,7 @@ complexion
 chromos
 complexional
 carioling
-clavuvi
+clavuvi 1
 complexionary
 chemiphotic
 complexioned
