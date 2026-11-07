@@ -1023,7 +1023,7 @@ greekess
 gilse 1
 gurnetty
 granitizing
-grimacing
+grimacing 1
 gnomons
 geophilous
 guttle 2
