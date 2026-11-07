@@ -2635,7 +2635,7 @@ genethlic
 glossopetra
 goatee
 glossosteresis
-geoagronomic 1
+geoagronomic 2
 geniality
 genetics
 graffito
