@@ -5558,7 +5558,7 @@ afflux
 afterplanting
 absinthium
 acknew 1
-afterreckoning
+afterreckoning 1
 audiotypist
 auxofluor
 andiroba
