@@ -9128,7 +9128,7 @@ formes 2
 frenchiness
 foolify
 formicaria
-fraena
+fraena 1
 faroff
 frostproofing 1
 fudgy 1
