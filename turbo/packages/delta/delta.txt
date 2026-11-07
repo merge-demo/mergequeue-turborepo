@@ -6791,7 +6791,7 @@ ducamara 1
 disfranchisers
 donataries 1
 degenerates
-dextrocardial
+dextrocardial 1
 dendrograph
 desmodynia
 diazoamine
