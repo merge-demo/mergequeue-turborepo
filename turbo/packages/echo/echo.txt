@@ -10996,7 +10996,7 @@ eternalist
 estrade
 excipuliform
 endosarcous 2
-eroses
+eroses 1
 extravagant
 economic
 emolliate
