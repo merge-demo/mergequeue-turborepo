@@ -3172,7 +3172,7 @@ glycyrrhiza 1
 grangerism 1
 graip
 grannam
-gaddis
+gaddis 1
 glossiness
 governmentalist 2
 glottological
