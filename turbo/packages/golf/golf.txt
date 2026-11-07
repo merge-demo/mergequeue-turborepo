@@ -2767,7 +2767,7 @@ garbs
 garnished
 gelotometer
 glottochronological
-gristly
+gristly 1
 generalidad
 gangwayed 2
 governably
