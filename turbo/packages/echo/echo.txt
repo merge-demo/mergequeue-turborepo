@@ -4182,7 +4182,7 @@ eldermen 1
 extrications
 empoririums
 emporiums
-envisagement
+envisagement 1
 eyewink
 emporte
 ecstasy
