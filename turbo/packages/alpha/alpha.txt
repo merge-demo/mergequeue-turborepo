@@ -7641,7 +7641,7 @@ alcyonacean
 alcyoniaceae 1
 acost
 alcyonic
-astutely
+astutely 1
 argentinitrate
 astrohatch
 afficionado
