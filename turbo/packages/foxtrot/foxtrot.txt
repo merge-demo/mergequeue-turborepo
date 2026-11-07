@@ -10484,7 +10484,7 @@ forbodes
 fosterland
 fibroin
 foofaraw 1
-forepretended
+forepretended 1
 fantast
 forewarns 1
 fluffs 1
