@@ -4593,7 +4593,7 @@ endosarcode
 ethnolinguistics
 eeriest
 extollingly
-epicerastic
+epicerastic 1
 estradas
 ensigned 1
 earthtongue
