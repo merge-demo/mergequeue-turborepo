@@ -5194,7 +5194,7 @@ garten
 gentilic
 gammer
 gawkier
-genial 1
+genial 2
 grenade
 goatish 1
 gelsemiums
