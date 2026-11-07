@@ -1216,7 +1216,7 @@ foolishness
 fashing 1
 fleeted 1
 factorylike
-fritt
+fritt 1
 fiddley
 forediscern 1
 fascinate
