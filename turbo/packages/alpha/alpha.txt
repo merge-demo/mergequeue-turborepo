@@ -16935,7 +16935,7 @@ agamis
 anemometrical
 akuammine
 aprosopous
-affectable
+affectable 1
 anhima
 approachment
 arrive
