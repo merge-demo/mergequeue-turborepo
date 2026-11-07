@@ -741,7 +741,7 @@ drabby
 dishabilitation
 dandie
 doubtless 1
-decastyle
+decastyle 1
 depeche
 dandier
 drybrained
