@@ -13740,7 +13740,7 @@ educating 1
 elfhood
 euphemised 1
 emblazoning
-extersive
+extersive 1
 exerting
 enemata
 epitrochoidal 1
