@@ -9177,7 +9177,7 @@ diecious
 diectasis 1
 dead
 damascenes
-discase
+discase 1
 dermomuscular
 drawbench
 doeling
