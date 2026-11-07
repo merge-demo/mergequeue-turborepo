@@ -3823,7 +3823,7 @@ disembosom
 deis
 deisidaimonia
 disquieting
-deism
+deism 1
 decentred
 deistical
 dressages
