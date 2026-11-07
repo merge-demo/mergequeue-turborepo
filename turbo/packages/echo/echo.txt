@@ -12003,7 +12003,7 @@ eigenspace
 eassel
 etherion
 espeire
-electrostrictive 1
+electrostrictive 2
 embolus
 equilibrize 1
 electioneerer
