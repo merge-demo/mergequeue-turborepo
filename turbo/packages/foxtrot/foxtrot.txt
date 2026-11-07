@@ -5641,7 +5641,7 @@ fermium
 flunky
 friend
 fawe
-fragility
+fragility 1
 fibrine
 freckles 1
 funeration
@@ -11416,7 +11416,7 @@ flatterous
 fleurette
 filminess
 fechnerian
-flushboard
+flushboard 1
 fractionary
 furniture 1
 flummoxing 1
