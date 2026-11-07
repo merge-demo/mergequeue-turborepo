@@ -3921,7 +3921,7 @@ fraple
 french
 ferrocyanogen
 furrowed
-fireboxes
+fireboxes 1
 fumattoria
 flemish
 frailejon
