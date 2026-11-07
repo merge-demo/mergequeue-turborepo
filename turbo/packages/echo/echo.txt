@@ -8651,7 +8651,7 @@ elutriating 1
 emergently 1
 etherialised 1
 entoperipheral
-enameller
+enameller 1
 emerging
 excretions
 equinus
