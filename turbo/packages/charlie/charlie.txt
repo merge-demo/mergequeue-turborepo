@@ -21513,7 +21513,7 @@ confessions
 calycle
 climacterical 1
 celestialize 1
-concresce
+concresce 1
 concrescence
 cephalohumeral
 concrescive
