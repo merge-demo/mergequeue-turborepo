@@ -11854,7 +11854,7 @@ excelente 1
 evanescent 1
 eland
 excellencies
-eucre
+eucre 1
 econometric
 expectantly
 everwhich
