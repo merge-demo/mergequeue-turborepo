@@ -1677,7 +1677,7 @@ delineator 1
 debonnaire
 dismissive 1
 dears
-dottard
+dottard 1
 dipleiodoscope
 dupability
 disadvantage
