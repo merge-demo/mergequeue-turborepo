@@ -321,7 +321,7 @@ galleting
 gadolinium
 grognard
 gangrels
-grundsil
+grundsil 1
 galeorhinus
 guyana 2
 galliferous
