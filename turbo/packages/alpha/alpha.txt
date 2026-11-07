@@ -3931,7 +3931,7 @@ adjudicative
 aerostats
 alphean
 antistrophically 2
-adjudicators
+adjudicators 1
 aversely
 aphidian
 alarmed
