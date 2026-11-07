@@ -8109,7 +8109,7 @@ asboline 1
 algarrobin
 abrahamitic
 algas
-algate
+algate 1
 aganglionic
 arsenoferratin
 anthropologic
