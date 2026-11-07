@@ -4640,7 +4640,7 @@ bedazzles
 bedazzlingly
 bibliopolery 1
 beckon
-baptise 1
+baptise 2
 bedbugs
 boden
 breadmaking
