@@ -6488,7 +6488,7 @@ firebed
 forecover 1
 fricasseed
 faucal
-fluotantalate
+fluotantalate 1
 flutteriness
 farfal
 formative
