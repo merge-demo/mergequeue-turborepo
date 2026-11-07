@@ -11348,7 +11348,7 @@ emanatively
 eathly
 epicureans
 evenness
-exalters
+exalters 1
 expensefulness
 eccyesis
 exaristate
