@@ -1124,7 +1124,7 @@ familiarizing
 fervidness 1
 fusileer
 frizzling
-fluor
+fluor 1
 farthing
 foresay
 feverishness
@@ -3068,7 +3068,7 @@ frozen
 frenching 1
 faddiness
 fisherboy 1
-fibroblastic
+fibroblastic 1
 ferngale 2
 fipple
 festoon
