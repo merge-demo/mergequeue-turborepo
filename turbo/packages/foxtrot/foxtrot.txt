@@ -7286,7 +7286,7 @@ frampold
 favour
 febricant
 fulcrum
-feathered 1
+feathered 2
 focimeter 1
 fiddleheaded
 flickered
