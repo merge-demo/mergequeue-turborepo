@@ -6372,7 +6372,7 @@ enshrined
 enshrinement 1
 embars
 enshrinements 1
-endovaccination
+endovaccination 1
 ephebe
 expenseful 1
 earthward 1
