@@ -7050,7 +7050,7 @@ garbell
 grumpily
 ginnery
 gentiledom 1
-gercrow
+gercrow 1
 grottos
 glossorrhaphy 1
 galletas
