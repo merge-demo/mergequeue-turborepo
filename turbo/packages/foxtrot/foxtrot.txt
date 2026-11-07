@@ -4121,7 +4121,7 @@ fontanel
 flywheel
 fersmite
 fratriage
-fipples
+fipples 1
 floscule 1
 firca
 foisted
@@ -6528,7 +6528,7 @@ frabjous
 fortuitist 2
 flyboats
 falconiform
-franseria
+franseria 1
 flunkeyism
 feltness 1
 frounce
