@@ -9872,7 +9872,7 @@ eccrine
 ependymoma
 eleutheropetalous
 esthesiology
-elementarily
+elementarily 1
 endothermous
 ecclesiolatry
 excludingly
