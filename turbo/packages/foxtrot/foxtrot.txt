@@ -2890,7 +2890,7 @@ fanciable
 fumigations
 fortressing
 footmark
-frizzen
+frizzen 1
 factoring
 fumier
 flagonless
