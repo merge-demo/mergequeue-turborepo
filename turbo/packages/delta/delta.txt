@@ -3807,7 +3807,7 @@ deselects
 depolishes
 disinteresting
 dissceptred
-decorationist
+decorationist 1
 deionizer 1
 degeneration
 deipnophobia
