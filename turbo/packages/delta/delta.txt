@@ -13470,7 +13470,7 @@ disrest 1
 disillusionment
 diuretic
 disguiseless
-despotism
+despotism 1
 dyspnoea
 droyl
 disrobement
