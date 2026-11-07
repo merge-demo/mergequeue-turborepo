@@ -12629,7 +12629,7 @@ colorless
 chessom
 condores
 cteninidia
-chubbiest
+chubbiest 1
 chubs
 chuckawalla
 chucked
