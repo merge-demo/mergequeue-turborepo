@@ -5936,7 +5936,7 @@ frenchification
 frailly
 fivepins 1
 futileness
-fallibility
+fallibility 1
 fortunite
 floodlit
 fibromembrane 1
