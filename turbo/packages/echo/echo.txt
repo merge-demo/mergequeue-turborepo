@@ -14004,7 +14004,7 @@ embargoist 1
 epicoracohumeral
 exaltate
 extralimital
-extrapolatory 1
+extrapolatory 2
 extraposition
 exosseous
 electrolytic
