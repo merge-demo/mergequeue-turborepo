@@ -1888,7 +1888,7 @@ disinfection 1
 deboss
 debouche 1
 dupery
-disbench
+disbench 1
 disconcertingness
 digladiator
 discourse
@@ -5683,7 +5683,7 @@ duree
 disjoint
 descriptor
 decasualizing
-depolymerize
+depolymerize 1
 deadpay
 davened
 depolished
