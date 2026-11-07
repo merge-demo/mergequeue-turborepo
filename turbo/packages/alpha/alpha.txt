@@ -3740,7 +3740,7 @@ alligator
 adfreezing
 adhafera
 alligated
-aerosphere 1
+aerosphere 2
 agones
 adhaka
 atticized
