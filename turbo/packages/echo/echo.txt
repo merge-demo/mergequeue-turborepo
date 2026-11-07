@@ -9222,7 +9222,7 @@ extremer
 etheric
 educatedly
 erotogenetic
-erotogenicity
+erotogenicity 1
 ergonomist
 erotographomania
 errantly 1
