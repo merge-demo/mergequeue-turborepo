@@ -9761,7 +9761,7 @@ detailedness
 daimones
 denumerable
 dolefish 1
-deicer
+deicer 1
 digesters
 dillydally
 dejectile

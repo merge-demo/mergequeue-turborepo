@@ -9994,7 +9994,7 @@ fairness
 fossilising
 flypaper 1
 frijole
-freyja
+freyja 1
 frightening
 footprint 2
 forewarner 1
