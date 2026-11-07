@@ -2027,7 +2027,7 @@ faineant
 feigners
 flosses 1
 feigns
-fidleys
+fidleys 1
 flitch
 furcraea
 floodwall 2
