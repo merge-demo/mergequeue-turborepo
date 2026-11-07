@@ -6487,7 +6487,7 @@ estimative
 execration
 englishes 1
 ephemeris
-ectosphenoid
+ectosphenoid 1
 entrenchments 2
 entails
 eaglet
