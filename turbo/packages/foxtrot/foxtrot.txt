@@ -4108,7 +4108,7 @@ fiendful
 feuilletons
 frameworks
 floridan
-faintheartedness
+faintheartedness 1
 fusiladed 1
 fiorite
 flamberg
