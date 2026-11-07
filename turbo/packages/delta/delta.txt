@@ -11229,7 +11229,7 @@ definitively 1
 dogstail
 disburse
 disillusionist
-displeaser
+displeaser 1
 deictic
 duckpins 1
 divinistre
