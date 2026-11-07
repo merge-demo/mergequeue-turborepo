@@ -5641,7 +5641,7 @@ fermium
 flunky
 friend
 fawe
-fragility
+fragility 1
 fibrine
 freckles 1
 funeration
@@ -6302,7 +6302,7 @@ favela
 fluoboride
 flaggiest
 fumerel
-foamflower
+foamflower 1
 fiking
 fossiform 1
 flummoxes

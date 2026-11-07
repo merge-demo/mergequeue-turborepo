@@ -14756,7 +14756,7 @@ anticapitalist 1
 anticapitalistically 1
 anticardiac 1
 anticarious
-aeronautism
+aeronautism 1
 armorially
 activized
 archcharlatan
