@@ -12733,7 +12733,7 @@ epha
 extol
 englishman
 epilepsies 1
-exorable
+exorable 1
 exactingness
 etiolin
 eradication 1
