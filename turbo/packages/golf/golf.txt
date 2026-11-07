@@ -5650,7 +5650,7 @@ gushes
 greedier
 grandnephews
 glossemic
-gibbously
+gibbously 1
 glaciometer
 glossies
 glossiest 1
