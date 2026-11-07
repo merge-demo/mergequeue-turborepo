@@ -3232,7 +3232,7 @@ equant
 educive
 extreme
 extroversively 1
-eludible 2
+eludible 3
 enswathes
 elul
 epidemic
