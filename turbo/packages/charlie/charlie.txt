@@ -17133,7 +17133,7 @@ coadventure
 coadventured 1
 coadventuring
 coadvice
-coaffirmation
+coaffirmation 1
 coafforest
 corchat
 coaged
