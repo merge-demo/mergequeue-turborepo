@@ -10352,7 +10352,7 @@ focometer
 frustrated
 fikey
 friendless
-fundungi
+fundungi 1
 floribunda
 foxinesses 1
 flaught
