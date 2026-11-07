@@ -5415,7 +5415,7 @@ fledgiest 1
 floatless
 foisonless 1
 fabian
-fiftypenny
+fiftypenny 1
 forefigure
 furor
 flurt
