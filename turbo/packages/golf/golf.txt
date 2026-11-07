@@ -5645,7 +5645,7 @@ guggling
 gumflower
 gillyflower
 glycopexia 1
-glycosuric
+glycosuric 1
 gushes
 greedier
 grandnephews
