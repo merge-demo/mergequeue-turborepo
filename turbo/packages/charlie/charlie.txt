@@ -14989,7 +14989,7 @@ countercondemnation
 cipollino
 circuitable
 civilizable
-civilizationally 1
+civilizationally 2
 citola
 contemns
 civilized
