@@ -9748,7 +9748,7 @@ equisonance 2
 everyplace 1
 eddo
 enneahedron
-emarcid
+emarcid 1
 euhedral
 emblematicize
 ectogenesis
