@@ -862,7 +862,7 @@ epistolizer
 eigenfunction 1
 erythrocytolysin
 electrocution
-endophyte
+endophyte 1
 entailed
 ectomorph
 exemptionist
@@ -13667,7 +13667,7 @@ earners
 evirate
 elevon
 elizabethanism
-exteriorised
+exteriorised 1
 ecrus
 entapophysis
 elfic
