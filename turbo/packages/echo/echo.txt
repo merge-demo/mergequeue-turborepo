@@ -5284,7 +5284,7 @@ excerpt 1
 extravagation
 enrolles
 ethylmorphine 2
-excretolic
+excretolic 1
 enslaves
 endocorpuscular
 endorsed
