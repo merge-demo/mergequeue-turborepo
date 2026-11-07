@@ -3454,7 +3454,7 @@ engrail
 evacuate 1
 eventide
 embellisher
-embellishers 1
+embellishers 2
 eutelegenic
 endiadem
 encheason
