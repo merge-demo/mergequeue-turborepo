@@ -5369,7 +5369,7 @@ ferrocyanide
 faverel
 figged
 foredetermine
-flunkyistic
+flunkyistic 1
 forthset 1
 ferrelled
 flutists
