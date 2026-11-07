@@ -21689,7 +21689,7 @@ acetylenogen
 antiquer
 assaulter
 attainably
-amphibological
+amphibological 1
 archibald 1
 assausive
 arrhinia
