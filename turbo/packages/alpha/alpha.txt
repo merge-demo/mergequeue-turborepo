@@ -1876,7 +1876,7 @@ acetabulous
 atheromas
 acetabulums
 acetacetic
-autopsic
+autopsic 1
 acetalize
 amphioxididae
 arrector
