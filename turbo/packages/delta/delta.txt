@@ -6613,7 +6613,7 @@ dotingly
 depreciatoriness
 disembodiments
 dustrags
-deserved
+deserved 1
 disesteemer
 deice
 deservers
