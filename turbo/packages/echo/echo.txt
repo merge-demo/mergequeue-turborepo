@@ -862,7 +862,7 @@ epistolizer
 eigenfunction 1
 erythrocytolysin
 electrocution
-endophyte
+endophyte 1
 entailed
 ectomorph
 exemptionist
