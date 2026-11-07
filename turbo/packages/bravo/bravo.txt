@@ -1453,7 +1453,7 @@ bugler 1
 bloodthirstiest
 bowing
 bowsprit
-biogen 1
+biogen 2
 bathtubful
 botuliform
 balinghasay
