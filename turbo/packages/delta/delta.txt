@@ -4009,7 +4009,7 @@ dogcarts
 delicense
 dynamometamorphosed 1
 deliciouses
-deliciousness
+deliciousness 1
 debouches 1
 delict 1
 deaquation
