@@ -2624,7 +2624,7 @@ flusters
 foreshoulder
 figuratively
 footingly
-fastidious
+fastidious 1
 frumentation
 familiarisation
 fundable

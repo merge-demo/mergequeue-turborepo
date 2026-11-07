@@ -754,7 +754,7 @@ denumerant
 douceness
 discotheques
 didelphia
-decelerometer
+decelerometer 1
 dedolence
 dnieper
 dermatoconiosis
