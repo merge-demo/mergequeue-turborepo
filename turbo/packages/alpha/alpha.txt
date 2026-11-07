@@ -18148,7 +18148,7 @@ abdicated
 afflicting
 acapnia
 ableptically
-allegator
+allegator 1
 antipsychotic
 aerogenic
 algeria
@@ -19203,7 +19203,7 @@ arctoidean
 arctos
 ager
 allituric
-arctostaphylos
+arctostaphylos 1
 alick
 arcuale
 antiphysician
