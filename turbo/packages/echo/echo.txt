@@ -11104,7 +11104,7 @@ erotetic
 euthycomi
 enol
 executes
-exsiliency
+exsiliency 1
 exactitude
 euthytatic
 exopt 1
