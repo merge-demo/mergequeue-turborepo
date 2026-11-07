@@ -6374,7 +6374,7 @@ daniglacial
 drifters
 doxology
 derrises
-deruinate
+deruinate 1
 derust
 decameronic
 dispathy
@@ -11601,7 +11601,7 @@ disprepare
 daggletail 1
 discover 1
 dieselizing
-dreamlessness
+dreamlessness 1
 downweed
 defectionist
 discontinuities
