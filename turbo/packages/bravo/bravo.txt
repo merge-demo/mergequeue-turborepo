@@ -14682,7 +14682,7 @@ backbites
 blackishness 1
 blastosphere
 bigmouth
-betusked 1
+betusked 2
 brasiletto
 brasilin
 bibliomancy
