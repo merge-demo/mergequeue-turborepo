@@ -7734,7 +7734,7 @@ endosomes 2
 emendable
 estopping 2
 equips 2
-edelweisses
+edelweisses 1
 ethinamate
 empasma
 eggshells

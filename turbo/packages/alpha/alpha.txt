@@ -12994,7 +12994,7 @@ assistors 1
 angularities
 analgesist
 atomistical
-affirming
+affirming 1
 accountancy 1
 almadie
 antisurplician
