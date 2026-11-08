@@ -9155,7 +9155,7 @@ digenesis
 divided
 dogship
 defensing
-duelled
+duelled 1
 desoxycinchonine 1
 decalog
 diptych
