@@ -12009,7 +12009,7 @@ disserts
 duckfoot
 daverdy
 dae
-deliveries
+deliveries 1
 diadelphic
 durdum
 disengaged
