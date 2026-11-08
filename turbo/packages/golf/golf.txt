@@ -559,7 +559,7 @@ gazometer 2
 gnatflower
 galempong
 gableended
-gravamem
+gravamem 1
 ganglionless 1
 gadinine
 glucosazone 2
