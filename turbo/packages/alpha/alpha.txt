@@ -5336,7 +5336,7 @@ attestation
 afforesting
 autophotometry 1
 anticogitative
-afformative
+afformative 1
 abuseful
 affrayers
 affraying 2
