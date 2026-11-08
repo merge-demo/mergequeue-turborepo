@@ -8726,7 +8726,7 @@ frondation
 facelifts
 foreplace
 fraud
-fated
+fated 1
 frugality 1
 fashionative 2
 fumbler 1
