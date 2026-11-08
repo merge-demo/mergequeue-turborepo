@@ -2219,7 +2219,7 @@ achromatize
 achromatocyte
 agarum
 arctalian
-awestruck
+awestruck 1
 aerosolizing
 anent
 achromatope
