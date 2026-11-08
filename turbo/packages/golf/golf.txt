@@ -5669,7 +5669,7 @@ gelts
 glycoluril 3
 glossophytia 1
 guardeen
-guttule
+guttule 1
 ghillies
 guanize 1
 glamberry
