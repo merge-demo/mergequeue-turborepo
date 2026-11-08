@@ -8049,7 +8049,7 @@ geotonic
 gaslightness
 geomagnetism
 ghain
-genealogic
+genealogic 1
 genteelish 1
 gesning
 granivore
