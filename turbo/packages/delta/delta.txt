@@ -14505,7 +14505,7 @@ dihelios 1
 demonstrableness
 decoupling
 delly 2
-deckhouse
+deckhouse 1
 degauss
 diphyzooid
 devitaminize
