@@ -5504,7 +5504,7 @@ bootid
 broadmouth
 baronets 1
 behoovefulness 1
-barrier
+barrier 1
 behooves
 behooving
 bacterioprotein
