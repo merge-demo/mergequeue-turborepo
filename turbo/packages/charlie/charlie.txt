@@ -9085,7 +9085,7 @@ charruas 1
 combinative 1
 cloamer
 charshaf
-charsingha
+charsingha 1
 container
 chartable
 charter
