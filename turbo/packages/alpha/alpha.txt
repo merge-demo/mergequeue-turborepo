@@ -19007,7 +19007,7 @@ autocholecystectomy
 absinthin
 archleveler
 adenomalacia
-affectationist
+affectationist 1
 abominated 1
 adigei
 arciferous
