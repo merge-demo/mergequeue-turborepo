@@ -13929,7 +13929,7 @@ aesthete
 ansu
 antigenes
 alymphopotent
-arquifoux
+arquifoux 1
 apprehends
 asservilize
 ansulate
