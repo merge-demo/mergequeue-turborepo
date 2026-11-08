@@ -1824,7 +1824,7 @@ gobleted 1
 guinean
 gullah
 gatekeeper
-grizel
+grizel 1
 glummer 1
 gibbles
 gabbier
