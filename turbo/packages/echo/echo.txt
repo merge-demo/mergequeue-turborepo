@@ -9377,7 +9377,7 @@ excerptible
 excresce 1
 escalope
 erlking
-enchiladas
+enchiladas 1
 engraced 1
 expatriates
 embryogenic
