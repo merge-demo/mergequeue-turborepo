@@ -4548,7 +4548,7 @@ emberizidae
 electing
 embeggar
 edana
-earthmove
+earthmove 1
 erica
 enrol
 epidiorthosis 1
