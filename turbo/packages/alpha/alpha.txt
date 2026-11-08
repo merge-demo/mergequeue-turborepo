@@ -1850,7 +1850,7 @@ alytes
 amalgamater
 admonitorial
 acerolas
-agnosy
+agnosy 1
 airinesses
 acerous
 acertannin
