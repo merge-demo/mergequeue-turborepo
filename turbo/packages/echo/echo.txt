@@ -2834,7 +2834,7 @@ electroluminescent
 explicans
 evenhanded 1
 enaluron
-elephantiasis
+elephantiasis 1
 elymi
 eliza
 extrarhythmical
