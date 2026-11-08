@@ -5219,7 +5219,7 @@ guessingly 2
 galoubet
 genesic 3
 granddaddy
-glooming
+glooming 1
 guaranies 1
 guarea
 gorgelet
