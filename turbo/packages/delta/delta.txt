@@ -2063,7 +2063,7 @@ dartle
 duly
 dendrography
 demonologies
-digressingly
+digressingly 1
 decaliters
 dichopodial
 decalitre
