@@ -10296,7 +10296,7 @@ fibrinolysin
 fornent 1
 falernian
 folkmot
-faultless
+faultless 1
 fromenty
 fusilladed 1
 fromenties 1
