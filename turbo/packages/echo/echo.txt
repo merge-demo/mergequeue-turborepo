@@ -13017,7 +13017,7 @@ expeded 2
 expatiated
 efflate
 expedience
-engrossment
+engrossment 1
 exotropism
 elopement
 epopee
