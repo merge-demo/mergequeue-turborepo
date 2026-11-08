@@ -2259,7 +2259,7 @@ bandog
 barbarically 1
 blandiloquous
 barbequing
-bourage
+bourage 1
 barricos
 buddler
 blueblossom
@@ -17686,7 +17686,7 @@ boomlets
 burleycue
 burlesquer
 boviculture
-burlesquing
+burlesquing 1
 burlet
 butterfly
 biotically

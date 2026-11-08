@@ -20867,7 +20867,7 @@ argufies
 armipotent
 arx
 arzan
-acapu
+acapu 1
 apportions 1
 amputator
 avenery 1
