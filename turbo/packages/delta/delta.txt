@@ -14967,7 +14967,7 @@ dhikr
 disconsonancy
 drearisomely 2
 dragonkind
-dogal
+dogal 1
 deflocculator
 dizziness
 disillusionizing
