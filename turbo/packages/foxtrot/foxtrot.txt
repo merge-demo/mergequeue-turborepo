@@ -5962,7 +5962,7 @@ fixures 1
 flashness
 floorcloths 1
 fumid 1
-fledgeling
+fledgeling 1
 folkways
 fawny 1
 fluidrachm
