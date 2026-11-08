@@ -12413,7 +12413,7 @@ andrewartha
 albitophyre
 appropre
 adenomeningeal
-amblyopic
+amblyopic 1
 allumine 1
 atheroma
 armoniac 1
