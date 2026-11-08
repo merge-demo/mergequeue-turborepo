@@ -239,7 +239,7 @@ bactrites
 bedeck
 beneception
 betrothed
-bootlaces 1
+bootlaces 2
 bathyanesthesia
 bachelordom
 bachelorette 1
