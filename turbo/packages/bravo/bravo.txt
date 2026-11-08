@@ -1851,7 +1851,7 @@ berylloid
 bowlin
 bushranging
 bandala
-bandanaed
+bandanaed 1
 battlepiece
 bollito
 bescribble
