@@ -11170,7 +11170,7 @@ flowerbed
 flintwork 1
 forefather
 fiddly
-force
+force 1
 frowy 1
 fungia
 fades
