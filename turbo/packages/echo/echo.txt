@@ -13961,7 +13961,7 @@ exterioration
 eschews
 elaborateness
 eudeve
-entoire
+entoire 1
 extraparliamentary
 ectotrophic 1
 expressless
