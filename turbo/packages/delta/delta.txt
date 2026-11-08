@@ -8083,7 +8083,7 @@ diaphyses
 disendower
 debeaker 1
 duodial
-dentex
+dentex 1
 developpes
 decidable
 dichogamic
