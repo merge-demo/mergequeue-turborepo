@@ -8959,7 +8959,7 @@ allomorphite
 allonym
 alongst
 allonymous
-allonyms
+allonyms 1
 allonomous 1
 abortion
 apodan 1
