@@ -580,7 +580,7 @@ daunch 1
 damfool
 digenea
 dodecaheddra
-dissolver
+dissolver 1
 diwata
 decopperization
 dissoluteness
