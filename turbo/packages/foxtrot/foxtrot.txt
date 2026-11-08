@@ -3723,7 +3723,7 @@ flavorousness
 fluoroscopists 1
 fake
 fulcral
-forkiness
+forkiness 1
 forevermore
 flotilla 1
 formanilide
