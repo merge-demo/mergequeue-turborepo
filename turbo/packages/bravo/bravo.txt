@@ -1457,7 +1457,7 @@ biogen 1
 bathtubful
 botuliform
 balinghasay
-bromeosin
+bromeosin 1
 bridling
 balister
 boycottism
