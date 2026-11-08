@@ -6202,7 +6202,7 @@ extrametropolitan
 explicableness
 etiologic
 enological 1
-effluxion
+effluxion 1
 execs
 ellipsoid
 exodist
