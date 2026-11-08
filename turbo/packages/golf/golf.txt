@@ -9330,7 +9330,7 @@ glareola 1
 goutiness
 glonoin
 gambia 1
-gustative
+gustative 1
 gladiators 1
 glided
 geisotherm 1
