@@ -14627,7 +14627,7 @@ draine 1
 dumpiest
 daubreeite
 divulgation 1
-divulge
+divulge 1
 divulged
 drivelling
 despite
