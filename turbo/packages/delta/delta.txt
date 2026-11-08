@@ -8859,7 +8859,7 @@ dacoits
 dicaryotic
 dicastery
 diagredium
-dichotomist
+dichotomist 1
 dicasteries
 dicastic
 dysmenorrhea
