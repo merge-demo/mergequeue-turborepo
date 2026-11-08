@@ -8827,7 +8827,7 @@ digressing
 dixit
 debilissima 1
 dibhole
-dioptry
+dioptry 1
 dualized
 defrosted
 dimberdamber
