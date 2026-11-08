@@ -1489,7 +1489,7 @@ accolades
 antidysenteric
 anabo
 amp 1
-antirational
+antirational 1
 arrastre
 antinovel
 accomplishers 1
