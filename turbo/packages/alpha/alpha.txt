@@ -4191,7 +4191,7 @@ ablare 1
 adoptian
 anacoustic
 angustifoliate
-apicula
+apicula 1
 agin
 adopting
 adopted
