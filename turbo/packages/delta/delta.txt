@@ -15754,7 +15754,7 @@ dissenting 1
 dimwits
 dormouse
 digallic
-dornic
+dornic 1
 deletive
 deterred
 dropsy
