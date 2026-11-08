@@ -2066,7 +2066,7 @@ gaynesses
 grippit
 gunbuilder 1
 girsh
-glyptodont
+glyptodont 1
 guideboard
 gallicolous 1
 gutlessness
