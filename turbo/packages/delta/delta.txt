@@ -12150,7 +12150,7 @@ dejections
 disfigure
 draughter
 defencelessness
-definitude
+definitude 1
 disfigurer
 drona
 demarcated
