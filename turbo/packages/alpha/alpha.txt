@@ -9093,7 +9093,7 @@ allowed
 attorned
 accounted
 assertiveness
-acquiescing
+acquiescing 1
 assagais
 aftermarriage
 alochia
