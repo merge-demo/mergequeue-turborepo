@@ -5336,7 +5336,7 @@ attestation
 afforesting
 autophotometry 1
 anticogitative
-afformative
+afformative 1
 abuseful
 affrayers
 affraying 2
@@ -21060,7 +21060,7 @@ ahmet
 azoxynaphthalene
 acknowledgedly
 accumulators
-amphithalamus
+amphithalamus 1
 ascite
 ashluslay 1
 aceconitic 1
