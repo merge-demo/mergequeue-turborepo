@@ -5342,7 +5342,7 @@ denudating
 disordained 3
 discanter
 deltidial 2
-diplomatics
+diplomatics 1
 disc
 denuder
 dermolysis
