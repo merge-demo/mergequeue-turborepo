@@ -3118,7 +3118,7 @@ geopolitical 1
 gayer 1
 girlhoods
 guanidins
-guaniferous
+guaniferous 1
 glucina 1
 gelosin
 grassplot
