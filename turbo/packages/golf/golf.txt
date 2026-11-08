@@ -9292,7 +9292,7 @@ gauffre
 gallipot 1
 gromia
 grinder
-goldy
+goldy 1
 geomagnetically 1
 gront
 gorbellies 1
