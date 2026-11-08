@@ -12160,7 +12160,7 @@ enswathing
 emblazes
 ethaldehyde
 electric
-exostome
+exostome 1
 embrittlement
 embergoose
 elytron 1
