@@ -2742,7 +2742,7 @@ fortescure
 fascisms
 festy
 festilogies
-feddans
+feddans 1
 festinance
 festoonery 1
 familistere 1
