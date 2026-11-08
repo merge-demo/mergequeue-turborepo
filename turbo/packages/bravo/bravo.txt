@@ -14960,7 +14960,7 @@ berloque
 backspear 1
 buccina
 birthy
-boccale
+boccale 1
 bushier 1
 breastpin
 barleybreak
@@ -15511,7 +15511,7 @@ brimly
 bifollicular
 banshees
 brimmering
-boloroot
+boloroot 1
 brims
 brindisi
 barbitalism
