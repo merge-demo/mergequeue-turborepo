@@ -13521,7 +13521,7 @@ equipollence
 establishing
 examine 1
 erotology 1
-exteriorization
+exteriorization 1
 endostoma
 erected
 electrocauterization 2
