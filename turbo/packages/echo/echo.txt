@@ -4405,7 +4405,7 @@ exarticulation 1
 ensigncies 1
 eubacteria
 ecumenist 1
-elaeis
+elaeis 1
 ebriously
 encapsulation
 emitted
