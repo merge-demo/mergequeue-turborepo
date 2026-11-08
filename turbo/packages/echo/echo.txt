@@ -9607,7 +9607,7 @@ enchiridions
 ecclesiophobia
 euphuistically
 esoterist
-exaggerators
+exaggerators 1
 evildoers 1
 exceptionary
 ensearch
