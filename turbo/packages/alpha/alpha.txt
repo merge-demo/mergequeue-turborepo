@@ -3286,7 +3286,7 @@ articulation
 arterioarctia
 acutiplantar
 autoluminescence
-acrylate
+acrylate 1
 assassin
 acutograve
 analogist
