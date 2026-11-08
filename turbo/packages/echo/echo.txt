@@ -3243,7 +3243,7 @@ entrench 2
 episcleral
 emancipates
 esophagospasm
-embuia
+embuia 1
 elution
 embourgeoisement
 esthesiometric
