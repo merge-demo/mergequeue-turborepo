@@ -6093,7 +6093,7 @@ botaniser
 bemurmure
 bemurmuring
 bittier
-befooled
+befooled 1
 bedfellowship
 bemuses
 bol
