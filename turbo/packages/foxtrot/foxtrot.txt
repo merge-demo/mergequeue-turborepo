@@ -231,7 +231,7 @@ fritterer 2
 facultize
 flexional
 fulgur
-finify
+finify 1
 fustigated 1
 fetials
 fopship
