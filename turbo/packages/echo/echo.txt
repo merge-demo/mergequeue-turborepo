@@ -4509,7 +4509,7 @@ endoerythrocytic
 entothorax
 embiidae 1
 encephalomyelitic
-epochally
+epochally 1
 extramorainal 2
 epirrheme
 encephalomyelitis
@@ -10024,7 +10024,7 @@ expellable
 ethanal
 esoterical 2
 eternalize
-eternally
+eternally 1
 extill
 embarking
 emphasizes
