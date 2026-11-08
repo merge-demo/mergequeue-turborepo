@@ -15201,7 +15201,7 @@ clamantly 1
 clamaroo
 ceraunophone
 cywydd
-clamatory
+clamatory 1
 cartooned
 clutterer
 casimeres
