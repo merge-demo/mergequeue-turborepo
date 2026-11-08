@@ -1833,7 +1833,7 @@ engrams
 enginous
 egads
 electroballistic
-errableness
+errableness 1
 enigmatical 1
 eared
 eighties 1
