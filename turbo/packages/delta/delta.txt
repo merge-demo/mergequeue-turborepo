@@ -2818,7 +2818,7 @@ daur
 desiring
 decubiti
 didymus 1
-deculturate
+deculturate 1
 dentata
 driverless
 decuman
