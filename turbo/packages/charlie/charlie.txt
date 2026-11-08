@@ -6515,7 +6515,7 @@ caw
 cawed
 cawky
 cawl
-coagulants
+coagulants 1
 cawney
 clinanthia
 cylindrosporium
@@ -11387,7 +11387,7 @@ clickless
 chloroquine
 coronas
 camagon
-cyclamates
+cyclamates 1
 counterpillar
 cheekier
 chlorotically
