@@ -5285,7 +5285,7 @@ fosteringly
 footloose 1
 fluorosis
 flawlessness
-fangy
+fangy 1
 flings
 fleshlily
 farmsteads
