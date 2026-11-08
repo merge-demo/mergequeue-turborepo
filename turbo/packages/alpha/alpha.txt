@@ -3708,7 +3708,7 @@ alliteration
 antiquity
 anchorhold
 aligreek
-autere
+autere 1
 apotheosising
 alcoothionic
 antitheistically
@@ -20835,7 +20835,7 @@ arugulas
 arui
 aroynt
 av
-asia
+asia 1
 anhydroxime
 aquintocubitalism
 arum
