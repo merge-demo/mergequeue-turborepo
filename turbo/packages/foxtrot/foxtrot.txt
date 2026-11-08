@@ -6420,7 +6420,7 @@ fumagine
 fouquieriaceous 2
 flightful 1
 foulness
-forsteal
+forsteal 1
 fictor
 fruitages
 fissilingual
