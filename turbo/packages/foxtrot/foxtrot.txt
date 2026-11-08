@@ -10007,7 +10007,7 @@ fecundations
 foredeclare
 foxite 1
 frilled
-fegary 1
+fegary 2
 flexitime
 finicky 1
 fowlpox
