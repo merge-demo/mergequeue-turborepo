@@ -26050,7 +26050,7 @@ coshery
 coshers
 cholralosed
 coshing
-cosy
+cosy 1
 caulicule
 cosie
 cosier
