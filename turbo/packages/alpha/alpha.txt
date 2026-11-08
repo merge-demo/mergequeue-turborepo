@@ -19586,7 +19586,7 @@ autoslip
 almude
 acyls
 aryanism 1
-askari
+askari 1
 arianist 1
 anticouncil
 arianistic
