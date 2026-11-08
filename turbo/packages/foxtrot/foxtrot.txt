@@ -9427,7 +9427,7 @@ fidele 1
 fraternities
 fumarates 1
 figboy 1
-fritts
+fritts 1
 fantasm 1
 featish
 farming

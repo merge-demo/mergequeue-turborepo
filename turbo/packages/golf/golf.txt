@@ -3178,7 +3178,7 @@ governmentalist 2
 glottological
 geotilla
 grigs
-geotropy
+geotropy 1
 guardant
 glossolabiolaryngeal
 gametoid
