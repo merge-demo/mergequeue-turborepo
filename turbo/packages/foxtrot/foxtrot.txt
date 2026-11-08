@@ -8715,7 +8715,7 @@ fossule
 fiddlers
 forwardal
 fermentability
-fadable
+fadable 1
 forethought
 frenzic
 fleshiness
