@@ -10734,7 +10734,7 @@ galloot 1
 garnish 1
 gournard
 gagers 1
-gustiest
+gustiest 1
 geocentrically
 galewort
 glyphograph
