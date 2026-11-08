@@ -10282,7 +10282,7 @@ fasher
 frolicker
 formamide
 frolicking
-frillies
+frillies 1
 flagitiousness 1
 faitour
 ferricyanhydric
