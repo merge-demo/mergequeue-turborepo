@@ -2537,7 +2537,7 @@ beslash 1
 buenos
 bassetite
 bottonhook 1
-buckler
+buckler 1
 barguest
 barguests
 buzylene
