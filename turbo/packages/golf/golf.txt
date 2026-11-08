@@ -4869,7 +4869,7 @@ gigger 1
 gradual
 growliness
 glaired
-gangway
+gangway 1
 guvacoline
 galeorhinidae 1
 gidyea 1
