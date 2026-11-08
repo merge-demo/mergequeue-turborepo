@@ -25497,7 +25497,7 @@ corolliferous
 corollifloral 1
 chincona
 capsidae
-corollitic
+corollitic 1
 cespitose
 cochlitis
 chronoscopv
