@@ -2618,7 +2618,7 @@ abacli
 amygdalotomy
 accrescent
 atheist
-allocated
+allocated 1
 auxoflore
 abutters
 acquire
