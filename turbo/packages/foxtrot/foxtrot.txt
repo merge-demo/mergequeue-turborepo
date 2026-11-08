@@ -7037,7 +7037,7 @@ foolery
 farles
 felix
 formfeeds
-footful
+footful 1
 foolhardiness 1
 fabulousness 1
 foolhardiship
