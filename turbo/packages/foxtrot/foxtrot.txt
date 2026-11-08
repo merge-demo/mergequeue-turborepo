@@ -10517,7 +10517,7 @@ favouringly
 frot
 froth
 formulatory 1
-fluffed
+fluffed 1
 fittingly
 forays
 flyback
