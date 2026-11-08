@@ -7758,7 +7758,7 @@ exotisms 1
 easternmost 1
 embolite
 expedientially
-episodes 1
+episodes 2
 electrodynamical 1
 etymologies
 endophytal
