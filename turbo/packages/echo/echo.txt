@@ -4509,7 +4509,7 @@ endoerythrocytic
 entothorax
 embiidae 1
 encephalomyelitic
-epochally
+epochally 1
 extramorainal 2
 epirrheme
 encephalomyelitis
