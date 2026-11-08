@@ -9572,7 +9572,7 @@ budgerigars
 bakairi 2
 byrthynsak
 birthless
-bathkol
+bathkol 1
 beneficent 1
 blastemata
 berceuses
@@ -14931,7 +14931,7 @@ basiglandular
 brain
 bankings
 brachets
-blastemal
+blastemal 1
 beknotting 1
 butterflylike
 breastbeam

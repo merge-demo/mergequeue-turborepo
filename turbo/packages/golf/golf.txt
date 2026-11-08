@@ -10143,7 +10143,7 @@ grudges
 granophyric 1
 gideonite
 gymslip
-gasohol
+gasohol 1
 goodmanship
 grazers
 giddyish
