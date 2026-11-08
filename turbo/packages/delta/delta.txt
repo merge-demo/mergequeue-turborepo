@@ -7310,7 +7310,7 @@ deterrence
 defiantly 1
 disprejudice
 deterrent
-demoralised
+demoralised 1
 deceptive 1
 dodunk 1
 detersiveness
