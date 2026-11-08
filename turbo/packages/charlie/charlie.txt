@@ -24615,7 +24615,7 @@ copihue
 ckw
 chutzpahs
 centigrade
-compellent
+compellent 1
 carbonate
 chiggak 1
 cypripedium
