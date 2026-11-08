@@ -14053,7 +14053,7 @@ alexiteric
 atamans
 axopodium
 atmometry
-accomplished
+accomplished 1
 antiparastatitis
 antecedental
 antecedently
@@ -20746,7 +20746,7 @@ artifactitious
 aniseroot
 altitonant 1
 artifactually
-ascents
+ascents 1
 artifex
 activates 1
 aerobiology

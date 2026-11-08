@@ -6231,7 +6231,7 @@ decolonization
 debatter
 dermatorrhagia
 dial 1
-dendrolatry
+dendrolatry 1
 dicranaceae 1
 dorsabdominally
 dermatosclerosis
