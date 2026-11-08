@@ -6707,7 +6707,7 @@ dogy
 decontaminative
 desucration
 desilicify 1
-desilicified
+desilicified 1
 desiliconization 1
 discoactine
 dribbed
