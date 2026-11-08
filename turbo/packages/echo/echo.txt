@@ -9290,7 +9290,7 @@ eugeosynclinal
 epitaphize
 elytrin 1
 errors 1
-encephalon
+encephalon 1
 estramazone
 ecrustaceous
 erse
