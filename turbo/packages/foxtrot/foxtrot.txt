@@ -10257,7 +10257,7 @@ fluxmeter
 frust 1
 fgrid
 fjarding
-firiness 1
+firiness 2
 fishweed
 fennecs
 flamingoes
