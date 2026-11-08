@@ -1194,7 +1194,7 @@ acoasma
 associationism 1
 antemortem
 admissibly
-attendance
+attendance 1
 avellaneous
 afforest
 autogravure
