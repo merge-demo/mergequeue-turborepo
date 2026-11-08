@@ -7142,7 +7142,7 @@ episterna
 echeneidid
 effectuation
 embarment
-epistemonic
+epistemonic 1
 eucaryote
 enwallow
 excandescence
