@@ -10254,7 +10254,7 @@ flakers
 frond
 franchisee
 fluxmeter
-frust
+frust 1
 fgrid
 fjarding
 firiness 1
