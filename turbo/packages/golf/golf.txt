@@ -4597,7 +4597,7 @@ gasconade
 gummosis
 gentrice
 graphophobia
-gerunds
+gerunds 1
 gyronny
 gamophyllous
 guamuchil
