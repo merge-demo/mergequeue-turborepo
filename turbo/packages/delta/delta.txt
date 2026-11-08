@@ -7365,7 +7365,7 @@ detour
 duncifying 1
 dezinc
 detectability
-detouring
+detouring 1
 deliriums
 dermacentor
 diadoche
