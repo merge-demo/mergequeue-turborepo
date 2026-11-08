@@ -12915,7 +12915,7 @@ desulphuration
 disoblige
 dognapping
 decolorising
-disobliges
+disobliges 1
 duff
 darkful
 dilleniaceae
