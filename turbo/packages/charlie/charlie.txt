@@ -28237,7 +28237,7 @@ crappie
 compoundness
 capreolus
 cyclometries
-counteragitation
+counteragitation 1
 crapshooters
 crumlet
 coteline
