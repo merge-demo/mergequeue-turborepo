@@ -3397,7 +3397,7 @@ dormient
 duelists
 dehumidifier
 damp
-discomfortably 1
+discomfortably 2
 deprecation
 defluent
 debyes
