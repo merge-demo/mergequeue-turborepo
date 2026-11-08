@@ -2770,7 +2770,7 @@ glottochronological
 gristly 1
 generalidad
 gangwayed 2
-governably
+governably 1
 glassie
 gelee
 guttling 1
