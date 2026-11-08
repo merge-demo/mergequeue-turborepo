@@ -6754,7 +6754,7 @@ drachma 1
 daira
 dihedrons
 desirous
-desirousness
+desirousness 1
 drily
 dented 1
 dropsonde
