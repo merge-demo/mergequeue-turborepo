@@ -10668,7 +10668,7 @@ gurl
 geocentricism
 gambol
 grove
-glyphographic
+glyphographic 1
 generalty
 glycerols 1
 gurnard
