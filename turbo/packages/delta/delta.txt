@@ -7535,7 +7535,7 @@ deuteroproteose 1
 drawout
 derner
 dunziekte
-deontologist
+deontologist 1
 desilverization
 deuterosy 1
 drubber
