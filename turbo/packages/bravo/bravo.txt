@@ -4725,7 +4725,7 @@ bulnbuln 1
 buckstay
 blastoid
 benedictively
-boxiness
+boxiness 1
 bemisting
 bicrons
 besoin
