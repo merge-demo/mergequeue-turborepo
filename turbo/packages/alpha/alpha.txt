@@ -5415,7 +5415,7 @@ afortiori
 apocatastasis
 afray
 athrocytosis
-antisymmetrical
+antisymmetrical 1
 anticensoriousness
 arcosolia
 aspirator
