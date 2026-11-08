@@ -7142,7 +7142,7 @@ gestate
 galvayne
 grabbers
 gnawable 1
-gloryful
+gloryful 1
 granate
 gospoda
 gillotage
