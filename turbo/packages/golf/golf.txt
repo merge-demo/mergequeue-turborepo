@@ -5685,7 +5685,7 @@ gallant
 gaskins
 guanyl
 grieshuckle
-gyrolite 1
+gyrolite 2
 gurus
 geologize
 gammons 1
