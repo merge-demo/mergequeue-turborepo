@@ -2054,7 +2054,7 @@ defaced 1
 disproportionally 1
 decal
 dissightly 1
-dilatory
+dilatory 1
 decalage
 dinghy
 dromomania
