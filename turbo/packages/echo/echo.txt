@@ -9914,7 +9914,7 @@ eduskunta
 ectrodactylous
 epideictical
 electromagnetics
-exude
+exude 1
 exoculated
 enskies
 extravertive
