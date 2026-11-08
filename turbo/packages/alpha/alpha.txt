@@ -3708,7 +3708,7 @@ alliteration
 antiquity
 anchorhold
 aligreek
-autere
+autere 1
 apotheosising
 alcoothionic
 antitheistically
