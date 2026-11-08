@@ -1987,7 +1987,7 @@ grusian 1
 gripes
 grudged 3
 ghastlier
-guttable
+guttable 1
 gonif
 galbula
 galician
