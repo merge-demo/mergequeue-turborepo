@@ -2846,7 +2846,7 @@ disfurnishment
 deistically
 dugdug
 danais
-doloroso
+doloroso 1
 daedalist
 deuteroscopic
 duvetyns
