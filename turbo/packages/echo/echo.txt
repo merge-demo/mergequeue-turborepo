@@ -11708,7 +11708,7 @@ entreat
 examinable 1
 esthesioneurosis
 epichil
-educatability
+educatability 1
 eglateres
 examinant
 eschewer
