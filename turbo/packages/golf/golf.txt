@@ -1255,7 +1255,7 @@ galactostasis
 gooding 1
 gonglike 1
 garbill
-guyline 1
+guyline 2
 goosebone
 ganomalite 2
 garbler
