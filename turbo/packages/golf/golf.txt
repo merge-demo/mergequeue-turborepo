@@ -7694,7 +7694,7 @@ gentium 1
 gin
 girba
 geniculate
-glasseye
+glasseye 1
 glycuresis
 glaciolacustrine
 gashly 1
