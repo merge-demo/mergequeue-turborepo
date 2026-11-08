@@ -10024,7 +10024,7 @@ expellable
 ethanal
 esoterical 2
 eternalize
-eternally
+eternally 1
 extill
 embarking
 emphasizes
@@ -10829,7 +10829,7 @@ embassiate
 eligibilities 1
 endostomata
 envineyard 1
-elaeoblastic
+elaeoblastic 1
 enchase
 eisteddfodau
 euphotic 1
