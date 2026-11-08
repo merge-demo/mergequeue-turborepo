@@ -2899,7 +2899,7 @@ acrosomes
 autolimnetic
 aneurysms
 anapsid
-ammoniureted
+ammoniureted 1
 adept
 awkwardest
 alienist
@@ -3708,7 +3708,7 @@ alliteration
 antiquity
 anchorhold
 aligreek
-autere
+autere 1
 apotheosising
 alcoothionic
 antitheistically
