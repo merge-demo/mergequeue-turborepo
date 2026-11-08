@@ -3181,7 +3181,7 @@ expounders
 equilibristat 1
 emblemize 1
 eidetic
-endocone
+endocone 1
 ejaculum
 extraserous
 entomophagous
