@@ -11126,7 +11126,7 @@ electrolysation 1
 extipulate 1
 executing
 evacuants
-exophagous
+exophagous 1
 epaulet
 entity
 eadi
