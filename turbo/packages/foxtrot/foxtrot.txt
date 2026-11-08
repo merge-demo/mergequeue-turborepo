@@ -7055,7 +7055,7 @@ ferryboats
 fascinating 1
 fleapit
 fusional
-fingerstall
+fingerstall 1
 fadmonger
 forgeability
 fumishing
