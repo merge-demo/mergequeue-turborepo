@@ -2755,7 +2755,7 @@ girling
 gelating
 groutite
 gentiana
-gastrotympanites
+gastrotympanites 1
 gentianella 2
 gregatim
 gadhelic
