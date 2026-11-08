@@ -3144,7 +3144,7 @@ euryte
 eloigns 1
 eloin
 escheat
-eloine
+eloine 1
 engrossing 2
 eloiner
 essentiate
