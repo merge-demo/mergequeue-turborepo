@@ -5150,7 +5150,7 @@ artiest
 almohade
 amphierotism 1
 aeviternal
-anatomicomedical
+anatomicomedical 1
 af
 avernal
 aluminosis
