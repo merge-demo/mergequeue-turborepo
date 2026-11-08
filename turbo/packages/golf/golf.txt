@@ -3072,7 +3072,7 @@ glowworms
 greylags
 gucki 1
 geocline
-grits
+grits 1
 gipping 1
 geophagism
 gopura
