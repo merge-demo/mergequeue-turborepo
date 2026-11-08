@@ -3840,7 +3840,7 @@ amphitruo
 aequorin
 alexiterical 1
 amphithuron
-acetabuliform
+acetabuliform 1
 adipinic
 autotransplant
 antiplethoric
