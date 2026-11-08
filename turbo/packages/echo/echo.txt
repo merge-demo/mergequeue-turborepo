@@ -12054,7 +12054,7 @@ estrepe
 enlightener
 eruptions 1
 ethynyls
-expediate
+expediate 1
 entrainer
 esselen
 enplanes
