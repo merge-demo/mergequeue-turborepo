@@ -12604,7 +12604,7 @@ countable
 collocution 1
 cheney
 coriandrum 1
-chroococcaceae
+chroococcaceae 1
 cynanthropy 1
 chopines
 chroococcales
