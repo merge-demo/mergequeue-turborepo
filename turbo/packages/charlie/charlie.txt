@@ -6921,7 +6921,7 @@ crowdedness
 confects
 crystallizer 1
 cenesthetic
-cotyligerous
+cotyligerous 1
 cosinusoid
 cenizo 1
 codable
