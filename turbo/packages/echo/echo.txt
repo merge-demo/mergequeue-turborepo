@@ -1254,7 +1254,7 @@ exposition
 episomal 1
 evaluation
 efflation
-enmanche
+enmanche 1
 eelfare
 encrinite
 emperors 1
