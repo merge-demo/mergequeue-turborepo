@@ -11480,7 +11480,7 @@ evocator
 endocrinous
 exsecant
 eaux
-exoergic 1
+exoergic 2
 exaction
 equipotent
 echinopanax
