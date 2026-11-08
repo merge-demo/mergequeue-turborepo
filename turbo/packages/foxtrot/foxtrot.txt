@@ -5564,7 +5564,7 @@ forgette
 fader 1
 formazyl
 fibrinocellular
-flintiness
+flintiness 1
 flaglike
 flicker
 fixity 1
