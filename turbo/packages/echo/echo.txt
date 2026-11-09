@@ -846,7 +846,7 @@ ectodermosis
 ennuyante 1
 erastianize
 erumpent
-estanciero
+estanciero 1
 epizootiologically
 echoey 2
 extensity
@@ -2726,7 +2726,7 @@ electrovalent
 electrowinning
 elemong
 ediya
-essenianism
+essenianism 1
 employment
 endways 1
 estadal
