@@ -1375,7 +1375,7 @@ glyoxylic
 ghastly
 glugglug
 garotters
-garnetlike
+garnetlike 1
 grabbles
 gnathal
 gorb
