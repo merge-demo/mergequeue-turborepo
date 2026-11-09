@@ -8049,7 +8049,7 @@ emgalla 1
 eteocles 3
 ectodermal
 exteriorly
-ego
+ego 1
 ektodynamorphic
 endamebic
 earthworks
