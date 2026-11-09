@@ -10438,7 +10438,7 @@ glaives 1
 gumdrop
 gelseminine
 gruffs
-gelees
+gelees 1
 guaiacs
 gastronomically
 gummaking
