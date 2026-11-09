@@ -6128,7 +6128,7 @@ enlodge
 episkotister
 estuary
 enforced 2
-epiphanise
+epiphanise 1
 enlodgement
 enlumine 1
 entheos
