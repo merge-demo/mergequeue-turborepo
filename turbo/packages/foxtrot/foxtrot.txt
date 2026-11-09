@@ -11611,7 +11611,7 @@ febrifugal
 for
 forcarve
 frough
-forewinning
+forewinning 1
 fulgour
 formulizer 1
 fragilely 1
