@@ -2078,7 +2078,7 @@ fogle
 federalist 2
 floriculture
 fudger 1
-frightened
+frightened 1
 floria
 foredefine
 fainty
@@ -11611,7 +11611,7 @@ febrifugal
 for
 forcarve
 frough
-forewinning
+forewinning 1
 fulgour
 formulizer 1
 fragilely 1
