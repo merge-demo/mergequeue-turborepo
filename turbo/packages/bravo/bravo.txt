@@ -1065,7 +1065,7 @@ blizzards
 bad
 bailers
 brees
-bunglings
+bunglings 1
 bailiaries
 botargos
 bailiffs 1
