@@ -7109,7 +7109,7 @@ ajonjoli 1
 apoxesis
 aphoriser
 arthresthesia
-atmospherical
+atmospherical 1
 albuminized
 androides
 amissness 1
