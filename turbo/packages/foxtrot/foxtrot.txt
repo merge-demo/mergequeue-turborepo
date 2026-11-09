@@ -454,7 +454,7 @@ fulminating
 fluctisonous 1
 ferk
 faithlessness
-fringeless 1
+fringeless 2
 folkmoter 1
 favaginous
 foliosity 1
@@ -2078,7 +2078,7 @@ fogle
 federalist 2
 floriculture
 fudger 1
-frightened
+frightened 1
 floria
 foredefine
 fainty
@@ -2689,7 +2689,7 @@ fungused
 firebird
 feigher
 flaggella 1
-factorization
+factorization 1
 fouette
 fervor
 flanks 1
@@ -3368,7 +3368,7 @@ fossilification
 flappering
 fishermen
 filipinos
-follicles
+follicles 1
 frothed 1
 flokite
 frameableness 1
@@ -4103,7 +4103,7 @@ foozling
 forgery
 fatalness
 fissipedal
-ferth 3
+ferth 4
 fiendful
 feuilletons
 frameworks
@@ -11611,7 +11611,7 @@ febrifugal
 for
 forcarve
 frough
-forewinning
+forewinning 1
 fulgour
 formulizer 1
 fragilely 1
