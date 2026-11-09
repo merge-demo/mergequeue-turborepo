@@ -18789,7 +18789,7 @@ archegony
 albania 1
 archegonial
 amative
-archelenis
+archelenis 1
 allotriophagy
 alisier
 archelogy
