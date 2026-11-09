@@ -3020,7 +3020,7 @@ deerstalking
 deerweed
 dollyway
 detest
-deescalate 1
+deescalate 2
 dyehouse 1
 deeses 1
 deepfrozen
