@@ -18311,7 +18311,7 @@ arabophil
 araca
 acridine
 absinthism 1
-apostatising
+apostatising 1
 austenitize
 aracana 1
 aracanga
