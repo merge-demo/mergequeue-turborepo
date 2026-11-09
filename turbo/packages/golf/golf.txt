@@ -6995,7 +6995,7 @@ grillade
 gerundially 2
 grindle
 gomart
-gigameter
+gigameter 1
 gaudish
 gooseberry
 gramash
