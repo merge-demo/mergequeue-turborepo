@@ -11324,7 +11324,7 @@ antiprecipitin 1
 adamant
 acalycinous
 aloofly
-amphisarca
+amphisarca 1
 aqua
 aperitifs
 autotransplantation
