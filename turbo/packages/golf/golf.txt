@@ -9224,7 +9224,7 @@ glorioles
 ghosts 1
 groanful 1
 gizzened
-gayly
+gayly 1
 gastrectasia 1
 grotesqueness 3
 gastrocnemius
