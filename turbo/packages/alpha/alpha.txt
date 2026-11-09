@@ -1211,7 +1211,7 @@ acanthopanax
 agriot
 aculeata
 anlia
-acanthophorous
+acanthophorous 1
 alloploidy
 aboded 1
 aqueously
@@ -7109,7 +7109,7 @@ ajonjoli 1
 apoxesis
 aphoriser
 arthresthesia
-atmospherical
+atmospherical 1
 albuminized
 androides
 amissness 1
