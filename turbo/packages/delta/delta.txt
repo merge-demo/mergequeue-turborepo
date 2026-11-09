@@ -4310,7 +4310,7 @@ dextroduction
 dinical
 demaree
 dying
-detenu
+detenu 1
 discomedusoid
 demarked
 depredating
