@@ -5583,7 +5583,7 @@ gyrators
 genicular 1
 grunth
 gloomily
-gloomings
+gloomings 1
 graveward
 gunyang 1
 grimoire 2
