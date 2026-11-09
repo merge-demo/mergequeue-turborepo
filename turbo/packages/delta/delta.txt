@@ -4862,7 +4862,7 @@ dissentious 1
 dictators
 demoraliser
 demoralising
-defecter
+defecter 1
 diacrisis
 defailment
 displeased
