@@ -11093,7 +11093,7 @@ archegone
 acroblast
 assais
 amorphus
-amortizable
+amortizable 1
 assibilation
 abnormalcy
 amortizes
