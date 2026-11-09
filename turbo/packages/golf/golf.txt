@@ -499,7 +499,7 @@ gauric
 gipsies 1
 galericulate 1
 germing 1
-gess
+gess 1
 gadding
 gasifiers
 grunions 1
