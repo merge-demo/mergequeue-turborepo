@@ -1020,7 +1020,7 @@ gangava
 groundward
 gynobase 2
 greekess
-gilse 1
+gilse 2
 gurnetty
 granitizing
 grimacing 1
