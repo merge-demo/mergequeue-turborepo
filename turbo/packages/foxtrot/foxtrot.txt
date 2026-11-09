@@ -8997,7 +8997,7 @@ flotsan
 flashbacks 1
 faineantism
 fix
-fractionalize
+fractionalize 1
 foreparents
 fleetwing
 frap
