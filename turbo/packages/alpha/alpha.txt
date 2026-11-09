@@ -1980,7 +1980,7 @@ acetonitrile
 amortised
 aberrancies
 apathistical
-ample
+ample 1
 alembroth
 amidoazobenzene
 arizonans
