@@ -6072,7 +6072,7 @@ draperies
 dissector 1
 derbend
 debauch
-deploringly 1
+deploringly 2
 devonite
 deft
 discostomatous
