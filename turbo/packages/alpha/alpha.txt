@@ -9734,7 +9734,7 @@ advent 1
 alvearium
 alveolariform
 alveolate
-alveolation
+alveolation 1
 alveole
 alveolectomy 3
 alveoli
