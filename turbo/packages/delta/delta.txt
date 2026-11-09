@@ -13379,7 +13379,7 @@ disputisoun
 duala
 disheartens
 distributively
-daguerreotypes
+daguerreotypes 1
 disporting
 discanting 2
 diasyrm
