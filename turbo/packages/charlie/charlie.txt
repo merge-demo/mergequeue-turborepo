@@ -12827,7 +12827,7 @@ crawlways
 churchyards
 chuckholes 2
 churching
-crabbedly
+crabbedly 1
 cognisance
 chauth
 churchite
