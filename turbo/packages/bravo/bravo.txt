@@ -10448,7 +10448,7 @@ ballooned 1
 briticism
 banner
 bureaucratizing 1
-badling
+badling 1
 bronco
 bailwood
 burgrave
