@@ -6969,7 +6969,7 @@ despondencies
 despondentness 1
 desponder
 despondingly
-desponds
+desponds 1
 debasement 1
 diaster
 dikaryon
