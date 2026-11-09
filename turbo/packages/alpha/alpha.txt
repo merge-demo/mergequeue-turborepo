@@ -2061,7 +2061,7 @@ anhalonidine 1
 andantini
 acheron
 apostematous
-atmologic
+atmologic 1
 acheronian
 asdics
 antiplastic
