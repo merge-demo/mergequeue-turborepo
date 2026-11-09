@@ -654,7 +654,7 @@ greener
 gymnocarpic
 grecophil 1
 grapewise 1
-glycerogel
+glycerogel 1
 gallophilism
 givey
 gravimetry
