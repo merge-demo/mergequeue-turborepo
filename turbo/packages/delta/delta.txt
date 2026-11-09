@@ -8254,7 +8254,7 @@ diagnosing
 duel 1
 denude
 deducting
-diagonalwise
+diagonalwise 1
 denudate
 demonization 1
 dunderpate
