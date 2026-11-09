@@ -15033,7 +15033,7 @@ anaglyptics
 anticritical
 anasarcas
 attestant 1
-antipewism
+antipewism 1
 anthropophagical
 anticularia
 antidactyl
