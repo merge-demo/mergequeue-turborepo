@@ -5734,7 +5734,7 @@ frontate 1
 funiculate
 foge
 freckliness 1
-finebent
+finebent 1
 fuciphagous
 finings
 fulth
