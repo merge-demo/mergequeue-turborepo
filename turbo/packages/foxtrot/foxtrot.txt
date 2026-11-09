@@ -2078,7 +2078,7 @@ fogle
 federalist 2
 floriculture
 fudger 1
-frightened
+frightened 1
 floria
 foredefine
 fainty
