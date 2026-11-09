@@ -30066,7 +30066,7 @@ cellule
 conversational
 chattanoogan 1
 crowbait
-centuriate
+centuriate 1
 crowbar
 curlings 1
 columbo
