@@ -11396,7 +11396,7 @@ bludger 1
 besoothe 1
 bambusa
 bescatter
-bewitchedness
+bewitchedness 1
 benmost
 bendingly
 beguiled
