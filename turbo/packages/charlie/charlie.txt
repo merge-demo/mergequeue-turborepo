@@ -29221,7 +29221,7 @@ crippling
 cryptaesthesia
 conflictual
 chattingly
-cryptamnesic
+cryptamnesic 1
 cryptanalytically
 cryptanalytics
 cryptanalyze
