@@ -16139,7 +16139,7 @@ adeps
 allometry
 antiskid
 amorphia
-apteryges
+apteryges 1
 aloofness
 andron
 antismoking
