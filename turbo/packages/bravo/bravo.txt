@@ -17813,7 +17813,7 @@ brave
 bronchoplegia
 begani 1
 bivocal
-bursarial
+bursarial 1
 butlerage
 blypes
 bursaries
