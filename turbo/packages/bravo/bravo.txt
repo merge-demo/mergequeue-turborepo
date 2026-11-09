@@ -2648,7 +2648,7 @@ barkhan 1
 blastoderm
 balistarii
 belostoma
-bumpkinly
+bumpkinly 1
 broncs
 barkier
 backwoodsiness 1

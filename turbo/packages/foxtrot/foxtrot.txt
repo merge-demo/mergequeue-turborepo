@@ -4490,7 +4490,7 @@ figurer
 flattop
 forblow
 feebleheartedness
-foreshank
+foreshank 1
 festschrift 1
 flicking
 fissilinguia
