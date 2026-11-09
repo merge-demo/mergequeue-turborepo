@@ -1953,7 +1953,7 @@ debus
 decanally
 defying
 debused
-doohickey
+doohickey 1
 debusing
 danger
 dedans
@@ -3020,7 +3020,7 @@ deerstalking
 deerweed
 dollyway
 detest
-deescalate 1
+deescalate 2
 dyehouse 1
 deeses 1
 deepfrozen
