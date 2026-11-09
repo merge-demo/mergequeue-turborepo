@@ -5247,7 +5247,7 @@ dhaman
 dissight
 defiant 1
 donis 1
-dolor
+dolor 1
 dentatoserrate
 decennary
 disputable
@@ -10338,7 +10338,7 @@ diosmosed
 diosmosing
 dispreading
 defenders
-departures
+departures 1
 detenant
 diospyraceous
 deforming
