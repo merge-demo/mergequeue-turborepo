@@ -6023,7 +6023,7 @@ exhaustlessly
 eurhythmics
 ectodermoidal
 enumerates 1
-enkidu
+enkidu 1
 ekatantalum 1
 enterospasm
 empaler
