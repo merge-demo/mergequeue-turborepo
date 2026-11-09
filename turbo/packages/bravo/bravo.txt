@@ -5629,7 +5629,7 @@ basinasal
 boulanger
 bela
 beluchi
-burgonets
+burgonets 1
 bruscus
 belash 1
 bitesheep
