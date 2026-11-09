@@ -8375,7 +8375,7 @@ foamed 1
 futhark
 frivol
 fluoroscopes
-fullerboard
+fullerboard 1
 felloe 1
 folksy
 formalesque

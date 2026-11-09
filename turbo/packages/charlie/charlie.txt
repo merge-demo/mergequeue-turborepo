@@ -3872,7 +3872,7 @@ crankles
 carbonisable
 carbonise
 choirmaster
-canister 1
+canister 2
 carbonitride 1
 cincinatti 1
 countertranslation
@@ -29921,7 +29921,7 @@ crosslike
 carbosilicate
 crossline
 cymas
-crosslink
+crosslink 1
 crossness
 cladophorales
 crossopt
