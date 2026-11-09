@@ -8583,7 +8583,7 @@ digressionary 1
 devourer
 diapirs
 diaplases
-deprived
+deprived 1
 dinosaurian
 detestation
 destroying 1
