@@ -4440,7 +4440,7 @@ glint
 ginning 1
 garvance 1
 giraffe
-gynocardic
+gynocardic 1
 gowk
 glossokinesthetic
 graeculus
