@@ -7850,7 +7850,7 @@ galvanometrical 1
 groom 2
 grammarless 1
 grammaticaster
-goff
+goff 1
 garlandlike
 gurdle 1
 ghostlikeness
