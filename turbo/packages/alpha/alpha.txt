@@ -6130,7 +6130,7 @@ alois
 aglypha
 analogal
 asymtotically
-aglyphodont
+aglyphodont 1
 algodonite
 awaken
 alcyones
