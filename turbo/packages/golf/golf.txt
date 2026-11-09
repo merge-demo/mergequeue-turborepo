@@ -4386,7 +4386,7 @@ galziekte
 galuchat
 glamours 1
 gazangabin
-globigerinidae
+globigerinidae 1
 gynura 1
 goyazite 1
 gadsman
