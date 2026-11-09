@@ -8997,7 +8997,7 @@ flotsan
 flashbacks 1
 faineantism
 fix
-fractionalize
+fractionalize 1
 foreparents
 fleetwing
 frap
@@ -9495,7 +9495,7 @@ fatiguingly
 forested
 forfear 1
 founts
-flask
+flask 1
 foveate 2
 fishmeals
 fermenter 1
