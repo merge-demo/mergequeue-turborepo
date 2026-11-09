@@ -22167,7 +22167,7 @@ caponiser
 cyanophycin
 confucian
 cynthia
-confucianism
+confucianism 1
 commendableness 1
 confucius
 crambambuli
