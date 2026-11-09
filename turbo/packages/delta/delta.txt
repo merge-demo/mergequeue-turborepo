@@ -1093,7 +1093,7 @@ denudates
 dermopathic
 dentalium
 darwinists
-duarch
+duarch 1
 declamations
 denazified
 diamins
@@ -1953,7 +1953,7 @@ debus
 decanally
 defying
 debused
-doohickey
+doohickey 1
 debusing
 danger
 dedans
