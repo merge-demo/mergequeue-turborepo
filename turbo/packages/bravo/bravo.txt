@@ -2848,7 +2848,7 @@ beisa
 biquadrate 1
 baroswitch
 bld
-bitis
+bitis 1
 ballgowns
 begalled
 bulkiest 1
