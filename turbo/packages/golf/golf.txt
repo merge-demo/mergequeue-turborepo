@@ -436,7 +436,7 @@ genophobia
 gimcrackiness 1
 gasometer
 galcha
-gipsire
+gipsire 1
 grandevous
 growl 1
 garnishees 1
