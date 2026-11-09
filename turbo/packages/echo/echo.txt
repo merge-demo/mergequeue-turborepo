@@ -7843,7 +7843,7 @@ euraquilo 1
 extractions
 epigonous
 efractory
-epinastically
+epinastically 1
 enlaces
 eosines
 endopsychic
