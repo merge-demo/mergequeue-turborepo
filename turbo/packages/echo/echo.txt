@@ -2024,7 +2024,7 @@ enthrone
 encurl 1
 exophasia
 emersion
-etherish
+etherish 1
 ethiopic
 examinational
 elaenia
