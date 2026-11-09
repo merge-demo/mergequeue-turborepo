@@ -121,7 +121,7 @@ aludra
 accumb 1
 astonying
 arsenicking
-anthood
+anthood 1
 assertive
 amplifiers
 archaeographic
