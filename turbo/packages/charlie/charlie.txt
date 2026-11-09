@@ -20833,7 +20833,7 @@ componency
 caciocavallo 1
 compared
 componendo
-component
+component 1
 componented
 confronters
 componential
