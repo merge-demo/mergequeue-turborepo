@@ -5758,7 +5758,7 @@ glorifiable
 gym
 gadarene
 gloveman 1
-gumtrees
+gumtrees 1
 glyceraldehyde
 growthy
 gunsels
