@@ -2294,7 +2294,7 @@ gallein 1
 graben
 germanophilist
 garance
-gizmo
+gizmo 1
 geissoloma
 geissolomataceae
 geissospermine
