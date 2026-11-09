@@ -26026,7 +26026,7 @@ clipei
 citadels
 cosegment
 chimesmaster
-coseiest
+coseiest 1
 coadjutive
 catharine
 coseism
