@@ -12417,7 +12417,7 @@ distendedness
 dishonorer
 doctrinairism 1
 deresinize
-dishonoring
+dishonoring 1
 discontentful 1
 divinizing 1
 debilitative

@@ -5642,7 +5642,7 @@ grieffully 1
 gnathonize
 gahrwali
 guggling
-gumflower
+gumflower 1
 gillyflower
 glycopexia 1
 glycosuric 1
