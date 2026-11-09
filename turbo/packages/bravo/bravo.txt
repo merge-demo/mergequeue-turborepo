@@ -10996,7 +10996,7 @@ blesbuck
 blinkards
 benedictionary
 bowses
-basta
+basta 1
 beckets
 bartonia 1
 brooms
