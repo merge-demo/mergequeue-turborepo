@@ -20677,7 +20677,7 @@ complect
 cottierism
 collapsible
 converser
-carty
+carty 1
 complementariness
 complementarity
 complemented
