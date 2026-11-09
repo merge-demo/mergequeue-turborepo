@@ -24628,7 +24628,7 @@ cloners
 copyreader
 copyreaders
 caudalward 2
-copyreading
+copyreading 1
 curiosos
 copyrightable
 copyrighter
