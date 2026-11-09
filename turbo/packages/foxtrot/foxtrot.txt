@@ -4263,7 +4263,7 @@ fibrosities
 fingerling
 freudism
 filiate 1
-fatiguability
+fatiguability 1
 fulsomely
 ferdwit
 foreshortens 1
