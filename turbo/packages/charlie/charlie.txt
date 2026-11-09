@@ -6480,7 +6480,7 @@ calve
 catalogues
 cavicornia
 cavie
-conversely
+conversely 1
 caviya
 cavyyard
 caviled
