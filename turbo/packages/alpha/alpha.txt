@@ -1956,7 +1956,7 @@ acardite
 almeries
 archigony
 adangle
-acetize
+acetize 1
 apprehendingly
 assertions
 acetla
