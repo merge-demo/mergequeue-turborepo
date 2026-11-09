@@ -7690,7 +7690,7 @@ feudality 1
 fruggin 1
 flyeater
 foreknew
-farcically
+farcically 1
 florian
 freeish
 falconlike
