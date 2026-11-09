@@ -22674,7 +22674,7 @@ ateuchi
 antagonistical
 atherosclerosis
 advancer
-atherosclerotic
+atherosclerotic 1
 acerbic
 absent
 angulation
