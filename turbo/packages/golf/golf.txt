@@ -4209,7 +4209,7 @@ gramophonist
 goby
 gynecocrat 1
 greenheaded
-gulae
+gulae 1
 gunshots
 gleamed
 gratuities 3
