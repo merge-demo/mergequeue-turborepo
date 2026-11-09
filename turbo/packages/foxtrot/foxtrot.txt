@@ -3220,7 +3220,7 @@ fictioner
 furbisher
 foci 1
 forestay
-forestish
+forestish 1
 fictionized
 frankheartness
 fictionizing 1
@@ -8997,7 +8997,7 @@ flotsan
 flashbacks 1
 faineantism
 fix
-fractionalize
+fractionalize 1
 foreparents
 fleetwing
 frap

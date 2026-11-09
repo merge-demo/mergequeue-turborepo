@@ -2759,7 +2759,7 @@ excuderunt
 elegized
 elegizes
 eleidin
-encrusts
+encrusts 1
 extrusions 1
 exhilaratory
 evergreenite 1
