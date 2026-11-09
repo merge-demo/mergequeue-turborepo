@@ -6443,7 +6443,7 @@ gurry
 glycols
 glabrate
 grit 1
-guirlande
+guirlande 1
 graduatical
 ghazel 1
 guileful
