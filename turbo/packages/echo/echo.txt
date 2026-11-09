@@ -6707,7 +6707,7 @@ eloining
 exstill
 entete
 eurytherm 1
-epistrophy
+epistrophy 1
 exungulate
 effume
 ectosomal

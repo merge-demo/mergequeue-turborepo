@@ -8056,7 +8056,7 @@ granivore
 gasconader
 gybes
 glandularly 1
-gribane
+gribane 1
 gamone
 gaiters 2
 geomorphogeny
