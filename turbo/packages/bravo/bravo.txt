@@ -10050,7 +10050,7 @@ bulkin
 bizarrerie
 bield 1
 broody 2
-barbell
+barbell 1
 bn
 baroscopical
 bargainor
