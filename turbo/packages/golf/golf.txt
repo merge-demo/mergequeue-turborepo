@@ -2237,7 +2237,7 @@ gibbets
 gastrocatarrhal
 goodbyes 1
 generosities
-gibby
+gibby 1
 galactohemia
 gleit
 glossopathy
