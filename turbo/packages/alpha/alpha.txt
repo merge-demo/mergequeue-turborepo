@@ -2953,7 +2953,7 @@ actg 1
 actualised
 algometric 1
 actin
-aru
+aru 1
 actinautographic
 aerotonometer
 actine
