@@ -7470,7 +7470,7 @@ gymnotidae
 gordon
 greenleaf 1
 galangals 1
-globulousness
+globulousness 1
 gaet
 galilean
 gelatinizable
