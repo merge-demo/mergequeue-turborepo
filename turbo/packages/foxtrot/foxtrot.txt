@@ -5788,7 +5788,7 @@ fluoridations
 fritted
 firehouse
 figgery
-furbishes 2
+furbishes 3
 flintlocks
 filemark
 farts
