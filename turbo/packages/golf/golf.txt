@@ -5583,7 +5583,7 @@ gyrators
 genicular 1
 grunth
 gloomily
-gloomings
+gloomings 1
 graveward
 gunyang 1
 grimoire 2
@@ -9224,7 +9224,7 @@ glorioles
 ghosts 1
 groanful 1
 gizzened
-gayly
+gayly 1
 gastrectasia 1
 grotesqueness 3
 gastrocnemius
