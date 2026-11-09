@@ -9625,7 +9625,7 @@ digitise
 dalasis
 decretals
 disasterly
-dowcet
+dowcet 1
 diverting
 decrementless 1
 diiodoform
@@ -11121,7 +11121,7 @@ disavail
 dayroom
 discomforted
 dissaves
-despect
+despect 1
 deploredly
 dishabituating
 dowve
@@ -12417,7 +12417,7 @@ distendedness
 dishonorer
 doctrinairism 1
 deresinize
-dishonoring
+dishonoring 1
 discontentful 1
 divinizing 1
 debilitative
@@ -14288,7 +14288,7 @@ diffiding 1
 deporter
 depravers
 deisms 1
-downcrying
+downcrying 1
 defoliator
 dodoes
 deviationist
