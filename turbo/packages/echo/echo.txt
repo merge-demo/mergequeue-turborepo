@@ -11624,7 +11624,7 @@ eutechnic
 exactable
 exactas 1
 ergastoplasm
-elaterite
+elaterite 1
 epileptogenic
 elephanticide
 exacter 1
