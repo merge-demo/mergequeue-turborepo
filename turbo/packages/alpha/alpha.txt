@@ -21183,7 +21183,7 @@ arkansan 1
 ambroids
 accommodates
 aerily
-ascertainableness
+ascertainableness 1
 asem
 ankylotome 1
 anticar
