@@ -25774,7 +25774,7 @@ conciliating
 cataleptize 1
 corroborative
 corroboratively
-corroborator
+corroborator 1
 chrism
 cathedratically
 corroboratory
