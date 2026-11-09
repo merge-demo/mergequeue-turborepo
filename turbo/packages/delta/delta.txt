@@ -1383,7 +1383,7 @@ defroster
 davidian
 davidic
 davidical
-davidist
+davidist 1
 deicing
 desma
 disvoice
