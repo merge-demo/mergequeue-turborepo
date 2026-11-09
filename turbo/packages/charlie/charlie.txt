@@ -8858,7 +8858,7 @@ campanulate
 conducers
 chasmogamy
 companiable
-cycads
+cycads 1
 charadrii
 charadriiformes
 charadrine
