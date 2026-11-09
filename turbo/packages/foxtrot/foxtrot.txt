@@ -5734,7 +5734,7 @@ frontate 1
 funiculate
 foge
 freckliness 1
-finebent
+finebent 1
 fuciphagous
 finings
 fulth
@@ -9890,7 +9890,7 @@ freckled 2
 flintstone
 flitching
 fibropurulent
-fraghan
+fraghan 1
 filmsets
 frits
 friskier
