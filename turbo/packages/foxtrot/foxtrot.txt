@@ -213,7 +213,7 @@ facular
 fruitworm
 frondlet
 foliolate
-feverroot
+feverroot 1
 fluorotype 2
 firelock
 filibranch
