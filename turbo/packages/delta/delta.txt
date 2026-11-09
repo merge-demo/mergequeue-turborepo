@@ -3099,7 +3099,7 @@ downfolded
 defaults
 decked
 defaulture
-dialings
+dialings 1
 doat
 defeasibility
 dacryohelcosis
