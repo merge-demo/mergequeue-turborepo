@@ -11342,7 +11342,7 @@ disciform
 diplopods 1
 discigerous
 discinct
-discing 1
+discing 2
 deteriorations
 drisk
 decretorily
