@@ -13503,7 +13503,7 @@ dippable
 diatomite 1
 delf
 deappetizing
-disruptive 1
+disruptive 2
 disruptor
 dada
 decagon
