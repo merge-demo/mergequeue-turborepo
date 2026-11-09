@@ -1198,7 +1198,7 @@ disordination
 datapac
 decrepitated
 deleterious 1
-depressive
+depressive 1
 developoid
 disinvolve 1
 dextrans
