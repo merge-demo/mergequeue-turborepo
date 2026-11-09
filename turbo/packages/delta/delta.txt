@@ -3735,7 +3735,7 @@ dismutation
 deictical
 devilkin
 dreissiger 1
-diarch
+diarch 1
 dunno
 deific
 dhobey
