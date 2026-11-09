@@ -7484,7 +7484,7 @@ decocainize
 deutencephalon
 dumfounding
 dehgan
-deuteranope
+deuteranope 1
 deuteration 1
 denucleate
 demarcator
