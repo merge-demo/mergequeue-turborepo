@@ -9908,7 +9908,7 @@ dipneustal
 dogmata
 diminisher 1
 diminishingly
-diminishment
+diminishment 1
 dulcet
 distomatosis
 dehorned
