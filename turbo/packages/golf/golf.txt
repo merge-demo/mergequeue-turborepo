@@ -7544,7 +7544,7 @@ gypsying
 gowked
 gambet 1
 gnus
-ghastfulness
+ghastfulness 1
 glucolysis
 gruntle 1
 geophyte 1
