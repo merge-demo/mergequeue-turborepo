@@ -5267,7 +5267,7 @@ glassmen
 galiongee
 glycollate 1
 glomerulose
-geometricist
+geometricist 1
 generalised 1
 glaucus
 grammatology
