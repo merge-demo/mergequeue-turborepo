@@ -1386,7 +1386,7 @@ armonica
 anophthalmos
 allotriodontia 1
 afterking
-avestruz 1
+avestruz 2
 actinomycotic
 acceptilated
 aevia
@@ -3015,7 +3015,7 @@ amitriptyline
 auditors
 abhorrency
 appear
-appearances
+appearances 1
 actinograph
 attenuate
 aporobranchiata
@@ -10354,7 +10354,7 @@ ament
 adaunt
 arundineous
 allotheria
-ankylopoietic
+ankylopoietic 1
 anolympiad
 autompne 1
 atrabilarian
@@ -11257,7 +11257,7 @@ archipallium
 amphictyony
 amphictyonian
 antistrophic
-amphictyons
+amphictyons 1
 anisospore
 amphid
 amphophile
