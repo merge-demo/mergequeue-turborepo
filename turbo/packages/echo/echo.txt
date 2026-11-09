@@ -601,7 +601,7 @@ ebonise
 echt
 earliness
 ecchymosed
-excommenge
+excommenge 1
 exostoses
 eciliate
 emporia 1
