@@ -213,7 +213,7 @@ facular
 fruitworm
 frondlet
 foliolate
-feverroot
+feverroot 1
 fluorotype 2
 firelock
 filibranch
@@ -5734,7 +5734,7 @@ frontate 1
 funiculate
 foge
 freckliness 1
-finebent
+finebent 1
 fuciphagous
 finings
 fulth

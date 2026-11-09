@@ -24038,7 +24038,7 @@ antinationalistic
 autodialing
 anatomicopathological
 antinationalism
-asmalte
+asmalte 1
 antilacrosse 2
 aboard
 autoagglutination 1
@@ -24668,7 +24668,7 @@ actinidia
 anastrophia 1
 archimage
 autostylic
-averagely
+averagely 1
 averageness
 averaging
 ackeys
