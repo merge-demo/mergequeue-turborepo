@@ -4013,7 +4013,7 @@ extirpated
 empexa
 emphasize
 emphasized 1
-embargos
+embargos 1
 exogens
 eyeblack
 expresser
