@@ -1115,7 +1115,7 @@ barbasco 1
 bayonets
 benefactors
 bifacial 1
-blksize
+blksize 1
 babongo
 bairagi
 bismarckianism
@@ -4520,7 +4520,7 @@ bonnering 1
 becry
 becrime
 buckthorn 1
-blockaded
+blockaded 1
 bunemost
 brise
 buckrams
@@ -6087,7 +6087,7 @@ bemuddlement
 bemuddles
 bemuddling
 bemurmur
-bondwoman
+bondwoman 1
 butyral
 botaniser
 bemurmure
@@ -10252,7 +10252,7 @@ beseechers
 bugloss
 blackgum 1
 beachcombing
-brevicomis
+brevicomis 1
 blackgums
 brachia
 blateroon
