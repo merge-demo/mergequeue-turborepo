@@ -4328,7 +4328,7 @@ expansibleness
 enactor
 epigrammatize
 entoproct
-eloquence
+eloquence 1
 exclaustration
 enamelist 1
 enamelless

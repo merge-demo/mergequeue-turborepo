@@ -7502,7 +7502,7 @@ gat
 governed 1
 gotten 1
 graecizing
-governesses
+governesses 1
 greathead
 guideless
 goliardery
