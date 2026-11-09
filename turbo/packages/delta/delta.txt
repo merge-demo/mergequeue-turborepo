@@ -1016,7 +1016,7 @@ dolorimetric
 darkies
 drupel
 darkish
-drillmasters
+drillmasters 1
 draughtsmen
 darkled
 detoxifier 1
