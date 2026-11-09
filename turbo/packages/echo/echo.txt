@@ -846,7 +846,7 @@ ectodermosis
 ennuyante 1
 erastianize
 erumpent
-estanciero
+estanciero 1
 epizootiologically
 echoey 2
 extensity
