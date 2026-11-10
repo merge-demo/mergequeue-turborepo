@@ -17213,7 +17213,7 @@ diastrophism 1
 direst
 deermeat
 decumbence
-disorganic
+disorganic 1
 demitasse
 driveled
 directorially
