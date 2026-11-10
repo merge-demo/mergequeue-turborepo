@@ -27709,7 +27709,7 @@ cowpats
 compliable
 cowpen
 cowper 1
-complexively
+complexively 1
 cosmotheism
 compulse
 cowperian
