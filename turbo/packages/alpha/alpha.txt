@@ -16480,7 +16480,7 @@ antioxidant
 ampholyte 1
 anxiously
 anxiousness
-antifogmatic
+antifogmatic 1
 accountment
 abbesses
 agalactia
