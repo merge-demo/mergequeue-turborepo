@@ -5641,7 +5641,7 @@ fermium
 flunky
 friend
 fawe
-fragility 1
+fragility 2
 fibrine
 freckles 1
 funeration
