@@ -11348,7 +11348,7 @@ drisk
 decretorily
 disciple
 depicter
-dispress
+dispress 1
 drawl
 disciplinable
 dishfuls
