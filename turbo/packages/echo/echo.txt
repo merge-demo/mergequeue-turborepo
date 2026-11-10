@@ -4437,7 +4437,7 @@ effervesces
 echards
 edifices
 encarnalized
-exalts
+exalts 1
 epidermal
 embreach 2
 emanates
