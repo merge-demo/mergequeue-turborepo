@@ -4015,7 +4015,7 @@ delict 1
 deaquation
 deliquescence
 divertila
-delictual
+delictual 1
 drearisome
 disobeyed
 delieret
