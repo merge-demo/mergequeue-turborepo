@@ -8731,7 +8731,7 @@ frugality 1
 fashionative 2
 fumbler 1
 forhooie 1
-face 1
+face 2
 floatiest
 foiblesse 1
 forwearied 1
