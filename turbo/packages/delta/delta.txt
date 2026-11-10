@@ -2433,7 +2433,7 @@ dunghill
 duality
 destrudo
 decipium 1
-diplodocus
+diplodocus 1
 dipyre
 decision
 defeatists
