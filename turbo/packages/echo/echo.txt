@@ -12055,7 +12055,7 @@ enlightener
 eruptions 1
 ethynyls
 expediate 1
-entrainer
+entrainer 1
 esselen
 enplanes
 epacridaceae
