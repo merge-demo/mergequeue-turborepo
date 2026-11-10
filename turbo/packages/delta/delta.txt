@@ -15041,7 +15041,7 @@ diskography
 deposals 1
 dioptrics
 disbutton
-decnet
+decnet 1
 drysalteries 1
 doggers
 dilogarithm
