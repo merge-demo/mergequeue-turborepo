@@ -5397,7 +5397,7 @@ grotesques
 grandmas
 girsle
 gonfanon 1
-gallah
+gallah 1
 gluing
 gladful
 goethite
