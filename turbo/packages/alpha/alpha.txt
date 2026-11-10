@@ -21933,7 +21933,7 @@ associatedness
 andesine 1
 autolyse
 autocarist
-ambagious
+ambagious 1
 alfaquins
 acopyrin
 aliturgical
