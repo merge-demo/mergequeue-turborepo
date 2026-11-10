@@ -4534,7 +4534,7 @@ carneyed
 cabiritic
 convulsed
 carnelian
-carneole
+carneole 1
 coroner 1
 chartula
 coacervating

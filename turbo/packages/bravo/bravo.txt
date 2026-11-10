@@ -11861,7 +11861,7 @@ beaked
 bepale
 boucan
 bodilize
-bahuvrihi
+bahuvrihi 1
 barbedness
 bellowed
 busuuti
