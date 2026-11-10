@@ -841,7 +841,7 @@ electrolyser
 excrementous
 enchair
 elong
-ethology
+ethology 1
 ectodermosis
 ennuyante 1
 erastianize

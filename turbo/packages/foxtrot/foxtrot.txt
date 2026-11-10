@@ -6967,7 +6967,7 @@ fondly
 fluorspar
 fatagaga
 flop 1
-fondlingly
+fondlingly 1
 farewelled
 fraenulum
 foozled 3
