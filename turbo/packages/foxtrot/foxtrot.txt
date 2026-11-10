@@ -4567,7 +4567,7 @@ fossilized
 fool 2
 feigned
 fingery
-flippance
+flippance 1
 forestwards 1
 fibrinokinase
 fooldom
