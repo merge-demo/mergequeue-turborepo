@@ -30570,7 +30570,7 @@ cuboctahedron
 cubocube
 cashboy
 crepidula
-cultirostral
+cultirostral 1
 cubocuneiform
 cubododecahedral
 concarnation
