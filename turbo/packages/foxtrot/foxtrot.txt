@@ -10305,7 +10305,7 @@ fastening
 fluorated 1
 floscularian
 fluorotic 1
-faquirs
+faquirs 1
 flandowser
 flavid
 feel
