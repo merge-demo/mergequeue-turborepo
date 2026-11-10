@@ -10427,7 +10427,7 @@ firstling
 faller 1
 femicide
 forcaria
-fertilizer
+fertilizer 1
 feudalistic
 fringeflower
 fossified 1
