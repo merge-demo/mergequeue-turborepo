@@ -10315,7 +10315,7 @@ equipostile
 electuaries
 enneacontahedral 1
 exosmic 1
-extemporise
+extemporise 1
 exaggerative 1
 eupomatiaceae
 ethonomics
