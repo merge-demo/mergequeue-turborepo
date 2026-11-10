@@ -12463,7 +12463,7 @@ andromaque 1
 arborizes
 actuary
 andromed
-assapanick
+assapanick 1
 andromeda
 autonomic
 andromedotoxin
