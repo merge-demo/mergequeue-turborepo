@@ -4957,7 +4957,7 @@ aerobranchiate
 astrobiologist
 autophone
 abluted
-agenizes
+agenizes 1
 aeronat
 aeronaut
 alkalizing
