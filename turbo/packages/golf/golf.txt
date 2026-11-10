@@ -2674,7 +2674,7 @@ geodiferous
 gravelous 1
 guaican
 glyconean
-goggled
+goggled 1
 gymnodont
 genic
 gradgrindian 1
