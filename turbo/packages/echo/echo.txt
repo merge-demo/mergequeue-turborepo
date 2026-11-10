@@ -5794,7 +5794,7 @@ extirp
 englut 1
 envenom
 encored
-eyot
+eyot 1
 excedent
 ependymitis
 ectropionizing
