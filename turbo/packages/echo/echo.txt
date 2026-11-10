@@ -379,7 +379,7 @@ equites 1
 episomally
 endergonic
 empery 2
-examiners
+examiners 1
 ejaculated
 eyeleting
 eelery

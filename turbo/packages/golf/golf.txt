@@ -3516,7 +3516,7 @@ garmentworker
 ganglions 1
 gymnorhina 1
 geomagnetist 2
-grugru
+grugru 1
 grinded
 geo
 gloats
