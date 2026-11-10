@@ -13895,7 +13895,7 @@ dyslexia 1
 dissavage 1
 dipter
 distensions
-disgress
+disgress 1
 disprison
 disterminate
 deline
