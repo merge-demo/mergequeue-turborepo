@@ -13219,7 +13219,7 @@ expiscation
 ekphorias
 explainable 2
 expropriated
-explainableness
+explainableness 1
 eductor
 epiphytism
 epitrophic 1
