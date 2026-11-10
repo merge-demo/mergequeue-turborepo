@@ -9943,7 +9943,7 @@ ballooning
 bapt
 bemingling 1
 baldricked
-baffed
+baffed 1
 blepharodiastasis
 bismer
 blockers
