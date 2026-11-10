@@ -9037,7 +9037,7 @@ girasols
 grillroom
 gleet 1
 gerent 1
-gripper
+gripper 1
 girthline 2
 glutination 1
 gyres 1
