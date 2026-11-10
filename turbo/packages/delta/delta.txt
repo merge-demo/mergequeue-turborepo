@@ -13904,7 +13904,7 @@ declaimant
 disrobed
 dustily
 disthroned 1
-doltish
+doltish 1
 disty
 dotardy
 druthers
