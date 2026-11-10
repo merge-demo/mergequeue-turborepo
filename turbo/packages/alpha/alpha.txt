@@ -5293,7 +5293,7 @@ astrid
 amortization
 affixed 1
 apophantic
-andantinos
+andantinos 1
 androsin
 affixers
 affixes
