@@ -9838,7 +9838,7 @@ enslumber 1
 esterified 1
 eclipsation
 eatage
-esterization 1
+esterization 2
 ezan
 esterize
 euciliate
