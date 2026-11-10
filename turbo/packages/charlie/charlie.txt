@@ -28626,7 +28626,7 @@ chemicomechanical 1
 crossbowmen
 coccogonium
 condisciple
-chally 1
+chally 2
 catechus
 cremationism
 coliseums
