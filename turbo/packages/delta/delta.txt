@@ -15086,7 +15086,7 @@ dogie
 dicycle 2
 deboshed
 doglike 1
-dekabrist
+dekabrist 1
 dufrenite
 domitian
 dedicative
