@@ -7863,7 +7863,7 @@ graved 1
 grammatistical
 gratinated
 grammatite
-gumbo
+gumbo 1
 gelatification
 gramme
 ginned
