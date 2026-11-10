@@ -15432,7 +15432,7 @@ dishwares
 demibarrel 1
 dionym
 damoisel
-dines
+dines 1
 dominick
 dominies 1
 dominion
