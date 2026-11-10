@@ -1551,7 +1551,7 @@ fauterer
 fauteuil
 fussy 1
 foreteach
-farrow
+farrow 1
 forepayment 1
 flowcontrol 1
 fishbowl

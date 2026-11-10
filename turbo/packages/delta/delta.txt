@@ -11981,7 +11981,7 @@ duplicates
 differen
 disenchant
 dowd
-disenchantments
+disenchantments 1
 disenchantress
 depluming
 difforme
