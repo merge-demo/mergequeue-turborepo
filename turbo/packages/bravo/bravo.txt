@@ -17497,7 +17497,7 @@ blueweeds
 backstopping
 battlefields
 bonnie
-bantling
+bantling 1
 bedip
 bystanders 1
 blockout
