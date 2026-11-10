@@ -15759,7 +15759,7 @@ deletive
 deterred
 dropsy
 dornick 1
-dornicks
+dornicks 1
 datival
 dornock
 desanded
