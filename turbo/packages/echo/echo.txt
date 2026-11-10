@@ -12426,7 +12426,7 @@ encomiums
 epistyle
 erythrocytometry
 experient
-eyer
+eyer 1
 elocutioner
 ergometer
 effude 1
