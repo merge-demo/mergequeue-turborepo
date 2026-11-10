@@ -9677,7 +9677,7 @@ guachipilin
 gamahe
 gropple
 galloflavin
-gasses
+gasses 1
 graphiola
 geon 1
 gazet
