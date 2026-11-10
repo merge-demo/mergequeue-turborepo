@@ -26271,7 +26271,7 @@ clutters
 costellate 1
 costermonger
 costicartilage
-costicartilaginous
+costicartilaginous 1
 caciqueship
 crusader
 costious
