@@ -1768,7 +1768,7 @@ christless
 coyer
 calumniators
 calumnious
-calumniously
+calumniously 1
 canephor
 calusa
 calutron
