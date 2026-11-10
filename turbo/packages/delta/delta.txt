@@ -17290,7 +17290,7 @@ delphinius
 distinguishably
 drolling
 delighter 1
-drollishness
+drollishness 1
 drolls
 drome
 dromedarian
