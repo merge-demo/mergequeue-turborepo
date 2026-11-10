@@ -10576,7 +10576,7 @@ chillsome 1
 countermove
 chouka
 chemolytic
-chillumchee
+chillumchee 1
 countersubject
 chivarras
 copaibas
