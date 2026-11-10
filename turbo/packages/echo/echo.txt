@@ -12766,7 +12766,7 @@ entertissue 1
 embolomycotic
 evictee
 exorcism
-elacolite
+elacolite 1
 expurgator
 exorcistic
 eidetically
