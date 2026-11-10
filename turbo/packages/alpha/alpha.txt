@@ -5204,7 +5204,7 @@ anemographic
 affections
 affectious
 amotions
-affective
+affective 1
 advocacies
 affectivity
 anomalonomy
