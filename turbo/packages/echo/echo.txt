@@ -9877,7 +9877,7 @@ endothermous
 ecclesiolatry
 excludingly
 eden
-enstatite
+enstatite 1
 equivalency
 encodes
 epidemical
