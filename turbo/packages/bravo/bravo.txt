@@ -6723,7 +6723,7 @@ browsability
 bismuthine 2
 broomstaff 1
 blitter
-balaamitical
+balaamitical 1
 beeishness
 bathmotropic
 brontosaurus 1
