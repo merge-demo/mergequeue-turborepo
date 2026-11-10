@@ -2414,7 +2414,7 @@ farinhas
 foiler
 ferling
 flemishes
-furls
+furls 1
 fortnightly
 festivals
 fermail
