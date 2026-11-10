@@ -5488,7 +5488,7 @@ glycidol
 gorsier 1
 gowning 1
 grumbles
-gamecocks
+gamecocks 1
 ginkgoaceae 1
 guardlike
 grainering 1
