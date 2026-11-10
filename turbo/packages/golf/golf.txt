@@ -5208,7 +5208,7 @@ gorgonising
 guitarfish
 gliadine 1
 galvanism 1
-geomedicine
+geomedicine 1
 gymnogenous
 gurish
 glaucophane
