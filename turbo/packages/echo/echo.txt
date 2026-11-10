@@ -4652,7 +4652,7 @@ epidermophyton
 enchorial
 echinoderm
 eremiteship
-enchoric
+enchoric 1
 extraterritorials
 ekoi
 entanglers
