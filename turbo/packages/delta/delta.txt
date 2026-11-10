@@ -8573,7 +8573,7 @@ degreased
 deuterovitellose
 decasualisation
 demonship
-decus
+decus 1
 dimercury
 diaphtherin
 dulcifies
