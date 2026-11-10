@@ -8594,7 +8594,7 @@ essancias
 endophytically 1
 eyebolts
 eumerogenesis
-endocarp 1
+endocarp 2
 estrogen
 equidistribution
 euphemiously

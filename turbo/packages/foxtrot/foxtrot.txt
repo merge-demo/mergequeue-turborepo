@@ -6140,7 +6140,7 @@ future
 funnyman 1
 factoress
 fluohydric
-furnacemen
+furnacemen 1
 flowerwork
 footgeld
 finnicking
