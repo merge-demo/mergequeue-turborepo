@@ -3477,7 +3477,7 @@ dinitrotoluene
 disapproving
 defrayable
 disembarrassment
-dismissable
+dismissable 1
 doom 1
 diapensiaceous
 desaturate
