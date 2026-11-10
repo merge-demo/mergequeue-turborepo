@@ -1519,7 +1519,7 @@ fatherless
 flugelman
 faults
 focusers
-fastidiously
+fastidiously 1
 fluoridize
 factionary
 ferruminating
