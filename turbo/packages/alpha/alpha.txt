@@ -23808,7 +23808,7 @@ ampules
 atheriogaea
 accouplement 1
 azteca
-aphonic
+aphonic 1
 aphorising 1
 anthozoan
 antimonarchically

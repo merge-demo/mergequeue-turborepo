@@ -4327,7 +4327,7 @@ bebloods
 burke
 basurale
 bondfolk
-boggish
+boggish 1
 bathyscaph
 bacterious
 bebreech
