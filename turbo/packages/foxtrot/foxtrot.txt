@@ -1183,7 +1183,7 @@ forcer
 filicineae
 fraying 1
 frighteningness
-finecomb
+finecomb 1
 friponerie
 focalize
 flauntiest
@@ -1320,7 +1320,7 @@ fescenninity 1
 fibromata
 functionarism
 foreconsent
-feculency 1
+feculency 2
 fulvous
 flear
 formless
