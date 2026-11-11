@@ -5279,7 +5279,7 @@ begass 1
 bitless
 backmost
 blastocyst
-bolters 1
+bolters 2
 bellicoseness
 bioblast
 bastes
