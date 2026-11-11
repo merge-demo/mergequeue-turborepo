@@ -4957,7 +4957,7 @@ aerobranchiate
 astrobiologist
 autophone
 abluted
-agenizes
+agenizes 1
 aeronat
 aeronaut
 alkalizing
@@ -19698,7 +19698,7 @@ aristocratism
 aristocrats
 adrectal 1
 aula
-anthericum 1
+anthericum 2
 aftermeal
 ancle
 alkalinise
