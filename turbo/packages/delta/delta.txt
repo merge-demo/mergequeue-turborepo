@@ -5596,7 +5596,7 @@ discos
 decerniture
 delineation
 depilitant 1
-deplace 1
+deplace 2
 dermatine
 damayanti
 dipl
@@ -11759,7 +11759,7 @@ dogblow
 disported
 dryopithecus
 debellate 1
-deoxidising
+deoxidising 1
 discrested 1
 dowering
 default 1

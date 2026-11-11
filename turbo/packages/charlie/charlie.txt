@@ -1480,7 +1480,7 @@ columbaceous
 calyx
 coecal
 continents
-calkers
+calkers 1
 chowse
 calkin
 calkins
@@ -14277,7 +14277,7 @@ cevadilla
 conamed
 circumrotate
 cuneonavicular
-circumrotatory
+circumrotatory 1
 calochortus
 cask
 connectivity
