@@ -2073,7 +2073,7 @@ gutlessness
 grotto 1
 gavots 1
 gazetteership
-glycerophosphoric
+glycerophosphoric 1
 gomari
 giftless 1
 gutturonasal 1
@@ -5208,7 +5208,7 @@ gorgonising
 guitarfish
 gliadine 1
 galvanism 1
-geomedicine
+geomedicine 1
 gymnogenous
 gurish
 glaucophane
@@ -7650,7 +7650,7 @@ grader 1
 gingerous
 grouseward 1
 glovey 1
-gradient
+gradient 1
 galey
 greybeard
 goatishly
@@ -7863,7 +7863,7 @@ graved 1
 grammatistical
 gratinated
 grammatite
-gumbo
+gumbo 1
 gelatification
 gramme
 ginned
