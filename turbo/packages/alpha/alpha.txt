@@ -7128,7 +7128,7 @@ aerocartograph
 actuator
 anointers 1
 akmuddar
-aulical
+aulical 1
 aknow
 aggradation
 agglomerating
@@ -22184,7 +22184,7 @@ angolans
 arviculture
 archaic
 asthmatical
-achomawi
+achomawi 1
 aceric
 aeromantic
 asthmatoid 1

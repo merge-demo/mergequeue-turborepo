@@ -4013,7 +4013,7 @@ extirpated
 empexa
 emphasize
 emphasized 1
-embargos
+embargos 1
 exogens
 eyeblack
 expresser
@@ -13498,7 +13498,7 @@ ephererist
 extravagancies
 ethmoidal
 eudaemonic
-euchlorine
+euchlorine 1
 eucalypti
 equianharmonic
 endymal
