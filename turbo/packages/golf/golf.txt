@@ -9640,7 +9640,7 @@ garmenting
 gambit
 gladeye
 gratton
-gyroidally
+gyroidally 1
 gastrojejunostomies
 grueled 1
 ghana

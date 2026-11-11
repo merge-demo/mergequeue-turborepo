@@ -20677,7 +20677,7 @@ complect
 cottierism
 collapsible
 converser
-carty
+carty 1
 complementariness
 complementarity
 complemented
@@ -23431,7 +23431,7 @@ contemplable
 contemplant
 contemplate
 contemplatedly
-contemplating
+contemplating 1
 catechetical
 contemplation
 cryptomnesia
