@@ -14208,7 +14208,7 @@ amarillo 1
 absinthial
 anteri
 adelphogamy
-appears
+appears 1
 autoepilation 1
 acuesthesia
 anterioyancer
@@ -18576,7 +18576,7 @@ amaga
 achaemenid 1
 aelodicon
 anthrone
-arales
+arales 1
 arbuscular
 arbust
 arbusta
