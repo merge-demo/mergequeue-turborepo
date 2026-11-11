@@ -9143,7 +9143,7 @@ advancingly
 adenalgy
 atebrin
 adnation
-axisymmetrically
+axisymmetrically 1
 apocryphalness
 anticeremonialism
 achetidae
@@ -10496,7 +10496,7 @@ aspalax
 auxosubstance 1
 archeion
 apperceptionist 1
-aegle
+aegle 1
 aphanisia
 antireactive
 achimenes
@@ -15850,7 +15850,7 @@ amrit
 aflush
 abreption
 areito
-awaits
+awaits 1
 antipopes 1
 asplenium
 attributed
