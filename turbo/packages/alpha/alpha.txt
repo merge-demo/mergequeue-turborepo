@@ -22612,7 +22612,7 @@ athanasian
 athanasianism
 athanasianist
 aplustra
-arable
+arable 1
 aluminizing 1
 athanasies 1
 antisialagogue
