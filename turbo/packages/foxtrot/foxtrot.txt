@@ -2939,7 +2939,7 @@ fouquieriaceae
 fers
 foliar
 fiberize 1
-fewest
+fewest 1
 fluke
 fissiparity 1
 fading 2
@@ -4567,7 +4567,7 @@ fossilized
 fool 2
 feigned
 fingery
-flippance
+flippance 1
 forestwards 1
 fibrinokinase
 fooldom

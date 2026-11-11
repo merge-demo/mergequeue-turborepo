@@ -8617,7 +8617,7 @@ contemptuous
 cestus
 chansonette
 commissionaire
-chansonnette
+chansonnette 1
 cedarwood
 chansonniers
 chantey 1
