@@ -1783,7 +1783,7 @@ foreslack
 forsterite
 farfet
 farsalah 1
-forlorn
+forlorn 1
 foundery
 frivolously 1
 fetid
