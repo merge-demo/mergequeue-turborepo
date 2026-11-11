@@ -5499,7 +5499,7 @@ catachthonic
 consummation
 cataclastic 1
 corseleting
-cataclinal
+cataclinal 1
 compoundedness
 cataclysmal
 coumbite
@@ -9925,7 +9925,7 @@ cephalotaceous
 chemotrophic
 chemotropically
 cheoplastic
-chempaduk
+chempaduk 1
 chemurgical
 chemurgically
 cavitied 1

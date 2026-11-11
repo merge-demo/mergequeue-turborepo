@@ -638,7 +638,7 @@ falunian
 fertilisation 1
 fanum 1
 fauster
-frowstier
+frowstier 1
 flyways 1
 fulgurite
 falsity
@@ -5897,7 +5897,7 @@ flogs
 fermis
 foeticidal 1
 fluviovolcanic 2
-flybane 1
+flybane 2
 foveola 1
 freyr
 factitude
