@@ -926,7 +926,7 @@ gelatinate
 gyrocompass 1
 garnishable 1
 grittiness
-gemeinschaften
+gemeinschaften 1
 guidership 1
 gelsemiumia
 galt
