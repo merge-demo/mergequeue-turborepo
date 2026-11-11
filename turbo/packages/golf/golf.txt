@@ -5779,7 +5779,7 @@ geometrize
 gorgeable
 gaupus 3
 glissades
-greggle
+greggle 1
 gather
 greekish 2
 gedrite
