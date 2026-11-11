@@ -3318,7 +3318,7 @@ coughweed
 capocchia
 capoche
 chrysomelidae
-cogware
+cogware 1
 chelates
 caponata
 chloroacetic
@@ -10313,7 +10313,7 @@ camorras
 chickenheartedness
 convoys
 chickenpox
-chickenwort
+chickenwort 1
 chicker
 cloudlessly
 coardent

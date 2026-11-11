@@ -6860,7 +6860,7 @@ delirous
 drunken
 dyadics
 dirgeful
-despairful 1
+despairful 2
 doctrinism
 diplegia
 dehydrogenating 1
@@ -15812,7 +15812,7 @@ dicyemid
 dentosurgical
 disprobabilize 1
 dorsicornu
-dorsiflex
+dorsiflex 1
 does
 dorsiflexion
 deuteron
