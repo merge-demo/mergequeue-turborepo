@@ -3469,7 +3469,7 @@ avidins
 antinovelist
 amarillos
 additionary
-associationalism 1
+associationalism 2
 additionist
 abogado 1
 aequipalpia 1
@@ -5841,7 +5841,7 @@ archfelon
 aponeurosis
 ankylosaur
 agendum
-amovability
+amovability 1
 agene
 anticonscription
 aerogram
