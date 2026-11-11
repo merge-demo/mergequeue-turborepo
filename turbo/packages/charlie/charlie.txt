@@ -9925,7 +9925,7 @@ cephalotaceous
 chemotrophic
 chemotropically
 cheoplastic
-chempaduk
+chempaduk 1
 chemurgical
 chemurgically
 cavitied 1
