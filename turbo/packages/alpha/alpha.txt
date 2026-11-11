@@ -4110,7 +4110,7 @@ anabranch
 alcaide 1
 arousers
 antiae
-arbuscles
+arbuscles 1
 admonitorily
 admonitrix
 alkalinize
