@@ -18224,7 +18224,7 @@ bandages 1
 bushwhacks
 blackwort
 beshod
-bourran
+bourran 1
 blabbers
 butterfish
 butterpaste 1
