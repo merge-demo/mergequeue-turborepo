@@ -3548,7 +3548,7 @@ forechoice
 firmed 1
 flagellative 1
 funding
-forboding
+forboding 1
 forequarters
 fairylands 1
 fulgence
