@@ -6069,7 +6069,7 @@ gyrous
 gurniad 1
 genuflections 1
 gastroid
-geissorhiza
+geissorhiza 1
 griege
 geitonogamous 1
 gnomologist 1
