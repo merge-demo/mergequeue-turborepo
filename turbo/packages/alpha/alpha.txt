@@ -5639,7 +5639,7 @@ alloiometry
 acoelomatous
 axillary
 agade
-autocollimation
+autocollimation 1
 atopies
 aquicultural
 almeidina
@@ -9143,7 +9143,7 @@ advancingly
 adenalgy
 atebrin
 adnation
-axisymmetrically
+axisymmetrically 1
 apocryphalness
 anticeremonialism
 achetidae
@@ -15531,7 +15531,7 @@ antimonial 1
 aftertreatment
 adamitical
 acrylic
-antimethodically
+antimethodically 1
 aromatization
 arnattos
 antimonid
