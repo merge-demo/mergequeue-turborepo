@@ -11988,7 +11988,7 @@ difforme
 disencharm
 doctrix 1
 dotting
-disenclose
+disenclose 1
 daint
 diammine
 decimus

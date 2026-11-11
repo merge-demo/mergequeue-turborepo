@@ -7501,7 +7501,7 @@ glottalized
 gat
 governed 1
 gotten 1
-graecizing
+graecizing 1
 governesses
 greathead
 guideless
@@ -8056,7 +8056,7 @@ granivore
 gasconader
 gybes
 glandularly 1
-gribane
+gribane 1
 gamone
 gaiters 2
 geomorphogeny
@@ -8967,7 +8967,7 @@ glamorization
 glumaceae
 glagah
 gargarism 1
-grantedly
+grantedly 1
 griffonage
 gynandry
 girned
