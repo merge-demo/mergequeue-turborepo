@@ -24778,7 +24778,7 @@ copses
 classicized
 copsewood
 circs
-copsy
+copsy 1
 contraceptives
 copter 1
 cyclomania
