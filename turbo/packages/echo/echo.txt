@@ -4721,7 +4721,7 @@ electrowin
 erythrodegenerative
 exalbuminose
 encist 1
-electrokinetics
+electrokinetics 1
 exponentially 1
 encysting 1
 emptiest
