@@ -5981,7 +5981,7 @@ cathograph
 celia
 cathography
 cathole 1
-critics
+critics 1
 centraliser 1
 collatress
 contratempo
