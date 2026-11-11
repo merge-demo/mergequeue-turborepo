@@ -12556,7 +12556,7 @@ chronocyclegraph
 chronocrator
 chronogeneous
 combinedness 1
-chronogram
+chronogram 1
 celestially
 chronogrammatic
 chronogrammatically
