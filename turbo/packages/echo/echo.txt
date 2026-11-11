@@ -6129,7 +6129,7 @@ episkotister
 estuary
 enforced 2
 epiphanise 1
-enlodgement
+enlodgement 1
 enlumine 1
 entheos
 ergoplasm
