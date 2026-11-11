@@ -3884,7 +3884,7 @@ fecundating
 fluidness
 financer
 foretold
-fripperies
+fripperies 1
 followers
 fevertrap
 footslogged

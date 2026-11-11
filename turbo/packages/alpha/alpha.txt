@@ -15850,7 +15850,7 @@ amrit
 aflush
 abreption
 areito
-awaits
+awaits 1
 antipopes 1
 asplenium
 attributed
