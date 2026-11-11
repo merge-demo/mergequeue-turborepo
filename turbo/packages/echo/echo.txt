@@ -2118,7 +2118,7 @@ eyeteeth
 elasticity
 effortlessly
 equably
-euxenite
+euxenite 1
 elastivity
 eucarpic
 eleusine
