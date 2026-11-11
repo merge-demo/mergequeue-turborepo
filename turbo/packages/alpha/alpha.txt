@@ -570,7 +570,7 @@ abluvion 1
 assai
 aconitia
 abmodalities
-airscrew
+airscrew 1
 acusector
 actinulae
 apioidal
@@ -10749,7 +10749,7 @@ anisodactyl 1
 antiorgastic
 aminopherase 1
 aminopyrine
-agrobiologic
+agrobiologic 1
 adumbrates
 angulometer
 armitas
@@ -20453,7 +20453,7 @@ aerialness
 antimodernness
 appendicalgia
 antigod
-augments
+augments 1
 arteria
 averia
 associating
