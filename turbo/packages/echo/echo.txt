@@ -7582,7 +7582,7 @@ experiments
 esogastritis 1
 excurvate
 euglena
-eikonology
+eikonology 1
 enamelware
 enfeoffs
 essling
@@ -11492,7 +11492,7 @@ engouled
 eunuchize
 enalid
 endlessly
-embryoma
+embryoma 1
 evincible 1
 ectosarcs
 ectopterygoid
