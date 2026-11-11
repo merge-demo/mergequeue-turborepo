@@ -9152,7 +9152,7 @@ gluttei
 gratulatory
 gelatinization
 glycolytically
-galvanometer
+galvanometer 1
 greenwich
 gynarchies
 galvanization
