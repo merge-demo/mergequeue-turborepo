@@ -7252,7 +7252,7 @@ gavelman 1
 glassblowing 1
 glossotomies
 ginsengs
-giglio
+giglio 1
 grumness
 gladstonian
 geochronic
