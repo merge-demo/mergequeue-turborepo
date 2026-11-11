@@ -1115,7 +1115,7 @@ barbasco 1
 bayonets
 benefactors
 bifacial 1
-blksize
+blksize 1
 babongo
 bairagi
 bismarckianism
@@ -6087,7 +6087,7 @@ bemuddlement
 bemuddles
 bemuddling
 bemurmur
-bondwoman
+bondwoman 1
 butyral
 botaniser
 bemurmure
