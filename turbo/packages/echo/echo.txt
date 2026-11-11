@@ -601,7 +601,7 @@ ebonise
 echt
 earliness
 ecchymosed
-excommenge
+excommenge 1
 exostoses
 eciliate
 emporia 1
@@ -5271,7 +5271,7 @@ eskimoid
 exarteritis 1
 elapsoidea
 earthshakingly
-electrobiological 1
+electrobiological 2
 esterellite 2
 efik
 etherealising
