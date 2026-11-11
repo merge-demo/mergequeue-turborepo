@@ -5200,7 +5200,7 @@ frontierlike
 frivolers 1
 foreclaw
 formalin
-fuchsia 1
+fuchsia 2
 familarity
 frumpery 2
 funest
@@ -11279,7 +11279,7 @@ furans 1
 furacious
 file
 farces
-fernando
+fernando 1
 fallaciously
 flatters
 furanoid
