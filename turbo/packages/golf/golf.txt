@@ -3918,7 +3918,7 @@ glossoscopia 1
 geoty
 gads 1
 gorgoneioneia
-gastrological
+gastrological 1
 guested 1
 geds
 genospecies

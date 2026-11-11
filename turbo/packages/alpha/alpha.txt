@@ -7435,7 +7435,7 @@ apronful 1
 aesthesis
 albion
 allogamies
-assessor
+assessor 1
 apertly
 adventitiously
 aestivator
