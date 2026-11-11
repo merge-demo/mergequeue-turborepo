@@ -15685,7 +15685,7 @@ clima
 chrysograph 1
 claviger
 carshops
-coy 1
+coy 2
 compunctive
 carlisle
 clavipectoral
