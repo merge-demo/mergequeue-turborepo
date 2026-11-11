@@ -4263,7 +4263,7 @@ fibrosities
 fingerling
 freudism
 filiate 1
-fatiguability
+fatiguability 1
 fulsomely
 ferdwit
 foreshortens 1
@@ -7137,7 +7137,7 @@ fishers
 fixative
 fourche
 furnariidae 1
-fiendism
+fiendism 1
 fulvescent
 foothot
 faraon
