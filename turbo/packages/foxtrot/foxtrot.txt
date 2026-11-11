@@ -2846,7 +2846,7 @@ fortuity
 faeries
 forepreparation
 fetwa
-ferlies
+ferlies 1
 fetterlock 1
 foretype
 flatfish
