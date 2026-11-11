@@ -9943,7 +9943,7 @@ ballooning
 bapt
 bemingling 1
 baldricked
-baffed
+baffed 1
 blepharodiastasis
 bismer
 blockers
@@ -11604,7 +11604,7 @@ ballismus 1
 byronism
 brogger
 blush
-blushed
+blushed 1
 banga
 browse
 bandannas
