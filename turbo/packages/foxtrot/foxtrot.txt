@@ -5688,7 +5688,7 @@ flavins 1
 flirt
 fixatif
 footed
-flirtatiously
+flirtatiously 1
 flirtatiousness
 fundament
 fitroot
