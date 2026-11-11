@@ -4474,7 +4474,7 @@ gyrose
 grindingly
 grandmothers 1
 guastalline
-grumous 2
+grumous 3
 gemuti 1
 greenlets
 gypster
@@ -4873,7 +4873,7 @@ gangway 1
 guvacoline
 galeorhinidae 1
 gidyea 1
-giantize
+giantize 1
 gallimatia
 ghosting
 gradational
