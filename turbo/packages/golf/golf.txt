@@ -5286,7 +5286,7 @@ gynecomastism
 grandevity
 globuliferous
 gravamens
-gombeenism 1
+gombeenism 2
 goofer
 gonopod
 generalisation
@@ -6204,7 +6204,7 @@ guerrillaism
 genitures
 gelfomino
 goave
-greats
+greats 1
 gormandizing
 gregorianizer 1
 gob

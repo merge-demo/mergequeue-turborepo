@@ -480,7 +480,7 @@ featherleaf
 fetiferous
 fullbacks
 frogmouth
-foremastman
+foremastman 1
 finalisms
 fireflies
 foin
@@ -2846,7 +2846,7 @@ fortuity
 faeries
 forepreparation
 fetwa
-ferlies
+ferlies 1
 fetterlock 1
 foretype
 flatfish
