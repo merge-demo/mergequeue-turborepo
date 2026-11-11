@@ -15213,7 +15213,7 @@ androtauric
 antifibrinolysin
 antifibrinolysis
 apostolically
-atomies
+atomies 1
 antifire
 amylogens
 antiflattering

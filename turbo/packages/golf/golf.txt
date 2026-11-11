@@ -5711,7 +5711,7 @@ grimmish
 grapsoid
 gymnoplast 3
 gastroenteroptosis
-gunkholed
+gunkholed 1
 gossypose
 gonotheca
 gravemaker
@@ -8282,7 +8282,7 @@ greyness
 guha
 gynaecia
 glod
-greffotome
+greffotome 1
 gephyrocercy 1
 glacon
 gazelle
