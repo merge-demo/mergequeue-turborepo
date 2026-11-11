@@ -4073,7 +4073,7 @@ geoglossum 1
 gyropilot
 galaxiidae 1
 geelbek
-gemological
+gemological 1
 geggee
 gimmickery 2
 gendering
