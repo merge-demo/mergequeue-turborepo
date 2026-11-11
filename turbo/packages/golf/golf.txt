@@ -2500,7 +2500,7 @@ garlanding
 gittith 1
 genderer
 grenado
-giffgaff
+giffgaff 1
 ghoulie
 graeme
 grieflessness
@@ -9640,7 +9640,7 @@ garmenting
 gambit
 gladeye
 gratton
-gyroidally
+gyroidally 1
 gastrojejunostomies
 grueled 1
 ghana
