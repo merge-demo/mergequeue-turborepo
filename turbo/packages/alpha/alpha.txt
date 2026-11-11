@@ -4110,7 +4110,7 @@ anabranch
 alcaide 1
 arousers
 antiae
-arbuscles
+arbuscles 1
 admonitorily
 admonitrix
 alkalinize
@@ -6815,7 +6815,7 @@ anisometropia
 androcyte
 airhead
 ascula
-aquiculturist
+aquiculturist 1
 airified
 alant
 arecales
