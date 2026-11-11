@@ -8869,7 +8869,7 @@ fivefoldness 2
 foundrymen 1
 flabellinerved
 fetichist
-fallency
+fallency 1
 flneuse 1
 favorableness
 foundrous
