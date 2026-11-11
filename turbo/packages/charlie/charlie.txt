@@ -20664,7 +20664,7 @@ cryptographist
 complaint
 capibara
 counteranswer
-complaintiveness
+complaintiveness 1
 complaints
 cabinetmake
 complaisant
@@ -31120,7 +31120,7 @@ clavae
 copataine
 capitulation
 cacodylate
-cunicular
+cunicular 1
 cuniculi
 combust
 camelid
