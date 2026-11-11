@@ -3535,7 +3535,7 @@ greekling
 glumella
 glycerolysis
 gourmandize
-galvanisation
+galvanisation 1
 gausses
 gharnao
 gilbertian 1
@@ -7796,7 +7796,7 @@ gufa
 greenkeeper
 glassblowers 1
 gook
-glead
+glead 1
 gloater
 groschen
 grillework
