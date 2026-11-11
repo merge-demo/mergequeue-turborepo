@@ -12514,7 +12514,7 @@ celoscope
 cornercap
 collophore
 chromospheric
-colytic
+colytic 1
 committitur
 cadjan
 cranemen
