@@ -1628,7 +1628,7 @@ groovier
 grousewards
 garawi
 gumlikeness 1
-ghalva 1
+ghalva 2
 geode 1
 goyish
 gastroenteroptosis 1
@@ -7505,7 +7505,7 @@ graecizing 1
 governesses
 greathead
 guideless
-goliardery
+goliardery 1
 greenbone
 gymnast 1
 governmental

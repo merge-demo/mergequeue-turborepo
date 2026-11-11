@@ -6038,7 +6038,7 @@ befooling
 brewis
 bilabials
 bribeability
-bruises 1
+bruises 2
 bitterbark
 bemean 1
 biphenyls
@@ -8014,7 +8014,7 @@ binucleated
 beanbag
 bicaudate
 baphia
-birthdays
+birthdays 1
 bicched
 bribegiving
 bicentric
