@@ -2608,7 +2608,7 @@ filigreed
 ferio
 forbiddance 1
 farandmen
-foraminated
+foraminated 1
 folkfree 2
 ferruginating
 fearfuller
@@ -4476,7 +4476,7 @@ fountainwise
 frangulin
 fluctuant
 ferrotitanium 1
-faddy
+faddy 1
 flatting 1
 forlane
 fertilizers

@@ -10787,7 +10787,7 @@ diluteness
 decreement
 divaricatingly
 directionalize
-directionally
+directionally 1
 deckles
 dhan
 demoralizingly
@@ -16066,7 +16066,7 @@ doughbellies
 displayed
 dolichosaurus
 dimpliest 1
-doughbird
+doughbird 1
 desperately
 disorderedly
 doughface

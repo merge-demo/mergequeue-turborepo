@@ -10749,7 +10749,7 @@ anisodactyl 1
 antiorgastic
 aminopherase 1
 aminopyrine
-agrobiologic
+agrobiologic 1
 adumbrates
 angulometer
 armitas
@@ -11721,7 +11721,7 @@ arrage
 assuror
 anaemotropy
 adrad
-anaeretic
+anaeretic 1
 ambulacrum
 acerbity
 astrometeorologist
