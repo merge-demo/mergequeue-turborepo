@@ -5499,7 +5499,7 @@ catachthonic
 consummation
 cataclastic 1
 corseleting
-cataclinal
+cataclinal 1
 compoundedness
 cataclysmal
 coumbite
