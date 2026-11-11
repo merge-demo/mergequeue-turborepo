@@ -7137,7 +7137,7 @@ fishers
 fixative
 fourche
 furnariidae 1
-fiendism
+fiendism 1
 fulvescent
 foothot
 faraon
@@ -7196,7 +7196,7 @@ foreboom 1
 feudalising
 flanderkin
 fb
-fecial
+fecial 1
 flashback 1
 famishing
 fiorded
