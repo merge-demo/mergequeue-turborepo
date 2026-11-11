@@ -18074,7 +18074,7 @@ alcoholics
 aeonic
 adlet
 arrenotokous 1
-areolate
+areolate 1
 apterial
 apterygiformes
 almsgiver
@@ -21580,7 +21580,7 @@ aspidistra
 aullay 1
 aurorean
 aspidistras
-aspidium
+aspidium 1
 aspidobranchiata
 abjectness
 antidominican
