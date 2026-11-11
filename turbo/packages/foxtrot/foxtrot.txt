@@ -4391,7 +4391,7 @@ fraus 1
 fealties
 fishes
 filibranchiate
-fiancees
+fiancees 1
 feirie
 franchise
 fleta
