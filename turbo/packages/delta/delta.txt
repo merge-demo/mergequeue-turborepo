@@ -2099,7 +2099,7 @@ decancellate
 dominator 1
 decancellated
 disciplinarian
-debaser
+debaser 1
 decipher
 decandria
 didst
@@ -10787,7 +10787,7 @@ diluteness
 decreement
 divaricatingly
 directionalize
-directionally
+directionally 1
 deckles
 dhan
 demoralizingly

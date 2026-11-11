@@ -11721,7 +11721,7 @@ arrage
 assuror
 anaemotropy
 adrad
-anaeretic
+anaeretic 1
 ambulacrum
 acerbity
 astrometeorologist
@@ -22441,7 +22441,7 @@ apprend
 asterina 1
 amphiscians
 agric 1
-animalising
+animalising 1
 astrometric
 astronaut
 apollinian 1
