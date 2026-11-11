@@ -8869,7 +8869,7 @@ asyntrophy
 anglicist
 archaeol
 anomatheca
-allocatur
+allocatur 1
 acanthocephalan
 astound
 albahaca
