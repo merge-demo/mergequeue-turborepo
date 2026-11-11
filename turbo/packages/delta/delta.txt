@@ -17715,7 +17715,7 @@ dubber
 dingus 1
 drabnesses
 dubbin
-disused
+disused 1
 demipauldron
 discriminable
 durables
