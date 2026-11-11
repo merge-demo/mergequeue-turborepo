@@ -10996,7 +10996,7 @@ blesbuck
 blinkards
 benedictionary
 bowses
-basta
+basta 1
 beckets
 bartonia 1
 brooms
@@ -11396,7 +11396,7 @@ bludger 1
 besoothe 1
 bambusa
 bescatter
-bewitchedness
+bewitchedness 1
 benmost
 bendingly
 beguiled
@@ -15485,7 +15485,7 @@ brilliantwise
 bicornes
 brilliolette
 brills
-baculites
+baculites 1
 bigothero 1
 buddah
 banns
