@@ -4351,7 +4351,7 @@ ganggang
 galantine
 grevillea
 goozle
-grammatist
+grammatist 1
 gleeted
 gazer 1
 gorget
@@ -8701,7 +8701,7 @@ gismo
 groundenell
 grubby 1
 glucosuric
-garrets 1
+garrets 2
 games
 glom 1
 galeus 1
@@ -9867,7 +9867,7 @@ gonopodpodia 2
 gifblaar
 graticulation
 genders 2
-guaracha
+guaracha 1
 grenadilla
 glaked
 genapp
