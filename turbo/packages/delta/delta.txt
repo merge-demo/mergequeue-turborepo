@@ -789,7 +789,7 @@ dispurpose 1
 drawn
 devolatilize
 dacryocystotomy 1
-dandles 1
+dandles 2
 discute 1
 delirament 1
 dissections
@@ -3520,7 +3520,7 @@ dermatotome
 drawbeam
 dissheathe
 dehwar
-defuze 1
+defuze 2
 dakoities
 dissociative 1
 degage
