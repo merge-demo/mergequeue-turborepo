@@ -135,7 +135,7 @@ fifthly
 fellaheen
 fulgurate
 facks
-forefront
+forefront 1
 fumitories 2
 frowzier
 favus
@@ -898,7 +898,7 @@ forcepses
 fulmars
 fingerlet
 foundationlessness
-forestlike
+forestlike 1
 fatheads 1
 featural
 flatheads 2
@@ -1499,7 +1499,7 @@ floatability
 faucre
 fishmeal
 fairgoer
-fila
+fila 1
 flutings
 fetcher
 furibund
@@ -3246,7 +3246,7 @@ foppery
 filbert
 freit
 fascinative
-furciferine 1
+furciferine 2
 fifteenthly
 fireburn
 fomenting
@@ -5707,7 +5707,7 @@ flagellula
 fungous
 fuzzball
 frontlessly 1
-furnage
+furnage 1
 frequentation
 fractuosity
 fels
@@ -6967,7 +6967,7 @@ fondly
 fluorspar
 fatagaga
 flop 1
-fondlingly
+fondlingly 1
 farewelled
 fraenulum
 foozled 3
@@ -8731,7 +8731,7 @@ frugality 1
 fashionative 2
 fumbler 1
 forhooie 1
-face 1
+face 2
 floatiest
 foiblesse 1
 forwearied 1
@@ -11413,7 +11413,7 @@ forcemeat
 flustrum
 fisticuffing
 flatterous
-fleurette
+fleurette 1
 filminess
 fechnerian
 flushboard 1
