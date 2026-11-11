@@ -8056,7 +8056,7 @@ granivore
 gasconader
 gybes
 glandularly 1
-gribane
+gribane 1
 gamone
 gaiters 2
 geomorphogeny
@@ -8967,7 +8967,7 @@ glamorization
 glumaceae
 glagah
 gargarism 1
-grantedly
+grantedly 1
 griffonage
 gynandry
 girned
@@ -10759,7 +10759,7 @@ generation 2
 gutbucket
 guarnieri
 ganoin
-gloam
+gloam 1
 graminin
 gimbals
 gallium
