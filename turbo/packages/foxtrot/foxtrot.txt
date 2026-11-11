@@ -4935,7 +4935,7 @@ flamencos
 funtumia
 fevertwitch
 fraunch
-flameout
+flameout 1
 foreshortened
 farthermost 2
 foreappoint
