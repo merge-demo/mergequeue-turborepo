@@ -3455,7 +3455,7 @@ evacuate 1
 eventide
 embellisher
 embellishers 2
-eutelegenic
+eutelegenic 1
 endiadem
 encheason
 episcia
@@ -12537,7 +12537,7 @@ excoecaria
 electromerism
 existentialist
 earthpea
-effluvious
+effluvious 1
 eupione
 enzymology
 exculpative
