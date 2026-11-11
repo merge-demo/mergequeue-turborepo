@@ -5306,7 +5306,7 @@ bringsel
 boshas 2
 bullom 1
 brimless 1
-bubbies
+bubbies 1
 brachystomous
 batrachoididae 1
 botulinal
@@ -14199,7 +14199,7 @@ badaud
 bobbiner
 baronesses
 brinier
-bracky
+bracky 1
 baculi
 bracking 1
 brockle 1
