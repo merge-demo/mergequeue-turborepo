@@ -7467,7 +7467,7 @@ foisting 2
 floppily 3
 fastly
 fullface
-forebode
+forebode 1
 fauld
 fest 1
 forebodes
