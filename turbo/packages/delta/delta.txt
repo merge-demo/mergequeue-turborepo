@@ -12961,7 +12961,7 @@ demivoice 1
 dolomitized
 disfavourer
 drang
-distannic
+distannic 1
 disorderer 1
 dormantly
 daughterkin
