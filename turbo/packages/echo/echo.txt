@@ -8415,7 +8415,7 @@ exchange 1
 evisceration
 equip
 eglogue
-endothecate
+endothecate 1
 entemple
 eradiates
 encephalomere
