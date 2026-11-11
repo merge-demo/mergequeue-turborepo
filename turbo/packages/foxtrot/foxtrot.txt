@@ -3791,7 +3791,7 @@ forestall
 foxer
 filmstrips 1
 filo
-filose
+filose 1
 founce
 ferrier 1
 furnitureless 2
