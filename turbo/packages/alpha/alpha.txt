@@ -8997,7 +8997,7 @@ allophanate
 allophanates
 allophanic
 acredula
-antiscians
+antiscians 1
 allophyle 1
 arrow
 arrythmia
@@ -14109,7 +14109,7 @@ apriorist
 archdeaconship
 approving
 acenaphthene
-archwench 1
+archwench 2
 antemarginal
 aphodius
 ambiguous
@@ -19607,7 +19607,7 @@ ambages
 arider 1
 asterospondyli
 apterium
-alloclase
+alloclase 1
 apophorometer 1
 aridian 1
 analogy
@@ -24299,7 +24299,7 @@ anthrasilicosis
 autophotoelectric
 autopilot
 autoincrement
-afterworking
+afterworking 1
 autoplast
 affianced
 acetonate
