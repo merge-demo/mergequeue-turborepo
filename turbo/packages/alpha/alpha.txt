@@ -13381,7 +13381,7 @@ advertize
 ascill
 anywhence
 appurtenance
-anywhither 1
+anywhither 2
 anywither
 anhalonium
 areolar
@@ -13889,7 +13889,7 @@ abdomina
 apneumatic
 acorns
 agapemonite
-antiemperor
+antiemperor 1
 acronyctous
 ansar
 ansarie
