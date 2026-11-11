@@ -5054,7 +5054,7 @@ eyelid
 endoaortitis
 embryophyte
 entoolitic
-economization 1
+economization 2
 emerited
 endoauscultation
 effervescently 1
@@ -10836,7 +10836,7 @@ euphotic 1
 entailable
 eradicatory
 equitability
-eructation
+eructation 1
 explicitness
 ereption
 euphemian
