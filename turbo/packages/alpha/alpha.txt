@@ -5144,7 +5144,7 @@ anatomizing
 aetobatidae
 ancien
 antidoting
-aphoria
+aphoria 1
 anamorphism
 artiest
 almohade
@@ -18789,7 +18789,7 @@ archegony
 albania 1
 archegonial
 amative
-archelenis
+archelenis 1
 allotriophagy
 alisier
 archelogy
@@ -21069,7 +21069,7 @@ allegorism
 asclepiad
 asporous
 asclepiadaceae
-asclepiadae
+asclepiadae 1
 avengingly
 asclepiadean
 airwaves
@@ -22371,7 +22371,7 @@ africanist
 adularescence
 anthropolitic
 abigeus
-animableness
+animableness 1
 antilia
 autoscopy
 accreting
