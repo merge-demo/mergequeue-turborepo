@@ -2816,7 +2816,7 @@ ecodeme
 eleomargaric
 epipolic
 entoptical 1
-equivalencing
+equivalencing 1
 externalness 1
 eater
 epiclesis
