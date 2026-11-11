@@ -8111,7 +8111,7 @@ du
 diabolization
 depilates
 disambiguate
-decongestants
+decongestants 1
 disventure 1
 deepener
 diacaustic
