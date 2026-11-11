@@ -582,7 +582,7 @@ digenea
 dodecaheddra
 dissolver 1
 diwata
-decopperization
+decopperization 1
 dissoluteness
 divelled
 desmopathologist
@@ -8111,7 +8111,7 @@ du
 diabolization
 depilates
 disambiguate
-decongestants
+decongestants 1
 disventure 1
 deepener
 diacaustic
@@ -16375,7 +16375,7 @@ downthrown
 denaturation
 douppioni
 delayage
-downtown
+downtown 1
 debar
 downtrampling
 downtreading 1
