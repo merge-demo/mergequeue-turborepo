@@ -14369,7 +14369,7 @@ cantharidating
 cardiotherapies
 centrechinoida
 crosswalk
-caryatidean
+caryatidean 1
 charquis 1
 cannot
 cyriologic
@@ -20907,7 +20907,7 @@ compaginate
 compradore
 comprecation
 climaxes
-compregnate
+compregnate 1
 coart
 cosmognosis
 colonnades
