@@ -10996,7 +10996,7 @@ blesbuck
 blinkards
 benedictionary
 bowses
-basta
+basta 1
 beckets
 bartonia 1
 brooms
@@ -11405,7 +11405,7 @@ buff
 buntings
 bobooti 1
 baa
-bigwigs 1
+bigwigs 2
 bogydom
 befame
 burgwere
