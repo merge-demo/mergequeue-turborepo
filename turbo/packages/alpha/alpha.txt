@@ -8072,7 +8072,7 @@ anthropogenetic 1
 alfileria
 astert
 anthropocosmic
-acrosporous
+acrosporous 1
 ambusher
 armoires
 abactinal

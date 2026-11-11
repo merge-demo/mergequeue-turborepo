@@ -9151,7 +9151,7 @@ fries 1
 fragileness
 foreknown
 faceplate
-futilize
+futilize 1
 fucus
 fledged
 fumously 1
