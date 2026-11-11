@@ -19607,7 +19607,7 @@ ambages
 arider 1
 asterospondyli
 apterium
-alloclase
+alloclase 1
 apophorometer 1
 aridian 1
 analogy
@@ -19870,7 +19870,7 @@ aweto
 armigeros
 armigerous 1
 aeroneurosis
-autotomized
+autotomized 1
 aimful
 aposelene
 airiest
