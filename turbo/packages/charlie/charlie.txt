@@ -6059,7 +6059,7 @@ catnaper
 catnapping
 catnaps
 catnep
-chilotomy
+chilotomy 1
 catnip
 comical
 coroado
@@ -14277,7 +14277,7 @@ cevadilla
 conamed
 circumrotate
 cuneonavicular
-circumrotatory
+circumrotatory 1
 calochortus
 cask
 connectivity
@@ -22686,7 +22686,7 @@ conocephalum
 conocuneus
 coderiving
 conodont
-contractiveness
+contractiveness 1
 chrysatropic
 calmato
 catarrhinian
