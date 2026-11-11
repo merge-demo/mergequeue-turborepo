@@ -1051,7 +1051,7 @@ edged
 eidolon
 exacted 1
 edger
-edgeshot 1
+edgeshot 2
 ermani
 edgeway
 embalmment
@@ -8415,7 +8415,7 @@ exchange 1
 evisceration
 equip
 eglogue
-endothecate
+endothecate 1
 entemple
 eradiates
 encephalomere

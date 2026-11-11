@@ -2262,7 +2262,7 @@ cholecyst
 canadian
 coagulase
 canadianize
-compassionable
+compassionable 1
 catchwords
 counterlathing
 centaurus
@@ -10198,7 +10198,7 @@ cheesecakes
 chiasma
 cotesian
 chloasmata
-camacan
+camacan 1
 chiasmas 1
 chiasmata
 cavesson
@@ -24324,7 +24324,7 @@ cooingly
 cottonpicking
 cooja
 cook
-cookable
+cookable 1
 carbureter
 chapeau
 creation
@@ -25774,7 +25774,7 @@ conciliating
 cataleptize 1
 corroborative
 corroboratively
-corroborator
+corroborator 1
 chrism
 cathedratically
 corroboratory
@@ -30066,7 +30066,7 @@ cellule
 conversational
 chattanoogan 1
 crowbait
-centuriate
+centuriate 1
 crowbar
 curlings 1
 columbo
@@ -30137,7 +30137,7 @@ coparallel
 calycanthaceae
 crozers
 curat
-cranially
+cranially 1
 clinton
 crozes
 crozing
