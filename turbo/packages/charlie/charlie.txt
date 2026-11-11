@@ -14038,7 +14038,7 @@ circe
 circean
 circensian
 circinate
-coxcombs
+coxcombs 1
 chirinola
 circiter
 counterapproach
@@ -18031,7 +18031,7 @@ coenaculous 1
 coenamored
 clairseacher
 coenamors 1
-condensational
+condensational 1
 carats
 cellated
 coenamourment

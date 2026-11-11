@@ -3368,7 +3368,7 @@ fossilification
 flappering
 fishermen
 filipinos
-follicles
+follicles 1
 frothed 1
 flokite
 frameableness 1
@@ -7672,7 +7672,7 @@ fernier
 feature
 foreigneering
 flexes
-firth
+firth 1
 firm
 fellmonger
 fastens 1
