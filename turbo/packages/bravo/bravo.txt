@@ -5894,7 +5894,7 @@ barbermonger 1
 blacklisted
 boozily
 bellyland
-bellyman 1
+bellyman 2
 biunique
 biogenetical
 balopticon
@@ -10834,7 +10834,7 @@ bizarres
 brosse
 brewster
 bradford
-bitstalk
+bitstalk 1
 blepharocarcinoma
 banba 1
 bruang
@@ -11405,7 +11405,7 @@ buff
 buntings
 bobooti 1
 baa
-bigwigs 1
+bigwigs 2
 bogydom
 befame
 burgwere
