@@ -6744,7 +6744,7 @@ deuterocone
 demodex
 desiodothyroxine
 desirableness
-disseminated
+disseminated 1
 dojo
 dietzeite
 desiredly

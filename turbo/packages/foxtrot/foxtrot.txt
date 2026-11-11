@@ -3266,7 +3266,7 @@ ferrites
 fluidrams
 ferrimagnetically
 feudovassalism
-facelift
+facelift 1
 forefeet 1
 fungilliform
 filopodium
