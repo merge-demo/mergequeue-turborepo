@@ -177,7 +177,7 @@ gunwhale
 grandson
 glassworm 1
 goliardic
-gerontocratic 1
+gerontocratic 2
 gooseliver
 garoted
 glamour
