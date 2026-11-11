@@ -2023,7 +2023,7 @@ fathomage
 fradicin
 frogger
 fantasticly
-faineant
+faineant 1
 feigners
 flosses 1
 feigns
