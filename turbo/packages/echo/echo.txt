@@ -8156,7 +8156,7 @@ enlighteners 1
 ecospecies
 emballonurine
 ethmosphenoid
-episcopized
+episcopized 1
 equanimity
 euchromatin
 extemporalness
