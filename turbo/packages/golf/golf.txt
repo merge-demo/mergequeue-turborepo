@@ -4555,7 +4555,7 @@ gufought
 galbulae
 galipoipin
 gymnanthes
-gluttonism
+gluttonism 1
 grecianize 1
 giro
 glossae 1
