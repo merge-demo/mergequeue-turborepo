@@ -601,7 +601,7 @@ ebonise
 echt
 earliness
 ecchymosed
-excommenge
+excommenge 1
 exostoses
 eciliate
 emporia 1
@@ -5774,7 +5774,7 @@ endues
 earthlike
 ensalada 1
 englanders
-engleim
+engleim 1
 enshrines
 exchangeability
 extranidal
@@ -7656,7 +7656,7 @@ encefalon
 engagingly
 ectocrine
 envying
-espece
+espece 1
 encircling
 extroversion 1
 epicuticular
