@@ -2814,7 +2814,7 @@ galactophlysis 1
 graminous
 girls
 gypseian
-geraniales
+geraniales 1
 gentlemouthed
 galactorrhea
 glace
@@ -8054,7 +8054,7 @@ genteelish 1
 gesning
 granivore
 gasconader
-gybes
+gybes 1
 glandularly 1
 gribane 1
 gamone
