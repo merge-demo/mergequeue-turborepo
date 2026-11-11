@@ -8463,7 +8463,7 @@ antilog
 avogram
 anticausotic
 allocators
-adulatory
+adulatory 1
 apotheosizing
 aristolochiaceae
 amebous 1
