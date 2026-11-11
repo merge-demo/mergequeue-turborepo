@@ -9966,7 +9966,7 @@ disconnectiveness 2
 dimorph
 dimorphism
 dukker 1
-dissatisfactorily
+dissatisfactorily 1
 dally
 disparted
 desophisticate 1
@@ -16546,7 +16546,7 @@ disarchbishop
 draftsman 2
 drupaceous
 diadokokinesis 1
-dynastidan
+dynastidan 1
 duplicature
 dyspnoic 1
 draftwoman
