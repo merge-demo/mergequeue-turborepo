@@ -5707,7 +5707,7 @@ flagellula
 fungous
 fuzzball
 frontlessly 1
-furnage
+furnage 1
 frequentation
 fractuosity
 fels
