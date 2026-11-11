@@ -811,7 +811,7 @@ emmers
 epispadias
 efficiencies
 endow
-edaphically
+edaphically 1
 euglenidae
 ectypal
 ectype
@@ -3096,7 +3096,7 @@ enolic 1
 ethiopian
 ellipticity 1
 elliptograph 1
-esprise
+esprise 1
 elliptoid
 encrease 1
 extraparietal
