@@ -17621,7 +17621,7 @@ antiphonical
 abdominales
 ascended
 almandite
-apperceptionism
+apperceptionism 1
 anoura
 alkalizate
 afforced
@@ -21934,7 +21934,7 @@ andesine 1
 autolyse
 autocarist
 ambagious
-alfaquins
+alfaquins 1
 acopyrin
 aliturgical
 athericerous
