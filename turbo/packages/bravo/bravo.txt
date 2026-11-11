@@ -8635,7 +8635,7 @@ bearskin 1
 billfolds 2
 ballaton
 bearlike
-bibliothecas
+bibliothecas 1
 bimillenial
 billiard
 bellyfull
@@ -15026,7 +15026,7 @@ brechtian 1
 bunchberries
 bennettites
 burnut
-bredbergite 1
+bredbergite 2
 baumhauerite
 bredes
 blindfoldedly

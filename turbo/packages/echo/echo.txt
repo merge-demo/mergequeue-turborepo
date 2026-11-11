@@ -6026,7 +6026,7 @@ enumerates 1
 enkidu 1
 ekatantalum 1
 enterospasm
-empaler
+empaler 1
 eyrie
 estoque 1
 expromissor
@@ -9877,7 +9877,7 @@ endothermous
 ecclesiolatry
 excludingly
 eden
-enstatite
+enstatite 1
 equivalency
 encodes
 epidemical
