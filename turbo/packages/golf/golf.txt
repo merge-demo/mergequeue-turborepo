@@ -4474,7 +4474,7 @@ gyrose
 grindingly
 grandmothers 1
 guastalline
-grumous 2
+grumous 3
 gemuti 1
 greenlets
 gypster
@@ -5758,7 +5758,7 @@ glorifiable
 gym
 gadarene
 gloveman 1
-gumtrees
+gumtrees 1
 glyceraldehyde
 growthy
 gunsels
@@ -10283,7 +10283,7 @@ gaumish
 grotesquery
 grecque
 geoform
-gourmet
+gourmet 1
 gullage 1
 garblings
 guitarist
