@@ -15567,7 +15567,7 @@ deflocculent
 deathsmen 1
 donum 1
 donzel
-discovering
+discovering 1
 doubt 1
 donzels
 doob 1
