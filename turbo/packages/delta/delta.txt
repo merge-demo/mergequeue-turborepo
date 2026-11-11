@@ -8566,7 +8566,7 @@ disarranging
 devoutlessness 1
 diaphoretics
 denaturalise
-doozy
+doozy 1
 diaphorite
 decating
 degreased
