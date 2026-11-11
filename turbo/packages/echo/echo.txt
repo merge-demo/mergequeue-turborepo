@@ -12683,7 +12683,7 @@ exomphalos
 evisite
 erotogenic 1
 effrontery
-excrementary
+excrementary 1
 entame
 exonerate
 exonerating
