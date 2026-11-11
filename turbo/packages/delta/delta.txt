@@ -6148,7 +6148,7 @@ dawks
 deriver
 devotees
 disvaluation
-discontentment
+discontentment 1
 dawed
 derma 1
 depleted
@@ -13904,7 +13904,7 @@ declaimant
 disrobed
 dustily
 disthroned 1
-doltish
+doltish 1
 disty
 dotardy
 druthers
@@ -16254,7 +16254,7 @@ dieciously
 downed
 dyspneal
 diprimary
-damaskeening
+damaskeening 1
 draughtswomanship
 deforest
 deteriorate
