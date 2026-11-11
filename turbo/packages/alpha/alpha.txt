@@ -21069,7 +21069,7 @@ allegorism
 asclepiad
 asporous
 asclepiadaceae
-asclepiadae
+asclepiadae 1
 avengingly
 asclepiadean
 airwaves
@@ -22371,7 +22371,7 @@ africanist
 adularescence
 anthropolitic
 abigeus
-animableness
+animableness 1
 antilia
 autoscopy
 accreting
