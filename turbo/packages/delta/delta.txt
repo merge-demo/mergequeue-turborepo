@@ -10787,7 +10787,7 @@ diluteness
 decreement
 divaricatingly
 directionalize
-directionally
+directionally 1
 deckles
 dhan
 demoralizingly
