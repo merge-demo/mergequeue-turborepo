@@ -5005,7 +5005,7 @@ budgers
 baculere
 bucconidae
 beylik
-bemoaning
+bemoaning 1
 beerhouse
 beerhouses
 breech
