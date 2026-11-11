@@ -10836,7 +10836,7 @@ euphotic 1
 entailable
 eradicatory
 equitability
-eructation
+eructation 1
 explicitness
 ereption
 euphemian
