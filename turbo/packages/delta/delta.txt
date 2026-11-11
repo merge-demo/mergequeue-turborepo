@@ -7673,7 +7673,7 @@ dusting 3
 deviatory
 discission
 densimetrically
-disassembles
+disassembles 1
 devil 1
 disciplinary
 devildom

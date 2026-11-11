@@ -2080,7 +2080,7 @@ floriculture
 fudger 1
 frightened 1
 floria
-foredefine
+foredefine 1
 fainty
 fesapo
 fowent
