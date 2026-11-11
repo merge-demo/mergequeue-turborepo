@@ -4110,7 +4110,7 @@ anabranch
 alcaide 1
 arousers
 antiae
-arbuscles
+arbuscles 1
 admonitorily
 admonitrix
 alkalinize
@@ -18056,7 +18056,7 @@ apronstring
 alanins
 anhidrosis
 adminicle 1
-adular
+adular 1
 amphigenetic
 aim
 arthrosynovitis

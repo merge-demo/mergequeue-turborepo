@@ -345,7 +345,7 @@ foresound
 frogleg
 flacian
 formulariser
-fleabites
+fleabites 1
 fawniest
 formagenic
 fetes
@@ -9008,7 +9008,7 @@ foxberry 1
 falcular
 fribbleism
 fractionation
-familiariser
+familiariser 1
 forenent 2
 folding 2
 friesish
