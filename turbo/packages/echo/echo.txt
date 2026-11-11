@@ -10827,7 +10827,7 @@ earache
 educes 1
 embassiate
 eligibilities 1
-endostomata
+endostomata 1
 envineyard 1
 elaeoblastic 1
 enchase
