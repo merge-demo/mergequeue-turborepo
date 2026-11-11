@@ -8155,7 +8155,7 @@ faddle
 fraught
 flourishable 1
 fob 1
-furores
+furores 1
 flockbed 1
 foghorn
 forewings
