@@ -8405,7 +8405,7 @@ eudaemonia
 ensigncy
 equals 1
 epizoon
-edemic
+edemic 1
 emblossom 2
 exulceration
 equinumerally 1
