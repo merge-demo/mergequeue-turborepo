@@ -5244,7 +5244,7 @@ dialkylamine
 dandilly
 distitle
 dhaman
-dissight
+dissight 1
 defiant 1
 donis 1
 dolor 1
@@ -17972,7 +17972,7 @@ deplorers 1
 depauperation
 danish
 domanial
-decompensate
+decompensate 1
 dukedoms 1
 decongestive 1
 dukes 1
