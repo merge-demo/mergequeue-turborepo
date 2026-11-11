@@ -12961,7 +12961,7 @@ demivoice 1
 dolomitized
 disfavourer
 drang
-distannic
+distannic 1
 disorderer 1
 dormantly
 daughterkin
@@ -14224,7 +14224,7 @@ deathful
 desquamate
 disbranching
 disuses
-demisacrilege 1
+demisacrilege 2
 disutility
 disutilize
 doldrum
