@@ -7400,7 +7400,7 @@ elvan 1
 encolumn
 etruria
 etalon
-encheat
+encheat 1
 escarpment
 eternalizing
 eperua 1
