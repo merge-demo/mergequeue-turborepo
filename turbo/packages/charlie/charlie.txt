@@ -1001,7 +1001,7 @@ cash
 calamostachys
 chestiest
 cheeses
-calando
+calando 1
 cyclostomous
 cytodifferentiation
 claretian
@@ -14369,7 +14369,7 @@ cantharidating
 cardiotherapies
 centrechinoida
 crosswalk
-caryatidean
+caryatidean 1
 charquis 1
 cannot
 cyriologic

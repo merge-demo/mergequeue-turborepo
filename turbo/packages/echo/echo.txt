@@ -2118,7 +2118,7 @@ eyeteeth
 elasticity
 effortlessly
 equably
-euxenite
+euxenite 1
 elastivity
 eucarpic
 eleusine
@@ -10966,7 +10966,7 @@ electrizing
 eurhythmic 1
 echeloot 1
 eoside
-eigenfrequency
+eigenfrequency 1
 escobita
 ecologically
 ennuye 2
