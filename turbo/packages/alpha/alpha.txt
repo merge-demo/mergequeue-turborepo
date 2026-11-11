@@ -1596,7 +1596,7 @@ astrologistic
 agrostologist
 aneling 1
 accouterment
-arsenotungstic
+arsenotungstic 1
 acemetic
 attouchement
 accoutre
@@ -7589,7 +7589,7 @@ alce
 assibilate
 asininities
 alcedinidae
-anderson
+anderson 1
 autoretardation
 airiferous
 autopathography 1
