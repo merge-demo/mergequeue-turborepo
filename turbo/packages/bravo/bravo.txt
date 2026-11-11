@@ -1115,7 +1115,7 @@ barbasco 1
 bayonets
 benefactors
 bifacial 1
-blksize
+blksize 1
 babongo
 bairagi
 bismarckianism
@@ -2717,7 +2717,7 @@ birdland
 boraxes
 beakhead
 burnouses
-bewaitered
+bewaitered 1
 barnard
 benightment
 barnbrack
