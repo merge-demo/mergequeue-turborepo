@@ -7618,7 +7618,7 @@ dealer
 deflocculation
 deorsumversion 1
 digamous
-didinium
+didinium 1
 developer
 diswarn
 developing
@@ -10891,7 +10891,7 @@ disabled 1
 doorplates 1
 defrayer
 deterges
-divulgement
+divulgement 1
 dioeciodimorphous
 dentelated
 doohinkus
@@ -15046,7 +15046,7 @@ drysalteries 1
 doggers
 dilogarithm
 dentonasal 1
-democratized
+democratized 1
 doggy
 doughboy
 drapet
