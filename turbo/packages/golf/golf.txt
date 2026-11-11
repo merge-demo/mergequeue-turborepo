@@ -862,7 +862,7 @@ greensick
 gamboling
 glareolidae
 geonim 1
-gwine
+gwine 1
 geezers
 gernitz
 gratulated
@@ -5286,7 +5286,7 @@ gynecomastism
 grandevity
 globuliferous
 gravamens
-gombeenism 1
+gombeenism 2
 goofer
 gonopod
 generalisation
