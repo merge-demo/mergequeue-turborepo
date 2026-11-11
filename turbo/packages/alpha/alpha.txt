@@ -12676,7 +12676,7 @@ authentications
 addleheadedly 1
 aperies
 amixia
-aporrhaidae
+aporrhaidae 1
 antistrumous
 accouchements
 antistat
