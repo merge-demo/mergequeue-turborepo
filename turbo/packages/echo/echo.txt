@@ -7400,7 +7400,7 @@ elvan 1
 encolumn
 etruria
 etalon
-encheat
+encheat 1
 escarpment
 eternalizing
 eperua 1
@@ -9838,7 +9838,7 @@ enslumber 1
 esterified 1
 eclipsation
 eatage
-esterization 1
+esterization 2
 ezan
 esterize
 euciliate
