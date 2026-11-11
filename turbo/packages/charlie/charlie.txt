@@ -5499,7 +5499,7 @@ catachthonic
 consummation
 cataclastic 1
 corseleting
-cataclinal
+cataclinal 1
 compoundedness
 cataclysmal
 coumbite
@@ -19312,7 +19312,7 @@ cropland
 cavillatory
 conscriptionist 1
 cosalite
-colophonic
+colophonic 1
 colophons
 coloppe
 chrimsel
