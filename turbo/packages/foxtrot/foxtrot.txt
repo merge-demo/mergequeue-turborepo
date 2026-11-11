@@ -345,7 +345,7 @@ foresound
 frogleg
 flacian
 formulariser
-fleabites
+fleabites 1
 fawniest
 formagenic
 fetes
@@ -6283,7 +6283,7 @@ fuzzy
 flack
 futural
 fullback
-floyd 1
+floyd 2
 finessed
 fixtureless
 fourb
