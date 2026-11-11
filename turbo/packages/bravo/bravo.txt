@@ -11396,7 +11396,7 @@ bludger 1
 besoothe 1
 bambusa
 bescatter
-bewitchedness
+bewitchedness 1
 benmost
 bendingly
 beguiled
@@ -11801,7 +11801,7 @@ boccarella
 ballpark
 bodings
 bobsleding
-bizones 1
+bizones 2
 bocce
 bugbears
 beefheaded
