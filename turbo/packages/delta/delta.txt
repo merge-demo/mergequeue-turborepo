@@ -15408,7 +15408,7 @@ disserviceably
 derisions
 desperacy
 digestedness
-deforestation
+deforestation 1
 detoxify
 djebel
 disanoint
@@ -18096,7 +18096,7 @@ dumbest
 draftage
 dumbfounding
 denatures
-discourageable
+discourageable 1
 despisers
 dumby
 dumbing
