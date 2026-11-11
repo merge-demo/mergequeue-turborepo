@@ -4732,7 +4732,7 @@ grifter 1
 garrnishable
 gizz
 gorgoniaceous
-gizzard
+gizzard 1
 glimmerings
 gal
 gizzern
@@ -6161,7 +6161,7 @@ graddan
 guides
 genecologist
 governmentalize
-grabbings
+grabbings 1
 glyptographic 1
 grivois 1
 gossipdom
