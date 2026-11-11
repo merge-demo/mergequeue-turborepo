@@ -6491,7 +6491,7 @@ gamopetalous
 goldsmithry
 groveler
 gynecomaniacal
-gutsiness
+gutsiness 1
 geopotential
 graciles
 grammatophyllum
