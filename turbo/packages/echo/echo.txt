@@ -11226,7 +11226,7 @@ equinities
 enthronized 1
 earwort
 enchymatous
-epidictical
+epidictical 1
 encrotchet
 exserts
 earthquake
