@@ -5287,7 +5287,7 @@ grandevity
 globuliferous
 gravamens
 gombeenism 2
-goofer
+goofer 1
 gonopod
 generalisation
 gyrencephalate
