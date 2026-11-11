@@ -1115,7 +1115,7 @@ barbasco 1
 bayonets
 benefactors
 bifacial 1
-blksize
+blksize 1
 babongo
 bairagi
 bismarckianism
@@ -2717,7 +2717,7 @@ birdland
 boraxes
 beakhead
 burnouses
-bewaitered
+bewaitered 1
 barnard
 benightment
 barnbrack
@@ -4520,7 +4520,7 @@ bonnering 1
 becry
 becrime
 buckthorn 1
-blockaded
+blockaded 1
 bunemost
 brise
 buckrams
@@ -6087,7 +6087,7 @@ bemuddlement
 bemuddles
 bemuddling
 bemurmur
-bondwoman
+bondwoman 1
 butyral
 botaniser
 bemurmure
@@ -10252,7 +10252,7 @@ beseechers
 bugloss
 blackgum 1
 beachcombing
-brevicomis
+brevicomis 1
 blackgums
 brachia
 blateroon
@@ -16481,7 +16481,7 @@ bises 1
 bullhorn
 bellwood
 bronchopathy
-borneo
+borneo 1
 byrling
 brashier
 brushwood
@@ -18190,7 +18190,7 @@ butlerlike
 butlers
 butlership
 bichy 1
-braggadocianism
+braggadocianism 1
 besprinkler
 buttonlike 1
 butolism
