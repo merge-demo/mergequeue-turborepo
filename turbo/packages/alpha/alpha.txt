@@ -1630,7 +1630,7 @@ achate 1
 artificialize
 accriminate
 airier
-arthuriana
+arthuriana 1
 admiralship
 anonang
 abnet
@@ -5841,7 +5841,7 @@ archfelon
 aponeurosis
 ankylosaur
 agendum
-amovability
+amovability 1
 agene
 anticonscription
 aerogram
@@ -13067,7 +13067,7 @@ anhydride 1
 anthozoic
 antidecalogue
 axseed
-aischrolatreia
+aischrolatreia 1
 aphaniptera
 altilik 1
 acetylation
