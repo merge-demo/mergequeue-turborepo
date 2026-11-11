@@ -13494,7 +13494,7 @@ crozed
 castigative
 ciliotomy
 cilium
-chloroformize
+chloroformize 1
 coxcombhood
 cyllenius
 conundrum
