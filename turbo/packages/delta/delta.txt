@@ -11952,7 +11952,7 @@ dictionaries
 diducing
 disemboweling
 delundung
-disaffirm
+disaffirm 1
 disembowelments 1
 dermatalgia
 drawhead
