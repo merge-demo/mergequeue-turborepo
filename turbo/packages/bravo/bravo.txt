@@ -5162,7 +5162,7 @@ biotas
 batta
 befuddles
 bogbean
-beguile
+beguile 1
 bankers
 batoid
 bromhidrosis
@@ -5629,7 +5629,7 @@ basinasal
 boulanger
 bela
 beluchi
-burgonets
+burgonets 1
 bruscus
 belash 1
 bitesheep
