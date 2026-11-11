@@ -5397,7 +5397,7 @@ grotesques
 grandmas
 girsle
 gonfanon 1
-gallah
+gallah 1
 gluing
 gladful
 goethite
@@ -8701,7 +8701,7 @@ gismo
 groundenell
 grubby 1
 glucosuric
-garrets 1
+garrets 2
 games
 glom 1
 galeus 1
