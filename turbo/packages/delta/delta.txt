@@ -468,7 +468,7 @@ decopperize
 desocialization
 dalapons
 dermititis 1
-dairying
+dairying 1
 dilleniaceous
 dale
 deutochloride 1
