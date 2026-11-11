@@ -14038,7 +14038,7 @@ circe
 circean
 circensian
 circinate
-coxcombs
+coxcombs 1
 chirinola
 circiter
 counterapproach
