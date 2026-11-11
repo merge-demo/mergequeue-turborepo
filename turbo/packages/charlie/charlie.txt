@@ -20664,7 +20664,7 @@ cryptographist
 complaint
 capibara
 counteranswer
-complaintiveness
+complaintiveness 1
 complaints
 cabinetmake
 complaisant
