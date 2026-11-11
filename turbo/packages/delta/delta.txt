@@ -2433,7 +2433,7 @@ dunghill
 duality
 destrudo
 decipium 1
-diplodocus
+diplodocus 1
 dipyre
 decision
 defeatists
@@ -8111,7 +8111,7 @@ du
 diabolization
 depilates
 disambiguate
-decongestants
+decongestants 1
 disventure 1
 deepener
 diacaustic
