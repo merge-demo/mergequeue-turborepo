@@ -9514,7 +9514,7 @@ digitinerved
 depravement
 digitisation
 disemboweled
-disinfestation
+disinfestation 1
 digitising
 desulphurise
 digitizes
