@@ -7098,7 +7098,7 @@ akinesic
 antisensitizing
 avicenniaceae
 arctation
-akinete
+akinete 1
 azotes
 anukabiet
 annerodite
@@ -14580,7 +14580,7 @@ anthroposophy
 anthropoteleoclogy
 abjudging
 anthropotheist
-androcephalum
+androcephalum 1
 answering
 anilinctus
 avania
