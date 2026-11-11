@@ -4284,7 +4284,7 @@ greing 1
 griping
 gouging 1
 gurgulio
-graphy
+graphy 1
 gingersnaps
 gingerspice
 greenable
@@ -8539,7 +8539,7 @@ garrotter
 glutton
 gravida
 gynecomasty 1
-garcons
+garcons 1
 grosgrain
 ganoidal
 gitana
