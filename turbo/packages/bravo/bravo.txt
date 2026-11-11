@@ -7126,7 +7126,7 @@ baxter
 bespeckle
 bethylid 1
 bespeckled
-benzoyls
+benzoyls 1
 blindman
 beefless
 beaugregories 1
