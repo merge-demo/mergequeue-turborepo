@@ -15266,7 +15266,7 @@ checkrow
 clamoursome
 clamped
 cholestanol
-clamps
+clamps 1
 coolibah
 corrector
 crissa
