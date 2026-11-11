@@ -3318,7 +3318,7 @@ coughweed
 capocchia
 capoche
 chrysomelidae
-cogware
+cogware 1
 chelates
 caponata
 chloroacetic
@@ -8617,7 +8617,7 @@ contemptuous
 cestus
 chansonette
 commissionaire
-chansonnette
+chansonnette 1
 cedarwood
 chansonniers
 chantey 1
