@@ -12717,7 +12717,7 @@ alambique
 amb
 atonalism
 atherogenesis
-angelicalness
+angelicalness 1
 angelicic
 amphibians 1
 ananaples

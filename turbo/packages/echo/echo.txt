@@ -880,7 +880,7 @@ elle
 ectoplastic
 elusiveness
 enucleation 1
-endore
+endore 1
 evilspeaker
 encourager
 ectoproctous
