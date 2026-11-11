@@ -8420,7 +8420,7 @@ gallstones
 gentisic
 goldbricks 1
 glaciarium
-goonch
+goonch 1
 glossograph
 grenatite
 guaguanche

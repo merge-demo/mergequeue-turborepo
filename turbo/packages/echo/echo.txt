@@ -7751,7 +7751,7 @@ epidymides
 extrafine
 eosine
 eremitical
-extractiform
+extractiform 1
 encephalogram
 equispatial
 exotisms 1
@@ -11291,7 +11291,7 @@ englander
 enrank 2
 entirety 1
 exalbuminous
-evaporimeter 1
+evaporimeter 2
 electrocute
 ecdysons
 epupillate
