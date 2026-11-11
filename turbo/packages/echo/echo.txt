@@ -7787,7 +7787,7 @@ embiotocidae
 epigastrocele
 epigee
 escapism
-endaze
+endaze 1
 excyst 1
 electromagnetize
 extrudable
