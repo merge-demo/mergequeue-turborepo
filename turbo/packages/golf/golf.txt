@@ -4284,7 +4284,7 @@ greing 1
 griping
 gouging 1
 gurgulio
-graphy
+graphy 1
 gingersnaps
 gingerspice
 greenable
