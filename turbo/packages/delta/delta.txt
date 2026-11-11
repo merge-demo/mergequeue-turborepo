@@ -3650,7 +3650,7 @@ dehydrate
 dermoneural
 dehydrator
 dehydrating
-diploidies
+diploidies 1
 depiedmontize
 dictic
 dikamalli
@@ -12149,7 +12149,7 @@ depressible
 dejections
 disfigure
 draughter
-defencelessness
+defencelessness 1
 definitude 1
 disfigurer
 drona
