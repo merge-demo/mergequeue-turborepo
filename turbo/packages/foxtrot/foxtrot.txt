@@ -296,7 +296,7 @@ fasciolariidae
 fiddlesticks 1
 flinty
 faeryland
-fleabitten
+fleabitten 1
 fertilization
 forehall
 festively
@@ -1785,7 +1785,7 @@ farfet
 farsalah 1
 forlorn
 foundery
-frivolously
+frivolously 1
 fetid
 fackings 1
 fosslfying
