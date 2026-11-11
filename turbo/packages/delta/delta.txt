@@ -4642,7 +4642,7 @@ daybreak
 datiscaceous
 demivirgin
 demivol
-disbend
+disbend 1
 deutencephalic
 dendrolene
 datatypes
