@@ -11721,7 +11721,7 @@ arrage
 assuror
 anaemotropy
 adrad
-anaeretic
+anaeretic 1
 ambulacrum
 acerbity
 astrometeorologist
@@ -16197,7 +16197,7 @@ agriculturally
 antisterility
 ardelio
 araceous
-amygdophenin 1
+amygdophenin 2
 antistock
 acetylator
 antistreptococcin
@@ -22441,7 +22441,7 @@ apprend
 asterina 1
 amphiscians
 agric 1
-animalising
+animalising 1
 astrometric
 astronaut
 apollinian 1
