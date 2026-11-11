@@ -11721,7 +11721,7 @@ arrage
 assuror
 anaemotropy
 adrad
-anaeretic
+anaeretic 1
 ambulacrum
 acerbity
 astrometeorologist

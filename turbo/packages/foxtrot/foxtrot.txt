@@ -4476,7 +4476,7 @@ fountainwise
 frangulin
 fluctuant
 ferrotitanium 1
-faddy
+faddy 1
 flatting 1
 forlane
 fertilizers
