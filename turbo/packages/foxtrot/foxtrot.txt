@@ -3973,7 +3973,7 @@ fictionally
 fibres 2
 fizzes
 fraulein 2
-foreread
+foreread 1
 friarling
 fairydom
 felicitation
