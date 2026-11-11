@@ -6385,7 +6385,7 @@ calcareosiliceous
 coulterneb
 copsing
 compurgatorial
-collocationable
+collocationable 1
 cautioner
 cautioners
 caff
@@ -8302,7 +8302,7 @@ cricetid
 cenozoology
 challies 1
 challiho
-conditionally
+conditionally 1
 challihos
 chatino
 cessionaries

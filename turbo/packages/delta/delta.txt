@@ -5369,7 +5369,7 @@ deditician
 deodorization
 darsonvalism
 displumes
-deodorize
+deodorize 1
 duplexes
 deodorized
 disquiparation
@@ -17791,7 +17791,7 @@ ducked
 discussionis
 disarrange
 domicilii 1
-dallying
+dallying 1
 duckery
 duckers 2
 duces
