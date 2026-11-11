@@ -3602,7 +3602,7 @@ gastroenterological
 gluconeogenic 1
 goldest
 gauntleted
-gillnetting 2
+gillnetting 3
 ghostdom
 gardenin
 gipsylike 1
