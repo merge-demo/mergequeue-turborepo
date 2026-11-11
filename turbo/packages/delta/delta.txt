@@ -8560,7 +8560,7 @@ denegation 1
 diaphonies
 disputably
 dasht
-diaphoreses
+diaphoreses 1
 diaphoretical
 disarranging
 devoutlessness 1
