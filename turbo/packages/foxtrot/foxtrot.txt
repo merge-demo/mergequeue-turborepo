@@ -2987,7 +2987,7 @@ forbs
 furiousness
 forma 3
 fiars 1
-fiascos
+fiascos 1
 ferricyanogen
 ferrotype
 fulgurantly
