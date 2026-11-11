@@ -3602,7 +3602,7 @@ gastroenterological
 gluconeogenic 1
 goldest
 gauntleted
-gillnetting 2
+gillnetting 3
 ghostdom
 gardenin
 gipsylike 1
@@ -4873,7 +4873,7 @@ gangway 1
 guvacoline
 galeorhinidae 1
 gidyea 1
-giantize
+giantize 1
 gallimatia
 ghosting
 gradational

@@ -458,7 +458,7 @@ dakerhen
 designing
 desition
 disappointing
-dakhini
+dakhini 1
 durgah
 dendrons
 dakoity
@@ -4234,7 +4234,7 @@ dichotomous 1
 digallate
 doc
 designatory 1
-delustering
+delustering 1
 delved
 dermatopathology
 demimillionaire 1
