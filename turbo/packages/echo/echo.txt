@@ -2816,7 +2816,7 @@ ecodeme
 eleomargaric
 epipolic
 entoptical 1
-equivalencing
+equivalencing 1
 externalness 1
 eater
 epiclesis
@@ -5054,7 +5054,7 @@ eyelid
 endoaortitis
 embryophyte
 entoolitic
-economization 1
+economization 2
 emerited
 endoauscultation
 effervescently 1
