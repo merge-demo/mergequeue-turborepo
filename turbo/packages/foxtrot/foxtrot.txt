@@ -135,7 +135,7 @@ fifthly
 fellaheen
 fulgurate
 facks
-forefront
+forefront 1
 fumitories 2
 frowzier
 favus
@@ -898,7 +898,7 @@ forcepses
 fulmars
 fingerlet
 foundationlessness
-forestlike
+forestlike 1
 fatheads 1
 featural
 flatheads 2
