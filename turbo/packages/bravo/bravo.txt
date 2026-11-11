@@ -9869,7 +9869,7 @@ bongo
 bawd
 burgherhood
 biteche
-barbicans 2
+barbicans 3
 bowdlerization
 barrels
 balawa
@@ -16020,7 +16020,7 @@ broncholemmitis
 bassist
 batman
 burntweed
-bambuseae
+bambuseae 1
 baillone
 bronchophony
 bayoneting
@@ -16210,7 +16210,7 @@ brachylogies
 brothering
 brotherred
 buirdly
-birth
+birth 1
 bismuthiferous
 brothers
 blowdown
