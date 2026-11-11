@@ -2870,7 +2870,7 @@ generatrices
 gileadite 2
 galvvanoscopy
 gliomas
-gumlah
+gumlah 1
 genuflex
 glyptal
 gynaeceum
