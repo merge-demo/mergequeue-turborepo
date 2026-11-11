@@ -5144,7 +5144,7 @@ anatomizing
 aetobatidae
 ancien
 antidoting
-aphoria
+aphoria 1
 anamorphism
 artiest
 almohade
@@ -10409,7 +10409,7 @@ aneled
 audio
 americanizing
 addicted
-americanly
+americanly 1
 aguroth
 alacriously
 almuds 1

@@ -4901,7 +4901,7 @@ fossilist
 finisher
 flatterer
 floreat
-faddism 1
+faddism 2
 forbearers
 fustianish
 fairgrounds
@@ -4935,7 +4935,7 @@ flamencos
 funtumia
 fevertwitch
 fraunch
-flameout
+flameout 1
 foreshortened
 farthermost 2
 foreappoint
