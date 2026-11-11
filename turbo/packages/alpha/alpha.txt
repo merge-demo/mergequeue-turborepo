@@ -21646,7 +21646,7 @@ anisomerous
 afterpotential
 assayed
 aphonous
-amorist
+amorist 1
 assayers
 aphorists
 assaying
