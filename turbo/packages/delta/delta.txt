@@ -5369,7 +5369,7 @@ deditician
 deodorization
 darsonvalism
 displumes
-deodorize
+deodorize 1
 duplexes
 deodorized
 disquiparation
@@ -15759,7 +15759,7 @@ deletive
 deterred
 dropsy
 dornick 1
-dornicks
+dornicks 1
 datival
 dornock
 desanded
