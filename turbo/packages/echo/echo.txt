@@ -902,7 +902,7 @@ encomiastic
 endosporous
 eriodictyon
 exampled
-exegesist
+exegesist 1
 epilogistic
 enteritidis
 echinoids 1
@@ -2829,7 +2829,7 @@ elan
 eleostearic
 endoubt
 enseat
-enleen 1
+enleen 2
 electroluminescent
 explicans
 evenhanded 1
