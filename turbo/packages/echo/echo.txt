@@ -10515,7 +10515,7 @@ embowel
 estop
 eucharistial 1
 eurylaimoid
-eudaemony
+eudaemony 1
 eucharistic
 earthfall 1
 ephthalite 1
