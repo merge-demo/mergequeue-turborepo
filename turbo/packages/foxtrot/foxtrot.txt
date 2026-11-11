@@ -5688,7 +5688,7 @@ flavins 1
 flirt
 fixatif
 footed
-flirtatiously
+flirtatiously 1
 flirtatiousness
 fundament
 fitroot
@@ -9255,7 +9255,7 @@ flagons
 fordull 1
 foregoers 1
 fruticeta
-funfairs
+funfairs 1
 farinaceous
 flukey
 forsado 1

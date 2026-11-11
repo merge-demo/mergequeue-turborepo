@@ -6038,7 +6038,7 @@ befooling
 brewis
 bilabials
 bribeability
-bruises 1
+bruises 2
 bitterbark
 bemean 1
 biphenyls
@@ -11732,7 +11732,7 @@ beslaved
 bolivias 1
 bobbinite
 bobbish
-bais 1
+bais 2
 basidia
 bobcats
 binmen
