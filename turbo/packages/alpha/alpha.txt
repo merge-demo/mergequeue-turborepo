@@ -5204,7 +5204,7 @@ anemographic
 affections
 affectious
 amotions
-affective
+affective 1
 advocacies
 affectivity
 anomalonomy
@@ -19870,7 +19870,7 @@ aweto
 armigeros
 armigerous 1
 aeroneurosis
-autotomized
+autotomized 1
 aimful
 aposelene
 airiest
