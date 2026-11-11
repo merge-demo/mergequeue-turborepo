@@ -20907,7 +20907,7 @@ compaginate
 compradore
 comprecation
 climaxes
-compregnate
+compregnate 1
 coart
 cosmognosis
 colonnades
@@ -27709,7 +27709,7 @@ cowpats
 compliable
 cowpen
 cowper 1
-complexively
+complexively 1
 cosmotheism
 compulse
 cowperian
