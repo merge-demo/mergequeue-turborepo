@@ -7249,7 +7249,7 @@ disturbor
 desiccative 1
 doukhobor
 devisers
-defecters
+defecters 1
 defecation
 donnie
 diverge
