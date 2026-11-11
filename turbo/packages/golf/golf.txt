@@ -2892,7 +2892,7 @@ gradualism 2
 gumpheon
 gomlah
 globulite
-glazes
+glazes 1
 grapy
 gaincope
 gomphoses
