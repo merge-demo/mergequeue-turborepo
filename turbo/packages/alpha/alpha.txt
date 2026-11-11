@@ -2529,7 +2529,7 @@ allozooid
 acomous 1
 acroasis
 albumean
-anchoretic
+anchoretic 1
 aconative
 acondylose
 amicable 1
