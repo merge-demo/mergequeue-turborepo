@@ -1386,7 +1386,7 @@ armonica
 anophthalmos
 allotriodontia 1
 afterking
-avestruz 1
+avestruz 2
 actinomycotic
 acceptilated
 aevia
@@ -1630,7 +1630,7 @@ achate 1
 artificialize
 accriminate
 airier
-arthuriana
+arthuriana 1
 admiralship
 anonang
 abnet
@@ -1956,7 +1956,7 @@ acardite
 almeries
 archigony
 adangle
-acetize
+acetize 1
 apprehendingly
 assertions
 acetla
@@ -3015,7 +3015,7 @@ amitriptyline
 auditors
 abhorrency
 appear
-appearances
+appearances 1
 actinograph
 attenuate
 aporobranchiata
@@ -3469,7 +3469,7 @@ avidins
 antinovelist
 amarillos
 additionary
-associationalism 1
+associationalism 2
 additionist
 abogado 1
 aequipalpia 1
@@ -5841,11 +5841,11 @@ archfelon
 aponeurosis
 ankylosaur
 agendum
-amovability
+amovability 1
 agene
 anticonscription
 aerogram
-ageneses
+ageneses 1
 ancestorial
 anthropomorphise
 agenesis
@@ -6626,7 +6626,7 @@ agorae
 aikane
 aldazin 1
 automatictacessing
-aikido
+aikido 1
 amatories
 anarcestean
 ably
@@ -7684,7 +7684,7 @@ aphorised
 amassed
 antepyretic
 ambigenous
-argenton
+argenton 1
 abelicea
 adaw
 alcoholize
@@ -10354,7 +10354,7 @@ ament
 adaunt
 arundineous
 allotheria
-ankylopoietic
+ankylopoietic 1
 anolympiad
 autompne 1
 atrabilarian
@@ -11257,7 +11257,7 @@ archipallium
 amphictyony
 amphictyonian
 antistrophic
-amphictyons
+amphictyons 1
 anisospore
 amphid
 amphophile
@@ -13067,7 +13067,7 @@ anhydride 1
 anthozoic
 antidecalogue
 axseed
-aischrolatreia
+aischrolatreia 1
 aphaniptera
 altilik 1
 acetylation
