@@ -16633,7 +16633,7 @@ asyndeta
 atelectatic
 alternipinnate
 assizement
-araby
+araby 1
 apertness
 acetomorphine
 abnormalism
@@ -17621,7 +17621,7 @@ antiphonical
 abdominales
 ascended
 almandite
-apperceptionism
+apperceptionism 1
 anoura
 alkalizate
 afforced
