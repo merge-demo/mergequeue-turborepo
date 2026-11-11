@@ -1747,7 +1747,7 @@ elkhound
 endoneurial
 epilogue
 eyen
-etacism
+etacism 1
 eulogisation
 extendedly
 encryption 1
@@ -6129,7 +6129,7 @@ episkotister
 estuary
 enforced 2
 epiphanise 1
-enlodgement
+enlodgement 1
 enlumine 1
 entheos
 ergoplasm

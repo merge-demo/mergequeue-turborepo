@@ -15432,7 +15432,7 @@ dishwares
 demibarrel 1
 dionym
 damoisel
-dines
+dines 1
 dominick
 dominies 1
 dominion
@@ -15524,7 +15524,7 @@ drams
 decrew
 doni
 diopsides
-deliquesced 1
+deliquesced 2
 disaffection
 disintegrationist
 duckies
