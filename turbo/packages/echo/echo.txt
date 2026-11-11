@@ -14188,7 +14188,7 @@ ewound
 extracapsular 1
 experrection
 enqueues
-eupanorthus
+eupanorthus 1
 exfetation
 enterococci 1
 ectosome
