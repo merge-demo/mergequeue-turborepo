@@ -866,7 +866,7 @@ endophyte 1
 entailed
 ectomorph
 exemptionist
-euxanthic 1
+euxanthic 2
 ectoparasitica 1
 exhumating
 expediencies
@@ -8021,7 +8021,7 @@ emigating 1
 epipanies
 expectorations
 endovasculitis
-equuleus
+equuleus 1
 electrodentistry
 epibasal
 ergs
