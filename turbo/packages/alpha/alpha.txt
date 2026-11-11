@@ -4957,7 +4957,7 @@ aerobranchiate
 astrobiologist
 autophone
 abluted
-agenizes
+agenizes 1
 aeronat
 aeronaut
 alkalizing
@@ -5293,7 +5293,7 @@ astrid
 amortization
 affixed 1
 apophantic
-andantinos
+andantinos 1
 androsin
 affixers
 affixes

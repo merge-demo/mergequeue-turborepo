@@ -15411,7 +15411,7 @@ brigatry 1
 brigetty
 beliquoring
 buglewort
-bekick
+bekick 1
 burgensic
 bloodbath
 brevete
