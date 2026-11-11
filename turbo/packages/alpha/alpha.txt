@@ -10496,7 +10496,7 @@ aspalax
 auxosubstance 1
 archeion
 apperceptionist 1
-aegle
+aegle 1
 aphanisia
 antireactive
 achimenes

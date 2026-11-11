@@ -1615,7 +1615,7 @@ grimines
 glibness 1
 geratologous 1
 gaskin
-grists
+grists 1
 grants 1
 galimatias
 gamobium
@@ -2870,7 +2870,7 @@ generatrices
 gileadite 2
 galvvanoscopy
 gliomas
-gumlah
+gumlah 1
 genuflex
 glyptal
 gynaeceum
