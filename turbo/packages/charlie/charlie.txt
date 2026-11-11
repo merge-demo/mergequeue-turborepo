@@ -2347,7 +2347,7 @@ canallers
 canals
 cylindrocellular
 cumin
-calinda 1
+calinda 2
 ccw 2
 canamo
 cameriera
@@ -3227,7 +3227,7 @@ cohosted
 cumly
 capital
 channeler
-chevronny 1
+chevronny 2
 capitaldom
 capitalisable
 capitalised
