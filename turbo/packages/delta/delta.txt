@@ -69,7 +69,7 @@ dacoiting
 depressibility
 debilitating
 dactylion
-dobbin
+dobbin 1
 direcly
 deescalating 1
 dumb 1
