@@ -12788,7 +12788,7 @@ exordium
 engold 2
 exotism
 earlike 1
-elsewise 1
+elsewise 2
 exortion
 endodontia
 exosmose
