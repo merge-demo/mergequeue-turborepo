@@ -1183,7 +1183,7 @@ forcer
 filicineae
 fraying 1
 frighteningness
-finecomb
+finecomb 1
 friponerie
 focalize
 flauntiest
@@ -7118,7 +7118,7 @@ fredaine
 foosterer
 footfarer 1
 falsework
-footfault 1
+footfault 2
 fricassees
 flimflammery
 footfolk

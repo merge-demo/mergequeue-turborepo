@@ -15266,7 +15266,7 @@ checkrow
 clamoursome
 clamped
 cholestanol
-clamps
+clamps 1
 coolibah
 corrector
 crissa
@@ -19887,7 +19887,7 @@ copulated
 comicotragic
 charadriiform
 comicotragical
-comicry 1
+comicry 2
 credibility 1
 costumier
 comics
