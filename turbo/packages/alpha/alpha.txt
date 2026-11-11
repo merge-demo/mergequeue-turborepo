@@ -5293,7 +5293,7 @@ astrid
 amortization
 affixed 1
 apophantic
-andantinos
+andantinos 1
 androsin
 affixers
 affixes
@@ -10029,7 +10029,7 @@ aye
 antisepticise
 adirondack
 albinuria 1
-amberoid
+amberoid 1
 ambers
 arthropodous
 acinotubular

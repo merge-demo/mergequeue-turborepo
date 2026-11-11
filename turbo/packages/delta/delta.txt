@@ -15428,7 +15428,7 @@ decalomania
 demurer 1
 dayblush
 denis
-dishwares
+dishwares 1
 demibarrel 1
 dionym
 damoisel
