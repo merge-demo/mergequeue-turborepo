@@ -17234,7 +17234,7 @@ akhrot
 anticrepuscule
 admonitively
 aseismicity
-animalculine
+animalculine 1
 anticipators
 apophyllite
 appreciant
