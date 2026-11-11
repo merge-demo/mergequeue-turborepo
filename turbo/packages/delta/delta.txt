@@ -4015,7 +4015,7 @@ delict 1
 deaquation
 deliquescence
 divertila
-delictual
+delictual 1
 drearisome
 disobeyed
 delieret
@@ -12702,7 +12702,7 @@ diskophile
 disperiwig
 diacromyodian
 desecrater 2
-disliked
+disliked 1
 dewdrop
 disliken
 duma
