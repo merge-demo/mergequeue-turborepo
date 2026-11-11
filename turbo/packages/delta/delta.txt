@@ -5328,7 +5328,7 @@ duodecimality
 dazzled
 denuclearized
 disputatively 1
-desegregating
+desegregating 1
 deyhouse
 decoction
 delicatesse
