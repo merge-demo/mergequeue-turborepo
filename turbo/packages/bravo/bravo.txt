@@ -2793,7 +2793,7 @@ baroneting 1
 byously
 baronetize
 ballistocardiographic
-bufo
+bufo 1
 benzeneazobenzene
 bagwomen
 bezetta
@@ -4678,7 +4678,7 @@ bedemen
 bens
 buxus
 bedevilling
-barbershops 1
+barbershops 2
 borities
 bargee
 bedevilment
