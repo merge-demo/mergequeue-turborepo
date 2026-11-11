@@ -5684,7 +5684,7 @@ catathymic
 catatony
 catatonic
 coeloglossum
-countersignal
+countersignal 1
 catawampous
 catawamptiously
 cenogenetically
@@ -5981,7 +5981,7 @@ cathograph
 celia
 cathography
 cathole 1
-critics
+critics 1
 centraliser 1
 collatress
 contratempo
@@ -6190,7 +6190,7 @@ chateus
 caudated
 chibcha
 chew
-caudation
+caudation 1
 calycophorae 1
 caudatory
 clergies
@@ -15685,7 +15685,7 @@ clima
 chrysograph 1
 claviger
 carshops
-coy 1
+coy 2
 compunctive
 carlisle
 clavipectoral
