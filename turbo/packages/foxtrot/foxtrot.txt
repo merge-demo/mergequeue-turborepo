@@ -2840,7 +2840,7 @@ frowstiness
 foozle
 flouter
 flatlets
-forestair 1
+forestair 2
 fibrillose 1
 fortuity
 faeries
@@ -9350,7 +9350,7 @@ fishified
 franklins
 flector
 fraughted
-frenchmen
+frenchmen 1
 faffy
 footgears
 flarfishes

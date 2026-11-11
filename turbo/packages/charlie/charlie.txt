@@ -25417,7 +25417,7 @@ corniform
 chaft 1
 cornigerous
 conies
-cornin
+cornin 1
 consignable
 corning 1
 cornishman
@@ -25919,7 +25919,7 @@ cortication
 cortices
 corticiferous
 cordula
-corticifugally 1
+corticifugally 2
 catchier
 corticine
 corticipetal
@@ -27479,7 +27479,7 @@ conquedle
 columbella
 carnaubic
 covarecas
-covary
+covary 1
 chelicerae
 curtailer
 covariable
