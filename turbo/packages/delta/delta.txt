@@ -8705,7 +8705,7 @@ diathermy
 demonstrate
 decorousness
 demoting
-diathermies 1
+diathermies 2
 dendrophil
 diathesis
 dirl
