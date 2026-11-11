@@ -10888,7 +10888,7 @@ disable
 delusions
 denazify
 disabled 1
-doorplates
+doorplates 1
 defrayer
 deterges
 divulgement
