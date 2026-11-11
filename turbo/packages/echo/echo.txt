@@ -7582,7 +7582,7 @@ experiments
 esogastritis 1
 excurvate
 euglena
-eikonology
+eikonology 1
 enamelware
 enfeoffs
 essling
