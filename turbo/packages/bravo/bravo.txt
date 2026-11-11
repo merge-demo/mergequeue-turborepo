@@ -12404,7 +12404,7 @@ bombonne
 bombora
 bowlmaker 1
 beswarmed
-bombus
+bombus 1
 bombardelle
 bon
 backrope
