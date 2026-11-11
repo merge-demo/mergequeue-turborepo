@@ -2939,7 +2939,7 @@ fouquieriaceae
 fers
 foliar
 fiberize 1
-fewest
+fewest 1
 fluke
 fissiparity 1
 fading 2
