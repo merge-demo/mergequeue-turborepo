@@ -15812,7 +15812,7 @@ dicyemid
 dentosurgical
 disprobabilize 1
 dorsicornu
-dorsiflex
+dorsiflex 1
 does
 dorsiflexion
 deuteron
