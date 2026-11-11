@@ -5244,7 +5244,7 @@ dialkylamine
 dandilly
 distitle
 dhaman
-dissight
+dissight 1
 defiant 1
 donis 1
 dolor 1
@@ -17213,7 +17213,7 @@ diastrophism 1
 direst
 deermeat
 decumbence
-disorganic
+disorganic 1
 demitasse
 driveled
 directorially

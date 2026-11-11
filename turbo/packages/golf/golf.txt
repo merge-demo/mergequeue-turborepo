@@ -8905,7 +8905,7 @@ gasteropod 1
 gnaw 1
 grisset 1
 glycosidic 2
-geranomorphic
+geranomorphic 1
 gothicize
 gringole
 gyrally
