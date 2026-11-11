@@ -8021,7 +8021,7 @@ emigating 1
 epipanies
 expectorations
 endovasculitis
-equuleus
+equuleus 1
 electrodentistry
 epibasal
 ergs
@@ -10503,7 +10503,7 @@ euboean 1
 eubteria
 endarterial 2
 engelmann
-embezzlers
+embezzlers 1
 endaortic
 epistoma 2
 evulge
@@ -12188,7 +12188,7 @@ excogitation
 enflame
 entrechats
 emanated 3
-embrighten
+embrighten 1
 emerized
 excelse
 execratively
