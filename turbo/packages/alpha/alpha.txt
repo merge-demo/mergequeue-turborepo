@@ -1334,7 +1334,7 @@ aiolis 1
 agnized
 accelerate
 anilide
-arabize
+arabize 1
 acceleratedly
 assidean
 amphimixes
