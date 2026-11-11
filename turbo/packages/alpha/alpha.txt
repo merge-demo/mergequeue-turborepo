@@ -3015,7 +3015,7 @@ amitriptyline
 auditors
 abhorrency
 appear
-appearances
+appearances 1
 actinograph
 attenuate
 aporobranchiata
@@ -11257,7 +11257,7 @@ archipallium
 amphictyony
 amphictyonian
 antistrophic
-amphictyons
+amphictyons 1
 anisospore
 amphid
 amphophile
