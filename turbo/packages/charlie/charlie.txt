@@ -10198,7 +10198,7 @@ cheesecakes
 chiasma
 cotesian
 chloasmata
-camacan
+camacan 1
 chiasmas 1
 chiasmata
 cavesson
@@ -25774,7 +25774,7 @@ conciliating
 cataleptize 1
 corroborative
 corroboratively
-corroborator
+corroborator 1
 chrism
 cathedratically
 corroboratory
