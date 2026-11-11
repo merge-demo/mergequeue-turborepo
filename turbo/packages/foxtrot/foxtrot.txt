@@ -5633,7 +5633,7 @@ fluidising 1
 fireable 1
 flimsiness
 flinch
-flagleaf
+flagleaf 1
 fishnets
 finedraw 1
 fumet
@@ -7216,7 +7216,7 @@ fungate
 fissuration
 fledglings
 fratricidal
-foeffment 1
+foeffment 2
 flares
 forecasts
 formiate 1
