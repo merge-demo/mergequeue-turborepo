@@ -12074,7 +12074,7 @@ endemisms
 excreta
 escheator
 endued
-engulfs
+engulfs 1
 edentates
 enantiomorphism 1
 expressor
