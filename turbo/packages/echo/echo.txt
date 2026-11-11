@@ -177,7 +177,7 @@ electrolier
 equipoising
 examiner
 estrogenic 1
-emeras 1
+emeras 2
 earthquaken
 ethylthioether 1
 evicting 1
@@ -841,7 +841,7 @@ electrolyser
 excrementous
 enchair
 elong
-ethology
+ethology 1
 ectodermosis
 ennuyante 1
 erastianize
@@ -5966,7 +5966,7 @@ enigmatographer
 emotionality
 enisled
 enisles
-echinoderidae
+echinoderidae 1
 extirpations
 effulges
 expeditated
@@ -7277,7 +7277,7 @@ exoascaceae
 ejicient
 enclitics
 exlex
-elechi
+elechi 1
 engird
 excheat 1
 encharnel
@@ -8507,7 +8507,7 @@ etherialized 1
 ethnologer 1
 erectility
 equal
-eosinlike 1
+eosinlike 2
 eyas
 equalises
 erectness
@@ -8868,7 +8868,7 @@ erethisia
 excursively
 euthytropic
 embossers
-eelworms
+eelworms 1
 enteron
 erewhile
 erewhiles
@@ -10278,7 +10278,7 @@ existents
 exomorphic
 extension 1
 ethmofrontal
-eyebridled
+eyebridled 1
 esquamate
 expeller
 empemata
@@ -10827,7 +10827,7 @@ earache
 educes 1
 embassiate
 eligibilities 1
-endostomata
+endostomata 1
 envineyard 1
 elaeoblastic 1
 enchase
@@ -12265,7 +12265,7 @@ ensignry
 evilwishing
 entrochus
 efflorescency
-enteromegaly
+enteromegaly 1
 els
 elegises
 everduring
@@ -12426,7 +12426,7 @@ encomiums
 epistyle
 erythrocytometry
 experient
-eyer
+eyer 1
 elocutioner
 ergometer
 effude 1
