@@ -5343,7 +5343,7 @@ fructuously
 finiking 1
 flouncier
 fuzzines 1
-fleams
+fleams 1
 fittier
 flossflower
 futuristic 1
@@ -10962,7 +10962,7 @@ furfuran
 fusoid
 foreseing
 fooled
-fulzie
+fulzie 1
 favositidae
 flagellar
 fourball 1
