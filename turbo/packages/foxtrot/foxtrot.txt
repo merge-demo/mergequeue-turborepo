@@ -7118,7 +7118,7 @@ fredaine
 foosterer
 footfarer 1
 falsework
-footfault 1
+footfault 2
 fricassees
 flimflammery
 footfolk
@@ -9560,7 +9560,7 @@ fortifications
 fivestones
 fungo
 ferrotyper
-forhooy
+forhooy 1
 fothering
 flanger
 flagellant 1
