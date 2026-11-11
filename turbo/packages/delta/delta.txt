@@ -1470,7 +1470,7 @@ dazzle
 dawnstreak
 discriminative 1
 diffusor
-dasypaedal
+dasypaedal 1
 discolorated
 dazzler
 disillusions
@@ -5328,7 +5328,7 @@ duodecimality
 dazzled
 denuclearized
 disputatively 1
-desegregating
+desegregating 1
 deyhouse
 decoction
 delicatesse
