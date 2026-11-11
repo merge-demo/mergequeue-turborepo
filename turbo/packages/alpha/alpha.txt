@@ -19927,7 +19927,7 @@ armorials
 arkansawyer
 armorican
 adenofibrosis
-anagnorisis
+anagnorisis 1
 apperceived
 animalculism
 apozymase 1
@@ -23807,7 +23807,7 @@ austrogaea
 ampules
 atheriogaea
 accouplement 1
-azteca
+azteca 1
 aphonic
 aphorising 1
 anthozoan
