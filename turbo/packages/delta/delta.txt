@@ -5596,7 +5596,7 @@ discos
 decerniture
 delineation
 depilitant 1
-deplace 1
+deplace 2
 dermatine
 damayanti
 dipl
@@ -6148,7 +6148,7 @@ dawks
 deriver
 devotees
 disvaluation
-discontentment
+discontentment 1
 dawed
 derma 1
 depleted
@@ -13904,7 +13904,7 @@ declaimant
 disrobed
 dustily
 disthroned 1
-doltish
+doltish 1
 disty
 dotardy
 druthers

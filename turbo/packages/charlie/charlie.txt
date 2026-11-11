@@ -1480,7 +1480,7 @@ columbaceous
 calyx
 coecal
 continents
-calkers
+calkers 1
 chowse
 calkin
 calkins
@@ -8919,7 +8919,7 @@ combmaker
 charge
 chargeable
 collective
-clements
+clements 1
 chargeably
 chargeant
 charged
