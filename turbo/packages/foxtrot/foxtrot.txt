@@ -3160,7 +3160,7 @@ freelanced
 fibrovascular
 frigostable 1
 federalese
-feazings
+feazings 1
 flagrantness
 friezes
 fibulae
