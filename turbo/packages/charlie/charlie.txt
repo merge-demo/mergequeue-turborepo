@@ -786,7 +786,7 @@ cahier
 corniche
 chunking
 capstan
-cristae
+cristae 1
 completories
 cahincic
 cahita
@@ -13330,7 +13330,7 @@ charadriidae
 coraciidae
 croshabell
 cyclostomatous
-cunoniaceous
+cunoniaceous 1
 concurrency
 cyclostomes
 cyclostomi
