@@ -2703,7 +2703,7 @@ fiefs 1
 farcicalness
 fimbriated
 fusain
-frigged
+frigged 1
 fleuronne 1
 filmish
 fetation 1
