@@ -2556,7 +2556,7 @@ grubbies
 gladsomely 1
 gain
 guilder
-gynecium
+gynecium 1
 gurle
 gomeisa
 gonochorism 1
