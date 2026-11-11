@@ -3342,7 +3342,7 @@ clearcole
 chrystocrene
 caponising 1
 camaldolensian
-commissariat
+commissariat 1
 coderives 1
 caponize
 crispate
