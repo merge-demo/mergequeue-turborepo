@@ -6147,7 +6147,7 @@ entracte
 embattles
 ethicizes 2
 emusified
-ethnomusicological
+ethnomusicological 1
 elans
 evolvent 1
 enneagonal
@@ -7582,7 +7582,7 @@ experiments
 esogastritis 1
 excurvate
 euglena
-eikonology
+eikonology 1
 enamelware
 enfeoffs
 essling

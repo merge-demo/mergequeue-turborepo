@@ -13378,7 +13378,7 @@ bunder
 bothnian
 bajulate
 bothnic
-batteled 1
+batteled 2
 bawn
 bulletproofs
 bimillenniums
@@ -14199,7 +14199,7 @@ badaud
 bobbiner
 baronesses
 brinier
-bracky
+bracky 1
 baculi
 bracking 1
 brockle 1
