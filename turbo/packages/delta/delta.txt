@@ -2099,7 +2099,7 @@ decancellate
 dominator 1
 decancellated
 disciplinarian
-debaser
+debaser 1
 decipher
 decandria
 didst

@@ -12463,7 +12463,7 @@ andromaque 1
 arborizes
 actuary
 andromed
-assapanick
+assapanick 1
 andromeda
 autonomic
 andromedotoxin
@@ -16197,7 +16197,7 @@ agriculturally
 antisterility
 ardelio
 araceous
-amygdophenin 1
+amygdophenin 2
 antistock
 acetylator
 antistreptococcin
@@ -22441,7 +22441,7 @@ apprend
 asterina 1
 amphiscians
 agric 1
-animalising
+animalising 1
 astrometric
 astronaut
 apollinian 1
