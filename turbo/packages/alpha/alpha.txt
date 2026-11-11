@@ -15025,7 +15025,7 @@ autoimmune
 archworker 1
 antioptimistical 1
 alleviates
-achyrodes
+achyrodes 1
 anticrisis
 anticritic 2
 agglomerations
@@ -20616,7 +20616,7 @@ aeaean
 anesthetists
 azrael
 arthrogryposis
-arbalist
+arbalist 1
 aedegi
 alpestral
 arthromeric
