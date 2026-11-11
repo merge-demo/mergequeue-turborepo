@@ -2221,7 +2221,7 @@ fikie
 fiscus
 firebombs
 fuliguline
-freezing
+freezing 1
 flatcars
 ferrara 2
 forlornest
