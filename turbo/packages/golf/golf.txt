@@ -5529,7 +5529,7 @@ gantangs 1
 greenroom 1
 glucaemia
 gumming
-gaysome
+gaysome 1
 gripless
 geochemist 1
 geophysical 1
