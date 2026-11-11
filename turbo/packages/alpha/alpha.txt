@@ -1630,7 +1630,7 @@ achate 1
 artificialize
 accriminate
 airier
-arthuriana
+arthuriana 1
 admiralship
 anonang
 abnet
@@ -5845,7 +5845,7 @@ amovability
 agene
 anticonscription
 aerogram
-ageneses
+ageneses 1
 ancestorial
 anthropomorphise
 agenesis
@@ -7684,7 +7684,7 @@ aphorised
 amassed
 antepyretic
 ambigenous
-argenton
+argenton 1
 abelicea
 adaw
 alcoholize
