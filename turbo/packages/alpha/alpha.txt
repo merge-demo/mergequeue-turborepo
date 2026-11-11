@@ -14580,7 +14580,7 @@ anthroposophy
 anthropoteleoclogy
 abjudging
 anthropotheist
-androcephalum
+androcephalum 1
 answering
 anilinctus
 avania
@@ -17857,7 +17857,7 @@ autoalkylation
 acrotretidae 1
 abacate
 appraisive
-almique
+almique 1
 appreciated
 appreciatingly
 appreciativ
