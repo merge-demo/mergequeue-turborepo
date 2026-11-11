@@ -9633,7 +9633,7 @@ debiting
 debauching
 dipteron
 dimidiating
-drinkables
+drinkables 1
 diipenates
 diencephalons
 defiliation
@@ -16254,7 +16254,7 @@ dieciously
 downed
 dyspneal
 diprimary
-damaskeening
+damaskeening 1
 draughtswomanship
 deforest
 deteriorate
