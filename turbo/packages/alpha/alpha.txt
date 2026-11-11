@@ -1232,7 +1232,7 @@ antiproductiveness
 acarapis
 asaphic
 acarari
-acarian 2
+acarian 3
 apothece
 acarid 1
 accord
@@ -2779,7 +2779,7 @@ acrochordon
 aggregata
 ascomycete
 amyelencephalia
-acroclinium
+acroclinium 1
 acrodactyla
 anarithmia 1
 argonauta
@@ -9523,7 +9523,7 @@ animals
 acinarious
 attemperate
 antivenins
-alternatively
+alternatively 1
 alternativeness
 acaleph
 alternatives
@@ -18576,7 +18576,7 @@ amaga
 achaemenid 1
 aelodicon
 anthrone
-arales
+arales 1
 arbuscular
 arbust
 arbusta

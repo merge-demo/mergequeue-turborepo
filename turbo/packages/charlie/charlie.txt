@@ -3708,7 +3708,7 @@ chevaline
 carates 1
 candor
 crucifyfying
-craniata
+craniata 1
 changuina 1
 campanological
 coventrize
