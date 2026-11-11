@@ -12463,7 +12463,7 @@ andromaque 1
 arborizes
 actuary
 andromed
-assapanick
+assapanick 1
 andromeda
 autonomic
 andromedotoxin
@@ -16197,7 +16197,7 @@ agriculturally
 antisterility
 ardelio
 araceous
-amygdophenin 1
+amygdophenin 2
 antistock
 acetylator
 antistreptococcin
@@ -23129,7 +23129,7 @@ aflatoxin
 ashlering
 attemptive
 aurochs
-alstroemeria
+alstroemeria 1
 aneurysmal
 artaba
 amus
