@@ -15428,7 +15428,7 @@ decalomania
 demurer 1
 dayblush
 denis
-dishwares
+dishwares 1
 demibarrel 1
 dionym
 damoisel
@@ -17290,7 +17290,7 @@ delphinius
 distinguishably
 drolling
 delighter 1
-drollishness
+drollishness 1
 drolls
 drome
 dromedarian
