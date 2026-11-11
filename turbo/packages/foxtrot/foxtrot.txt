@@ -5633,7 +5633,7 @@ fluidising 1
 fireable 1
 flimsiness
 flinch
-flagleaf
+flagleaf 1
 fishnets
 finedraw 1
 fumet
