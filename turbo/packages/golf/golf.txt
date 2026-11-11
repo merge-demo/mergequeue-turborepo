@@ -3113,7 +3113,7 @@ grips
 goan 1
 golandaas
 gooseherd 1
-germinative
+germinative 1
 geopolitical 1
 gayer 1
 girlhoods
