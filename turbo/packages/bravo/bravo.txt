@@ -1434,7 +1434,7 @@ boun
 balestra 1
 batoneer
 bouffants
-bedazzled
+bedazzled 1
 bureaucratical
 bedye
 brankier
