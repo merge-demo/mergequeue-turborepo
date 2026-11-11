@@ -7869,7 +7869,7 @@ balconette 1
 bronzy 1
 bursautee
 bibble 1
-bamboozle
+bamboozle 1
 bibbler
 blooms
 boulevards
@@ -15977,7 +15977,7 @@ botswana
 babyship
 belated
 bronchiolar
-bankcards
+bankcards 1
 bituminize
 brontoscopy
 bronchioli
