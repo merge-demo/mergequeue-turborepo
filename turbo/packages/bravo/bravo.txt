@@ -3660,7 +3660,7 @@ batiks 1
 became
 bolting 1
 batistes
-beastly
+beastly 1
 batlet
 batlike
 bifanged
@@ -5469,7 +5469,7 @@ bandying
 bandura
 beheaded
 beheader
-beheira
+beheira 1
 beachward 1
 bulletmaking 1
 brothe
