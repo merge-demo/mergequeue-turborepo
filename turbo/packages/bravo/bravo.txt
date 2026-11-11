@@ -2220,7 +2220,7 @@ blimpishness 1
 bararite
 barathea
 barbellate
-bibbled
+bibbled 1
 bemaddens
 bellicosely
 barato
@@ -17497,7 +17497,7 @@ blueweeds
 backstopping
 battlefields
 bonnie
-bantling
+bantling 1
 bedip
 bystanders 1
 blockout
