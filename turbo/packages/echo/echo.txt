@@ -1747,7 +1747,7 @@ elkhound
 endoneurial
 epilogue
 eyen
-etacism
+etacism 1
 eulogisation
 extendedly
 encryption 1
