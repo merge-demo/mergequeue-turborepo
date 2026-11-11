@@ -3198,7 +3198,7 @@ floorshift
 firmisternous 1
 fougade 1
 flexibly
-fusicoccum
+fusicoccum 1
 ficklest
 flimsier 1
 ficklety
