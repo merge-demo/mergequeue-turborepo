@@ -9751,7 +9751,7 @@ enneahedron
 emarcid 1
 euhedral
 emblematicize
-ectogenesis 1
+ectogenesis 2
 enrobing
 exfoliatory
 epyllion
