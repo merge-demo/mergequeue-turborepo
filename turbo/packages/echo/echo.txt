@@ -1051,7 +1051,7 @@ edged
 eidolon
 exacted 1
 edger
-edgeshot 1
+edgeshot 2
 ermani
 edgeway
 embalmment
