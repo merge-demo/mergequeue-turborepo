@@ -7687,7 +7687,7 @@ extruder 1
 ellipticalness
 epidemically
 exalt
-escurialize
+escurialize 1
 evidentiary
 erythrine
 enfevered
@@ -13540,7 +13540,7 @@ eyalet 1
 evillest
 exscinds
 entailers 1
-epiphenomenally
+epiphenomenally 1
 elopements 1
 earthmaker 1
 exscissor 1
