@@ -10759,7 +10759,7 @@ generation 2
 gutbucket
 guarnieri
 ganoin
-gloam
+gloam 1
 graminin
 gimbals
 gallium
