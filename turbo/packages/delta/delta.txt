@@ -18617,7 +18617,7 @@ decentring 1
 decimalising
 dustups
 digitus
-debugger 1
+debugger 2
 dysgnosia
 damselhood
 desightment 1
