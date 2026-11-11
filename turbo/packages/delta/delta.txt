@@ -8383,7 +8383,7 @@ disunite
 dialyze
 deflation
 draparnaldia
-dundavoe
+dundavoe 1
 daemonelix
 dialyzes
 draftsmen
@@ -17972,7 +17972,7 @@ deplorers 1
 depauperation
 danish
 domanial
-decompensate
+decompensate 1
 dukedoms 1
 decongestive 1
 dukes 1
