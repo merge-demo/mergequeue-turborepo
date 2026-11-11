@@ -5711,7 +5711,7 @@ grimmish
 grapsoid
 gymnoplast 3
 gastroenteroptosis
-gunkholed
+gunkholed 1
 gossypose
 gonotheca
 gravemaker
@@ -7174,7 +7174,7 @@ grasshopperdom
 gipsyesque
 gaditan 1
 greenthumbed
-geotectonics
+geotectonics 1
 guidingly 1
 gynecol 1
 gape 2
