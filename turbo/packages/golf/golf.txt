@@ -4284,7 +4284,7 @@ greing 1
 griping
 gouging 1
 gurgulio
-graphy
+graphy 1
 gingersnaps
 gingerspice
 greenable
@@ -8971,7 +8971,7 @@ grantedly 1
 griffonage
 gynandry
 girned
-glacis 3
+glacis 4
 guzzlers
 glory
 grifting
