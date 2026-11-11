@@ -9835,7 +9835,7 @@ fricace 2
 fricandeaux
 fuliginously
 foozlers
-foredestine
+foredestine 1
 fulminate
 fortyfive 1
 foxily
