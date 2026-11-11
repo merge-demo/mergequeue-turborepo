@@ -5841,7 +5841,7 @@ archfelon
 aponeurosis
 ankylosaur
 agendum
-amovability
+amovability 1
 agene
 anticonscription
 aerogram
