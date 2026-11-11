@@ -13379,7 +13379,7 @@ disputisoun
 duala
 disheartens
 distributively
-daguerreotypes
+daguerreotypes 1
 disporting
 discanting 2
 diasyrm
@@ -14983,7 +14983,7 @@ dogberryism
 dubbeh
 dolomites
 dumpfile
-diathermacy
+diathermacy 1
 defogs
 dogdoms
 deprogram
