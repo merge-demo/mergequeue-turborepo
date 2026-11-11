@@ -17310,7 +17310,7 @@ cranched
 calmness
 coarsened
 circumsail
-coarseness
+coarseness 1
 canonizations
 chickory
 coarsening
