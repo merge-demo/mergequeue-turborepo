@@ -5412,7 +5412,7 @@ agenesic
 aforetimes
 adenoblast
 afortiori
-apocatastasis
+apocatastasis 1
 afray
 athrocytosis
 antisymmetrical 1
