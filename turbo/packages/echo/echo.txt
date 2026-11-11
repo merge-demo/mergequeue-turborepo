@@ -9897,7 +9897,7 @@ expellees
 electrologist 1
 estimate
 eerily
-eluders
+eluders 1
 extrinsication
 exilian
 elongative
