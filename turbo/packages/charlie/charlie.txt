@@ -27479,7 +27479,7 @@ conquedle
 columbella
 carnaubic
 covarecas
-covary
+covary 1
 chelicerae
 curtailer
 covariable
