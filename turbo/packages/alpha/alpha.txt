@@ -5639,7 +5639,7 @@ alloiometry
 acoelomatous
 axillary
 agade
-autocollimation
+autocollimation 1
 atopies
 aquicultural
 almeidina
@@ -9143,7 +9143,7 @@ advancingly
 adenalgy
 atebrin
 adnation
-axisymmetrically
+axisymmetrically 1
 apocryphalness
 anticeremonialism
 achetidae
@@ -15850,7 +15850,7 @@ amrit
 aflush
 abreption
 areito
-awaits
+awaits 1
 antipopes 1
 asplenium
 attributed
