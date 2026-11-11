@@ -4642,7 +4642,7 @@ daybreak
 datiscaceous
 demivirgin
 demivol
-disbend
+disbend 1
 deutencephalic
 dendrolene
 datatypes
@@ -16546,7 +16546,7 @@ disarchbishop
 draftsman 2
 drupaceous
 diadokokinesis 1
-dynastidan
+dynastidan 1
 duplicature
 dyspnoic 1
 draftwoman
