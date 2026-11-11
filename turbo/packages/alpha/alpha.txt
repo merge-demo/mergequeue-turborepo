@@ -14208,7 +14208,7 @@ amarillo 1
 absinthial
 anteri
 adelphogamy
-appears
+appears 1
 autoepilation 1
 acuesthesia
 anterioyancer
@@ -16836,7 +16836,7 @@ alehouse
 aphrodisiomaniacal
 apologias 1
 aphthartodocetae
-alterate
+alterate 1
 aphthartodocetic
 acromonogrammatic
 aphthong
