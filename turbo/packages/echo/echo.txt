@@ -4185,7 +4185,7 @@ emporiums
 envisagement 1
 eyewink
 emporte
-ecstasy
+ecstasy 1
 exegeses
 ensteep 1
 evasible
