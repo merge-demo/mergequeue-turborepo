@@ -1917,7 +1917,7 @@ franklinization
 fanglike 1
 federalism
 fykes
-fecalith
+fecalith 1
 frithborh
 fixure
 feminities
@@ -10427,7 +10427,7 @@ firstling
 faller 1
 femicide
 forcaria
-fertilizer
+fertilizer 1
 feudalistic
 fringeflower
 fossified 1
