@@ -7497,7 +7497,7 @@ germanical
 graypate 1
 gloomfully
 glitch
-glottalized
+glottalized 1
 gat
 governed 1
 gotten 1
