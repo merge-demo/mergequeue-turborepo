@@ -5530,7 +5530,7 @@ deperdite
 deperditely 1
 domain
 distinctest
-deperms
+deperms 1
 disserves
 dichromatopsia
 depersonalise
