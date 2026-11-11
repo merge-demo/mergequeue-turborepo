@@ -5193,7 +5193,7 @@ biacuminate
 baronne
 befraught
 befreight
-befountained
+befountained 1
 borosilicic 1
 baddish 1
 baguette

@@ -8167,7 +8167,7 @@ fribblery 2
 florilegia
 foothils
 frailest
-falk
+falk 1
 flakier
 forewritten
 fundamentals
@@ -8239,7 +8239,7 @@ fulltime
 feckly
 fructuose
 forgettably
-faverole
+faverole 1
 fractionalizing
 friction
 forging 1
