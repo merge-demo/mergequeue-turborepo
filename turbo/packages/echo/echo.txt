@@ -4948,7 +4948,7 @@ estreated
 ericeticolous
 exilable 1
 equiliria
-effacer
+effacer 1
 emulsifiable
 embole 2
 endowed
@@ -7822,7 +7822,7 @@ exoerythrocytic
 epigone
 epithelium
 enterocoel
-exarchate
+exarchate 1
 ejaculator
 eddish
 ethmoids
