@@ -1551,7 +1551,7 @@ fauterer
 fauteuil
 fussy 1
 foreteach
-farrow
+farrow 1
 forepayment 1
 flowcontrol 1
 fishbowl
@@ -2648,7 +2648,7 @@ frump
 ferter
 feod
 forwearying
-felliducous
+felliducous 1
 fittyways 1
 flamb
 fertile
