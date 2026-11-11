@@ -11279,7 +11279,7 @@ furans 1
 furacious
 file
 farces
-fernando
+fernando 1
 fallaciously
 flatters
 furanoid
