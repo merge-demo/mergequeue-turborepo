@@ -8239,7 +8239,7 @@ fulltime
 feckly
 fructuose
 forgettably
-faverole
+faverole 1
 fractionalizing
 friction
 forging 1
