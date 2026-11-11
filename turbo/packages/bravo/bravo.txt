@@ -2717,7 +2717,7 @@ birdland
 boraxes
 beakhead
 burnouses
-bewaitered
+bewaitered 1
 barnard
 benightment
 barnbrack
@@ -16481,7 +16481,7 @@ bises 1
 bullhorn
 bellwood
 bronchopathy
-borneo
+borneo 1
 byrling
 brashier
 brushwood
