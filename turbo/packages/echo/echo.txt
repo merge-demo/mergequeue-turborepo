@@ -4691,7 +4691,7 @@ epilog
 ecstrophy
 esthematology 1
 epanaphora 1
-electroencephalographs
+electroencephalographs 1
 egomania 1
 enmuffle
 entrammel
@@ -13157,7 +13157,7 @@ enterauxe
 epanaleptic
 experting
 endosmoses
-ectally
+ectally 1
 elderwoman
 epiphonema
 epistlar

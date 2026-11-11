@@ -17549,7 +17549,7 @@ bureaucratizes
 bicentenaries
 boletic
 brisket
-buret
+buret 1
 burets
 blowfishes
 bedirtied
