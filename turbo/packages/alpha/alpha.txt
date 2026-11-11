@@ -4788,7 +4788,7 @@ aeriform
 abasement 1
 autographically
 aberdevine
-azygous
+azygous 1
 aspide 1
 addnl
 acquaintances
@@ -18865,7 +18865,7 @@ archhypocrisy 1
 archhypocrite
 appointe
 archdeaconess
-alamire
+alamire 1
 alloplasty
 amis
 antiaphthic

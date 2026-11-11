@@ -922,7 +922,7 @@ fadaise 1
 fleabug 2
 fallouts
 ferrate 2
-farad
+farad 1
 fathead
 flaxdrop 1
 faradaic
@@ -4761,7 +4761,7 @@ foreranks 1
 foulminded
 fellowshipped
 filigera
-falconers
+falconers 1
 fever
 folie
 flickeringly
