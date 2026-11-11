@@ -1956,7 +1956,7 @@ acardite
 almeries
 archigony
 adangle
-acetize
+acetize 1
 apprehendingly
 assertions
 acetla
@@ -11257,7 +11257,7 @@ archipallium
 amphictyony
 amphictyonian
 antistrophic
-amphictyons
+amphictyons 1
 anisospore
 amphid
 amphophile
