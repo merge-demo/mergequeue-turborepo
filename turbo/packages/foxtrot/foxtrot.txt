@@ -8839,7 +8839,7 @@ feedstuff 1
 forethough 1
 forspent
 fidation
-feazed
+feazed 1
 forepast
 firstfruits
 falsificator
@@ -9835,7 +9835,7 @@ fricace 2
 fricandeaux
 fuliginously
 foozlers
-foredestine
+foredestine 1
 fulminate
 fortyfive 1
 foxily
