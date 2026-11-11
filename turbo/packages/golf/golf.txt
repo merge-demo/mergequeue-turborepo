@@ -4841,7 +4841,7 @@ galleylike
 gastrosplenic
 glairiest
 gladsomest
-gnosticity 1
+gnosticity 2
 globiocephalus
 guapinol
 gladwin 1
