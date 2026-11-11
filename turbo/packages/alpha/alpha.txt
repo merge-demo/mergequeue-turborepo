@@ -4788,7 +4788,7 @@ aeriform
 abasement 1
 autographically
 aberdevine
-azygous
+azygous 1
 aspide 1
 addnl
 acquaintances
