@@ -10322,7 +10322,7 @@ beehead
 beforehandedness
 beets 1
 barnumism
-benevolist 1
+benevolist 2
 blacksnake
 baneful
 boltonite
@@ -15026,7 +15026,7 @@ brechtian 1
 bunchberries
 bennettites
 burnut
-bredbergite 1
+bredbergite 2
 baumhauerite
 bredes
 blindfoldedly

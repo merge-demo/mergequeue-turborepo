@@ -21688,7 +21688,7 @@ astrospectroscopic
 acetylenogen
 antiquer
 assaulter
-attainably
+attainably 1
 amphibological 1
 archibald 1
 assausive
