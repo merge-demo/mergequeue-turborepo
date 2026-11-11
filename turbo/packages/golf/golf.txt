@@ -3401,7 +3401,7 @@ glossolaryngeal
 globularia 1
 gourmets
 grappled 1
-gerrymander
+gerrymander 1
 gorgons
 goldwater
 grubbed

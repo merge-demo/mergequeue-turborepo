@@ -16405,7 +16405,7 @@ antoniniani
 antoninianus
 acidophil 1
 appointed
-aurei
+aurei 1
 antonomastic
 antonomastical
 aminopurine
