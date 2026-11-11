@@ -4536,7 +4536,7 @@ disroof 1
 debentured
 disavows
 disgust 1
-dackers
+dackers 1
 demipique
 devotedness
 dishtowel
