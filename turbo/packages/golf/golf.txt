@@ -5242,7 +5242,7 @@ glycerite
 gymnadeniopsis
 glyceroxide 1
 glycide 1
-glabrous
+glabrous 1
 gothicness
 gangmaster
 glusid 1
