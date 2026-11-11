@@ -4789,7 +4789,7 @@ electroionic
 etymologize
 eccl
 executioners 1
-eventides
+eventides 1
 excrementitiousness
 encolpia
 ethanim
