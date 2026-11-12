@@ -8307,7 +8307,7 @@ flapperish 1
 flatulentness
 faultfinders
 fittiest
-fair
+fair 1
 foundling
 florulae
 fils 1

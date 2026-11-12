@@ -18202,7 +18202,7 @@ asseverating
 aberuncator
 alemannish
 aporphin
-allocatable
+allocatable 1
 antescript
 aconitic 1
 althea
@@ -19802,7 +19802,7 @@ acrodermatitis
 airplanes
 alteratively
 armamentarium
-affeerment
+affeerment 1
 attachable
 armangite
 adularia

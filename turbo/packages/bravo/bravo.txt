@@ -7126,7 +7126,7 @@ baxter
 bespeckle
 bethylid 1
 bespeckled
-benzoyls
+benzoyls 1
 blindman
 beefless
 beaugregories 1
@@ -7886,7 +7886,7 @@ bibionid
 brackebuschite
 benni
 bewreath
-bealtine
+bealtine 1
 bibiri
 brad
 bordures
