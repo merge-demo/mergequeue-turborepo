@@ -2023,7 +2023,7 @@ brachydiagonal 1
 bourdis 1
 baniya
 baning
-bandcutter 2
+bandcutter 3
 bhaiachara
 banisher
 bilateralities
@@ -15844,7 +15844,7 @@ buddha 1
 beggarwise
 bibacious 1
 bullied
-balas
+balas 1
 beaconing
 backlasher
 brokerly 2
