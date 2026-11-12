@@ -4484,7 +4484,7 @@ grapey
 gomutis 1
 gambrel
 graminiform
-gerbille
+gerbille 1
 gigantomachia
 gawp
 globoids
@@ -5340,7 +5340,7 @@ grimmer
 gremmy
 glucosaemia
 glimmering 1
-garveys
+garveys 1
 goosepimply
 grebo
 glyn
