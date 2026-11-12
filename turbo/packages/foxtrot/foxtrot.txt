@@ -694,7 +694,7 @@ fireman
 filemot
 flannelmouths
 feathercut
-fairish
+fairish 1
 fief 1
 featlier
 filmically 1
