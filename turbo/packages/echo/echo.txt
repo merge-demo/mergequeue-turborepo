@@ -5509,7 +5509,7 @@ equiformity 1
 enzymosis
 enervation
 ethnically
-ensnarers
+ensnarers 1
 enetophobia
 enfaces
 elizabethans 1
