@@ -18202,7 +18202,7 @@ asseverating
 aberuncator
 alemannish
 aporphin
-allocatable
+allocatable 1
 antescript
 aconitic 1
 althea
