@@ -11435,7 +11435,7 @@ furred
 frieze
 ferrated
 frowstiest
-fettering
+fettering 1
 forebemoaned
 founte 1
 fortunetell 1

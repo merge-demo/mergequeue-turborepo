@@ -31261,7 +31261,7 @@ canids
 communisation 1
 curarizing
 cortinarious
-curate
+curate 1
 curatess
 cliency
 curation
