@@ -8869,7 +8869,7 @@ candylike
 cunni
 cremains 1
 cochylis
-charadrius
+charadrius 1
 charango
 corrida
 chorioidal
