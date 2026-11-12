@@ -1626,7 +1626,7 @@ dimetrodon
 deodate
 datolitic
 domify
-devertebrated 1
+devertebrated 2
 daydrudge
 dealkylate
 daundered 1
@@ -9276,7 +9276,7 @@ diethylstilboestrol
 detainal
 dekaliters
 disploded
-decolorant
+decolorant 1
 dietitians
 diadochite
 deistic
@@ -14153,7 +14153,7 @@ defeating
 diswarrening
 daisy
 ducker
-disulfid
+disulfid 1
 derris
 diazotizable
 deprivable

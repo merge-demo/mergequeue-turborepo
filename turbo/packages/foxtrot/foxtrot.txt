@@ -6232,7 +6232,7 @@ fingerwork
 frisian
 fluidist
 ferroconcrete
-firers
+firers 1
 feasibly
 flared 1
 fissiparation
@@ -10707,7 +10707,7 @@ foreset
 foresheets
 fleuretty 1
 fortuneless 1
-fringilla
+fringilla 1
 fecks
 finesses
 fise
