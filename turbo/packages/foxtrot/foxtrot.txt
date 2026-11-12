@@ -2080,7 +2080,7 @@ floriculture
 fudger 1
 frightened 1
 floria
-foredefine
+foredefine 1
 fainty
 fesapo
 fowent
@@ -7158,7 +7158,7 @@ fratries
 farer
 frockless 1
 frisesomorum
-fortnight
+fortnight 1
 falseheartedly
 fustily
 fibrocarcinoma
