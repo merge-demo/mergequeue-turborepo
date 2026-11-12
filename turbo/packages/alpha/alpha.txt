@@ -7898,7 +7898,7 @@ aleyrodes
 auricular
 advisers
 aleknight 1
-apractic 1
+apractic 2
 archpastor
 agreat
 arithmocracy
@@ -16795,7 +16795,7 @@ aphorist 1
 ailuropus
 autoportraiture
 aphorize
-aphorizes
+aphorizes 1
 ancienter
 approve
 anlet
@@ -20402,7 +20402,7 @@ arses
 arsheen
 affirmance
 absinthian
-afterimage
+afterimage 1
 antioxygenic
 arshine
 abigails
