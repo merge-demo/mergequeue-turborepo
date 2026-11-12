@@ -1962,7 +1962,7 @@ disavouch
 decumbency
 dacryadenitis
 downligging
-debutant
+debutant 1
 downcastly
 deblai
 dupondidii 1
@@ -18035,7 +18035,7 @@ dull 1
 discoplacentalia
 dillydallier
 dullard
-debind 2
+debind 3
 devoter
 dipotassium
 detrusor

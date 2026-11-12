@@ -1306,7 +1306,7 @@ exumbrellar
 effect
 endocardiac
 exopeptidase
-ecclesiae 1
+ecclesiae 2
 effective
 euryphagous
 epimachinae
@@ -1931,7 +1931,7 @@ estoppal
 eurypterid
 elaphe 1
 essenical
-ejected 1
+ejected 2
 epitasis
 eupatorine
 epinette
