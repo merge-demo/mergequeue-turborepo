@@ -2931,7 +2931,7 @@ acroteleutic
 acception
 anteluminary
 auxobody 1
-ameerate
+ameerate 1
 acroterial
 anhydric
 aeons 1
@@ -21948,7 +21948,7 @@ associations 1
 adaptional
 aphakial 1
 associatively 1
-aquiver
+aquiver 1
 apostolize
 aeriest
 anatripsis
