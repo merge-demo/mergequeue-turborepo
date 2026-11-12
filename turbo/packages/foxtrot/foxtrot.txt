@@ -5759,7 +5759,7 @@ fribble
 family
 fevertwig
 flambee
-farfugium
+farfugium 1
 facemaker
 fv
 forestside 1

@@ -17090,7 +17090,7 @@ coadjudicator
 coadjutant
 campement 1
 covotary
-commonweal 1
+commonweal 2
 confluent
 coemptional
 champ
