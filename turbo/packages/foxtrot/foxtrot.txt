@@ -543,7 +543,7 @@ falderals 1
 flossed 2
 fussier
 familiarity
-forewarn
+forewarn 1
 fluvial
 fragmentising
 forceful
@@ -7633,7 +7633,7 @@ fiefdom
 forecasting
 freeze 1
 foxskin
-fano
+fano 1
 fiesta
 forehandedness 1
 fellingbird

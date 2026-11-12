@@ -1836,7 +1836,7 @@ declinograph 1
 dewberry 1
 doorstead
 doughnut 1
-debellator
+debellator 1
 darapti 1
 drugmaker
 decriminalize
