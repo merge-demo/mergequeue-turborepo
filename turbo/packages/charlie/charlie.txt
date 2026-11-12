@@ -11912,7 +11912,7 @@ choreographically
 cuds
 calculabilities
 covibrate
-crestfallenness
+crestfallenness 1
 cerites
 convulsionaries
 cohanim
