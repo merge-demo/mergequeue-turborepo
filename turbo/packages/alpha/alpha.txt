@@ -10830,7 +10830,7 @@ amyxorrhea
 architis 1
 amlikar
 amlong
-ammelide
+ammelide 1
 apodemal
 arenaria
 apothecary 2
