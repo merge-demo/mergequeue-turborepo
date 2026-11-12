@@ -1306,7 +1306,7 @@ exumbrellar
 effect
 endocardiac
 exopeptidase
-ecclesiae 1
+ecclesiae 2
 effective
 euryphagous
 epimachinae
@@ -10298,7 +10298,7 @@ ectases
 epiphyllous
 ensignment
 ethnicist
-ethyne 1
+ethyne 2
 elingued 1
 establismentarian 2
 enlink
