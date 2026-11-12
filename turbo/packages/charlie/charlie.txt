@@ -28626,7 +28626,7 @@ chemicomechanical 1
 crossbowmen
 coccogonium
 condisciple
-chally 1
+chally 2
 catechus
 cremationism
 coliseums
@@ -30570,7 +30570,7 @@ cuboctahedron
 cubocube
 cashboy
 crepidula
-cultirostral
+cultirostral 1
 cubocuneiform
 cubododecahedral
 concarnation
