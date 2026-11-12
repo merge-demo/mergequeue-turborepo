@@ -9379,7 +9379,7 @@ glossarial
 glissandi 2
 gymel
 grottoes
-gelatose
+gelatose 1
 grandeeism
 gaywings
 geryonidae
