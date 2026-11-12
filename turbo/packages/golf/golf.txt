@@ -6760,7 +6760,7 @@ gibel
 gravilea
 glycosyls
 gonochorismal 1
-geryonia
+geryonia 1
 graze 1
 garle
 ghazi
