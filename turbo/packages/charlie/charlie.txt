@@ -11052,7 +11052,7 @@ chuckled 1
 chitarra
 cothish
 circuminsular
-chinoiserie
+chinoiserie 1
 compander
 colloquies 1
 chitarroni
@@ -29030,7 +29030,7 @@ criminate
 criminating
 crush 2
 crimination
-criminator
+criminator 1
 criminis
 criminogenesis
 cigarless
