@@ -2361,7 +2361,7 @@ cubitocutaneous
 celtologist
 canapina
 canards
-canary
+canary 1
 cogs 1
 companator
 chinbones
