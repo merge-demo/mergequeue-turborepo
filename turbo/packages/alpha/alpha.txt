@@ -9283,7 +9283,7 @@ adenosclerosis
 atossa
 alodification
 arician
-artophagous
+artophagous 1
 axoplasm 1
 archcriminal
 armaries 2
