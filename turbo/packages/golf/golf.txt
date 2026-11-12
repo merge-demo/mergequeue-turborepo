@@ -5410,7 +5410,7 @@ gonadic 1
 gandhiism 1
 gliffy
 gynosporangium 1
-grid
+grid 1
 gradines 1
 goodwillies
 gourdlike
@@ -5779,7 +5779,7 @@ geometrize
 gorgeable
 gaupus 3
 glissades
-greggle
+greggle 1
 gather
 greekish 2
 gedrite
