@@ -4370,7 +4370,7 @@ agaristidae 1
 adstipulator
 aduana
 appointments
-abbes
+abbes 1
 assistor
 anhydremia 1
 assertorial
