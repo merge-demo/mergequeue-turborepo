@@ -2234,7 +2234,7 @@ forgetting
 fracture 2
 filtrated
 filesave 2
-fainaiguer 1
+fainaiguer 2
 femora 1
 fatil
 fain
@@ -5759,7 +5759,7 @@ fribble
 family
 fevertwig
 flambee
-farfugium
+farfugium 1
 facemaker
 fv
 forestside 1
@@ -7565,7 +7565,7 @@ forespeak
 fervors 2
 forgathers 1
 forril 1
-fatalize
+fatalize 1
 farrier
 ferroglass
 fees
