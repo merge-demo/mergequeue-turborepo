@@ -16115,7 +16115,7 @@ dementie
 defectology
 dispurse 1
 designators 1
-doulocracy
+doulocracy 1
 doum
 didynamy 1
 discrowned
