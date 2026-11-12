@@ -7661,7 +7661,7 @@ becurses
 bewitchment
 bounderishly
 bewizard
-bombycina
+bombycina 1
 blandished 2
 bimolecular
 baric
