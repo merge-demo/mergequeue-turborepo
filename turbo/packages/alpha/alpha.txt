@@ -3192,7 +3192,7 @@ allocability 1
 arachide
 anagrammatising
 affrighting
-artamidae
+artamidae 1
 assumptive
 approvement
 antiaggressively
