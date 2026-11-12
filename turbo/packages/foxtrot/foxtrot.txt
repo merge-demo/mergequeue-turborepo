@@ -2104,7 +2104,7 @@ falcate
 fundraising
 flabbier
 franchises
-fellata
+fellata 1
 fellate
 foldboat
 flappered 2
@@ -5545,7 +5545,7 @@ ferd
 fram 1
 fluffiest
 forecited
-fluorite
+fluorite 1
 fascicle
 fibbing
 felon
