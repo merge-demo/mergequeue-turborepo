@@ -2931,7 +2931,7 @@ acroteleutic
 acception
 anteluminary
 auxobody 1
-ameerate
+ameerate 1
 acroterial
 anhydric
 aeons 1
@@ -17753,7 +17753,7 @@ appliedly
 allegorized 1
 abacterial
 acettoluide
-acrocera 1
+acrocera 2
 autocab
 aversation
 ameiurus
@@ -21636,7 +21636,7 @@ asquint
 anallagmatis 1
 authorising
 agriotypus
-alfur 1
+alfur 2
 achenodia
 acheilous
 anteflected

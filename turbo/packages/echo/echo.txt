@@ -10387,7 +10387,7 @@ earwigging 1
 epiphanize
 electropositive
 enfranchisable 1
-exodromic
+exodromic 1
 exchanged
 ethoxide
 ethoxyethane
