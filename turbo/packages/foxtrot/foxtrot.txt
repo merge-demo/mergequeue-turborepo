@@ -10552,7 +10552,7 @@ footslogging
 fiery
 famishment
 fixable 1
-frictionless
+frictionless 1
 francisca
 faiths
 forehanded
