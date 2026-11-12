@@ -5384,7 +5384,7 @@ fosterhood 1
 flecky
 fosterite
 furole 2
-forecounsel
+forecounsel 1
 flyswat
 feridji 1
 figuration
@@ -8759,7 +8759,7 @@ forgers 1
 foreprise
 filletster 2
 firry 1
-flashtube
+flashtube 1
 frustula
 feoffing
 favorably
