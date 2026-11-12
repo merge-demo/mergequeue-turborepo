@@ -9112,7 +9112,7 @@ equinoxes
 eccrisis
 egyptologist 1
 evasion
-embordered
+embordered 1
 erythropsia
 electrograving
 entwist
@@ -10748,7 +10748,7 @@ evangelically
 ephemeran
 extramoralist
 emer 1
-encomiastical
+encomiastical 1
 endogalvanism
 eucnemidae
 excursions
@@ -12766,7 +12766,7 @@ entertissue 1
 embolomycotic
 evictee
 exorcism
-elacolite
+elacolite 1
 expurgator
 exorcistic
 eidetically
