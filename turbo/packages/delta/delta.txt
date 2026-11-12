@@ -3521,7 +3521,7 @@ drawbeam
 dissheathe
 dehwar
 defuze 1
-dakoities
+dakoities 1
 dissociative 1
 degage
 degames
@@ -13895,7 +13895,7 @@ dyslexia 1
 dissavage 1
 dipter
 distensions
-disgress
+disgress 1
 disprison
 disterminate
 deline
