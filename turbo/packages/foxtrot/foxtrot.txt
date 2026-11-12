@@ -6271,7 +6271,7 @@ filate 1
 fitting
 ferriprussiate 1
 fringed 1
-facadal 1
+facadal 2
 floreted
 flunkey 1
 frilal
