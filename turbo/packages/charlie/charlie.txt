@@ -5684,7 +5684,7 @@ catathymic
 catatony
 catatonic
 coeloglossum
-countersignal
+countersignal 1
 catawampous
 catawamptiously
 cenogenetically
@@ -5981,7 +5981,7 @@ cathograph
 celia
 cathography
 cathole 1
-critics
+critics 1
 centraliser 1
 collatress
 contratempo
