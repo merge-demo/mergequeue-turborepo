@@ -5711,7 +5711,7 @@ deportations
 decriminalized 2
 delphin
 demonomancy
-dissipatedly
+dissipatedly 1
 dewer 1
 discrepancy
 disoxygenate
@@ -16246,7 +16246,7 @@ downcome
 dogtail
 downcoming
 deke
-disulfids
+disulfids 1
 desmidian
 demodulate 1
 dodecylphenol
