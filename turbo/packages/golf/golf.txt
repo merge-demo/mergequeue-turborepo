@@ -3516,7 +3516,7 @@ garmentworker
 ganglions 1
 gymnorhina 1
 geomagnetist 2
-grugru
+grugru 1
 grinded
 geo
 gloats
@@ -4555,7 +4555,7 @@ gufought
 galbulae
 galipoipin
 gymnanthes
-gluttonism
+gluttonism 1
 grecianize 1
 giro
 glossae 1
