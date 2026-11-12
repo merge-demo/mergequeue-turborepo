@@ -12676,7 +12676,7 @@ authentications
 addleheadedly 1
 aperies
 amixia
-aporrhaidae
+aporrhaidae 1
 antistrumous
 accouchements
 antistat
@@ -20402,7 +20402,7 @@ arses
 arsheen
 affirmance
 absinthian
-afterimage
+afterimage 1
 antioxygenic
 arshine
 abigails
