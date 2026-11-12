@@ -12496,7 +12496,7 @@ autodermic
 asphyxy
 animalia
 admensuration 1
-algesis
+algesis 1
 armchairs
 abarambo
 anecdotage
