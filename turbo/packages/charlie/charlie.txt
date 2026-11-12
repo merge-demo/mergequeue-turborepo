@@ -22523,7 +22523,7 @@ countercause
 comfreys
 colluding
 chorizontist
-clatty
+clatty 1
 cinnamyls
 conjunctivas
 caslon
