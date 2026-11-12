@@ -16201,7 +16201,7 @@ brazilians
 breweries
 bourgs
 bibliomanianism
-boeotic
+boeotic 1
 borrowing
 blennorhea 1
 begnawed 1
