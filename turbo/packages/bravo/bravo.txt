@@ -11966,7 +11966,7 @@ bannerol
 buffeted
 bombing 1
 boggling
-bessarabian
+bessarabian 1
 brinded
 bacteriosis
 bogyism
