@@ -18610,7 +18610,7 @@ acraeinae
 arcboutant
 abundances
 arccos
-appomattoc
+appomattoc 1
 apostume
 assiduousness
 anhematosis
@@ -24299,7 +24299,7 @@ anthrasilicosis
 autophotoelectric
 autopilot
 autoincrement
-afterworking
+afterworking 1
 autoplast
 affianced
 acetonate
@@ -24658,7 +24658,7 @@ avenolith
 avshar
 aventails
 axiom
-alypine
+alypine 1
 aspirants 1
 anisogeny
 absumption
