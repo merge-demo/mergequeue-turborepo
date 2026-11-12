@@ -2647,7 +2647,7 @@ decompresses
 demiplacate
 dogies 1
 dcollet
-dhurnas
+dhurnas 1
 dishonourer
 digynous
 dudeens

@@ -12161,7 +12161,7 @@ emblazes
 ethaldehyde
 electric
 exostome 1
-embrittlement
+embrittlement 1
 embergoose
 elytron 1
 endpoint
