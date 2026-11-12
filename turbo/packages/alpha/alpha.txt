@@ -2234,7 +2234,7 @@ achromatopsia
 alnicoes
 australia
 achromatosis
-akinesia
+akinesia 1
 acyrological
 achromoderma
 abovesaid
