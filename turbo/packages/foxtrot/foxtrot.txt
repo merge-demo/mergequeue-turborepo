@@ -6385,7 +6385,7 @@ foppish 1
 farset
 fluorimetric
 fluorobenzene
-fructifies
+fructifies 1
 frizing 1
 foreship
 frivoled
