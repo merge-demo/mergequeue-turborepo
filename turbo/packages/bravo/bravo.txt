@@ -8033,7 +8033,7 @@ borazons
 bioxalate
 bichos
 bichromatize 1
-bedebt
+bedebt 1
 bowstaff
 bellworts
 bicyanide
@@ -16201,7 +16201,7 @@ brazilians
 breweries
 bourgs
 bibliomanianism
-boeotic
+boeotic 1
 borrowing
 blennorhea 1
 begnawed 1
