@@ -8600,7 +8600,7 @@ gentlemanly
 grapnel
 gossipping
 gerb
-guti
+guti 1
 glucosin
 gulfed 1
 gingerleaf

@@ -3294,7 +3294,7 @@ dormant
 dilatant
 deliriate
 diastem
-demitting
+demitting 1
 disherit
 destiny
 domesticable
