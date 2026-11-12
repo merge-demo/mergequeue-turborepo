@@ -6184,7 +6184,7 @@ apoplexy
 agnostus
 agnotozoic
 agnus
-airparks
+airparks 1
 androphobia
 approvers
 arbitrates
@@ -13507,7 +13507,7 @@ arrobas
 airproofs
 aerophilatelist
 annihilationistical 1
-apophony
+apophony 1
 airiness
 autocremation
 annihilative
@@ -21165,7 +21165,7 @@ agriochoeridae
 aljamiado
 antiexpressiveness
 aseismic 1
-alkannin
+alkannin 1
 aboveproof
 apocryphate
 arboriculturist 1
