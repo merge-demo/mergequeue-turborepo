@@ -21948,7 +21948,7 @@ associations 1
 adaptional
 aphakial 1
 associatively 1
-aquiver
+aquiver 1
 apostolize
 aeriest
 anatripsis
