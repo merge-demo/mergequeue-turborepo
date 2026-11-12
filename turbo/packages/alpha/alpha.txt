@@ -20,7 +20,7 @@ archerfish
 anoxaemia
 anthophyte
 aardwolves
-aaronite
+aaronite 1
 amphipod
 antineutrinos
 agreges 1
