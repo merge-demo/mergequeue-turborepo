@@ -2764,7 +2764,7 @@ extrusions 1
 exhilaratory
 evergreenite 1
 equangular 1
-explorations 1
+explorations 2
 ebracteate 1
 eurithermophilic
 excecate
@@ -5509,7 +5509,7 @@ equiformity 1
 enzymosis
 enervation
 ethnically
-ensnarers
+ensnarers 1
 enetophobia
 enfaces
 elizabethans 1
