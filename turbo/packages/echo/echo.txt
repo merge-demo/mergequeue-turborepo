@@ -8272,7 +8272,7 @@ expensively
 ectoplasmic
 ellagate
 exemplification
-epitaxies
+epitaxies 1
 epitaxis
 ebonizes
 epidemicity
