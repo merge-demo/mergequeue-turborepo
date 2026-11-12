@@ -11977,7 +11977,7 @@ birmingham
 bbls
 brothelry
 bostons
-bogymen
+bogymen 1
 bogland
 budgerigah
 brushbird
@@ -14739,7 +14739,7 @@ brattie 1
 betrothal
 bowpots
 bowlings
-benumbment 1
+benumbment 2
 bratwurst
 bibliopolic
 brauna
@@ -16204,7 +16204,7 @@ bibliomanianism
 boeotic
 borrowing
 blennorhea 1
-begnawed
+begnawed 1
 bramblier
 brachylogies
 brothering

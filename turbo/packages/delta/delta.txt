@@ -10830,7 +10830,7 @@ darkest
 distant 1
 desilverize
 dipleurobranchiate
-dauntingly
+dauntingly 1
 displays 1
 dirged
 dirgeman
