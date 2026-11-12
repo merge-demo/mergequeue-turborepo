@@ -2674,7 +2674,7 @@ geodiferous
 gravelous 1
 guaican
 glyconean
-goggled
+goggled 1
 gymnodont
 genic
 gradgrindian 1
@@ -3874,7 +3874,7 @@ geoscopy 1
 gubbertush
 goustrous
 grecing
-gawkies
+gawkies 1
 giving 1
 genitally
 graphomotor
@@ -8861,7 +8861,7 @@ groundberry 1
 gunfight
 gressoria
 gheraoing
-grassland 1
+grassland 2
 gourdful
 ghostliest
 glamorizing

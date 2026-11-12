@@ -10815,7 +10815,7 @@ beethovenish
 bolectioned
 brassie
 bridgings 1
-beavered
+beavered 1
 boody
 bibulus 1
 biorhythmic
@@ -14739,7 +14739,7 @@ brattie 1
 betrothal
 bowpots
 bowlings
-benumbment 1
+benumbment 2
 bratwurst
 bibliopolic
 brauna
