@@ -14425,7 +14425,7 @@ cirrostomi
 cirrostrative
 citharoedus
 countercompetition
-charnel 1
+charnel 2
 cuttanee
 celiectasia
 cirrostratus 1
@@ -27072,7 +27072,7 @@ counterreckoning
 counterrefer
 congoni
 coccule
-curialities 1
+curialities 2
 counterreflected
 counterremonstrant
 counterreplied
