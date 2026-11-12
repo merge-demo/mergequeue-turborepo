@@ -8759,7 +8759,7 @@ forgers 1
 foreprise
 filletster 2
 firry 1
-flashtube
+flashtube 1
 frustula
 feoffing
 favorably
