@@ -4890,7 +4890,7 @@ fascial 1
 fruitfulness
 fireworkless 1
 fulgural
-flourescent
+flourescent 1
 fino
 fourscore
 flakiest
