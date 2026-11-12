@@ -8358,7 +8358,7 @@ bourignonist
 biotitic 1
 burundi
 beshadow
-bullshots
+bullshots 1
 biggen
 biggened
 bruja

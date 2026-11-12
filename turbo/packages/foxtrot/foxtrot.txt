@@ -2681,7 +2681,7 @@ frizziness
 fervence
 ferventness
 fishify 1
-fuminess
+fuminess 1
 flamant 1
 flambe
 faithing
