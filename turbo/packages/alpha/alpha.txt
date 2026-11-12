@@ -19411,7 +19411,7 @@ anagogically
 apothegmatically
 argenteous
 amphorophony 1
-allicins
+allicins 1
 allowance
 auspicating
 anostosis
@@ -20179,7 +20179,7 @@ aoli
 acidulation 1
 arratel
 asclepieion
-apothem
+apothem 1
 astrogation
 arrau
 assiduously
