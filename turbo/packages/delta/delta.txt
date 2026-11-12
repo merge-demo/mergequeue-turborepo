@@ -7483,7 +7483,7 @@ denudes
 decocainize
 deutencephalon
 dumfounding
-dehgan
+dehgan 1
 deuteranope 1
 deuteration 1
 denucleate
