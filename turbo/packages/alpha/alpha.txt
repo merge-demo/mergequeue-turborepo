@@ -13738,7 +13738,7 @@ anaesthatic
 ancoral
 anutraminosa
 actinotherapeutics
-apparatchik
+apparatchik 1
 andorran
 anomodont
 anomodontia
