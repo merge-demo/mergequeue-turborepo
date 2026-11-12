@@ -7488,7 +7488,7 @@ extensively 1
 estrins
 estall
 eophytic
-endited
+endited 1
 eastmost
 electrosynthesis
 epibatholithic
