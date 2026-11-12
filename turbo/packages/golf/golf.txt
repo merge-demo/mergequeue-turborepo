@@ -321,7 +321,7 @@ galleting
 gadolinium
 grognard
 gangrels
-grundsil 1
+grundsil 2
 galeorhinus
 guyana 2
 galliferous
@@ -6704,7 +6704,7 @@ gulash
 graminivorous
 galvanolysis
 giddyberry 1
-glucide 1
+glucide 2
 groomy
 girlfriends
 gascheck 2
