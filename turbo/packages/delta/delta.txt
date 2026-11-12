@@ -798,7 +798,7 @@ dandruffs
 dialytic
 debouching
 discussment
-debile
+debile 1
 daubers 1
 delusters
 dovecote
@@ -9276,7 +9276,7 @@ diethylstilboestrol
 detainal
 dekaliters
 disploded
-decolorant
+decolorant 1
 dietitians
 diadochite
 deistic
@@ -14153,7 +14153,7 @@ defeating
 diswarrening
 daisy
 ducker
-disulfid
+disulfid 1
 derris
 diazotizable
 deprivable

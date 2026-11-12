@@ -6232,7 +6232,7 @@ fingerwork
 frisian
 fluidist
 ferroconcrete
-firers
+firers 1
 feasibly
 flared 1
 fissiparation
