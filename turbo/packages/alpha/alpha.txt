@@ -16795,7 +16795,7 @@ aphorist 1
 ailuropus
 autoportraiture
 aphorize
-aphorizes
+aphorizes 1
 ancienter
 approve
 anlet
