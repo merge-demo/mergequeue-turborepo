@@ -19087,7 +19087,7 @@ cedes
 cystocyte
 collisive
 curtseying
-cunningest
+cunningest 1
 collyweston
 commonalty
 collywobbles 1
