@@ -6723,7 +6723,7 @@ browsability
 bismuthine 2
 broomstaff 1
 blitter
-balaamitical
+balaamitical 1
 beeishness
 bathmotropic
 brontosaurus 1
@@ -14994,7 +14994,7 @@ browbeat
 begun
 belgians
 breathe
-bravuraish
+bravuraish 1
 blennophlogisma 1
 breathes
 boarstaff
