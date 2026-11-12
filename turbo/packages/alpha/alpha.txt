@@ -2529,7 +2529,7 @@ allozooid
 acomous 1
 acroasis
 albumean
-anchoretic
+anchoretic 1
 aconative
 acondylose
 amicable 1
@@ -13605,7 +13605,7 @@ autoaddress 1
 abura
 akaakai
 apostasis 1
-ambuscading
+ambuscading 1
 annulosa
 antings
 annuls
