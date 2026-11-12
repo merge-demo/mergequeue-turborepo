@@ -157,7 +157,7 @@ didromies
 doors
 degami 1
 daedalic 1
-diminish
+diminish 1
 durns
 deedier
 diphenylmethane
