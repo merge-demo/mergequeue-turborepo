@@ -3789,7 +3789,7 @@ carbohemoglobin
 cribbling 1
 carbohydrase
 cardioncus
-carbohydrate
+carbohydrate 1
 cardiotrophia
 cysticarpic
 carbohydraturia

@@ -10644,7 +10644,7 @@ deprecates 2
 dioti
 disaccordance 1
 delegati
-dyspeptic
+dyspeptic 1
 danainae
 dinornithoid
 dankali
