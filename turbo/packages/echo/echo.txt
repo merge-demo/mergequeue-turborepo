@@ -5794,7 +5794,7 @@ extirp
 englut 1
 envenom
 encored
-eyot
+eyot 1
 excedent
 ependymitis
 ectropionizing
@@ -11296,7 +11296,7 @@ electrocute
 ecdysons
 epupillate
 enwrap
-eightling
+eightling 1
 evaporitic
 enforcively
 evapotranspiration
