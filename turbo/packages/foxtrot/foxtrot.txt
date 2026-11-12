@@ -7143,7 +7143,7 @@ foothot
 faraon
 fele
 fruitions
-footie
+footie 1
 footier
 frontwise
 fleerer 1
@@ -11527,7 +11527,7 @@ flixweed
 finalis
 fissidactyl
 fireflaught 1
-foldout 1
+foldout 2
 forbreak
 forleave 1
 ferruler 1

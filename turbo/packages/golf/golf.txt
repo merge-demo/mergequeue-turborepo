@@ -1384,7 +1384,7 @@ gravitometer
 garnetter
 glyconeogenetic
 guttular
-governs 1
+governs 2
 ganodonta
 garnison
 greetingless
@@ -4742,7 +4742,7 @@ gastropleuritis
 gyniatrics
 gravedo
 gonytheca
-geisa
+geisa 1
 governorship
 galgal
 gweducks
