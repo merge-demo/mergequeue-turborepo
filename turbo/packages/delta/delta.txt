@@ -3878,7 +3878,7 @@ diaphemetric
 deyship
 defiled
 demagnification 1
-defendress
+defendress 1
 dislikeable 1
 doctorates
 donne

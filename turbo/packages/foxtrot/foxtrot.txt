@@ -3298,7 +3298,7 @@ featherlessness
 fioritura 1
 felicitating
 fairings
-fulgide
+fulgide 1
 feture 1
 flabbergastation 2
 flexility
