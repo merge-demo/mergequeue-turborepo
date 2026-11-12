@@ -11624,7 +11624,7 @@ forint 1
 facsimile
 fortissimi
 farci
-fibrous
+fibrous 1
 fylgja
 fosite
 funestal
