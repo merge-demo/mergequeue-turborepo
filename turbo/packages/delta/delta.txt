@@ -14927,7 +14927,7 @@ dominates 1
 descrying
 dracontine
 dev
-dumbbells 1
+dumbbells 2
 divulgater
 defendants
 deridingly
