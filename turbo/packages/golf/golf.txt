@@ -5410,7 +5410,7 @@ gonadic 1
 gandhiism 1
 gliffy
 gynosporangium 1
-grid
+grid 1
 gradines 1
 goodwillies
 gourdlike
@@ -9463,7 +9463,7 @@ gae
 gonyaulax
 gernative
 genapping
-graceful
+graceful 1
 gunmanship 1
 guelphish
 grundlov
