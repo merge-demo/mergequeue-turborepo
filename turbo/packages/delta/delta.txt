@@ -5832,7 +5832,7 @@ dyscrasy
 depressed
 disaccustomed
 dispender
-danicism
+danicism 1
 depressibilities
 deozonization
 dewy
