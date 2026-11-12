@@ -283,7 +283,7 @@ booths
 bedotted
 boltuprightness
 bespangled
-belar
+belar 1
 back 1
 brachiocubital
 backache

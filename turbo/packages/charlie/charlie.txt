@@ -19907,7 +19907,7 @@ capel
 childishly 1
 comital
 comitatensian
-collectives
+collectives 1
 contriturate
 clayish
 comity
