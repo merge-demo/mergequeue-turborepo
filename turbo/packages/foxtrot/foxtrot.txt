@@ -2683,7 +2683,7 @@ ferventness
 fishify 1
 fuminess 1
 flamant 1
-flambe
+flambe 1
 faithing
 fungused
 firebird

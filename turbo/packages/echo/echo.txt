@@ -3998,7 +3998,7 @@ empyema
 eupatorin
 eyestalks
 empearl
-electroretinography
+electroretinography 1
 exultancy
 explorate
 esothyropexy
@@ -13758,7 +13758,7 @@ ergal
 enzyme
 extinguisher 2
 entoptically
-ectoplasm
+ectoplasm 1
 eryngoes
 enouncing
 emberizine
