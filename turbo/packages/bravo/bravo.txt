@@ -16598,7 +16598,7 @@ belling
 bubastid
 backorder
 blightingly
-belligerencies
+belligerencies 1
 benedictory
 brachiocrural
 brinjarries
