@@ -1076,7 +1076,7 @@ elective 1
 edification
 exfigure 2
 equipoised
-evaluates
+evaluates 1
 envined
 edificatory
 expostulatively 1
