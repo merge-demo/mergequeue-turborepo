@@ -3311,7 +3311,7 @@ afreet
 arctamerican
 adagiettos
 adagios
-auscultoscope 1
+auscultoscope 2
 aristolochiaceous
 acetite
 avalanching
@@ -7238,7 +7238,7 @@ alangium
 anchors 1
 auditive
 alanines
-alannah
+alannah 1
 alagau
 audiologists
 altercations
