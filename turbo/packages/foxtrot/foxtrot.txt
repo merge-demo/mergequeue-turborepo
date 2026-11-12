@@ -11156,7 +11156,7 @@ frumperies
 flocculence 1
 fernlike
 foederal 1
-flywire
+flywire 1
 frumple
 fanciful
 francas 1
