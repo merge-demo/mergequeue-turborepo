@@ -5807,7 +5807,7 @@ enterons 1
 encrinal
 episode 1
 ephoi
-effluvia
+effluvia 1
 environing
 elephant
 electroencephalograms 1
