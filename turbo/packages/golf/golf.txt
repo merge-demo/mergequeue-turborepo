@@ -3162,7 +3162,7 @@ geochronologist
 guardiancy
 germina
 ge 2
-gynophore
+gynophore 1
 geotechnic 1
 graplin 1
 geraniaceae
@@ -5529,7 +5529,7 @@ gantangs 1
 greenroom 1
 glucaemia
 gumming
-gaysome
+gaysome 1
 gripless
 geochemist 1
 geophysical 1
