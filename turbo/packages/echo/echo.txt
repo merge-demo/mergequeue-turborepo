@@ -7763,7 +7763,7 @@ electrodynamical 1
 etymologies
 endophytal
 etherizer
-ergate
+ergate 1
 explorator
 epiproct
 eupatridae
