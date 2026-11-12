@@ -7806,7 +7806,7 @@ devons
 desirability
 devoration
 dadaists 1
-dentel
+dentel 1
 dairyings
 devoted
 dipsomaniacal
@@ -8374,7 +8374,7 @@ dialystelic 1
 dialister
 dermatosiophobia 1
 dilatator
-diabase
+diabase 1
 dialists
 deacetylated
 dragboat

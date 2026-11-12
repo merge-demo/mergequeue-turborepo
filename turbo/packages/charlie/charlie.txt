@@ -2037,7 +2037,7 @@ camoodie
 cyperus
 commandants 1
 camorrism
-corrections
+corrections 1
 complementally
 cropper
 capitalizer
@@ -23267,7 +23267,7 @@ charrs
 counteractor
 coplotted
 corncockle
-cavaliere
+cavaliere 1
 cockadoodledoo
 consubstantiate 1
 consubstantiated
