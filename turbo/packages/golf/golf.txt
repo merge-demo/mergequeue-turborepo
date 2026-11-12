@@ -7185,7 +7185,7 @@ gamesters
 grimliness 1
 gloze
 grater
-gonial 2
+gonial 3
 gratin
 gonopodium 1
 globosite
