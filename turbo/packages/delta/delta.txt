@@ -13912,7 +13912,7 @@ distichal
 demisable 2
 diadelphia
 distichlis 1
-dephased
+dephased 1
 discina
 distil
 derisive 1
