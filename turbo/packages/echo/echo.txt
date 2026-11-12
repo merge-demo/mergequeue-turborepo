@@ -7677,7 +7677,7 @@ extensionist
 electrotautomerism
 extenuate
 expoundable
-epideistic
+epideistic 1
 enthymematical
 enfeebler
 eriocaulaceous
