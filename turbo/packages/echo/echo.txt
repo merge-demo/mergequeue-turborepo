@@ -2393,7 +2393,7 @@ epigastric 1
 eyeflap 1
 envassal
 edda
-excusively
+excusively 1
 epipetalous
 erythroid
 episcopalianize
