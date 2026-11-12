@@ -9507,7 +9507,7 @@ ephyrula
 embryoferous
 epiphanising
 escript
-excerpta
+excerpta 1
 earthquaking 1
 escritoire
 eleutherarch
