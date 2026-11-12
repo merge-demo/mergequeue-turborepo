@@ -10048,7 +10048,7 @@ gueridons 1
 gasking
 garnering
 gongman
-geochemical
+geochemical 1
 galette
 gossypols
 guerison
