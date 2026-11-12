@@ -1317,7 +1317,7 @@ dysergia
 disjunctions 1
 deludingly
 delftware
-draconism
+draconism 1
 dauke 1
 dorsigerous
 disorder
@@ -17876,7 +17876,7 @@ doctrine 1
 durationless
 dishmaking 1
 dueled
-deathday 1
+deathday 2
 duelers
 duelistic
 dolentissimo
