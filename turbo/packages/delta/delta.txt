@@ -5765,7 +5765,7 @@ disestablishes
 desistance
 depots
 dasyure
-dictating
+dictating 1
 deprave 1
 disanagrammatize
 doxologizing
