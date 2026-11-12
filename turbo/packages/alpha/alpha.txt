@@ -10370,7 +10370,7 @@ audaciously
 archivers
 agglutinator
 amerced
-acupressure
+acupressure 1
 abscam
 apivorous
 attains
@@ -20338,7 +20338,7 @@ acephaline
 abacuses
 arsenites
 anarchic
-afley
+afley 1
 aeromedicine
 aegagropilae
 aseptol
