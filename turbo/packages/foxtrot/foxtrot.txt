@@ -2681,7 +2681,7 @@ frizziness
 fervence
 ferventness
 fishify 1
-fuminess
+fuminess 1
 flamant 1
 flambe
 faithing
@@ -7150,7 +7150,7 @@ fleerer 1
 frore 1
 formedon
 faecalith
-flites
+flites 1
 forthteller
 footless 1
 footlights

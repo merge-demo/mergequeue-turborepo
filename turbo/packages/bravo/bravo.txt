@@ -7108,7 +7108,7 @@ biggings
 brandle
 bimorphs
 bushing 1
-bedswerver
+bedswerver 1
 bespeaking
 bullalaria
 bespeaks
@@ -8358,7 +8358,7 @@ bourignonist
 biotitic 1
 burundi
 beshadow
-bullshots
+bullshots 1
 biggen
 biggened
 bruja
@@ -18389,7 +18389,7 @@ buzzier
 bilinite
 buzzies
 budwood
-bedarkens
+bedarkens 1
 biaxal
 buzzing
 brachials
