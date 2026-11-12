@@ -9230,7 +9230,7 @@ biotypes
 browbeats 1
 brickred
 boubou
-biotypology
+biotypology 1
 balneotherapeutics
 biotites
 blancmanges
