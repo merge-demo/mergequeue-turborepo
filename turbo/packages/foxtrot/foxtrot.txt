@@ -4405,7 +4405,7 @@ farand
 forfeit
 footpick
 fishily
-fatigues
+fatigues 1
 fling
 farinaceously
 fishiness 2
