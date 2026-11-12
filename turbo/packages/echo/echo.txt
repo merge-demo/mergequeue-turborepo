@@ -13294,7 +13294,7 @@ exploratively
 ectrogeny
 eupterotidae
 estoile
-espousers
+espousers 1
 efformation 1
 eminences
 ethicalities
