@@ -1042,7 +1042,7 @@ galvanoscopy
 geodist 1
 grasp
 golp
-glanced
+glanced 1
 glycohaemia 1
 groan 1
 glassfuls 1
@@ -2086,7 +2086,7 @@ gambade
 gader 1
 gaulin
 geleem
-grandbaby
+grandbaby 1
 gamblers
 gyrocompasses
 glottology
