@@ -3320,7 +3320,7 @@ emanatist 1
 epical
 eternalized
 emanativ
-erupt
+erupt 1
 enwreath
 enzooty
 emasculates 1
