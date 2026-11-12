@@ -7819,7 +7819,7 @@ grumble
 gunny 1
 gurlet
 gasometric
-guichet 1
+guichet 2
 guttide 1
 geranomorphae
 grovelled
@@ -9211,7 +9211,7 @@ griths
 gritted
 gutturality
 gimpiest
-gel
+gel 1
 grivna 1
 geosynchronous
 galeres
@@ -9379,7 +9379,7 @@ glossarial
 glissandi 2
 gymel
 grottoes
-gelatose
+gelatose 1
 grandeeism
 gaywings
 geryonidae
