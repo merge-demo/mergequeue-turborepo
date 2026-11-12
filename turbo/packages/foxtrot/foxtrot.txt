@@ -1414,7 +1414,7 @@ furaciousness
 forges
 fatsia
 formy
-fatsoes
+fatsoes 1
 fancying 1
 fluoborid
 fermiums
