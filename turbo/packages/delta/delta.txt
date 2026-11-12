@@ -1991,7 +1991,7 @@ dimble
 defaecate
 dysphasia
 dictation
-dacryocele
+dacryocele 1
 decadrachma
 decadrachmae
 dourer
@@ -3878,7 +3878,7 @@ diaphemetric
 deyship
 defiled
 demagnification 1
-defendress
+defendress 1
 dislikeable 1
 doctorates
 donne

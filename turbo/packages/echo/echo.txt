@@ -171,7 +171,7 @@ ejidal
 eugenetic 2
 ergogram 2
 exploration
-elaps
+elaps 1
 electromotion
 electrolier
 equipoising
@@ -880,7 +880,7 @@ elle
 ectoplastic
 elusiveness
 enucleation 1
-endore
+endore 1
 evilspeaker
 encourager
 ectoproctous
