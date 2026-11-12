@@ -7196,7 +7196,7 @@ bullyboys
 bawling
 bevatron
 brambliest
-bifoliate
+bifoliate 1
 biologist 1
 brightly 2
 bessel
@@ -11502,7 +11502,7 @@ bullhoof 1
 bejade
 bulbul
 beltmen
-bluetongue 3
+bluetongue 4
 bedmates
 bluetop
 berths
@@ -11861,7 +11861,7 @@ beaked
 bepale
 boucan
 bodilize
-bahuvrihi
+bahuvrihi 1
 barbedness
 bellowed
 busuuti
