@@ -5006,7 +5006,7 @@ ganged
 gret
 glassful
 gaunted
-grapplers 1
+grapplers 2
 gloxinia
 gossipmonger 1
 glasshouses
