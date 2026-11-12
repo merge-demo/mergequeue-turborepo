@@ -6155,7 +6155,7 @@ guinde 2
 gliriform 2
 goaltender 1
 grandmontine
-glaziers
+glaziers 1
 gushiness 1
 graddan
 guides
@@ -6906,7 +6906,7 @@ grecians
 gibbartas
 guasa
 gabies
-guiana 1
+guiana 2
 glaziness
 gruppetto
 gamut
