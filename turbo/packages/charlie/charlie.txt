@@ -10284,7 +10284,7 @@ chichling
 chick
 chelidosaurus
 chickabiddy
-chemosorb
+chemosorb 1
 cachoeira
 clactonian 1
 cyanidation
@@ -17723,7 +17723,7 @@ coconut
 coconuts
 cocoon
 cocooneries
-crockard
+crockard 1
 charterable 1
 crimeless
 creagh
