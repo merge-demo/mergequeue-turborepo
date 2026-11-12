@@ -8697,7 +8697,7 @@ glossitis 1
 greenery
 globin
 geraniaceous
-gismo
+gismo 1
 groundenell
 grubby 1
 glucosuric
