@@ -8196,7 +8196,7 @@ almsmoney
 archaean
 albino 1
 autecological
-antipyic
+antipyic 1
 aisles
 algorithmically
 alguifou
@@ -20675,7 +20675,7 @@ alencons
 accursedly
 airsome
 azides
-arthroxerosis
+arthroxerosis 1
 arthrozoa
 amaine
 atlaslike 1

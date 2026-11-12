@@ -3294,7 +3294,7 @@ dormant
 dilatant
 deliriate
 diastem
-demitting
+demitting 1
 disherit
 destiny
 domesticable
@@ -5337,7 +5337,7 @@ dendra 1
 decontrol
 delim 1
 deschampsia
-dayflies
+dayflies 1
 denudating
 disordained 3
 discanter
@@ -13668,7 +13668,7 @@ dequantitate
 diedral
 dissimilate 1
 depletion
-disacquaintance 2
+disacquaintance 3
 dissimilative
 dangered
 dandyishly
