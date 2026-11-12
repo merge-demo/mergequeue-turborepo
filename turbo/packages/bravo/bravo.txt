@@ -7502,7 +7502,7 @@ briards
 briefest
 bated 1
 breasted
-bureaucracies
+bureaucracies 1
 bishydroxycoumarin
 bailies
 bourbonize
@@ -9527,7 +9527,7 @@ bioinstrumentation
 bathymeter
 basaltine
 bemedaled
-bashes
+bashes 1
 birma
 busted
 biggins
