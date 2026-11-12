@@ -26320,7 +26320,7 @@ carbonnieux
 costotomy
 costotrachelian
 celebratedness
-cnidocil
+cnidocil 1
 ceteosaur 1
 chalcomancy
 costovertebral
