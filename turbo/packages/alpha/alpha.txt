@@ -2011,7 +2011,7 @@ aeneas
 achaean
 antiexpressionistic
 aperistalsis
-aequoreal
+aequoreal 1
 actinogram
 acropathology
 amplexus
