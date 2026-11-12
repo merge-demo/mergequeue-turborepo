@@ -5127,7 +5127,7 @@ gutwise 1
 grandioseness
 gaussbergite
 gleamy
-gorer 1
+gorer 2
 gunroom 1
 gangliglions
 gumboots
