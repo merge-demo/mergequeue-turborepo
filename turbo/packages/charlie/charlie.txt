@@ -31612,7 +31612,7 @@ curvative
 cozy
 crosstail
 clingstone
-curve
+curve 1
 constructed
 curvedly
 capitoul
