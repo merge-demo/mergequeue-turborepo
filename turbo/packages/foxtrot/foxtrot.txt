@@ -3246,7 +3246,7 @@ foppery
 filbert
 freit
 fascinative
-furciferine 1
+furciferine 2
 fifteenthly
 fireburn
 fomenting
@@ -5732,7 +5732,7 @@ flited 2
 fragmentist 1
 frontate 1
 funiculate
-foge
+foge 1
 freckliness 1
 finebent 1
 fuciphagous
