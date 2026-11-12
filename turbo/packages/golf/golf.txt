@@ -4340,7 +4340,7 @@ groundhog
 gink
 gorgoneia 1
 grandsonship
-gynogenetic
+gynogenetic 1
 gemmated 1
 grides
 gumdigger

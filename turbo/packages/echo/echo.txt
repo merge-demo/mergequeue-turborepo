@@ -969,7 +969,7 @@ enterococcus
 eastwards
 ethyl 1
 esoterics
-exhumes
+exhumes 1
 excavatory
 eumitosis
 exocardia 1
