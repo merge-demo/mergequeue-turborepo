@@ -1053,7 +1053,7 @@ exacted 1
 edger
 edgeshot 2
 ermani
-edgeway
+edgeway 1
 embalmment
 ephrathite
 exterritorial
