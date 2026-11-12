@@ -7290,7 +7290,7 @@ gutturally 1
 guze
 gravelling
 gangly
-gappier
+gappier 1
 goar
 gymnosophy
 genys 1
