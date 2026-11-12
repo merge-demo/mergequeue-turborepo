@@ -8759,7 +8759,7 @@ forgers 1
 foreprise
 filletster 2
 firry 1
-flashtube
+flashtube 1
 frustula
 feoffing
 favorably
@@ -11156,7 +11156,7 @@ frumperies
 flocculence 1
 fernlike
 foederal 1
-flywire
+flywire 1
 frumple
 fanciful
 francas 1
