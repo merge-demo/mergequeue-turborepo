@@ -18104,7 +18104,7 @@ cacopharyngia
 coenotype
 coenotypic
 coenotrope
-coenthrone
+coenthrone 1
 colatorium
 coleochaetaceae
 coequal
@@ -28937,7 +28937,7 @@ cribbing
 catawamptious
 compensating
 cribbiting
-crocheted
+crocheted 1
 cholericly
 criticist
 cribellum

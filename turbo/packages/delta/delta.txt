@@ -812,7 +812,7 @@ decongestion
 diabrotic 1
 deduced
 dangerousness
-distention
+distention 1
 dearths
 dulcorate
 della
@@ -15140,7 +15140,7 @@ disilicid
 dandruff
 demidandiprat
 dazzles
-doilies
+doilies 1
 decancellating
 diglottism
 divarication
