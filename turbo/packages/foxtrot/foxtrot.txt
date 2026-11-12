@@ -8271,7 +8271,7 @@ foxglove
 fosterage
 faultiness
 freestyler 1
-fusspots
+fusspots 1
 forepole
 fountaining
 foursome
@@ -10774,7 +10774,7 @@ frustum
 frutage
 ferren
 faithlessly 1
-footraces 1
+footraces 2
 folious
 firedragon
 fibrovasal

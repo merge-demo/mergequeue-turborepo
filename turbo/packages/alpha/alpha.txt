@@ -13252,7 +13252,7 @@ anientise
 achtelthaler
 animosity
 aftosas
-ancestors 1
+ancestors 2
 aegithognathous
 animus
 administrationist
@@ -14980,7 +14980,7 @@ anticonventional
 anticor
 anticorona
 anticorrosiveness
-animose 1
+animose 2
 anisidino 1
 alsatia
 autotherapy
