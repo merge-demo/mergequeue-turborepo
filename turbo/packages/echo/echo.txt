@@ -10748,7 +10748,7 @@ evangelically
 ephemeran
 extramoralist
 emer 1
-encomiastical
+encomiastical 1
 endogalvanism
 eucnemidae
 excursions
