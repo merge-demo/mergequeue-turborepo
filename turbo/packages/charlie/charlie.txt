@@ -2239,7 +2239,7 @@ companionability
 camstone
 canaliculization
 camuning
-cholecystolithotripsy
+cholecystolithotripsy 1
 camus
 camused 1
 camuses
@@ -4039,7 +4039,7 @@ cardanol
 chymist
 cardboard
 crissum
-crucianella
+crucianella 1
 ceroid
 chromocentral
 creaminess
