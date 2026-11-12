@@ -4650,7 +4650,7 @@ glazen
 geisothermal
 gigged 1
 geelbec
-galchic 1
+galchic 2
 gifting 1
 giraffes
 generis
@@ -8205,7 +8205,7 @@ goldbug
 gutturalising
 gnosticism
 gos
-greater
+greater 1
 gallowsmaker
 grossers
 glam
