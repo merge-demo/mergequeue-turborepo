@@ -1628,7 +1628,7 @@ flappier
 frijol
 formalistic 1
 fervescence
-flannel
+flannel 1
 fawkener
 fraischeur
 funfair
