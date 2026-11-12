@@ -3733,7 +3733,7 @@ antesternum
 adevism
 adfected
 archmilitarist
-aburabozu
+aburabozu 1
 adfluxion
 adjiga
 alligator
@@ -16292,7 +16292,7 @@ alcicornium
 alcaic
 antitrades
 aitchless
-adamants
+adamants 1
 adenometritis
 accombination
 arborvitae
