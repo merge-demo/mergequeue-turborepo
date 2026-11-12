@@ -6855,7 +6855,7 @@ entomophobia
 ensue
 earwaxes 1
 esthesiography 1
-embarked
+embarked 1
 eucryptite
 epic
 electrochemical
@@ -10315,7 +10315,7 @@ equipostile
 electuaries
 enneacontahedral 1
 exosmic 1
-extemporise
+extemporise 1
 exaggerative 1
 eupomatiaceae
 ethonomics
