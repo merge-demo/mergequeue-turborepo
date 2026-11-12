@@ -7229,7 +7229,7 @@ catarinite
 cryptococcal
 cohobated
 centuple
-clematises
+clematises 1
 centuples
 codbank
 chaldese
@@ -30208,7 +30208,7 @@ concentrators
 cains
 cursed
 cleistothecia
-crudity
+crudity 1
 collotypy
 crudities
 companions
