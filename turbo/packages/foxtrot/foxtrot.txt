@@ -5641,7 +5641,7 @@ fermium
 flunky
 friend
 fawe
-fragility 1
+fragility 2
 fibrine
 freckles 1
 funeration
@@ -8714,7 +8714,7 @@ furfuralcohol
 fossule
 fiddlers
 forwardal
-fermentability
+fermentability 1
 fadable 1
 forethought
 frenzic
