@@ -5512,7 +5512,7 @@ dothideaceous
 dieters
 depeopled
 deperdit
-disentrancing
+disentrancing 1
 duffel
 determiners
 discussive
@@ -14235,7 +14235,7 @@ daboia
 defenselessly
 derotrematous
 disyoked
-doublet
+doublet 1
 disvisor
 dungs
 dynamoelectric 1
@@ -15086,7 +15086,7 @@ dogie
 dicycle 2
 deboshed
 doglike 1
-dekabrist
+dekabrist 1
 dufrenite
 domitian
 dedicative
