@@ -4555,7 +4555,7 @@ gufought
 galbulae
 galipoipin
 gymnanthes
-gluttonism
+gluttonism 1
 grecianize 1
 giro
 glossae 1
@@ -9463,7 +9463,7 @@ gae
 gonyaulax
 gernative
 genapping
-graceful
+graceful 1
 gunmanship 1
 guelphish
 grundlov
@@ -9774,7 +9774,7 @@ galeche
 gumfield
 gitano
 glycidic
-grylle 1
+grylle 2
 gonothecal
 gobstick
 geognosies
