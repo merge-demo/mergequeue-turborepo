@@ -3311,7 +3311,7 @@ afreet
 arctamerican
 adagiettos
 adagios
-auscultoscope 1
+auscultoscope 2
 aristolochiaceous
 acetite
 avalanching
@@ -22612,7 +22612,7 @@ athanasian
 athanasianism
 athanasianist
 aplustra
-arable
+arable 1
 aluminizing 1
 athanasies 1
 antisialagogue
