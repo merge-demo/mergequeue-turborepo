@@ -4652,7 +4652,7 @@ epidermophyton
 enchorial
 echinoderm
 eremiteship
-enchoric
+enchoric 1
 extraterritorials
 ekoi
 entanglers
@@ -9112,7 +9112,7 @@ equinoxes
 eccrisis
 egyptologist 1
 evasion
-embordered
+embordered 1
 erythropsia
 electrograving
 entwist
@@ -10748,7 +10748,7 @@ evangelically
 ephemeran
 extramoralist
 emer 1
-encomiastical
+encomiastical 1
 endogalvanism
 eucnemidae
 excursions
