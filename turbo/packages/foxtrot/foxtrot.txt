@@ -9151,7 +9151,7 @@ fries 1
 fragileness
 foreknown
 faceplate
-futilize
+futilize 1
 fucus
 fledged
 fumously 1
@@ -10552,7 +10552,7 @@ footslogging
 fiery
 famishment
 fixable 1
-frictionless
+frictionless 1
 francisca
 faiths
 forehanded
