@@ -9437,7 +9437,7 @@ demode
 doppelganger
 davidsonite
 dozener
-digeneous
+digeneous 1
 decubitus
 dissert
 digenetic
@@ -17388,7 +17388,7 @@ drops 1
 dialoguing
 dammar
 demesgnes
-disrudder
+disrudder 1
 dreamworld
 doeth 1
 docmac 1
