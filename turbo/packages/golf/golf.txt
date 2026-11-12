@@ -4958,7 +4958,7 @@ glyptological
 gleetiest 1
 goofed
 ganders
-gallingness 1
+gallingness 2
 grovels
 gigantical 1
 gonocheme
@@ -8770,7 +8770,7 @@ gloves
 gadid
 glimpsers 1
 grandchildren 1
-gelatinochloride
+gelatinochloride 1
 gunslinger
 garbles
 generable
