@@ -287,7 +287,7 @@ genom
 gainliness
 guileless
 gamings 3
-gainsaying
+gainsaying 1
 gypsyish
 groin
 guillochee 1
@@ -3401,7 +3401,7 @@ glossolaryngeal
 globularia 1
 gourmets
 grappled 1
-gerrymander
+gerrymander 1
 gorgons
 goldwater
 grubbed
