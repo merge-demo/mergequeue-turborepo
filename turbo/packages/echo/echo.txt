@@ -1931,7 +1931,7 @@ estoppal
 eurypterid
 elaphe 1
 essenical
-ejected 1
+ejected 2
 epitasis
 eupatorine
 epinette
