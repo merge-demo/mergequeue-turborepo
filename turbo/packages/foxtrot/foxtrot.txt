@@ -9573,7 +9573,7 @@ fleeceable
 fdub
 fragmentitious
 fleabugs
-fabula
+fabula 1
 featherbone
 foodlessness 1
 flytime

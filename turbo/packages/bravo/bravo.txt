@@ -2530,7 +2530,7 @@ barger
 bardash
 bractea
 borscht
-beruffled
+beruffled 1
 boccia
 blueblack
 beslash 1
