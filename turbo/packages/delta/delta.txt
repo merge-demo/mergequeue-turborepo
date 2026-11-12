@@ -18105,7 +18105,7 @@ deictically
 defatting
 dumbstricken
 demisemiquaver 1
-demagnetize
+demagnetize 1
 dumdum
 dumdums
 dadu 1
