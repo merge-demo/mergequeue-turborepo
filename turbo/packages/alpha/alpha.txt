@@ -1170,7 +1170,7 @@ azimuths
 advancing
 acana
 antilopine
-anemophily
+anemophily 1
 acanonical
 acanthaceous
 aeacus
@@ -3664,7 +3664,7 @@ adenophlegmon
 appulsively
 antestature 1
 adenophora
-abscissas
+abscissas 1
 avianizing
 archaize
 advisorily

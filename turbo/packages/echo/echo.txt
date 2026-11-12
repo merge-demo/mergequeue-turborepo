@@ -1468,7 +1468,7 @@ etymologised
 electrometric
 exquisitely 1
 euphonia
-equisetums
+equisetums 1
 enplaning
 encompasses
 eurythermous
@@ -5115,7 +5115,7 @@ endocoele
 enaliosaurian 1
 exploiter
 effaced
-expositoriness 1
+expositoriness 2
 evanishment
 endoconidia
 edificate

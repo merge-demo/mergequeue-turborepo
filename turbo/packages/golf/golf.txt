@@ -9004,7 +9004,7 @@ givin 1
 galbraithian 1
 gilguy 2
 galoshes
-gateways
+gateways 1
 gomasta
 gothlander
 gramophonical 1

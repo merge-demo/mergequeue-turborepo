@@ -1628,7 +1628,7 @@ flappier
 frijol
 formalistic 1
 fervescence
-flannel
+flannel 1
 fawkener
 fraischeur
 funfair
@@ -7315,7 +7315,7 @@ flimsiest
 filles
 forbad
 faeces
-fat 1
+fat 2
 forbborne 1
 freshen
 feudalism
