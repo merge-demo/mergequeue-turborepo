@@ -4536,7 +4536,7 @@ disroof 1
 debentured
 disavows
 disgust 1
-dackers
+dackers 1
 demipique
 devotedness
 dishtowel
@@ -15567,7 +15567,7 @@ deflocculent
 deathsmen 1
 donum 1
 donzel
-discovering
+discovering 1
 doubt 1
 donzels
 doob 1
@@ -16698,7 +16698,7 @@ dabble
 deliberalize
 deoxidizes
 divellicate
-dramatization
+dramatization 1
 downshare 1
 dramatized
 droddum
