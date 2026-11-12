@@ -1626,7 +1626,7 @@ dimetrodon
 deodate
 datolitic
 domify
-devertebrated 1
+devertebrated 2
 daydrudge
 dealkylate
 daundered 1
@@ -5767,7 +5767,7 @@ depots
 dasyure
 dictating
 deprave 1
-disanagrammatize
+disanagrammatize 1
 doxologizing
 dreidel
 dimagnesic
