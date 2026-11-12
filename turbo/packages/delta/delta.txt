@@ -7965,7 +7965,7 @@ drawpoint 2
 dextroglucose
 distensive
 dextrolactic
-despotes 1
+despotes 2
 diphenylthiourea 1
 dorosternal
 dextrolimonene
