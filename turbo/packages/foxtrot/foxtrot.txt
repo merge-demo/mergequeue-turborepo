@@ -2414,7 +2414,7 @@ farinhas
 foiler
 ferling
 flemishes
-furls
+furls 1
 fortnightly
 festivals
 fermail
@@ -5169,7 +5169,7 @@ flatteringness 1
 flustered
 fistulina
 farsakh
-flatulency
+flatulency 1
 flatfeet
 flatulencies
 fictions 1
