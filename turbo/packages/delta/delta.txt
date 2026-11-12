@@ -9437,7 +9437,7 @@ demode
 doppelganger
 davidsonite
 dozener
-digeneous
+digeneous 1
 decubitus
 dissert
 digenetic

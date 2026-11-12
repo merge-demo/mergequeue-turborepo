@@ -5384,7 +5384,7 @@ fosterhood 1
 flecky
 fosterite
 furole 2
-forecounsel
+forecounsel 1
 flyswat
 feridji 1
 figuration
@@ -11207,7 +11207,7 @@ fidgetily
 freechurchism
 fungoids
 futilely
-fixating
+fixating 1
 foremanship 1
 fippence
 futuric
