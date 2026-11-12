@@ -20205,7 +20205,7 @@ commodata
 commodate
 clerics 1
 commodation
-capmint
+capmint 1
 coft
 cunza
 coercends 1
@@ -23267,7 +23267,7 @@ charrs
 counteractor
 coplotted
 corncockle
-cavaliere
+cavaliere 1
 cockadoodledoo
 consubstantiate 1
 consubstantiated
