@@ -10278,7 +10278,7 @@ existents
 exomorphic
 extension 1
 ethmofrontal
-eyebridled
+eyebridled 1
 esquamate
 expeller
 empemata
@@ -10827,7 +10827,7 @@ earache
 educes 1
 embassiate
 eligibilities 1
-endostomata
+endostomata 1
 envineyard 1
 elaeoblastic 1
 enchase
@@ -12426,7 +12426,7 @@ encomiums
 epistyle
 erythrocytometry
 experient
-eyer
+eyer 1
 elocutioner
 ergometer
 effude 1
