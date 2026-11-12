@@ -2966,7 +2966,7 @@ boules 1
 brassavola
 bracketed
 barrelwise 1
-barretor
+barretor 1
 bloodybones 1
 bonus
 beath
@@ -11502,7 +11502,7 @@ bullhoof 1
 bejade
 bulbul
 beltmen
-bluetongue 3
+bluetongue 4
 bedmates
 bluetop
 berths
@@ -11861,7 +11861,7 @@ beaked
 bepale
 boucan
 bodilize
-bahuvrihi
+bahuvrihi 1
 barbedness
 bellowed
 busuuti

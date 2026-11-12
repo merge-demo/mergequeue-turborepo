@@ -15128,7 +15128,7 @@ antiejaculation
 alterants
 allotrope
 antisocialistically
-apsidal
+apsidal 1
 angariation
 acrothoracica
 antiemetic
