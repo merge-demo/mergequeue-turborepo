@@ -1546,7 +1546,7 @@ feedbox
 flippant
 foulish
 foreshift 1
-foetuses
+foetuses 1
 fauterer
 fauteuil
 fussy 1
