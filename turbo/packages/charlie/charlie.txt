@@ -8869,7 +8869,7 @@ candylike
 cunni
 cremains 1
 cochylis
-charadrius
+charadrius 1
 charango
 corrida
 chorioidal
@@ -12208,7 +12208,7 @@ concludible
 chrysophenin
 chrysophilist
 chrysophyte
-conyrin
+conyrin 1
 chromonemic
 chrysopid
 chrysopidae
