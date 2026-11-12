@@ -3880,7 +3880,7 @@ defiled
 demagnification 1
 defendress
 dislikeable 1
-doctorates
+doctorates 1
 donne
 delabialization
 denigration
