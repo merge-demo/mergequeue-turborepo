@@ -17723,7 +17723,7 @@ coconut
 coconuts
 cocoon
 cocooneries
-crockard
+crockard 1
 charterable 1
 crimeless
 creagh
