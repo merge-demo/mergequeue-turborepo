@@ -15703,7 +15703,7 @@ calcicole
 cyproheptadine
 clinks
 chinche
-coagulable
+coagulable 1
 clunch
 clawker
 clawless
