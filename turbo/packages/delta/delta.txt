@@ -754,7 +754,7 @@ denumerant
 douceness
 discotheques
 didelphia
-decelerometer 1
+decelerometer 2
 dedolence
 dnieper
 dermatoconiosis
@@ -3878,7 +3878,7 @@ diaphemetric
 deyship
 defiled
 demagnification 1
-defendress
+defendress 1
 dislikeable 1
 doctorates
 donne

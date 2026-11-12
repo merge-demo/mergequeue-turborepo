@@ -12717,7 +12717,7 @@ alambique
 amb
 atonalism
 atherogenesis
-angelicalness
+angelicalness 1
 angelicic
 amphibians 1
 ananaples
@@ -21080,7 +21080,7 @@ asclepidin 1
 asclepidoid
 asclepin 1
 approacher
-acromyotonus
+acromyotonus 1
 ascocarp
 ascocarps
 anticeremonialist

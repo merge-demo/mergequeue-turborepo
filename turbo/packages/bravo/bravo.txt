@@ -8033,7 +8033,7 @@ borazons
 bioxalate
 bichos
 bichromatize 1
-bedebt
+bedebt 1
 bowstaff
 bellworts
 bicyanide
