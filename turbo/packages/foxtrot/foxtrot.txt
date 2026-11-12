@@ -5665,7 +5665,7 @@ footpound
 foreignization
 folioliferous
 fluidmeter 1
-fresnels 1
+fresnels 2
 factional
 facilitator 1
 flyovers
@@ -10774,7 +10774,7 @@ frustum
 frutage
 ferren
 faithlessly 1
-footraces 1
+footraces 2
 folious
 firedragon
 fibrovasal
