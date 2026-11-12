@@ -2485,7 +2485,7 @@ bargham
 brie
 balbutient
 batino 1
-brendan
+brendan 1
 barandos
 balaklava
 bradypodidae
@@ -5694,7 +5694,7 @@ beldams
 bacchar 1
 bilify 1
 belderroot
-bodgie
+bodgie 1
 beleaguering
 bongar
 beleapt
@@ -11536,7 +11536,7 @@ banyoro
 battakhin
 begged
 bathometer
-bumboatman 1
+bumboatman 2
 behaves
 broadshare 1
 budder 1
