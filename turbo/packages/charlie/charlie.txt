@@ -17090,7 +17090,7 @@ coadjudicator
 coadjutant
 campement 1
 covotary
-commonweal 1
+commonweal 2
 confluent
 coemptional
 champ
@@ -18707,7 +18707,7 @@ choleokinase
 colas
 corsaint
 cucurbital
-colate
+colate 1
 consistorial
 canaliculation
 comprehensibility
@@ -23456,7 +23456,7 @@ contemporising
 contemporize
 contemptibility
 contemptible
-counterruin
+counterruin 1
 chaetotactic
 circumstantiability
 contemptibleness
