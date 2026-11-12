@@ -6855,7 +6855,7 @@ entomophobia
 ensue
 earwaxes 1
 esthesiography 1
-embarked
+embarked 1
 eucryptite
 epic
 electrochemical
@@ -12229,7 +12229,7 @@ encourage
 eskuara
 ephemerides
 ext
-emmental 1
+emmental 2
 exhibiters
 ecclesiolater 1
 equipment

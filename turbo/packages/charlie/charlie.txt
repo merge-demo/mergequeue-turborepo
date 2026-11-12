@@ -18485,7 +18485,7 @@ collat
 cohibit
 cohibition
 chinks
-cohibitor
+cohibitor 1
 cohitre
 chandlering
 collieries
@@ -29470,7 +29470,7 @@ crystallize
 crystallizes
 crystallochemical
 calvinist
-chaldaism 1
+chaldaism 2
 chati
 cannoning
 convertend
