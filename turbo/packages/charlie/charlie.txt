@@ -3173,7 +3173,7 @@ coats
 cohens
 cenesthesia
 carapace
-clusters
+clusters 1
 capersome
 capersomeness 1
 cranches
@@ -18202,7 +18202,7 @@ coextent
 cofactors 1
 castrating
 cofane 1
-conflagrator
+conflagrator 1
 cofather
 cutlery
 cofeature 1
