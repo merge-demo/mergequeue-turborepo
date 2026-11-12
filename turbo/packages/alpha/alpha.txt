@@ -13605,7 +13605,7 @@ autoaddress 1
 abura
 akaakai
 apostasis 1
-ambuscading
+ambuscading 1
 annulosa
 antings
 annuls
@@ -19411,7 +19411,7 @@ anagogically
 apothegmatically
 argenteous
 amphorophony 1
-allicins
+allicins 1
 allowance
 auspicating
 anostosis
@@ -20179,7 +20179,7 @@ aoli
 acidulation 1
 arratel
 asclepieion
-apothem
+apothem 1
 astrogation
 arrau
 assiduously

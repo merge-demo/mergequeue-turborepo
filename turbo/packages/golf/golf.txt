@@ -6704,7 +6704,7 @@ gulash
 graminivorous
 galvanolysis
 giddyberry 1
-glucide 1
+glucide 2
 groomy
 girlfriends
 gascheck 2
@@ -10032,7 +10032,7 @@ greasing
 gastrohysterotomy
 granitoidal
 gaslit
-getah
+getah 1
 gisler 1
 guerdoner
 greatheart
