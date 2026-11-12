@@ -8507,7 +8507,7 @@ etherialized 1
 ethnologer 1
 erectility
 equal
-eosinlike 1
+eosinlike 2
 eyas
 equalises
 erectness
@@ -8868,7 +8868,7 @@ erethisia
 excursively
 euthytropic
 embossers
-eelworms
+eelworms 1
 enteron
 erewhile
 erewhiles

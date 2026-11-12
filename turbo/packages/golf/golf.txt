@@ -2073,7 +2073,7 @@ gutlessness
 grotto 1
 gavots 1
 gazetteership
-glycerophosphoric
+glycerophosphoric 1
 gomari
 giftless 1
 gutturonasal 1
@@ -7650,7 +7650,7 @@ grader 1
 gingerous
 grouseward 1
 glovey 1
-gradient
+gradient 1
 galey
 greybeard
 goatishly
