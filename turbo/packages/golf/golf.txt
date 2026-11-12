@@ -829,7 +829,7 @@ gonadotrophic
 greenlandite
 gastrostenosis 1
 genets
-glucosane
+glucosane 1
 ghurry
 gastrocolic
 grazeable
