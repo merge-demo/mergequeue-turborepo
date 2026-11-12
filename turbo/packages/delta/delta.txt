@@ -10433,7 +10433,7 @@ dashikis
 demibath 1
 diphonia 2
 dismiss 1
-drowsy
+drowsy 1
 duumvirs
 deglutitive
 distortion 1
