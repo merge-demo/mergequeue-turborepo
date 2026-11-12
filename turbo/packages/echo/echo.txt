@@ -841,7 +841,7 @@ electrolyser
 excrementous
 enchair
 elong
-ethology
+ethology 1
 ectodermosis
 ennuyante 1
 erastianize
@@ -8507,7 +8507,7 @@ etherialized 1
 ethnologer 1
 erectility
 equal
-eosinlike 1
+eosinlike 2
 eyas
 equalises
 erectness

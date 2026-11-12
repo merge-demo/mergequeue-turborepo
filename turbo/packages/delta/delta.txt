@@ -15086,7 +15086,7 @@ dogie
 dicycle 2
 deboshed
 doglike 1
-dekabrist
+dekabrist 1
 dufrenite
 domitian
 dedicative
@@ -15593,7 +15593,7 @@ doomed 1
 doomer
 danakil 1
 decerning
-disconnections
+disconnections 1
 dissentaneousness
 digor
 doomsayer
