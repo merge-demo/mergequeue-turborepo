@@ -4701,7 +4701,7 @@ enciphering
 enrapture
 eulogism 1
 engerminate
-executonis
+executonis 1
 epacmaic
 epigean
 ensphering
