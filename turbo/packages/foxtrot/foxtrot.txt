@@ -10335,7 +10335,7 @@ forecourt
 fere
 francia
 foss
-footcandles
+footcandles 1
 forewarning
 fraenula
 floodlighted 1
