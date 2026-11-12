@@ -4785,7 +4785,7 @@ gobiesociform
 gypaetus 2
 griffinism
 gumma 1
-gubernaculum
+gubernaculum 1
 gynecidal 1
 garlicwort
 glades 2
