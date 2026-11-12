@@ -3874,7 +3874,7 @@ geoscopy 1
 gubbertush
 goustrous
 grecing
-gawkies
+gawkies 1
 giving 1
 genitally
 graphomotor
@@ -5127,7 +5127,7 @@ gutwise 1
 grandioseness
 gaussbergite
 gleamy
-gorer 1
+gorer 2
 gunroom 1
 gangliglions
 gumboots

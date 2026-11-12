@@ -18707,7 +18707,7 @@ choleokinase
 colas
 corsaint
 cucurbital
-colate
+colate 1
 consistorial
 canaliculation
 comprehensibility
@@ -23456,7 +23456,7 @@ contemporising
 contemporize
 contemptibility
 contemptible
-counterruin
+counterruin 1
 chaetotactic
 circumstantiability
 contemptibleness
