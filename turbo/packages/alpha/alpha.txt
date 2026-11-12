@@ -9314,7 +9314,7 @@ abasements
 alongshore
 archbishops 1
 alemana
-alongshoreman
+alongshoreman 1
 autonetics
 antisymmetric
 aloose
