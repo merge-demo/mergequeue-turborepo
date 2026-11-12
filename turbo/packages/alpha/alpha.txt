@@ -17713,7 +17713,7 @@ antiquities
 applejohn
 analogice 1
 antidotism
-apples
+apples 1
 applewoman
 adopts
 aestethic
