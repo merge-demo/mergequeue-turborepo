@@ -1468,7 +1468,7 @@ etymologised
 electrometric
 exquisitely 1
 euphonia
-equisetums
+equisetums 1
 enplaning
 encompasses
 eurythermous
@@ -12229,7 +12229,7 @@ encourage
 eskuara
 ephemerides
 ext
-emmental 1
+emmental 2
 exhibiters
 ecclesiolater 1
 equipment
