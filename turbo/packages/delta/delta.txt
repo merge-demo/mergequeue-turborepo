@@ -7806,7 +7806,7 @@ devons
 desirability
 devoration
 dadaists 1
-dentel
+dentel 1
 dairyings
 devoted
 dipsomaniacal
