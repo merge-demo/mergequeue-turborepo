@@ -2235,7 +2235,7 @@ bostonite
 bedrivelled
 barauna
 barba
-bayards
+bayards 1
 boneheadedness
 bromize
 broggle
@@ -7108,7 +7108,7 @@ biggings
 brandle
 bimorphs
 bushing 1
-bedswerver
+bedswerver 1
 bespeaking
 bullalaria
 bespeaks
