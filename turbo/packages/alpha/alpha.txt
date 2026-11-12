@@ -6250,7 +6250,7 @@ antiferment
 aquerne
 agoraphobic 1
 annuitant
-antiracing
+antiracing 1
 agorot
 abearance
 agos
@@ -14187,7 +14187,7 @@ anteporticos
 anteprohibition
 acetarsone
 antequalm 1
-argumentator
+argumentator 1
 admonitive
 abmho
 arduous
