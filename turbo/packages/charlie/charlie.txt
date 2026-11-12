@@ -784,7 +784,7 @@ cagoule
 cahenslyism
 cahier
 corniche
-chunking
+chunking 1
 capstan
 cristae 1
 completories
@@ -1075,7 +1075,7 @@ calceus
 challengable
 costoclavicular
 calchas
-calche 1
+calche 2
 cordials
 combs
 creeling
