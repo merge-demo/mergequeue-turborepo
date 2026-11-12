@@ -13141,7 +13141,7 @@ deflourish
 didactive
 detonates
 desynonymization 1
-dispersers
+dispersers 1
 dreigh
 doubtful
 dipicrylamin
