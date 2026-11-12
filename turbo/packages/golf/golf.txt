@@ -9222,7 +9222,7 @@ gaugeably
 grizzling
 glorioles
 ghosts 1
-groanful 1
+groanful 2
 gizzened
 gayly
 gastrectasia 1
