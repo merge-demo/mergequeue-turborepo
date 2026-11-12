@@ -12514,7 +12514,7 @@ celoscope
 cornercap
 collophore
 chromospheric
-colytic
+colytic 1
 committitur
 cadjan
 cranemen
@@ -25873,7 +25873,7 @@ crippled 1
 corse
 chemoautotrophically
 contradicting
-cornish
+cornish 1
 cakewalk
 curvirostral
 cloudier 1
