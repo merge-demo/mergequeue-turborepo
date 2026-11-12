@@ -10373,7 +10373,7 @@ exactment
 endeavoured
 exophagy
 ecclesiastical
-emperorship
+emperorship 1
 epiphysial
 ethologists
 euphonical
