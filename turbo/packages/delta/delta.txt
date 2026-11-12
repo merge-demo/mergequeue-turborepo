@@ -7673,7 +7673,7 @@ dusting 3
 deviatory
 discission
 densimetrically
-disassembles
+disassembles 1
 devil 1
 disciplinary
 devildom
@@ -16115,7 +16115,7 @@ dementie
 defectology
 dispurse 1
 designators 1
-doulocracy
+doulocracy 1
 doum
 didynamy 1
 discrowned
