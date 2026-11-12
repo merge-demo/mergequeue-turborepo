@@ -5648,7 +5648,7 @@ asquare
 agag
 avarian
 appointees
-andabatarian
+andabatarian 1
 aeschylean
 again 1
 adorsed
@@ -10001,7 +10001,7 @@ ambassade 1
 appreciatively 1
 alkynes
 adactylia 1
-alerion
+alerion 1
 ambassadorially
 ascription
 ambatoarinite
@@ -14980,7 +14980,7 @@ anticonventional
 anticor
 anticorona
 anticorrosiveness
-animose 1
+animose 2
 anisidino 1
 alsatia
 autotherapy
