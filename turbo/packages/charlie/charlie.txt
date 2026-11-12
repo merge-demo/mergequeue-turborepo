@@ -8657,7 +8657,7 @@ chaotic
 coccoid
 chaoua
 catastaltic
-callans
+callans 1
 citronelle
 choli
 chaouia
@@ -16057,7 +16057,7 @@ characinid
 crinkum 1
 circlewise
 clyers
-carmoisin
+carmoisin 1
 calciums
 chicles
 clithridiate
