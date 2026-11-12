@@ -12174,7 +12174,7 @@ demurs
 disfoliaged
 demobilization
 descendibility 1
-disherent
+disherent 1
 disfortune
 dramatism
 diomedea 2
