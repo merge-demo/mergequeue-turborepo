@@ -634,7 +634,7 @@ gobi
 guenepe
 guideline
 galvanist 1
-gramineal
+gramineal 1
 geodetic
 genarchship 1
 gweducs
@@ -4559,7 +4559,7 @@ gluttonism 1
 grecianize 1
 giro
 glossae 1
-gastronomist
+gastronomist 1
 gillhooter 1
 germanyl
 gruys
