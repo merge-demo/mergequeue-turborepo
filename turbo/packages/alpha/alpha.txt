@@ -8910,7 +8910,7 @@ algorismic
 ambo
 alicula
 anteroflexion
-amniatic
+amniatic 1
 amidogen
 allodiality
 asherim
@@ -20165,7 +20165,7 @@ arrayals
 away
 auscultated
 arrangers
-aiders
+aiders 1
 avoided
 arranges
 absaroka
