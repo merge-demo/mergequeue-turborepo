@@ -2115,7 +2115,7 @@ gardenia
 gastrostege
 geison
 gawking
-glucinic 1
+glucinic 2
 gastrins 1
 galactopoietic
 gamelion 1
