@@ -8714,7 +8714,7 @@ furfuralcohol
 fossule
 fiddlers
 forwardal
-fermentability
+fermentability 1
 fadable 1
 forethought
 frenzic
