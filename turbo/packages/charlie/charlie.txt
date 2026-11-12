@@ -6109,7 +6109,7 @@ cattaloes 1
 cyaniding
 catted
 crottels
-consubsist
+consubsist 1
 cryptocarya
 cowpea
 chromophobe
