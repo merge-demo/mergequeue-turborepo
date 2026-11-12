@@ -9743,7 +9743,7 @@ falchion
 fessways
 fatigability
 fishworm
-flenches
+flenches 1
 fluentness
 forgiveless
 faerie
