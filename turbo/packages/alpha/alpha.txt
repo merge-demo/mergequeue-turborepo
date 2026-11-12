@@ -11499,7 +11499,7 @@ alephs
 ateeter
 adnexitis
 adonic
-amygdalae
+amygdalae 1
 amu
 arteriae
 amuchco
@@ -12717,7 +12717,7 @@ alambique
 amb
 atonalism
 atherogenesis
-angelicalness
+angelicalness 1
 angelicic
 amphibians 1
 ananaples

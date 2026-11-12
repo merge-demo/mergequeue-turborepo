@@ -1991,7 +1991,7 @@ dimble
 defaecate
 dysphasia
 dictation
-dacryocele
+dacryocele 1
 decadrachma
 decadrachmae
 dourer
@@ -6804,7 +6804,7 @@ disproportionalness
 doatish
 draughted
 drawgear
-dupla
+dupla 1
 diagnosticians
 desmoncus
 decolonize
