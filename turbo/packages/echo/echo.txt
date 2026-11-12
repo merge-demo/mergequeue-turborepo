@@ -6855,7 +6855,7 @@ entomophobia
 ensue
 earwaxes 1
 esthesiography 1
-embarked
+embarked 1
 eucryptite
 epic
 electrochemical
