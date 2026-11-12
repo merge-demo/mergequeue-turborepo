@@ -379,7 +379,7 @@ equites 1
 episomally
 endergonic
 empery 2
-examiners
+examiners 1
 ejaculated
 eyeleting
 eelery
@@ -8272,7 +8272,7 @@ expensively
 ectoplasmic
 ellagate
 exemplification
-epitaxies
+epitaxies 1
 epitaxis
 ebonizes
 epidemicity

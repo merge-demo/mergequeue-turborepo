@@ -785,7 +785,7 @@ footbridge
 fanciless
 foliicolous
 fathomer
-frush 1
+frush 2
 forestaff
 fandoms
 fadges
@@ -7565,7 +7565,7 @@ forespeak
 fervors 2
 forgathers 1
 forril 1
-fatalize
+fatalize 1
 farrier
 ferroglass
 fees
