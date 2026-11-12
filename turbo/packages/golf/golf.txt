@@ -2115,7 +2115,7 @@ gardenia
 gastrostege
 geison
 gawking
-glucinic 1
+glucinic 2
 gastrins 1
 galactopoietic
 gamelion 1
@@ -4742,7 +4742,7 @@ gastropleuritis
 gyniatrics
 gravedo
 gonytheca
-geisa
+geisa 1
 governorship
 galgal
 gweducks
