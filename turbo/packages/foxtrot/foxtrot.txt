@@ -10681,7 +10681,7 @@ fargood
 fivepence
 fitments
 forenamed
-florican
+florican 1
 fundamental 1
 fidicinal
 flatulent
