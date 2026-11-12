@@ -27483,7 +27483,7 @@ covary 1
 chelicerae
 curtailer
 covariable
-chumpiness
+chumpiness 1
 cathartical
 cheongsam
 cloakmaker
