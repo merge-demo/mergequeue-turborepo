@@ -11297,7 +11297,7 @@ ecdysons
 epupillate
 enwrap
 eightling
-evaporitic
+evaporitic 1
 enforcively
 evapotranspiration
 ecaudata
