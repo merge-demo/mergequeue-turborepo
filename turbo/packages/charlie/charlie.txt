@@ -3894,7 +3894,7 @@ clarity
 contradistinguish
 couche
 celibacies
-cowheel
+cowheel 1
 compleat 1
 casquet 1
 carborundum
@@ -18196,7 +18196,7 @@ coexpanded
 coexperiencer
 catchment
 clubbiness
-coextends 1
+coextends 2
 creep
 coextent
 cofactors 1
