@@ -15803,7 +15803,7 @@ antiepileptic
 atonements
 amphisbaenian 2
 afloat
-authorization
+authorization 1
 appetizingly
 antipyics
 antipyonin

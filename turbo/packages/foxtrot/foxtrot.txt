@@ -9245,7 +9245,7 @@ foldboats
 fistulization 2
 frowsiness
 frances 1
-figurants
+figurants 1
 forcelet
 franchisees
 foulings
