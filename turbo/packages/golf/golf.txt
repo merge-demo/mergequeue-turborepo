@@ -6169,7 +6169,7 @@ gamblesome 1
 gardener 1
 glacialism
 geomyidae
-guahibo 1
+guahibo 2
 glyptodontidae 2
 grimacier
 goatfishes
@@ -7983,7 +7983,7 @@ gymnastical
 gomarist
 gunnies
 gorsechat
-grabbots
+grabbots 1
 geste
 gemse 1
 giles
