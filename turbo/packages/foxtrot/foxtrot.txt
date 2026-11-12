@@ -2681,7 +2681,7 @@ frizziness
 fervence
 ferventness
 fishify 1
-fuminess
+fuminess 1
 flamant 1
 flambe
 faithing
@@ -7555,7 +7555,7 @@ forjudgment
 fatimid
 foredoomer
 fgn
-fructuarius 1
+fructuarius 2
 funiculus
 fanciers
 flintworker
