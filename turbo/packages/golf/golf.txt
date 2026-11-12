@@ -10671,7 +10671,7 @@ grove
 glyphographic 1
 generalty
 glycerols 1
-gurnard
+gurnard 1
 gib
 glaucomatous
 googol
