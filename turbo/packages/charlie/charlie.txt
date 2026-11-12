@@ -8657,7 +8657,7 @@ chaotic
 coccoid
 chaoua
 catastaltic
-callans
+callans 1
 citronelle
 choli
 chaouia
@@ -15703,7 +15703,7 @@ calcicole
 cyproheptadine
 clinks
 chinche
-coagulable
+coagulable 1
 clunch
 clawker
 clawless
