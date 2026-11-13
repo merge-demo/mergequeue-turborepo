@@ -40,7 +40,7 @@ aurine
 aethogen
 aerometeorograph
 abaciscus
-amphoriskoi
+amphoriskoi 1
 aquanaut
 autopsist
 accessorily
@@ -1656,7 +1656,7 @@ antiprophet
 aneurismal
 agonists
 accts
-acleidian
+acleidian 1
 airted
 amphicentric
 accubita
