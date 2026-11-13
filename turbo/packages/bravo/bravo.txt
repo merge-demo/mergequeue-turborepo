@@ -1701,7 +1701,7 @@ brilliantness
 bungalow 1
 bawdyhouse
 bagnios 1
-besottingly
+besottingly 1
 bowsing
 balneology
 balneological
