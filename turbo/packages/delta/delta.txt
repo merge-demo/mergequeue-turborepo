@@ -16615,7 +16615,7 @@ dragonflies
 didelphian
 dragonhood
 downily
-deveins
+deveins 1
 dissent
 dwellers
 decorates 1
@@ -17191,7 +17191,7 @@ drippers
 deddy
 diathermotherapy 1
 doves 1
-differentiators
+differentiators 1
 drippier
 damans
 deuteroscopy

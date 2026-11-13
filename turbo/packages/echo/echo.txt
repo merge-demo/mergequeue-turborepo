@@ -8975,7 +8975,7 @@ emboldening
 electrophonic
 erasable
 ecclesiasticism
-epizootiological
+epizootiological 1
 equivalve 1
 erysipelatous
 erraticalness
@@ -9556,7 +9556,7 @@ eskimoized 1
 electrolysed
 enthalpy 1
 embeam
-eupatoriaceous
+eupatoriaceous 1
 earls
 eskualdun
 elevations
@@ -12672,7 +12672,7 @@ enkolpion
 exometritis
 excogitate 1
 endeavors
-emotionless
+emotionless 1
 extusion
 echo
 erotized
