@@ -2603,7 +2603,7 @@ deforce
 dispose
 decolors
 duopsonies
-daedalean
+daedalean 1
 denunciated
 dogmatism
 dryasdust
