@@ -4212,7 +4212,7 @@ bulgy
 beastman
 barracoutas 1
 beastship
-beat
+beat 1
 benches 1
 beatee
 bleery

@@ -1853,7 +1853,7 @@ daubries
 deblateration
 deblock
 disedification
-dijudicate
+dijudicate 1
 distensibilities 1
 dispunge
 dissimulation
