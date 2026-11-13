@@ -172,7 +172,7 @@ factitively
 forums
 flatfoots
 featherless
-furnarius
+furnarius 1
 flier
 factorable
 flimsies
@@ -2187,7 +2187,7 @@ fats
 fratercula
 flabellifoliate
 frags
-farmhouse
+farmhouse 1
 felts
 fishworker 2
 fastidiosity
