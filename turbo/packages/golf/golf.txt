@@ -177,7 +177,7 @@ gunwhale
 grandson
 glassworm 1
 goliardic
-gerontocratic 1
+gerontocratic 2
 gooseliver
 garoted
 glamour
@@ -3463,7 +3463,7 @@ gynandromorphism
 gemul
 gewgawry
 gyrfalcon
-gigantological
+gigantological 1
 gestatory 1
 geriatric
 graphonomy 1
@@ -9217,7 +9217,7 @@ geosynchronous
 galeres
 gibingly 1
 graininess 1
-grizzly
+grizzly 1
 gaugeably
 grizzling
 glorioles
