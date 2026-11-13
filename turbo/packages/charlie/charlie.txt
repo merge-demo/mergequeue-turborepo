@@ -9822,7 +9822,7 @@ chemicophysical
 cleptomaniac
 crucifige
 ciliary
-curtaining 1
+curtaining 2
 computist 1
 couldnt
 chemiculture
