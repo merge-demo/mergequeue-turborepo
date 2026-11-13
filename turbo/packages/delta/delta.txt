@@ -6638,7 +6638,7 @@ dioptres
 diminutely 1
 defoliation
 desesperance
-desexualizing 1
+desexualizing 2
 deshabille 1
 dinitrophenol
 downcurved
@@ -12811,7 +12811,7 @@ dismayfully
 declension
 datagrams
 doubty
-dismail
+dismail 1
 democratising
 dismal
 dir
@@ -13736,7 +13736,7 @@ dejecta
 demulsion
 delit
 directoire
-defluous 1
+defluous 2
 deadlihead
 decoct 1
 diaclinal
