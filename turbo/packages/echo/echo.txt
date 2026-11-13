@@ -11344,7 +11344,7 @@ evenforth
 eryopid
 embarrel
 enamoured
-emanatively
+emanatively 1
 eathly
 epicureans
 evenness
