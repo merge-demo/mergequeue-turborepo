@@ -13704,7 +13704,7 @@ anomalistic
 andor 2
 adoperation
 asiatic
-anomalistical
+anomalistical 1
 anomalocephalus 1
 apollinarianism
 anomaloflorous
