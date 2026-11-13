@@ -17802,7 +17802,7 @@ burroweed
 benevolent
 burrstone
 bambini 1
-bundobust
+bundobust 1
 bursae
 bursary 1
 bassine
