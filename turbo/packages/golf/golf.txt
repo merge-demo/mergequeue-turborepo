@@ -4083,7 +4083,7 @@ genitivally 1
 grapsidae
 grundy
 geochronology
-gnawing 2
+gnawing 3
 gringo
 gnars
 gymnasts
@@ -6444,7 +6444,7 @@ glycols
 glabrate
 grit 1
 guirlande 1
-graduatical
+graduatical 1
 ghazel 1
 guileful
 gliming
@@ -7021,7 +7021,7 @@ garava
 gunther
 geikia
 geometricians
-gesellschaft
+gesellschaft 1
 genericalness
 grayly 1
 gliocyte 1
