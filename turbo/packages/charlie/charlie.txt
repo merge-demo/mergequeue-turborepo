@@ -7300,7 +7300,7 @@ chequering
 cephalina
 cephaline 1
 cephalins
-cephalism
+cephalism 1
 caprine
 cephalitis
 cephalization
@@ -25273,7 +25273,7 @@ cervelats
 ciliola
 crome
 conicein
-corklike
+corklike 1
 chiromant
 calendars
 collaborationists
@@ -29949,7 +29949,7 @@ crosstown
 carcinologist
 crosstrack
 crosstree
-crossway
+crossway 1
 crossways
 cetid
 calcification

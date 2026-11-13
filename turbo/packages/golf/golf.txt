@@ -4607,7 +4607,7 @@ glance 1
 gringophobia
 ghafir 1
 geobiology
-gwendolen
+gwendolen 1
 gematrical
 galli
 gastroplenic 1
@@ -10046,7 +10046,7 @@ greets
 ginn
 gueridons 1
 gasking
-garnering
+garnering 1
 gongman
 geochemical 1
 galette
