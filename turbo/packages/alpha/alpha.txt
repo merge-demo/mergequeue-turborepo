@@ -18407,7 +18407,7 @@ arapahos
 azorian
 awaiter
 anticensoriously
-autoecious
+autoecious 1
 araponga
 anthurium
 araracanga
