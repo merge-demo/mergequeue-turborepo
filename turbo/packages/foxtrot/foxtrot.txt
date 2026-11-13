@@ -1172,7 +1172,7 @@ fantasied
 fistulize
 fibularia
 freelovism
-fallals
+fallals 1
 fungistatically
 fascine
 ferreous
@@ -9439,7 +9439,7 @@ frequenting
 fraudfully 1
 fyces
 forearmed
-fraudulent
+fraudulent 1
 ferreting
 fideicommissumissa
 frauen
