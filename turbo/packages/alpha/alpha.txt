@@ -8162,7 +8162,7 @@ avoidances
 anacoluthia
 abiogenetic
 artisanship
-aboundingly
+aboundingly 1
 apheliotropism 1
 algoid
 adroitness
@@ -19727,7 +19727,7 @@ aristotelianism 1
 acicula
 aristotype
 aristotle
-arytenoepiglottic
+arytenoepiglottic 1
 amphiblestritis
 alfuro
 ambatch
