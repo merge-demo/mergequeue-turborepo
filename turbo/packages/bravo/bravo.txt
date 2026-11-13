@@ -6111,7 +6111,7 @@ bunton
 boyishly
 bumfeg 1
 bituminization 1
-bequeathable
+bequeathable 1
 becowarded
 blueball
 berat
