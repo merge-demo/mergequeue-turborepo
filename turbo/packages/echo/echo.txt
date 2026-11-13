@@ -1221,7 +1221,7 @@ excursionists
 epitrite
 edwardean
 edwardsiidae
-edwin
+edwin 1
 exorcismal 1
 equvalent
 estamin
@@ -7620,7 +7620,7 @@ encephalous
 ensconce
 elixirs 1
 enhungered
-euphemious
+euphemious 1
 ensure 1
 electrophoridae 1
 encumber

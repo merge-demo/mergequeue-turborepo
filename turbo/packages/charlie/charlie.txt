@@ -3901,7 +3901,7 @@ carborundum
 conceptional 1
 commendatories
 cair
-chlorococcus
+chlorococcus 1
 carboxylation
 colonialised
 ccm
@@ -16768,7 +16768,7 @@ cosmetologists
 calchaqui
 cystirrhea
 carding
-criophoros
+criophoros 1
 clover
 cloverlay
 citizen
@@ -18189,7 +18189,7 @@ coexerting 1
 condescends
 cinquefoiled
 coexerts
-coexistence
+coexistence 1
 coexisting
 coexpand
 coexpanded
