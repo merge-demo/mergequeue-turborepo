@@ -5536,7 +5536,7 @@ etherlike
 ecanda
 enfeoffing
 enfeoffment
-exestuate 1
+exestuate 2
 exhaustedly
 ethions
 enophthalmos 1
@@ -12479,7 +12479,7 @@ exiguously
 exilarchate
 expiated
 ethicality
-exilement 1
+exilement 2
 escalading
 exility 1
 evened
