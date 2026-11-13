@@ -887,7 +887,7 @@ dullish
 dieting
 demency
 disincrustant
-decrescendo
+decrescendo 1
 dandling
 deliberative
 dansy
@@ -1685,7 +1685,7 @@ dignity
 disentrain
 declines
 dispond
-dendrodic
+dendrodic 1
 duckstone
 distringas
 dobl 1
@@ -2647,7 +2647,7 @@ decompresses
 demiplacate
 dogies 1
 dcollet
-dhurnas
+dhurnas 1
 dishonourer
 digynous
 dudeens
