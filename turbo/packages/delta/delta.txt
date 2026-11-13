@@ -1853,7 +1853,7 @@ daubries
 deblateration
 deblock
 disedification
-dijudicate
+dijudicate 1
 distensibilities 1
 dispunge
 dissimulation
@@ -8639,7 +8639,7 @@ downstream 1
 denitrifying
 discourtesy
 divoto
-diffused
+diffused 1
 dato
 doomlike
 delfs
@@ -10520,7 +10520,7 @@ defected
 dionysian
 dimeric 1
 dipleurulas
-delime
+delime 1
 disbowels
 dialyzate 1
 disserviceableness 1
