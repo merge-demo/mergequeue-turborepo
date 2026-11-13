@@ -1929,7 +1929,7 @@ attentional
 acetylid
 acetylizable
 aversive 1
-anamirtin
+anamirtin 1
 acetylization
 ammonization
 airflows
@@ -2578,7 +2578,7 @@ autogeneal
 aljamiah
 ancestrial
 arctomys
-acouometer
+acouometer 1
 azocoralline
 antihelminthic 1
 asphyxiating 1
