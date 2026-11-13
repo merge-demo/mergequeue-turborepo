@@ -783,7 +783,7 @@ badigeon
 beadsman
 bechatter
 boric
-badinages
+badinages 1
 beblotch
 bearcoot
 bumboatmen
@@ -3843,7 +3843,7 @@ beauish
 beatrice 2
 befleck
 bauhinias 1
-baul
+baul 1
 beshear 1
 barrington
 boreas
@@ -6924,7 +6924,7 @@ bullfrogs 2
 bajan
 burgundian
 bepray
-bigeminated 2
+bigeminated 3
 bazaar
 bumptious
 bitumed 1

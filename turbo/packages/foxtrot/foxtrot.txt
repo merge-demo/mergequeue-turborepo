@@ -1137,7 +1137,7 @@ forlornness 1
 fubs
 footprints
 foreguts
-flog 1
+flog 2
 falseheartedness 1
 fennels 1
 flexures
@@ -1146,7 +1146,7 @@ forefends
 funje 2
 flockling
 fimbriodentate
-flagrance
+flagrance 1
 followeth
 florulas
 flavoursome 1
@@ -4248,7 +4248,7 @@ flatterers
 frenzying
 flossing
 fundamentalism
-forenoted
+forenoted 1
 flowerpecker
 foreyard
 fatless

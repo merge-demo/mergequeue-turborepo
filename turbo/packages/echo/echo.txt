@@ -12916,7 +12916,7 @@ erupturient
 exploitative 1
 enclasping
 expediential
-enwinds
+enwinds 1
 electroneutrality 1
 echea
 erythropenia
