@@ -1612,7 +1612,7 @@ gyrinid
 glassteel
 grimly
 grimines
-glibness 1
+glibness 2
 geratologous 1
 gaskin
 grists 1
