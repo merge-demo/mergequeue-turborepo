@@ -717,7 +717,7 @@ embraciveg
 elonite
 eosinate 1
 enneaspermous 1
-enabler 1
+enabler 2
 economise
 eschaunge 1
 extremital
@@ -1797,7 +1797,7 @@ ecphova 1
 epigonism
 enfranch
 eyespots
-excandescency 2
+excandescency 3
 epexegetically
 eyewaiter 1
 episepalous

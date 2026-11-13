@@ -11901,7 +11901,7 @@ dianoetic
 dandiacal
 disarming
 desulphurate
-defeasive
+defeasive 1
 debonaire 1
 diseasedness 1
 diseases
@@ -16476,7 +16476,7 @@ debag
 dasyprocta 1
 domesticities
 dewdropper
-diagramming
+diagramming 1
 dazed
 datiscin 1
 dracone

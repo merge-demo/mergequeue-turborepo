@@ -2525,7 +2525,7 @@ guttifer
 grattoir
 genecology
 gothically
-gadaba
+gadaba 1
 gibed
 griever
 gigmania
@@ -10639,7 +10639,7 @@ gargets
 gorrel 2
 genera
 galvanocauterization
-guppies 1
+guppies 2
 galee
 genny
 gnomed
