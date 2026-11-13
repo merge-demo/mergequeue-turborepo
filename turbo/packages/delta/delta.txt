@@ -13716,7 +13716,7 @@ dialkyl 1
 danegeld
 diatomiferous
 diplasion
-demetrian 2
+demetrian 3
 dashnaktzutiun
 deadfall
 dissite
@@ -16615,7 +16615,7 @@ dragonflies
 didelphian
 dragonhood
 downily
-deveins
+deveins 1
 dissent
 dwellers
 decorates 1
