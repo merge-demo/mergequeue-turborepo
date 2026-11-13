@@ -8254,7 +8254,7 @@ chancelry 1
 chaliced
 chalicosis
 chalicotheriid
-carlism
+carlism 1
 crummable
 chalicotheriidae
 cephalohumeralis
