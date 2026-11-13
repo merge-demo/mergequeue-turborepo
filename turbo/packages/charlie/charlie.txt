@@ -18189,7 +18189,7 @@ coexerting 1
 condescends
 cinquefoiled
 coexerts
-coexistence
+coexistence 1
 coexisting
 coexpand
 coexpanded
