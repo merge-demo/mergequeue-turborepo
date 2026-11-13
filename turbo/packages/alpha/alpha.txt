@@ -2444,7 +2444,7 @@ autoriser
 atrochal
 arbitry
 archaizing
-alone
+alone 1
 arisings 1
 acknowledged
 adoxography
@@ -8491,7 +8491,7 @@ allicholly
 alkanethiol
 antherine
 alkanets
-antinomy
+antinomy 1
 amebocyte
 acanthosis
 alkapton
