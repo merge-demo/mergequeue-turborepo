@@ -9814,7 +9814,7 @@ amalgamative
 amalgamatize
 amicabilities
 amperage
-amalgamization 1
+amalgamization 2
 anaphase
 amalic
 aircrews
@@ -17931,7 +17931,7 @@ atopy
 aqueousness
 apprizers
 almaciga
-apprizing
+apprizing 1
 appro
 amate
 approach 1
