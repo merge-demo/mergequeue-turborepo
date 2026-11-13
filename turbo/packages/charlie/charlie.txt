@@ -18870,7 +18870,7 @@ colla
 csnet
 countermoving
 cornulite
-collabent
+collabent 1
 collaborates
 collaborating
 clause
