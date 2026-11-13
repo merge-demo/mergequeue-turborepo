@@ -3470,7 +3470,7 @@ epees
 elaeothesium
 endnote
 enginemen
-excusative
+excusative 1
 epistemologist
 evinces
 eductive 1
@@ -12090,7 +12090,7 @@ exploit 1
 editress
 ecod
 echinologist
-eartag
+eartag 1
 emasculation 1
 embroche
 effervescing

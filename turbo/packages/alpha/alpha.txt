@@ -10564,7 +10564,7 @@ apprentice
 attacks
 aromatites
 abusing
-articled
+articled 1
 allantoidea
 ascomycetous
 amidol
@@ -19793,7 +19793,7 @@ adjudger
 archplotter
 armadillos
 astrocyte
-arythmically
+arythmically 1
 aminolytic
 armado
 affecter
