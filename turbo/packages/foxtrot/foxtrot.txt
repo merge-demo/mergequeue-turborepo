@@ -11734,7 +11734,7 @@ floodlilit
 futwa
 fete
 fitzclarence
-frights 1
+frights 2
 fathom
 foliiform
 flneur
