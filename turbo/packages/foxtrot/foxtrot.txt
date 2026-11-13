@@ -10487,7 +10487,7 @@ foofaraw 1
 forepretended 1
 fantast
 forewarns 1
-fluffs 1
+fluffs 2
 fidged
 frostfish
 forcite
