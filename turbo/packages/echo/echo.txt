@@ -11518,7 +11518,7 @@ emissi 1
 epidotiferous 1
 epiphytical
 eviting
-evangeline
+evangeline 1
 emprize
 endosteitis
 edital
