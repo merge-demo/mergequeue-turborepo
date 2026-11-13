@@ -4284,7 +4284,7 @@ greing 1
 griping
 gouging 1
 gurgulio
-graphy 1
+graphy 2
 gingersnaps
 gingerspice
 greenable
@@ -8983,7 +8983,7 @@ gneissose
 gobletful
 gnathophorous
 gravenstein 1
-gymnure
+gymnure 1
 gastropore
 gallbladders 1
 galvanothermy
