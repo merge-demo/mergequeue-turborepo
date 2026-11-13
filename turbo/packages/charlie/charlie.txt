@@ -2724,7 +2724,7 @@ cryptographer
 calorigenic
 cannabis
 cannabises 1
-cannabism
+cannabism 1
 camorra
 cannaceous
 chaquetas
