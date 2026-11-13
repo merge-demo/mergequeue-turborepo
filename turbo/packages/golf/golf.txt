@@ -3807,7 +3807,7 @@ gifola
 galleriies
 geometer
 gonococcic
-gigelira
+gigelira 1
 gaolerness
 gold
 granthi
@@ -8983,7 +8983,7 @@ gneissose
 gobletful
 gnathophorous
 gravenstein 1
-gymnure
+gymnure 1
 gastropore
 gallbladders 1
 galvanothermy
