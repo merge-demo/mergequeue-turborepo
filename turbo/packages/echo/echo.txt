@@ -5474,7 +5474,7 @@ epimanikion 1
 eigenstate
 entitledness
 edematous
-energical
+energical 1
 energid
 ensuing
 endoplasmic
@@ -7774,7 +7774,7 @@ entangles
 entassment
 enlighteningly
 emblematic
-electropneumatic
+electropneumatic 1
 expectably
 excipular
 encyclopaedize
@@ -12479,7 +12479,7 @@ exiguously
 exilarchate
 expiated
 ethicality
-exilement 1
+exilement 2
 escalading
 exility 1
 evened
