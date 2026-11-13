@@ -783,7 +783,7 @@ badigeon
 beadsman
 bechatter
 boric
-badinages
+badinages 1
 beblotch
 bearcoot
 bumboatmen
