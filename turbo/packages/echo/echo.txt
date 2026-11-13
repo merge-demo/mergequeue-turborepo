@@ -3470,7 +3470,7 @@ epees
 elaeothesium
 endnote
 enginemen
-excusative
+excusative 1
 epistemologist
 evinces
 eductive 1
@@ -6254,7 +6254,7 @@ enrapts
 ethynyl 1
 evestar
 experimentative
-executors
+executors 1
 enomotarch
 excepable
 epicyte
@@ -12905,7 +12905,7 @@ expandingly 2
 expansibility
 emusifies
 expansile
-expansionism 1
+expansionism 2
 englyn
 esotropic
 expansionist
