@@ -3096,7 +3096,7 @@ duringly
 defaulted
 depauperization 2
 downfolded
-defaults
+defaults 1
 decked
 defaulture
 dialings 1
@@ -7306,7 +7306,7 @@ duecentos
 doctrinist
 despouse 1
 doyen
-deterrence
+deterrence 1
 defiantly 1
 disprejudice
 deterrent
@@ -10801,7 +10801,7 @@ discolorate
 deviates
 departing
 dykage 2
-directors
+directors 1
 directorships
 desugared
 dysphrasia
