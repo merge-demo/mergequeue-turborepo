@@ -3096,7 +3096,7 @@ enolic 1
 ethiopian
 ellipticity 1
 elliptograph 1
-esprise 1
+esprise 2
 elliptoid
 encrease 1
 extraparietal
@@ -3929,7 +3929,7 @@ endplates
 enanthem
 emmett 1
 existentialism
-explicitly
+explicitly 1
 eulamellibranchia 1
 emmy
 epilabrum 1
