@@ -1405,7 +1405,7 @@ erasions
 ericoid
 entosterna
 excoct
-encashable
+encashable 1
 efflorescing
 effluences
 endoral
