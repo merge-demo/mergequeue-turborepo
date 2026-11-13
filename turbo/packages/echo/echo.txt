@@ -6102,7 +6102,7 @@ enlinkment
 elaeoptene 1
 erring
 embryoniform
-epithalamiast
+epithalamiast 1
 entremets
 emboly
 eradicably
@@ -12129,7 +12129,7 @@ eavesdrops
 excrementitiously
 enregister
 electrodynamic
-ejam
+ejam 1
 eloper
 ebonite
 elegiac
