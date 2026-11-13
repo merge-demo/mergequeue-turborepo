@@ -14867,7 +14867,7 @@ documentarist
 documentational
 decarbonator
 dictyograptus 1
-documentations
+documentations 1
 deoxidator
 divertive
 dehortative
@@ -16506,7 +16506,7 @@ dilutions 1
 dottiness
 debasingly
 deadwoods
-discloister
+discloister 1
 draegermen
 dothideales
 dadder
