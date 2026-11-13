@@ -6744,7 +6744,7 @@ deuterocone
 demodex
 desiodothyroxine
 desirableness
-disseminated
+disseminated 1
 dojo
 dietzeite
 desiredly
@@ -16709,7 +16709,7 @@ decontrols
 dramme
 drammed 1
 ducaton
-dottler
+dottler 1
 disharmonised
 digenic
 dramming 1
