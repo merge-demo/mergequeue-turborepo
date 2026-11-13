@@ -1795,7 +1795,7 @@ dwelled
 debarkment
 doohickeys 1
 debarrance
-duryl
+duryl 1
 debarring
 drummock 1
 delectible
@@ -16791,7 +16791,7 @@ digest
 disreputation
 dinergate
 disorganized 1
-drawback
+drawback 1
 drawbar 1
 disposability 1
 desisted

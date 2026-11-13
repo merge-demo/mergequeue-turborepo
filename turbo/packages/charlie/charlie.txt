@@ -21211,7 +21211,7 @@ conceptible
 cohanims 1
 conceptive 1
 conceptiveness
-conceptual
+conceptual 1
 conceptualise
 cynthius
 crooning
