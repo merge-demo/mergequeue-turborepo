@@ -2107,7 +2107,7 @@ bannock
 buyers
 bannocks
 boilinglike
-banovina
+banovina 1
 banquet
 blindish
 bardiest
@@ -17560,7 +17560,7 @@ bobble
 bascule
 broadacre
 bothrops
-burgality
+burgality 1
 beaufort
 bouses
 burgall
