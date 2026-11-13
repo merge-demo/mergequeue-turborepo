@@ -5991,7 +5991,7 @@ enjoinders
 englished
 eucommia
 excerption
-expatiatingly
+expatiatingly 1
 enjoiner
 excubant
 euonym 1
@@ -7538,7 +7538,7 @@ entropies
 entopterygoid 1
 eburine
 exogastrically 1
-eduardo
+eduardo 1
 enddamage
 ebenaceous
 enterprisingly
