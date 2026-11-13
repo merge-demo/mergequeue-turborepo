@@ -2910,7 +2910,7 @@ glints
 gallipots
 glittering
 garfishes
-gledes
+gledes 1
 gonocyte
 gallinulelike
 greenside 1
