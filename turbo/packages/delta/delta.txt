@@ -4749,7 +4749,7 @@ dishonest
 donnot
 daneworts
 dermatome
-demon
+demon 1
 dyspepsia
 delightsomely 1
 demonetise
@@ -16476,7 +16476,7 @@ debag
 dasyprocta 1
 domesticities
 dewdropper
-diagramming
+diagramming 1
 dazed
 datiscin 1
 dracone
