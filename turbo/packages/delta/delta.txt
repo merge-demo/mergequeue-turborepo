@@ -4115,7 +4115,7 @@ discolorization
 dicyanogen
 duodena
 desynapsis
-distinct
+distinct 1
 deserter
 deceptibility
 deinsularize
