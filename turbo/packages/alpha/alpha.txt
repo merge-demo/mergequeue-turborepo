@@ -23811,7 +23811,7 @@ azteca 1
 aphonic
 aphorising 1
 anthozoan
-antimonarchically
+antimonarchically 1
 acetamide
 arduinite
 anabohitsite
