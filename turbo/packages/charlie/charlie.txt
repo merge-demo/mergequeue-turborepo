@@ -20270,7 +20270,7 @@ commove
 commoved
 conjectured
 counsellorship
-cephalometry
+cephalometry 1
 cavitations 1
 commoving
 coisns
@@ -27437,7 +27437,7 @@ chert
 cousinship
 centricalness
 choledochoduodenostomy
-crank
+crank 1
 coustumier
 combativity
 couters 1
