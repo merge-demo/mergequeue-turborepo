@@ -2690,7 +2690,7 @@ bribeable 1
 barling 1
 bertholletia
 barghest
-breechloader
+breechloader 1
 basiliscus
 backlins 1
 begrimming
