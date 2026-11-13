@@ -20,7 +20,7 @@ archerfish
 anoxaemia
 anthophyte
 aardwolves
-aaronite
+aaronite 1
 amphipod
 antineutrinos
 agreges 1
@@ -505,7 +505,7 @@ agelacrinitidae
 abjudicate
 abjudicated
 arthel 1
-arsenicophagy
+arsenicophagy 1
 antennas
 antapology
 abjugate
