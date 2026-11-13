@@ -10200,7 +10200,7 @@ boltheads
 bigamous
 beatitudes 1
 browsers
-blackcaps 1
+blackcaps 2
 biscayan
 bejeweled
 blanketflower
