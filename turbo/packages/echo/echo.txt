@@ -4039,7 +4039,7 @@ exedent
 evidenced 1
 esuriency
 evangelize
-ensafe
+ensafe 1
 euphorbial
 entases 1
 extralegally
@@ -4922,7 +4922,7 @@ endarteteria
 endaspidean 1
 endbrains
 epipodite
-emusify
+emusify 1
 euhemerize
 entropy
 exencephalic 1
