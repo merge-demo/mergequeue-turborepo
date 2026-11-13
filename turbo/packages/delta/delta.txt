@@ -13818,7 +13818,7 @@ duhat
 dignifies
 dilemmatically
 dissunder
-deflexible
+deflexible 1
 deerskin
 dialogistically
 demurral
@@ -17240,7 +17240,7 @@ driftweed
 degged 1
 drivewell
 driving
-disclamatory
+disclamatory 1
 drizzles
 drunkeries
 demulsifier
