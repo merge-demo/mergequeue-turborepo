@@ -4423,7 +4423,7 @@ fumishly
 fledgier
 floppiest 1
 float
-frowzly
+frowzly 1
 feelable
 flossy
 fraternizer
