@@ -5968,7 +5968,7 @@ goldbricker
 gibetting
 grin 1
 gentry 1
-gullet
+gullet 1
 goney
 gusting
 glossoplasty
