@@ -1801,7 +1801,7 @@ fohat
 fritter
 fadingness
 filmiform
-femorococcygeal
+femorococcygeal 1
 freewill
 freckledness 1
 feathertop
@@ -8577,7 +8577,7 @@ foredid
 flecks
 fountainlike
 fir
-fittings
+fittings 1
 ferretto
 fuzzed
 furriered
