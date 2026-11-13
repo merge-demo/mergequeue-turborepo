@@ -390,7 +390,7 @@ gynobasic
 gelded
 galangin 1
 grond
-golundauze
+golundauze 1
 gavot 1
 glunched
 gaoled
@@ -9353,7 +9353,7 @@ graciosity 2
 gradeless 1
 galtonia
 geordie 1
-gadrooned
+gadrooned 1
 grosgrains
 geochrony 1
 gibelite

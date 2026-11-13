@@ -5867,7 +5867,7 @@ catered
 codpiece
 caterers
 cytolymph
-cateringly
+cateringly 1
 copras
 caterpillar
 caterpillared
@@ -12745,7 +12745,7 @@ congelifract
 chummery
 chummier
 chummies
-chumminess
+chumminess 1
 chump
 chumpa
 conglobing 1
