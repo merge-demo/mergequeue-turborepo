@@ -3946,7 +3946,7 @@ endosymbiosis 1
 excretitious
 emolumental
 extemporiser
-enstate
+enstate 1
 emory
 exopathic 1
 escapologist
