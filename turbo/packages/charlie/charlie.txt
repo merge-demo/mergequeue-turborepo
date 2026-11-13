@@ -1259,7 +1259,7 @@ cameo
 calendarial
 chusite
 cicadid
-counterpoise
+counterpoise 1
 calendaring
 cyprine
 coilability
@@ -28594,7 +28594,7 @@ creepily
 country
 cucurb
 coxcomby
-creepiness
+creepiness 1
 chammies
 creepmouse
 creeps
