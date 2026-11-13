@@ -4971,7 +4971,7 @@ geosynclinal
 glaum
 gilliflirt
 gamekeepers
-glariness
+glariness 1
 gregarinae 1
 gills
 gatch 1
