@@ -2432,7 +2432,7 @@ ebonist
 electroencephalographical
 essentialize
 electionary
-evoker
+evoker 1
 electroendosmosis 1
 encipher 1
 epoist
@@ -13502,7 +13502,7 @@ euchlorine 1
 eucalypti
 equianharmonic
 endymal
-egocentricities 1
+egocentricities 2
 edge
 epifolliculitis
 enzymatically
