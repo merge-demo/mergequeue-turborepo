@@ -28967,7 +28967,7 @@ cricketlike
 coercibility
 crickle
 chandrakanta
-charlatanical
+charlatanical 1
 cricoarytenoid
 cheilotomy
 cyanic
@@ -29313,7 +29313,7 @@ cryptogrammatic
 cryptogrammatical 1
 cadouk
 concelebrated
-craggedly
+craggedly 1
 cryptographal
 chimaerid
 certiorating

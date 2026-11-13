@@ -4289,7 +4289,7 @@ gingersnaps
 gingerspice
 greenable
 gleefulness
-gleization
+gleization 1
 girthed 1
 gingivae
 gauge
@@ -9147,7 +9147,7 @@ gastrodiaphanoscopy
 gradine 2
 goniometrically
 grippiest
-granulating
+granulating 1
 gluttei
 gratulatory
 gelatinization
