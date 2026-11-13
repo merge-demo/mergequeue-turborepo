@@ -4217,7 +4217,7 @@ career
 cholanic
 careered
 condensery
-cmdr
+cmdr 1
 cenoby
 croceous
 chloroplatinic
