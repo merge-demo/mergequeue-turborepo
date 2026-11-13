@@ -35,7 +35,7 @@ antecedence
 area
 allseeds
 aphorized 1
-acrasia 1
+acrasia 2
 aurine
 aethogen
 aerometeorograph
