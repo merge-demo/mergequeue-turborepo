@@ -10550,7 +10550,7 @@ equational
 encheck 1
 excaudate 1
 elevates 1
-excursionary
+excursionary 1
 encoffinment
 egged
 ethylenic

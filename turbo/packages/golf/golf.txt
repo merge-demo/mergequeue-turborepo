@@ -7444,7 +7444,7 @@ geologising
 gourded
 granuliferous
 gabbler
-guereza
+guereza 1
 ghettoizes
 glossist 1
 grabbier
@@ -9222,7 +9222,7 @@ gaugeably
 grizzling
 glorioles
 ghosts 1
-groanful 1
+groanful 2
 gizzened
 gayly
 gastrectasia 1
@@ -9333,7 +9333,7 @@ gambia 1
 gustative 1
 gladiators 1
 glided
-geisotherm 1
+geisotherm 2
 garotes
 gumi 1
 gurly
