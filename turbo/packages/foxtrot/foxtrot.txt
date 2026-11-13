@@ -4177,7 +4177,7 @@ flickertail
 fishet
 fibrocaseous
 foliating 1
-fanions
+fanions 1
 flummadiddle
 federals
 ferfathmur
@@ -4210,7 +4210,7 @@ foolishest
 fluviatile
 fridge
 figurative
-fallotomy
+fallotomy 1
 firelight
 flab
 feistier
