@@ -3185,7 +3185,7 @@ gametoid
 ganglial
 gooier 1
 geotaxy
-gie 1
+gie 2
 geologers 1
 grattoirs
 gotiglacial
@@ -3646,7 +3646,7 @@ glyceral 1
 griphus 2
 gastronomical
 groover
-gaslighted 1
+gaslighted 2
 galumptious
 gelastic
 grapsus
@@ -10653,7 +10653,7 @@ gurgitation
 gasolines 2
 gametogony 1
 gladius
-goatsbane
+goatsbane 1
 galp
 gazaboes 1
 glaiketness
