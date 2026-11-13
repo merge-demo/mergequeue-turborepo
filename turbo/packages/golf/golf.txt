@@ -5653,7 +5653,7 @@ glossemic
 gibbously
 glaciometer
 glossies
-glossiest 1
+glossiest 2
 gybed 1
 garrison
 glossinas 3
@@ -8760,7 +8760,7 @@ ghostess 1
 gulfs
 goalless
 gymnostomina 1
-greese 1
+greese 2
 gust 1
 genual
 gelatined
