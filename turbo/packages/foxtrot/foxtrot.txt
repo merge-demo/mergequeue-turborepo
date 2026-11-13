@@ -3049,7 +3049,7 @@ forches
 flowerfly
 finances 1
 festology 1
-fooler
+fooler 1
 feroce
 fishtails
 flitter
@@ -4521,7 +4521,7 @@ finickiest 1
 fissirostrate
 fissura
 frugal
-forwardsearch
+forwardsearch 1
 fractionized
 felinophile
 filemarks
