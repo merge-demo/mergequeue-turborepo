@@ -1544,7 +1544,7 @@ accordancy
 agglutinoid
 amphipoda
 australene
-accordaturas 1
+accordaturas 2
 aggrate 1
 acrocarpous
 accordingly
@@ -18407,7 +18407,7 @@ arapahos
 azorian
 awaiter
 anticensoriously
-autoecious
+autoecious 1
 araponga
 anthurium
 araracanga
@@ -19018,7 +19018,7 @@ austroriparian 1
 acetotoluid
 angeluses
 aphelops
-azocochineal
+azocochineal 1
 alar
 abecedarian
 axonopus
