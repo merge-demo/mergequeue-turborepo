@@ -9822,7 +9822,7 @@ duocosane
 dispapalize
 determines 1
 diluvialist
-demidigested
+demidigested 1
 decorated
 disclander
 dinars
@@ -11901,7 +11901,7 @@ dianoetic
 dandiacal
 disarming
 desulphurate
-defeasive
+defeasive 1
 debonaire 1
 diseasedness 1
 diseases
