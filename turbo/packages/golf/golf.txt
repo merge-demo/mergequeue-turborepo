@@ -5656,7 +5656,7 @@ glossies
 glossiest 1
 gybed 1
 garrison
-glossinas 2
+glossinas 3
 glowflies
 gertrude
 glowbard 1
