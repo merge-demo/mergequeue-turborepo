@@ -14027,7 +14027,7 @@ deguelin
 deaurate
 distraction 1
 dailies
-depressors
+depressors 1
 distractions
 distractive
 defending

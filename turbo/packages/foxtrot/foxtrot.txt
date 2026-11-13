@@ -11144,7 +11144,7 @@ fetometry
 fishtail 1
 fosters 1
 footmarks
-furuncular
+furuncular 1
 flaggery
 formylated
 forumize
