@@ -2444,7 +2444,7 @@ euchological 1
 effulgences
 emotionalize 1
 exinanition 2
-erythrophyll 1
+erythrophyll 2
 exendospermic
 engrails
 earthquaked
@@ -7774,7 +7774,7 @@ entangles
 entassment
 enlighteningly
 emblematic
-electropneumatic
+electropneumatic 1
 expectably
 excipular
 encyclopaedize
@@ -12074,7 +12074,7 @@ endemisms
 excreta
 escheator
 endued
-engulfs
+engulfs 1
 edentates
 enantiomorphism 1
 expressor
