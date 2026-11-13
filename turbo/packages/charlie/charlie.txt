@@ -9889,7 +9889,7 @@ consumptible 1
 choora
 calpacks
 caleches
-clays
+clays 1
 calentural
 calic
 cameograph
@@ -11598,7 +11598,7 @@ circinal
 colorization
 cholelith
 conchotome
-cholelithic
+cholelithic 1
 cholelithotomy
 chastising
 counterbore
