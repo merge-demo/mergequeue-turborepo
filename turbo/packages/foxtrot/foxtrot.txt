@@ -1150,7 +1150,7 @@ flagrance
 followeth
 florulas
 flavoursome 1
-facials
+facials 1
 fiberization 1
 fidelis 1
 figworm 1
@@ -11360,7 +11360,7 @@ fraxinus 1
 firepans 1
 feuds
 fiasco 1
-fannies
+fannies 1
 fenagler
 ferlied 1
 flustrine
