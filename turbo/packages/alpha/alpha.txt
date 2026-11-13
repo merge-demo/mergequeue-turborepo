@@ -18548,7 +18548,7 @@ arte
 annul
 aporobranchia 1
 arborists
-arsmetrike
+arsmetrike 1
 arborize
 axmaker
 arborizing
@@ -25237,7 +25237,7 @@ azadrachta
 aromatizer
 azafran
 alibangbang
-aucht
+aucht 1
 azande 1
 antediluvially 1
 ammonal 1
