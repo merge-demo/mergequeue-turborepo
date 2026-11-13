@@ -11161,7 +11161,7 @@ frumple
 fanciful
 francas 1
 fingerhold
-feodaries
+feodaries 1
 funeralize
 footnoted
 ferulae
