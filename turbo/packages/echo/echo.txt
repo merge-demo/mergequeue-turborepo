@@ -6183,7 +6183,7 @@ engraft
 eccrinology
 entrappingly
 entocondyloid
-ennoblement 1
+ennoblement 2
 ennoblements
 euryhaline
 ennobling
@@ -13314,7 +13314,7 @@ explosively 1
 eastermost
 enolization
 explosiveness 1
-equipt
+equipt 1
 electromyograph
 elusively
 eyepoints
