@@ -6952,7 +6952,7 @@ aitch 1
 angeldom
 araneologist
 appropriately
-akron
+akron 1
 anagrammatised
 aberrator
 apologia 1
