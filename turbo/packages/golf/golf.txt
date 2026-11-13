@@ -2069,7 +2069,7 @@ girsh
 glyptodont 1
 guideboard
 gallicolous 1
-gutlessness
+gutlessness 1
 grotto 1
 gavots 1
 gazetteership

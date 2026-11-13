@@ -5281,7 +5281,7 @@ axis
 atelic
 apartments 1
 anthriscus
-affirmations
+affirmations 1
 antiegotistically
 adorant
 arenicolor
