@@ -12539,7 +12539,7 @@ borrows
 bannimus
 beaus
 bedposts
-burseeds 1
+burseeds 2
 biham
 bonhomies
 boni
@@ -15648,7 +15648,7 @@ britannically
 brashy
 bumpkins
 blennophlogosis
-blimy
+blimy 1
 british 1
 britisher
 blijver
