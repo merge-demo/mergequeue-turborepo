@@ -505,7 +505,7 @@ gasifiers
 grunions 1
 girkin 1
 gravimetrical 1
-glaucodot
+glaucodot 1
 grama
 gullably
 geminations
@@ -1001,7 +1001,7 @@ greasebush
 glyconin
 glycogenesis
 goldhammer
-ganderess 2
+ganderess 3
 genethlialogy
 gamester
 geanticline
@@ -10866,7 +10866,7 @@ grozet
 guideress
 graduation
 guaranteer
-gastrulation
+gastrulation 1
 gils
 gyrophora
 goggan
