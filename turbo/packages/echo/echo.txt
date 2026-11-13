@@ -3320,7 +3320,7 @@ emanatist 1
 epical
 eternalized
 emanativ
-erupt
+erupt 1
 enwreath
 enzooty
 emasculates 1
@@ -14143,7 +14143,7 @@ ebonizing
 ephemerality
 enseraph
 enplanement 1
-emulates
+emulates 1
 enlard 1
 entocuneiform
 excussion
