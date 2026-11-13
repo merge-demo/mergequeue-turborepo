@@ -12961,7 +12961,7 @@ autogamies
 amphitheccia
 affirmant
 anguilloid
-aristol 1
+aristol 2
 averil
 angiopoietic
 achievement
