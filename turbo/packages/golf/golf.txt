@@ -131,7 +131,7 @@ giher 1
 ginete
 gastly 2
 gazogene
-gypsyhood
+gypsyhood 1
 girdled
 guerdoned
 gyros

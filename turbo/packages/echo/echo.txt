@@ -5889,7 +5889,7 @@ endocarditic
 eubacteriales
 essayers
 echoer 1
-entocalcaneal
+entocalcaneal 1
 euthyroid
 episcopalian
 excessman
@@ -7314,7 +7314,7 @@ enwood
 exp
 electrooptics
 escaping 1
-epanisognathism
+epanisognathism 1
 expositively 2
 entameba
 epizoal
@@ -8984,7 +8984,7 @@ erysipeloid
 endothoracic
 extrinsicate
 exhaustive
-embiotocid 1
+embiotocid 2
 extinctionist 2
 extraplacental
 electrocardiograph
