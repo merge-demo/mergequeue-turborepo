@@ -131,7 +131,7 @@ giher 1
 ginete
 gastly 2
 gazogene
-gypsyhood
+gypsyhood 1
 girdled
 guerdoned
 gyros
@@ -829,7 +829,7 @@ gonadotrophic
 greenlandite
 gastrostenosis 1
 genets
-glucosane
+glucosane 1
 ghurry
 gastrocolic
 grazeable
@@ -10573,7 +10573,7 @@ grommets 1
 gismondine
 goads
 garnisher
-grilly
+grilly 1
 gymnogene
 geologic 1
 gelds
