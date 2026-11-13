@@ -5485,7 +5485,7 @@ feliform
 fiant
 friseurs
 fossed 1
-fretwork
+fretwork 1
 forbarred 1
 fratching
 fleshy 1
