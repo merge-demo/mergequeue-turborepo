@@ -11672,7 +11672,7 @@ bittacle 1
 beachboys
 berend 1
 boxhead
-buchmanite
+buchmanite 1
 bacchants
 boatless
 banjoes

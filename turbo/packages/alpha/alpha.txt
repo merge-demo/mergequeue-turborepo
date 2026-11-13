@@ -13324,7 +13324,7 @@ abobra
 anthelminthic
 apoturmeric 1
 aeroballistic 1
-agamidae
+agamidae 1
 antimerger
 abcess
 aquilawood
@@ -20821,7 +20821,7 @@ artocarpous
 artolater
 aliner
 abraid
-archheresy
+archheresy 1
 artotype
 annotation
 acolhua

@@ -13807,7 +13807,7 @@ depravedly
 diaminogene
 deaspirate
 dirndls
-dissuasively
+dissuasively 1
 detruncate
 drayed
 dengues 1
@@ -18478,7 +18478,7 @@ dacryoma
 dupper
 dejerator
 dirca
-draggingly
+draggingly 1
 dendroica
 durably 1
 duologs
