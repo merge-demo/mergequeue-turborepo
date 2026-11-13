@@ -4053,7 +4053,7 @@ cardiagra
 cataclasm
 cardiagram
 cardiagraphy
-cardial
+cardial 1
 cardialgy 2
 caryl
 coevals
@@ -5292,7 +5292,7 @@ cassiopeian
 chlorohydroquinone
 cassiopeid
 coreigner
-cassiopeium
+cassiopeium 1
 cladrastis
 cramps
 cassis
