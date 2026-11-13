@@ -9220,7 +9220,7 @@ enlarges
 emit
 extremer
 etheric
-educatedly
+educatedly 1
 erotogenetic
 erotogenicity 1
 ergonomist
