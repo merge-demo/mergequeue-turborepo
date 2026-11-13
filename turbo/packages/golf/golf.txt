@@ -1497,7 +1497,7 @@ garners 1
 garotted
 goutish
 gaolage
-greediest
+greediest 1
 groose
 guaxima
 glandless 1
@@ -5968,7 +5968,7 @@ goldbricker
 gibetting
 grin 1
 gentry 1
-gullet
+gullet 1
 goney
 gusting
 glossoplasty

@@ -6706,7 +6706,7 @@ decil
 dogy
 decontaminative
 desucration
-desilicify 1
+desilicify 2
 desilicified 1
 desiliconization 1
 discoactine
@@ -9776,7 +9776,7 @@ doorstops
 disenfranchise
 diggings 1
 dills
-delusiveness
+delusiveness 1
 deputations
 dimetria
 distends
@@ -17664,7 +17664,7 @@ decarbonizer
 diclinism
 dagame
 dioscorein
-deratizing
+deratizing 1
 dualize
 dialogic
 disaffiliates
