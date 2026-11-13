@@ -1853,7 +1853,7 @@ daubries
 deblateration
 deblock
 disedification
-dijudicate
+dijudicate 1
 distensibilities 1
 dispunge
 dissimulation
@@ -12142,7 +12142,7 @@ disfavoured
 discursion 1
 disfeaturement 2
 dialogised
-dumbwaiter 1
+dumbwaiter 2
 declensional
 decertifying
 depressible
