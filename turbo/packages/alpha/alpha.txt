@@ -22314,7 +22314,7 @@ adamically 1
 astrictive 1
 astrictively
 axialities
-autodynamic
+autodynamic 1
 antal
 astride
 averah
@@ -24685,7 +24685,7 @@ acnode
 averral
 alii
 adelopod
-angiogenic
+angiogenic 1
 angiomas
 adenylpyrophosphate
 adelphi 1
