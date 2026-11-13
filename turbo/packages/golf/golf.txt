@@ -6405,7 +6405,7 @@ gallivanted
 gouger
 guineapig 1
 golden
-gordian
+gordian 1
 grandmaternal
 galleine 1
 gasification 1

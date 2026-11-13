@@ -5662,7 +5662,7 @@ antiproductive
 avellano
 ancillae
 affatuate
-againstand
+againstand 1
 albuginitis
 antilens
 amphidromia
@@ -12175,7 +12175,7 @@ assentator
 acedia
 anatomicopathologic
 arteriofibrosis
-anatomiser
+anatomiser 1
 antoecians
 anatomize
 anopsy
