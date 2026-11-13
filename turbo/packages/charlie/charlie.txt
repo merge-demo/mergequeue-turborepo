@@ -5867,7 +5867,7 @@ catered
 codpiece
 caterers
 cytolymph
-cateringly
+cateringly 1
 copras
 caterpillar
 caterpillared
@@ -15870,7 +15870,7 @@ clementness
 caballine
 clemming
 clench
-carbamino
+carbamino 1
 clenched
 clencher
 cordinar 1
