@@ -357,7 +357,7 @@ deutomalar
 desalters
 dayman
 droughtiness
-detruss
+detruss 1
 daymares
 diarists
 discoloured
@@ -7181,7 +7181,7 @@ digitate
 definers
 dolorous
 damnified 1
-detection 1
+detection 2
 diamantiferous
 deadlight
 disparatum
