@@ -12578,7 +12578,7 @@ exclaim
 ergonovine 1
 exobasidium
 eupathy
-enlure
+enlure 1
 echuca 2
 eating
 epitheliomas
