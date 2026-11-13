@@ -13314,7 +13314,7 @@ explosively 1
 eastermost
 enolization
 explosiveness 1
-equipt
+equipt 1
 electromyograph
 elusively
 eyepoints
