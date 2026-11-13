@@ -2213,7 +2213,7 @@ epiglottiditis 1
 eggless 1
 encrisp
 eldest 1
-eyrir
+eyrir 1
 effigiated
 eventuate
 erythroblastosis
@@ -10302,7 +10302,7 @@ ethyne 2
 elingued 1
 establismentarian 2
 enlink
-epiloguing
+epiloguing 1
 endotrophi
 enrobes 2
 eulophid
