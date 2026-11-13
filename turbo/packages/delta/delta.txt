@@ -14299,7 +14299,7 @@ deviances
 dithion
 dithionous
 devotionate
-depaganize
+depaganize 1
 dithyrambs
 dithyrambus 2
 dominicker
