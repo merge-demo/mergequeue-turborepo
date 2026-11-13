@@ -3901,7 +3901,7 @@ carborundum
 conceptional 1
 commendatories
 cair
-chlorococcus
+chlorococcus 1
 carboxylation
 colonialised
 ccm
@@ -4833,7 +4833,7 @@ clachans
 carriages
 crosstie
 carriagesmith
-cinchonicin
+cinchonicin 1
 carriageway
 carryall
 carrick

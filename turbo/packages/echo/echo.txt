@@ -212,7 +212,7 @@ empetrous
 eluvium
 echogram
 europeanization 1
-euripupi
+euripupi 1
 ebriate
 erionite
 enmew
@@ -2213,7 +2213,7 @@ epiglottiditis 1
 eggless 1
 encrisp
 eldest 1
-eyrir
+eyrir 1
 effigiated
 eventuate
 erythroblastosis
@@ -10302,7 +10302,7 @@ ethyne 2
 elingued 1
 establismentarian 2
 enlink
-epiloguing
+epiloguing 1
 endotrophi
 enrobes 2
 eulophid
