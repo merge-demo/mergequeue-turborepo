@@ -13661,7 +13661,7 @@ dialecticism
 dignitarial
 distractedness
 dolce
-def 1
+def 2
 dissimilars
 dentaries 1
 dequantitate
@@ -15636,7 +15636,7 @@ daggers
 dissembler
 departement 1
 directable
-doorstop 1
+doorstop 2
 disulfate
 dockman
 diodes

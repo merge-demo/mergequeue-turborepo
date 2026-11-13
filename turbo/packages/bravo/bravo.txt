@@ -11243,7 +11243,7 @@ bertram
 boxen
 bedclothes 1
 borean
-bronchiloquy
+bronchiloquy 1
 boulevardiers
 bicyclists
 brooching
@@ -13547,7 +13547,7 @@ becursing
 backhanded 1
 butterbough 2
 bibliophile
-bra
+bra 1
 burdening
 baling
 bootleg 2
