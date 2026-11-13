@@ -3789,7 +3789,7 @@ dubitative
 dolose
 discreate
 dimwit 1
-defoams 1
+defoams 2
 diviningly
 deciduous
 dicellate
@@ -13327,7 +13327,7 @@ demographics
 demorphinization
 dysprosia
 disproves
-disprovide 1
+disprovide 2
 distillate
 destuffing
 daintier 1
