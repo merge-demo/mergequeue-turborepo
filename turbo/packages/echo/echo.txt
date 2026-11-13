@@ -7420,7 +7420,7 @@ ephas
 erythrolytic
 extraformal
 enchaining
-excepts
+excepts 1
 employes
 elenctic
 escapers
@@ -12745,7 +12745,7 @@ enthelminthes
 embryography
 exceeds
 exospheric
-exorbitation
+exorbitation 1
 extensionless 1
 epithamia 1
 eloah
