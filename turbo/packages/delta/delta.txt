@@ -4694,7 +4694,7 @@ denouements
 decarbonization
 demodectic
 disarticulate
-detachably 1
+detachably 2
 deaved
 dromophobia
 dejected
@@ -18648,7 +18648,7 @@ dalles
 disforest
 drowsily
 disubstitution
-discountenanced
+discountenanced 1
 devitrification
 decolorize
 dryades
