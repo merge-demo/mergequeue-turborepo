@@ -9314,7 +9314,7 @@ abasements
 alongshore
 archbishops 1
 alemana
-alongshoreman
+alongshoreman 1
 autonetics
 antisymmetric
 aloose
@@ -15803,7 +15803,7 @@ antiepileptic
 atonements
 amphisbaenian 2
 afloat
-authorization
+authorization 1
 appetizingly
 antipyics
 antipyonin
