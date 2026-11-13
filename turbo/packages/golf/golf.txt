@@ -10056,7 +10056,7 @@ guerites 1
 gage
 graveolency
 gemot
-gravedigger
+gravedigger 1
 gelofer
 gaelicization
 gimmal 1
