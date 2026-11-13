@@ -3363,7 +3363,7 @@ gaertnerian
 gynandries
 gospodin
 gethsemanic
-greeks 1
+greeks 2
 gerocomical
 gerodontic
 geobiont 1
@@ -6244,7 +6244,7 @@ gobbles
 gulps
 glaucescent 1
 goolde
-ginzoes
+ginzoes 1
 gerahs 1
 genistein
 gullable 1
@@ -9857,7 +9857,7 @@ gladdens 1
 gerygone
 gadget 1
 garble 1
-gustless
+gustless 1
 guanin
 gagate
 glucuronic

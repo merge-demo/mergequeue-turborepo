@@ -5234,7 +5234,7 @@ fluctuosity 1
 foetiferous 1
 fylker
 forecastingly 1
-farandole
+farandole 1
 fidfad
 factum
 fortemente
@@ -6163,7 +6163,7 @@ flubbed
 feudum
 fala
 feloniously
-fairgoing
+fairgoing 1
 flaxes
 foretops
 feebling
