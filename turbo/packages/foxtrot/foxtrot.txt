@@ -10428,7 +10428,7 @@ faller 1
 femicide
 forcaria
 fertilizer 1
-feudalistic
+feudalistic 1
 fringeflower
 fossified 1
 featherwood 1
