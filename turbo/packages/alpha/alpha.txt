@@ -1863,7 +1863,7 @@ antiphysic 1
 acervulus
 abiezer
 anadyomene
-athlothete
+athlothete 1
 acestes 1
 adstrict 1
 anthropomorphological
@@ -9283,7 +9283,7 @@ adenosclerosis
 atossa
 alodification
 arician
-artophagous
+artophagous 1
 axoplasm 1
 archcriminal
 armaries 2
@@ -14411,7 +14411,7 @@ anthracia
 alcazars
 amnemonic
 almugs
-amplexicauline
+amplexicauline 1
 anthracitic
 apprehensively
 acclaims
