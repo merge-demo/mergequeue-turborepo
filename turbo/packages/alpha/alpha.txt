@@ -962,7 +962,7 @@ aecidiostage
 armloads
 axogamy
 absorptiveness
-alidades
+alidades 1
 absquatulate
 anchorites
 americanoid
@@ -18407,7 +18407,7 @@ arapahos
 azorian
 awaiter
 anticensoriously
-autoecious
+autoecious 1
 araponga
 anthurium
 araracanga
