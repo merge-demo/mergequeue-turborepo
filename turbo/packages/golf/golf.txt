@@ -1078,7 +1078,7 @@ gasserian
 grays
 glossic
 gangplows
-geomalic
+geomalic 1
 glaucoma
 glor 1
 gonimous 1
