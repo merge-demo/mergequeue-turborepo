@@ -793,7 +793,7 @@ grievances
 gutturize
 galvanothermometer
 greenhorns
-galliformes
+galliformes 1
 ginneries 1
 goose
 genuclast
