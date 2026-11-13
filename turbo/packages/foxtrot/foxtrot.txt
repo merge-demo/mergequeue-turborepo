@@ -6122,7 +6122,7 @@ foredoor
 fraughts
 furiosity
 ferrums
-fuses
+fuses 1
 fewness
 fcp
 fewneses
