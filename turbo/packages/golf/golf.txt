@@ -3591,7 +3591,7 @@ glaumrie
 guanylic 2
 granilla
 goglets 1
-glottalize
+glottalize 1
 gigantal 1
 gld
 gasworks

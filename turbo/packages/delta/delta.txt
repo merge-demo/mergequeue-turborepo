@@ -5478,7 +5478,7 @@ demicolumn
 diffusionism
 disproven
 depascent
-debilitation
+debilitation 1
 disrepute
 depasture 2
 devolution
@@ -9730,7 +9730,7 @@ dilatoriness 1
 daypeep
 denaturiser
 decence
-duct
+duct 1
 discapacitate
 demiram
 decider 1
