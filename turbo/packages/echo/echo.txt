@@ -10688,7 +10688,7 @@ euglenoid 1
 exolve
 electrotypic
 evenworthy 1
-ecossaise
+ecossaise 1
 egosyntonic
 etiquet
 embarred
