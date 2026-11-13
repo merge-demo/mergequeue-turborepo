@@ -2432,7 +2432,7 @@ ebonist
 electroencephalographical
 essentialize
 electionary
-evoker
+evoker 1
 electroendosmosis 1
 encipher 1
 epoist
