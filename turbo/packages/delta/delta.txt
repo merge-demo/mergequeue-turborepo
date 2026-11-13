@@ -5350,7 +5350,7 @@ douched 1
 dialysation
 denumerantive
 dendrologous
-disestablished
+disestablished 1
 drumbledore
 disinure
 discrownment
@@ -7872,7 +7872,7 @@ dewberries 1
 dewcap
 disbudder
 div
-driveways
+driveways 1
 dewclaws
 diaphonia 1
 dites
