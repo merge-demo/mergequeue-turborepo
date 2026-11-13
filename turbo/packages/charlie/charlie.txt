@@ -2377,7 +2377,7 @@ cassie
 caqueteuses
 cumbly 1
 canavali
-canavalia
+canavalia 1
 cremerie
 crambly 1
 correlatively
@@ -31612,7 +31612,7 @@ curvative
 cozy
 crosstail
 clingstone
-curve
+curve 1
 constructed
 curvedly
 capitoul
