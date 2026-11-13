@@ -6909,7 +6909,7 @@ gabies
 guiana 2
 glaziness
 gruppetto
-gamut
+gamut 1
 gilgie 1
 galoshed
 gorgonise 1
