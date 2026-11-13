@@ -6216,7 +6216,7 @@ enorn
 enos
 eradiating
 egophony
-epitapher
+epitapher 1
 eradiation
 enostosis
 elisions
@@ -12161,7 +12161,7 @@ emblazes
 ethaldehyde
 electric
 exostome 1
-embrittlement
+embrittlement 1
 embergoose
 elytron 1
 endpoint

@@ -3736,7 +3736,7 @@ barny 1
 brookflower
 beild
 battier
-brightest
+brightest 1
 burbly
 bibliokleptomania
 baddest
@@ -10729,7 +10729,7 @@ bibliognostic 1
 bluejoint
 bejesus
 bipunctual
-biotics
+biotics 1
 brainwashes
 bronchorrhagia 1
 bleats
