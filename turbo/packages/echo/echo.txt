@@ -7420,7 +7420,7 @@ ephas
 erythrolytic
 extraformal
 enchaining
-excepts
+excepts 1
 employes
 elenctic
 escapers
