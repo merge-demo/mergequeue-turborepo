@@ -1683,7 +1683,7 @@ carboxylating
 caloric
 caloriduct
 calorie
-claytonia
+claytonia 1
 conflagrating
 cele
 curlicuing 1
@@ -31772,7 +31772,7 @@ customized
 customizer
 customizers
 complotted
-customizes
+customizes 1
 customizing 2
 customly
 ctelette
