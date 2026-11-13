@@ -6627,7 +6627,7 @@ boastings
 berretta
 basioccipital
 berede
-berengaria
+berengaria 1
 bicolourous
 bronchioles 1
 boychicks
@@ -12906,7 +12906,7 @@ bromizes
 bruin
 biblicolegal
 blatted
-babassus
+babassus 1
 birle
 bungmaker 1
 babka
