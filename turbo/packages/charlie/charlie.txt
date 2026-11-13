@@ -19228,7 +19228,7 @@ colola
 cololite
 colomb
 connexities
-christianlike
+christianlike 1
 colombia
 chronaxies
 clogging
@@ -24506,7 +24506,7 @@ clavis 1
 copaivic
 copaliferous
 copalite
-copalm
+copalm 1
 coparcenar
 crucians 1
 coparcenary
