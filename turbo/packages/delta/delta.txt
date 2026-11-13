@@ -12436,7 +12436,7 @@ dishumanize
 dimethylmethane
 dagon 1
 dishwasher
-discharm
+discharm 1
 dishwashers
 dichlone
 distemperature
@@ -16795,7 +16795,7 @@ drawback 1
 drawbar 1
 disposability 1
 desisted
-diazines
+diazines 1
 decolorate
 demirobe
 dyscrasial
