@@ -11167,7 +11167,7 @@ dazingly
 dratted
 digamy
 disbelieves
-disavowals
+disavowals 1
 doughfeet
 deprives
 dispersoidology 1
