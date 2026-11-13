@@ -24271,7 +24271,7 @@ convulsibility
 convulsing
 constantinople
 convulsion
-conjugates
+conjugates 1
 conjuncture
 const
 cerebritis
@@ -30958,7 +30958,7 @@ clews 1
 culverhouse
 churrs
 cuticles
-corsesque 1
+corsesque 2
 culverkey 1
 culvers
 culverwort
