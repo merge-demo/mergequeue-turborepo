@@ -1135,7 +1135,7 @@ enation
 eponymism
 equivalved
 eupatrid
-endpiece 1
+endpiece 2
 easefulness
 editorship 1
 editorships
@@ -1319,7 +1319,7 @@ elengeness
 effects
 enlarge
 edified
-enterocyst
+enterocyst 1
 effectuated
 encastage
 effectuating

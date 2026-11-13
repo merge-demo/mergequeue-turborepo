@@ -2422,7 +2422,7 @@ barkiest 1
 bazar
 brinks
 bibliomane
-bilaterality 1
+bilaterality 2
 betowel
 bowditch
 blinkering
