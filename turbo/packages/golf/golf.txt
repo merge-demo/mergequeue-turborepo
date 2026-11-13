@@ -1994,7 +1994,7 @@ galician
 goschens
 gryphaea 1
 gams 1
-glyptical
+glyptical 1
 gaurian
 gasting
 gaurs
