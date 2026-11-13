@@ -23811,7 +23811,7 @@ azteca 1
 aphonic
 aphorising 1
 anthozoan
-antimonarchically
+antimonarchically 1
 acetamide
 arduinite
 anabohitsite
@@ -24411,7 +24411,7 @@ autosoterism
 accoutered
 appanaging
 auteciously 2
-architrave
+architrave 1
 argenter
 ampullated
 alimentum
