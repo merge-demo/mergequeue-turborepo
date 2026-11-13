@@ -3470,7 +3470,7 @@ epees
 elaeothesium
 endnote
 enginemen
-excusative
+excusative 1
 epistemologist
 evinces
 eductive 1
