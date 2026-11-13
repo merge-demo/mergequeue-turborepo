@@ -4115,7 +4115,7 @@ discolorization
 dicyanogen
 duodena
 desynapsis
-distinct
+distinct 1
 deserter
 deceptibility
 deinsularize
@@ -13327,7 +13327,7 @@ demographics
 demorphinization
 dysprosia
 disproves
-disprovide 1
+disprovide 2
 distillate
 destuffing
 daintier 1
