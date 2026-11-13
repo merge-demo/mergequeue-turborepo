@@ -9314,7 +9314,7 @@ abasements
 alongshore
 archbishops 1
 alemana
-alongshoreman
+alongshoreman 1
 autonetics
 antisymmetric
 aloose
@@ -11489,7 +11489,7 @@ atrabilious
 antianaphylactogen
 atramentous
 americanitis
-amt 2
+amt 3
 alushtite 1
 amtman
 amtracks
@@ -15803,7 +15803,7 @@ antiepileptic
 atonements
 amphisbaenian 2
 afloat
-authorization
+authorization 1
 appetizingly
 antipyics
 antipyonin
