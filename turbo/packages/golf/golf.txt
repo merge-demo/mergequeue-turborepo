@@ -7444,7 +7444,7 @@ geologising
 gourded
 granuliferous
 gabbler
-guereza
+guereza 1
 ghettoizes
 glossist 1
 grabbier
@@ -7705,7 +7705,7 @@ guilfat 1
 gittern
 gadolinic
 grassroots
-gnomist 1
+gnomist 2
 gonys
 gandhi
 gloea
@@ -10048,7 +10048,7 @@ gueridons 1
 gasking
 garnering
 gongman
-geochemical
+geochemical 1
 galette
 gossypols
 guerison
