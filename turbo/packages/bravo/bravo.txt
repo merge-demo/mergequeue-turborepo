@@ -2884,7 +2884,7 @@ brushlessness
 bicep
 blanketless
 bridebowl
-boskage
+boskage 1
 biform 1
 bashawism
 buddage
@@ -2991,7 +2991,7 @@ barophobia
 barricoes 1
 barrigudos
 barrikin
-babouche
+babouche 1
 blackjack
 bromophenol
 blennioidea
@@ -10812,7 +10812,7 @@ brags
 blennosis
 bureaucracy
 beethovenish
-bolectioned
+bolectioned 1
 brassie
 bridgings 1
 beavered 1
