@@ -793,7 +793,7 @@ grievances
 gutturize
 galvanothermometer
 greenhorns
-galliformes
+galliformes 1
 ginneries 1
 goose
 genuclast
@@ -5541,7 +5541,7 @@ gervais
 gurges
 garuda
 gadinic 1
-gametal 1
+gametal 2
 ginks 1
 groovers
 gipsyry

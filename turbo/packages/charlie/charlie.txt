@@ -3315,7 +3315,7 @@ celli
 capo
 chaufers
 coughweed
-capocchia
+capocchia 1
 capoche
 chrysomelidae
 cogware 1
@@ -12646,7 +12646,7 @@ chucky 1
 chuckies
 cubation
 cacophthalmia
-cider
+cider 1
 cargued 1
 chuckingly
 chuckle

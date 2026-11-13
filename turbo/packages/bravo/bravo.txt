@@ -1434,7 +1434,7 @@ boun
 balestra 1
 batoneer
 bouffants
-bedazzled
+bedazzled 1
 bureaucratical
 bedye
 brankier
@@ -3975,7 +3975,7 @@ bdellovibrio 1
 butanes 1
 bea
 beautification
-bariums 1
+bariums 2
 batrachospermum
 barbeiro 1
 beaminess 1
