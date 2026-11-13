@@ -154,7 +154,7 @@ glottitis 2
 gallicole
 guy
 gentisin 1
-ghats
+ghats 1
 garrot
 geometers
 geryon
