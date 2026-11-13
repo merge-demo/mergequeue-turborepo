@@ -7372,7 +7372,7 @@ diadoche
 disozonize
 dagesh
 daric 1
-dehorter
+dehorter 1
 dicyclist
 diadochian
 domesday
