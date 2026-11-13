@@ -17900,7 +17900,7 @@ cods
 cephalanthus
 codswallop
 coueism
-channels
+channels 1
 coedit 2
 chemotactically
 cowweed
