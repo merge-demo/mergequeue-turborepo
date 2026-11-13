@@ -742,7 +742,7 @@ cycloses 1
 cageman
 caranda
 cager
-complexities
+complexities 1
 characterical
 causations 1
 cleaning
@@ -8254,7 +8254,7 @@ chancelry 1
 chaliced
 chalicosis
 chalicotheriid
-carlism
+carlism 1
 crummable
 chalicotheriidae
 cephalohumeralis
@@ -16180,7 +16180,7 @@ craniopagus
 clingingly
 cutesier
 curtays
-clinia
+clinia 1
 condensations
 clinicopathological 1
 clinkant
@@ -31855,7 +31855,7 @@ cunts
 currycombed
 cutlings 1
 cutoff
-cutoffs
+cutoffs 1
 consortion
 cutout
 collenchyma
