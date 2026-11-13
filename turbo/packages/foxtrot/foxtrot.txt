@@ -1744,7 +1744,7 @@ finny
 fu
 felonies
 feastraw
-fledgling
+fledgling 1
 formican
 foreordainment 1
 filiality
@@ -6157,7 +6157,7 @@ fog
 flrie
 fadeaway
 frothier
-feynesses
+feynesses 1
 fluavile
 flubbed
 feudum
@@ -8662,7 +8662,7 @@ flunkeyish
 fiendhead
 frightsome 1
 fogydom 1
-faith
+faith 1
 fortieth
 feminisms
 fictional
