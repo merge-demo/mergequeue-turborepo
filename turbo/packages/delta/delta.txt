@@ -8416,7 +8416,7 @@ defiledness
 dreep
 demipremiss
 diabetophobia
-dialogizing
+dialogizing 1
 damnifies
 devesting
 diversifications
@@ -14959,7 +14959,7 @@ diathetic
 dialoger
 defrauders
 doesn
-desiccatory
+desiccatory 1
 doffing 1
 demiracle
 diaphanometry 1
