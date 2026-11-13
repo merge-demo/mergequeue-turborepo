@@ -8022,7 +8022,7 @@ geometry
 gongorism
 gan
 galempung 1
-galleries
+galleries 1
 gravicembali
 gravat
 gastrulas
