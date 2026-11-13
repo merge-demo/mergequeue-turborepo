@@ -5792,7 +5792,7 @@ enneahedral
 envelopment
 extirp
 englut 1
-envenom
+envenom 1
 encored
 eyot 1
 excedent
@@ -6450,7 +6450,7 @@ endometriosis 1
 embolismus 1
 eurypteroidea
 ensoul
-ensouled
+ensouled 1
 ecru
 evolutes
 ectodermic
