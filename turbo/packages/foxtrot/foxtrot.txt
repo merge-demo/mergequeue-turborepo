@@ -1068,7 +1068,7 @@ flustration
 fiberboard 1
 fids 2
 frontons
-farrage
+farrage 1
 furziest 1
 farrago
 franchisement
