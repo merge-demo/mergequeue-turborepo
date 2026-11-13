@@ -8856,7 +8856,7 @@ amyosthenia 1
 amender
 attributor
 adeptly
-adamastor
+adamastor 1
 anaphora
 aditus
 administered
