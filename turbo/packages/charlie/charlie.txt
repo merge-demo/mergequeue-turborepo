@@ -3315,7 +3315,7 @@ celli
 capo
 chaufers
 coughweed
-capocchia
+capocchia 1
 capoche
 chrysomelidae
 cogware 1
@@ -6326,7 +6326,7 @@ causes
 cgm
 crimison
 causeuses
-cannellated
+cannellated 1
 causewaying
 clubfeet
 causidical
@@ -14136,7 +14136,7 @@ circumambulator
 circumanal
 circumantarctic
 circumarticular
-circumaviate
+circumaviate 1
 circumaviator 1
 cowlike
 circumaxial
