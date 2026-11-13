@@ -12672,7 +12672,7 @@ enkolpion
 exometritis
 excogitate 1
 endeavors
-emotionless
+emotionless 1
 extusion
 echo
 erotized
