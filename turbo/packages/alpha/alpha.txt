@@ -8181,7 +8181,7 @@ algometrically
 alictisal
 apathize
 applicant
-anastasis
+anastasis 1
 algophagous
 algophilia 1
 algophilist

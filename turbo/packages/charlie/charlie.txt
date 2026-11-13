@@ -22456,7 +22456,7 @@ chivalrously
 cahuita 1
 coniosis
 coniospermous
-corms
+corms 1
 charisma
 conirostral
 conirostres 1
@@ -31419,7 +31419,7 @@ chondrules
 curler
 canoed
 curlews
-curlicue
+curlicue 1
 choriambize
 candied
 curlycues
