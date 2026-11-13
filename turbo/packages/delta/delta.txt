@@ -6331,7 +6331,7 @@ denuclearization
 derogates
 demove
 diglyceride
-dixie
+dixie 1
 dillseed
 derogating
 derogative 1
@@ -7372,7 +7372,7 @@ diadoche
 disozonize
 dagesh
 daric 1
-dehorter
+dehorter 1
 dicyclist
 diadochian
 domesday
