@@ -495,7 +495,7 @@ cadelles
 craggedness
 calendaric
 cadences
-cadencies
+cadencies 1
 cadencing
 cibolero 1
 casitas
