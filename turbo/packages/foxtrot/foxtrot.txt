@@ -1334,7 +1334,7 @@ fabulize
 fineleaf
 fyttes
 famose 1
-frescoer
+frescoer 1
 flyable
 frantically
 fluxible
