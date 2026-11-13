@@ -1221,7 +1221,7 @@ excursionists
 epitrite
 edwardean
 edwardsiidae
-edwin
+edwin 1
 exorcismal 1
 equvalent
 estamin
@@ -10302,7 +10302,7 @@ ethyne 2
 elingued 1
 establismentarian 2
 enlink
-epiloguing
+epiloguing 1
 endotrophi
 enrobes 2
 eulophid
