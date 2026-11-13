@@ -1038,7 +1038,7 @@ baidarka
 baidarkas 1
 binders
 baiera
-boti
+boti 1
 bibliology
 bioavailability
 butadiene 1
@@ -10744,7 +10744,7 @@ batonne
 blepharoplegia
 bronzine 1
 burfish
-banksias
+banksias 1
 bleymes
 blellums
 blemished

@@ -10659,7 +10659,7 @@ enarbor
 excrements
 ecrasite
 expeditate
-excitory
+excitory 1
 endocytosis
 easternism
 eugenically 1

@@ -2782,7 +2782,7 @@ gluttonised
 graduals 1
 gurr
 gaunt
-growling
+growling 1
 gimmor
 gascoigny
 greatcoat 1
@@ -6760,7 +6760,7 @@ gibel
 gravilea
 glycosyls
 gonochorismal 1
-geryonia
+geryonia 1
 graze 1
 garle
 ghazi
