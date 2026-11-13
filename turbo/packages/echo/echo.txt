@@ -3096,7 +3096,7 @@ enolic 1
 ethiopian
 ellipticity 1
 elliptograph 1
-esprise 1
+esprise 2
 elliptoid
 encrease 1
 extraparietal
