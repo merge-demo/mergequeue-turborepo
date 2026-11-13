@@ -8577,7 +8577,7 @@ foredid
 flecks
 fountainlike
 fir
-fittings
+fittings 1
 ferretto
 fuzzed
 furriered
