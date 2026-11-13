@@ -6019,7 +6019,7 @@ glycemia 1
 griddle
 gownsman
 gullishly
-guttiest
+guttiest 1
 gyttja
 gairfowl
 grinningly 1
@@ -7464,7 +7464,7 @@ gladiatory
 goura 1
 glyphography
 gonad 2
-gharries 1
+gharries 2
 gamesmanship
 gymnotidae
 gordon

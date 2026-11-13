@@ -7266,7 +7266,7 @@ crisis
 cepaceous
 cycadeoid
 comitatus
-cepe
+cepe 1
 crossroads
 cepes
 civ
@@ -22975,7 +22975,7 @@ consistences
 consistency
 catalytic
 chemotherapies
-companioning
+companioning 1
 clinodome
 consistencies 1
 choriambi
