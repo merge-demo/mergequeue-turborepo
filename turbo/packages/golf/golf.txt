@@ -9942,7 +9942,7 @@ gigadoid
 gritless
 geocratic
 guarrau
-gogglers
+gogglers 1
 glegness 1
 grandsir 1
 glyptic 1
