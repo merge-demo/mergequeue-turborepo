@@ -7576,7 +7576,7 @@ ferganite
 frightenedness
 forefeelingly
 frogging
-foreffelt
+foreffelt 1
 folioed
 fimbrillae
 flotten
