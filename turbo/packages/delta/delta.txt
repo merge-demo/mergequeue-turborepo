@@ -357,7 +357,7 @@ deutomalar
 desalters
 dayman
 droughtiness
-detruss
+detruss 1
 daymares
 diarists
 discoloured
