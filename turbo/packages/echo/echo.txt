@@ -6216,7 +6216,7 @@ enorn
 enos
 eradiating
 egophony
-epitapher
+epitapher 1
 eradiation
 enostosis
 elisions
@@ -9903,7 +9903,7 @@ exilian
 elongative
 earmarks
 estimations
-eprosy
+eprosy 1
 exhaustively
 envelopers
 emmensite
