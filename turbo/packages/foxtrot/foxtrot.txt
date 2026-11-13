@@ -6889,7 +6889,7 @@ filibusterous 1
 freeway 2
 formaldehydesulphoxylic 1
 foll
-facia
+facia 1
 fedarie
 formalisation
 forbode
@@ -9439,7 +9439,7 @@ frequenting
 fraudfully 1
 fyces
 forearmed
-fraudulent
+fraudulent 1
 ferreting
 fideicommissumissa
 frauen
