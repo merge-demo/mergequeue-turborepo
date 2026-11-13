@@ -1365,7 +1365,7 @@ diminishableness
 decurionate
 duodecillion
 denierage
-diatomin
+diatomin 1
 doyennes
 derry
 deworm
@@ -10704,7 +10704,7 @@ dianoialogy
 descriptions
 durions
 driftages
-deferrers
+deferrers 1
 dat 1
 defaming
 decompensatory
