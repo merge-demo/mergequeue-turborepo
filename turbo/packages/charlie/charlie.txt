@@ -18172,7 +18172,7 @@ cervulus
 coetaneous
 coeternal
 coincidence
-caninity
+caninity 1
 coeval
 camorrist
 coevalness
