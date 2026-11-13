@@ -6326,7 +6326,7 @@ derog
 demeanour 1
 doronicum
 despond
-derogate
+derogate 1
 denuclearization
 derogates
 demove
