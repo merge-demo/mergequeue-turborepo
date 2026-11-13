@@ -18870,7 +18870,7 @@ colla
 csnet
 countermoving
 cornulite
-collabent
+collabent 1
 collaborates
 collaborating
 clause
@@ -26611,7 +26611,7 @@ caliper
 celluloided
 coumarilic
 coumarins
-copal
+copal 1
 chelodina
 coumarone
 compassionating
