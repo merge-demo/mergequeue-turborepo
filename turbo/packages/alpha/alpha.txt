@@ -22847,7 +22847,7 @@ atoke
 assemblages 2
 alphenic 1
 anyhow 1
-assonate
+assonate 1
 aquo
 avidness
 atmosphereless
@@ -23092,7 +23092,7 @@ anticommercialistic
 anarthropoda
 autorhythmic
 attatched
-applegrower
+applegrower 1
 ani
 adjutorious
 atte

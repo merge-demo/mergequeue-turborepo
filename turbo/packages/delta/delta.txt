@@ -7306,7 +7306,7 @@ duecentos
 doctrinist
 despouse 1
 doyen
-deterrence
+deterrence 1
 defiantly 1
 disprejudice
 deterrent
