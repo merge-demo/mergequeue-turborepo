@@ -6952,7 +6952,7 @@ aitch 1
 angeldom
 araneologist
 appropriately
-akron
+akron 1
 anagrammatised
 aberrator
 apologia 1
@@ -8241,7 +8241,7 @@ acroscopic 1
 abegge
 arfillite 1
 attached
-abstainment
+abstainment 1
 aliculae
 advisably
 abrastol
@@ -12454,7 +12454,7 @@ androgynia
 androgynies
 angiostomy
 androgone
-andrographis
+andrographis 1
 acrotomous
 adamsite
 andromache 1
