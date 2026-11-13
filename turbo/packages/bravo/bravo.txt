@@ -7592,7 +7592,7 @@ bonitoes
 bibacity
 blueprints
 bevomiting 1
-briefer
+briefer 1
 barkey
 bevvy
 bewailers
@@ -17682,7 +17682,7 @@ birgus
 blackfin
 blueings
 bonuses 2
-boomlets
+boomlets 1
 burleycue
 burlesquer
 boviculture

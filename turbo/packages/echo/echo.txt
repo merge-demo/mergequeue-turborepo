@@ -894,7 +894,7 @@ essoining
 exercises
 extensivity
 expeditionary
-enures
+enures 1
 emperies
 extrastate
 episedia
@@ -3807,7 +3807,7 @@ emend
 exscribe
 embolomalerism 1
 epistolizing
-eglandulose
+eglandulose 1
 electroplax
 expendables
 extracolumella

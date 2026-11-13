@@ -2904,7 +2904,7 @@ cantaliver
 catacombs
 cackled
 cantaloup
-careerer
+careerer 1
 cantaloupes
 catboat
 cantankerous
