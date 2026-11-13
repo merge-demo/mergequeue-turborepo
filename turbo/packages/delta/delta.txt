@@ -6876,7 +6876,7 @@ deoxidise
 dodded
 despatching
 determinist
-despecialization
+despecialization 1
 disembarrassed
 dispute 1
 domineer 1
