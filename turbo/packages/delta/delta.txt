@@ -7335,7 +7335,7 @@ dueful
 dematerialisation
 demeritorious
 detinet
-daising
+daising 1
 decriminalizes
 deflagration
 detinues
