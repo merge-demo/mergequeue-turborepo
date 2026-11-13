@@ -15360,7 +15360,7 @@ decrystallization
 darbyite
 domesdays
 diarthrodial
-domesticality
+domesticality 1
 decreased
 doment 1
 devicefully
