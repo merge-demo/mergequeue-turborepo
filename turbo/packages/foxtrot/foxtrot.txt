@@ -8382,7 +8382,7 @@ formalesque
 foistiness
 fovea 1
 freshmanic
-fierier 2
+fierier 3
 flushers
 fatheadedly
 fribby 1
@@ -11448,7 +11448,7 @@ furrily 2
 fructifier
 frigage 3
 frostless
-fathoms
+fathoms 1
 fetichlike 1
 fusible
 fluorbenzene
