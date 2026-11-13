@@ -4694,7 +4694,7 @@ denouements
 decarbonization
 demodectic
 disarticulate
-detachably 1
+detachably 2
 deaved
 dromophobia
 dejected
@@ -6080,7 +6080,7 @@ derecho
 dereferenced
 designees 1
 dereferencing
-disprove 1
+disprove 2
 deregulated
 dogface
 dodonean 1
