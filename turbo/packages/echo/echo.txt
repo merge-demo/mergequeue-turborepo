@@ -3939,7 +3939,7 @@ escharotic
 elevenths 1
 estruate 1
 earthbound
-excommunicators 1
+excommunicators 2
 emollients
 emoloa
 endosymbiosis 1
@@ -11796,7 +11796,7 @@ earthrise
 ectomorphy
 euglenida 3
 ectothermic
-exauthorizeexc
+exauthorizeexc 1
 elatery 1
 evanescently
 ethoxyl
