@@ -9039,7 +9039,7 @@ allothimorphic
 amphisbaenae
 aisle
 amuses
-allothogenic
+allothogenic 1
 astrakanite
 angora
 allotypes
@@ -20567,7 +20567,7 @@ acroteria
 acousmata
 actinosome
 assimulate
-agend 1
+agend 2
 arrased
 ageable
 arthritical
