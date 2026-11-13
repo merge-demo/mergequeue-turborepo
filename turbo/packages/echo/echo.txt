@@ -420,7 +420,7 @@ ethenic
 epaxially
 excuse
 exarchies
-eburin
+eburin 1
 ec
 ecardines
 extravagate
@@ -4879,7 +4879,7 @@ excitoglandular 1
 empoisons
 egomanias
 ebulliometer 1
-exoperidium
+exoperidium 1
 endoderm 1
 enculturation 1
 ergatandromorph
