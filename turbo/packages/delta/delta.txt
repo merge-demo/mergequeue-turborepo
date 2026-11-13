@@ -1262,7 +1262,7 @@ dative 1
 dorking
 datively
 dreamlore
-danthonia
+danthonia 1
 dusted 1
 diazoic
 denari
@@ -2913,7 +2913,7 @@ disalicylide
 displayer
 dedit
 dediticiancy
-dedogmatize
+dedogmatize 1
 discounted
 dedolation
 deseret
