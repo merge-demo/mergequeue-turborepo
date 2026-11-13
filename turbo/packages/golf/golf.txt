@@ -4217,7 +4217,7 @@ gastroscope
 governments 1
 gangliated 2
 gibeonite
-gasconism 1
+gasconism 2
 gynecological 1
 gramineousness
 gaunty 1
@@ -5575,7 +5575,7 @@ gastrasthenia 2
 game 2
 gunstick
 glueman
-gallinago 2
+gallinago 3
 gowkedness
 gasps
 geisenheimer 1
