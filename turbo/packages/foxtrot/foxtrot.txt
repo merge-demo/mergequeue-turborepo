@@ -1143,7 +1143,7 @@ fennels 1
 flexures
 flippers
 forefends
-funje 1
+funje 2
 flockling
 fimbriodentate
 flagrance
@@ -7477,7 +7477,7 @@ fibrosity
 flaser
 forsakers 1
 fazenda 1
-flentes
+flentes 1
 fleshbrush 1
 frivoler
 foredooms
