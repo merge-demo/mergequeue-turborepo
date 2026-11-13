@@ -11472,7 +11472,7 @@ aion 1
 anthraceniferous
 asepsis
 announcers
-ammines
+ammines 1
 amputees
 angiographic
 ajugas 2
