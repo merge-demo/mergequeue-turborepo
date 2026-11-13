@@ -40,7 +40,7 @@ aurine
 aethogen
 aerometeorograph
 abaciscus
-amphoriskoi
+amphoriskoi 1
 aquanaut
 autopsist
 accessorily
