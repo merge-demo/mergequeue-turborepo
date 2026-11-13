@@ -6793,7 +6793,7 @@ elaphine
 enrooted
 euaster
 eelware
-entoil
+entoil 1
 epistolographer
 eggler 1
 entom
