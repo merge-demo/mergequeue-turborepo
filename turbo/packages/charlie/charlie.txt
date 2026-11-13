@@ -26602,7 +26602,7 @@ coulombmeter 1
 culprit
 coulombs 2
 coulter
-circumscription
+circumscription 1
 coumaphos
 coumaran
 coumaric
@@ -29417,7 +29417,7 @@ curdy
 crispier 1
 cryptophyte
 carcinolytic
-contemporizing
+contemporizing 1
 crispiest 1
 curtelace
 crispin

@@ -4626,7 +4626,7 @@ gerbilles
 gossoon 2
 glassin
 glycuronic
-glary
+glary 1
 gradely 2
 graecism
 goglet
