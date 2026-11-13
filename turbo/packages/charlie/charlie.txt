@@ -826,7 +826,7 @@ cy
 clasts
 caiman
 counterplot
-carbocinchomeronic
+carbocinchomeronic 1
 catachthonian 1
 cayman
 carboniferous
@@ -23045,7 +23045,7 @@ consonantic
 cavalcade
 consonantised 1
 contemplature
-cagmag
+cagmag 1
 consonantism 1
 cymophane
 consonantized

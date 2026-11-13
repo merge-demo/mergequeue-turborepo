@@ -1802,7 +1802,7 @@ brachman
 burdie
 bamboula
 bandied
-banterer
+banterer 1
 boswellized
 bowmen
 balloonet 1

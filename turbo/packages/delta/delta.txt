@@ -1753,7 +1753,7 @@ diphyllobothrium
 debriefs
 deathtrap
 drof
-deathward
+deathward 1
 ductility
 docent
 downlier 1
@@ -17191,7 +17191,7 @@ drippers
 deddy
 diathermotherapy 1
 doves 1
-differentiators
+differentiators 1
 drippier
 damans
 deuteroscopy
