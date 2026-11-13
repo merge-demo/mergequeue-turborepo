@@ -4039,7 +4039,7 @@ exedent
 evidenced 1
 esuriency
 evangelize
-ensafe
+ensafe 1
 euphorbial
 entases 1
 extralegally
