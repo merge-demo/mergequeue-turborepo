@@ -14354,7 +14354,7 @@ dandified
 deuteranomaly
 disadvantages 1
 ditto
-droopily
+droopily 1
 disperato
 dittoes
 delimitizing
