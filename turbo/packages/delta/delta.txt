@@ -7360,7 +7360,7 @@ detonations
 demean 1
 detonative
 detonize
-diverse
+diverse 1
 detour
 duncifying 1
 dezinc
@@ -8532,7 +8532,7 @@ dampishness
 dharani
 debateful
 daimonion
-dewfall
+dewfall 1
 diaphanously
 douglas
 diphthongal
