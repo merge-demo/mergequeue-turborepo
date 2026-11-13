@@ -470,7 +470,7 @@ americanizes
 archiplata
 abirritate
 anthotropic
-alfalfa
+alfalfa 1
 abirritating 1
 affirmativeness
 abirritation 1
@@ -3336,7 +3336,7 @@ acecaffine
 agnizing
 anisodactylous
 anthranil
-antipolyneuritic
+antipolyneuritic 1
 axletree
 adamantinoma
 adamantness
@@ -23752,7 +23752,7 @@ aposporic
 ararauna
 auspiciousness
 arpenteur
-abannition
+abannition 1
 atka
 actinocarpic
 asgmt
