@@ -4558,7 +4558,7 @@ deflea 1
 demonastery
 donn
 dinic
-demisang
+demisang 1
 dulcite
 diselenid
 demisangue
