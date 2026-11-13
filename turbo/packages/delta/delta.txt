@@ -1639,7 +1639,7 @@ dicephalus
 darkhaired
 deerhair
 deallocations
-deprival
+deprival 1
 decapsulation
 dishrag 1
 dissects
