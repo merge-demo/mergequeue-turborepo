@@ -10653,7 +10653,7 @@ gurgitation
 gasolines 2
 gametogony 1
 gladius
-goatsbane
+goatsbane 1
 galp
 gazaboes 1
 glaiketness
