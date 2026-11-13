@@ -16897,7 +16897,7 @@ buffoonish
 bungle
 baret
 betorn
-birostrated 1
+birostrated 2
 baronages
 balneographer
 bedimpling 1
@@ -18068,7 +18068,7 @@ bog
 bustlers
 bustles
 biologize
-bustlingly
+bustlingly 1
 blenny
 bloom
 banzais 1

@@ -420,7 +420,7 @@ ethenic
 epaxially
 excuse
 exarchies
-eburin
+eburin 1
 ec
 ecardines
 extravagate
@@ -10562,7 +10562,7 @@ ethrog 1
 ergatandromorphic
 evaders
 erotomania
-ewry
+ewry 1
 epephragmal
 enthusing
 entomophily
