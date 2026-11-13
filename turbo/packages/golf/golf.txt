@@ -4626,7 +4626,7 @@ gerbilles
 gossoon 2
 glassin
 glycuronic
-glary
+glary 1
 gradely 2
 graecism
 goglet
@@ -9349,7 +9349,7 @@ gorgonize
 gelatinized 2
 gheraoed
 geneserin
-graciosity 2
+graciosity 3
 gradeless 1
 galtonia
 geordie 1

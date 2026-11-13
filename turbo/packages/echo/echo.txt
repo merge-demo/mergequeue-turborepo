@@ -4756,7 +4756,7 @@ entomophytous
 establishments 1
 exploratory
 extracardial
-encloister
+encloister 1
 easternizing 2
 extend
 endosporously
@@ -8093,7 +8093,7 @@ epiplocele
 epiploitis
 enthuse
 epiprecoracoid
-extrude
+extrude 1
 elegant
 epipterous
 epipubis
