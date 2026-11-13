@@ -5350,7 +5350,7 @@ douched 1
 dialysation
 denumerantive
 dendrologous
-disestablished
+disestablished 1
 drumbledore
 disinure
 discrownment
