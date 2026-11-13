@@ -4785,7 +4785,7 @@ gobiesociform
 gypaetus 2
 griffinism
 gumma 1
-gubernaculum
+gubernaculum 1
 gynecidal 1
 garlicwort
 glades 2
@@ -7290,7 +7290,7 @@ gutturally 1
 guze
 gravelling
 gangly
-gappier
+gappier 1
 goar
 gymnosophy
 genys 1
@@ -10277,7 +10277,7 @@ griselda
 gipsyhood
 gervase 1
 guarantorship
-gonimoblast
+gonimoblast 1
 guitar
 gaumish
 grotesquery
