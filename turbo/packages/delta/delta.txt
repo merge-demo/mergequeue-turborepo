@@ -357,7 +357,7 @@ deutomalar
 desalters
 dayman
 droughtiness
-detruss
+detruss 1
 daymares
 diarists
 discoloured
@@ -13882,7 +13882,7 @@ dollship
 doubletone 1
 ductileness
 dancery
-devours
+devours 1
 distemperedly
 dendritically
 drinn
