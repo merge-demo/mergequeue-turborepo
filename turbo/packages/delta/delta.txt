@@ -17210,7 +17210,7 @@ decursive
 depletory
 drive
 diastrophism 1
-direst
+direst 1
 deermeat
 decumbence
 disorganic 1
