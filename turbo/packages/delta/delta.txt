@@ -7965,7 +7965,7 @@ drawpoint 2
 dextroglucose
 distensive
 dextrolactic
-despotes 1
+despotes 2
 diphenylthiourea 1
 dorosternal
 dextrolimonene
@@ -14927,7 +14927,7 @@ dominates 1
 descrying
 dracontine
 dev
-dumbbells 1
+dumbbells 2
 divulgater
 defendants
 deridingly
