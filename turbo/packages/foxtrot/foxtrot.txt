@@ -6747,7 +6747,7 @@ footwall 1
 flaxlike
 fourpenny
 flaunts
-forethink 1
+forethink 2
 furcation 1
 foldcourse
 fiberless
