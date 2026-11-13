@@ -4623,7 +4623,7 @@ ghostily
 glossarian 1
 guauaenok
 gerbilles
-gossoon 1
+gossoon 2
 glassin
 glycuronic
 glary
