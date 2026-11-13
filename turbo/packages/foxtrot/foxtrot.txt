@@ -8253,7 +8253,7 @@ forgivable
 fluidism
 fortunate
 farmings
-flagellaria
+flagellaria 1
 fractious
 flump
 frontlets
