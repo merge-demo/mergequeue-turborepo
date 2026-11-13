@@ -9306,7 +9306,7 @@ ashfall
 anamorphous
 astragaloscaphoid
 acapulco
-ateba
+ateba 1
 analyser
 afflate
 ambeer
