@@ -476,7 +476,7 @@ granadine
 graphites
 glop
 glycoproteid
-gearset 1
+gearset 2
 gymnical
 gleewoman
 goosefishes 1
@@ -3503,7 +3503,7 @@ gilt 1
 grogginess
 gigtree
 griffe
-gamines
+gamines 1
 gents
 glycolysis
 generalships 1
