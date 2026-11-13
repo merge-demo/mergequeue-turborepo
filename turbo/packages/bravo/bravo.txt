@@ -1701,7 +1701,7 @@ brilliantness
 bungalow 1
 bawdyhouse
 bagnios 1
-besottingly
+besottingly 1
 bowsing
 balneology
 balneological
@@ -7196,7 +7196,7 @@ bullyboys
 bawling
 bevatron
 brambliest
-bifoliate 1
+bifoliate 2
 biologist 1
 brightly 2
 bessel
