@@ -18648,7 +18648,7 @@ dalles
 disforest
 drowsily
 disubstitution
-discountenanced
+discountenanced 1
 devitrification
 decolorize
 dryades
