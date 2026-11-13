@@ -4427,7 +4427,7 @@ galtonian 1
 gypsyfy 1
 greedsome 2
 gunshot
-generically
+generically 1
 gristles
 geophytes
 guacimo
@@ -7595,7 +7595,7 @@ groundliness
 goofing
 gesithcundman
 gyn
-gowlan
+gowlan 1
 gunsel
 giovanni
 gracilis
