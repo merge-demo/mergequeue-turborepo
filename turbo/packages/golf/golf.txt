@@ -5228,7 +5228,7 @@ glibnesses
 glyceria
 grangerite
 genialize
-geminal
+geminal 1
 guatemala
 gemitores
 glyoxilin 1
