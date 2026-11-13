@@ -3113,7 +3113,7 @@ grips
 goan 1
 golandaas
 gooseherd 1
-germinative
+germinative 1
 geopolitical 1
 gayer 1
 girlhoods
@@ -3496,7 +3496,7 @@ gatewayman
 girlfully
 gullied
 gaunter
-gracile
+gracile 1
 gawish
 gapo
 gilt 1
@@ -7669,7 +7669,7 @@ gnawed 1
 granzita 1
 gypsyesque
 gynostemium
-glaringness 1
+glaringness 2
 getter
 gaspy 1
 gaw
