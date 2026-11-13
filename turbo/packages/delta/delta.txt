@@ -8532,7 +8532,7 @@ dampishness
 dharani
 debateful
 daimonion
-dewfall
+dewfall 1
 diaphanously
 douglas
 diphthongal
@@ -15360,7 +15360,7 @@ decrystallization
 darbyite
 domesdays
 diarthrodial
-domesticality
+domesticality 1
 decreased
 doment 1
 devicefully
