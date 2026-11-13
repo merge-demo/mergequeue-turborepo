@@ -12707,7 +12707,7 @@ candidas
 chauvinists
 cholecystoileostomy 1
 canalage
-clawsick 1
+clawsick 2
 cutie
 chugged
 chuggers
@@ -22717,7 +22717,7 @@ conoscenti
 conjecture
 columnizes
 conoscopic
-conplane
+conplane 1
 centuriation
 counterevidence
 cryosphere 1
@@ -29595,7 +29595,7 @@ croape
 croat
 chimars
 circuitmen
-croatan
+croatan 1
 confrontational
 crinion
 crawlsome

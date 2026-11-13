@@ -2976,7 +2976,7 @@ denicotine 1
 deoxidizing
 doxologized
 destructiveness
-deemphasized
+deemphasized 1
 donator
 denaturizing
 dhai 2
