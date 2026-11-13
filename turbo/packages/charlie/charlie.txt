@@ -19499,7 +19499,7 @@ colporter 1
 colporteurs 1
 colposcopy
 crocodiles
-cornstook
+cornstook 1
 colstaff
 cnidogenous
 congresswoman 1
