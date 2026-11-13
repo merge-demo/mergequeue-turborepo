@@ -5478,7 +5478,7 @@ demicolumn
 diffusionism
 disproven
 depascent
-debilitation
+debilitation 1
 disrepute
 depasture 2
 devolution
@@ -5765,7 +5765,7 @@ disestablishes
 desistance
 depots
 dasyure
-dictating
+dictating 1
 deprave 1
 disanagrammatize 1
 doxologizing
