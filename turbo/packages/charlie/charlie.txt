@@ -9246,7 +9246,7 @@ chyme 1
 craunch
 cocainizing
 cryonic
-carol
+carol 1
 cocceianism 1
 chatterboxes
 chattered
@@ -21879,7 +21879,7 @@ cancellarian
 confelicity
 chaetosema
 conventionalist
-cuspated
+cuspated 1
 conferential
 conferral
 creodont
