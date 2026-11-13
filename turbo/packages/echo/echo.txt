@@ -8975,7 +8975,7 @@ emboldening
 electrophonic
 erasable
 ecclesiasticism
-epizootiological
+epizootiological 1
 equivalve 1
 erysipelatous
 erraticalness
