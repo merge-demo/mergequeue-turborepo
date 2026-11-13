@@ -3509,7 +3509,7 @@ capsuling
 clamer
 capsulizing
 cabman
-capsulogenous
+capsulogenous 1
 cataphyllum
 capsulolenticular
 capsulopupillary
