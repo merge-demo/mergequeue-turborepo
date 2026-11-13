@@ -17582,7 +17582,7 @@ decalcifier 1
 drumstick
 detoxicant
 drunk
-desuperheater
+desuperheater 1
 dogbite 1
 drunkenwise
 dirtiest
