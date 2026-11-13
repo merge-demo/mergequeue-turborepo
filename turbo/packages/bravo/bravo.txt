@@ -11959,7 +11959,7 @@ boggier
 bayou
 boggle
 babakoto 1
-blastemas
+blastemas 1
 boggler
 blasphemously
 bannerol
