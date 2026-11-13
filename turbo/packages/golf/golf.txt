@@ -6664,7 +6664,7 @@ gypsine 1
 gassings
 gonion 2
 guid
-gonid
+gonid 1
 gabeler
 gluttonies
 gynecratic 1

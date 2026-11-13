@@ -8900,7 +8900,7 @@ ergograph
 embitter
 ergomaniac 1
 epipleural
-eragrostis
+eragrostis 1
 eyers
 energumen
 ergostat
@@ -13669,7 +13669,7 @@ elevon
 elizabethanism
 exteriorised 1
 ecrus
-entapophysis
+entapophysis 1
 elfic
 encomiendas
 eject
