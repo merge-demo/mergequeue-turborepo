@@ -11448,7 +11448,7 @@ furrily 2
 fructifier
 frigage 3
 frostless
-fathoms
+fathoms 1
 fetichlike 1
 fusible
 fluorbenzene
