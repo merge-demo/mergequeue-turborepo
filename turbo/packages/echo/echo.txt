@@ -5214,7 +5214,7 @@ exta
 ekebergite 1
 either
 endoneurium
-edify
+edify 1
 equestrianism
 equinely
 entier
@@ -6450,7 +6450,7 @@ endometriosis 1
 embolismus 1
 eurypteroidea
 ensoul
-ensouled
+ensouled 1
 ecru
 evolutes
 ectodermic
