@@ -10249,7 +10249,7 @@ galvanometry
 galvanoplastically
 grownup
 gauzelike
-guanases
+guanases 1
 globulitic
 goers
 galeproof
