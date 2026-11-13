@@ -17120,7 +17120,7 @@ chloronaphthalene
 conspicuousness
 coadsorbent 1
 coprophobic
-caddisfly
+caddisfly 1
 creek
 coaters
 churliest
