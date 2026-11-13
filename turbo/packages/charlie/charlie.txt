@@ -24506,7 +24506,7 @@ clavis 1
 copaivic
 copaliferous
 copalite
-copalm
+copalm 1
 coparcenar
 crucians 1
 coparcenary
