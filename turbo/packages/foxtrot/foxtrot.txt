@@ -172,7 +172,7 @@ factitively
 forums
 flatfoots
 featherless
-furnarius
+furnarius 1
 flier
 factorable
 flimsies
@@ -2594,7 +2594,7 @@ ferrometer 1
 foller 1
 filagreed
 fameflower
-ferronatrite
+ferronatrite 1
 follis
 fluorouracil
 financiere
@@ -6770,7 +6770,7 @@ fundatorial
 forfalt 1
 faithfuls
 finmark
-forams
+forams 1
 fungin
 forewonted 1
 freelancer 1
