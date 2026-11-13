@@ -2106,7 +2106,7 @@ didst
 decandrous
 discrepate
 decane
-debauchment
+debauchment 1
 decanery 1
 diabolify
 decangular
