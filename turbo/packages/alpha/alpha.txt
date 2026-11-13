@@ -23937,7 +23937,7 @@ autoasphyxiation 1
 algicides
 antidotally
 asepticizing
-autoassimilation
+autoassimilation 1
 antarchistic
 aubergistes 1
 anisopleurous 1
