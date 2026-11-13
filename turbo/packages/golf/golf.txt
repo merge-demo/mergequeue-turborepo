@@ -2961,7 +2961,7 @@ gurkha 1
 guapilla
 gibes
 gastroenterostomy 1
-geomant
+geomant 1
 graviers
 gasaliers 2
 goluptious
@@ -6179,7 +6179,7 @@ gonystylaceous 1
 glissader 1
 gregor
 gastrimargy
-guillotinade
+guillotinade 1
 guildic 1
 gamopetalae
 galactophagist
