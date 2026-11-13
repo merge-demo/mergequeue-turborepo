@@ -9893,7 +9893,7 @@ aberroscope
 adrenalectomized
 aquashow
 ane
-adjudicating 1
+adjudicating 2
 albumoid
 aponogeton
 antepreterit
@@ -9905,7 +9905,7 @@ aplotomy
 armillas
 amaritude
 amarthritis
-autosomatognosis
+autosomatognosis 1
 aeciospore
 azotorrhoea
 autosexing
@@ -15328,7 +15328,7 @@ acetopiperone
 autodecrements
 antispermotoxin 1
 amphicyon
-antihistaminic 1
+antihistaminic 2
 antidogmatism
 antipragmaticism
 attorning
