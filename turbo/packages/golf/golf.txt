@@ -3051,7 +3051,7 @@ gidgee
 garnetz 1
 gossipper
 giant
-girons
+girons 1
 graphiter
 greensauce
 gamelin 1
