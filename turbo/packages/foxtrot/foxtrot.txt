@@ -10555,7 +10555,7 @@ fixable 1
 frictionless 1
 francisca
 faiths
-forehanded
+forehanded 1
 falltime
 forcipiform
 frowze 1
