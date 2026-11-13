@@ -1146,7 +1146,7 @@ forefends
 funje 2
 flockling
 fimbriodentate
-flagrance
+flagrance 1
 followeth
 florulas
 flavoursome 1
@@ -4248,7 +4248,7 @@ flatterers
 frenzying
 flossing
 fundamentalism
-forenoted
+forenoted 1
 flowerpecker
 foreyard
 fatless
