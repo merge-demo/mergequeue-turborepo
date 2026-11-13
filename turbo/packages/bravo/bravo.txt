@@ -18402,7 +18402,7 @@ bespring
 benzoins 1
 benthonic
 bvt
-berginize 1
+berginize 2
 bowfins
 bagwash
 buttonweed
