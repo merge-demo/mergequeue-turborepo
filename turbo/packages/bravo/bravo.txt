@@ -1701,7 +1701,7 @@ brilliantness
 bungalow 1
 bawdyhouse
 bagnios 1
-besottingly
+besottingly 1
 bowsing
 balneology
 balneological
@@ -1843,7 +1843,7 @@ billycans
 bancha
 bivial
 beslime
-bullose 1
+bullose 2
 bialystoker
 bandaged
 bandaging 1
