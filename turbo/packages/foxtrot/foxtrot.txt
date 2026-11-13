@@ -2771,7 +2771,7 @@ forbearer
 ftncmd
 fadeout
 foxtailed
-fotch
+fotch 1
 filao
 fubby
 fimbriation 1
