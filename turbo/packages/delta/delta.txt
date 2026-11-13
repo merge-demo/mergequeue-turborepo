@@ -1685,7 +1685,7 @@ dignity
 disentrain
 declines
 dispond
-dendrodic
+dendrodic 1
 duckstone
 distringas
 dobl 1
