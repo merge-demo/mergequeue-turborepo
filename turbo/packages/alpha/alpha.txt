@@ -23483,7 +23483,7 @@ abeigh
 anteroposteriorly
 anarcotin 1
 astasia
-algaeology
+algaeology 1
 auguring
 augurous
 auldest
@@ -25317,7 +25317,7 @@ azohumic
 azoic
 appellancy 1
 azoles
-aleph
+aleph 1
 aegirinolite
 analysands
 allots 1

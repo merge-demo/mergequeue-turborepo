@@ -694,7 +694,7 @@ fireman
 filemot
 flannelmouths
 feathercut
-fairish
+fairish 1
 fief 1
 featlier
 filmically 1
@@ -6301,7 +6301,7 @@ furcraeas
 favela
 fluoboride
 flaggiest
-fumerel
+fumerel 1
 foamflower 1
 fiking
 fossiform 1
