@@ -2959,7 +2959,7 @@ gaddang
 guilt
 gurkha 1
 guapilla
-gibes
+gibes 1
 gastroenterostomy 1
 geomant 1
 graviers
