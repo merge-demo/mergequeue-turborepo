@@ -4753,7 +4753,7 @@ demon
 dyspepsia
 delightsomely 1
 demonetise
-defenestrates
+defenestrates 1
 demonetize
 derotrema
 dextrous
@@ -12021,7 +12021,7 @@ deciduousness
 diagraphics
 deambulatory
 devotionist
-disenmesh
+disenmesh 1
 dibrom
 derf
 donut
