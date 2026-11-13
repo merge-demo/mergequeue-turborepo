@@ -3605,7 +3605,7 @@ exhibits
 epitomically 1
 embows
 exanimate
-enculturate 1
+enculturate 2
 enclog
 entamoeba
 enraptures
