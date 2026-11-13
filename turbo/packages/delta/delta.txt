@@ -2702,7 +2702,7 @@ diogenic
 decorator
 deliberated
 disaffiliate
-devonshire
+devonshire 1
 dictates
 dissembling
 decore
@@ -17660,7 +17660,7 @@ dorsalis 1
 detoxicating
 decem
 delivered
-decarbonizer
+decarbonizer 1
 diclinism
 dagame
 dioscorein
