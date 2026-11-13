@@ -2991,7 +2991,7 @@ barophobia
 barricoes 1
 barrigudos
 barrikin
-babouche
+babouche 1
 blackjack
 bromophenol
 blennioidea
