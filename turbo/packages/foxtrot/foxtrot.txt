@@ -11446,7 +11446,7 @@ fluviose
 falteringly 1
 furrily 2
 fructifier
-frigage 2
+frigage 3
 frostless
 fathoms
 fetichlike 1
