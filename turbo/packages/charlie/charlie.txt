@@ -12485,7 +12485,7 @@ clairvoyants
 chromophore
 chads
 chromophorous
-chromophotography 1
+chromophotography 2
 chromophotographic
 cranky
 corundophilite
@@ -28594,7 +28594,7 @@ creepily
 country
 cucurb
 coxcomby
-creepiness
+creepiness 1
 chammies
 creepmouse
 creeps
