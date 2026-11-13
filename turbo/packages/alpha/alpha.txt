@@ -10303,7 +10303,7 @@ ameliorableness
 applemonger
 amylocellulose
 anhydrated
-acidific
+acidific 1
 ars
 admirability
 ameliorates
@@ -14583,7 +14583,7 @@ anthropotheist
 androcephalum 1
 answering
 anilinctus
-avania
+avania 1
 anthropotheistic
 anthropotomical
 antonyms

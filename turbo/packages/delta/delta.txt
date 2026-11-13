@@ -8767,7 +8767,7 @@ dictaphone
 dequeen
 dragsmen
 depeter
-diestruses 2
+diestruses 3
 deftness
 dinettes
 diabolized
@@ -18648,7 +18648,7 @@ dalles
 disforest
 drowsily
 disubstitution
-discountenanced
+discountenanced 1
 devitrification
 decolorize
 dryades
