@@ -901,7 +901,7 @@ gymnophiona
 guerrilla
 girlies 2
 guayroto
-gladnesses 1
+gladnesses 2
 gotha
 gametocyst
 gametocyte
@@ -4623,7 +4623,7 @@ ghostily
 glossarian 1
 guauaenok
 gerbilles
-gossoon 1
+gossoon 2
 glassin
 glycuronic
 glary
