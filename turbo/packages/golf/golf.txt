@@ -390,7 +390,7 @@ gynobasic
 gelded
 galangin 1
 grond
-golundauze
+golundauze 1
 gavot 1
 glunched
 gaoled
@@ -2060,7 +2060,7 @@ gossamery
 gisants
 geminiform
 gederathite
-gio
+gio 1
 grapheme 1
 gaynesses
 grippit
