@@ -10889,7 +10889,7 @@ delusions
 denazify
 disabled 1
 doorplates 1
-defrayer
+defrayer 1
 deterges
 divulgement 1
 dioeciodimorphous
