@@ -17842,7 +17842,7 @@ cochlea
 codfishing
 clysterize
 chrestomathy
-cachaemia
+cachaemia 1
 codheaded
 codiaceae
 codiales
@@ -22975,7 +22975,7 @@ consistences
 consistency
 catalytic
 chemotherapies
-companioning
+companioning 1
 clinodome
 consistencies 1
 choriambi

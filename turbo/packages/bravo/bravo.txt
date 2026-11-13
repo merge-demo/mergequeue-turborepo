@@ -783,7 +783,7 @@ badigeon
 beadsman
 bechatter
 boric
-badinages
+badinages 1
 beblotch
 bearcoot
 bumboatmen
@@ -9278,7 +9278,7 @@ bipeds
 bipeltate
 bipennate
 brunches
-bevor
+bevor 1
 befouling
 baldrics
 built 1
