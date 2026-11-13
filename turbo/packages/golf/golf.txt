@@ -10509,7 +10509,7 @@ gypsous
 garn
 gundie 2
 graspingness
-galipots
+galipots 1
 goladar
 girl
 geometrina

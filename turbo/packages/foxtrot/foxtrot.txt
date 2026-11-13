@@ -6740,7 +6740,7 @@ frosteds
 fledgeless 2
 foredevised 1
 floridean
-foldaway
+foldaway 1
 feretory
 ferryman
 footwall 1
@@ -7597,7 +7597,7 @@ faluns
 fatiscent
 forefield 1
 factitiousness
-foreorlop
+foreorlop 1
 flimsilyst
 flustroid 1
 forefinger
