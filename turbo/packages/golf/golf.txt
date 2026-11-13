@@ -3940,7 +3940,7 @@ grubbily
 guesstimating 1
 grabbed 1
 gnide
-gigster
+gigster 1
 guarinite 3
 gleeked 1
 gemonies 1
@@ -8470,7 +8470,7 @@ garum 1
 glisteningly
 glossotype
 gravely 1
-galops 1
+galops 2
 groupers
 gayal
 grata
