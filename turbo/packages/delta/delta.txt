@@ -3880,7 +3880,7 @@ defiled
 demagnification 1
 defendress 1
 dislikeable 1
-doctorates
+doctorates 1
 donne
 delabialization
 denigration
@@ -12402,7 +12402,7 @@ doeskins
 diakineses 1
 dishley
 diamond
-deterrability 2
+deterrability 3
 degrades
 dimerlie
 dialectical 1
