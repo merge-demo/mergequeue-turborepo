@@ -5944,7 +5944,7 @@ aerogeology
 amphithecial
 adit
 amazonstone
-apostacies
+apostacies 1
 aneurism
 ashily
 ambrein
@@ -20210,7 +20210,7 @@ anomalistically
 ascanius
 amphidetic
 atrophies
-acanth
+acanth 1
 abdominoscope
 algarde
 arrhenal
