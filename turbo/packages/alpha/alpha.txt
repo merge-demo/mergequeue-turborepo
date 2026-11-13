@@ -5608,7 +5608,7 @@ afterwise
 afterwit
 afterwork 1
 agathodemon
-apinage
+apinage 1
 aint 1
 afterworld
 antischool
@@ -12175,7 +12175,7 @@ assentator
 acedia
 anatomicopathologic
 arteriofibrosis
-anatomiser
+anatomiser 1
 antoecians
 anatomize
 anopsy
