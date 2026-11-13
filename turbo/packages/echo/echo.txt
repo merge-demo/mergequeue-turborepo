@@ -9554,7 +9554,7 @@ euchromatic
 encincture
 eskimoized 1
 electrolysed
-enthalpy
+enthalpy 1
 embeam
 eupatoriaceous
 earls
