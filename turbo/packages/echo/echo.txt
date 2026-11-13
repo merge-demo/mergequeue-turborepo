@@ -6793,7 +6793,7 @@ elaphine
 enrooted
 euaster
 eelware
-entoil
+entoil 1
 epistolographer
 eggler 1
 entom
@@ -9556,7 +9556,7 @@ eskimoized 1
 electrolysed
 enthalpy 1
 embeam
-eupatoriaceous
+eupatoriaceous 1
 earls
 eskualdun
 elevations
@@ -12672,7 +12672,7 @@ enkolpion
 exometritis
 excogitate 1
 endeavors
-emotionless
+emotionless 1
 extusion
 echo
 erotized
