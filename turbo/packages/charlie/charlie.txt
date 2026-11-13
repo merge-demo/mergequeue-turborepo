@@ -12566,7 +12566,7 @@ chronogrammic
 chronograph
 chronographer
 chronography
-choreas
+choreas 1
 crosslap
 cauterizing
 circumventable
