@@ -8612,7 +8612,7 @@ gradal
 greyish 1
 gemsbok 1
 guttered
-grip
+grip 1
 ganjas
 gladdy
 grantee 1
