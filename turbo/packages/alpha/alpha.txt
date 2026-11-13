@@ -2444,7 +2444,7 @@ autoriser
 atrochal
 arbitry
 archaizing
-alone
+alone 1
 arisings 1
 acknowledged
 adoxography
@@ -19793,7 +19793,7 @@ adjudger
 archplotter
 armadillos
 astrocyte
-arythmically
+arythmically 1
 aminolytic
 armado
 affecter
