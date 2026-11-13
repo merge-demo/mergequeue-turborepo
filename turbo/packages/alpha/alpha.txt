@@ -6078,7 +6078,7 @@ actor
 anorchism
 anisochromatic 1
 anapaestic
-aviatrix
+aviatrix 1
 appay
 askile
 aminopeptidase
