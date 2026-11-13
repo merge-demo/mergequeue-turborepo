@@ -10714,7 +10714,7 @@ fise
 fibriform
 foretelling
 frumenty 2
-feastful
+feastful 1
 fungals
 footband
 finnier
