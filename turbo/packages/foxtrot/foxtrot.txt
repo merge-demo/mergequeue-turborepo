@@ -2577,7 +2577,7 @@ ferrogoslarite
 forcet 1
 foud
 fossicked
-footrests
+footrests 1
 finicalness
 financist
 faultfully 1
@@ -11404,7 +11404,7 @@ furnishes
 fiddles
 flams 1
 functionlessness
-floors
+floors 1
 frosk
 feater 2
 forksmith
