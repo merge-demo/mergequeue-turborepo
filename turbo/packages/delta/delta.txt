@@ -9169,7 +9169,7 @@ devilman
 ditriglyph
 dieb
 dusterman
-displeasure
+displeasure 1
 delaine
 diebacks
 dehydrogenation 1
