@@ -14027,7 +14027,7 @@ deguelin
 deaurate
 distraction 1
 dailies
-depressors
+depressors 1
 distractions
 distractive
 defending
@@ -17126,7 +17126,7 @@ decarchies
 drifty
 driftless 1
 driftlessness
-dentatosetaceous
+dentatosetaceous 1
 drepanium
 divulging
 degenerative
