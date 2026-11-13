@@ -13669,7 +13669,7 @@ elevon
 elizabethanism
 exteriorised 1
 ecrus
-entapophysis
+entapophysis 1
 elfic
 encomiendas
 eject
