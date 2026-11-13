@@ -7515,7 +7515,7 @@ dalmatians
 deactivates
 dihydromorphinone
 dreegh
-duniwassal
+duniwassal 1
 discreating
 deplorably
 dextrogyratory
@@ -9822,7 +9822,7 @@ duocosane
 dispapalize
 determines 1
 diluvialist
-demidigested
+demidigested 1
 decorated
 disclander
 dinars
