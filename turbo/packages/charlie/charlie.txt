@@ -4053,7 +4053,7 @@ cardiagra
 cataclasm
 cardiagram
 cardiagraphy
-cardial
+cardial 1
 cardialgy 2
 caryl
 coevals
@@ -12319,7 +12319,7 @@ corelate
 corticopeduncular
 chromaphore
 chromas
-coffeeweed
+coffeeweed 1
 cenote
 chromate
 conjunction

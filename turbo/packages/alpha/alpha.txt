@@ -23684,7 +23684,7 @@ assyria
 articles
 auriphone
 auriphrygia
-auripigment
+auripigment 1
 autoionization
 aurir
 auriscalpia
