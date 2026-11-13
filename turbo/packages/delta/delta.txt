@@ -9583,7 +9583,7 @@ diguanide
 dihalide
 derives
 deil
-deadline
+deadline 1
 differentiating
 deepmost
 dihedron
@@ -18377,7 +18377,7 @@ diplopic
 danseuses
 digmeat
 duodenostomy
-deceptiously
+deceptiously 1
 deuteroconid
 dabbles
 disintrench
