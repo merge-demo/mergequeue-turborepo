@@ -10228,7 +10228,7 @@ frailer 1
 falcated 1
 flaming 1
 frogman
-fluoroscopically
+fluoroscopically 1
 fasciodesis 1
 fertilizations
 frat
@@ -10509,7 +10509,7 @@ finises
 fervencies
 floggable
 felsosphaerite 1
-frostroot
+frostroot 1
 floe
 freshment
 frillery
