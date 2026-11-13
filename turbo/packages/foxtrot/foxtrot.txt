@@ -7648,7 +7648,7 @@ flustrate 1
 flourishment
 foziest
 fruition
-foreturn
+foreturn 1
 flotter 1
 furriness 1
 florences
