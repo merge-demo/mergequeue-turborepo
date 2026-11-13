@@ -3422,7 +3422,7 @@ geothermic
 girdingly
 goaled
 gynecic
-goutily 1
+goutily 2
 glaucosis
 gamont
 gudrun
@@ -5575,7 +5575,7 @@ gastrasthenia 2
 game 2
 gunstick
 glueman
-gallinago 2
+gallinago 3
 gowkedness
 gasps
 geisenheimer 1

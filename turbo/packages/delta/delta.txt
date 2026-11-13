@@ -3096,7 +3096,7 @@ duringly
 defaulted
 depauperization 2
 downfolded
-defaults
+defaults 1
 decked
 defaulture
 dialings 1
@@ -10801,7 +10801,7 @@ discolorate
 deviates
 departing
 dykage 2
-directors
+directors 1
 directorships
 desugared
 dysphrasia
@@ -13256,7 +13256,7 @@ digynia
 disportment
 ditali
 dangleberries
-dangerfully 1
+dangerfully 2
 decohesion
 disposedness
 disposement
