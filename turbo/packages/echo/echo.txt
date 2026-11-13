@@ -11034,7 +11034,7 @@ eyeletter
 envoyship 1
 estoc
 erg
-encomimia
+encomimia 1
 elegit
 electrostereotype 1
 expressionistically 2
