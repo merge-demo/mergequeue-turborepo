@@ -6706,7 +6706,7 @@ decil
 dogy
 decontaminative
 desucration
-desilicify 1
+desilicify 2
 desilicified 1
 desiliconization 1
 discoactine
@@ -16112,7 +16112,7 @@ disfrocked
 decayedness
 doulce
 dementie
-defectology
+defectology 1
 dispurse 1
 designators 1
 doulocracy 1
@@ -17664,7 +17664,7 @@ decarbonizer
 diclinism
 dagame
 dioscorein
-deratizing
+deratizing 1
 dualize
 dialogic
 disaffiliates
