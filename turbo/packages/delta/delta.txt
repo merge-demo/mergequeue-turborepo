@@ -13994,7 +13994,7 @@ dolichosaur
 dilantin
 depriving
 diploplacular
-desmomyaria
+desmomyaria 1
 dildos
 drammach
 dolabra
