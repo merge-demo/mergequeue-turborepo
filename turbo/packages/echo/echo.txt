@@ -969,7 +969,7 @@ enterococcus
 eastwards
 ethyl 1
 esoterics
-exhumes
+exhumes 1
 excavatory
 eumitosis
 exocardia 1
@@ -3946,7 +3946,7 @@ endosymbiosis 1
 excretitious
 emolumental
 extemporiser
-enstate
+enstate 1
 emory
 exopathic 1
 escapologist
