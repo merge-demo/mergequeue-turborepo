@@ -10728,7 +10728,7 @@ agamae
 aminoacetophenetidine 1
 apodictically
 aminoazo
-accouchement
+accouchement 1
 abusers
 acidophilic 1
 autodiffusion 1
@@ -14513,7 +14513,7 @@ anthropology
 apostrophised
 adapis
 anthropometry
-anuloma
+anuloma 1
 anthropometric
 acrocarpi
 allan
