@@ -13661,7 +13661,7 @@ dialecticism
 dignitarial
 distractedness
 dolce
-def 1
+def 2
 dissimilars
 dentaries 1
 dequantitate
