@@ -3566,7 +3566,7 @@ filemaker
 flymen
 freedstool
 fingerlike
-forgetable
+forgetable 1
 fractabling
 foreskirt
 florigraphy
