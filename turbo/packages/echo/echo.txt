@@ -8771,7 +8771,7 @@ enticement 1
 eradicant
 electroengraving 1
 epineolithic
-equilibrity
+equilibrity 1
 enround
 electrodepositable 1
 elegist 2
