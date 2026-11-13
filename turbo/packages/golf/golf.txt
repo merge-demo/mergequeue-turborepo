@@ -505,7 +505,7 @@ gasifiers
 grunions 1
 girkin 1
 gravimetrical 1
-glaucodot
+glaucodot 1
 grama
 gullably
 geminations
