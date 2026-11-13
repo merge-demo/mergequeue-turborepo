@@ -1053,7 +1053,7 @@ exacted 1
 edger
 edgeshot 2
 ermani
-edgeway
+edgeway 1
 embalmment
 ephrathite
 exterritorial
@@ -13584,7 +13584,7 @@ exsudate
 embowelling
 extumescence
 ectadenia 1
-egeria 1
+egeria 2
 emulation
 esoteric 1
 exsufflate

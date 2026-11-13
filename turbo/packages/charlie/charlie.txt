@@ -12745,7 +12745,7 @@ congelifract
 chummery
 chummier
 chummies
-chumminess
+chumminess 1
 chump
 chumpa
 conglobing 1
@@ -20637,7 +20637,7 @@ clanjamfrie
 compitalia
 coregonine
 clastic
-complacence
+complacence 1
 chlorella
 complacency
 complacent
