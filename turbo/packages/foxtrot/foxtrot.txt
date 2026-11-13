@@ -4306,7 +4306,7 @@ fructiferousness 1
 fretworked
 foddering
 fauces
-frailty
+frailty 1
 fluorins
 fellnesses 1
 fasteners
