@@ -991,7 +991,7 @@ fleshhood
 famelic
 friarbird 1
 fares
-feats 1
+feats 2
 faretta
 financialist
 foresaid 1
@@ -3972,7 +3972,7 @@ feminisation
 fictionally
 fibres 2
 fizzes
-fraulein 2
+fraulein 3
 foreread 1
 friarling
 fairydom
@@ -10397,7 +10397,7 @@ frontierless
 fireproofness
 farmyards 1
 flusterment 1
-fibroplasia
+fibroplasia 1
 foundlings
 fonctionnaire
 fecundities
