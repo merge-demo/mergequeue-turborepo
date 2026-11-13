@@ -1949,7 +1949,7 @@ enable
 enfierce
 estivation
 encompany
-endarchy
+endarchy 1
 engrossingly
 extraterrestrials 1
 encephalomalacia
@@ -9755,7 +9755,7 @@ ectogenesis 2
 enrobing
 exfoliatory
 epyllion
-estivating
+estivating 1
 erythronium
 equid
 elamp

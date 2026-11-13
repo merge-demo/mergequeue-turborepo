@@ -2976,7 +2976,7 @@ denicotine 1
 deoxidizing
 doxologized
 destructiveness
-deemphasized
+deemphasized 1
 donator
 denaturizing
 dhai 2
@@ -6326,7 +6326,7 @@ derog
 demeanour 1
 doronicum
 despond
-derogate
+derogate 1
 denuclearization
 derogates
 demove
