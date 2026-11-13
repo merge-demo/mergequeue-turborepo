@@ -12037,7 +12037,7 @@ dijudicated
 disensure
 disentail
 deprecatively
-disentangle
+disentangle 1
 dentine
 disentanglement
 daymare
