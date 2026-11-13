@@ -6756,7 +6756,7 @@ freety 1
 fleshhook
 farinulent
 fervescent
-froebelian
+froebelian 1
 flyers
 forseeable 1
 fluidics
@@ -8568,7 +8568,7 @@ forz
 faradisms
 flappiest
 farmyard 1
-forescript
+forescript 1
 floury
 fumarases
 finial
