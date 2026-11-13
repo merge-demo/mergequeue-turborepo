@@ -2377,7 +2377,7 @@ cassie
 caqueteuses
 cumbly 1
 canavali
-canavalia
+canavalia 1
 cremerie
 crambly 1
 correlatively
@@ -21603,7 +21603,7 @@ cultivars
 crick
 condensator
 corbeled
-crateris
+crateris 1
 condense
 condensed
 condensedness
