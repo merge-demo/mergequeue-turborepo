@@ -3121,7 +3121,7 @@ averted
 actinotrichium
 actinozoa 1
 actinozoan
-actins
+actins 1
 abstractness 1
 archigonocyte
 ascendance
@@ -16636,7 +16636,7 @@ assizement
 araby 1
 apertness
 acetomorphine
-abnormalism
+abnormalism 1
 ambocoelia
 actionable
 apertometer
