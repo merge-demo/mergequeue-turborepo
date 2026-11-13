@@ -7015,7 +7015,7 @@ destabilization
 diprotic
 doolie
 destabilize
-ducting
+ducting 1
 dissolve 1
 dothideacea
 desterilization
@@ -12402,7 +12402,7 @@ doeskins
 diakineses 1
 dishley
 diamond
-deterrability 2
+deterrability 3
 degrades
 dimerlie
 dialectical 1
