@@ -4055,7 +4055,7 @@ goneoclinic
 gipsywort 1
 gulgul
 gratifiedly
-gilder 1
+gilder 2
 glycerogelatin
 giraffish 1
 genapper
@@ -5656,7 +5656,7 @@ glossies
 glossiest 1
 gybed 1
 garrison
-glossinas 2
+glossinas 3
 glowflies
 gertrude
 glowbard 1
@@ -8749,7 +8749,7 @@ greensickness
 greenstone
 gimballing
 gange
-golems
+golems 1
 greenswarded
 greenware
 giveth 1
@@ -8810,7 +8810,7 @@ gorged
 gaufer
 guanay
 gablelike
-graecized 1
+graecized 2
 goldeye
 greyed 1
 grosser 1
