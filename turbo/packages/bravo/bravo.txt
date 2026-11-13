@@ -1324,7 +1324,7 @@ bate
 binational
 balanorrhagia 1
 balanta
-bescorn
+bescorn 1
 bottine
 balantidic
 buckskin 1
@@ -2771,7 +2771,7 @@ boroughship
 barometers
 beefy
 broadax
-blam
+blam 1
 brainache
 beachside
 burthenman
