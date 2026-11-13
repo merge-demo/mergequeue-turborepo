@@ -6326,7 +6326,7 @@ causes
 cgm
 crimison
 causeuses
-cannellated
+cannellated 1
 causewaying
 clubfeet
 causidical
@@ -30334,7 +30334,7 @@ celsitude 1
 cruppering
 crura
 complexionably
-crural
+crural 1
 counterattacks
 crurogenital
 cruroinguinal

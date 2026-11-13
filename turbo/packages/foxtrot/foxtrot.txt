@@ -726,7 +726,7 @@ favourably
 foraminulose
 fisherwoman
 foreladies 2
-fortify 1
+fortify 2
 fatheadedness
 flincher
 flagroot
@@ -11570,7 +11570,7 @@ feedback
 feodality
 friskful
 fusile
-flytier
+flytier 1
 fulgurator
 fulmar
 futhermore
