@@ -8646,7 +8646,7 @@ belatedly
 beeswinged
 becowards
 billiards
-bivalved
+bivalved 1
 brules
 bicornuous
 billies
@@ -9416,7 +9416,7 @@ bonsela
 baroscope
 brockets
 baleless
-bushi 1
+bushi 2
 blirt
 biopoiesis
 beau 1
