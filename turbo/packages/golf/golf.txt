@@ -4255,7 +4255,7 @@ gymnadenia 1
 glazieries
 glazings
 grieves
-gippy
+gippy 1
 grads 1
 gluttonous
 garganeys
