@@ -21992,7 +21992,7 @@ anthropic 1
 antiphagocytic
 anglification
 attestator
-arterin 1
+arterin 2
 aquameter
 aminize 1
 assuetude
