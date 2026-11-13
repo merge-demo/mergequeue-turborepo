@@ -2021,7 +2021,7 @@ gums 1
 gauzewing
 gigglingly
 gomorrah 1
-galactia 1
+galactia 2
 grithman
 gauzy
 galatae
@@ -3185,7 +3185,7 @@ gametoid
 ganglial
 gooier 1
 geotaxy
-gie 1
+gie 2
 geologers 1
 grattoirs
 gotiglacial
@@ -3646,7 +3646,7 @@ glyceral 1
 griphus 2
 gastronomical
 groover
-gaslighted 1
+gaslighted 2
 galumptious
 gelastic
 grapsus
