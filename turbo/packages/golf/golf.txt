@@ -4850,7 +4850,7 @@ gymnotoka
 globularity
 guest
 greensand
-grudge
+grudge 1
 glaizie
 geologies
 glagolic
@@ -9349,7 +9349,7 @@ gorgonize
 gelatinized 2
 gheraoed
 geneserin
-graciosity 2
+graciosity 3
 gradeless 1
 galtonia
 geordie 1
