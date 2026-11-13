@@ -1705,7 +1705,7 @@ besottingly
 bowsing
 balneology
 balneological
-blasphemous
+blasphemous 1
 bestializing
 balneotechnics 1
 burberry
