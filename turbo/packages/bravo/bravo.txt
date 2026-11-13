@@ -12602,7 +12602,7 @@ bonnier 1
 bonnyish
 beverages
 boogeyman
-balance
+balance 1
 bonnnes
 bonnwis
 bionomist
