@@ -4423,7 +4423,7 @@ fumishly
 fledgier
 floppiest 1
 float
-frowzly
+frowzly 1
 feelable
 flossy
 fraternizer
@@ -6740,7 +6740,7 @@ frosteds
 fledgeless 2
 foredevised 1
 floridean
-foldaway
+foldaway 1
 feretory
 ferryman
 footwall 1

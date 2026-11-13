@@ -1259,7 +1259,7 @@ cameo
 calendarial
 chusite
 cicadid
-counterpoise
+counterpoise 1
 calendaring
 cyprine
 coilability
@@ -17120,7 +17120,7 @@ chloronaphthalene
 conspicuousness
 coadsorbent 1
 coprophobic
-caddisfly
+caddisfly 1
 creek
 coaters
 churliest
