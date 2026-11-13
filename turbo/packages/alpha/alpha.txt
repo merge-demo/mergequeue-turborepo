@@ -35,7 +35,7 @@ antecedence
 area
 allseeds
 aphorized 1
-acrasia 1
+acrasia 2
 aurine
 aethogen
 aerometeorograph
@@ -3156,7 +3156,7 @@ acclimatation
 aloelike 1
 auchenia
 actipylea
-activate 1
+activate 2
 apologete 1
 autocatalytically
 aromatophore
@@ -22314,7 +22314,7 @@ adamically 1
 astrictive 1
 astrictively
 axialities
-autodynamic
+autodynamic 1
 antal
 astride
 averah
@@ -24685,7 +24685,7 @@ acnode
 averral
 alii
 adelopod
-angiogenic
+angiogenic 1
 angiomas
 adenylpyrophosphate
 adelphi 1
