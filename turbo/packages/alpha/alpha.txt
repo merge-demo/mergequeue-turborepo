@@ -24975,7 +24975,7 @@ aweek 1
 acanthology
 aweel
 anaerobism 1
-autogamic
+autogamic 1
 acyl
 arthrophyma
 aphidiinae
