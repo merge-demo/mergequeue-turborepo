@@ -6292,7 +6292,7 @@ gaily 2
 grail 1
 goosenecked 1
 geomance
-gemots 1
+gemots 2
 gearings 1
 genarchaship
 graptoloidea
