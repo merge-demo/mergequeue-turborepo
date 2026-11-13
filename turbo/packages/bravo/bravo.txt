@@ -5852,7 +5852,7 @@ bonasa
 bellhouse
 belli 1
 buckstone
-bellyache
+bellyache 1
 butlerism
 bandstop
 bellyached
@@ -15156,7 +15156,7 @@ ballies
 buccinae
 baronduki
 beqwete
-boar 1
+boar 2
 bogier
 baw
 baldicoot
