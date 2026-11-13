@@ -6869,7 +6869,7 @@ geochemically
 goodishness
 grallatores 1
 gastight 2
-groupthink
+groupthink 1
 gynecomorphous
 glyoxyl
 goodlier 1
