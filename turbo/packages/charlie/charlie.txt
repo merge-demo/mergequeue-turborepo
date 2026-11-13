@@ -12411,7 +12411,7 @@ compositae
 chromidrosis
 chromyl
 chroming
-cullay
+cullay 1
 chromiole 1
 chromism
 chromite
