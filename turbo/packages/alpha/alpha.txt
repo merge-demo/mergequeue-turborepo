@@ -2444,7 +2444,7 @@ autoriser
 atrochal
 arbitry
 archaizing
-alone
+alone 1
 arisings 1
 acknowledged
 adoxography
