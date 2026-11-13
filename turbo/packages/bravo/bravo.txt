@@ -8881,7 +8881,7 @@ binodose
 buckbean
 bari
 banalities
-battery
+battery 1
 bedrivels
 bummalos
 bakelize
@@ -15021,7 +15021,7 @@ blepharorrhaphy
 billowier
 bungholes
 bouchaleen 1
-billitonite
+billitonite 1
 brechtian 1
 bunchberries
 bennettites
