@@ -2888,7 +2888,7 @@ elevable
 embraceor
 echoizing
 epergne 1
-engilds
+engilds 1
 escalators
 eleven
 extirpates 1
@@ -8271,7 +8271,7 @@ ejection
 expensively
 ectoplasmic
 ellagate
-exemplification
+exemplification 1
 epitaxies 1
 epitaxis
 ebonizes
@@ -12094,7 +12094,7 @@ eartag
 emasculation 1
 embroche
 effervescing
-elpasolite 1
+elpasolite 2
 empales
 excruciable 1
 excruciated 1

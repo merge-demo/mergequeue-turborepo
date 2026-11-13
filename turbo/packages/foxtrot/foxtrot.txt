@@ -10719,7 +10719,7 @@ fungals
 footband
 finnier
 fantasizes
-foxier
+foxier 1
 fatherliness
 figent
 fitfully 1
