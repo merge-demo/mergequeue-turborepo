@@ -11472,7 +11472,7 @@ aion 1
 anthraceniferous
 asepsis
 announcers
-ammines
+ammines 1
 amputees
 angiographic
 ajugas 2
@@ -15328,7 +15328,7 @@ acetopiperone
 autodecrements
 antispermotoxin 1
 amphicyon
-antihistaminic 1
+antihistaminic 2
 antidogmatism
 antipragmaticism
 attorning

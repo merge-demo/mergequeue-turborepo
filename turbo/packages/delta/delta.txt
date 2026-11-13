@@ -11635,7 +11635,7 @@ dismemberer
 discordable
 discordance
 dedenda
-discordancy
+discordancy 1
 deregulating
 discordancies
 discordant
@@ -14951,7 +14951,7 @@ deoperculate 1
 dodonaeaceae 1
 duali 2
 directexamination
-decoloriser
+decoloriser 1
 disarmer 1
 dollarwise
 displodes
