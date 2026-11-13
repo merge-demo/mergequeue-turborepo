@@ -9514,7 +9514,7 @@ digitinerved
 depravement
 digitisation
 disemboweled
-disinfestation
+disinfestation 1
 digitising
 desulphurise
 digitizes
@@ -13702,7 +13702,7 @@ digestedly
 disseating
 denationalising
 distrail
-dissipation 1
+dissipation 2
 disaltern
 distils
 dissident
