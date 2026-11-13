@@ -12604,7 +12604,7 @@ explant
 epicardium
 exocoelum
 elbowboard
-epifascial 1
+epifascial 2
 empresa
 epistylis 2
 eustathian
