@@ -9328,7 +9328,7 @@ emersions
 eruditical
 ectotoxin
 estop
-erudition
+erudition 1
 encorbelment
 erinys
 eurythmic
