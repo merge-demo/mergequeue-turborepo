@@ -8470,7 +8470,7 @@ garum 1
 glisteningly
 glossotype
 gravely 1
-galops 1
+galops 2
 groupers
 gayal
 grata
