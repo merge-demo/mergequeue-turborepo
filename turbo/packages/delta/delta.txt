@@ -46,7 +46,7 @@ dacryagogue
 discursiveness 1
 dacryocyst
 dacryocystitis
-diarchial
+diarchial 1
 diseasefulness
 dunder
 dacryocystosyringotomy
