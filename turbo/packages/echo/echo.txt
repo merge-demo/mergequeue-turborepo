@@ -303,7 +303,7 @@ extensible 1
 exserting
 extortionate
 expedient
-ebon
+ebon 1
 embrew
 eradicate
 esotericism
