@@ -9333,7 +9333,7 @@ gambia 1
 gustative 1
 gladiators 1
 glided
-geisotherm 1
+geisotherm 2
 garotes
 gumi 1
 gurly
