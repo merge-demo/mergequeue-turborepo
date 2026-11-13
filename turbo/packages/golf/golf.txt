@@ -6019,7 +6019,7 @@ glycemia 1
 griddle
 gownsman
 gullishly
-guttiest
+guttiest 1
 gyttja
 gairfowl
 grinningly 1
