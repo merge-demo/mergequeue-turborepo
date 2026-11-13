@@ -1381,7 +1381,7 @@ exhalent
 ennead 1
 enneastylos
 epeidia
-epilaryngeal
+epilaryngeal 1
 enneandrous 1
 eubranchipus
 efflagitate

@@ -8324,7 +8324,7 @@ dockmaster
 dialectician
 decapodous
 droopingness
-decurvature
+decurvature 1
 diplois
 dyne
 dejerate
