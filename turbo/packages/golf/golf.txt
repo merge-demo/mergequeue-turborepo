@@ -9217,7 +9217,7 @@ geosynchronous
 galeres
 gibingly 1
 graininess 1
-grizzly
+grizzly 1
 gaugeably
 grizzling
 glorioles
