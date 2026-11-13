@@ -387,7 +387,7 @@ grf 1
 gastrostaxis
 goodhumoredness
 gynobasic
-gelded
+gelded 1
 galangin 1
 grond
 golundauze 1

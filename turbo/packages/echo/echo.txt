@@ -393,7 +393,7 @@ egoists
 eriphyle
 equivocator
 ebonized
-enfolden
+enfolden 1
 epact
 eutrophic
 epithalamy 1
