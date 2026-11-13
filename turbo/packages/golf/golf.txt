@@ -390,7 +390,7 @@ gynobasic
 gelded
 galangin 1
 grond
-golundauze
+golundauze 1
 gavot 1
 glunched
 gaoled
