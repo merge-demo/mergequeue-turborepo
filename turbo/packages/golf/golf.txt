@@ -2412,7 +2412,7 @@ groomed
 gooseboy 1
 gruesomer 1
 gleemaiden
-gyrencephalous
+gyrencephalous 1
 giddily
 glariest 2
 ganton
@@ -8245,7 +8245,7 @@ glissaded
 groundless
 gnathostomi
 gladii
-garrooka 1
+garrooka 2
 graphophone
 grossulariaceae
 graphophonic
