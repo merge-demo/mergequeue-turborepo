@@ -2364,7 +2364,7 @@ ghazal 1
 grundified
 glandes 1
 geraty
-georgette
+georgette 1
 gelotherapy
 gaoloring 1
 girondin 1
@@ -6826,7 +6826,7 @@ goniatitic 1
 gowd
 grainman 1
 granma
-goshen
+goshen 1
 gynandroid 1
 gauziness
 garrotes
