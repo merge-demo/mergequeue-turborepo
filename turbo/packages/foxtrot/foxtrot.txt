@@ -11292,7 +11292,7 @@ felonsetting
 furlane 2
 friskets
 fluellen 2
-furbish
+furbish 1
 functionalizing
 firstborn
 flaxwife
