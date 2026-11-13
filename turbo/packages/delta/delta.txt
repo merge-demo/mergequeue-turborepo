@@ -9730,7 +9730,7 @@ dilatoriness 1
 daypeep
 denaturiser
 decence
-duct
+duct 1
 discapacitate
 demiram
 decider 1
@@ -17582,7 +17582,7 @@ decalcifier 1
 drumstick
 detoxicant
 drunk
-desuperheater
+desuperheater 1
 dogbite 1
 drunkenwise
 dirtiest

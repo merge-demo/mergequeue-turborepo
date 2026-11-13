@@ -5889,7 +5889,7 @@ endocarditic
 eubacteriales
 essayers
 echoer 1
-entocalcaneal
+entocalcaneal 1
 euthyroid
 episcopalian
 excessman
@@ -8771,7 +8771,7 @@ enticement 1
 eradicant
 electroengraving 1
 epineolithic
-equilibrity
+equilibrity 1
 enround
 electrodepositable 1
 elegist 2
@@ -13349,7 +13349,7 @@ enlength
 embog
 engrasp 1
 enfonce
-excretive 1
+excretive 2
 estating
 emotionalising
 emergence
