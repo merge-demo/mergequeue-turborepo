@@ -2107,7 +2107,7 @@ bannock
 buyers
 bannocks
 boilinglike
-banovina
+banovina 1
 banquet
 blindish
 bardiest
