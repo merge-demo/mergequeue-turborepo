@@ -13818,7 +13818,7 @@ duhat
 dignifies
 dilemmatically
 dissunder
-deflexible
+deflexible 1
 deerskin
 dialogistically
 demurral
@@ -14544,7 +14544,7 @@ dyadic 1
 divinister
 deallocating 1
 denudant 1
-dissimuler
+dissimuler 1
 discoverers
 divinized
 divinizes
