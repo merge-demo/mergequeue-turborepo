@@ -6706,7 +6706,7 @@ decil
 dogy
 decontaminative
 desucration
-desilicify 1
+desilicify 2
 desilicified 1
 desiliconization 1
 discoactine
