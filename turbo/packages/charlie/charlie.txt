@@ -5286,7 +5286,7 @@ carmela
 catamenia
 cassiope 1
 curvette
-cassiopeia 1
+cassiopeia 2
 cuculus
 cassiopeian
 chlorohydroquinone
@@ -31772,7 +31772,7 @@ customized
 customizer
 customizers
 complotted
-customizes
+customizes 1
 customizing 2
 customly
 ctelette

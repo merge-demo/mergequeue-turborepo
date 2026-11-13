@@ -7995,7 +7995,7 @@ fishwives
 faroese 1
 felsites 1
 ferroalloy 1
-faunally 1
+faunally 2
 fanfoot
 fieldie
 favoured
@@ -9300,7 +9300,7 @@ fishless
 fetichistic
 felinities
 frothy
-fleawood
+fleawood 1
 fortypenny 1
 fecaloid 1
 fatuitousness
