@@ -22717,7 +22717,7 @@ conoscenti
 conjecture
 columnizes
 conoscopic
-conplane
+conplane 1
 centuriation
 counterevidence
 cryosphere 1
@@ -26313,7 +26313,7 @@ chacoli
 costopneumopexy
 collusiveness
 cicerone
-costosternal
+costosternal 1
 costothoracic
 costotome
 carbonnieux
@@ -29595,7 +29595,7 @@ croape
 croat
 chimars
 circuitmen
-croatan
+croatan 1
 confrontational
 crinion
 crawlsome
