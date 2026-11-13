@@ -10919,7 +10919,7 @@ flirtations 1
 finagler
 foremastmen
 fulgoroidea
-fruitist
+fruitist 1
 forgeful 1
 footgrip 2
 fi
