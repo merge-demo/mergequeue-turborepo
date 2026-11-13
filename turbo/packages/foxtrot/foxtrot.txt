@@ -1150,7 +1150,7 @@ flagrance
 followeth
 florulas
 flavoursome 1
-facials
+facials 1
 fiberization 1
 fidelis 1
 figworm 1
