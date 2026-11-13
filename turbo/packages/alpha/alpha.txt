@@ -905,7 +905,7 @@ absis
 attributive
 absit
 acorn
-absterging
+absterging 1
 antient
 absolent
 aliases
