@@ -1687,7 +1687,7 @@ altocumulus
 accum
 archsee
 alouettes
-apperceive 1
+apperceive 2
 accumbency
 astarte
 accumbent
@@ -3718,7 +3718,7 @@ annihilating
 asystematic
 acknowledges
 astigmatical
-adequacies
+adequacies 1
 adequate
 acclivity
 almuerzo
