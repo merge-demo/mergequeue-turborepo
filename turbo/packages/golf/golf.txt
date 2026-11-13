@@ -1374,7 +1374,7 @@ glamorizer 1
 glyoxylic
 ghastly
 glugglug
-garotters
+garotters 1
 garnetlike 1
 grabbles
 gnathal
@@ -3347,7 +3347,7 @@ gallicolae 1
 gools
 grittily
 gaslighting
-ganapati
+ganapati 1
 girland
 goniodoris
 germon
