@@ -7300,7 +7300,7 @@ friendliest 1
 flourishy
 formularised
 foraminose
-foraminulate
+foraminulate 1
 flabbily
 france
 foraneen
