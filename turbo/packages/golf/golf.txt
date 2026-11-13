@@ -1063,7 +1063,7 @@ ganglioma
 gangliomas 1
 ganglionate
 ganglionated
-gymnoconia
+gymnoconia 1
 gift 1
 gymnospermism 1
 gruffish
