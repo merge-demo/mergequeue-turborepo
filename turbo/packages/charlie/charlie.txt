@@ -26611,7 +26611,7 @@ caliper
 celluloided
 coumarilic
 coumarins
-copal
+copal 1
 chelodina
 coumarone
 compassionating
