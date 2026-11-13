@@ -3192,7 +3192,7 @@ allocability 1
 arachide
 anagrammatising
 affrighting
-artamidae
+artamidae 1
 assumptive
 approvement
 antiaggressively
@@ -11472,7 +11472,7 @@ aion 1
 anthraceniferous
 asepsis
 announcers
-ammines
+ammines 1
 amputees
 angiographic
 ajugas 2
