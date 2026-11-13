@@ -8813,7 +8813,7 @@ empetraceous
 epistolize
 entomostracous
 erat
-ethoxy 1
+ethoxy 2
 ethnobotanist
 effleurage
 erd
@@ -14143,7 +14143,7 @@ ebonizing
 ephemerality
 enseraph
 enplanement 1
-emulates
+emulates 1
 enlard 1
 entocuneiform
 excussion
