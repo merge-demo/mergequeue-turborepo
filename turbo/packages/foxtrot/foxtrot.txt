@@ -3973,7 +3973,7 @@ fictionally
 fibres 2
 fizzes
 fraulein 2
-foreread
+foreread 1
 friarling
 fairydom
 felicitation
@@ -6122,7 +6122,7 @@ foredoor
 fraughts
 furiosity
 ferrums
-fuses
+fuses 1
 fewness
 fcp
 fewneses
