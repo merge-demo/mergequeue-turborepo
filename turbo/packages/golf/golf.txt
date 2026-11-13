@@ -10490,7 +10490,7 @@ gramenite
 gregal
 glamourousness 1
 genizero
-gimballed
+gimballed 1
 geyserite 1
 gaggers 1
 garbardine
