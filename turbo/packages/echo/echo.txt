@@ -6650,7 +6650,7 @@ expanded 1
 enarthrodial
 ethnocracy 1
 enterorrhagia
-enterorrhaphy
+enterorrhaphy 1
 eutychianism 1
 enkindler
 electromotiv
@@ -13669,7 +13669,7 @@ elevon
 elizabethanism
 exteriorised 1
 ecrus
-entapophysis
+entapophysis 1
 elfic
 encomiendas
 eject
