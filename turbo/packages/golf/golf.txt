@@ -3373,7 +3373,7 @@ generale
 graphometry
 glomi
 gondolier
-gnatling
+gnatling 1
 gorkun
 galbe
 glaciable
