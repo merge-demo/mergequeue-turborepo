@@ -14173,7 +14173,7 @@ battering 1
 beglooming
 brachytypous
 belemnitidae
-breviature
+breviature 1
 brachium 1
 brattiness
 buriable
