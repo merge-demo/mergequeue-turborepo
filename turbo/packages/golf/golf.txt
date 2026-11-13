@@ -4083,7 +4083,7 @@ genitivally 1
 grapsidae
 grundy
 geochronology
-gnawing 2
+gnawing 3
 gringo
 gnars
 gymnasts
