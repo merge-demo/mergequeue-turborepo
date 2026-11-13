@@ -2097,7 +2097,7 @@ decametric
 decanal
 decancellate
 dominator 1
-decancellated
+decancellated 1
 disciplinarian
 debaser 1
 decipher
@@ -13994,7 +13994,7 @@ dolichosaur
 dilantin
 depriving
 diploplacular
-desmomyaria
+desmomyaria 1
 dildos
 drammach
 dolabra
