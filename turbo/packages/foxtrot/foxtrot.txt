@@ -8496,7 +8496,7 @@ fream
 fraxetin
 futuristically
 foreseeing
-foremisgiving
+foremisgiving 1
 fard
 fulgid 1
 farctate
