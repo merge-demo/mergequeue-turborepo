@@ -751,7 +751,7 @@ corners
 chasselas
 cages
 cocoa
-cagester
+cagester 1
 chromicizing
 cogrediency
 chlornal
@@ -7476,7 +7476,7 @@ chastened
 ceratostomataceae 1
 cytococcus
 cimicidae
-cheliceral 1
+cheliceral 2
 ceratotheca 1
 cypridinidae 1
 clergyman
@@ -18617,7 +18617,7 @@ costiform 1
 cytozymase
 coining
 curialism
-cumulophyric
+cumulophyric 1
 climatotherapeutics
 coinmates
 churchgoer 1
