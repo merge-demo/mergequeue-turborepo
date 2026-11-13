@@ -5867,7 +5867,7 @@ catered
 codpiece
 caterers
 cytolymph
-cateringly
+cateringly 1
 copras
 caterpillar
 caterpillared
@@ -12319,7 +12319,7 @@ corelate
 corticopeduncular
 chromaphore
 chromas
-coffeeweed
+coffeeweed 1
 cenote
 chromate
 conjunction
@@ -15870,7 +15870,7 @@ clementness
 caballine
 clemming
 clench
-carbamino
+carbamino 1
 clenched
 clencher
 cordinar 1
