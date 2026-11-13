@@ -5220,7 +5220,7 @@ casqued
 cushat
 casquetel
 colemouse
-cassabas
+cassabas 1
 cassabully
 cynipoidea
 customs 2
