@@ -14544,7 +14544,7 @@ dyadic 1
 divinister
 deallocating 1
 denudant 1
-dissimuler
+dissimuler 1
 discoverers
 divinized
 divinizes
