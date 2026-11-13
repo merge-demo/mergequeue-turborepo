@@ -4756,7 +4756,7 @@ entomophytous
 establishments 1
 exploratory
 extracardial
-encloister
+encloister 1
 easternizing 2
 extend
 endosporously
