@@ -9314,7 +9314,7 @@ gunnysacks 1
 ghaznevid
 ghaist 2
 gymnosophical 1
-gyrostat
+gyrostat 1
 gimmick
 gonocoel
 gravestones 1
