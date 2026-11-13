@@ -2553,7 +2553,7 @@ embracery
 ezra 1
 emptiable
 expertizing
-electrometer
+electrometer 1
 erical
 exstrophy
 earthgrubber 1
@@ -9755,7 +9755,7 @@ ectogenesis 2
 enrobing
 exfoliatory
 epyllion
-estivating
+estivating 1
 erythronium
 equid
 elamp
