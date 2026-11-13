@@ -16112,7 +16112,7 @@ disfrocked
 decayedness
 doulce
 dementie
-defectology
+defectology 1
 dispurse 1
 designators 1
 doulocracy 1
