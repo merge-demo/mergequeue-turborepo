@@ -2466,7 +2466,7 @@ eudemonia
 embracers
 exhilarates
 electrogilt
-ejecting
+ejecting 1
 electrogram
 endows
 elytrocele
@@ -11534,7 +11534,7 @@ ess
 extypal
 extraburghal
 elenchus
-encodement
+encodement 1
 epiblastema 1
 embrittled
 errantness 2

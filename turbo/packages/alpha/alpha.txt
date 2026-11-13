@@ -40,7 +40,7 @@ aurine
 aethogen
 aerometeorograph
 abaciscus
-amphoriskoi
+amphoriskoi 1
 aquanaut
 autopsist
 accessorily
@@ -5944,7 +5944,7 @@ aerogeology
 amphithecial
 adit
 amazonstone
-apostacies
+apostacies 1
 aneurism
 ashily
 ambrein
