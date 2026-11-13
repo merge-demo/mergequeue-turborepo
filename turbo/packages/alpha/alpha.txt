@@ -10564,7 +10564,7 @@ apprentice
 attacks
 aromatites
 abusing
-articled
+articled 1
 allantoidea
 ascomycetous
 amidol
