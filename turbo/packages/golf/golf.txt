@@ -1063,7 +1063,7 @@ ganglioma
 gangliomas 1
 ganglionate
 ganglionated
-gymnoconia
+gymnoconia 1
 gift 1
 gymnospermism 1
 gruffish
@@ -9944,7 +9944,7 @@ geocratic
 guarrau
 gogglers
 glegness 1
-grandsir
+grandsir 1
 glyptic 1
 googols
 gipsyfy
