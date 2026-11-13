@@ -7215,7 +7215,7 @@ delph
 deifier 1
 dextrally
 dournesses
-defalk
+defalk 1
 disarrest
 diarial 1
 deteriorating
