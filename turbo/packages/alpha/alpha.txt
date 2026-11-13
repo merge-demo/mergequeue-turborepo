@@ -10883,7 +10883,7 @@ agape
 amphibryous
 arm
 addresser
-ammonia
+ammonia 1
 ammoniacs
 aleyard
 acrisius
