@@ -6444,7 +6444,7 @@ glycols
 glabrate
 grit 1
 guirlande 1
-graduatical
+graduatical 1
 ghazel 1
 guileful
 gliming
