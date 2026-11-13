@@ -2351,7 +2351,7 @@ floorward
 favel
 femineity
 frightener
-futchell
+futchell 1
 fanhouse 1
 feres
 floatstone
@@ -6866,7 +6866,7 @@ fruity
 fifes
 fleme
 felafel
-feltwort
+feltwort 1
 fanakalo
 flintwood 1
 farley

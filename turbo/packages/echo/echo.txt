@@ -2958,7 +2958,7 @@ eliminant
 ennoblers
 ethid
 externalising 1
-elicitors
+elicitors 1
 eloined
 endonuclear
 elicits 2
