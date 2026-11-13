@@ -614,7 +614,7 @@ benzobis
 beclothed 1
 bedrabble 1
 bacteremic 1
-bacteriaceae
+bacteriaceae 1
 bacteriaemia
 brobdingnagian
 brooched 1
