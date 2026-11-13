@@ -3223,7 +3223,7 @@ galoot
 greatish
 getatability
 gally 1
-graffage
+graffage 1
 gazement 1
 gormandizer 2
 gothics
@@ -9217,7 +9217,7 @@ geosynchronous
 galeres
 gibingly 1
 graininess 1
-grizzly
+grizzly 1
 gaugeably
 grizzling
 glorioles
