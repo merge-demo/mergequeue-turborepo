@@ -1994,7 +1994,7 @@ galician
 goschens
 gryphaea 1
 gams 1
-glyptical
+glyptical 1
 gaurian
 gasting
 gaurs
@@ -10303,7 +10303,7 @@ galliard
 galactosidase 2
 girasol
 gault
-getsul
+getsul 1
 gullygut
 gonorrheal
 gilling 1
