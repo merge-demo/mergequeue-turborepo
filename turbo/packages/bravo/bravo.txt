@@ -8646,7 +8646,7 @@ belatedly
 beeswinged
 becowards
 billiards
-bivalved
+bivalved 1
 brules
 bicornuous
 billies
@@ -11630,7 +11630,7 @@ badgeman
 baggageman
 budgeted
 bisontine
-boarded 1
+boarded 2
 besmudged
 blastoffs
 boardsmanship 1

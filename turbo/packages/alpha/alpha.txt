@@ -9905,7 +9905,7 @@ aplotomy
 armillas
 amaritude
 amarthritis
-autosomatognosis
+autosomatognosis 1
 aeciospore
 azotorrhoea
 autosexing
@@ -21795,7 +21795,7 @@ audiologist
 alchemist 1
 aglow
 assertor 1
-abelmusk
+abelmusk 1
 adiantiform
 antipatheticalness
 asseveratingly

@@ -5712,7 +5712,7 @@ ergotaminine
 engilding 1
 empirism 1
 engram
-erupts
+erupts 1
 exceptionality
 exophthalmic
 excusability
@@ -11613,7 +11613,7 @@ enforcibility 1
 electrolytes
 embordering
 epulosis
-economics 1
+economics 2
 ew
 exacerbatingly
 expulses
