@@ -187,7 +187,7 @@ alteration
 antistrumatic
 abbacomes
 acolapissa
-anakes
+anakes 1
 abbasi
 abbasside
 advertizable
