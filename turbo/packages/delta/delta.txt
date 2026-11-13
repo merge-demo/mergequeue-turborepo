@@ -7015,7 +7015,7 @@ destabilization
 diprotic
 doolie
 destabilize
-ducting
+ducting 1
 dissolve 1
 dothideacea
 desterilization
@@ -7181,7 +7181,7 @@ digitate
 definers
 dolorous
 damnified 1
-detection 1
+detection 2
 diamantiferous
 deadlight
 disparatum
