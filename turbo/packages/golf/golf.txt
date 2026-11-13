@@ -1645,7 +1645,7 @@ gaffed
 granulometric 1
 goldurned
 goldarned
-gauze
+gauze 1
 gryphon
 grungiest
 gastrocoel 1
