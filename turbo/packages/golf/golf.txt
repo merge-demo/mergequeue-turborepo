@@ -2069,7 +2069,7 @@ girsh
 glyptodont 1
 guideboard
 gallicolous 1
-gutlessness
+gutlessness 1
 grotto 1
 gavots 1
 gazetteership
@@ -6444,7 +6444,7 @@ glycols
 glabrate
 grit 1
 guirlande 1
-graduatical
+graduatical 1
 ghazel 1
 guileful
 gliming
@@ -7021,7 +7021,7 @@ garava
 gunther
 geikia
 geometricians
-gesellschaft
+gesellschaft 1
 genericalness
 grayly 1
 gliocyte 1
