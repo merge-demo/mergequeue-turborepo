@@ -11404,7 +11404,7 @@ furnishes
 fiddles
 flams 1
 functionlessness
-floors
+floors 1
 frosk
 feater 2
 forksmith

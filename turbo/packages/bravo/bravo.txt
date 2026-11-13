@@ -1068,7 +1068,7 @@ brees
 bunglings 1
 bailiaries
 botargos
-bailiffs 1
+bailiffs 2
 bakutu
 blennorrhea
 billons
@@ -5955,7 +5955,7 @@ belostomatidae
 besleeve
 bisnagas
 bouillabaisse
-belostomidae
+belostomidae 1
 belotte
 bioxide
 bowden
