@@ -2991,7 +2991,7 @@ barophobia
 barricoes 1
 barrigudos
 barrikin
-babouche
+babouche 1
 blackjack
 bromophenol
 blennioidea
@@ -3258,7 +3258,7 @@ beware
 blotchily
 basilary 1
 basilateral
-bowker
+bowker 1
 balak
 basilect
 bloodwit
@@ -8272,7 +8272,7 @@ bobstay
 balagan
 bewildered
 bullfist
-brothership
+brothership 1
 bespurt
 bulgaric
 biforate

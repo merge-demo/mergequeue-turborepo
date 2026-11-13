@@ -4454,7 +4454,7 @@ abatjour 1
 apsides
 amang
 aldoxime
-aftmost
+aftmost 1
 adv
 archbanc
 archimago
