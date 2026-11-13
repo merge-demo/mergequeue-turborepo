@@ -9905,7 +9905,7 @@ aplotomy
 armillas
 amaritude
 amarthritis
-autosomatognosis
+autosomatognosis 1
 aeciospore
 azotorrhoea
 autosexing
