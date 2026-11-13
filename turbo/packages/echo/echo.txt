@@ -1526,7 +1526,7 @@ emmetropism
 egesta 2
 eggberries
 enfranchising
-endotheliolysin
+endotheliolysin 1
 eurythermal
 eyeable
 excrementitious
@@ -5081,7 +5081,7 @@ extramarital
 endoceratidae
 extraneously
 endocervical
-eccentrically
+eccentrically 1
 enslavers
 eremitic
 endochorion
@@ -7857,7 +7857,7 @@ ephod
 enterolith
 elbowed 1
 elbower 1
-epigrammatizing
+epigrammatizing 1
 endaortitis 1
 endonuclease
 erection
@@ -9908,7 +9908,7 @@ exhaustively
 envelopers
 emmensite
 earthnuts 1
-enterritoriality
+enterritoriality 1
 ephedrin
 eduskunta
 ectrodactylous
