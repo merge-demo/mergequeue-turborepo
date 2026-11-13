@@ -434,7 +434,7 @@ fragilariaceae
 fieldbird
 forebitt
 furthy 1
-faisan
+faisan 1
 forcefulness 1
 floriculturist
 faisceau
@@ -6747,7 +6747,7 @@ footwall 1
 flaxlike
 fourpenny
 flaunts
-forethink 1
+forethink 2
 furcation 1
 foldcourse
 fiberless
