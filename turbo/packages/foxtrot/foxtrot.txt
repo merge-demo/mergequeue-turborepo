@@ -203,7 +203,7 @@ fanons
 fatiscence 1
 forborne
 futurist
-figuline
+figuline 1
 fordoing
 fallout 2
 faire 1
@@ -7524,7 +7524,7 @@ foggier
 forecourts 1
 freeholding
 faille
-fifers
+fifers 1
 forerecited
 felsite
 fanal
