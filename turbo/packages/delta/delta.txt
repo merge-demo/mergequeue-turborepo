@@ -287,7 +287,7 @@ dahs
 day
 distributed
 dak
-dayabhaga
+dayabhaga 1
 dragoonade
 dreed
 demisheath
@@ -1538,7 +1538,7 @@ dextrously
 dicranoid
 doubtfulness 1
 deactivation
-deactivators 1
+deactivators 2
 distressedness
 doublure
 drail
