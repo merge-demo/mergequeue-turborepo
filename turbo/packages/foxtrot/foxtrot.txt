@@ -4822,7 +4822,7 @@ festinately
 freedwomen
 formidolous
 fructiparous
-feasting 1
+feasting 2
 furnishing 1
 forfars
 fodder 1
@@ -8869,7 +8869,7 @@ fivefoldness 2
 foundrymen 1
 flabellinerved
 fetichist
-fallency
+fallency 1
 flneuse 1
 favorableness
 foundrous
