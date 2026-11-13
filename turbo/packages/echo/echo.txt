@@ -146,7 +146,7 @@ euphausiidae
 examining
 endlong
 enchylema
-enzygotic 1
+enzygotic 2
 emargination 1
 envoys 1
 exorcise
@@ -8178,7 +8178,7 @@ epitendineum
 exergual
 exosmotic
 empowered
-exclamative
+exclamative 1
 eirene
 executiveship 1
 excalfaction
