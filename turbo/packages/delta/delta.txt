@@ -1451,7 +1451,7 @@ domical
 deltation 1
 dietotoxicity
 dawtit
-dawts
+dawts 1
 damages 1
 disbarred
 dedicatedly 1
@@ -7965,7 +7965,7 @@ drawpoint 2
 dextroglucose
 distensive
 dextrolactic
-despotes 1
+despotes 2
 diphenylthiourea 1
 dorosternal
 dextrolimonene
