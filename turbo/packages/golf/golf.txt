@@ -476,7 +476,7 @@ granadine
 graphites
 glop
 glycoproteid
-gearset 1
+gearset 2
 gymnical
 gleewoman
 goosefishes 1
@@ -2910,7 +2910,7 @@ glints
 gallipots
 glittering
 garfishes
-gledes
+gledes 1
 gonocyte
 gallinulelike
 greenside 1
