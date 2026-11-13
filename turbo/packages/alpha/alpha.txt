@@ -2011,7 +2011,7 @@ aeneas
 achaean
 antiexpressionistic
 aperistalsis
-aequoreal
+aequoreal 1
 actinogram
 acropathology
 amplexus
@@ -13124,7 +13124,7 @@ almucantar
 ayahs
 anilines 1
 athabascan
-acantholimon
+acantholimon 1
 anilinism
 ajar
 aeolsklavier

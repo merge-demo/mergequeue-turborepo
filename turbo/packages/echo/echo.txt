@@ -7972,7 +7972,7 @@ epineuneuria 1
 enterocholecystostomy
 evolutionary
 epineurium 1
-enclaving 1
+enclaving 2
 ergotinine 2
 endostea
 eczematization
@@ -9994,7 +9994,7 @@ endangers
 esmeraldite
 effected
 epichile
-editor
+editor 1
 enteropexy 1
 efford
 ethnotechnography 1
@@ -13584,7 +13584,7 @@ exsudate
 embowelling
 extumescence
 ectadenia 1
-egeria 1
+egeria 2
 emulation
 esoteric 1
 exsufflate
