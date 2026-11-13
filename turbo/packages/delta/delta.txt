@@ -607,7 +607,7 @@ dutchman
 demoses
 discretiveness
 dramamine 1
-deposes
+deposes 1
 doff
 damnability
 damnabilities 1
