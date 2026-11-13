@@ -10714,7 +10714,7 @@ fise
 fibriform
 foretelling
 frumenty 2
-feastful
+feastful 1
 fungals
 footband
 finnier
@@ -11144,7 +11144,7 @@ fetometry
 fishtail 1
 fosters 1
 footmarks
-furuncular
+furuncular 1
 flaggery
 formylated
 forumize

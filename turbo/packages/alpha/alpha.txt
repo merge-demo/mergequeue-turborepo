@@ -13704,7 +13704,7 @@ anomalistic
 andor 2
 adoperation
 asiatic
-anomalistical
+anomalistical 1
 anomalocephalus 1
 apollinarianism
 anomaloflorous
@@ -18763,7 +18763,7 @@ andesic
 axioms
 alkanes
 arche 1
-airships
+airships 1
 annulose
 archean
 archearl
@@ -18802,7 +18802,7 @@ apomecometry
 alebench
 adoxaceae 1
 apraxia
-archeocyte
+archeocyte 1
 acneform 1
 archeolithic
 ankhs
