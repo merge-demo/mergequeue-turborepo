@@ -9430,7 +9430,7 @@ escarps
 enfeoff
 encephalos 1
 eschatological
-enaliosauria 1
+enaliosauria 2
 epistemonical 1
 eyeshades
 emceeing
