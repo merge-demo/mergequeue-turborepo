@@ -6473,7 +6473,7 @@ furcular
 foldskirt
 fortifying
 flexuousness
-floggingly
+floggingly 1
 fierabras
 flytail
 fluting
@@ -6756,7 +6756,7 @@ freety 1
 fleshhook
 farinulent
 fervescent
-froebelian
+froebelian 1
 flyers
 forseeable 1
 fluidics
