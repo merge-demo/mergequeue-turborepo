@@ -894,7 +894,7 @@ essoining
 exercises
 extensivity
 expeditionary
-enures
+enures 1
 emperies
 extrastate
 episedia
@@ -9523,7 +9523,7 @@ esculin
 expansively 1
 essences
 eugenesis 1
-extrasolar
+extrasolar 1
 exempt
 envois
 enneateric 1
