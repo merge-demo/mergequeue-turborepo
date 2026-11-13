@@ -5478,7 +5478,7 @@ demicolumn
 diffusionism
 disproven
 depascent
-debilitation
+debilitation 1
 disrepute
 depasture 2
 devolution
