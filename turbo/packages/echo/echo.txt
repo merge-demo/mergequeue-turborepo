@@ -3929,7 +3929,7 @@ endplates
 enanthem
 emmett 1
 existentialism
-explicitly
+explicitly 1
 eulamellibranchia 1
 emmy
 epilabrum 1
