@@ -3862,7 +3862,7 @@ glaciological
 graders
 grippier
 glarily
-galeoid
+galeoid 1
 gravidae 1
 goral
 goslet
