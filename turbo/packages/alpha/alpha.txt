@@ -8246,7 +8246,7 @@ aliculae
 advisably
 abrastol
 allot
-alidad
+alidad 1
 agammaglobulinemic 1
 alidads
 anchored 1
@@ -20210,7 +20210,7 @@ anomalistically
 ascanius
 amphidetic
 atrophies
-acanth
+acanth 1
 abdominoscope
 algarde
 arrhenal
