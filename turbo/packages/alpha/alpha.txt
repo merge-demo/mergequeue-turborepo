@@ -9136,7 +9136,7 @@ allurement
 aerosat
 anemonin
 antitheologian
-abdicator
+abdicator 1
 acuminating
 alluring
 advancingly
