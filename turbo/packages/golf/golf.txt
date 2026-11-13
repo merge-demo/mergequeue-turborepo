@@ -3511,7 +3511,7 @@ ghastily 1
 gynecolatry
 grenadin
 goth
-gangues 1
+gangues 2
 garmentworker
 ganglions 1
 gymnorhina 1
@@ -8022,7 +8022,7 @@ geometry
 gongorism
 gan
 galempung 1
-galleries
+galleries 1
 gravicembali
 gravat
 gastrulas
@@ -9637,7 +9637,7 @@ gonosphere 1
 geraniols 1
 gazpacho
 garmenting
-gambit
+gambit 1
 gladeye
 gratton
 gyroidally 1
@@ -10579,7 +10579,7 @@ geologic 1
 gelds
 gens
 gaged
-greaser 2
+greaser 3
 glassine
 gowany
 gushed 1
