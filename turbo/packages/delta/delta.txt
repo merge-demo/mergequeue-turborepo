@@ -8532,7 +8532,7 @@ dampishness
 dharani
 debateful
 daimonion
-dewfall
+dewfall 1
 diaphanously
 douglas
 diphthongal
