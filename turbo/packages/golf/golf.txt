@@ -10679,7 +10679,7 @@ grippotoxin
 grayed
 glochidiate
 gurk
-gellants
+gellants 1
 groundbird
 geostatic
 gurnet 1
