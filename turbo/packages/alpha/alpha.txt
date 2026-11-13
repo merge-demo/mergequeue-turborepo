@@ -14583,7 +14583,7 @@ anthropotheist
 androcephalum 1
 answering
 anilinctus
-avania
+avania 1
 anthropotheistic
 anthropotomical
 antonyms
@@ -16448,7 +16448,7 @@ anesthetically 1
 aphelinus
 acrochordidae
 anuretic
-accoutred
+accoutred 1
 anury
 arthrogenous
 arctoidea
@@ -23818,7 +23818,7 @@ anabohitsite
 asarota
 appropriations
 anhydremic
-antiphrastically
+antiphrastically 1
 autacoidal
 azan
 autaesthesy
