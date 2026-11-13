@@ -29506,7 +29506,7 @@ ceruminiferous
 companion 1
 coroniform
 chithe
-cryste
+cryste 1
 counterattired
 caprimulgidae
 cristiform
@@ -29616,7 +29616,7 @@ crocidura
 cosinesses 1
 crock
 clashy 1
-cantative
+cantative 1
 caroaches
 coembodying
 crockery
