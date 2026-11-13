@@ -4055,7 +4055,7 @@ goneoclinic
 gipsywort 1
 gulgul
 gratifiedly
-gilder 1
+gilder 2
 glycerogelatin
 giraffish 1
 genapper
@@ -4737,7 +4737,7 @@ glimmerings
 gal
 gizzern
 glycogenize
-gjedost
+gjedost 1
 gastropleuritis
 gyniatrics
 gravedo
