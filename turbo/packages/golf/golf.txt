@@ -2097,7 +2097,7 @@ graminological
 gozzard 1
 gerberia
 greatening
-guerillaism
+guerillaism 1
 geobotanist
 galvanizer 2
 gerontes 2
@@ -2735,7 +2735,7 @@ gynophagite
 gliadins
 guillotine
 gunboats
-grooms
+grooms 1
 gentiopicrin 2
 girths
 gurgoyle 1
