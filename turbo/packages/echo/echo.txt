@@ -4879,7 +4879,7 @@ excitoglandular 1
 empoisons
 egomanias
 ebulliometer 1
-exoperidium
+exoperidium 1
 endoderm 1
 enculturation 1
 ergatandromorph
@@ -6578,7 +6578,7 @@ etcher
 entreating
 enterocleisis
 electrician
-equiponderant
+equiponderant 1
 excluding
 echinorhynchus
 esperantidist
@@ -9098,7 +9098,7 @@ encyclopedias
 ethinyl
 exsection
 enrockment
-empidonax 2
+empidonax 3
 escalloniaceae
 embadomonas 1
 enlightens
