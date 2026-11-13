@@ -6301,7 +6301,7 @@ furcraeas
 favela
 fluoboride
 flaggiest
-fumerel
+fumerel 1
 foamflower 1
 fiking
 fossiform 1
