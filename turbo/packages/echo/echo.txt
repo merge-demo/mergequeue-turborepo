@@ -1420,7 +1420,7 @@ epipodialia
 entoretina
 erythrocytolytic
 espoused
-expenditure 1
+expenditure 2
 ethnicon
 exaggeratory
 enols
@@ -9174,7 +9174,7 @@ eirenic
 erodes
 edgeless
 exterminatory
-enterclose 1
+enterclose 2
 enslavement
 enginelike
 exhorted
@@ -12788,7 +12788,7 @@ exordium
 engold 2
 exotism 1
 earlike 1
-elsewise 1
+elsewise 2
 exortion
 endodontia
 exosmose
