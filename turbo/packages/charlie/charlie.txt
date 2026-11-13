@@ -30334,7 +30334,7 @@ celsitude 1
 cruppering
 crura
 complexionably
-crural
+crural 1
 counterattacks
 crurogenital
 cruroinguinal
