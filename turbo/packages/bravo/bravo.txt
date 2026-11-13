@@ -2107,7 +2107,7 @@ bannock
 buyers
 bannocks
 boilinglike
-banovina
+banovina 1
 banquet
 blindish
 bardiest
@@ -3359,7 +3359,7 @@ beudantite
 basked
 basketballer
 bison
-baggiest
+baggiest 1
 beings
 bandurria
 basketmaking 1
