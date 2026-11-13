@@ -470,7 +470,7 @@ americanizes
 archiplata
 abirritate
 anthotropic
-alfalfa
+alfalfa 1
 abirritating 1
 affirmativeness
 abirritation 1
@@ -671,7 +671,7 @@ abysmal
 apostrophation
 abonnement
 artesian 1
-aborad
+aborad 1
 aboral
 abord
 apposes
