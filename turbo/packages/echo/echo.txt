@@ -146,7 +146,7 @@ euphausiidae
 examining
 endlong
 enchylema
-enzygotic 1
+enzygotic 2
 emargination 1
 envoys 1
 exorcise
