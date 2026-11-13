@@ -6385,7 +6385,7 @@ foppish 1
 farset
 fluorimetric
 fluorobenzene
-fructifies
+fructifies 1
 frizing 1
 foreship
 frivoled
@@ -11338,7 +11338,7 @@ funebrious
 faujasite
 fuseplug
 foalhood 1
-fashioners
+fashioners 1
 fallacy
 fricandel
 formalith
@@ -11360,7 +11360,7 @@ fraxinus 1
 firepans 1
 feuds
 fiasco 1
-fannies
+fannies 1
 fenagler
 ferlied 1
 flustrine
