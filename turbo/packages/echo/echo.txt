@@ -10193,7 +10193,7 @@ extrahazardous 1
 emancipation
 escrowed
 emmarbled
-electrotelegraphic
+electrotelegraphic 1
 externals 1
 escargotieres
 exuberating
