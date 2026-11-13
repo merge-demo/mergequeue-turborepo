@@ -2021,7 +2021,7 @@ gums 1
 gauzewing
 gigglingly
 gomorrah 1
-galactia 1
+galactia 2
 grithman
 gauzy
 galatae
@@ -8612,7 +8612,7 @@ gradal
 greyish 1
 gemsbok 1
 guttered
-grip
+grip 1
 ganjas
 gladdy
 grantee 1
