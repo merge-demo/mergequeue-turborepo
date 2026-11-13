@@ -10249,7 +10249,7 @@ benzenyl
 blackguardry 1
 baroreceptor 1
 beseechers
-bugloss
+bugloss 1
 blackgum 1
 beachcombing
 brevicomis 1
