@@ -14414,7 +14414,7 @@ almugs
 amplexicauline 1
 anthracitic
 apprehensively
-acclaims
+acclaims 1
 amoyese
 anthracitious
 angiospastic
