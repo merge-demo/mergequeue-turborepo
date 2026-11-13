@@ -6326,7 +6326,7 @@ causes
 cgm
 crimison
 causeuses
-cannellated
+cannellated 1
 causewaying
 clubfeet
 causidical
