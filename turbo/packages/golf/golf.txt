@@ -3807,7 +3807,7 @@ gifola
 galleriies
 geometer
 gonococcic
-gigelira
+gigelira 1
 gaolerness
 gold
 granthi
@@ -4388,7 +4388,7 @@ glamours 1
 gazangabin
 globigerinidae 1
 gynura 1
-goyazite 1
+goyazite 2
 gadsman
 glucuronide 1
 gobby 1
