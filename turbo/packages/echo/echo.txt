@@ -6578,7 +6578,7 @@ etcher
 entreating
 enterocleisis
 electrician
-equiponderant
+equiponderant 1
 excluding
 echinorhynchus
 esperantidist
