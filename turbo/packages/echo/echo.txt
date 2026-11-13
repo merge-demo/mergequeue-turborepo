@@ -159,7 +159,7 @@ earthly
 enriched
 eelbobber
 expiring
-expressive
+expressive 1
 escallop
 enticed
 exonym
