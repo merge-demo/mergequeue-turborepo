@@ -7358,7 +7358,7 @@ clodded
 convolvulinolic
 crusher
 cephalopodous
-corporatist
+corporatist 1
 cephalopterus
 cephaloridine
 confocal
@@ -16047,7 +16047,7 @@ collards
 clientage
 cliental
 classer
-cycloramas
+cycloramas 1
 choriocarcinomata 1
 codeless
 cornopean

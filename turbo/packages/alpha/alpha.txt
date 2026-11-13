@@ -1760,7 +1760,7 @@ aceacenaphthene
 anticosine
 asphyxies
 aglipayano
-arabis
+arabis 1
 anemia
 apochromatic
 acedy
@@ -13738,7 +13738,7 @@ anaesthatic
 ancoral
 anutraminosa
 actinotherapeutics
-apparatchik
+apparatchik 1
 andorran
 anomodont
 anomodontia
