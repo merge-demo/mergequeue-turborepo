@@ -4154,7 +4154,7 @@ cyclus
 cardiomelanosis
 contradivide
 cholecystotomies
-cardiometric
+cardiometric 1
 cardiomyomalacia 1
 cardiomyopathy
 camshaft
@@ -12707,7 +12707,7 @@ candidas
 chauvinists
 cholecystoileostomy 1
 canalage
-clawsick 1
+clawsick 2
 cutie
 chugged
 chuggers
