@@ -15819,7 +15819,7 @@ closures
 circumclude
 carbonisation
 cachaca
-comstockery 1
+comstockery 2
 calisthenical
 cobcab
 callus
@@ -18172,7 +18172,7 @@ cervulus
 coetaneous
 coeternal
 coincidence
-caninity
+caninity 1
 coeval
 camorrist
 coevalness
