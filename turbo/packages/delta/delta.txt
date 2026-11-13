@@ -9776,7 +9776,7 @@ doorstops
 disenfranchise
 diggings 1
 dills
-delusiveness
+delusiveness 1
 deputations
 dimetria
 distends
