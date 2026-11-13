@@ -24411,7 +24411,7 @@ autosoterism
 accoutered
 appanaging
 auteciously 2
-architrave
+architrave 1
 argenter
 ampullated
 alimentum
