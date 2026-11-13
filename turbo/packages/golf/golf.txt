@@ -3551,7 +3551,7 @@ guidon
 glutinose
 gothic
 gaedown
-galvanic 1
+galvanic 2
 gyrocar
 greg
 gustus 1
@@ -10056,7 +10056,7 @@ guerites 1
 gage
 graveolency
 gemot
-gravedigger
+gravedigger 1
 gelofer
 gaelicization
 gimmal 1
