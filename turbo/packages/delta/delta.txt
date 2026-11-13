@@ -7872,7 +7872,7 @@ dewberries 1
 dewcap
 disbudder
 div
-driveways
+driveways 1
 dewclaws
 diaphonia 1
 dites
