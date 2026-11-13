@@ -6940,7 +6940,7 @@ diameter
 diets 1
 dandlers
 demob 1
-dript
+dript 1
 despoil 1
 despoiled
 destroyers 1
@@ -12037,7 +12037,7 @@ dijudicated
 disensure
 disentail
 deprecatively
-disentangle
+disentangle 1
 dentine
 disentanglement
 daymare

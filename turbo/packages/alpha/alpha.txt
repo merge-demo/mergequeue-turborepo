@@ -5608,7 +5608,7 @@ afterwise
 afterwit
 afterwork 1
 agathodemon
-apinage
+apinage 1
 aint 1
 afterworld
 antischool
