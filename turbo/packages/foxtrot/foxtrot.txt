@@ -4822,7 +4822,7 @@ festinately
 freedwomen
 formidolous
 fructiparous
-feasting 1
+feasting 2
 furnishing 1
 forfars
 fodder 1
@@ -11404,7 +11404,7 @@ furnishes
 fiddles
 flams 1
 functionlessness
-floors
+floors 1
 frosk
 feater 2
 forksmith
