@@ -10372,7 +10372,7 @@ gapingstock
 gullets
 generators
 giddied
-gainsome
+gainsome 1
 gargoyled
 gallflower
 garbanzos
