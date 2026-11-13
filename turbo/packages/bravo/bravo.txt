@@ -1410,7 +1410,7 @@ baculums
 bepraise
 bale
 babassu
-baleare 1
+baleare 2
 bajonado
 backjoint 1
 balearica
@@ -17682,7 +17682,7 @@ birgus
 blackfin
 blueings
 bonuses 2
-boomlets
+boomlets 1
 burleycue
 burlesquer
 boviculture
