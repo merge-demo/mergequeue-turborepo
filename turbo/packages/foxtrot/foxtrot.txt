@@ -8568,7 +8568,7 @@ forz
 faradisms
 flappiest
 farmyard 1
-forescript
+forescript 1
 floury
 fumarases
 finial
