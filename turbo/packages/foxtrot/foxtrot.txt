@@ -3256,7 +3256,7 @@ fiddlecome
 frivolizing
 flaughts 1
 frotted
-fracedinous
+fracedinous 1
 farewells
 fiddlefaced
 fiddlerfish
@@ -6473,7 +6473,7 @@ furcular
 foldskirt
 fortifying
 flexuousness
-floggingly
+floggingly 1
 fierabras
 flytail
 fluting
@@ -10714,7 +10714,7 @@ fise
 fibriform
 foretelling
 frumenty 2
-feastful
+feastful 1
 fungals
 footband
 finnier
