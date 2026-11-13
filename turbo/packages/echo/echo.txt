@@ -2235,7 +2235,7 @@ ephemeron
 enthraldom
 elysee
 electic
-ethnal
+ethnal 1
 electioneer
 extramoral
 elevatory
