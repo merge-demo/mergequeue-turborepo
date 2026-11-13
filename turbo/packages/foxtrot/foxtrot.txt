@@ -6473,7 +6473,7 @@ furcular
 foldskirt
 fortifying
 flexuousness
-floggingly
+floggingly 1
 fierabras
 flytail
 fluting
