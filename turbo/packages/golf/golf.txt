@@ -1497,7 +1497,7 @@ garners 1
 garotted
 goutish
 gaolage
-greediest
+greediest 1
 groose
 guaxima
 glandless 1
@@ -10056,7 +10056,7 @@ guerites 1
 gage
 graveolency
 gemot
-gravedigger
+gravedigger 1
 gelofer
 gaelicization
 gimmal 1
