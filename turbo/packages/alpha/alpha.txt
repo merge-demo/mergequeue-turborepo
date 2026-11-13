@@ -14414,7 +14414,7 @@ almugs
 amplexicauline 1
 anthracitic
 apprehensively
-acclaims
+acclaims 1
 amoyese
 anthracitious
 angiospastic
@@ -21575,7 +21575,7 @@ aspidiaria 1
 aspidinol 1
 aladdinize
 aspidiske
-autotypies
+autotypies 1
 aspidistra
 aullay 1
 aurorean
