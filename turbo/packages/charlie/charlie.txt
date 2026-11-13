@@ -28594,7 +28594,7 @@ creepily
 country
 cucurb
 coxcomby
-creepiness
+creepiness 1
 chammies
 creepmouse
 creeps
