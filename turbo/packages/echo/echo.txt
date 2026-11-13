@@ -5991,7 +5991,7 @@ enjoinders
 englished
 eucommia
 excerption
-expatiatingly
+expatiatingly 1
 enjoiner
 excubant
 euonym 1
