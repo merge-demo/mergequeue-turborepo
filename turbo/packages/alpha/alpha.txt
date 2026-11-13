@@ -3281,7 +3281,7 @@ arpanet
 additament
 acutilingual
 axal
-acutilobate
+acutilobate 1
 articulation
 arterioarctia
 acutiplantar
