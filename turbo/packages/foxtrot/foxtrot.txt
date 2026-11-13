@@ -1314,7 +1314,7 @@ fatefully
 fanaticise
 findability
 fernambuck 1
-furtively
+furtively 1
 finality
 fescenninity 1
 fibromata
@@ -1680,7 +1680,7 @@ focally
 fice
 feaberry
 ferrandin
-forethoughtfulness 1
+forethoughtfulness 2
 flatmate
 firoloida
 feverberry
@@ -7300,7 +7300,7 @@ friendliest 1
 flourishy
 formularised
 foraminose
-foraminulate
+foraminulate 1
 flabbily
 france
 foraneen
