@@ -9755,7 +9755,7 @@ ectogenesis 2
 enrobing
 exfoliatory
 epyllion
-estivating
+estivating 1
 erythronium
 equid
 elamp
