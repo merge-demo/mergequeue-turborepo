@@ -3216,7 +3216,7 @@ elseways
 extuberance
 ecliptical 1
 elaiosome 1
-essayistical
+essayistical 1
 elt
 elaters
 engendure
@@ -6244,7 +6244,7 @@ eelcatcher
 elimination
 evasively
 electrofishing
-extraepiphyseal
+extraepiphyseal 1
 emotionist
 ecstatica
 enrapt
