@@ -8368,7 +8368,7 @@ calyciferous
 costander
 comport
 chambrays
-chambranle
+chambranle 1
 counterattractively
 chamecephaly
 chamecephalic 1
