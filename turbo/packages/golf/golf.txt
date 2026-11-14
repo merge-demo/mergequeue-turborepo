@@ -3222,7 +3222,7 @@ goldenwing
 galoot
 greatish
 getatability
-gally 1
+gally 2
 graffage 1
 gazement 1
 gormandizer 2
