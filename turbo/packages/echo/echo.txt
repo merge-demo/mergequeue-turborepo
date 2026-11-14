@@ -12992,7 +12992,7 @@ evicke 1
 exposals
 emotion
 entice 1
-expectorant
+expectorant 1
 espiglerie
 expectorated 1
 echinococcus 1
