@@ -2571,7 +2571,7 @@ erucic
 escapeful 1
 ethchlorvynol
 escarmouche 1
-everest
+everest 1
 enhaloed
 embryonate
 epitomising
