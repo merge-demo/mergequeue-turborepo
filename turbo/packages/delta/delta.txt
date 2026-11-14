@@ -1415,7 +1415,7 @@ dibbed 1
 dryster
 dichotomized 1
 damnit
-dawk
+dawk 1
 diapering
 dioptrate 1
 dogly
