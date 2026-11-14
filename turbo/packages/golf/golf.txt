@@ -1095,7 +1095,7 @@ graphicness
 gowdy
 gestes 1
 galactolipin
-goularo 1
+goularo 2
 glossopharyngeal
 gamboge 1
 genitives
