@@ -8533,7 +8533,7 @@ esophagotome
 equatable
 epiphanised
 eudaemons
-ecclesiasticize 1
+ecclesiasticize 2
 essentializing
 echinated
 embezzling

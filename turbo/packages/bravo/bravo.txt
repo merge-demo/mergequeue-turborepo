@@ -14770,7 +14770,7 @@ bisect 1
 barranca
 bravi
 braving
-bravissimo
+bravissimo 1
 bigotries
 bifolium 2
 brahminist
