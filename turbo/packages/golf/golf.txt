@@ -5876,7 +5876,7 @@ gripped
 grackle
 grogshops 1
 goofs
-gambirs
+gambirs 1
 glamourizer
 gluepot 1
 gemitorial
