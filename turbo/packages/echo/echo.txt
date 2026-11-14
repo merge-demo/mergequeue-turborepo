@@ -6127,7 +6127,7 @@ espringal
 enlodge
 episkotister
 estuary
-enforced 2
+enforced 3
 epiphanise 1
 enlodgement 1
 enlumine 1
@@ -7636,7 +7636,7 @@ enterostomy
 esere
 educed 1
 enterogastritis
-exponents
+exponents 1
 epicotyls
 ecca
 enhancement
