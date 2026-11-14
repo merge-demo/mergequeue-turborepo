@@ -12245,7 +12245,7 @@ dispatriated
 disgorged 2
 disendowed
 drawing
-distrusting
+distrusting 1
 degreasing
 dromedarist
 diazomethane
