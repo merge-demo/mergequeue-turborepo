@@ -6368,7 +6368,7 @@ goldeyes
 gingivalgia
 glommed
 gastroduodenoscopy
-gonged
+gonged 1
 gongorist
 geostationary
 grieshoch
