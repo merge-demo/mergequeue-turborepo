@@ -23860,7 +23860,7 @@ contrivances
 contrive
 curds
 contrived
-contrivedly
+contrivedly 1
 contrivement
 cinchonology
 cowroid
