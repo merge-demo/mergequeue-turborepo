@@ -2899,7 +2899,7 @@ despitous
 doggoner
 dedicators
 deaconry
-dewar
+dewar 1
 ducatus
 divagation
 dechlorination
