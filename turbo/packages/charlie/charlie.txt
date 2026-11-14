@@ -27607,7 +27607,7 @@ cowardice
 chrobat 1
 cowardish
 cannibalistic
-chionophobia
+chionophobia 1
 chuffiest
 camphene
 coecum
