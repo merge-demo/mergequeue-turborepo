@@ -5515,7 +5515,7 @@ goffle
 gephyrophobia 1
 glycerizine
 grandames 1
-giggliest
+giggliest 1
 goback
 gconvert
 geoprumnon
