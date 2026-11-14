@@ -12614,7 +12614,7 @@ definitise
 dephase
 disinvagination
 dighter
-deltidia
+deltidia 1
 deepfroze
 directs
 dargsman
