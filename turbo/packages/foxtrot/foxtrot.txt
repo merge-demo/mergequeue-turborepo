@@ -5686,7 +5686,7 @@ flyproof
 flush
 flavins 1
 flirt
-fixatif
+fixatif 1
 footed
 flirtatiously 1
 flirtatiousness
