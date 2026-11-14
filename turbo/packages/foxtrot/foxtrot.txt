@@ -10959,7 +10959,7 @@ flanconade 1
 forgetness 1
 floristic
 furfuran
-fusoid
+fusoid 1
 foreseing
 fooled
 fulzie
