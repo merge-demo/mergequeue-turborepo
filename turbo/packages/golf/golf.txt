@@ -6392,7 +6392,7 @@ geegaws
 gentlemanliness 1
 gocart 2
 giddypate
-girnie
+girnie 1
 gottlieb
 goburra 1
 glucidic
