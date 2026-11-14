@@ -21785,7 +21785,7 @@ cheatable
 cobless
 cutization
 culmy 1
-concentive
+concentive 1
 corresponsive
 conductometric
 conductor
