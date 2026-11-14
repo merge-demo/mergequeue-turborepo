@@ -481,7 +481,7 @@ caddie
 caddies
 convulsionary
 cottons
-clinics
+clinics 1
 chincough
 caddises
 cattalos 1

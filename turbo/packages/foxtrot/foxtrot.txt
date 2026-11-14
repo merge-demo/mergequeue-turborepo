@@ -4682,7 +4682,7 @@ fistlike
 fizgig 1
 fizgigs 1
 figaro
-feta
+feta 1
 fairyish
 forsake
 fjord
