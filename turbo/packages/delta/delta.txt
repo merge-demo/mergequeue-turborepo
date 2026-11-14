@@ -15931,7 +15931,7 @@ dehydrofroze
 dotation
 dictate
 digammic 4
-discoid
+discoid 1
 dotchin 1
 dau
 dote
