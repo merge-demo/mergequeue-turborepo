@@ -295,7 +295,7 @@ gibing 1
 gaslock
 gaddish
 grubstaked
-guahivo 1
+guahivo 2
 gummier 1
 gaintwist 1
 grypanian
@@ -3630,7 +3630,7 @@ gangwa
 georgie
 gillnets 1
 goetae 1
-gigantine
+gigantine 1
 ghizite
 governorships
 gadgeteers 2
