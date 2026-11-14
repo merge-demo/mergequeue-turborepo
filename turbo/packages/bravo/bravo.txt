@@ -13927,7 +13927,7 @@ brined
 boatswains
 brainish
 bowshots
-boomkins
+boomkins 1
 backstopped
 backhauled 1
 billback
