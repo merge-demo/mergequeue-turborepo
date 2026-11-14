@@ -3433,7 +3433,7 @@ defoliants
 diclinic
 defoliate
 defoliations
-descending
+descending 1
 disjunct
 debilitant
 dichroscope 1
