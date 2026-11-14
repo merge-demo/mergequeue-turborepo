@@ -4344,7 +4344,7 @@ foresleeve
 finagle
 feebler 1
 filthless 1
-foraramina
+foraramina 1
 fylfots 1
 froppish
 footcloths
