@@ -8420,7 +8420,7 @@ cauligenous
 champagneless
 champagning
 chockman
-champagnize
+champagnize 1
 caracolling 1
 cardiogenic
 champagnized 1
