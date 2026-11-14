@@ -17435,7 +17435,7 @@ bunkermen
 bunkers
 babel
 bronchiolus
-beard
+beard 1
 balsawood 1
 birdnester
 bunkie
