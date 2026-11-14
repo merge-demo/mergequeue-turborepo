@@ -8770,7 +8770,7 @@ gloves
 gadid
 glimpsers 1
 grandchildren 1
-gelatinochloride 1
+gelatinochloride 2
 gunslinger
 garbles
 generable
