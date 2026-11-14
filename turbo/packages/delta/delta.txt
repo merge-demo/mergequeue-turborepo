@@ -18556,7 +18556,7 @@ detailing 1
 derri
 durry
 dappled
-durrin
+durrin 1
 dig
 durrs
 durukuli
