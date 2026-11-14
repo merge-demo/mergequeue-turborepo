@@ -1058,7 +1058,7 @@ dorsodynia
 doling
 darraign
 depositions 1
-digitalic
+digitalic 1
 darrein
 darshan 1
 dampening
