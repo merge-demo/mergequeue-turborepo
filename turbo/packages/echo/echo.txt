@@ -6294,7 +6294,7 @@ excitants
 examined
 etang
 exorcised
-eugenolate
+eugenolate 1
 exteriorising 2
 endpapers
 echinosphaerites
