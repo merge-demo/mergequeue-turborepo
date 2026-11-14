@@ -27095,7 +27095,7 @@ compressedly
 causability
 carpent 2
 counterscarp
-counterscoff
+counterscoff 1
 consonantly
 conscionableness
 chints
