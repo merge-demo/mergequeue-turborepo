@@ -17220,7 +17220,7 @@ directorially
 driveler
 decemberish
 drivelingly
-driveller
+driveller 1
 devulcanization
 drivenness 1
 drivepipe
