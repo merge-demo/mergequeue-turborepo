@@ -22427,7 +22427,7 @@ cacana
 corruptible
 conyger
 colobin
-canterbury
+canterbury 1
 coniine
 coextensive
 chemosensitivity 1
