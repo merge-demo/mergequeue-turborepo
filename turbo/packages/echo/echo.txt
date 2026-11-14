@@ -6039,7 +6039,7 @@ epiphytotic
 entrepreneuses 1
 epistolical
 epistles
-exsects
+exsects 1
 ecumenopolis
 exurbias
 escroll 1
