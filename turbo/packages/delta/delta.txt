@@ -262,7 +262,7 @@ dihexahedron
 degermed
 doradilla
 daguerreotyped
-daguerreotyping
+daguerreotyping 1
 dissociations
 digitonin
 dreadnaught 1
