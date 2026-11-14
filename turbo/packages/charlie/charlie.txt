@@ -10594,7 +10594,7 @@ cubic
 coruscant
 contract
 conservatoire 1
-cosmopolis
+cosmopolis 1
 campanology
 colleterium
 chilomastix
