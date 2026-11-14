@@ -4875,7 +4875,7 @@ encroachments
 epitaxic
 encrustation
 elepaio
-excitoglandular 1
+excitoglandular 2
 empoisons
 egomanias
 ebulliometer 1
