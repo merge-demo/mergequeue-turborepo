@@ -6887,7 +6887,7 @@ epicotyledonary
 exarchal
 elasticize 1
 escudos 1
-embonpoint
+embonpoint 1
 ephoric
 exuviable
 enweave
