@@ -11498,7 +11498,7 @@ ectosarcs
 ectopterygoid
 elegancies
 epicurean
-elastometer
+elastometer 1
 emcee
 encheiria
 erotylid 1
