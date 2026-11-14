@@ -18370,7 +18370,7 @@ bobbins
 bordrage 1
 bimesters
 buz
-buzane
+buzane 1
 blawort 1
 bloodhounds
 bortsch
