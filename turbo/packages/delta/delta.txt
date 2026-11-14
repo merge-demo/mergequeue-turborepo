@@ -3080,7 +3080,7 @@ dentated
 dislade
 defamed
 dilogical
-duxes
+duxes 1
 disestablisher
 disbodied 1
 demihuman
