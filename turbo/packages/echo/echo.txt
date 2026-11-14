@@ -3233,7 +3233,7 @@ educive
 extreme
 extroversively 1
 eludible 3
-enswathes
+enswathes 1
 elul
 epidemic
 enclitical
