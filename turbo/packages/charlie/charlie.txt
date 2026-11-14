@@ -19443,7 +19443,7 @@ colourational
 comagistracy
 crotchetiness
 coltpixie 1
-colourative
+colourative 1
 colourer
 colourers
 caveated

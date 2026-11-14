@@ -18170,7 +18170,7 @@ aeolid
 allowably
 anticontagiousness
 autolytic
-aquarius
+aquarius 1
 astint 1
 anacusia 1
 adequately
