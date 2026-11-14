@@ -13135,7 +13135,7 @@ crossbreeds
 ciceronian 1
 chiaroscuro
 clon
-ciceronianisms
+ciceronianisms 1
 ciceronianist
 compellability
 clavellate
