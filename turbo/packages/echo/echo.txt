@@ -9633,7 +9633,7 @@ entia
 epenthesize
 epacris
 elaeagnus
-enfrai 1
+enfrai 2
 exhibitable
 esparsette
 emphases
