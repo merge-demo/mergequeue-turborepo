@@ -7670,7 +7670,7 @@ deviationism
 diting 1
 deviations
 dusting 3
-deviatory
+deviatory 1
 discission 1
 densimetrically
 disassembles 1
