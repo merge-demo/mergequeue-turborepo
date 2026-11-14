@@ -707,7 +707,7 @@ galoshe
 gimmals
 grassworm
 goldney 3
-genteelness
+genteelness 1
 grass 1
 gals
 galtrap

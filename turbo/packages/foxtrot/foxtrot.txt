@@ -2439,7 +2439,7 @@ foreproduct
 floretty 1
 fermentable 1
 fermentativeness
-faradize
+faradize 1
 footbridges
 fermentescible
 filiform 1
