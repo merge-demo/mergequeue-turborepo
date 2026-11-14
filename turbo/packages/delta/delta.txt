@@ -3480,7 +3480,7 @@ disembarrassment
 dismissable 1
 doom 1
 diapensiaceous
-desaturate
+desaturate 1
 desiccated
 dagobas
 dufoil
