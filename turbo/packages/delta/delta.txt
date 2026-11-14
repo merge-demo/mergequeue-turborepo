@@ -422,7 +422,7 @@ dorsoanterior
 drinker 1
 dairywomen
 daunder
-descanting
+descanting 1
 dayrooms
 deities 1
 dorsad
@@ -1604,7 +1604,7 @@ deairing
 deairs
 disomic
 dealate
-drupelet
+drupelet 1
 daks
 doe
 doweled
