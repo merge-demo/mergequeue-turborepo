@@ -4202,7 +4202,7 @@ dialkylic
 delubra
 deluce
 derivative
-delude
+delude 1
 dishonored
 dipperful
 detribalized
@@ -5757,7 +5757,7 @@ divestible
 dislimns
 dulcitol
 dichotomously
-dustman 1
+dustman 2
 daisied
 deafforest
 destrier
