@@ -17354,7 +17354,7 @@ disphenoid
 divisural
 drow 1
 delilah 1
-desight
+desight 1
 daglocks
 dishwiper
 dropberry
