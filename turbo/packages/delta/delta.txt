@@ -4019,7 +4019,7 @@ delictual 1
 drearisome
 disobeyed
 delieret
-degrain
+degrain 1
 despicably 1
 divaricate
 dealerships
