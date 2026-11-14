@@ -17445,7 +17445,7 @@ dendrochronologically
 damascener 1
 diagrammatician
 dentiroster
-devitrified
+devitrified 1
 drouking
 deprehension
 deforcer
