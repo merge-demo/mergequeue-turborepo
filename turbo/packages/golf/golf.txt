@@ -4227,7 +4227,7 @@ gramophones
 garrafa
 gusto
 gnabble
-guncotton
+guncotton 1
 gantang 1
 gruelled
 gomorrhean
