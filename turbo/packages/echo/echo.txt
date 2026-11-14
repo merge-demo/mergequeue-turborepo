@@ -13147,7 +13147,7 @@ echeneid
 empyreuma 1
 ecesises 1
 effronted
-earthborn
+earthborn 1
 extollation
 experimentist
 extracathedral
