@@ -6885,7 +6885,7 @@ grandeval
 gondite
 geniohyoglossal 1
 gonosome
-genitourinary 1
+genitourinary 2
 goodliness
 grassflower
 geologise 1
