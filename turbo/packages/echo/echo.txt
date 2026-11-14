@@ -5292,7 +5292,7 @@ enchantress
 emendating 1
 effector
 endorsees
-extemporize
+extemporize 1
 epicoracoidal
 eustachium
 enravishes
