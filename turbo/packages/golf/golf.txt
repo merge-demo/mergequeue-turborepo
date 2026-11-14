@@ -9953,7 +9953,7 @@ goldi 1
 gymnodinium
 greisen
 gazetted
-gamasoidea
+gamasoidea 1
 guaiocums
 goitres
 grunted 1
