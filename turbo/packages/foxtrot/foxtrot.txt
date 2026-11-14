@@ -7162,7 +7162,7 @@ fortnight 1
 falseheartedly
 fustily
 fibrocarcinoma
-frolicks
+frolicks 1
 frustrately
 flathe
 flaccid
