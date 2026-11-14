@@ -1692,7 +1692,7 @@ grooved 1
 glaciation 1
 gloated
 grows
-glaucin
+glaucin 1
 gussie 1
 goblinish 1
 galumphs
