@@ -17607,7 +17607,7 @@ burghers
 burgraves 1
 bureaucratized
 bowdlerized
-burring
+burring 1
 berberry
 burglarizing
 bradykinetic
