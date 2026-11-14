@@ -14896,7 +14896,7 @@ breakable
 breakaxe
 bitterless
 bilipurpurin
-burning
+burning 1
 baja 1
 breakers 1
 breakfast
