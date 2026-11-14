@@ -12279,7 +12279,7 @@ egypt
 exemplified
 ergasia
 extradites
-epibolic
+epibolic 1
 exsequatur
 exempted
 exemption 1
