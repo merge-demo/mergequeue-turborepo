@@ -2896,7 +2896,7 @@ glazes 1
 grapy
 gaincope
 gomphoses
-gastrorrhagia
+gastrorrhagia 1
 gruesomeness
 gayety 1
 gadders
@@ -5887,7 +5887,7 @@ giveable
 gluishness
 gashed
 germy 1
-glumes
+glumes 1
 gorman
 gritting 1
 gesnera
