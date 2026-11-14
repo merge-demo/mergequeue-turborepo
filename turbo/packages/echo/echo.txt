@@ -12614,7 +12614,7 @@ emanative
 epitonium
 ectethmoid
 extrathecal
-enriches
+enriches 1
 effectualness
 epigenetically
 epistrophic
