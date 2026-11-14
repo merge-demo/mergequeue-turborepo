@@ -322,7 +322,7 @@ gadolinium
 grognard
 gangrels
 grundsil 2
-galeorhinus
+galeorhinus 1
 guyana 2
 galliferous
 gastrocoele 1
