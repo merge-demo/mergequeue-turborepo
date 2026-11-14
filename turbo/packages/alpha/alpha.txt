@@ -11291,7 +11291,7 @@ affluently
 abrege
 atchison
 arzrunite
-amphimictic
+amphimictic 1
 animized
 antired
 amphimorulae
