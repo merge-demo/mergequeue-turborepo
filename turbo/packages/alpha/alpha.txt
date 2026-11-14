@@ -22953,7 +22953,7 @@ atriopore
 atrip
 asthenopic
 argyraspides
-asquat
+asquat 1
 archaical
 atriplex
 assimilation
