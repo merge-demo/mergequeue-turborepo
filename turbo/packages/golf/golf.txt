@@ -2034,7 +2034,7 @@ gelatiniform
 gases 1
 gaveled
 gibbosities
-gaultherin
+gaultherin 1
 gangrenes 3
 gnomologic 1
 greiges
