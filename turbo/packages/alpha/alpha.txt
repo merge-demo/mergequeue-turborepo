@@ -4436,7 +4436,7 @@ asthenias 1
 agrypnode 1
 angild
 agallochum
-adumbrative
+adumbrative 1
 anthochlor
 anybodies
 aduncate
