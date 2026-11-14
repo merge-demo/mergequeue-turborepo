@@ -3432,7 +3432,7 @@ capriform
 caprylic 1
 cymene
 caprylyl
-coat
+coat 1
 caprylone
 chivarro
 counterplan
