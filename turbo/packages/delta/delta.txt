@@ -13031,7 +13031,7 @@ dithecous 1
 dispeed
 dispark
 deutoplasm
-declarer
+declarer 1
 discommoning
 diplosphenal
 dodged
