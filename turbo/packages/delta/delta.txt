@@ -14908,7 +14908,7 @@ disciplelike
 dehydrochlorination 1
 dodecapartite
 dodecaphonic
-diverts
+diverts 1
 dodecaphonism
 demibastion
 dehumidifiers
