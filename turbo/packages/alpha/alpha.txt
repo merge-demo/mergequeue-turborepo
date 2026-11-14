@@ -12787,7 +12787,7 @@ anasazi
 areality
 alternative
 angioblastic
-ampoule
+ampoule 1
 applies
 angiocardiographies 1
 achordate
