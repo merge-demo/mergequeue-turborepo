@@ -13682,7 +13682,7 @@ delectability 2
 dissymmetrically
 danseurs
 discoursive
-dissympathize
+dissympathize 1
 drupal
 dictatorialism
 diligency
