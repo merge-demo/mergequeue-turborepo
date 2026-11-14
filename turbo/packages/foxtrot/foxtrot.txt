@@ -9915,7 +9915,7 @@ fungistatic
 foretells
 fistfuls
 fade 2
-falconry
+falconry 1
 figitidae
 filoplumaceous
 forkbeard
