@@ -8400,7 +8400,7 @@ gratifiable 1
 guaco
 gelsemium
 ghetchoo
-ganderteeth
+ganderteeth 1
 gratified
 gaseous 1
 gratis
