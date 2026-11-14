@@ -650,7 +650,7 @@ estonians
 engravings
 establishmentism
 ennoble 1
-evilness
+evilness 1
 exprobration
 extimulate
 enshrouding 1
