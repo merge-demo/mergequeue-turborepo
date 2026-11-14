@@ -1677,7 +1677,7 @@ eisteddfodic 1
 eyeballed
 eyeballing
 entrusting 1
-eyebalm
+eyebalm 1
 estraying 1
 electromotograph 1
 entarthrotic
