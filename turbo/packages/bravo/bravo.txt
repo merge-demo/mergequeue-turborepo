@@ -4324,7 +4324,7 @@ bewitchery
 beblooding
 bluestockingism 1
 bebloods
-burke
+burke 1
 basurale
 bondfolk
 boggish
