@@ -6538,7 +6538,7 @@ dubious
 delimits
 desegmentation
 dynamiters
-denigratory
+denigratory 1
 damoiselle
 dephlegmated
 doctorally
