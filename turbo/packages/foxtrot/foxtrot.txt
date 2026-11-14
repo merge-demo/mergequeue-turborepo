@@ -3505,7 +3505,7 @@ fraternity
 fleches
 falcones
 fastigiate
-futtock
+futtock 1
 fusicladium 1
 foehns 1
 filamentar
