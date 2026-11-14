@@ -337,7 +337,7 @@ expatiater
 exoduses
 exigible 1
 eaten
-eighty
+eighty 1
 enchantment 1
 empeirema
 epacridaceous
