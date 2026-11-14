@@ -7064,7 +7064,7 @@ granum
 glucosulfone 1
 glycol
 gyroscopes
-grassation 1
+grassation 2
 gendarmery
 globalists
 goosier
@@ -8322,7 +8322,7 @@ grackles
 glittery
 genioglossi
 gulled 1
-gopherroot
+gopherroot 1
 gripy 1
 guamachil
 gulling
