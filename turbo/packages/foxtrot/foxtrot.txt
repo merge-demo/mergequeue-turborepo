@@ -6287,7 +6287,7 @@ floyd 2
 finessed
 fixtureless
 fourb
-fasciculately
+fasciculately 1
 fighting
 flunkyish
 flunkyize 1
