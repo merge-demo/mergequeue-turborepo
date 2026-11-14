@@ -7714,7 +7714,7 @@ artsy
 apposiopestic
 amplifier
 alcoranic
-aff
+aff 1
 alcosol
 armozine
 analyticities
@@ -17651,7 +17651,7 @@ alerted
 aviate 1
 appetite 1
 algaroth
-ateleological
+ateleological 1
 autographist 1
 albizia
 actinobacillosis
