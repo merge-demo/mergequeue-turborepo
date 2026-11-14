@@ -2421,7 +2421,7 @@ adfix
 anthrapyridine 1
 analysts
 antilipase
-aphrite
+aphrite 1
 apantesis
 accus
 ackees 1
