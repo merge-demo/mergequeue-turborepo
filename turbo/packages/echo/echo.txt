@@ -5718,7 +5718,7 @@ exophthalmic
 excusability
 engage
 erraticism
-etymologic
+etymologic 1
 exampless
 equalization 1
 engineers
