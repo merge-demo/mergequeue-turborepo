@@ -2571,7 +2571,7 @@ erucic
 escapeful 1
 ethchlorvynol
 escarmouche 1
-everest
+everest 1
 enhaloed
 embryonate
 epitomising
@@ -5986,7 +5986,7 @@ eurypharyngidae
 eudemon
 equiexcellency
 expanding 1
-epilated
+epilated 1
 enjoinders
 englished
 eucommia
