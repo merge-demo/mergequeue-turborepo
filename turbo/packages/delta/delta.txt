@@ -5975,7 +5975,7 @@ discriminately 1
 dripple
 dismaw
 divorces
-devoteeism
+devoteeism 1
 dispends
 duplicident
 drumlike
