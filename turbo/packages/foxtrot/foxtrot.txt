@@ -5653,7 +5653,7 @@ fuzz
 firking 1
 fountains
 firebrands
-flingy
+flingy 1
 funded
 fiddlestring
 freestyle
