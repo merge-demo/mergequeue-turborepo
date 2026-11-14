@@ -5132,7 +5132,7 @@ fawns
 fructure
 flasker 1
 fibrochondritis
-furless
+furless 1
 flaite
 fayed
 fastuousness

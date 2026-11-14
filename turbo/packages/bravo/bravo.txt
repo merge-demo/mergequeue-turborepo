@@ -7228,7 +7228,7 @@ bromometrical
 berylliosis
 bestench
 bearberry 1
-be
+be 1
 brannigan
 bellbirds
 badmouth
@@ -15845,7 +15845,7 @@ beggarwise
 bibacious 1
 bullied
 balas 1
-beaconing
+beaconing 1
 backlasher
 brokerly 2
 bradykinesia
