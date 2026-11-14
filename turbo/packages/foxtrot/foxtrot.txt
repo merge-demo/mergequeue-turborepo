@@ -10675,7 +10675,7 @@ fitzroy
 feltlike
 fibber 1
 fenestrate
-flocculency
+flocculency 1
 fruitester
 fargood
 fivepence
