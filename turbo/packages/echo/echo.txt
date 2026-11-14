@@ -10034,7 +10034,7 @@ endoperidial
 endogamous
 eterne
 endangerment
-escargots
+escargots 1
 eternisation
 elegious
 extradural
