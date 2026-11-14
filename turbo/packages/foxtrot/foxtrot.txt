@@ -5750,7 +5750,7 @@ furyl
 fulfilling
 flurriedly 2
 faailk
-fluorocarbon
+fluorocarbon 1
 fancied
 faunated
 foreheads 1
