@@ -6319,7 +6319,7 @@ elenchtic
 ensanguine
 eloquent
 enlargingly
-emporium
+emporium 1
 ergotin 1
 eschar
 euchred
