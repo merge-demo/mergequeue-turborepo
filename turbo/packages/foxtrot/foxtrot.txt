@@ -2712,7 +2712,7 @@ forelimbs 1
 fyce
 fusses
 fraela
-folklore
+folklore 1
 faunas
 framing
 feedy
