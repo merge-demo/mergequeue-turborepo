@@ -5207,7 +5207,7 @@ casketed
 caskets
 characterizable
 credens
-casky 1
+casky 2
 clearer
 casking 1
 casks
