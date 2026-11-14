@@ -92,7 +92,7 @@ goop
 gluey 1
 guidelines
 gallops 1
-grutten
+grutten 1
 gadabouts 1
 gualaca
 guanos
@@ -2896,7 +2896,7 @@ glazes 1
 grapy
 gaincope
 gomphoses
-gastrorrhagia
+gastrorrhagia 1
 gruesomeness
 gayety 1
 gadders
