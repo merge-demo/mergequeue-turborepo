@@ -1165,7 +1165,7 @@ electrotyped
 erthling 1
 epaulette
 ejaculators 1
-edriophthalmatous
+edriophthalmatous 1
 educand
 emulsive
 evanished
