@@ -4848,7 +4848,7 @@ depositum
 discriminability
 demonstrations
 doctrinary 1
-derotreme
+derotreme 1
 deflexionize
 decrescence
 daktylon
