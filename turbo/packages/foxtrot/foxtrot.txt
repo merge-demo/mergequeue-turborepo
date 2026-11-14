@@ -8943,7 +8943,7 @@ foursquareness
 faustian
 fourteener
 february
-frangibleness
+frangibleness 1
 froren
 fumaria
 flatirons 1
