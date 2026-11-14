@@ -7816,7 +7816,7 @@ fellen
 findings
 foreplay
 feudally
-fencible
+fencible 1
 flits
 frolicked
 flagellating
