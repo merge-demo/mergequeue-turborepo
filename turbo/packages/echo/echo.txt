@@ -9244,7 +9244,7 @@ ectotropic
 eloquential
 educationalist 1
 extrapleural
-extrapolative
+extrapolative 1
 element
 embryoid
 eyestrain
