@@ -14603,7 +14603,7 @@ deoxyribonucleoprotein
 dismemberment
 demureness
 denotive
-demiurgically
+demiurgically 1
 disastrousness 1
 dysfunction
 damourite
