@@ -13421,7 +13421,7 @@ commodore
 countersecure
 cygninae 1
 companionableness
-cygnus
+cygnus 1
 cigua
 cyl
 comburivorous
