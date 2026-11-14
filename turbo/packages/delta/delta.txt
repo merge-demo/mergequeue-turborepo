@@ -7904,7 +7904,7 @@ dewlapped 3
 deuniting 1
 dewless
 daggled
-dewlike
+dewlike 1
 deeps
 deworming
 deworms

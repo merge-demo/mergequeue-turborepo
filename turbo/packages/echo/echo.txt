@@ -8083,7 +8083,7 @@ extrasyphilitic
 extraordinaries 1
 embrowned
 expressable
-enhedge
+enhedge 1
 epiplasmic
 exhausting
 exdividend
