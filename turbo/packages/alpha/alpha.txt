@@ -24496,7 +24496,7 @@ anticlericalist
 antimoniated
 autoxidation
 autoxidizability
-autoxidizable
+autoxidizable 1
 autoxidize
 accloy
 antepenultimate
