@@ -7177,7 +7177,7 @@ greenthumbed
 geotectonics 1
 guidingly 1
 gynecol 1
-gape 2
+gape 3
 gorgosaurus
 galenism
 gorillalike
