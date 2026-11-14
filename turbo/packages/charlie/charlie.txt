@@ -8877,7 +8877,7 @@ colibacillosis
 chuddars
 charases
 charbonnier
-coadjacently
+coadjacently 1
 coldheartedly
 crumby
 chancellery
