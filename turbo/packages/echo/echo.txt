@@ -2376,7 +2376,7 @@ etherealisation
 excentricity 1
 electroscopes
 ethnotechnics
-epicaridan
+epicaridan 1
 electrodeless
 ectogenetic 1
 energist
