@@ -8609,7 +8609,7 @@ eleutheromania
 equidivision
 epigrammatising 1
 embouchures
-electrovital
+electrovital 1
 espavel 1
 equielliptical 1
 equigranular
@@ -9412,7 +9412,7 @@ enstool
 enantobiosis
 emulgens
 escaper
-embodied
+embodied 1
 enfranchiser
 elaphomyces
 esophagorrhagia 1
