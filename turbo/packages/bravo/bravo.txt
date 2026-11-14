@@ -991,7 +991,7 @@ bathylitic
 biologicohumanistic
 bahisti
 brassards
-betook
+betook 1
 brooming 1
 bronchoscopically
 bindle 1
