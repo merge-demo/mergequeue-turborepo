@@ -7636,7 +7636,7 @@ enterostomy
 esere
 educed 1
 enterogastritis
-exponents
+exponents 1
 epicotyls
 ecca
 enhancement
