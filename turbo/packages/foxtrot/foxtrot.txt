@@ -6881,7 +6881,7 @@ fleyedly
 fauves
 fragmented
 fishback
-fogs
+fogs 1
 fulwa
 fideicommission
 formeret
