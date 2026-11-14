@@ -1710,7 +1710,7 @@ formularies
 falsies 1
 fearingly
 ferineness
-fearless
+fearless 1
 forehammer
 fondlike
 frangible
