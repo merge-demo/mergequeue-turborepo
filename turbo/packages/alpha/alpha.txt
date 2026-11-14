@@ -8208,7 +8208,7 @@ asteria 1
 apogeotropically
 alhenna
 alia
-atavist
+atavist 1
 aln
 alterne
 ahush
