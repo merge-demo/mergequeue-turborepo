@@ -6509,7 +6509,7 @@ endlichite
 entail
 entomophthora
 exponentials
-endurant
+endurant 1
 ended
 endotrachelitis
 expansometer
