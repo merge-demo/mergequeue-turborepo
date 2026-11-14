@@ -23669,7 +23669,7 @@ auxograph
 axlike
 aurify
 aurific
-auriflamme
+auriflamme 1
 authorize
 aurigerous
 aurigraphy
