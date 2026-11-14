@@ -5887,7 +5887,7 @@ giveable
 gluishness
 gashed
 germy 1
-glumes
+glumes 1
 gorman
 gritting 1
 gesnera
