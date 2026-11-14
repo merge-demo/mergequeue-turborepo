@@ -2396,7 +2396,7 @@ ferigee
 fleer 1
 fad
 fleshlessness
-frizettes 1
+frizettes 2
 flakelet
 fistularia
 flavous
