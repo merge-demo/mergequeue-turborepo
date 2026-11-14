@@ -11628,7 +11628,7 @@ fibrous 1
 fylgja
 fosite
 funestal
-forehew
+forehew 1
 fustigatory 1
 fumy
 friendship
