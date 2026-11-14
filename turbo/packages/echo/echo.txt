@@ -8019,7 +8019,7 @@ emetin
 envapour
 emigating 1
 epipanies
-expectorations
+expectorations 1
 endovasculitis
 equuleus 1
 electrodentistry
