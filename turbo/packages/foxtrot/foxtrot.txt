@@ -5267,7 +5267,7 @@ fideicommissa 1
 frostbird 1
 fockle
 ferricyanate
-flavours
+flavours 1
 fimbriate 1
 feelinglessly 1
 fibrilation
