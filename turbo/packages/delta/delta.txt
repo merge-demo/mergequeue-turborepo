@@ -16875,7 +16875,7 @@ drawtongs
 dehumanizes 1
 disacryl
 deaired
-dicyclic
+dicyclic 1
 descamisado
 dataria 1
 dimmish 2
