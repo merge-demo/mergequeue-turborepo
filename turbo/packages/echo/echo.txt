@@ -2412,7 +2412,7 @@ esloign
 ehrwaldite
 executioneress
 electroencephalogram 1
-empeople 1
+empeople 2
 entophytal
 espinel 1
 eucalyptography 1
@@ -7008,7 +7008,7 @@ epiphenomenon
 eundem
 emote
 entrapping
-entrustment
+entrustment 1
 eurygaea
 exchequers
 enterocoela 1
