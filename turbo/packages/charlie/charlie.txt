@@ -7268,7 +7268,7 @@ cycadeoid
 comitatus
 cepe 1
 crossroads
-cepes
+cepes 1
 civ
 conchitis
 clincher 1
