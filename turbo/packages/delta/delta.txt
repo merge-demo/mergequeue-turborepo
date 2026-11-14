@@ -8770,7 +8770,7 @@ depeter
 diestruses 3
 deftness
 dinettes
-diabolized
+diabolized 1
 dansant
 dictations
 dung
