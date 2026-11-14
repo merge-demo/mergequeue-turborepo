@@ -5499,7 +5499,7 @@ draftable
 depended
 darker
 dolichopellic
-dependence
+dependence 1
 desensitizes
 dependingly
 drouthiness 1
