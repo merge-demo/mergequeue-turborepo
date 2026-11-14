@@ -8322,7 +8322,7 @@ grackles
 glittery
 genioglossi
 gulled 1
-gopherroot
+gopherroot 1
 gripy 1
 guamachil
 gulling
