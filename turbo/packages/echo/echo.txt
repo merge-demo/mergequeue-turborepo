@@ -6778,7 +6778,7 @@ entitling
 ecclesioclastic
 entoblastic
 entobronchium
-eviration
+eviration 1
 equitriangular
 ellinge 1
 entocyemate
