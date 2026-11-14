@@ -2215,7 +2215,7 @@ glucolipide 1
 gossipiness 1
 gutturalised
 glucosic
-genghis
+genghis 1
 getters
 gravific
 granth
