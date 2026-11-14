@@ -9373,7 +9373,7 @@ genocide 1
 genesis
 grothine
 grothite 2
-glumiflorae
+glumiflorae 1
 guatoan
 glossarial
 glissandi 2
