@@ -6778,7 +6778,7 @@ entitling
 ecclesioclastic
 entoblastic
 entobronchium
-eviration
+eviration 1
 equitriangular
 ellinge 1
 entocyemate
@@ -9555,7 +9555,7 @@ encincture
 eskimoized 1
 electrolysed
 enthalpy 1
-embeam
+embeam 1
 eupatoriaceous 1
 earls
 eskualdun
