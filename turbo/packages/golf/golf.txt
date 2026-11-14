@@ -10081,7 +10081,7 @@ grobianism
 graecize
 gainings
 gramophonically
-gymnoglossate
+gymnoglossate 1
 guavina
 goldenpert
 guesser
