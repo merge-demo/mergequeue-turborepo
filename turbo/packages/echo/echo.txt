@@ -821,7 +821,7 @@ erythrinidae
 eral 1
 excrescent 1
 extremest
-extradecretal
+extradecretal 1
 encrust
 ectypography
 epitheton
@@ -12844,7 +12844,7 @@ expansive 1
 extoll
 exothecal 1
 emboss
-eccentrics 1
+eccentrics 2
 exothermically
 eloignment
 erythrolysis 1
