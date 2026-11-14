@@ -4745,7 +4745,7 @@ fulmination
 forfeitableness
 follies
 fastuously 1
-fortress
+fortress 1
 forereach
 fieldstrip 1
 fingal
