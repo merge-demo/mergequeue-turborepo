@@ -10624,7 +10624,7 @@ grank 1
 gunstocker
 ganga
 glendale 1
-geronto 1
+geronto 2
 girns
 glimmerous 1
 grillades
