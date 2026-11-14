@@ -6383,7 +6383,7 @@ farmed
 facsimileing
 foppish 1
 farset
-fluorimetric
+fluorimetric 1
 fluorobenzene
 fructifies 1
 frizing 1
