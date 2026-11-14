@@ -2214,7 +2214,7 @@ campshed
 campsheeting
 campsite
 celoms
-compasser
+compasser 1
 campsites
 coronofacial
 cretinizing
