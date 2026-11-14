@@ -4950,7 +4950,7 @@ burdenable
 badiner 1
 bonnne
 brevets 1
-beefburgers
+beefburgers 1
 backchat
 beefeater
 beefeaters
