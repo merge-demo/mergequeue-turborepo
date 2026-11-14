@@ -8217,7 +8217,7 @@ exodontic
 effaceable 2
 extracting
 elydoric
-exaltee
+exaltee 1
 epistasies
 energy
 enhancers
