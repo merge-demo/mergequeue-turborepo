@@ -13513,7 +13513,7 @@ etruscologist
 evaporite
 erythrophagous
 eristic
-endangeitis
+endangeitis 1
 epitomic
 epigrapher
 elinor
