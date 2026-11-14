@@ -12086,7 +12086,7 @@ awakenable
 anaschistic
 anaseismic
 anasitch
-anaerobia
+anaerobia 1
 antifundamentalist
 albite
 auntship
