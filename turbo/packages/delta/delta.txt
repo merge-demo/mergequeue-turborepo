@@ -2090,7 +2090,7 @@ daunts
 disinheritances
 duddies 1
 despoilment
-decameron
+decameron 1
 digraph
 decamethonium 1
 decametric
