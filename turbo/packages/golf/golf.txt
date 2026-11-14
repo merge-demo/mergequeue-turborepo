@@ -6325,7 +6325,7 @@ gofer
 gastrotrich
 gimmer 1
 given
-getspace
+getspace 1
 goldspink 3
 glimmered
 gunmetals
