@@ -12545,7 +12545,7 @@ antipacifist
 anemography 1
 anemographically
 anemologic
-anemometrically
+anemometrically 1
 attenuated
 amanuenses 1
 anemometrographically
