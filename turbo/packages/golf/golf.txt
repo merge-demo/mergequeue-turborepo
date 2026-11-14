@@ -155,7 +155,7 @@ gallicole
 guy
 gentisin 1
 ghats 1
-garrot
+garrot 1
 geometers
 geryon
 galipot
