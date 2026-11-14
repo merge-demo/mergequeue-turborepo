@@ -7264,7 +7264,7 @@ dirtiness
 drownding
 despondency
 drupose
-denegate
+denegate 1
 dessa
 deplaned
 dipneumona 1
