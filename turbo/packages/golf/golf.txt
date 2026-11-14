@@ -78,7 +78,7 @@ gastrorrhaphy
 gandum
 gradationately 1
 galliums 1
-grayish
+grayish 1
 geometdecrne
 giddap
 glowing 1
