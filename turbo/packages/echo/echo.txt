@@ -13404,7 +13404,7 @@ empire
 earlship
 expressage
 edacities 1
-escalates 1
+escalates 2
 excitatory
 evilmouthed 1
 emaciates 1
