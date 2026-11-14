@@ -11628,7 +11628,7 @@ bushwhackers 1
 becomma
 badgeman
 baggageman
-budgeted
+budgeted 1
 bisontine
 boarded 2
 besmudged
