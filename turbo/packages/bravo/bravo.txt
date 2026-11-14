@@ -16898,7 +16898,7 @@ bungle
 baret
 betorn
 birostrated 2
-baronages
+baronages 1
 balneographer
 bedimpling 1
 bootheel 1
