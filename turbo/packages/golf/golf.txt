@@ -1039,7 +1039,7 @@ ginnle
 gastroenteralgia
 gloriette
 galvanoscopy
-geodist 1
+geodist 2
 grasp
 golp
 glanced 1
