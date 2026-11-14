@@ -5477,7 +5477,7 @@ globalizing
 growls 1
 groggeries 1
 gyrovagi
-gently
+gently 1
 grassfinch
 griefs
 gauffers 1
