@@ -8646,7 +8646,7 @@ fustiest
 ferreling
 footcandle
 fraternal
-furlong
+furlong 1
 fissility
 frankhearted
 favoress 1

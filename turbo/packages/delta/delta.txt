@@ -2481,7 +2481,7 @@ doddered
 disaccommodation
 dove 1
 dodders
-deactivating
+deactivating 1
 diminutions
 declarations
 decisions 1
