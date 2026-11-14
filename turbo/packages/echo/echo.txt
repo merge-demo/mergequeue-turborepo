@@ -6010,7 +6010,7 @@ estampedero
 erosion
 ejects
 electroethereal
-earns
+earns 1
 eluding
 extrapituitary
 emptily
