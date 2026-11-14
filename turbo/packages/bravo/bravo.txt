@@ -14110,7 +14110,7 @@ bald
 bombycidae
 boffin
 brachydont 1
-brachydontism
+brachydontism 1
 brachyfacial
 brachyglossal
 biblicistic
