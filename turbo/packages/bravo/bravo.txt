@@ -3207,7 +3207,7 @@ biperforate 2
 branchiomerism
 barbecue
 busine
-berserk
+berserk 1
 birdieing
 basial
 belove 2
