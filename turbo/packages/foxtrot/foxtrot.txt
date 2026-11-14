@@ -5596,7 +5596,7 @@ formerness
 fourgons 1
 flight
 frusla
-fortitude
+fortitude 1
 fraik
 foret
 fleysome
