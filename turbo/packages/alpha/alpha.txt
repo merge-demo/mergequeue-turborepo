@@ -1404,7 +1404,7 @@ accepts
 attractants
 apellous
 aproned
-accessary
+accessary 1
 accessaries
 anesthesiometer
 accessarily 2
@@ -12086,7 +12086,7 @@ awakenable
 anaschistic
 anaseismic
 anasitch
-anaerobia
+anaerobia 1
 antifundamentalist
 albite
 auntship
