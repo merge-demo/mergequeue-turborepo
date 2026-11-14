@@ -13594,7 +13594,7 @@ decant
 dismeasurable
 deuterotoky
 diplomacies
-dilambdodont
+dilambdodont 1
 disagreeably
 demicritic 1
 drawnet
