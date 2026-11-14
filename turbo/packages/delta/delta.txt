@@ -262,7 +262,7 @@ dihexahedron
 degermed
 doradilla
 daguerreotyped
-daguerreotyping
+daguerreotyping 1
 dissociations
 digitonin
 dreadnaught 1
@@ -14603,7 +14603,7 @@ deoxyribonucleoprotein
 dismemberment
 demureness
 denotive
-demiurgically
+demiurgically 1
 disastrousness 1
 dysfunction
 damourite
