@@ -4950,7 +4950,7 @@ dename
 denaries
 denarinarii 1
 deluder
-dropshots
+dropshots 1
 denaro
 dawdy
 dejectedness
