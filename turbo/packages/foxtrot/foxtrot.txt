@@ -7307,7 +7307,7 @@ foraneen
 ferrateen 1
 fistular
 ferocious
-fluoridising
+fluoridising 1
 fairyfloss
 forts
 frizzles
