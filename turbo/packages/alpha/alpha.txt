@@ -19367,7 +19367,7 @@ argal
 assurd
 apiin
 acontius 1
-aho
+aho 1
 autopelagic
 assure
 arithmetics 1
