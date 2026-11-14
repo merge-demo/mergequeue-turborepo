@@ -3170,7 +3170,7 @@ epiplastral
 exhaustiveness
 epitra 1
 emmarble
-elaborate 1
+elaborate 2
 evinced
 egghead
 entertainingness
