@@ -7177,7 +7177,7 @@ detecter
 detecters 1
 decemvirate
 duffels
-digitate
+digitate 1
 definers
 dolorous
 damnified 1
