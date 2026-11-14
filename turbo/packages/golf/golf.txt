@@ -1039,7 +1039,7 @@ ginnle
 gastroenteralgia
 gloriette
 galvanoscopy
-geodist 1
+geodist 2
 grasp
 golp
 glanced 1
@@ -6885,7 +6885,7 @@ grandeval
 gondite
 geniohyoglossal 1
 gonosome
-genitourinary 1
+genitourinary 2
 goodliness
 grassflower
 geologise 1
