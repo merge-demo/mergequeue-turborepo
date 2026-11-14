@@ -25884,7 +25884,7 @@ comforter
 corseque
 contralti
 carraran
-clypeate
+clypeate 1
 corkscrewed
 climax
 chloe

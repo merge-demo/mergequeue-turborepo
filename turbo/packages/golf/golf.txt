@@ -3630,7 +3630,7 @@ gangwa
 georgie
 gillnets 1
 goetae 1
-gigantine
+gigantine 1
 ghizite
 governorships
 gadgeteers 2
@@ -10329,7 +10329,7 @@ geullah
 gabari
 gravemaster
 geogonical
-grammaticism
+grammaticism 1
 greenwax 2
 gelatinigerous
 grapestalk
