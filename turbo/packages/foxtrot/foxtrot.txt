@@ -3748,7 +3748,7 @@ fulls
 fally
 fascinatingly 1
 fluxing
-francize
+francize 1
 fascistically
 fettlings
 fiducial

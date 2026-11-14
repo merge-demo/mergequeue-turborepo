@@ -4445,7 +4445,7 @@ demicuirass
 doxologies
 defused 1
 drinkableness
-drumloidal
+drumloidal 1
 destruction
 dialyzer
 demiculverin 2
