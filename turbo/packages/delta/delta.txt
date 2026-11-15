@@ -7270,7 +7270,7 @@ deplaned
 dipneumona 1
 demifarthing
 decarbonating
-deckings
+deckings 1
 dishevely 1
 durene
 dampproof
