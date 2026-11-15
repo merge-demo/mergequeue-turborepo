@@ -14964,7 +14964,7 @@ doffing 1
 demiracle
 diaphanometry 1
 dhikr
-disconsonancy
+disconsonancy 1
 drearisomely 2
 dragonkind
 dogal 1
