@@ -18594,7 +18594,7 @@ coincorporate 1
 condemnation
 coindicant
 coiner 1
-comparograph
+comparograph 1
 comme
 concoction 1
 coyness 1
