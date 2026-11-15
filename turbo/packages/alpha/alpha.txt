@@ -9794,7 +9794,7 @@ abhorrently 1
 amala
 approximately
 avocatory
-abandonedly
+abandonedly 1
 amalekite
 albertina
 appanages
