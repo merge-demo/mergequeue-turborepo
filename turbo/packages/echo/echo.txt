@@ -4417,7 +4417,7 @@ encaptivate
 essence
 expectorate
 eternized
-electrophysiologic
+electrophysiologic 1
 excentrical 1
 entertainments
 endenizen
