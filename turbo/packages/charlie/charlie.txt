@@ -17546,7 +17546,7 @@ coccal
 conducible
 camelot
 coccerin
-corr
+corr 1
 coccic
 coccidae 1
 cookies 1
