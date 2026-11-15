@@ -10376,7 +10376,7 @@ dd
 dentatocrenate
 dotards
 djibouti
-dioxime
+dioxime 1
 diverges
 dioxindole
 decoyers
