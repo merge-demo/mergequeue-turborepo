@@ -1359,7 +1359,7 @@ forwardation
 fatiferous 1
 feaster
 flavorfully
-florentine
+florentine 1
 fatigable
 favorable
 fatigableness
