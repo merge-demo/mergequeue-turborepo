@@ -295,7 +295,7 @@ dayanim
 daybeacon
 detrudes
 dealbate
-daybed
+daybed 1
 devchar
 disembowelment
 demarcature
