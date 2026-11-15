@@ -21847,7 +21847,7 @@ aecial
 alaki
 advowson
 auricula
-assiette
+assiette 1
 assify
 antismut
 alpen 1
