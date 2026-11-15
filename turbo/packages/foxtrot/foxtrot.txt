@@ -7917,7 +7917,7 @@ ferreled
 flacks 1
 fidejussionary
 filmcards 1
-fubbing
+fubbing 1
 fistula
 foreshock
 fluidifier
