@@ -14296,7 +14296,7 @@ anhedonia 1
 anthelix
 archaeomagnetism
 anthem
-anthemas
+anthemas 1
 anthemata
 agavose
 amugis
