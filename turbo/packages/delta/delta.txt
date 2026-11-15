@@ -4809,7 +4809,7 @@ detecting
 demonography
 denature
 dramseller
-deactivator
+deactivator 1
 dismality
 dissimilation
 dissecting 1
