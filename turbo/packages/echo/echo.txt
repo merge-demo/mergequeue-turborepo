@@ -4163,7 +4163,7 @@ exporter
 elaeosia 2
 evadne
 engraphy
-eyeroot
+eyeroot 1
 escaloped 1
 echiurida
 enacted
