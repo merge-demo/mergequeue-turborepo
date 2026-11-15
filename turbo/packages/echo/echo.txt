@@ -14074,7 +14074,7 @@ exclude 1
 enquarter 1
 extracurriculum
 entablature 1
-epilobiaceae
+epilobiaceae 1
 encephalomata
 enfect
 effortfulness
