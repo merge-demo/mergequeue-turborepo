@@ -6203,7 +6203,7 @@ explicableness
 etiologic
 enological 1
 effluxion 1
-execs
+execs 1
 ellipsoid
 exodist
 enophthalmus
