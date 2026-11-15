@@ -3062,7 +3062,7 @@ etherean
 epicenter
 elasticities 1
 ethicizing
-evolvements 1
+evolvements 2
 entocuniform
 electioneered
 ella
