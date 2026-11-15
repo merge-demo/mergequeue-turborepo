@@ -14066,7 +14066,7 @@ extravaganza
 eutectoid
 extravaginal 1
 electrify 1
-exteroceptist
+exteroceptist 1
 extemporally
 exorcists
 echelonment
