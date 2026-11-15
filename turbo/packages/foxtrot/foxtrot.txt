@@ -2565,7 +2565,7 @@ finlike 1
 faddishness 1
 feinting
 fumes 1
-forechase
+forechase 1
 fogramity
 flongs
 ferrocyanate 1
