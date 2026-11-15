@@ -18522,7 +18522,7 @@ comparition 1
 cankerflower 1
 cataphyllary
 contingents
-considerateness
+considerateness 1
 clypeole
 coif
 ceratite
