@@ -7917,7 +7917,7 @@ devilries
 distilery
 dowitch 1
 didapper
-demur
+demur 1
 doublets
 delawarean
 dex
