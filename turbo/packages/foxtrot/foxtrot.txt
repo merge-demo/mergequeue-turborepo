@@ -4292,7 +4292,7 @@ forbearantly
 fumaryl 1
 fennig
 forficulate
-freshest
+freshest 1
 fease 2
 florescence
 fluyt
