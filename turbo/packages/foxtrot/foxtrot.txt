@@ -10026,7 +10026,7 @@ franchiser 1
 flor
 fryer
 foollike 1
-flans
+flans 1
 fringehead
 fringelet
 fruitier
