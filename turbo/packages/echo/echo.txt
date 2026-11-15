@@ -1305,7 +1305,7 @@ exhilarated
 exumbrellar
 effect
 endocardiac
-exopeptidase
+exopeptidase 1
 ecclesiae 2
 effective
 euryphagous
