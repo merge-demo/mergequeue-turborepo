@@ -14897,7 +14897,7 @@ duodenojejunostomy
 divata
 deploys
 disanimating
-destruct
+destruct 1
 dictyonina
 drogue
 disencrease
