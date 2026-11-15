@@ -184,7 +184,7 @@ fusinite 1
 flashily
 feuar
 foreignism
-florin
+florin 1
 folletage
 footstock
 freedwoman
