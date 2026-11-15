@@ -12555,7 +12555,7 @@ disinheritable
 diuturnity
 disinheritance 1
 dinaphthyl
-deirdre
+deirdre 1
 darac
 ditrematous
 dhole
