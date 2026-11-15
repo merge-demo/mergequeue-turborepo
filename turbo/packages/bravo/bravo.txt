@@ -2538,7 +2538,7 @@ buenos
 bassetite
 bottonhook 1
 buckler 1
-barguest
+barguest 1
 barguests
 buzylene
 baria
