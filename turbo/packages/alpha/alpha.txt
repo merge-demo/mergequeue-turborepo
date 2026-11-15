@@ -22050,7 +22050,7 @@ ascriptitii
 asswages
 atrebates 1
 asepticism
-astable
+astable 1
 aedeagus
 astay
 anisometropic 1
