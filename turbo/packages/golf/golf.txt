@@ -7695,7 +7695,7 @@ gin
 girba
 geniculate
 glasseye 1
-glycuresis
+glycuresis 1
 glaciolacustrine
 gashly 1
 gruiform
