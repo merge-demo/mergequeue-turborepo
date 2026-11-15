@@ -7490,7 +7490,7 @@ estall
 eophytic 1
 endited 1
 eastmost
-electrosynthesis
+electrosynthesis 1
 epibatholithic
 electrodepositor 1
 ensignhood 1
