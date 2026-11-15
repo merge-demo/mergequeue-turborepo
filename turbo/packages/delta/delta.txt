@@ -1537,7 +1537,7 @@ delphinium
 dextrously
 dicranoid
 doubtfulness 1
-deactivation
+deactivation 1
 deactivators 2
 distressedness
 doublure
