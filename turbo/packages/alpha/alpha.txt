@@ -11686,7 +11686,7 @@ anacrogynae 1
 amba
 anthropometrical 1
 anacrogynous
-accents 1
+accents 2
 anacrotic
 altricial
 anacruses
@@ -22050,7 +22050,7 @@ ascriptitii
 asswages
 atrebates 1
 asepticism
-astable
+astable 1
 aedeagus
 astay
 anisometropic 1
