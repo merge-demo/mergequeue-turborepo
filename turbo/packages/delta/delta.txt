@@ -15355,7 +15355,7 @@ digitipinnate 1
 dilemmas
 distinctions
 dispergated
-daudit
+daudit 1
 decrystallization
 darbyite
 domesdays
