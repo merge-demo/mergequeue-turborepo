@@ -17414,7 +17414,7 @@ cobaea
 corbeil
 cotters 1
 comb
-cobalt
+cobalt 1
 cobaltamine
 complanation
 craninia
