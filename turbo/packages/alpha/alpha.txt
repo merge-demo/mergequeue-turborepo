@@ -18368,7 +18368,7 @@ agromyzidae
 adcraft
 anosognosia
 araire
-amphigory
+amphigory 1
 appendage
 araise
 aronia
