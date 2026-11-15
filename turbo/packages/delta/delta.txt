@@ -9503,7 +9503,7 @@ drunkest
 digitalin 1
 deputationize
 dispergator
-digitated
+digitated 1
 demissly
 darkmans
 doneness
