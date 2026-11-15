@@ -2949,7 +2949,7 @@ cantharides
 coation
 clip
 cantharidian
-cantharidize
+cantharidize 1
 cantharidized
 cantharus
 clotter
