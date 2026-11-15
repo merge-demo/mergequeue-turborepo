@@ -21847,7 +21847,7 @@ aecial
 alaki
 advowson
 auricula
-assiette
+assiette 1
 assify
 antismut
 alpen 1
@@ -22315,7 +22315,7 @@ astrictive 1
 astrictively
 axialities
 autodynamic 1
-antal
+antal 1
 astride
 averah
 antefixal 1
