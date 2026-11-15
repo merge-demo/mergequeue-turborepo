@@ -4389,7 +4389,7 @@ gazangabin
 globigerinidae 1
 gynura 1
 goyazite 2
-gadsman
+gadsman 1
 glucuronide 1
 gobby 1
 giobertite
