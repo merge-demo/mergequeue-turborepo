@@ -2682,7 +2682,7 @@ fervence
 ferventness
 fishify 1
 fuminess 1
-flamant 1
+flamant 2
 flambe 1
 faithing
 fungused
