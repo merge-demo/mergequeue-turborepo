@@ -22529,7 +22529,7 @@ conjunctivas
 caslon
 clings 1
 conjunctively
-cedis
+cedis 1
 chersonese
 chimbleys
 cheekful
