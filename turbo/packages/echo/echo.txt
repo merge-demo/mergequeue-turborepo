@@ -9234,7 +9234,7 @@ embryogenesis
 eaters
 etruscans 1
 erythrozyme
-enweaved
+enweaved 1
 entrant
 extirpate
 evocators
