@@ -12099,7 +12099,7 @@ doorknobs
 dialogism
 dp
 deutoscolex
-deescalates
+deescalates 1
 dorbie 1
 disparager
 delusion
