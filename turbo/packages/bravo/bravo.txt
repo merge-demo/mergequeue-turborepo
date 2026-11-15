@@ -11718,7 +11718,7 @@ ballock
 broadbill 1
 bindles
 bacteriotrypsin
-beerbelly 1
+beerbelly 2
 bobbejaan 1
 bungstarter
 bucket
