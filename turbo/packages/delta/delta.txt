@@ -750,7 +750,7 @@ dandify
 dissipatedness
 dimmit
 dispeopler 1
-denumerant
+denumerant 1
 douceness
 discotheques
 didelphia
