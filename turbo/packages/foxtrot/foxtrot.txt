@@ -5595,7 +5595,7 @@ fascicled
 formerness
 fourgons 1
 flight
-frusla
+frusla 1
 fortitude 1
 fraik
 foret
