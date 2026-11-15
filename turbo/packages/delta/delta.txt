@@ -13464,7 +13464,7 @@ differentia
 disrespectable
 disrespecter
 disrespective
-decantherous
+decantherous 1
 dishabited
 disrest 1
 disillusionment
