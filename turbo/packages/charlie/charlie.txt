@@ -2949,7 +2949,7 @@ cantharides
 coation
 clip
 cantharidian
-cantharidize
+cantharidize 1
 cantharidized
 cantharus
 clotter
@@ -22655,7 +22655,7 @@ cust
 connotative
 connotatively
 counterextend
-connote
+connote 1
 crymotherapy
 connoted
 connoting
@@ -30030,7 +30030,7 @@ crounotherapy
 cebur
 crushers
 cagy
-croupe
+croupe 1
 cabochons
 crouperbush
 compulsions 1
