@@ -3525,7 +3525,7 @@ captaincy
 captaincies
 caprioled 1
 captainry
-captainship
+captainship 1
 counterpetition
 communistically
 chatchkas
