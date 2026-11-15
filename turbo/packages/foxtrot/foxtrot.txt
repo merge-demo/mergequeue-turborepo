@@ -10026,7 +10026,7 @@ franchiser 1
 flor
 fryer
 foollike 1
-flans
+flans 1
 fringehead
 fringelet
 fruitier
@@ -10132,7 +10132,7 @@ frithstool
 fritniency 1
 fare 1
 foreknee
-fe
+fe 1
 fulciform
 fortuitus
 foreheaded
