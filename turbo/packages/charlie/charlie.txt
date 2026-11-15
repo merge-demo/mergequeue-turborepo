@@ -963,7 +963,7 @@ calamander
 catti
 calamansi 1
 calamar
-calamary
+calamary 1
 calamariaceous
 centrifugalized 1
 calamarmar
