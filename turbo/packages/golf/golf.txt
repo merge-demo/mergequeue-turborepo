@@ -6758,7 +6758,7 @@ gentlemanism
 goodwill
 gibel
 gravilea
-glycosyls
+glycosyls 1
 gonochorismal 1
 geryonia 1
 graze 1
