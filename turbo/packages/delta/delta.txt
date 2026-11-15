@@ -5561,7 +5561,7 @@ decadents
 dephlegmation
 dastards
 dephlegmedness 1
-dephlogisticate
+dephlogisticate 1
 dana
 dess
 detache 1
