@@ -7035,7 +7035,7 @@ evidencive 1
 environment
 embolic
 eminence
-entwines
+entwines 1
 epinikian
 enzymolytic
 encompassed
