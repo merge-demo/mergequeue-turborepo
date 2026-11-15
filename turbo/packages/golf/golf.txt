@@ -5328,7 +5328,7 @@ geoplana
 gowan
 glossily
 giusto 1
-girdle 2
+girdle 3
 gynandromorphic
 goodtemperedness
 glimmer
@@ -9703,7 +9703,7 @@ grievant 1
 goldeneyes
 goodwills
 gargantuan
-guidonian
+guidonian 1
 georgiana
 gandurah
 greyhounds
