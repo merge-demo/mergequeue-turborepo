@@ -462,7 +462,7 @@ glandlike
 garliclike
 gloating
 gaping
-galeid
+galeid 1
 galantuomo
 gyms
 gemmation
