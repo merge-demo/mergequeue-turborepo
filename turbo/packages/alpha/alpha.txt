@@ -19166,7 +19166,7 @@ arclike
 arcocentrum
 anthemene
 actualism
-aspread
+aspread 1
 agnostically
 arcograph
 astrophysicist
