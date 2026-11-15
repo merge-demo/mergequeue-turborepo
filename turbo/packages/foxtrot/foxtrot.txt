@@ -472,7 +472,7 @@ feateous
 fumble 1
 foreclosures
 fleetful
-fuseau
+fuseau 1
 fakeer
 fissiparism
 fretting
