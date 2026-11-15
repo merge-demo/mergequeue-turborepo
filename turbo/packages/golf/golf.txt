@@ -851,7 +851,7 @@ goban 1
 genistin
 granulater 1
 geonegative
-gamboled
+gamboled 1
 gillar
 groof
 goethe
