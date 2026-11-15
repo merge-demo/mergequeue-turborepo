@@ -16033,7 +16033,7 @@ bronchorrhaphy 1
 bronchorrhea
 bronchos
 bogged
-bronchoscopic
+bronchoscopic 1
 benempted
 breastsummer 1
 bronchoscopist
