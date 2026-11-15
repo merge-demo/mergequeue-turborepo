@@ -15505,7 +15505,7 @@ almshouse 2
 appendicularian
 aramidae
 antimonarchally
-ardelia
+ardelia 1
 auxochromic
 audivise
 armchaired
