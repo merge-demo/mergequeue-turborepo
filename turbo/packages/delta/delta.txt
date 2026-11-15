@@ -18599,7 +18599,7 @@ dusters
 desperadoism
 dustheap
 dedo 2
-daincha
+daincha 1
 dogana
 dustless 1
 droguet 1
