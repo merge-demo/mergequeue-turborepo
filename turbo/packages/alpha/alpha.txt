@@ -15505,7 +15505,7 @@ almshouse 2
 appendicularian
 aramidae
 antimonarchally
-ardelia
+ardelia 1
 auxochromic
 audivise
 armchaired
@@ -16584,7 +16584,7 @@ arear
 apathogenic 1
 almoners 1
 aouad
-airting
+airting 1
 affret
 antlions
 antorbital 1
