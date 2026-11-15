@@ -11483,7 +11483,7 @@ fairleader
 flays 1
 froggery
 formular
-fuzzle
+fuzzle 1
 foothill
 fisticuffery
 foredescribe 1
