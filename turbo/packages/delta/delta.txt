@@ -8201,7 +8201,7 @@ diadkokinesia
 diadochi 1
 ductible
 depigment
-deossify
+deossify 1
 dados
 dipus
 disspreading
