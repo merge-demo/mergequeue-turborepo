@@ -5132,7 +5132,7 @@ gunroom 1
 gangliglions
 gumboots
 gracility
-geognosist
+geognosist 1
 gleamily
 gabble
 gharial
