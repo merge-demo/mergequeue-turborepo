@@ -891,7 +891,7 @@ amphivasal
 angiohypertonia 1
 amphineurous
 aeronomy
-alachah
+alachah 1
 akroterion
 audiometric
 apogeotropic
