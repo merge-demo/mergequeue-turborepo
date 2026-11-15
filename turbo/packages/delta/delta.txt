@@ -10223,7 +10223,7 @@ dermoskeleton
 distaste
 doura 1
 dutch
-denitrator
+denitrator 1
 dryops
 dositheans 1
 differentialize
