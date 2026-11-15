@@ -3076,7 +3076,7 @@ ellenyard 1
 enshrine
 equilater
 emetia 1
-exhaustible
+exhaustible 1
 excreters
 exor
 esthetes 1
