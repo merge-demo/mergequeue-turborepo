@@ -9170,7 +9170,7 @@ ernes
 erode
 erodent
 extradite
-eirenic
+eirenic 1
 erodes
 edgeless
 exterminatory

@@ -4457,7 +4457,7 @@ downtrend
 discircumspection
 demies
 dosimetric
-demifigure
+demifigure 1
 disinflated 1
 downdraught
 debentureholder
