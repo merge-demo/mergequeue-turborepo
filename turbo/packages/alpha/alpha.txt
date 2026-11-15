@@ -3801,7 +3801,7 @@ aedility 1
 afer 1
 adiaphorist
 alamo 1
-airframes
+airframes 1
 adiaphoron
 anisopterous
 adiated
