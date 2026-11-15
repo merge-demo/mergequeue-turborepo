@@ -3953,7 +3953,7 @@ carburizes
 chattelize
 cruster
 carburometer
-chinee
+chinee 1
 carcajou
 carcake
 carcanet
