@@ -12411,7 +12411,7 @@ entrees
 earlduck
 enthrones 1
 evilhearted
-exonerations
+exonerations 1
 ectypes 1
 enemies 1
 exporting
