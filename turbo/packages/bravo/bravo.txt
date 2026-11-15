@@ -15747,7 +15747,7 @@ betorcin
 besuit 1
 blithesomeness
 brocardic
-biaxially
+biaxially 1
 bardee
 brocatelle 1
 beowulf 1
