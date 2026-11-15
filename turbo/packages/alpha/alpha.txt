@@ -2377,7 +2377,7 @@ acyloxy
 adamances
 autosymbolic
 abortionist
-adjection
+adjection 1
 acrospired
 anticritically
 asseverates

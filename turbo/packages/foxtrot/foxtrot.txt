@@ -4899,7 +4899,7 @@ flambeau 1
 foamier 2
 fossilist
 finisher
-flatterer
+flatterer 1
 floreat
 faddism 2
 forbearers
