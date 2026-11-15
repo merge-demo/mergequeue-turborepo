@@ -1298,7 +1298,7 @@ escuages
 explicatively
 ericophyte
 efface
-equalized
+equalized 1
 effacers
 ellipsis
 exhilarated
