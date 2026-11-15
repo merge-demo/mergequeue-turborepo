@@ -2691,7 +2691,7 @@ decorating
 daukin
 decuple
 dont
-discounsel
+discounsel 1
 deedful 1
 dassy
 dcor
