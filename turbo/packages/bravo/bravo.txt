@@ -10353,7 +10353,7 @@ bladewise
 bladygrass 1
 baluchithere
 bisme
-bedrail 1
+bedrail 2
 blennostasis
 battailant
 bucayo
