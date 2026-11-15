@@ -13263,7 +13263,7 @@ bolti
 begloze
 barysphere
 buffbar
-bedevil
+bedevil 1
 bogomil
 bosset
 barebacked
