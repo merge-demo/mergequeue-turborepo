@@ -8786,7 +8786,7 @@ frakfurt 1
 fleeringly
 fossillike 1
 foozles
-foolscap
+foolscap 1
 fictile
 fossilogy 1
 firmest
