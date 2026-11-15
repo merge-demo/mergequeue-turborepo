@@ -15650,7 +15650,7 @@ dictionary
 describer 1
 doorweed
 diem
-doozers
+doozers 1
 dasystephana
 dowieism
 didascaliae
