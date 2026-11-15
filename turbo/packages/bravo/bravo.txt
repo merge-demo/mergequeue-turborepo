@@ -14937,7 +14937,7 @@ butterflylike
 breastbeam
 bungerly
 bitthead
-burgh
+burgh 1
 breaster
 breastfast 1
 bura
