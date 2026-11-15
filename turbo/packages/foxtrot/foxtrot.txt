@@ -853,7 +853,7 @@ fronted
 fingermark
 finestill
 fluidizing
-freckened
+freckened 1
 freedoot
 forebows 2
 free

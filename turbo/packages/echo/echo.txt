@@ -12891,7 +12891,7 @@ engrace
 egoism
 endsheet
 emprizes
-excommunicating
+excommunicating 1
 elvish 1
 eserines
 extorting 1
