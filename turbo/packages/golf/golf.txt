@@ -1816,7 +1816,7 @@ golandause
 grushie
 goulash 1
 granat
-gratility
+gratility 1
 gaggling
 gouts 1
 gemmiparity 1
@@ -2724,7 +2724,7 @@ groundmass
 glozing
 gryllidae 1
 genitor
-gullyhole
+gullyhole 1
 gauntry 1
 gripeful
 gorlois
