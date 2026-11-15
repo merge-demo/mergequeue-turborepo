@@ -9101,7 +9101,7 @@ goading
 gratings
 glaiket
 gareh
-galvanometric
+galvanometric 1
 gaffers
 grammaticalness
 gazeful
