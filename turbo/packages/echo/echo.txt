@@ -8673,7 +8673,7 @@ exfoliate
 encharging
 episcleritis
 earth
-epiglottides
+epiglottides 1
 emendations
 equipoise
 endophyllous
