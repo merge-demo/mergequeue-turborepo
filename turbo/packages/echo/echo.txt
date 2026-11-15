@@ -1604,7 +1604,7 @@ egomism
 eumenorrhea
 ephorship 1
 evolutility
-epibiotic
+epibiotic 1
 embroilment
 egotistic
 exscind
