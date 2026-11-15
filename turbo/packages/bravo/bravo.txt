@@ -14937,7 +14937,7 @@ butterflylike
 breastbeam
 bungerly
 bitthead
-burgh
+burgh 1
 breaster
 breastfast 1
 bura
@@ -17479,7 +17479,7 @@ butic
 bena 1
 buprestis
 belat 1
-brob
+brob 1
 briskening
 bragwort
 biteless 1
