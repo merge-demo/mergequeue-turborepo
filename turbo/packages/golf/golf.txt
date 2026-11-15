@@ -7808,7 +7808,7 @@ geophone 1
 gegg
 groaners
 glutter
-globs
+globs 1
 graphospasm 1
 gerents
 gulaman
