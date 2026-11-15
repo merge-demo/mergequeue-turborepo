@@ -5120,7 +5120,7 @@ evanishment
 endoconidia
 edificate
 epiplanktonic
-encrustment
+encrustment 1
 elegits
 ember
 elaeoblast
