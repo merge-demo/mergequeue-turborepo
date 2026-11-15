@@ -3343,7 +3343,7 @@ disinhuming
 darer
 deflecting
 deflectionize
-dampnesses
+dampnesses 1
 deforesting 1
 daphnaceae
 diamante
