@@ -12795,7 +12795,7 @@ chunkiness
 chunks
 chuntered
 chrysotherapy
-chupatty
+chupatty 1
 crases 1
 countermanifesto
 crookshouldered
