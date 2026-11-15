@@ -19637,7 +19637,7 @@ arillate
 affricative
 abwatts
 arillus
-ampere
+ampere 1
 aecioteliospore
 arils
 acmesthesia
