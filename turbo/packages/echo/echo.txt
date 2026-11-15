@@ -4300,7 +4300,7 @@ epicarides 1
 ejectment
 exaltedness
 electrochemical 1
-esodic
+esodic 1
 electromobile
 entangle
 exosmoses
