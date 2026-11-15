@@ -9598,7 +9598,7 @@ dihybridism
 dihybrids
 downgraded
 disfunctions
-dupers
+dupers 1
 draconin
 duplicable
 devastations
