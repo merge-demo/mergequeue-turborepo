@@ -1772,7 +1772,7 @@ euglenales
 evitation
 everliving
 euphonous 1
-effractor
+effractor 1
 escalloping 1
 epauleted
 eyesight
