@@ -11840,7 +11840,7 @@ discusses
 disciplinate
 defigure
 discussion 1
-dominations
+dominations 1
 drumfires 1
 dispels
 disulphone
