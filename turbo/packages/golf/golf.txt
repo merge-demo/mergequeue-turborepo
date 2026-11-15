@@ -9145,7 +9145,7 @@ glavering
 glaucomas 1
 gastrodiaphanoscopy
 gradine 2
-goniometrically
+goniometrically 1
 grippiest
 granulating 1
 gluttei
