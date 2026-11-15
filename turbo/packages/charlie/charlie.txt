@@ -22816,7 +22816,7 @@ caffeine
 cotyledonoid 1
 chelonid
 caulicles
-consentable
+consentable 1
 consentaneous
 consentaneousness
 cryptozygy
