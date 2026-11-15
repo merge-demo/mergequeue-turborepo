@@ -7780,7 +7780,7 @@ excipular
 encyclopaedize
 engjateigur
 excircle
-evanescence
+evanescence 1
 epigastria 1
 engagement
 embiotocidae
