@@ -13433,7 +13433,7 @@ eventuality
 expressionlessness
 etchimin
 expresso
-embitterer
+embitterer 1
 emeriti 1
 erogate
 ethnodicy
