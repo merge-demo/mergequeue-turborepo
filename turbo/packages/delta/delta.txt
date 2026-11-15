@@ -11595,7 +11595,7 @@ dambonite 1
 dashiki
 debuts
 dishabit 1
-defeminize
+defeminize 1
 discontinuee 1
 disprepare
 daggletail 1
