@@ -7604,7 +7604,7 @@ forefinger
 figary 1
 fixed
 fritillaries
-forego
+forego 1
 floruits
 faeculence
 foreimagination
