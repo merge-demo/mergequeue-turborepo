@@ -6519,7 +6519,7 @@ enwrapt
 epaenetic
 entanglements
 extraplanetary
-egophonic
+egophonic 1
 empanel
 eatings
 entasis
