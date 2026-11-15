@@ -12583,7 +12583,7 @@ alogia
 afterdischarge
 appositionally
 anthribid
-anencephalic
+anencephalic 1
 angka
 alulae 1
 archpatriarch
@@ -19723,7 +19723,7 @@ arteriorrhexis
 actinocutitis 1
 antimartyr
 aristotelean
-aristotelianism 1
+aristotelianism 2
 acicula
 aristotype
 aristotle
