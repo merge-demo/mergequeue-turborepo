@@ -12039,7 +12039,7 @@ crusca
 caruage
 chockler
 casal 1
-chorusmaster
+chorusmaster 1
 calapite
 chorussed
 chorusses
