@@ -2963,7 +2963,7 @@ disengage
 diabolos 1
 deeding
 directorates
-deedless
+deedless 1
 depreciant 1
 discants 1
 deejay
