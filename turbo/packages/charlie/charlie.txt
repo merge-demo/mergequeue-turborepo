@@ -22655,7 +22655,7 @@ cust
 connotative
 connotatively
 counterextend
-connote
+connote 1
 crymotherapy
 connoted
 connoting
