@@ -9872,7 +9872,7 @@ biteche
 barbicans 3
 bowdlerization
 barrels
-balawa
+balawa 1
 beamy
 biternately
 babuls
