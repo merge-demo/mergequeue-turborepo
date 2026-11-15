@@ -7454,7 +7454,7 @@ ceratonia
 cicerones
 counterbrace
 clinically
-cardamoms
+cardamoms 1
 ceria
 ceratophyllaceous
 countersinking
