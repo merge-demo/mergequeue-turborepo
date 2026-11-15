@@ -11340,7 +11340,7 @@ fuseplug
 foalhood 1
 fashioners 1
 fallacy
-fricandel
+fricandel 1
 formalith
 fulvene 2
 fertilisational
