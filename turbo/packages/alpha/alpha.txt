@@ -15074,7 +15074,7 @@ asseverated
 assemblagist
 anagrammatized
 autopositive
-aetosaurian
+aetosaurian 1
 archmagirist
 assidually
 antidogmatist
@@ -18046,7 +18046,7 @@ appropriativeness
 antipodean
 archimandrites
 aprioristically
-atrazines
+atrazines 1
 acrologies 1
 aggressors 1
 appraisement

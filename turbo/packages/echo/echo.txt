@@ -4452,7 +4452,7 @@ enworthy
 entirely
 eudemonistically
 ectorganism
-encases 1
+encases 2
 eumenidae
 electrotechnologist
 enhydris
@@ -7176,7 +7176,7 @@ ecumenic
 elvishly
 enneasyllabic
 epoxying
-etheostoma
+etheostoma 1
 embarrassed
 equalizer
 enwove
