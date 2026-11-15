@@ -11745,7 +11745,7 @@ chondroglossal
 chondrography
 cytomegalic
 conduplication
-chondroitic
+chondroitic 1
 chondroitin
 cucurbitaceae
 chondromatous
