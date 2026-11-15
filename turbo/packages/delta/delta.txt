@@ -10524,7 +10524,7 @@ delime 1
 disbowels
 dialyzate 1
 disserviceableness 1
-ddname
+ddname 1
 derate
 doorsills
 diceratidae 1
