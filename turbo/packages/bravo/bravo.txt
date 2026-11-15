@@ -5124,7 +5124,7 @@ bejuco
 blazoning
 boatmaster
 befittingness
-behoof
+behoof 1
 boundedness 1
 beflag
 bamboo
