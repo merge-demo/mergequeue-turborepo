@@ -17793,7 +17793,7 @@ agapornis
 adherently
 archpatron
 analysand
-aliamenta
+aliamenta 1
 appointing 1
 augmentation
 artophophoria
