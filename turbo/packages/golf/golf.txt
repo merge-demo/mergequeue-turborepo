@@ -3126,7 +3126,7 @@ georgemas
 germanite 1
 gurgles
 georgics
-glycosyl 1
+glycosyl 2
 goosetongue 1
 gnast
 galumphing
