@@ -10149,7 +10149,7 @@ enumerators 1
 eurhodine
 effluent
 expressionful 1
-equivalences
+equivalences 1
 elope
 extraorbital
 epicrates
