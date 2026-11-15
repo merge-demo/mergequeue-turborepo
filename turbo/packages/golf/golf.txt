@@ -10729,7 +10729,7 @@ gypsyisms
 gnomonological
 graille 1
 grittie
-gavage
+gavage 1
 galloot 1
 garnish 1
 gournard
