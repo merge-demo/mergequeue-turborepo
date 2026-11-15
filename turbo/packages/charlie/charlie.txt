@@ -31635,7 +31635,7 @@ curvilinead
 carpingly
 curvimeter
 curviness
-curving
+curving 1
 curviserial
 curvital
 curvities 1
