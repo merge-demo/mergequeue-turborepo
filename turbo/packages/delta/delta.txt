@@ -2757,7 +2757,7 @@ decurrently
 diamondized
 decreet
 desmogen
-dugal
+dugal 1
 dop 2
 disharmonize
 decremeter
