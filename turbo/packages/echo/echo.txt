@@ -3957,7 +3957,7 @@ euxanthin
 eohippus 1
 euskara
 extremistic
-encephalic
+encephalic 1
 emotioned
 emotionize
 eugregarinida
