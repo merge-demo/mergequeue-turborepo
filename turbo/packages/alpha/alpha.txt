@@ -22432,7 +22432,7 @@ astrologize 1
 advancers
 astromancer
 astromantic
-astromeda
+astromeda 1
 apophyges
 anthropomorphize
 aliments
