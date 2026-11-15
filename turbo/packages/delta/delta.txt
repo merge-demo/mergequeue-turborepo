@@ -12194,7 +12194,7 @@ disfrocking
 dysfunctional 1
 documentaries
 dysfunctioning 2
-deltoidal
+deltoidal 1
 disarmers 1
 durous
 detector
