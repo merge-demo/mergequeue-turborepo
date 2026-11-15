@@ -3172,7 +3172,7 @@ capernutie
 coats
 cohens
 cenesthesia
-carapace
+carapace 1
 clusters 1
 capersome
 capersomeness 1
