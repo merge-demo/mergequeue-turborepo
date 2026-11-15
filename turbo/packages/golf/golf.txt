@@ -3016,7 +3016,7 @@ groped 1
 guardedness
 guaiacol
 gaulding
-ginglymoidal
+ginglymoidal 1
 gregarinosis 3
 gloom 1
 geogenic
