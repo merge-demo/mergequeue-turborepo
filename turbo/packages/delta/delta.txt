@@ -4457,7 +4457,7 @@ downtrend
 discircumspection
 demies
 dosimetric
-demifigure
+demifigure 1
 disinflated 1
 downdraught
 debentureholder
@@ -14526,7 +14526,7 @@ dividivis
 diaphanometer
 drugge
 disports
-didn
+didn 1
 dronte
 dad
 demurest
