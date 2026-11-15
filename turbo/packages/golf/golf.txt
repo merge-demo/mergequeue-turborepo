@@ -9448,7 +9448,7 @@ griffonne
 gabled 1
 glandulosity
 grammar
-genitalial
+genitalial 1
 gazes
 geometries
 glycose
