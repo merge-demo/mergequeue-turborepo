@@ -18940,7 +18940,7 @@ cohobating
 corved
 carthorse
 cham
-collates
+collates 1
 collation
 collations
 cumaru
