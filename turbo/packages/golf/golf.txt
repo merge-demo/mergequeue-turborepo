@@ -6437,7 +6437,7 @@ galactogogue 1
 guarded
 guanare
 gump
-gangrenate
+gangrenate 1
 gapeworms
 gurry
 glycols
