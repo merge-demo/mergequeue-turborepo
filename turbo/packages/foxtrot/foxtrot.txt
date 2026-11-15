@@ -10425,7 +10425,7 @@ fictility
 flyspecked 1
 firstling
 faller 1
-femicide
+femicide 1
 forcaria
 fertilizer 1
 feudalistic 1
