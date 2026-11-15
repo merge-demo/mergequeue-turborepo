@@ -3375,7 +3375,7 @@ energeticalness
 eternising
 esquirearchy
 enregistration
-egal
+egal 1
 excursioner
 envelopes
 encyclopaedial
