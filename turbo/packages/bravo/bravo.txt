@@ -492,7 +492,7 @@ backspang
 betrend 1
 bushbeater
 bibliothecal
-besom
+besom 1
 betatron
 battarismus
 battable
