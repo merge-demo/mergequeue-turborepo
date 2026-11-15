@@ -2533,7 +2533,7 @@ goloe 1
 gained
 guessive
 generalise 2
-gynandrous
+gynandrous 1
 glorifying
 gallfly
 gael

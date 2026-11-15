@@ -11132,7 +11132,7 @@ entity
 eadi
 endeavored
 epexegetical
-evulse
+evulse 1
 entropionize
 entocarotid 1
 expatriation 1
