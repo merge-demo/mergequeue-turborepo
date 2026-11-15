@@ -101,7 +101,7 @@ babied
 berbers
 bumaloe
 bloodstock
-baritone
+baritone 1
 bisyllabism
 boddhisattva 1
 bonsoir

@@ -12252,7 +12252,7 @@ autocue
 astronautical
 allodge
 andaman
-autobiographic
+autobiographic 1
 attribution 1
 anchieutectic
 abience
