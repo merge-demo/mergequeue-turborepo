@@ -2400,7 +2400,7 @@ baizes 1
 backwraps
 banshie
 brakemen
-belabors
+belabors 1
 barcoo
 beslab
 bemoisten

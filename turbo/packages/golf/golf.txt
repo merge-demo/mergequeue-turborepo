@@ -961,7 +961,7 @@ gillnetted 1
 galactically
 gainsaid
 gospodar
-garrottes
+garrottes 1
 gnetum 1
 gnathonically
 gashful
@@ -9145,7 +9145,7 @@ glavering
 glaucomas 1
 gastrodiaphanoscopy
 gradine 2
-goniometrically
+goniometrically 1
 grippiest
 granulating 1
 gluttei
