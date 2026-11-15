@@ -2727,7 +2727,7 @@ dolichocephalous
 decorticosis 1
 doddle
 disoperation
-decortization
+decortization 1
 decorum
 dactylorhiza
 diamber
