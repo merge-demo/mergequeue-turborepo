@@ -5235,7 +5235,7 @@ demivolte 1
 decorators
 discomposing
 dentate 2
-disrange
+disrange 1
 dentatoangulate
 droud
 ducks
