@@ -29491,7 +29491,7 @@ concretism
 choragium 1
 crystallomagnetic
 cravers
-cunye
+cunye 1
 crystallomancy
 crystallometry
 continuist
