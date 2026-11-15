@@ -7267,7 +7267,7 @@ famille
 fopperly
 fraternized
 formaldoxime
-freeness
+freeness 1
 foujdar
 facers
 fourgon
