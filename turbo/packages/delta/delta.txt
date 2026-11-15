@@ -2194,7 +2194,7 @@ dufrenoysite 1
 deliliria
 divvying
 deacidify
-decreative
+decreative 1
 dendrophile
 dissipativity
 decasualise
