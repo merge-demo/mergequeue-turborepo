@@ -18219,7 +18219,7 @@ alumnol 2
 ankylos
 amour
 adventurement 1
-ampelis
+ampelis 1
 aphanomyces
 aquifer
 avanturine
