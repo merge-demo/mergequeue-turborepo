@@ -3666,7 +3666,7 @@ commendam
 carancha 1
 carancho
 compresbyterial
-caranday 1
+caranday 2
 carandas
 carangids
 coenaesthesis
