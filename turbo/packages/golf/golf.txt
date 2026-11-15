@@ -4828,7 +4828,7 @@ gladier
 guaranteeing
 glozes
 gyrotheca
-gimme
+gimme 1
 grandstanding
 gladiola 1
 granatite 1
