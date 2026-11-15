@@ -12983,7 +12983,7 @@ evanition
 epicentrums
 equanimously
 equiparation
-expecter
+expecter 1
 expectingly
 enzym
 erminette
