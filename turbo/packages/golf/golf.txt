@@ -961,7 +961,7 @@ gillnetted 1
 galactically
 gainsaid
 gospodar
-garrottes
+garrottes 1
 gnetum 1
 gnathonically
 gashful
