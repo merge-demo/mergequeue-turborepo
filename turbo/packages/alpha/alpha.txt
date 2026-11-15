@@ -18264,7 +18264,7 @@ anguish
 arabesquely
 alleluja
 aptyalia
-antiprofiteering
+antiprofiteering 1
 adherescent
 arbiters
 affidavit
@@ -19872,7 +19872,7 @@ armigerous 1
 aeroneurosis
 autotomized 1
 aimful
-aposelene
+aposelene 1
 airiest
 arithmomania
 aromatising 1
