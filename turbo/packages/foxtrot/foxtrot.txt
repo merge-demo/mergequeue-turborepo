@@ -9187,7 +9187,7 @@ frivolism
 frillback
 fetuses
 floodable
-fanterie
+fanterie 1
 floccus
 ficin
 feminate 1
