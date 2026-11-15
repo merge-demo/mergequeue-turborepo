@@ -12822,7 +12822,7 @@ epicystotomy
 equine
 epipactis 1
 emajagua 1
-exoterical
+exoterical 1
 exotericism
 extenuated
 entotympanic
