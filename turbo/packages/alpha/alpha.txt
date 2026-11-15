@@ -9028,7 +9028,7 @@ allotee
 allotelluric
 anthropolithic
 allothigenetically
-antimonarchal
+antimonarchal 1
 aneurysm
 anthropomorphising
 anticivil
@@ -23098,7 +23098,7 @@ adjutorious
 atte
 archocele
 avodires
-antheriform
+antheriform 1
 attemperament
 aizle
 acephalan
