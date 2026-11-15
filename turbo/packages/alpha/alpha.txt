@@ -12583,7 +12583,7 @@ alogia
 afterdischarge
 appositionally
 anthribid
-anencephalic
+anencephalic 1
 angka
 alulae 1
 archpatriarch
