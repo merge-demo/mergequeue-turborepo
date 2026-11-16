@@ -11383,7 +11383,7 @@ eventuating
 emulsifications
 evictors 1
 effendi
-evergreen
+evergreen 1
 exsputory
 evergreens
 extraorbitally
