@@ -294,7 +294,7 @@ guillochee 2
 gibing 1
 gaslock
 gaddish
-grubstaked
+grubstaked 1
 guahivo 2
 gummier 1
 gaintwist 1
