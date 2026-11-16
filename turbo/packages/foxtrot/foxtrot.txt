@@ -7287,7 +7287,7 @@ favour
 febricant
 fulcrum
 feathered 2
-focimeter 1
+focimeter 2
 fiddleheaded
 flickered
 forechamber
