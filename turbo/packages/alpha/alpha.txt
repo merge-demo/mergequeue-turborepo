@@ -13672,7 +13672,7 @@ acidize
 aposporogony
 albumenising
 accretion 2
-alluviviums
+alluviviums 1
 autoecholalia 1
 algific
 anogenital
