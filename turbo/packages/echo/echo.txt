@@ -4504,7 +4504,7 @@ exterminator
 encephalomas
 escudo 1
 encephalomeningocele 1
-evenglome
+evenglome 1
 endoerythrocytic
 entothorax
 embiidae 1
