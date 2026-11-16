@@ -16622,7 +16622,7 @@ closeness
 cedric
 climbing 1
 cypselidae
-closeouts
+closeouts 1
 closer
 chlorophyllose
 chrysler
