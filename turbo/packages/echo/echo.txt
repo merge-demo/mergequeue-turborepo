@@ -5581,7 +5581,7 @@ embryulcus 1
 enflower 1
 essexite
 embrocating
-evaporate
+evaporate 1
 ectognatha
 epidendrum
 elutions
