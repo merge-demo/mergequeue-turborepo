@@ -6778,7 +6778,7 @@ celled 1
 coelom
 cliffy 1
 centennium 1
-cellepore
+cellepore 1
 cellfalcicula
 cyprians
 concaveness
