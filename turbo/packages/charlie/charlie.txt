@@ -11286,7 +11286,7 @@ chlorochromates
 construing
 compromising
 corrects 1
-claritude
+claritude 1
 cwo 2
 checkups
 clothbound

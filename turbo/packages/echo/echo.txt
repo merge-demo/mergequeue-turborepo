@@ -2299,7 +2299,7 @@ ensepulchre
 evangelicalness
 electrizable 1
 electrization 1
-expressionist
+expressionist 1
 enterohepatitis
 excavated
 epicotyl
