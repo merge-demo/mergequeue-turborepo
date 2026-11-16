@@ -3366,7 +3366,7 @@ carrots 2
 capote
 cyclohexene 1
 capouches
-cappadocian
+cappadocian 1
 crypted
 capparid
 caeciform 1
