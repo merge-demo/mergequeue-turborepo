@@ -8306,7 +8306,7 @@ fatherlike
 flapperish 1
 flatulentness
 faultfinders
-fittiest
+fittiest 1
 fair 1
 foundling
 florulae
