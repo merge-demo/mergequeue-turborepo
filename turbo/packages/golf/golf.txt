@@ -6615,7 +6615,7 @@ gucks
 ganda
 grumped
 gladsome
-gonidangium
+gonidangium 1
 graver 2
 gonepoiesis
 gingivectomy
