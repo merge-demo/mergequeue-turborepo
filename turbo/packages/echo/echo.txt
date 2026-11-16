@@ -2097,7 +2097,7 @@ enisle
 enterolysis
 elasmothere
 empyocele
-euphoniously
+euphoniously 1
 ebullioscope
 emulge
 excretory
