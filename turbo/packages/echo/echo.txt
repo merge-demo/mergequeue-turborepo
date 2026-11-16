@@ -4964,7 +4964,7 @@ edith
 encouragement 1
 endeavouring
 egression
-endeictic
+endeictic 1
 entropium
 expectable
 embryotomy
