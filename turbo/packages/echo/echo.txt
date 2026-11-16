@@ -2273,7 +2273,7 @@ enchantments
 exormia
 eyelets
 endolymph
-excretal
+excretal 1
 eger 1
 encased 1
 egest
