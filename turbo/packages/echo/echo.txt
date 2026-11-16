@@ -8280,7 +8280,7 @@ epigrammatized
 enlife
 ecophobia 1
 erythrismal
-enroller
+enroller 1
 eschynite
 eurus
 epithalamize
