@@ -16055,7 +16055,7 @@ bespectacled
 brindle
 barythymia
 babyolatry
-basifiers
+basifiers 1
 boubous 1
 brisance
 brahmanaspati
