@@ -26227,7 +26227,7 @@ coequality
 conform
 crustification
 chandeliers
-cyanite 1
+cyanite 2
 cossaean
 cosse 1
 cosset
