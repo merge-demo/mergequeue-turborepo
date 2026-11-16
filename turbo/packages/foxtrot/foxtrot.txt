@@ -3571,7 +3571,7 @@ fractabling
 foreskirt
 florigraphy
 forspoken 2
-feddan 2
+feddan 3
 flapjacks
 fussle
 fainaiguing
