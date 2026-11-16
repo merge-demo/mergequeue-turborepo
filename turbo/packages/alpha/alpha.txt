@@ -18336,7 +18336,7 @@ arachnism
 apotheoses
 anaesthetizing 1
 asor 2
-antinial
+antinial 1
 allergist
 amphigonic
 arachnology
