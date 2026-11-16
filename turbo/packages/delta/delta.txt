@@ -3470,7 +3470,7 @@ dandily
 downfold 1
 dharmakaya
 deuterostomata
-dishorn
+dishorn 1
 deforse
 diplomatic
 dinitrotoluene
@@ -5260,7 +5260,7 @@ despotize
 diatomacean
 decimalized
 dismissals
-demibombard
+demibombard 1
 disguising 1
 defers
 dysteleology
