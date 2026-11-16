@@ -2920,7 +2920,7 @@ deseret
 destinal 1
 dotingness
 diegesis
-diplasiasmus
+diplasiasmus 1
 deduces
 droil
 dolt
