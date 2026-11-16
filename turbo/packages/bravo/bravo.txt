@@ -12294,7 +12294,7 @@ boltlike
 blindling
 beaupers
 boltmaker
-bunga 1
+bunga 2
 blee
 bombaster
 bodock
