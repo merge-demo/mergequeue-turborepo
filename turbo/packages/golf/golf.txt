@@ -2335,7 +2335,7 @@ gravitation
 gingival
 guige
 gastrogenital
-gerocomy
+gerocomy 1
 gerard
 galvanography
 graviton
