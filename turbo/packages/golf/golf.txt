@@ -832,7 +832,7 @@ genets
 glucosane 1
 ghurry
 gastrocolic
-grazeable
+grazeable 1
 gyppo
 gletty 1
 galoots 1
