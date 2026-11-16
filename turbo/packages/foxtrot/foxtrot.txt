@@ -5646,7 +5646,7 @@ fibrine
 freckles 1
 funeration
 forbearant
-finite 1
+finite 2
 flancards
 friended
 fuzz
