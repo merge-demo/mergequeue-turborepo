@@ -10070,7 +10070,7 @@ collab
 coalbox
 chipchap 2
 chessdom
-chesser
+chesser 1
 cabinda
 chesses
 chessylite
