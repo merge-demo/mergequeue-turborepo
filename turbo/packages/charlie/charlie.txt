@@ -9524,7 +9524,7 @@ checkpoints
 commonize
 cogitative
 checkrack
-casehardens
+casehardens 1
 cricotracheotomy
 calaththi
 checkrein
