@@ -776,7 +776,7 @@ fernleaf
 fetidness
 fezzan
 fibroangioma
-frier 1
+frier 2
 ferv 3
 frequently
 forelouper 1
