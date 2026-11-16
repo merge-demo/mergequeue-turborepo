@@ -7804,7 +7804,7 @@ bacchae
 bill 1
 bhutanese
 buffeter
-bant
+bant 1
 bimilllennia
 bagpipes
 babuism 1
