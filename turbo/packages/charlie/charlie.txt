@@ -11680,7 +11680,7 @@ cholum
 celeries
 clavicor
 cladistic 1
-cingulectomy
+cingulectomy 1
 choluria
 copygraphed
 confesser 1
