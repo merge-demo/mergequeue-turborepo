@@ -2171,7 +2171,7 @@ bricksetter
 burnishes
 bonsai
 bediapered
-brutism
+brutism 1
 baptising
 butterless
 barleyhood
@@ -3178,7 +3178,7 @@ bonnes
 barkantine
 burghemot
 bronchography
-bleat 1
+bleat 2
 briskly
 brachiating
 biphase
@@ -8202,7 +8202,7 @@ blossomed
 bivalencies
 bloodbird 1
 bateaux
-biuniqueness 1
+biuniqueness 2
 brawlier
 bossa
 bielding
