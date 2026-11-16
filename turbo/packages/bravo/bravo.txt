@@ -11535,7 +11535,7 @@ baublery
 banyoro
 battakhin
 begged
-bathometer
+bathometer 1
 bumboatman 2
 behaves
 broadshare 1
@@ -12801,7 +12801,7 @@ bigaroon
 bucolic 1
 bullfice
 baskerville
-bookward
+bookward 1
 bookwards 1
 byronite
 bookworm

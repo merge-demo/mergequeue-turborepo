@@ -1533,7 +1533,7 @@ calling
 cigarillo
 chiefly
 calamintha
-callings
+callings 1
 chuvashes
 celialgia
 callionymidae
@@ -11435,7 +11435,7 @@ cosmographist
 cauliform 1
 christina
 cryobiologically
-ceryl
+ceryl 1
 cannelloni
 chocho
 chockablock
