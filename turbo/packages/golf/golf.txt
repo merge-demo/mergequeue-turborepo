@@ -6319,7 +6319,7 @@ gippo
 gollywobbler
 gambelli 1
 garnitures
-gustables 2
+gustables 3
 gorhen 1
 gofer
 gastrotrich
@@ -8720,7 +8720,7 @@ gastrodidymus
 grisgris
 goodlihead
 gamene
-gallate
+gallate 1
 griming
 gonapod
 galactagoguic
