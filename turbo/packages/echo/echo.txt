@@ -6391,7 +6391,7 @@ elapid
 ensemble
 engastrimyth 1
 engrained
-evaluator
+evaluator 1
 electrocontractility
 enanguish
 espaliered
