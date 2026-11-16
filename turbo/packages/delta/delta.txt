@@ -16794,7 +16794,7 @@ disorganized 1
 drawback 1
 drawbar 1
 disposability 1
-desisted
+desisted 1
 diazines 1
 decolorate
 demirobe
