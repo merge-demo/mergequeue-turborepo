@@ -8901,7 +8901,7 @@ dicophane
 disheartening 1
 detailers
 dully 1
-divinyl
+divinyl 1
 dichloramine
 dichloroacetic
 dichlorodifluoromethane
