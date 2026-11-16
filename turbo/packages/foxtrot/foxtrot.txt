@@ -6424,7 +6424,7 @@ forsteal 1
 fictor
 fruitages
 fissilingual
-flatboat
+flatboat 1
 fording
 fetishists
 frosted 1
