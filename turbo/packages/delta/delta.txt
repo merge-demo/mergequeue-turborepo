@@ -8880,7 +8880,7 @@ dioptidae
 disconnect
 duodene
 dissolvability
-desex 1
+desex 2
 dichas 1
 dichasia 1
 decolonizing
