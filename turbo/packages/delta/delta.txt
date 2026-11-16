@@ -16170,7 +16170,7 @@ dowager
 dits
 diopsidic 1
 demospongiae
-dinnerware
+dinnerware 1
 dispersions
 dertra
 degas
