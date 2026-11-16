@@ -7981,7 +7981,7 @@ equalizers
 epingle
 eisegeses
 epinicia
-ernie
+ernie 1
 extrusion
 eyebath
 epinyctis
