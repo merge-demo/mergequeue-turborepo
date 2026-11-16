@@ -948,7 +948,7 @@ fourchite
 fortunateness
 forms 1
 fanfishes
-fulminant
+fulminant 1
 faxing
 fosterer 1
 fleecers
