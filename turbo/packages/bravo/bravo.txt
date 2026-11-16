@@ -11730,7 +11730,7 @@ burlily
 bobbin
 beslaved
 bolivias 1
-bobbinite
+bobbinite 1
 bobbish
 bais 2
 basidia
