@@ -9369,7 +9369,7 @@ amanda
 alphabetized
 alphabetizer
 auditioned
-adamancies
+adamancies 1
 angulatogibbous
 anastomoses
 amidating
