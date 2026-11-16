@@ -3030,7 +3030,7 @@ fishier
 fibreless 2
 flatcar
 foregone
-fractionalization
+fractionalization 1
 fibril
 fuzing 1
 firker
