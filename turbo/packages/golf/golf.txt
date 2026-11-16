@@ -6252,7 +6252,7 @@ goosing
 gobies
 graftproof 1
 gallify 1
-gasogenes 2
+gasogenes 3
 gobiid
 gobylike
 granadilla 1

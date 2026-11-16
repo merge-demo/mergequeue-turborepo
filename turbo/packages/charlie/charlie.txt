@@ -12733,7 +12733,7 @@ chultun
 creolism 1
 copyism
 chum
-coaxed
+coaxed 1
 caama 2
 chumar
 concelebrating
