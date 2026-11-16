@@ -5112,7 +5112,7 @@ exsanguinous
 exprobratory 1
 exsuscitate
 endocoele
-enaliosaurian 1
+enaliosaurian 2
 exploiter
 effaced
 expositoriness 2
@@ -8863,7 +8863,7 @@ encumbrancer
 epilegomenon
 eventuation
 electrooptically
-erer
+erer 1
 erethisia
 excursively
 euthytropic
