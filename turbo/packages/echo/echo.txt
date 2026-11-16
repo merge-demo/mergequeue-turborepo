@@ -5096,7 +5096,7 @@ eardrums 1
 endopathic
 exited
 endoclinal
-eternals
+eternals 1
 endocoelar 1
 emerse
 eupanorthidae
