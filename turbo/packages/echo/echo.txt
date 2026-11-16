@@ -4637,7 +4637,7 @@ enhydrite
 extratensive
 exteriorisation
 erythroxyline
-exuberantness
+exuberantness 1
 elasticizes 3
 epimerase
 epimerising

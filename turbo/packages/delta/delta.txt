@@ -3930,7 +3930,7 @@ delaware
 deleaded 1
 demonographies
 dampang
-decides
+decides 1
 disintensify
 duplex
 devitalise 1
