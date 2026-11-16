@@ -421,7 +421,7 @@ dithered 1
 dorsoanterior
 drinker 1
 dairywomen
-daunder
+daunder 1
 descanting 1
 dayrooms
 deities 1
