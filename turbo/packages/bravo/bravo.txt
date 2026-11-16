@@ -2521,7 +2521,7 @@ brachyoura
 barge
 bergere
 bult
-bargelike
+bargelike 1
 beet
 bargellos
 beswinge
