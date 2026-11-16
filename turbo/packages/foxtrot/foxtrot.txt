@@ -2500,7 +2500,7 @@ frumety
 fingers
 flerry 1
 fudging 1
-fainthearted
+fainthearted 1
 femorocele
 farted 1
 facinorousness
