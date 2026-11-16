@@ -20842,7 +20842,7 @@ arum
 avoset
 annapurna
 archdisturber
-adossed
+adossed 1
 arundiferous 1
 avouter
 adversifoliate
