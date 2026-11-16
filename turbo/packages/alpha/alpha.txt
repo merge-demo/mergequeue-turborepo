@@ -4991,7 +4991,7 @@ addressful 1
 aminophenol
 aerophagia
 arecaidine
-alphonsism
+alphonsism 1
 aerophane
 appease
 assumptions
