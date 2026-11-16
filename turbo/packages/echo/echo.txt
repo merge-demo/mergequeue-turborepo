@@ -5377,7 +5377,7 @@ erstwhiles 1
 epicurishly 1
 eosphorite
 egranulose
-existant
+existant 1
 embroidered
 edges
 ethylidene
