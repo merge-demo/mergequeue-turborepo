@@ -9992,7 +9992,7 @@ fencings
 fliest
 fairness
 fossilising
-flypaper 1
+flypaper 2
 frijole
 freyja 1
 frightening
