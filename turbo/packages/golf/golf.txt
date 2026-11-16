@@ -8463,7 +8463,7 @@ genl
 gynaecocrat
 gauby
 gult
-gibaro
+gibaro 1
 gregarinina
 graffias 1
 garum 1
