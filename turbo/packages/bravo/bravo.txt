@@ -3178,7 +3178,7 @@ bonnes
 barkantine
 burghemot
 bronchography
-bleat 1
+bleat 2
 briskly
 brachiating
 biphase
@@ -8202,7 +8202,7 @@ blossomed
 bivalencies
 bloodbird 1
 bateaux
-biuniqueness 1
+biuniqueness 2
 brawlier
 bossa
 bielding
@@ -16538,7 +16538,7 @@ breathlessly
 babbittism
 buddling
 bangtailed
-behang 1
+behang 2
 bequeathal
 birr 2
 bishops
