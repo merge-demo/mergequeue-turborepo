@@ -763,7 +763,7 @@ gansa 1
 gavotted
 gastrohysterorrhaphy
 gravitater
-gestapos
+gestapos 1
 gerim 1
 gunbearer 1
 gerkin
