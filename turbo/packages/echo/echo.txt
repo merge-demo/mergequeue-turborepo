@@ -2241,7 +2241,7 @@ extramoral
 elevatory
 effluve
 emblematise
-endoplasma
+endoplasma 1
 elector
 epigonos
 exhume
