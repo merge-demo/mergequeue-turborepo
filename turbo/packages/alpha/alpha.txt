@@ -10397,7 +10397,7 @@ americanisms
 aboriginals
 americanistic
 aftertax
-andesyte
+andesyte 1
 astigmatizer
 approachless
 accredited
