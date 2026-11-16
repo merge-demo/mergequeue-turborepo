@@ -10869,7 +10869,7 @@ guaranteer
 gastrulation 1
 gils
 gyrophora
-goggan
+goggan 1
 goaltending 1
 graperoot
 geniculated
