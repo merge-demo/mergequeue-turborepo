@@ -12943,7 +12943,7 @@ electable
 espials
 esses
 erigible
-expatriate
+expatriate 1
 expatriating
 enthusiastic
 escalado
