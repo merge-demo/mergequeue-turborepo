@@ -6542,7 +6542,7 @@ fultz
 fullness 1
 fidgetation
 fertilized
-freemanship
+freemanship 1
 firmer
 frothily
 founders

@@ -3179,7 +3179,7 @@ drunkards
 dictyosiphonaceous
 demoniac
 defenceable
-dekle
+dekle 1
 doftberry
 defencive
 dents
