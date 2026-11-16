@@ -17198,7 +17198,7 @@ deuteroscopy
 detailedly
 deprecated
 diabolically 1
-dripstone
+dripstone 1
 duffers
 dition
 difformed
