@@ -12532,7 +12532,7 @@ diffeomorphic
 dissolutive
 denouncing
 delbert
-disinfestant
+disinfestant 1
 dewclawed
 daltonist 1
 dracocephalum
