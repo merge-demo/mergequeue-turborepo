@@ -6390,7 +6390,7 @@ frizing 1
 foreship
 frivoled
 frogeye 1
-fluoaluminate
+fluoaluminate 1
 femorocaudal 2
 fainted
 flatcap
