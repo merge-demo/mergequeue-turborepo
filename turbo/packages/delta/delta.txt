@@ -6991,7 +6991,7 @@ dorje
 degrees
 disjointed
 despumation
-dealing
+dealing 1
 desquamating 1
 desquamatory
 dispelled
