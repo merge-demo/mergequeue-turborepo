@@ -5821,7 +5821,7 @@ gasfiring
 grandesque
 glycogenous 1
 gravimetric
-glutamates
+glutamates 1
 goliards
 gallinaceous
 graphometrist 1
