@@ -5761,7 +5761,7 @@ blemishing 1
 belies
 believers
 benzotetrazine
-beamful
+beamful 1
 bloomery
 blankite
 budge 2
