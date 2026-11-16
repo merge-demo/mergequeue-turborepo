@@ -14171,7 +14171,7 @@ eidoptometry 1
 enjoyer
 epiloia
 escamoteur
-exuding
+exuding 1
 ethane
 euspongia
 equalled
