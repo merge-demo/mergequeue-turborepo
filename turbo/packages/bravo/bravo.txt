@@ -9455,7 +9455,7 @@ boastless
 basocyte 1
 buriti
 baronetship
-bullyrook
+bullyrook 1
 bulges
 blander
 birdless
@@ -12801,7 +12801,7 @@ bigaroon
 bucolic 1
 bullfice
 baskerville
-bookward
+bookward 1
 bookwards 1
 byronite
 bookworm
