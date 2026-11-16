@@ -5260,7 +5260,7 @@ despotize
 diatomacean
 decimalized
 dismissals
-demibombard
+demibombard 1
 disguising 1
 defers
 dysteleology
