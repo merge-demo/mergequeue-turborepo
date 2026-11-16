@@ -2124,7 +2124,7 @@ eucarpic
 eleusine
 exuberancy
 embargoing 1
-externat 1
+externat 2
 emperish
 equilibrio
 epipubes
