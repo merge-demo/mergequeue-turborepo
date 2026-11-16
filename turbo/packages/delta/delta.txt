@@ -2567,7 +2567,7 @@ docetist
 desistence
 diplocephalous
 demiquaver
-dashes
+dashes 1
 decoctive
 deaminizing 2
 decoctum
