@@ -1492,7 +1492,7 @@ budgy
 backbiter 1
 boyarisms
 blighter 1
-balkish
+balkish 1
 brigous 1
 bodaciously
 bahadurs

@@ -10186,7 +10186,7 @@ gladiolar
 guids
 guidwife 1
 groundly
-geladas
+geladas 1
 grimy
 gutti
 gayeties
