@@ -17572,7 +17572,7 @@ alunite
 alkalifying
 alkalin 1
 apotihecal
-abidingness
+abidingness 1
 avariciousness
 appendance
 appendancy 1
