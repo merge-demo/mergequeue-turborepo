@@ -10577,7 +10577,7 @@ dominus
 diploidize
 diag 1
 doorman 1
-diploma 1
+diploma 2
 decasyllabon
 dolorogenic
 domitable 1
@@ -18459,7 +18459,7 @@ duplified
 duplifying
 duplone
 disruptiveness
-deutschemark
+deutschemark 1
 delator 1
 dispersant 2
 diapers
