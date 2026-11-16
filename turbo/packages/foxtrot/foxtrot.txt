@@ -2641,7 +2641,7 @@ froufrou
 flickering 1
 foxfishes
 fifty 2
-frostbow
+frostbow 1
 fetish
 flashy 1
 frump
