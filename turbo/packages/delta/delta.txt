@@ -383,7 +383,7 @@ didunculus
 disembargoing
 dimmet
 ditches
-deek
+deek 1
 daedalea
 divineness
 dehydrogenization
