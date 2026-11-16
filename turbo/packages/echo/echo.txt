@@ -643,7 +643,7 @@ eclegma
 ehrman 1
 etatism
 establishment 1
-edifyingness
+edifyingness 1
 equisufficiency 1
 etherialise 1
 estonians
