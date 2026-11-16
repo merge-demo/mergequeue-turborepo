@@ -9348,7 +9348,7 @@ familiarities
 foolhead 1
 fishified
 franklins
-flector
+flector 1
 fraughted
 frenchmen 1
 faffy
