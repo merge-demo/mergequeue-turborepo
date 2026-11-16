@@ -3027,7 +3027,7 @@ brahma
 bartended
 barrera 1
 bigamistically
-beared
+beared 1
 bidirectionally 1
 boist
 balaenoid
