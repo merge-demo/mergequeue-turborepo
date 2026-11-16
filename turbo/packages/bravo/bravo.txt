@@ -12801,7 +12801,7 @@ bigaroon
 bucolic 1
 bullfice
 baskerville
-bookward
+bookward 1
 bookwards 1
 byronite
 bookworm
