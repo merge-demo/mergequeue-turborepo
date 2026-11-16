@@ -3366,7 +3366,7 @@ carrots 2
 capote
 cyclohexene 1
 capouches
-cappadocian
+cappadocian 1
 crypted
 capparid
 caeciform 1
@@ -9891,7 +9891,7 @@ calpacks
 caleches
 clays 1
 calentural
-calic
+calic 1
 cameograph
 chronobiology
 chemosphere
