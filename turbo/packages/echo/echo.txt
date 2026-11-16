@@ -1456,7 +1456,7 @@ emication
 ergonomic 1
 epanorthotic
 emunct
-exenteritis
+exenteritis 1
 envelop
 enfarce
 euxanthate
