@@ -10688,7 +10688,7 @@ euglenoid 1
 exolve
 electrotypic
 evenworthy 1
-ecossaise 1
+ecossaise 2
 egosyntonic
 etiquet
 embarred
@@ -11732,7 +11732,7 @@ entoptoscopy
 examinee
 emoted
 epithelization
-edgerman
+edgerman 1
 ephraim
 ephydrid
 euplocomi
