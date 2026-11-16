@@ -1685,7 +1685,7 @@ caloriduct
 calorie
 claytonia 1
 conflagrating
-cele
+cele 1
 curlicuing 1
 circ 1
 cestoi
