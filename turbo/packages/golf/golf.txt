@@ -2729,7 +2729,7 @@ gauntry 1
 gripeful
 gorlois
 grenades
-geodesists
+geodesists 1
 gristmiller
 gynophagite
 gliadins
