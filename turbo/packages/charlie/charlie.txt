@@ -15375,7 +15375,7 @@ claptraps
 culbuter
 claque
 candescently
-calipering
+calipering 1
 chaffering
 canneries
 cyphered
@@ -25313,7 +25313,7 @@ comities 1
 coidentity
 cytoma
 chaplainship
-cornbole
+cornbole 1
 cornbottle
 contrade
 clistocarp
