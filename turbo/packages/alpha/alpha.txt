@@ -5421,7 +5421,7 @@ arcosolia
 aspirator
 anguine
 aeonial
-aprioristic
+aprioristic 1
 aureately
 afresca
 alkalizable 1
