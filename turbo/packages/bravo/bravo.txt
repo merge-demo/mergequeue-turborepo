@@ -3027,7 +3027,7 @@ brahma
 bartended
 barrera 1
 bigamistically
-beared
+beared 1
 bidirectionally 1
 boist
 balaenoid
@@ -15058,7 +15058,7 @@ bepillared
 bobsleded 1
 bled
 badon
-bacteriol
+bacteriol 1
 babite 1
 binapthyl
 befetter
