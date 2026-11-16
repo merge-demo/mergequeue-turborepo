@@ -5479,7 +5479,7 @@ bookshops
 boldo
 boatable
 becudgelling
-beetling
+beetling 1
 behemoths
 behenate
 bones
