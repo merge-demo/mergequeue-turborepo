@@ -910,7 +910,7 @@ extropical
 encapsulating 1
 electrifiers
 escalation
-electrotonic
+electrotonic 1
 emplaces
 exculpatory
 extravagated
