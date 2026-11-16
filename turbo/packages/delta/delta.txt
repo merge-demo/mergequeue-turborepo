@@ -3470,7 +3470,7 @@ dandily
 downfold 1
 dharmakaya
 deuterostomata
-dishorn
+dishorn 1
 deforse
 diplomatic
 dinitrotoluene

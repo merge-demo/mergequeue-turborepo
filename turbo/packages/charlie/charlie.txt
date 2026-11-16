@@ -6431,7 +6431,7 @@ coryl 1
 cavate
 conynge
 cancelability
-churning
+churning 1
 cossetted
 cavatina
 concent
