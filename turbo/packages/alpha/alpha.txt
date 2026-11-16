@@ -25229,7 +25229,7 @@ amoralize
 axwise
 aurivorous
 aeon
-antecessor
+antecessor 1
 axwort
 acquirable 1
 antiliturgical
