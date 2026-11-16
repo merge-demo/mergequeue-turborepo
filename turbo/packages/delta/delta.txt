@@ -6878,7 +6878,7 @@ despatching
 determinist
 despecialization 1
 disembarrassed
-dispute 1
+dispute 2
 domineer 1
 despecificate
 despecification
@@ -12415,7 +12415,7 @@ demoniacal
 dishonor
 distendedness
 dishonorer
-doctrinairism 1
+doctrinairism 2
 deresinize
 dishonoring 1
 discontentful 1
