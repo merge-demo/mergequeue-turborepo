@@ -10779,7 +10779,7 @@ euskera
 esterases
 eluviation
 epitactic
-engrafts
+engrafts 1
 embracer
 eucrystalline 1
 elastance
