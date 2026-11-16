@@ -30147,7 +30147,7 @@ coccinella
 cheeringly
 cannstatt
 cruce
-curs
+curs 1
 crucethouse
 canonise
 crucial
