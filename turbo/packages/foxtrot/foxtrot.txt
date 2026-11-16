@@ -8576,7 +8576,7 @@ fluotantalic
 foredid
 flecks
 fountainlike
-fir
+fir 1
 fittings 1
 ferretto
 fuzzed
