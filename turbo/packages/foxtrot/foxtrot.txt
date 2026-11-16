@@ -6642,7 +6642,7 @@ flatterable
 flintlock
 felloes 1
 flexura
-flouts
+flouts 1
 feudary
 fogfruits
 fibromatous
