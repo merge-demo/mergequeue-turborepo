@@ -2670,7 +2670,7 @@ ferular 1
 foreimpression
 fireshaft 1
 faunistic
-feruled
+feruled 1
 floodboard
 fissipedate
 frogeater
