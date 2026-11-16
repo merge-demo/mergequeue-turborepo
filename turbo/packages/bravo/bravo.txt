@@ -13967,7 +13967,7 @@ bartered
 boxhauling
 boxhauls
 bowwow
-bethels
+bethels 1
 bumbershoot 1
 blitzes
 breakably 1
