@@ -5892,7 +5892,7 @@ gorman
 gritting 1
 gesnera
 gaincome
-glummest
+glummest 1
 generalific
 glumnesses
 gamily
