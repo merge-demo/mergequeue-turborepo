@@ -12592,7 +12592,7 @@ disinterment
 depilous
 disheaven
 dimyary
-depersonize 1
+depersonize 2
 disinters
 deodorants
 decasyllable
