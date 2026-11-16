@@ -21590,7 +21590,7 @@ aspidospermine
 aleucemic
 actinopterygian 1
 aspirant
-amoraic
+amoraic 1
 agonizing
 aelurophobia
 apoplectically
