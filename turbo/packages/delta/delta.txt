@@ -1590,7 +1590,7 @@ dustiness
 dorsum 1
 deaf
 dynamogenous
-disacidified
+disacidified 1
 deafened
 doorjambs 1
 dummered
