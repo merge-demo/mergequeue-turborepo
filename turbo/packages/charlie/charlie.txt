@@ -9185,7 +9185,7 @@ censurers
 chastiment
 chastise
 chastiser 1
-consulships
+consulships 1
 clapperboard
 cheering 1
 corf
