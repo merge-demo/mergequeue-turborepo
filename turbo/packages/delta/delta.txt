@@ -6224,7 +6224,7 @@ dermatophyte
 decarboxylation
 dehydrates
 dehydrators
-dermatoplasm
+dermatoplasm 1
 diapositive
 deozonizer
 decolonization
