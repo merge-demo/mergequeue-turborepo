@@ -12882,7 +12882,7 @@ evacuators 2
 expandable
 escropulo 1
 exobiologists
-erethisms
+erethisms 1
 exsert 1
 endamoeba
 expandedly
