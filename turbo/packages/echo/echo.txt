@@ -7078,7 +7078,7 @@ edicule 1
 equiprobability
 electrophoric
 earnest
-enchainments
+enchainments 1
 epiplankton
 evadible 2
 extemporizing
