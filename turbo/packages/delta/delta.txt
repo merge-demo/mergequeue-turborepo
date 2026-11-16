@@ -11860,7 +11860,7 @@ distrouble
 dihelium
 diallagoid
 disdainfulness
-delations
+delations 1
 deflagrating 1
 drawknives
 daying
