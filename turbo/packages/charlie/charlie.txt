@@ -10316,7 +10316,7 @@ chickenpox
 chickenwort 1
 chicker
 cloudlessly
-coardent
+coardent 1
 chickhood
 coveting
 coprosterol
