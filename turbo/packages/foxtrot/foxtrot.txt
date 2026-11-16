@@ -4963,7 +4963,7 @@ fute
 fintadores
 fairyisms
 frenulum
-forehinting
+forehinting 1
 flyway 2
 feebleheartedly
 flanch
