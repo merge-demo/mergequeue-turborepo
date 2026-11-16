@@ -12338,7 +12338,7 @@ chromatype
 chromatist
 coracohyoid
 cholent
-crack
+crack 1
 chloroanaemia
 caudiform
 coroplasty
