@@ -4094,7 +4094,7 @@ foresightless
 fungusy
 frostation
 foists
-forthwith
+forthwith 1
 fergusonite
 featherbrain
 fattable
@@ -6815,7 +6815,7 @@ foreporch
 fiberizer 1
 fonnish
 folios 1
-faradizes
+faradizes 1
 fierasferidae
 fatted 1
 foliose
