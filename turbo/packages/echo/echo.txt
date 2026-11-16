@@ -725,7 +725,7 @@ eidolism
 eumenides
 emulsible
 exogyra
-eben
+eben 1
 elegiambus
 economism
 economized
@@ -12119,7 +12119,7 @@ eradicator
 entwisting
 excud
 europeanize
-encharge
+encharge 1
 entwite
 ennoblment
 erotizing
