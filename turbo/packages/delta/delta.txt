@@ -2414,7 +2414,7 @@ disimprisonment
 dissipable
 dietetist
 designs
-decyne
+decyne 1
 drydenian
 diaeresis
 decipherability
