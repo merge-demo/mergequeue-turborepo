@@ -11116,7 +11116,7 @@ fundamentalist
 fistful 1
 font
 fiendlier
-flops 1
+flops 2
 fervanite
 foyaite
 flatbread
