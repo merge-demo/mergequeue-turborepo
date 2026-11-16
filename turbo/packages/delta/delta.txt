@@ -2984,7 +2984,7 @@ dolomitizing
 dochmius
 dermapteran 1
 deeper
-dealings
+dealings 1
 dies
 dismantling
 deepfreeze
