@@ -807,7 +807,7 @@ footworn
 fulmen 1
 flogging 1
 fatality 1
-froster
+froster 1
 forensicality
 flipe 1
 floosy
