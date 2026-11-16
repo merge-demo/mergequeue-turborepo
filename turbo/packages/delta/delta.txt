@@ -11964,7 +11964,7 @@ depucel
 deputizes 1
 dewater
 dilacerate
-deducing
+deducing 1
 deleading
 diseme
 dacelonine
