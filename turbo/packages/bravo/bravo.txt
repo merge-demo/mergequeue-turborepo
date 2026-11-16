@@ -15058,7 +15058,7 @@ bepillared
 bobsleded 1
 bled
 badon
-bacteriol
+bacteriol 1
 babite 1
 binapthyl
 befetter
