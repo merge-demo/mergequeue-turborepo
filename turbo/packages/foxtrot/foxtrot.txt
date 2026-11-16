@@ -5276,7 +5276,7 @@ footstools 1
 flats
 frontingly
 fishlike
-fourrag
+fourrag 1
 flawflower 1
 fails 1
 freemasonry
@@ -9348,7 +9348,7 @@ familiarities
 foolhead 1
 fishified
 franklins
-flector
+flector 1
 fraughted
 frenchmen 1
 faffy
