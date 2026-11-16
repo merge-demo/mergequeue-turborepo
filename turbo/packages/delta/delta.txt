@@ -10456,7 +10456,7 @@ disenable
 dipneust
 dismortgaged
 dimyarian 2
-dispost
+dispost 1
 deprivative
 diphthongation 1
 dilutedness
