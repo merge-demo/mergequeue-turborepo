@@ -11626,7 +11626,7 @@ fortissimi
 farci
 fibrous 1
 fylgja
-fosite
+fosite 1
 funestal
 forehew 1
 fustigatory 1
