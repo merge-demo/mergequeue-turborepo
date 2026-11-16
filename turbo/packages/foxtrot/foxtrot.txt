@@ -7998,7 +7998,7 @@ ferroalloy 1
 faunally 3
 fanfoot
 fieldie
-favoured
+favoured 1
 fenouillet
 fredricite
 forestation
