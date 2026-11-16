@@ -15446,7 +15446,7 @@ delocalising 1
 drongo
 doorway 1
 dominique
-despairingly
+despairingly 1
 dewanship 1
 deboners
 dominule
