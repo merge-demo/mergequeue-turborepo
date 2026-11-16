@@ -2014,7 +2014,7 @@ aperistalsis
 aequoreal 1
 actinogram
 acropathology
-amplexus
+amplexus 1
 awakeable
 amritas
 amidoxy
