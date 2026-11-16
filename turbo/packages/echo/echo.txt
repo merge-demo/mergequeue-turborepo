@@ -1510,7 +1510,7 @@ encoronet
 egad
 elderlies
 encyclopediac
-entomophilous 1
+entomophilous 2
 egalitarians
 evected
 egality
