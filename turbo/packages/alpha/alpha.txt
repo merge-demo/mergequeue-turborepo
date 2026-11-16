@@ -5900,7 +5900,7 @@ aftergrind
 actinomycetaceae 1
 ablute
 agglutinative 1
-adamantine
+adamantine 1
 agglutinatively
 aarrghh
 agamobium
