@@ -7755,7 +7755,7 @@ finning
 fluorescein
 ferrotyped
 frostbite
-flocculently
+flocculently 1
 fatelike
 footrail
 fleshier 1
