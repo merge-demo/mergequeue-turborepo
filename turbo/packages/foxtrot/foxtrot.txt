@@ -11215,7 +11215,7 @@ fasciolae
 fictil
 formularism 2
 falderol
-frittata
+frittata 1
 firer
 failles
 flamethrowers 1
