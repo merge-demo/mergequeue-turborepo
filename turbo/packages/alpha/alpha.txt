@@ -23899,7 +23899,7 @@ authored
 angas
 anisocotyly 1
 arabizing 1
-agile
+agile 1
 amphibologism
 authorhood
 acaridae
