@@ -2015,7 +2015,7 @@ grubberies
 galatian 1
 glacon
 gars
-generalness 1
+generalness 2
 gambogic
 gums 1
 gauzewing
