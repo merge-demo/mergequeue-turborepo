@@ -5463,7 +5463,7 @@ afteract
 appetitive
 afterlife
 alepine
-absorbs
+absorbs 1
 actinophone
 antiutilitarian
 atmospheres
@@ -6355,7 +6355,7 @@ anacoluttha
 anticlassicism
 arsonium
 airs
-anticonventionalism
+anticonventionalism 1
 assertedly
 amoeba
 akhund
