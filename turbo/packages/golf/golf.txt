@@ -1483,7 +1483,7 @@ glumly 1
 gunmaker
 gusseted
 gluconate
-galosh 1
+galosh 2
 guacamole
 gastrulae
 guarachas
