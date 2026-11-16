@@ -8527,7 +8527,7 @@ grabbling
 geranomorph
 gatelike 1
 geodetical 1
-glucosine
+glucosine 1
 gusla
 gilo
 gerately
