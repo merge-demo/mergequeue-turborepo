@@ -11936,7 +11936,7 @@ anamorphosis
 accurre
 acetarious
 archvagabond
-aspermatous
+aspermatous 1
 autochromy
 anandrarious
 admeasurement
