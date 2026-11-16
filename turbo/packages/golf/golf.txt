@@ -7663,7 +7663,7 @@ gardebras
 glozed
 gastropodan 1
 guardhouses 1
-gradiometric
+gradiometric 1
 gaup
 gnawed 1
 granzita 1
