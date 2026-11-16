@@ -1732,7 +1732,7 @@ arneb
 accoy 1
 aspersion
 aments
-attalid
+attalid 1
 animalivore
 alightment 1
 accusers
