@@ -3443,7 +3443,7 @@ cimelia
 caprioles
 capriote
 capriped
-capripede
+capripede 1
 cytosporina
 caducecaducean
 cobhouse
