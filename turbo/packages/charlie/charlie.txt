@@ -9891,7 +9891,7 @@ calpacks
 caleches
 clays 1
 calentural
-calic
+calic 1
 cameograph
 chronobiology
 chemosphere
