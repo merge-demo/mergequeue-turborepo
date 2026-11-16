@@ -2833,7 +2833,7 @@ fisty
 finable
 foresails
 fungid 1
-familistery 1
+familistery 2
 fortuned 1
 fettered 1
 frowstiness
@@ -5475,7 +5475,7 @@ flesh 1
 forbids
 fourteenths
 filchers
-feculae
+feculae 1
 floey
 fenderless 2
 friezy 1
@@ -8669,7 +8669,7 @@ fictional
 footrill 1
 fibroids
 favellidium
-fortifiers 1
+fortifiers 2
 firebrat
 frows
 flaxwench
