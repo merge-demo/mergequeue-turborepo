@@ -9637,7 +9637,7 @@ gonosphere 1
 geraniols 1
 gazpacho
 garmenting
-gambit
+gambit 1
 gladeye
 gratton
 gyroidally 1
