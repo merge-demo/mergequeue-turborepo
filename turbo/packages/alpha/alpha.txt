@@ -22495,7 +22495,7 @@ asweat
 asweve
 alchemistic
 aswirl 1
-ammoniacum 1
+ammoniacum 2
 adenohypophysial
 alangin
 arrestor
