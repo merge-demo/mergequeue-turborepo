@@ -11471,7 +11471,7 @@ fissury
 ferntickle
 furrure
 foreglimpse
-fin
+fin 1
 ferri
 foliolose
 figurational
