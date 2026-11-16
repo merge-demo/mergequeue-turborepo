@@ -6642,7 +6642,7 @@ flatterable
 flintlock
 felloes 1
 flexura
-flouts
+flouts 1
 feudary
 fogfruits
 fibromatous
@@ -7484,7 +7484,7 @@ foredooms
 filterers
 foreburton 1
 fameless
-forecast
+forecast 1
 fallaciousness
 forestarling
 foams
