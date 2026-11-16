@@ -7298,7 +7298,7 @@ equerryship 1
 epagomenous
 extraconstitutional 1
 earwig
-electro
+electro 1
 epochism
 escalier
 exception
