@@ -7906,7 +7906,7 @@ flammivomous
 fishhold
 freshing
 forslow
-frondesced
+frondesced 1
 forefit
 feudatories 1
 finicality 1
