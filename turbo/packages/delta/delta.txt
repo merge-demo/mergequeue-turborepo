@@ -2585,7 +2585,7 @@ decoherence 1
 dirndl
 duramatral
 draffy
-disgustingness
+disgustingness 1
 dacoitage
 displosion
 decoke
