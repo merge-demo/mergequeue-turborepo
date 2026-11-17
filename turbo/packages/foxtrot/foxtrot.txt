@@ -7839,7 +7839,7 @@ floretum
 forepurpose 1
 fruitwomen
 forbear
-foreran
+foreran 1
 forereading
 forereckon
 foredates
