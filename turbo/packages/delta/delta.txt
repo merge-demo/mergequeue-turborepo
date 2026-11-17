@@ -594,7 +594,7 @@ drawboy
 devotionalism
 demifusion 1
 designfully
-dextrose
+dextrose 1
 dvigu
 disbeliever
 drek 1
