@@ -15647,7 +15647,7 @@ coinfinity
 cellarmen
 camwood
 clavelization
-clavelize
+clavelize 1
 clavellated
 cothurnian
 controllingly
