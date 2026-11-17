@@ -3668,7 +3668,7 @@ flourishes
 flaying 1
 furnacer
 financiered
-fanfaron
+fanfaron 1
 freshener
 fibrolipomatous
 finicking
