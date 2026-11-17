@@ -9741,7 +9741,7 @@ bankrupcy
 bismuthal
 bumblefoot
 bismuthate
-burhinus
+burhinus 1
 bismuthide 1
 bethanked
 beneficing
