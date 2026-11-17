@@ -11447,7 +11447,7 @@ digredience
 dekaliter
 dishier
 diplodia
-dicarboxylic
+dicarboxylic 1
 deployments 1
 disaccharid
 discoideae
