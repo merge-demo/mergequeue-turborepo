@@ -3783,7 +3783,7 @@ commensality
 carboazotine
 curcuma
 conrail 1
-cariniana
+cariniana 1
 carbodynamite
 carbohemoglobin
 cribbling 1
