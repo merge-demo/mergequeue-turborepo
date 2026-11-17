@@ -19710,7 +19710,7 @@ argonauts
 antistate 1
 autobiographist
 ammoniate
-armeniaceous 1
+armeniaceous 2
 anticathexis
 abricot
 aristology
