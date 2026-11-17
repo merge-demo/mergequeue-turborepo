@@ -4896,7 +4896,7 @@ ginney
 girondist
 groundwards 1
 glamors 1
-geldable
+geldable 1
 granddada
 granita
 gainst
