@@ -927,7 +927,7 @@ cakewalker
 cakewalking 1
 carnotite 1
 caky
-clientelage
+clientelage 1
 conformant
 consecration
 cols
