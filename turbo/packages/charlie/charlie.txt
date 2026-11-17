@@ -29772,7 +29772,7 @@ concessionaires
 coset 1
 causticize
 criminatory
-chatelainry
+chatelainry 1
 crooknosed
 chromatoid
 crooksided
