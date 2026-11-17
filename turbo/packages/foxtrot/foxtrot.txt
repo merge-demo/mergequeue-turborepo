@@ -3958,7 +3958,7 @@ flaunch
 fingerers 1
 feed
 fono 1
-fixature
+fixature 1
 florissant
 freehanded
 floperoo
