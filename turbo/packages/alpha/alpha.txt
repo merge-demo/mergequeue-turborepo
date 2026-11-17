@@ -3519,7 +3519,7 @@ allotheistic
 actinography
 azores
 addressable
-avestan
+avestan 1
 addressers
 anilities 1
 allesthesia
