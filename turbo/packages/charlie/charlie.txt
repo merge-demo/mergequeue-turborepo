@@ -12557,7 +12557,7 @@ chronocrator
 chronogeneous
 combinedness 1
 chronogram 1
-celestially
+celestially 1
 chronogrammatic
 chronogrammatically
 cheetah
