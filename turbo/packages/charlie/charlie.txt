@@ -8986,7 +8986,7 @@ charlady
 charladies
 criterions
 cupelers
-celestiality
+celestiality 1
 countergauge 1
 cookings 1
 cryptanalyst
