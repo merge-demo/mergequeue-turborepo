@@ -18216,7 +18216,7 @@ barium
 borated 1
 buttered 1
 beshadowing
-brisken
+brisken 1
 bonhomous 1
 beyond
 bucranium
