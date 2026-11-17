@@ -9998,7 +9998,7 @@ editor 1
 enteropexy 1
 efford
 ethnotechnography 1
-etching
+etching 1
 electrotest
 eteostic
 elemicin
