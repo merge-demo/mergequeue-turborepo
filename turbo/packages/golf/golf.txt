@@ -8786,7 +8786,7 @@ glaciologic
 grazed
 grossularia
 grossest 1
-gelsemia
+gelsemia 1
 germain 1
 generalize
 griddler
