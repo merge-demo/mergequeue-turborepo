@@ -2598,7 +2598,7 @@ aggeration 1
 acquaintanceships
 asymmetrocarpous
 archbishop
-aspiratory
+aspiratory 1
 altaid 1
 adffrozen
 adjacent

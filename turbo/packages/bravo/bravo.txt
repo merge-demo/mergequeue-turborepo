@@ -5372,7 +5372,7 @@ barbola
 begnaw
 biharmonic 1
 borderlines
-balmy
+balmy 1
 begone
 baryte 1
 begonia
@@ -18297,7 +18297,7 @@ binarium
 bronchodilatation
 balachan
 banyans
-buttocked
+buttocked 1
 buttocker
 bestad
 bacteriopsonic
