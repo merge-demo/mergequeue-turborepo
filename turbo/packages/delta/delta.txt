@@ -5788,7 +5788,7 @@ domal
 demeaning
 disconcert
 deprecative 1
-deprecator
+deprecator 1
 dysbarism
 datism
 deprecatory
