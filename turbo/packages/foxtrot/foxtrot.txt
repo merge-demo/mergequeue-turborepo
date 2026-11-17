@@ -3479,7 +3479,7 @@ fury
 foam
 ficins 1
 fordays
-fuzil
+fuzil 1
 floorhead
 formuliser
 forjaskit
