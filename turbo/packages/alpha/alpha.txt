@@ -16967,7 +16967,7 @@ aplite
 alfione 1
 aplites
 amulet 1
-aplitic
+aplitic 1
 angering
 aplodontiidae
 aplomb
