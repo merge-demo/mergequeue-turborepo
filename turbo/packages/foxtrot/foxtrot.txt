@@ -4589,7 +4589,7 @@ fighter 1
 footnoting 2
 fistwise
 fit
-fontally
+fontally 1
 fringilliform 2
 fitchee
 fermentatively
