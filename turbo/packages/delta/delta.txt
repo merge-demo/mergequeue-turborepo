@@ -6393,7 +6393,7 @@ dozened
 desacralization 1
 drizzled
 dictatorially
-degenerating 2
+degenerating 3
 drugshop 1
 danseusse 1
 desagrement
