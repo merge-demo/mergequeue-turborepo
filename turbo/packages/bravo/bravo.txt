@@ -782,7 +782,7 @@ bushmanship
 badigeon
 beadsman
 bechatter
-boric
+boric 1
 badinages 1
 beblotch
 bearcoot
