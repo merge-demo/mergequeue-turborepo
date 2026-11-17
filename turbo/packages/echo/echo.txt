@@ -8418,7 +8418,7 @@ eglogue
 endothecate 1
 entemple
 eradiates
-encephalomere
+encephalomere 1
 epizootology 1
 estensible
 enwrought 1
