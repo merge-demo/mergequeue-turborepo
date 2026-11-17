@@ -11001,7 +11001,7 @@ flob
 focusses 1
 frontispiecing 1
 fumbled 1
-farde 1
+farde 2
 fausen 1
 frostiest
 flintiest
