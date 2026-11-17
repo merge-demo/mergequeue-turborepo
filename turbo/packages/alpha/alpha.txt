@@ -303,7 +303,7 @@ axiomatic
 affiant
 addleplot
 abnormals 1
-agas
+agas 1
 admiratively 1
 abdominothoracic
 adjective
@@ -11191,7 +11191,7 @@ amritsar
 amphibial 1
 anfractuous 1
 arette
-ashkenazi
+ashkenazi 1
 antisun
 amphibiety 2
 azimuthally
