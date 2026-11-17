@@ -2040,7 +2040,7 @@ gnomologic 1
 greiges
 guazuti
 growers
-gerres
+gerres 1
 grunion
 gyroscopics
 gibbous
