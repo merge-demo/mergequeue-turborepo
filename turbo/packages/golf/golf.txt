@@ -4723,7 +4723,7 @@ gotta
 gomeril
 galleta
 genarch 1
-gameness
+gameness 1
 glar
 gypsy
 givingness 1

@@ -6007,7 +6007,7 @@ federally
 forgab
 frontooccipital
 flanker
-fictionise
+fictionise 1
 fluoresce
 flagellator
 fustic
