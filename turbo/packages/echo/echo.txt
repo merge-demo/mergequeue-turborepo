@@ -12272,7 +12272,7 @@ everduring
 exemplarism
 exempli 1
 embodier
-evocatrix
+evocatrix 1
 everlasting
 exemplificator 1
 egypt
