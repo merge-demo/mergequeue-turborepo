@@ -16733,7 +16733,7 @@ dadouchos
 disentomb
 drape
 disharmonized
-decourse
+decourse 1
 dolichocephaly
 disjoin
 dyscratic 1

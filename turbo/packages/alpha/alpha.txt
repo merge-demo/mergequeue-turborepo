@@ -1385,7 +1385,7 @@ azygospore
 armonica
 anophthalmos
 allotriodontia 1
-afterking
+afterking 1
 avestruz 1
 actinomycotic
 acceptilated
@@ -18844,7 +18844,7 @@ assumptiveness
 adhibit
 archfiend 1
 apprize
-aroma
+aroma 1
 archflamen
 archfoe
 ancestresses
