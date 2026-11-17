@@ -11959,7 +11959,7 @@ drawhead
 disparition
 dismission
 denominated 3
-disembowels
+disembowels 1
 depucel
 deputizes 1
 dewater
