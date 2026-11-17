@@ -5947,7 +5947,7 @@ fantaisie 1
 fisk
 filleter
 fets
-fanwright
+fanwright 1
 fomites
 ferguson
 favism
