@@ -9844,7 +9844,7 @@ doek
 desilicification
 dace 2
 dimensionally 1
-dimensioning
+dimensioning 1
 dimensum
 dubbed
 disangularize
