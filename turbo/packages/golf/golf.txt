@@ -6646,7 +6646,7 @@ gaussmeter
 gastropancreatic
 gymnoglossa
 gawk
-genuflected 1
+genuflected 2
 goniatites
 guttler 1
 grint
