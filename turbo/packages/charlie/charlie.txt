@@ -3613,7 +3613,7 @@ circle
 caraboid
 carabus
 caracara
-carack
+carack 1
 caracks
 cumanagoto 1
 curtaxe
@@ -13984,7 +13984,7 @@ cypressed
 creepers 1
 coonskins
 cratemaking
-cervicovaginal
+cervicovaginal 1
 cyprid
 cyprididae
 cypridina
