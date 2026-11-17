@@ -2624,7 +2624,7 @@ flusters
 foreshoulder
 figuratively
 footingly
-fastidious 1
+fastidious 2
 frumentation
 familiarisation
 fundable
@@ -2716,7 +2716,7 @@ folklore 1
 faunas
 framing
 feedy
-fedity
+fedity 1
 fascis
 fiercer
 fragmentarily
