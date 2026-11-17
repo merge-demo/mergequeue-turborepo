@@ -11101,7 +11101,7 @@ exquisitively
 enwreathing
 eiderdown
 erotetic
-euthycomi
+euthycomi 1
 enol
 executes
 exsiliency 1
