@@ -8499,7 +8499,7 @@ anorganology
 alkaptone 1
 ascent
 alkaptonuric 1
-ancipital
+ancipital 1
 annuisance
 alkatively
 accismus
