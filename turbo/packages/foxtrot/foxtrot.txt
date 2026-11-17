@@ -3447,7 +3447,7 @@ figeater
 floriate 1
 fascisti 2
 feringi
-freesp 1
+freesp 2
 filthily
 fortunation
 forebowline
@@ -5811,7 +5811,7 @@ fayal
 feverously
 fluochloride
 fattening
-faulds
+faulds 1
 fervidly 1
 firepower
 fermate
