@@ -26748,7 +26748,7 @@ confutable
 countercathexis
 counterchanged
 countercharm
-cirriform
+cirriform 1
 counterclassifications 1
 cricketer
 commensurably
