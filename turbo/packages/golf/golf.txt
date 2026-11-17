@@ -1972,7 +1972,7 @@ gruelly
 gypsite
 genealogically
 greywacke
-ghostlify
+ghostlify 1
 glairs 1
 gastricism 1
 garnishments
