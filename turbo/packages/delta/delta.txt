@@ -4718,7 +4718,7 @@ diagonalize
 diemaker
 dentalizing 1
 demography
-denigrations
+denigrations 1
 dichotomically
 damosels
 demographically
