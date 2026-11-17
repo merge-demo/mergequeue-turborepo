@@ -10360,7 +10360,7 @@ gonidiospore
 gastrothecal
 gnashing
 galactosamine
-gardenly
+gardenly 1
 glancing 1
 geneki
 gordiid
