@@ -12557,7 +12557,7 @@ chronocrator
 chronogeneous
 combinedness 1
 chronogram 1
-celestially
+celestially 1
 chronogrammatic
 chronogrammatically
 cheetah
@@ -23443,7 +23443,7 @@ contemplative
 centenaries 1
 contemple
 campanularia
-contemporaneous
+contemporaneous 1
 constancy
 chez
 crannoges
