@@ -18776,7 +18776,7 @@ coleopterist
 coleopterology 1
 catteries
 comediettas
-coleopteron
+coleopteron 1
 chromosomal
 coleoptilum
 clutcher
