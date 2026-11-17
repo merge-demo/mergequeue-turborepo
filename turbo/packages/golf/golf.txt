@@ -10769,7 +10769,7 @@ glycyl
 gutt
 gerenuk
 genialness 1
-gonadectomy 2
+gonadectomy 3
 gandered
 gignitive
 gamesomely 2
