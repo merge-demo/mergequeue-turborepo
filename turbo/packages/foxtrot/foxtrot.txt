@@ -11616,7 +11616,7 @@ fulgour
 formulizer 1
 fragilely 1
 fermata 1
-fustics
+fustics 1
 fiz
 feinschmecker
 fussbudget
