@@ -4835,7 +4835,7 @@ ecize
 exhalate
 extracurricular
 equitable 1
-exulding
+exulding 1
 encouraged 1
 estrous
 excellences
@@ -9533,7 +9533,7 @@ enantiotropy
 esemplasy 1
 extremities
 educationese 1
-ea 1
+ea 2
 earthworm
 enteradenology
 emboldened

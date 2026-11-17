@@ -27658,7 +27658,7 @@ cowhided
 criminative
 cowhides
 caravanning
-cancellability 1
+cancellability 2
 cowhiding
 cabinetworking
 cowhorn
@@ -30911,7 +30911,7 @@ cultistic
 checkerbreast
 cultivability
 cactaceous
-csc
+csc 1
 cenozoic
 cultivate
 cultivates
