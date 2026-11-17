@@ -7940,7 +7940,7 @@ gloss
 gloucester
 gulas
 grandfathers 1
-goma
+goma 1
 gerontophilia
 generativeness
 gangster
