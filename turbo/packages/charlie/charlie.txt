@@ -19629,7 +19629,7 @@ comagmatic 1
 comake
 comaker
 comals
-comamie
+comamie 1
 carrara
 coman
 comanche 1
@@ -30940,7 +30940,7 @@ chainette 1
 culturing
 cystoids
 coigns
-crotched
+crotched 1
 culturize
 cleanliness
 culturological
