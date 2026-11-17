@@ -6230,7 +6230,7 @@ fluxer
 forewisdom
 fingerwork
 frisian
-fluidist
+fluidist 1
 ferroconcrete
 firers 1
 feasibly
@@ -6774,7 +6774,7 @@ forams 1
 fungin
 forewonted 1
 freelancer 1
-folderols
+folderols 1
 foreheater
 foveiform
 fjelds 1
