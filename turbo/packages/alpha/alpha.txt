@@ -20635,7 +20635,7 @@ arthroneuralgia
 articulite
 aetiology 1
 arthropathic
-assamese
+assamese 1
 anapnograph
 arthrophlogosis
 abdaria
