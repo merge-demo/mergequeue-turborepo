@@ -7361,7 +7361,7 @@ ecclesiastically
 ephesian 1
 execrableness
 euclases
-eucyclic
+eucyclic 1
 epiphanic
 ennobler 1
 eelblennies 1
