@@ -8525,7 +8525,7 @@ essee
 extratorrid
 ethmoiditis 1
 epiphysis 1
-elain
+elain 1
 esoterically 1
 eupnea
 exsufflicate
