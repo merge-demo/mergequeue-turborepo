@@ -3083,7 +3083,7 @@ ghorkhar 1
 geat 1
 gynethusia
 greegree 1
-gunpoint
+gunpoint 1
 guardroom
 generally
 glucokinin
