@@ -1786,7 +1786,7 @@ genealogizer
 gastroscopist
 galactin
 gavelled
-gasterosteid
+gasterosteid 1
 gynandrism
 glossolaly
 gutterblood 2
