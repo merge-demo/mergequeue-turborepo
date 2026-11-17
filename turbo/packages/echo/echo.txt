@@ -2333,7 +2333,7 @@ explorational
 entocele
 explosive
 electromobilism
-excrete
+excrete 1
 espaliering 2
 encore
 encomia

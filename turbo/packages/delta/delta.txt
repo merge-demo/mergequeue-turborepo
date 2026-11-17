@@ -9907,7 +9907,7 @@ dodecatoic
 dipneustal
 dogmata
 diminisher 1
-diminishingly
+diminishingly 1
 diminishment 1
 dulcet
 distomatosis
