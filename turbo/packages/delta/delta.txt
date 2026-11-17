@@ -16846,7 +16846,7 @@ drumbeat
 darbukka 1
 drawliest
 declamando 1
-donnishly
+donnishly 1
 dilettante
 dungari
 dorestane
