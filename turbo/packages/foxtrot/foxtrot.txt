@@ -3787,7 +3787,7 @@ fistulate
 frijolillo 1
 filigreeing
 flanconnade
-forestall
+forestall 1
 foxer
 filmstrips 1
 filo
