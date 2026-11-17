@@ -19380,7 +19380,7 @@ colorfulness
 conal
 cognisably 1
 contestability
-colorific
+colorific 1
 colorifics
 colorimetrically
 colorimetrics
