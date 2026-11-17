@@ -9580,7 +9580,7 @@ drazel
 dogmeat
 diddering
 diguanide
-dihalide
+dihalide 1
 derives
 deil
 deadline 1
