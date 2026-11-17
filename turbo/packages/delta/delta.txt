@@ -10539,7 +10539,7 @@ dauw
 diplocardiac
 diplocarpon 1
 discoidea
-diplocaulescent
+diplocaulescent 1
 diplocephalus
 drearisomeness
 dysaphia
