@@ -6293,7 +6293,7 @@ eche 1
 excitants
 examined
 etang
-exorcised
+exorcised 1
 eugenolate 1
 exteriorising 2
 endpapers
