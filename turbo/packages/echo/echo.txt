@@ -4317,7 +4317,7 @@ eisell
 exfodiation
 empowering
 extraterritoriality 3
-enterable
+enterable 1
 endothelioid
 entrenches
 esture
