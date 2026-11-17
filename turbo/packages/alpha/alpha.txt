@@ -11191,7 +11191,7 @@ amritsar
 amphibial 1
 anfractuous 1
 arette
-ashkenazi
+ashkenazi 1
 antisun
 amphibiety 2
 azimuthally
@@ -12137,7 +12137,7 @@ acidity
 avenalin
 anastomosing
 anastrophy
-advocator
+advocator 1
 advisements
 activital 1
 anatase
