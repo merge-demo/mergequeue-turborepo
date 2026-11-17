@@ -15864,7 +15864,7 @@ clemencies
 confederationism 1
 clement
 chorioma
-clementina
+clementina 1
 clemently
 clementness
 caballine
