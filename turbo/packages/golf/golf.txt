@@ -4666,7 +4666,7 @@ grudgingly 1
 garnisheeing
 genista
 galeae
-gowland
+gowland 1
 gitanos
 gite
 gonarthritis 1
