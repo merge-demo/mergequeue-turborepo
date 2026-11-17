@@ -12525,7 +12525,7 @@ emissaria
 enhalos
 eugeny 1
 enneacontahedron
-exoskeleton
+exoskeleton 1
 equicohesive 1
 exist 2
 existed
