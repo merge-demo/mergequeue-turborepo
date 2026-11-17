@@ -7105,7 +7105,7 @@ depictor
 deambulate
 disregarded 1
 dreamers
-desulfurs
+desulfurs 1
 desulphur 1
 delatorian
 desulphurised
