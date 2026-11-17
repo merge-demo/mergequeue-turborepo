@@ -15743,7 +15743,7 @@ crocoite 1
 cleansers
 codescendant 1
 cleanses
-cynosura
+cynosura 1
 cleanskin
 cleanskins
 cleanup

@@ -13102,7 +13102,7 @@ boresome
 beanstalk
 backblocks
 buffeting
-bicorporal 1
+bicorporal 2
 beryls
 bobbling 1
 bassarisk 1
