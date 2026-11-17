@@ -9938,7 +9938,7 @@ fossilated
 fantoms 1
 fumatorium
 fa 1
-fogbow
+fogbow 1
 frigates
 flocculated
 flavin
