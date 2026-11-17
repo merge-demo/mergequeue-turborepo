@@ -3398,7 +3398,7 @@ emphase
 engrains 1
 egoist 1
 embargoes
-endocrinologist
+endocrinologist 1
 euryphage
 enc
 eavedropper 1
