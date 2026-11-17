@@ -7766,7 +7766,7 @@ etherizer
 ergate 1
 explorator
 epiproct
-eupatridae
+eupatridae 1
 electrologists
 expropriating
 excitative
