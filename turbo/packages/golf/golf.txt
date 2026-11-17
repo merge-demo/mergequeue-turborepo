@@ -9062,7 +9062,7 @@ gentlehood
 gasiform 1
 grinch
 grovellings 1
-goldwork
+goldwork 1
 geoid
 garotte
 governableness
