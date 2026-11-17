@@ -4726,7 +4726,7 @@ genarch 1
 gameness
 glar
 gypsy
-givingness
+givingness 1
 globes 1
 grifter 1
 garrnishable
