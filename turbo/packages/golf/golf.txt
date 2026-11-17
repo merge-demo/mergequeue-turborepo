@@ -10227,7 +10227,7 @@ gweduck
 gobbet 1
 gunless
 guillotinist
-geryonid
+geryonid 1
 gematria
 gonophorous
 gastroptosis 1
