@@ -1315,7 +1315,7 @@ fanaticise
 findability
 fernambuck 1
 furtively 1
-finality
+finality 1
 fescenninity 1
 fibromata
 functionarism
