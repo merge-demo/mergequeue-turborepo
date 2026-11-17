@@ -969,7 +969,7 @@ americanoid
 abstain 1
 abstainer
 ameland 1
-angoras
+angoras 1
 abstainers
 abstaining
 abstains
