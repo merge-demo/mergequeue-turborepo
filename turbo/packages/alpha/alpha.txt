@@ -1862,7 +1862,7 @@ aggressions 1
 antiphysic 1
 acervulus
 abiezer
-anadyomene
+anadyomene 1
 athlothete 1
 acestes 1
 adstrict 1
