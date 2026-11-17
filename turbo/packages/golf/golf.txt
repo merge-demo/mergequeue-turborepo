@@ -150,7 +150,7 @@ gentlewomanly
 gigantology
 gaelic
 gs
-glottitis 2
+glottitis 3
 gallicole
 guy
 gentisin 1
@@ -7940,7 +7940,7 @@ gloss
 gloucester
 gulas
 grandfathers 1
-goma
+goma 1
 gerontophilia
 generativeness
 gangster
