@@ -3736,7 +3736,7 @@ embryulculci
 exercitorial 1
 ectoderms
 extravagantness
-enfranchise
+enfranchise 1
 erodability
 excessiveness
 enslaving
