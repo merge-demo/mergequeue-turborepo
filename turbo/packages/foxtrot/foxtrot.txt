@@ -2008,7 +2008,7 @@ fautor
 fours 1
 feeze
 fimicolous 1
-furmity 1
+furmity 2
 feezes
 forejudge
 fefnicute
