@@ -2008,7 +2008,7 @@ fautor
 fours 1
 feeze
 fimicolous 1
-furmity 1
+furmity 2
 feezes
 forejudge
 fefnicute
@@ -5421,7 +5421,7 @@ furor
 flurt
 fittingness 1
 fault 1
-fleecy 1
+fleecy 2
 flyblown
 forager
 fashion
