@@ -13475,7 +13475,7 @@ expurgate 1
 equivocate
 ethionine 1
 equivocated
-enamours
+enamours 1
 embraceorr
 enallachrome
 eyeservice
