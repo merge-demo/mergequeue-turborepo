@@ -7003,7 +7003,7 @@ disregardfulness
 distrustfully 1
 desserts
 dignified
-dessertspoon
+dessertspoon 1
 disenthroning
 duramen 1
 destinezite
