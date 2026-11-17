@@ -7229,7 +7229,7 @@ evolutionally
 epicurize
 enskied
 excrescences
-expunge
+expunge 1
 electronegativity
 eoith
 enterally

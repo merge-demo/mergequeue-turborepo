@@ -6286,7 +6286,7 @@ bennes 1
 beveling
 bennets
 bootlace
-bearleap 1
+bearleap 2
 bookism
 brinehouse
 bissextus
