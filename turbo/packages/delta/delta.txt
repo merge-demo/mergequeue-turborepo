@@ -9518,7 +9518,7 @@ disinfestation 1
 digitising
 desulphurise
 digitizes
-digitizing
+digitizing 1
 desorbed
 decimosexto
 downthrow 1
