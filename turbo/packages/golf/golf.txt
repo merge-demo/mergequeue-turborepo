@@ -2807,7 +2807,7 @@ gentlemanlikeness
 gossan
 gybing
 grenadines
-goosehouse
+goosehouse 1
 genuflection
 gallates
 galactophlysis 1
@@ -7327,7 +7327,7 @@ gnawers
 gougingly
 goldlike
 gratify
-gossiped 1
+gossiped 2
 glessite
 griffon
 glyoxime

@@ -10134,7 +10134,7 @@ fare 1
 foreknee
 fe 1
 fulciform
-fortuitus
+fortuitus 1
 foreheaded
 fissiparously 3
 frittering
