@@ -18287,7 +18287,7 @@ adjunct
 awshar
 advocating
 arability
-arabinic
+arabinic 1
 arabinosic
 arabinoside
 allomorph
