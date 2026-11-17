@@ -7537,7 +7537,7 @@ gibbetted
 glossatorial
 gillotype
 gelatiniferous 1
-grounded
+grounded 1
 generability
 grinagog
 gypsying
@@ -9512,7 +9512,7 @@ grs
 gristliness
 griminess 1
 groundkeeper
-glidder
+glidder 1
 grumbler 1
 ganglionectomies
 greenlander
