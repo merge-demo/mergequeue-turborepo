@@ -13620,7 +13620,7 @@ extraspinal
 extemporized
 escallonia
 emendation
-excursive
+excursive 1
 epencephal
 experientially
 esopgi 1
