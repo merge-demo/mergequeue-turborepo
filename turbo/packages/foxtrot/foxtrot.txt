@@ -1345,7 +1345,7 @@ fendering 1
 fbi
 famousness
 fellani 1
-fervour
+fervour 1
 fathomlessness
 funniment 1
 flichtered 2
