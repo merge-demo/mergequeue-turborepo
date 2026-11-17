@@ -2624,7 +2624,7 @@ flusters
 foreshoulder
 figuratively
 footingly
-fastidious 1
+fastidious 2
 frumentation
 familiarisation
 fundable
@@ -8275,7 +8275,7 @@ fusspots 1
 forepole
 fountaining
 foursome
-fiscalism
+fiscalism 1
 fireplaces
 forhaile 1
 featherer
