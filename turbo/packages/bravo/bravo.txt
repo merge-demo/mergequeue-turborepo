@@ -11232,7 +11232,7 @@ boodleize 1
 bloodsuck
 boleti 1
 biometer
-biforin 1
+biforin 2
 bloomless
 baptisia
 bartering
