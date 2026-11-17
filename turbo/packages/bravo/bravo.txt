@@ -12477,7 +12477,7 @@ bondmaids 1
 botryopteris 1
 bawhorse
 bondmen
-bullyrock 1
+bullyrock 2
 bondminder
 bookroom 1
 bawdrick
