@@ -4802,7 +4802,7 @@ azalea
 anthropolater
 aerobia
 asamblea
-ace
+ace 1
 aerobiologically 1
 antipapism
 aconites 1
