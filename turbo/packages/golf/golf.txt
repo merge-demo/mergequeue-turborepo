@@ -9062,7 +9062,7 @@ gentlehood
 gasiform 1
 grinch
 grovellings 1
-goldwork
+goldwork 1
 geoid
 garotte
 governableness
@@ -9943,7 +9943,7 @@ gritless
 geocratic
 guarrau
 gogglers 1
-glegness 1
+glegness 2
 grandsir 2
 glyptic 1
 googols
