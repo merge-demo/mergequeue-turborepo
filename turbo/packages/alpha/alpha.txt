@@ -18844,7 +18844,7 @@ assumptiveness
 adhibit
 archfiend 1
 apprize
-aroma
+aroma 1
 archflamen
 archfoe
 ancestresses
