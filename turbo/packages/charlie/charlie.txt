@@ -9857,7 +9857,7 @@ chemitypy
 chemizo
 colligated
 chastizer
-curiological
+curiological 1
 chemokinetic
 chemolysis 1
 cicero
