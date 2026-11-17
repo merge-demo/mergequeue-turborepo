@@ -1853,7 +1853,7 @@ foreign
 frilly
 feastless 1
 febrific 1
-feloid 1
+feloid 2
 febrile
 forrue
 fibrinogenically 1
