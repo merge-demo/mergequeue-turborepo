@@ -1770,7 +1770,7 @@ doorpost
 deaving
 diseur
 drydenism
-disregardfully
+disregardfully 1
 dorsolum
 dissevers 1
 divalence
