@@ -6113,7 +6113,7 @@ garters 2
 gadfly
 glutelins
 gunation
-goa
+goa 1
 gadsbud 1
 gauche
 goadsman
