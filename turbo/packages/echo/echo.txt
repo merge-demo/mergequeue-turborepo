@@ -2022,7 +2022,7 @@ erythrosine
 epitrophy
 enthrone
 encurl 1
-exophasia
+exophasia 1
 emersion
 etherish 1
 ethiopic
