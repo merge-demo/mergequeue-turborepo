@@ -2800,7 +2800,7 @@ experimentor
 egyptological
 excalate
 ensnarling
-elenchi
+elenchi 1
 elenchic
 elves
 elenchize
