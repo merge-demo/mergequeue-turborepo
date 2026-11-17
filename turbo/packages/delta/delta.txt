@@ -2046,7 +2046,7 @@ devotion 1
 dimedon
 downgate
 debilities
-decaying
+decaying 1
 diopsimeter
 diety
 dummy

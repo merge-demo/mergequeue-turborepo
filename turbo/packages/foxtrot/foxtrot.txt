@@ -6230,7 +6230,7 @@ fluxer
 forewisdom
 fingerwork
 frisian
-fluidist
+fluidist 1
 ferroconcrete
 firers 1
 feasibly
