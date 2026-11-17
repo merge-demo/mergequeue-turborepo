@@ -9593,7 +9593,7 @@ florate
 freemasonic
 floriform
 freemasonical
-furphy
+furphy 1
 finitesimal
 flatfootedness
 freen
