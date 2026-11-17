@@ -594,7 +594,7 @@ drawboy
 devotionalism
 demifusion 1
 designfully
-dextrose
+dextrose 1
 dvigu
 disbeliever
 drek 1
@@ -9571,7 +9571,7 @@ defining
 divinised
 doctordom
 digressional 1
-digressive
+digressive 1
 digressory
 dastard
 disencumbers
