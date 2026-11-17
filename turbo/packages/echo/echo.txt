@@ -9042,7 +9042,7 @@ ephesine
 emlen 1
 eleoplast
 endothermic
-exocyclic
+exocyclic 1
 eudaimonism 1
 equiglacial
 essays
