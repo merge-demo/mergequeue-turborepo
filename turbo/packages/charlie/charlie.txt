@@ -29779,7 +29779,7 @@ crooksided
 crooksterned
 crool
 counterambush
-crooned
+crooned 1
 cankeredness
 cullible
 citable 1
