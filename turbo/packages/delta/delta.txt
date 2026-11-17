@@ -8949,7 +8949,7 @@ dichromatic
 debonairty
 dishevel
 diplogangliate 1
-dispeller
+dispeller 1
 dahoon 1
 discophora
 damine
