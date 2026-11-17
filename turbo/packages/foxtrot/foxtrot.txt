@@ -4875,7 +4875,7 @@ fives
 fibrinate 1
 fellage
 forbears
-forwent
+forwent 1
 fraternalism 1
 fulvidness
 farina
