@@ -5101,7 +5101,7 @@ amphionic
 aestheticism
 aestheticist
 almoin
-atherosclerotically
+atherosclerotically 1
 aestii
 annihilated
 aestivate
@@ -6799,7 +6799,7 @@ aired
 anabolic
 ambisexual
 arraignability
-airedales
+airedales 1
 asseverations
 augment
 airfare
