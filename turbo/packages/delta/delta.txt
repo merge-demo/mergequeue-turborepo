@@ -3684,7 +3684,7 @@ delegated 1
 dehkan
 durmasts
 decimate
-dehonestation
+dehonestation 1
 disoccupied
 dehorn
 dentinoid
@@ -18348,7 +18348,7 @@ dithionic 1
 duodedena
 duotype
 dasi 1
-deputies
+deputies 1
 duodedenums
 dinah
 dryerman
