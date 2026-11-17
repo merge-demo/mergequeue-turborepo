@@ -18635,7 +18635,7 @@ coinsurance
 coinsurer
 canoncito
 chichituna
-coinsuring
+coinsuring 1
 cointense
 codesigns
 countermeasures
