@@ -772,7 +772,7 @@ goutwort 1
 groupings
 gladsomer
 gassendist
-gawkily
+gawkily 1
 guahiban
 geometrically
 graywether
