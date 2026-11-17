@@ -7289,7 +7289,7 @@ graves
 gutturally 1
 guze
 gravelling
-gangly
+gangly 1
 gappier 1
 goar
 gymnosophy
