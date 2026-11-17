@@ -5476,7 +5476,7 @@ forbids
 fourteenths
 filchers
 feculae 1
-floey
+floey 1
 fenderless 2
 friezy 1
 fasts
