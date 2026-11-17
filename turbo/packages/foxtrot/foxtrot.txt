@@ -5534,7 +5534,7 @@ flagon 2
 fol
 forestays 1
 favellae
-flexion
+flexion 1
 foreclosable 1
 ferdiad
 fleecer
