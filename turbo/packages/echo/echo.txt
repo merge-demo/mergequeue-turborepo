@@ -10709,7 +10709,7 @@ emblazer 1
 enarthrodia
 ecologic
 euhyostylic
-eukairite
+eukairite 1
 enfavor
 eaver 1
 enwraps
