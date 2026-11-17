@@ -5470,7 +5470,7 @@ cellar 1
 casuistries
 casus
 cat
-catabaptist
+catabaptist 1
 contos
 catabases
 capoc 1
