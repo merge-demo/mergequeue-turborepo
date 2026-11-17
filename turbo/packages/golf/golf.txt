@@ -1502,7 +1502,7 @@ groose
 guaxima
 glandless 1
 gorlin 1
-gregarinidal
+gregarinidal 1
 grisounite
 gestureless
 grote 1
