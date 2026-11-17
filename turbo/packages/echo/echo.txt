@@ -13271,7 +13271,7 @@ empierce
 endophragm 1
 estranger
 englishable
-eponymize
+eponymize 1
 explosimeter
 ensheath
 epignathous 1
