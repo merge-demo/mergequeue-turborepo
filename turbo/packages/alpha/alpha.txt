@@ -24761,7 +24761,7 @@ alitrunk
 anteromedial
 aromadendrin 1
 alternators
-antistrike
+antistrike 1
 avidin
 abacot
 angioasthenia

@@ -3682,7 +3682,7 @@ bioplasm 1
 batoon
 biconjugate
 backsettler
-batophobia
+batophobia 1
 benzdioxazine
 balloonery
 bogum
