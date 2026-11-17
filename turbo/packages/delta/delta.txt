@@ -12096,7 +12096,7 @@ disestablismentarian 2
 disreputed
 drapers
 doorknobs
-dialogism
+dialogism 1
 dp
 deutoscolex
 deescalates 1
