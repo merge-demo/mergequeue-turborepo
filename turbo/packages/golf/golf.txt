@@ -6083,7 +6083,7 @@ gnathostome
 gjetosts
 gallivants
 glasgow
-gammarus
+gammarus 1
 gnosis 1
 galenist
 greenbacks
