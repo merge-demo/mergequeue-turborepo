@@ -10088,7 +10088,7 @@ acorned
 anisoin 1
 amission
 angaralite 1
-amerceable
+amerceable 1
 ambivalence
 aiger
 ambiversion
