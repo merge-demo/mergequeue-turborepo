@@ -30911,7 +30911,7 @@ cultistic
 checkerbreast
 cultivability
 cactaceous
-csc
+csc 1
 cenozoic
 cultivate
 cultivates
