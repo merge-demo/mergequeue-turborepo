@@ -8547,7 +8547,7 @@ entoglossal
 emblement 1
 ethylenoid
 endopleura
-enorganic
+enorganic 1
 epibenthos
 easts
 exclusively
