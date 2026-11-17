@@ -10107,7 +10107,7 @@ brasser
 buttonmold 1
 blamability
 bilander
-boomerang
+boomerang 1
 bizarreness
 blacklisting
 boudoiresque
