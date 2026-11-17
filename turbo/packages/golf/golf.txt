@@ -2798,7 +2798,7 @@ gymnasiast 1
 gazettal
 grigris
 gormless 1
-glottalite 1
+glottalite 2
 gloiopeltis
 gentiobiose
 guardianess
