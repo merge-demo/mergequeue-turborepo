@@ -10691,7 +10691,7 @@ flagless
 fist
 footler
 famish
-frightable
+frightable 1
 facultied 1
 fibular
 facetted 2
