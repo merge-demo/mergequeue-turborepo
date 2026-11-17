@@ -7844,7 +7844,7 @@ gastrohysteropexy
 gumby
 gumptious
 gour 1
-gardevin
+gardevin 1
 greece
 galvanometrical 1
 groom 2
@@ -8884,7 +8884,7 @@ glimpsing
 gobang
 grainage
 ganglier
-guidance
+guidance 1
 giddies 1
 giros
 geoducks 1

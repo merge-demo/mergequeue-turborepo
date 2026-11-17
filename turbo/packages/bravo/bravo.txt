@@ -837,7 +837,7 @@ baklawa
 bonnetmen
 blubberhead 1
 bunkery
-balefulness
+balefulness 1
 bodieron
 beduke
 baffleplate
@@ -9500,7 +9500,7 @@ bacteriostat
 babishly
 betassel
 bookholder
-bulimulidae
+bulimulidae 1
 brunoniaceae
 burnetize
 bourride
