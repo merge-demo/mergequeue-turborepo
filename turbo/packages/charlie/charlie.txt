@@ -12307,7 +12307,7 @@ corseted
 christophe 1
 churrworm
 coastside
-centripetally
+centripetally 1
 corkboard
 christopher
 christos
