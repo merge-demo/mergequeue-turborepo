@@ -13984,7 +13984,7 @@ cypressed
 creepers 1
 coonskins
 cratemaking
-cervicovaginal
+cervicovaginal 1
 cyprid
 cyprididae
 cypridina
