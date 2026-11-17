@@ -11620,7 +11620,7 @@ expulses
 enjoinment
 enddamaged
 eavesdropping 1
-eutechnic
+eutechnic 1
 exactable
 exactas 1
 ergastoplasm
