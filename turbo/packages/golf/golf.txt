@@ -3271,7 +3271,7 @@ geriatrist
 goxes
 german 1
 geckos 1
-gunstocks 2
+gunstocks 3
 germanify
 graminiferous
 germanification
