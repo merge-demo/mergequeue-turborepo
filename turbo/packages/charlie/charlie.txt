@@ -15794,7 +15794,7 @@ cyclonologist 1
 cheilitis
 copetitioner
 cleavable 1
-cleavage
+cleavage 1
 cleavages
 cleaveful
 cleavelandite

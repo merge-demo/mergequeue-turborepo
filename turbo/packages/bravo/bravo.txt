@@ -17329,7 +17329,7 @@ bathochromatism
 benzotrifluoride 1
 bahutu 1
 bopyrus
-bucoliast 1
+bucoliast 2
 bunchy
 bunchier
 bunchiness 2
