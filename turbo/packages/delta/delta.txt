@@ -8779,7 +8779,7 @@ disembowel
 dixieland
 doggies
 dipala
-diazoma
+diazoma 1
 diazonium 1
 demethylation
 diazotype
