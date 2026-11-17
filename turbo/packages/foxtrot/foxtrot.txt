@@ -3210,7 +3210,7 @@ foots
 friers 1
 frostwort
 flexionless 1
-fionnuala
+fionnuala 1
 forefend 1
 festered
 forewarnings
