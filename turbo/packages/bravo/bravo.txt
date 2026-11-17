@@ -14374,7 +14374,7 @@ burstones
 bizone
 braidist
 braids 1
-bellyer
+bellyer 1
 brayera
 brayerin 2
 brionies
