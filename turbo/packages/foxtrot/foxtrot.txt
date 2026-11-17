@@ -3648,7 +3648,7 @@ foredate 1
 flameproofer
 forelooper
 floorings
-furthers
+furthers 1
 fuzzing
 fertilised 2
 foreglow
