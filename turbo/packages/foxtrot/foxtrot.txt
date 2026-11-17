@@ -3447,7 +3447,7 @@ figeater
 floriate 1
 fascisti 2
 feringi
-freesp 1
+freesp 2
 filthily
 fortunation
 forebowline
@@ -4223,7 +4223,7 @@ formed 1
 firepinks
 fireplace
 flutterboard 1
-fiendishness
+fiendishness 1
 fraist
 fussification
 faulkland 1
