@@ -2170,7 +2170,7 @@ defalcator
 decarburising
 diakonika
 despiritualize
-differing
+differing 1
 directorship 1
 dissympathy
 decarburized
