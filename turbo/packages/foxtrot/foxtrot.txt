@@ -629,7 +629,7 @@ facesaving 1
 falconelle
 falsifier
 fortnightlies
-frogmouths
+frogmouths 1
 foveolet
 floaty 1
 falsifying
