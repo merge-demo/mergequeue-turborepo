@@ -2199,7 +2199,7 @@ gecarcinidae 1
 gynaecologist
 garrotte
 greedily
-glycerinating
+glycerinating 1
 gunyeh
 getable
 gombo
