@@ -2114,7 +2114,7 @@ bardiest
 banqueting
 beseem
 buddhistic 1
-besteer
+besteer 1
 bladeless
 boguing 1
 bulker
