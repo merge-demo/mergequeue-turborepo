@@ -4059,7 +4059,7 @@ dishonourably
 dorsicolumn
 dybbuks
 delineated
-dodgasted
+dodgasted 1
 died 1
 decodes
 daschagga
