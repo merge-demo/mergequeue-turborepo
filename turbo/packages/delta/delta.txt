@@ -9312,7 +9312,7 @@ dactylography
 devitrifying
 diffame
 dietted
-detracts
+detracts 1
 diffarreation
 doited
 dressers
