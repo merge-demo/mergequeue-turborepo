@@ -17791,7 +17791,7 @@ ducked
 discussionis
 disarrange
 domicilii 1
-dallying 1
+dallying 2
 duckery
 duckers 2
 duces

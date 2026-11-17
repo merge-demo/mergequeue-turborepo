@@ -138,7 +138,7 @@ gyros
 gangrening 1
 gadrooning 1
 gersum
-golkakra 1
+golkakra 2
 glacises
 granulize 1
 gageable 1
