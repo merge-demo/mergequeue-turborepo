@@ -25510,7 +25510,7 @@ crepidomata
 craniometer
 cavitates
 controversionalism
-counter
+counter 1
 confervous
 coronaled
 coronalled
