@@ -4835,7 +4835,7 @@ ecize
 exhalate
 extracurricular
 equitable 1
-exulding
+exulding 1
 encouraged 1
 estrous
 excellences
