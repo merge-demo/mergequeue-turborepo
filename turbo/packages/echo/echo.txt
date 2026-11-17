@@ -11432,7 +11432,7 @@ ectonephridium 1
 exes 1
 erinnic 1
 effectually
-electrotypist
+electrotypist 1
 escapades 1
 empyreumatize
 eductions
