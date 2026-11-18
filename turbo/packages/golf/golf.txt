@@ -2990,7 +2990,7 @@ gendered
 galatine
 ghetti
 galvanocauteries
-gentlefolk
+gentlefolk 1
 gambusia 2
 guatambu 2
 greasiness
