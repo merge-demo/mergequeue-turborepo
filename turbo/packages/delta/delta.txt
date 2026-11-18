@@ -3670,7 +3670,7 @@ disentangled
 devisable 1
 dehydrogenisation
 daddling
-delustrant
+delustrant 1
 dackering
 deprivation
 dehisce 1
