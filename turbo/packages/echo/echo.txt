@@ -11673,7 +11673,7 @@ ecphasis
 edulcorative
 exaggeratively
 exagitate
-effluence
+effluence 1
 electromer
 epiphragmal
 epileptologist
