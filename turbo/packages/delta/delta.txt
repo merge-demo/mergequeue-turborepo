@@ -7539,7 +7539,7 @@ deontologist 1
 desilverization
 deuterosy 1
 drubber
-ducktail
+ducktail 1
 discs 1
 deuterotype 1
 deuterozooid
