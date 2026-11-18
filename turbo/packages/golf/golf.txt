@@ -8489,7 +8489,7 @@ grownups
 geomedical
 go
 gramaphone
-gametophyte
+gametophyte 1
 ginhound 1
 ganglioblast
 gompholobium 1
