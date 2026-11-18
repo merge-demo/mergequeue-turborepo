@@ -8814,7 +8814,7 @@ graecized 2
 goldeye
 greyed 1
 grosser 1
-gainlier
+gainlier 1
 galleyworm
 graphostatical
 graphostatic
