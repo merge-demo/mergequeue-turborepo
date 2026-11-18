@@ -9719,7 +9719,7 @@ forgathered
 flushing 2
 frenetically
 forlorner
-ferring
+ferring 1
 frenula
 frenular 2
 forehill
