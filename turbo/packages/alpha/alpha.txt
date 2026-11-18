@@ -17632,7 +17632,7 @@ accosts
 airwise
 appertained
 acrose
-appertainment
+appertainment 1
 auditory 1
 apolaustic
 antiagglutination
