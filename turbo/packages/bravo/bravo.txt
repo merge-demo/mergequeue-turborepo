@@ -4623,7 +4623,7 @@ brittler
 borborus
 bedaubing 1
 beltlines 1
-bloodstone
+bloodstone 1
 belial
 biddelian
 beats
