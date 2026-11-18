@@ -10975,7 +10975,7 @@ excavates
 epibaterium 1
 eurybenthic
 endeared 1
-etacist
+etacist 1
 endears 2
 eusynchite
 eurycephalic
