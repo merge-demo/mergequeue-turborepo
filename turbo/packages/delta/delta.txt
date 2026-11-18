@@ -14442,7 +14442,7 @@ diversiflorate
 diversiform
 dachshunde
 dutiful 1
-desmotomy
+desmotomy 1
 diversisporous 1
 deindividuate
 doctus
