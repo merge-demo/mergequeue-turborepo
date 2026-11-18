@@ -6802,7 +6802,7 @@ arraignability
 airedales 2
 asseverations
 augment
-airfare
+airfare 1
 amyctic
 airflow 1
 antimoralist
