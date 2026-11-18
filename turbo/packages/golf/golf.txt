@@ -3781,7 +3781,7 @@ goloka 1
 gavialoid 1
 gulancha
 gorblimey
-glamorous
+glamorous 1
 genealogies
 geodaesia
 gorger 1
