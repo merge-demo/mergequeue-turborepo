@@ -4992,7 +4992,7 @@ gisarmes
 gassy 1
 glandulousness
 groused
-gradus
+gradus 1
 goalkeeper
 golconda
 graduses
