@@ -24162,7 +24162,7 @@ autojigger 1
 autojuggernaut
 ancylocladus
 adducted
-assonantic
+assonantic 1
 anthozoa
 achroodextrinase 1
 arenulous
