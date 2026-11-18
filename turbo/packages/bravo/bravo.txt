@@ -18342,7 +18342,7 @@ butts
 bolita
 brocatels
 bluestone
-bucellas
+bucellas 1
 bipontine
 bensail 1
 braw
