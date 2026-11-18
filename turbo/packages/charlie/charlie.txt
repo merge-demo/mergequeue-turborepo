@@ -12369,7 +12369,7 @@ chromatophore
 carpel
 chromatophoric
 canthectomy
-chevroned
+chevroned 1
 cocineras
 confederater
 cnidophobia
