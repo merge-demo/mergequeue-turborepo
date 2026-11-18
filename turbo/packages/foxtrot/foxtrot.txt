@@ -9219,7 +9219,7 @@ fasciolet 1
 fresnel 2
 flavoury 1
 foresentence
-fetishist
+fetishist 1
 fleuret 1
 fourchet
 friesic
