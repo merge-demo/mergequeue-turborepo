@@ -2247,7 +2247,7 @@ ghazies
 grisled 1
 genette
 gekkonid
-gibers
+gibers 1
 gristle
 gossipmongering 2
 galactase
