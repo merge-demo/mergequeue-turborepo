@@ -15171,7 +15171,7 @@ confrontationism
 chondrophyte
 clairvoyances
 contraposaune
-clairvoyancy
+clairvoyancy 1
 clairvoyant
 ceratoduses
 chinaberry
