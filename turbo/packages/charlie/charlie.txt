@@ -29502,7 +29502,7 @@ crystallometric
 crystallose
 coevality
 crystallurgy
-ceruminiferous
+ceruminiferous 1
 companion 1
 coroniform
 chithe
