@@ -5477,7 +5477,7 @@ blubbery
 boardmanship
 bookshops
 boldo
-boatable
+boatable 1
 becudgelling
 beetling 1
 behemoths
