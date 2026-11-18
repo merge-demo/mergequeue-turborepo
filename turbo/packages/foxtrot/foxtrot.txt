@@ -1647,7 +1647,7 @@ futilities
 facie
 formicoidea 1
 framework
-fatherlessness
+fatherlessness 1
 frothiest 1
 flindosa 1
 feltmaking
