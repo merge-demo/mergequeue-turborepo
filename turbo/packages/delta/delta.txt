@@ -7423,7 +7423,7 @@ diplegic 1
 defrosts
 dich
 dermoplasty 1
-diffide
+diffide 1
 djellab
 desmotropism
 drivable
