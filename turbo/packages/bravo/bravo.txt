@@ -3606,7 +3606,7 @@ bathysophical 2
 bathysphere
 bigmouths 1
 boliviano 1
-bathythermograph
+bathythermograph 1
 bipartite
 bathmat
 bathmats
