@@ -4470,7 +4470,7 @@ becloak
 bereavement
 boojum
 bethorning 1
-beclog
+beclog 1
 bolshevistic 1
 billeter
 becoiffed 1
