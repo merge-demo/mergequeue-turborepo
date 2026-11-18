@@ -6759,7 +6759,7 @@ beglobed 2
 bonneter
 bondman
 becripple 1
-bernice
+bernice 1
 begaze
 berninesque
 bevesselled
