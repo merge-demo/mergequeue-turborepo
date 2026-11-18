@@ -1820,7 +1820,7 @@ gratility 1
 gaggling
 gouts 1
 gemmiparity 1
-gobleted 1
+gobleted 2
 guinean
 gullah
 gatekeeper
@@ -8489,7 +8489,7 @@ grownups
 geomedical
 go
 gramaphone
-gametophyte
+gametophyte 1
 ginhound 1
 ganglioblast
 gompholobium 1

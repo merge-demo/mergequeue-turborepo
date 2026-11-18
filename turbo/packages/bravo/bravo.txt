@@ -8178,7 +8178,7 @@ bidimensional
 binucleate 1
 barble
 befouls 1
-biremes
+biremes 1
 biding
 bidirectional
 biophagy
@@ -14893,7 +14893,7 @@ breadwinning
 breakability
 brokers
 breakable
-breakaxe 1
+breakaxe 2
 bitterless
 bilipurpurin
 burning 1
