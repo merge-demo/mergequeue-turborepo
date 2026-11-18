@@ -4477,7 +4477,7 @@ becoiffed 1
 bulkiness 1
 bludging
 beclogs
-bonspells
+bonspells 1
 beclothe 1
 bestialised
 banting
@@ -5641,7 +5641,7 @@ blisters
 brough
 blepharal
 bewigs 1
-barbitone
+barbitone 1
 businessmen
 bardes
 byelaws
