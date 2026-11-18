@@ -8304,7 +8304,7 @@ benzophosphinic
 brotuliform
 brakehead
 bedsteads
-bovarysm
+bovarysm 1
 broilers 1
 bigamies
 bigamist 1
