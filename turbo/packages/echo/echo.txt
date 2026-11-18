@@ -1705,7 +1705,7 @@ expenditures
 encapsulations
 eyedot 1
 exploder
-evener
+evener 1
 exaggerating
 enamel
 electrolyses
