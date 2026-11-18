@@ -11447,7 +11447,7 @@ falteringly 1
 furrily 2
 fructifier
 frigage 3
-frostless
+frostless 1
 fathoms 1
 fetichlike 1
 fusible
