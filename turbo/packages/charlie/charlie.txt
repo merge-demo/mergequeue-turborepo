@@ -12355,7 +12355,7 @@ chromatographic
 chromatographically
 cuticularize
 chromatolysis
-conquerable
+conquerable 1
 chromatolytic
 chromatologies
 cytogenetic
