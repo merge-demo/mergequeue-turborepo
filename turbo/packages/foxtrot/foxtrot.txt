@@ -10581,7 +10581,7 @@ favose
 feudalist 4
 funambulation
 fructescent 1
-fruitlessly
+fruitlessly 1
 flumadiddle
 fatherlands
 filmily
