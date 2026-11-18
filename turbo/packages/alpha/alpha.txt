@@ -6234,7 +6234,7 @@ agonizer
 avenged 1
 aunjetitz
 administers
-agonizingly
+agonizingly 1
 alphabetise
 absolver
 agonizingness 1

@@ -9855,7 +9855,7 @@ gastrochaena
 ghrush 1
 gladdens 1
 gerygone
-gadget 1
+gadget 2
 garble 1
 gustless 1
 guanin
