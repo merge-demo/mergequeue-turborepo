@@ -13952,7 +13952,7 @@ agriotypidae
 alvelos 1
 advantaging
 antagony
-auscultator
+auscultator 1
 antiprestidigitation
 anamniota
 aquarians 2
