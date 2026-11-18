@@ -7423,7 +7423,7 @@ diplegic 1
 defrosts
 dich
 dermoplasty 1
-diffide
+diffide 1
 djellab
 desmotropism
 drivable
@@ -11676,7 +11676,7 @@ dirhams
 disarranger
 discour
 dimethylanthranilate
-daubiest 1
+daubiest 2
 disjunction
 dyotheletian 1
 dele
