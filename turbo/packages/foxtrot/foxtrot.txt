@@ -3466,7 +3466,7 @@ foreseason 1
 foreconsider
 fallback
 fighteress 1
-fatigation
+fatigation 1
 formboard 1
 foraminifer
 favillae
