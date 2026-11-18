@@ -2423,7 +2423,7 @@ guiac
 gummose
 gratification
 guardship
-gemmological
+gemmological 1
 gemmologist 1
 grocers
 guativere 2
