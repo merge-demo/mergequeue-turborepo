@@ -24598,7 +24598,7 @@ aumaga 1
 ammobium
 ambergrease
 actinophryan
-avalanche
+avalanche 1
 agre 1
 apotheosize 1
 amantadine
