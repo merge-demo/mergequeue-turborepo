@@ -4749,7 +4749,7 @@ fortress 1
 forereach
 fieldstrip 1
 fingal
-frontogenesis
+frontogenesis 1
 footwalls
 feif
 filipino 1
