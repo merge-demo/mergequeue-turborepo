@@ -8178,7 +8178,7 @@ bidimensional
 binucleate 1
 barble
 befouls 1
-biremes
+biremes 1
 biding
 bidirectional
 biophagy
