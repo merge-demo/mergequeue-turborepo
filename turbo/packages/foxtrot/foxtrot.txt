@@ -4055,7 +4055,7 @@ formants
 foppishness
 finitude
 flushable
-fluking
+fluking 1
 frijoles 1
 frontage 1
 fondish
@@ -5172,7 +5172,7 @@ farsakh
 flatulency 1
 flatfeet
 flatulencies
-fictions 1
+fictions 2
 flameflower
 feeding
 flued
