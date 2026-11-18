@@ -890,7 +890,7 @@ amberite
 amphivasal
 angiohypertonia 1
 amphineurous
-aeronomy
+aeronomy 1
 alachah 1
 akroterion
 audiometric
