@@ -3790,7 +3790,7 @@ electroacoustical
 embussing
 espigle
 enecate
-explored
+explored 1
 escalader
 enquirer 1
 emcumbering
