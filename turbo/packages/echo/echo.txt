@@ -9753,7 +9753,7 @@ euhedral
 emblematicize
 ectogenesis 2
 enrobing
-exfoliatory
+exfoliatory 1
 epyllion
 estivating 1
 erythronium
