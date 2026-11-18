@@ -11706,7 +11706,7 @@ chondrilla
 chondrinous
 crotalism 1
 cirrhotic
-chondrioma
+chondrioma 1
 churlhood
 chemisorb
 chondriomere
