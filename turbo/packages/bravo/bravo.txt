@@ -9752,7 +9752,7 @@ bejumble
 bismuthous
 belfried
 busking
-balanoglossus
+balanoglossus 1
 barway
 beringed
 bismutosphaerite
