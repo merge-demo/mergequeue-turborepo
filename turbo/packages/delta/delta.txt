@@ -4438,7 +4438,7 @@ deception
 divulse
 demicircular
 divulsor
-drowningly
+drowningly 1
 defence
 deceptions
 demicuirass

@@ -10315,7 +10315,7 @@ boracic
 blacksmithing
 betulites
 biochemy
-beastdom
+beastdom 1
 botargo
 boyang
 beehead
