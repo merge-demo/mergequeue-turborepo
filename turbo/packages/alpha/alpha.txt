@@ -685,7 +685,7 @@ antiscorbutic
 abortient
 anacardic
 assuring
-athwartship
+athwartship 1
 aphroditidae
 abortin
 antihydropin
