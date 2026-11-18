@@ -295,7 +295,7 @@ gibing 1
 gaslock
 gaddish
 grubstaked 1
-guahivo 2
+guahivo 3
 gummier 1
 gaintwist 1
 grypanian
@@ -2484,7 +2484,7 @@ grewia
 grots
 guttersnipes 1
 gibbetwise
-gangrened
+gangrened 1
 genitalic 2
 girdlelike
 gaucher
