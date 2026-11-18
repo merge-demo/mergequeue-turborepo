@@ -3742,7 +3742,7 @@ genoblastic 2
 gastrocnemian
 gobbets 2
 giarra
-gherao
+gherao 1
 gelder
 giarre
 gastaldo 1
