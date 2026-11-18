@@ -11881,7 +11881,7 @@ essenic
 emits
 echium 1
 except
-escheatment
+escheatment 1
 encolure
 entomologise
 epigenetic
