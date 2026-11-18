@@ -23976,7 +23976,7 @@ acenaphthenyl
 autocatalyses 1
 acclamations
 apsinthion
-autocatalyze
+autocatalyze 1
 aeolipile
 aquiferous
 apoplectical 1
