@@ -6173,7 +6173,7 @@ anions 1
 agnoite
 ankylurethria
 ababua
-appar
+appar 1
 agnosia
 antimonic
 anthraces
