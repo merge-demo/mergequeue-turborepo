@@ -14207,7 +14207,7 @@ disunity 1
 disprofess
 deteriorism
 demobilizing 1
-deeds
+deeds 1
 delegation
 diplococci 1
 diploic
