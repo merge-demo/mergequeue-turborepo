@@ -4665,7 +4665,7 @@ glucosuria
 grudgingly 1
 garnisheeing
 genista
-galeae
+galeae 1
 gowland 1
 gitanos
 gite
@@ -9163,7 +9163,7 @@ giggling
 gryde 1
 greenyard
 gripping
-gelandesprung 1
+gelandesprung 2
 goshawful
 grayfish
 guiled 1
