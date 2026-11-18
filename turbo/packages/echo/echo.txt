@@ -13810,7 +13810,7 @@ engraftment
 extorts
 ecteron
 enarch
-esparto
+esparto 1
 eukaryote
 endebt
 expurgated
