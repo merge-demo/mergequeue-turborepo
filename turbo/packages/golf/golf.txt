@@ -8179,7 +8179,7 @@ gladlier
 gigabit
 gujar 2
 gelatinise
-geometricize
+geometricize 1
 grandfatherless
 gestative
 gooseneck
