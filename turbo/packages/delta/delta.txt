@@ -6816,7 +6816,7 @@ domesticative
 demitube
 desmopathology
 desmopexia
-deheathenize
+deheathenize 1
 dreamer 1
 dentary
 deorganize
