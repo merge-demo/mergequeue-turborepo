@@ -6720,7 +6720,7 @@ exsuperate
 exophoria
 exhilarate
 enthral 1
-eschewers
+eschewers 1
 enthralldom
 exurb
 eolithic
