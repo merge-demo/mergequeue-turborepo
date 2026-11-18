@@ -2323,7 +2323,7 @@ barber 1
 bordrag 1
 businessese
 bizet 1
-bromidic
+bromidic 1
 botryomyces
 betokened
 budgerygah
@@ -3606,7 +3606,7 @@ bathysophical 2
 bathysphere
 bigmouths 1
 boliviano 1
-bathythermograph
+bathythermograph 1
 bipartite
 bathmat
 bathmats
