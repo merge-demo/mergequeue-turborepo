@@ -9858,7 +9858,7 @@ deuteronomist 2
 dimeride 1
 dampproofer 1
 diosgenin 1
-dumba
+dumba 1
 dynamic
 diversipedate
 dimerism
