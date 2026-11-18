@@ -2297,7 +2297,7 @@ disavowable
 didna
 dilapidate
 diabrotica
-determinists 1
+determinists 2
 decke 1
 diethylstilbestrol
 demidolmen 1
