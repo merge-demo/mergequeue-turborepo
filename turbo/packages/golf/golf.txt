@@ -4678,7 +4678,7 @@ gecks
 garshuni 1
 goniale 1
 gitonin
-graphitizable
+graphitizable 1
 gratinate
 greenfishes
 grandiflora
