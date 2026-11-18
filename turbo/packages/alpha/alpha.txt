@@ -1020,7 +1020,7 @@ abridgers
 athenianly
 antimethodic
 anablepses
-amyloidal
+amyloidal 1
 apoda
 abstractor
 andorobo
