@@ -13155,7 +13155,7 @@ bilgy
 borophenylic
 bororoan
 beadman
-bube
+bube 1
 bygo
 brucite
 borosalicylic
