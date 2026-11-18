@@ -1243,7 +1243,7 @@ frizzily
 ferrimagnet
 filipendula 2
 forespeed 1
-fluorography 1
+fluorography 2
 folds
 fassalite
 fastbacks
