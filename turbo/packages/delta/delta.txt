@@ -14649,7 +14649,7 @@ decentre
 decameter 1
 draftees
 dora
-disinvite
+disinvite 1
 deuteropathy
 dlr
 devitalized
