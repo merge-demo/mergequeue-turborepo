@@ -1078,7 +1078,7 @@ exfigure 2
 equipoised
 evaluates 1
 envined
-edificatory
+edificatory 1
 expostulatively 1
 ephahs
 edificed

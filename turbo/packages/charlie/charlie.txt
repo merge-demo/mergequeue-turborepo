@@ -15171,7 +15171,7 @@ confrontationism
 chondrophyte
 clairvoyances
 contraposaune
-clairvoyancy
+clairvoyancy 1
 clairvoyant
 ceratoduses
 chinaberry
@@ -24072,7 +24072,7 @@ conversationable
 competency
 coactor 1
 crimpy
-conversationalists
+conversationalists 1
 conversationally
 conversationism
 conversationist
