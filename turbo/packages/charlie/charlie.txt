@@ -6692,7 +6692,7 @@ celebrant
 cohesions
 celebrants
 cerebellipetal
-celebrate
+celebrate 1
 chevrons
 comiakin
 celebratedly
