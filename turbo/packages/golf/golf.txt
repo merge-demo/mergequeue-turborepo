@@ -4764,7 +4764,7 @@ gastrosopher
 glady 1
 gamophagia
 glassen
-glans
+glans 1
 goodwilies
 guardo
 glacieret
