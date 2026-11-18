@@ -10190,7 +10190,7 @@ fibroadenia 1
 frizzy 1
 foresightedly
 fastings
-fleishig
+fleishig 1
 formalism 2
 flint 3
 farce
