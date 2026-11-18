@@ -2219,7 +2219,7 @@ briscola
 blimpishness 1
 bararite
 barathea
-barbellate
+barbellate 1
 bibbled 1
 bemaddens
 bellicosely
