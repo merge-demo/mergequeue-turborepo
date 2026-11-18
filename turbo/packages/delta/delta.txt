@@ -17875,7 +17875,7 @@ desentimentalize
 doctrine 1
 durationless
 dishmaking 1
-dueled
+dueled 1
 deathday 2
 duelers
 duelistic
