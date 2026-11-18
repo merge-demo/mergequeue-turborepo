@@ -3876,7 +3876,7 @@ goustrous
 grecing
 gawkies 1
 giving 1
-genitally
+genitally 1
 graphomotor
 gigasecond
 glamorously
@@ -6227,7 +6227,7 @@ galoch 1
 gospelly
 gaillardia 1
 gainable 1
-gobble
+gobble 1
 gowpen 1
 gobbled
 gidjee 1
