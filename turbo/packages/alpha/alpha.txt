@@ -5153,7 +5153,7 @@ aeviternal
 anatomicomedical 1
 af
 avernal
-aluminosis
+aluminosis 1
 arbalos
 anelastic
 amourist
