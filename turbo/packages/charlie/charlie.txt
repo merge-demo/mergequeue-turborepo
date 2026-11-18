@@ -16828,7 +16828,7 @@ clubfoot
 clubfooted
 canonicalizing
 clubhand
-clubhands
+clubhands 1
 cerebralgia
 clubhaul
 correctant
