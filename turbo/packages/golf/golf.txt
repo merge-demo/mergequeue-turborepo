@@ -6702,7 +6702,7 @@ geneticist
 georgic
 gulash
 graminivorous
-galvanolysis
+galvanolysis 1
 giddyberry 1
 glucide 2
 groomy
