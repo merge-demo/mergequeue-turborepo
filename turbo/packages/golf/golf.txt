@@ -1313,7 +1313,7 @@ ginglymoid 1
 gateward
 gibbered
 groomers
-gas 1
+gas 2
 galilee 1
 gorging
 gargler 2
