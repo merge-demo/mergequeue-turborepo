@@ -2484,7 +2484,7 @@ grewia
 grots
 guttersnipes 1
 gibbetwise
-gangrened
+gangrened 1
 genitalic 2
 girdlelike
 gaucher
