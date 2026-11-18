@@ -10607,7 +10607,7 @@ glumose
 gallinules
 graveolence 1
 gemmiform
-geld
+geld 1
 goy
 guildite
 gunpoints
