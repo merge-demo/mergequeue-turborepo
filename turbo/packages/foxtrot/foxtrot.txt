@@ -7976,7 +7976,7 @@ fatbirds
 froes
 fontina
 fellmongered 1
-frontless
+frontless 1
 forestage
 frivolled
 fae 2
