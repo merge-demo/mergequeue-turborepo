@@ -2323,7 +2323,7 @@ barber 1
 bordrag 1
 businessese
 bizet 1
-bromidic
+bromidic 1
 botryomyces
 betokened
 budgerygah
