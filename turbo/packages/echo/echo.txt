@@ -12046,7 +12046,7 @@ epiclike
 enforcible
 elflike 1
 exotoxins
-expurgatorial
+expurgatorial 1
 embalmed
 excortication
 eschewals
