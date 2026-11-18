@@ -18981,7 +18981,7 @@ collectivities
 charonic
 crenele 1
 caloricity
-collectivize
+collectivize 1
 collectivized 1
 collectivizes
 collectivizing
