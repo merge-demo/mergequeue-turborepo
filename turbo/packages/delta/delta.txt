@@ -8518,7 +8518,7 @@ decongesting 1
 diapedeses
 diapedetic
 divisionism
-daggletailed
+daggletailed 1
 diplomatized
 diapente
 dehydrofreeze
