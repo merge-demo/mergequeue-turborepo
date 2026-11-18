@@ -14683,7 +14683,7 @@ dowers 1
 doxies
 dieselize
 decurrency
-debauchee
+debauchee 1
 dolent
 djuka
 diaskeuast
