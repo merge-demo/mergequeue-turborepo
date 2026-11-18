@@ -1123,7 +1123,7 @@ giddier
 grotesco
 grope
 galatic 2
-gastrointestinal
+gastrointestinal 1
 gruntled
 gashes
 gurnards
