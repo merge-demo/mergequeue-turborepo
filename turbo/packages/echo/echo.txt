@@ -5289,7 +5289,7 @@ enslaves
 endocorpuscular
 endorsed
 enchantress
-emendating 1
+emendating 2
 effector
 endorsees
 extemporize 1
