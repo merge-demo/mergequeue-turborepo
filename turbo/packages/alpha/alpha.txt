@@ -857,7 +857,7 @@ agha
 amplectant
 accurse
 absconsa
-abscound
+abscound 1
 aphakia
 arbitrarily 1
 aftercoming
