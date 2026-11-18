@@ -4848,7 +4848,7 @@ carrioles
 cutwaters
 caplet
 combretaceous
-carrions
+carrions 1
 carryons
 compense
 carryout
