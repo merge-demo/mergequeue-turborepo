@@ -2608,7 +2608,7 @@ gowf
 gasometrical 1
 glossolabial
 geiger
-goutte
+goutte 1
 garabato
 granules
 galluot
