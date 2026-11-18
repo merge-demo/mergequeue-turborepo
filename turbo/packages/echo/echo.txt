@@ -4635,7 +4635,7 @@ engaged
 etherealised
 enhydrite
 extratensive
-exteriorisation
+exteriorisation 1
 erythroxyline
 exuberantness 1
 elasticizes 3
