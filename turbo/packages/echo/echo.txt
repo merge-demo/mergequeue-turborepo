@@ -6029,7 +6029,7 @@ enterospasm
 empaler 1
 eyrie
 estoque 1
-expromissor
+expromissor 1
 endosarcs
 expire
 epiglottises
