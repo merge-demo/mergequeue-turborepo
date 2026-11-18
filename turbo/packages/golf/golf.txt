@@ -10594,7 +10594,7 @@ gigging 1
 garbanzo
 gallbladder
 glossmeter
-gadidae
+gadidae 1
 gourmetism 2
 gillion
 glandaceous
