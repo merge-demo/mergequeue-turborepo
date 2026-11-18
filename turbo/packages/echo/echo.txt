@@ -1307,7 +1307,7 @@ effect
 endocardiac
 exopeptidase 1
 ecclesiae 2
-effective
+effective 1
 euryphagous
 epimachinae
 entomologists
