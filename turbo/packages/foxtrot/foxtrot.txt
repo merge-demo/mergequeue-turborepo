@@ -3362,7 +3362,7 @@ foreyards
 fusilades
 falern
 forcut 1
-fopling
+fopling 1
 ferruginous
 fossilification
 flappering
