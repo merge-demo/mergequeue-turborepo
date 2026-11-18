@@ -12984,7 +12984,7 @@ cursoriidae
 cyanometer
 cuneate
 camaile
-chiasmatypy
+chiasmatypy 1
 curateship
 cludder 1
 cyanophyceae
@@ -26869,7 +26869,7 @@ cassoon
 contest
 counterguard 1
 counterguerilla
-catchpollery
+catchpollery 1
 courtless
 coraciiformes
 counterhaft
