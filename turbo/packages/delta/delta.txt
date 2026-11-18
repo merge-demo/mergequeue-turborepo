@@ -4857,7 +4857,7 @@ demophilism
 disqualified
 demophobia
 decolonise
-disbursed
+disbursed 1
 dissentious 2
 dictators
 demoraliser
