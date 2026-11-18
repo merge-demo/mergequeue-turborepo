@@ -8976,7 +8976,7 @@ fractus 2
 forwork
 fricassee 1
 fiendship 2
-feudaries
+feudaries 1
 flintified
 flux
 fowlfoot 1
