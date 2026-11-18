@@ -15312,7 +15312,7 @@ antihierarchism
 aitis
 assignations 1
 amortise
-anelectrotonic
+anelectrotonic 1
 aircraftswomen
 antihypnotically
 achromatically

@@ -6952,7 +6952,7 @@ chronobarometer
 counterimitation
 censitaire
 champion
-curiosity
+curiosity 1
 chitchats
 cisalpine
 censored
