@@ -4366,7 +4366,7 @@ gonorrhoea 1
 glyceric 2
 ghaut
 gluer
-graces
+graces 1
 griffinage 1
 gytling 1
 gynodioecious
@@ -10607,7 +10607,7 @@ glumose
 gallinules
 graveolence 1
 gemmiform
-geld
+geld 1
 goy
 guildite
 gunpoints
