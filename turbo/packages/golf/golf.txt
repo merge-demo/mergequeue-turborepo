@@ -8301,7 +8301,7 @@ glaciated
 ghostwritten
 geomagnetics
 gentes 2
-greeneries
+greeneries 1
 gladness
 gelation 1
 grailing
