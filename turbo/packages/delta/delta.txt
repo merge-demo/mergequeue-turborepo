@@ -7246,7 +7246,7 @@ dollies
 digoxins
 diaxone
 disturbor
-desiccative 1
+desiccative 2
 doukhobor
 devisers
 defecters 1
