@@ -6626,7 +6626,7 @@ expergefacient
 esplees 1
 electronarcosis 1
 eurocentric
-eradicates
+eradicates 1
 endermically
 enuring
 exhedrae
