@@ -24415,7 +24415,7 @@ architrave 1
 argenter
 ampullated
 alimentum
-arsenicked
+arsenicked 1
 autosporic
 autostarter
 airmanship
