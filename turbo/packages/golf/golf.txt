@@ -7139,7 +7139,7 @@ gynerium
 gladden
 groove
 gestate
-galvayne
+galvayne 1
 grabbers
 gnawable 1
 gloryful 1
