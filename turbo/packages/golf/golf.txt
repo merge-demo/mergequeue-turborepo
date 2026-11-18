@@ -3344,7 +3344,7 @@ gluside
 gibbar 1
 germinations
 gallicolae 1
-gools
+gools 1
 grittily
 gaslighting
 ganapati 1
