@@ -1160,7 +1160,7 @@ feebleminded 1
 feller
 figeaters
 flyblows
-footy
+footy 1
 farthingdeal
 funerally
 frays
