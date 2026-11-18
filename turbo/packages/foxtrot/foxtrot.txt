@@ -2210,7 +2210,7 @@ flawful
 fruiting
 fragrancy
 feminility 1
-fluorinates
+fluorinates 1
 foals 1
 feminineness
 frivolity
