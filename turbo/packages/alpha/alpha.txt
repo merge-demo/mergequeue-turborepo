@@ -2608,7 +2608,7 @@ actutate
 arriswise
 acquiesce 1
 addiction
-acanthopterous
+acanthopterous 1
 alginates
 acquiescement
 aureation
