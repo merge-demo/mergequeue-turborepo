@@ -2918,7 +2918,7 @@ discounted
 dedolation
 deseret
 destinal 1
-dotingness
+dotingness 1
 diegesis
 diplasiasmus 1
 deduces
