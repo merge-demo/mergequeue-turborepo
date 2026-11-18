@@ -8197,7 +8197,7 @@ fringes 2
 fairyologist
 furlanas
 flaskets
-formulize
+formulize 1
 felines
 festering 1
 floroscope
