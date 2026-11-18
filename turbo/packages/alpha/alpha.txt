@@ -19978,7 +19978,7 @@ armplate
 agamas
 angkhak
 aborsement
-afterclap
+afterclap 1
 armseye
 actuators
 amendable
