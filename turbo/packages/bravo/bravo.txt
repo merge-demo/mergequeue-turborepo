@@ -16348,7 +16348,7 @@ bihari
 basson
 butterfingered
 bruised
-bighted
+bighted 1
 backtrack
 barbels
 bocces 1
