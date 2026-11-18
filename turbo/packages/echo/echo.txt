@@ -3721,7 +3721,7 @@ eweries 1
 embryotome
 exhalatory
 ekhimi
-eeten
+eeten 1
 ephemerons
 echelette
 egoistry
