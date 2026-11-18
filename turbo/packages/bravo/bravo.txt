@@ -7199,7 +7199,7 @@ brambliest
 bifoliate 2
 biologist 1
 brightly 2
-bessel
+bessel 1
 bessemerize
 bessemerized
 bugleweed
