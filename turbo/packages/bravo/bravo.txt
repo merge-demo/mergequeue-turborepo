@@ -8699,7 +8699,7 @@ basins
 bilobe
 besiegingly 1
 bilobed
-bilocular
+bilocular 1
 braches 1
 bilophodont
 boshvark 1
