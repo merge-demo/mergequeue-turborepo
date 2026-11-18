@@ -2082,7 +2082,7 @@ gingkoes 1
 gnawer
 glorious 1
 glossophorous
-gambade
+gambade 1
 gader 1
 gaulin
 geleem
