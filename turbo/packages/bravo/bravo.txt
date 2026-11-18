@@ -5641,7 +5641,7 @@ blisters
 brough
 blepharal
 bewigs 1
-barbitone
+barbitone 1
 businessmen
 bardes
 byelaws
