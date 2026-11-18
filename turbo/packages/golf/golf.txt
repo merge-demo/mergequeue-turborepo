@@ -1384,7 +1384,7 @@ gravitometer
 garnetter
 glyconeogenetic
 guttular
-governs 2
+governs 3
 ganodonta
 garnison
 greetingless
