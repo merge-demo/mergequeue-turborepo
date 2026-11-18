@@ -2219,7 +2219,7 @@ feudee 1
 freshmanhood
 fikie
 fiscus
-firebombs
+firebombs 1
 fuliguline
 freezing 1
 flatcars
