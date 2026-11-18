@@ -2541,7 +2541,7 @@ buckler 1
 barguest 1
 barguests
 buzylene
-baria
+baria 1
 blameful
 baboodom
 bucca
