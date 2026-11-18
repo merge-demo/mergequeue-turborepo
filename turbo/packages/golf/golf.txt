@@ -9304,7 +9304,7 @@ galivanting 1
 glossas 1
 goldurn
 governability
-groper
+groper 1
 griffs
 gruf 1
 graduate
