@@ -24072,7 +24072,7 @@ conversationable
 competency
 coactor 1
 crimpy
-conversationalists
+conversationalists 1
 conversationally
 conversationism
 conversationist
@@ -31545,7 +31545,7 @@ crystallizability
 cursoriness
 cursorious
 coffeecake
-cursorius
+cursorius 1
 cleveites
 copse
 culled
