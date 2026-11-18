@@ -1531,7 +1531,7 @@ gulfiest
 grandiloquence
 gearless
 garmentmaker 1
-gurt
+gurt 1
 granddaughters 2
 guara
 glathsheimr
