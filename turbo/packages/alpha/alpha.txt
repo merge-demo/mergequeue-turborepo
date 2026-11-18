@@ -6419,7 +6419,7 @@ agrostography
 algesthesis
 agrostologic
 antiresonance
-amorado 1
+amorado 2
 attempering
 alnascharism 1
 antefixa
@@ -7588,7 +7588,7 @@ asymptotical
 alce
 assibilate
 asininities
-alcedinidae
+alcedinidae 1
 anderson 1
 autoretardation
 airiferous
