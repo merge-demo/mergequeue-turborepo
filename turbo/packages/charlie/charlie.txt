@@ -31553,7 +31553,7 @@ conjobble
 cyriological
 cycliae
 curt
-curtailed
+curtailed 1
 curtailedly
 curtailing
 calcimines
