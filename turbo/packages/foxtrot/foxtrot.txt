@@ -7262,7 +7262,7 @@ furled
 forelock
 farreation
 fistical
-fopperies
+fopperies 1
 famille
 fopperly
 fraternized
