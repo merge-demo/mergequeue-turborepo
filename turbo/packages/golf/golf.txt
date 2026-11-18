@@ -9896,7 +9896,7 @@ grander 2
 grainsick
 glioma
 gurgoyl
-gallop
+gallop 1
 galiots
 groundnut
 gratulatorily
