@@ -15702,7 +15702,7 @@ catamenial
 calcicole
 cyproheptadine
 clinks
-chinche
+chinche 1
 coagulable 1
 clunch
 clawker
