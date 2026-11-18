@@ -3811,7 +3811,7 @@ decorationist 1
 deionizer 1
 degeneration
 deipnophobia
-disembarkations
+disembarkations 1
 dilutes
 disprized 1
 dannemorite
