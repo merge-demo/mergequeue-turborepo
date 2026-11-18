@@ -3137,7 +3137,7 @@ cornette 1
 capeline
 chondrocele
 capelins
-capella
+capella 1
 coatimondie
 closemouth 1
 caper
