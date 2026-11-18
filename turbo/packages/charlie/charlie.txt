@@ -1312,7 +1312,7 @@ calibers
 colunar 1
 conelet
 calibrated
-calibrater
+calibrater 1
 calibrates
 catchwater 1
 calibrating
