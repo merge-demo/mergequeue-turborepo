@@ -1544,7 +1544,7 @@ doublure
 drail
 deadlier
 deaden
-droops
+droops 1
 docked
 diadelphian
 drippings 1
