@@ -9150,7 +9150,7 @@ footled
 fries 1
 fragileness
 foreknown
-faceplate
+faceplate 1
 futilize 1
 fucus
 fledged
