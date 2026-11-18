@@ -9293,7 +9293,7 @@ bobbinet
 besting
 biphenylene
 biphenol
-bashfulness
+bashfulness 1
 bastnasite
 biordinal
 batussi
