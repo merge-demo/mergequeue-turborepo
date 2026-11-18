@@ -11979,7 +11979,7 @@ ententes
 excitometabolic
 embryonally 1
 excellently
-excitons
+excitons 1
 embosses
 euclase 1
 experimentee
