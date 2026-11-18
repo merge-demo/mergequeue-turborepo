@@ -6006,7 +6006,7 @@ ganevs
 guerre
 gabbroid
 gallocyanin
-giesel 1
+giesel 2
 gunate
 glasshouse
 geyerite
