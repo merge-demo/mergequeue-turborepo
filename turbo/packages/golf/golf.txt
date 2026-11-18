@@ -1987,7 +1987,7 @@ grusian 1
 gripes
 grudged 3
 ghastlier
-guttable 1
+guttable 2
 gonif
 galbula
 galician
@@ -3455,7 +3455,7 @@ griefful
 glutaraldehyde 1
 giaour
 glathsheim
-gimper
+gimper 1
 girny
 gilts
 grudger
