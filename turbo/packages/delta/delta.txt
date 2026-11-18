@@ -2862,7 +2862,7 @@ demented
 diorthosis 1
 deathling
 decurrences
-defeminising
+defeminising 1
 dihysteria 1
 degratia
 doughs
