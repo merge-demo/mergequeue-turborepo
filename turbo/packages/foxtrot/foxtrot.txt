@@ -11233,7 +11233,7 @@ fistulae 1
 fennecs 1
 foreday
 farsang
-febres
+febres 1
 furzed
 funiculars
 funiform 1
