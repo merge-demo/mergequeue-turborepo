@@ -7001,7 +7001,7 @@ gooseberry
 gramash
 greenweed
 garages 1
-glacially
+glacially 1
 galilees
 genteelism 2
 geomantical
