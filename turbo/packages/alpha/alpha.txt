@@ -10915,7 +10915,7 @@ ammonitic 1
 ammonitoidea 1
 affording
 ammocoetiform
-antischolastic
+antischolastic 1
 ammoniuret
 archcozener
 antiproteolysis
