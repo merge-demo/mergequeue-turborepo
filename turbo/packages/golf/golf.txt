@@ -6006,7 +6006,7 @@ ganevs
 guerre
 gabbroid
 gallocyanin
-giesel 1
+giesel 2
 gunate
 glasshouse
 geyerite
@@ -8897,7 +8897,7 @@ granters
 grandparent
 galesaur
 gaffe
-gigi
+gigi 1
 gnocchetti
 gladelike 1
 grandiloquous 1
