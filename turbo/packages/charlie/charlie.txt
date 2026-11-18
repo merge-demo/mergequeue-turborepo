@@ -19490,7 +19490,7 @@ cowpony
 convenientness
 counterclockwise 1
 colpoplasty
-chromogenetic
+chromogenetic 1
 colpoptosis 1
 colporrhagia
 colporrhaphy
