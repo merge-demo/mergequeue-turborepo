@@ -10332,7 +10332,7 @@ fingerleaf
 fingering
 fishmen
 forecourt
-fere
+fere 1
 francia
 foss
 footcandles 1
