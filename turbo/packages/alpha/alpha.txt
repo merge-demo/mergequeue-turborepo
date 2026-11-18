@@ -7317,7 +7317,7 @@ ankylosed
 adlegiare
 archlecher
 appropriative
-ashake
+ashake 1
 albarco
 appliably
 albarelli
@@ -22586,7 +22586,7 @@ acquisitiveness
 apoaconitine
 amphigaea
 adoptative
-atelostomia
+atelostomia 1
 alcazava
 ammiaceae
 avitic
