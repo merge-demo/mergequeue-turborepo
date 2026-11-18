@@ -25916,7 +25916,7 @@ congas
 coeternally
 cortexes 1
 cortication
-cortices
+cortices 1
 corticiferous
 cordula
 corticifugally 2
