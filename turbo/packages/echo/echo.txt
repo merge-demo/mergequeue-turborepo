@@ -11190,7 +11190,7 @@ encomimiums
 encapsuled 1
 engraving
 endoplastular
-eophyton
+eophyton 1
 ethiops
 enactment
 eradiated
