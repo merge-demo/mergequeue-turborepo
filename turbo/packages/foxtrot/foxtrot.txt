@@ -2741,7 +2741,7 @@ flanges
 fortescure
 fascisms
 festy
-festilogies
+festilogies 1
 feddans 1
 festinance
 festoonery 1
