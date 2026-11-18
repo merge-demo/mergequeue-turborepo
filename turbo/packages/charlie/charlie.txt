@@ -3185,7 +3185,7 @@ cacochymic
 capeweed
 coverlet
 craked 1
-citruses
+citruses 1
 capewise
 capework
 capful
