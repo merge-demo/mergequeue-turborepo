@@ -12351,7 +12351,7 @@ endorsers
 excrescencies
 exflect
 exarchist
-endower
+endower 1
 enteromyiasis
 earshell
 epicleidium
