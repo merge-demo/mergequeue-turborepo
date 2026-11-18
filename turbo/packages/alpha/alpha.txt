@@ -10915,7 +10915,7 @@ ammonitic 1
 ammonitoidea 1
 affording
 ammocoetiform
-antischolastic
+antischolastic 1
 ammoniuret
 archcozener
 antiproteolysis
@@ -16608,7 +16608,7 @@ antonio
 arean
 autoinduction
 argotic
-agoutis
+agoutis 1
 astatized
 aforegoing
 arterioplania
