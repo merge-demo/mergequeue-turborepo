@@ -843,7 +843,7 @@ gramary 1
 gamblesomeness
 greenback
 genseng
-gambogian
+gambogian 1
 gombroons
 grangerise
 gonagia 1
@@ -8489,7 +8489,7 @@ grownups
 geomedical
 go
 gramaphone
-gametophyte
+gametophyte 1
 ginhound 1
 ganglioblast
 gompholobium 1
