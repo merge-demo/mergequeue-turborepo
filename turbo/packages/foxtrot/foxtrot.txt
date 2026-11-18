@@ -8297,7 +8297,7 @@ foxtrot 1
 fantasmagoria
 fodge 1
 flytraps 1
-fusate
+fusate 1
 forisfamiliation 1
 fontlet
 ferrotyping
