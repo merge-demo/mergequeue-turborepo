@@ -2249,7 +2249,7 @@ genette
 gekkonid
 gibers
 gristle
-gossipmongering 1
+gossipmongering 2
 galactase
 gastrotome
 grifts 3
