@@ -8897,7 +8897,7 @@ granters
 grandparent
 galesaur
 gaffe
-gigi
+gigi 1
 gnocchetti
 gladelike 1
 grandiloquous 1
