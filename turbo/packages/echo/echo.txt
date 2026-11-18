@@ -10749,7 +10749,7 @@ ephemeran
 extramoralist
 emer 1
 encomiastical 1
-endogalvanism
+endogalvanism 1
 eucnemidae
 excursions
 exercitant
