@@ -11565,7 +11565,7 @@ disconnecting
 disconnection
 diplococcic
 disconnector
-denotable
+denotable 1
 dollarfish
 drawnwork
 devillike
