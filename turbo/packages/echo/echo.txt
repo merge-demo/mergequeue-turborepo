@@ -11081,7 +11081,7 @@ expiate
 eusthenopteron
 electrofused
 electros 1
-espies
+espies 1
 esquiredom
 encage
 emulated
