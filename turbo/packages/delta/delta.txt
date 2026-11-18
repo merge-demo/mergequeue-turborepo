@@ -14302,7 +14302,7 @@ devotionate
 depaganize 1
 dithyrambs
 dithyrambus 2
-dominicker
+dominicker 1
 denotationally
 dytiscid
 daubier
