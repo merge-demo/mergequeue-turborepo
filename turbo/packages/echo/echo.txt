@@ -6520,7 +6520,7 @@ epaenetic
 entanglements
 extraplanetary
 egophonic 1
-empanel
+empanel 1
 eatings
 entasis
 extreat
