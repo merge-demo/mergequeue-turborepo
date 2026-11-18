@@ -10670,7 +10670,7 @@ filtrability 1
 filberts
 facultate
 fegatella 1
-fickly
+fickly 1
 fitzroy
 feltlike
 fibber 1
