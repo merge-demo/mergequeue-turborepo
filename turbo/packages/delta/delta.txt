@@ -602,7 +602,7 @@ dedolomitized
 ditheistical
 damming
 divvies
-delated
+delated 1
 dutchman
 demoses
 discretiveness
@@ -11467,7 +11467,7 @@ disrespectfulness
 discolorment
 discolouring
 discolourization
-discourt
+discourt 1
 discombobulate
 disuniform
 denominator
