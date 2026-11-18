@@ -5437,7 +5437,7 @@ depardieu
 dinger 1
 dewdrops
 denials
-departer
+departer 1
 devastated
 dehistoricize 1
 drama 1
