@@ -10172,7 +10172,7 @@ dismortgage
 dining 1
 discoplacental 1
 denty
-dulcely
+dulcely 1
 dinitrate
 dopplerite
 dinitrocellulose
@@ -16147,7 +16147,7 @@ disenchanting
 dislustred 1
 dovehouse
 dovelike 1
-dumbledore
+dumbledore 1
 decadarch 1
 dovelikeness
 diminishments
