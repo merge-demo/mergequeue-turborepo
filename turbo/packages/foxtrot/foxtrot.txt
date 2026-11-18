@@ -4609,7 +4609,7 @@ fitified
 fluoridizing 1
 frontomalar 2
 fieldpieces
-flavory
+flavory 1
 fullams
 floodways
 foolfish
