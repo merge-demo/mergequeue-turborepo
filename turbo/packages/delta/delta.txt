@@ -1192,7 +1192,7 @@ doormat
 demibrassart
 devilhood
 datana 2
-discounting
+discounting 1
 denasalizing
 disordination
 datapac
