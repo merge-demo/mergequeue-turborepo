@@ -4469,7 +4469,7 @@ enneadianome
 ezekiel
 encastre
 encastrement
-encaustically
+encaustically 1
 emotionalizing
 efferent
 erth 1
