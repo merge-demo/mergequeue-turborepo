@@ -9719,7 +9719,7 @@ cataphonics
 cheiranthus
 cheirogaleus
 cheirography
-cheirolin
+cheirolin 1
 cymbal
 cheirology
 ciconiidae
@@ -31545,7 +31545,7 @@ crystallizability
 cursoriness
 cursorious
 coffeecake
-cursorius
+cursorius 1
 cleveites
 copse
 culled
