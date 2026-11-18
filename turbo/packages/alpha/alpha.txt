@@ -5246,7 +5246,7 @@ apery
 anagenetical
 antagonizer
 ampitheater
-attackable
+attackable 1
 anapterygotous 1
 alingual
 anapophysial
