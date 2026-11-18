@@ -10476,7 +10476,7 @@ fermatian
 fungitoxic 1
 factionalist
 fribblers 2
-ferruling
+ferruling 1
 farrant
 frontiersmen
 flnerie 2
