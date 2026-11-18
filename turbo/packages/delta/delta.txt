@@ -9642,7 +9642,7 @@ dipcoat
 deflowerer
 displants
 dicerion
-definitive 1
+definitive 2
 devisee
 dika
 dotage 1
