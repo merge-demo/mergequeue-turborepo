@@ -16147,7 +16147,7 @@ disenchanting
 dislustred 1
 dovehouse
 dovelike 1
-dumbledore
+dumbledore 1
 decadarch 1
 dovelikeness
 diminishments
