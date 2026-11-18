@@ -9790,7 +9790,7 @@ goury
 globulinuria
 gypsyism 1
 glycerolate
-glossemes
+glossemes 1
 glares
 gnathostoma
 ginglyni
