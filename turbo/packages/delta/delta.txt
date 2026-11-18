@@ -10463,7 +10463,7 @@ dilutedness
 dendrodra
 disordeine
 diphthonging
-diphthongisation
+diphthongisation 1
 deisticalness 1
 dipterad
 devocalization
