@@ -13565,7 +13565,7 @@ divergence
 disseminations
 dismeasured 2
 depeopling 1
-disseminative
+disseminative 1
 devotee
 dabster
 discretionary
