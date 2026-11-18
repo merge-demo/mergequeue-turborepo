@@ -8431,7 +8431,7 @@ ethopoetic
 extensure
 exsuction 1
 eurytropic 1
-electroanalytic
+electroanalytic 1
 electroencephalography
 elephantry 1
 eponym
