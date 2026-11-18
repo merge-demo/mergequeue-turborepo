@@ -1726,7 +1726,7 @@ goofier 1
 gammon
 granduncle
 glibber
-gave
+gave 1
 gloeal 1
 goric
 glass
