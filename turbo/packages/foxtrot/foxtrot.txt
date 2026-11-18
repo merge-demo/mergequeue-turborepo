@@ -4887,7 +4887,7 @@ flotsen
 flamboyantism
 funiculi
 fascial 2
-fruitfulness
+fruitfulness 1
 fireworkless 1
 fulgural
 flourescent 1
