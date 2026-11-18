@@ -1069,7 +1069,7 @@ disbanding
 dartagnan
 darters
 depository
-dearticulation
+dearticulation 1
 dedecorate
 defuses 1
 decanoyl
