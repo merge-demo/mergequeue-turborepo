@@ -2723,7 +2723,7 @@ fragmentarily
 fellinic
 felineness 1
 fireproofing
-fesses
+fesses 1
 flaunche
 facetiation 1
 friendlily
