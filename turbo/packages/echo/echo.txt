@@ -3160,7 +3160,7 @@ explorativeness 2
 embalms
 eloise 1
 exocoelom
-epigonousepigons
+epigonousepigons 1
 entheasm
 euphenics
 elongation 2
