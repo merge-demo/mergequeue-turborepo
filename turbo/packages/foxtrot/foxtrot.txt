@@ -7887,7 +7887,7 @@ foreseer
 foresees
 fonder 1
 foreseize 1
-flatteries
+flatteries 1
 fike 1
 firy
 fantasticness
