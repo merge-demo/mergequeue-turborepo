@@ -233,7 +233,7 @@ abbotcies
 autodiagrammatic
 antirealistically
 anis
-antiritual
+antiritual 1
 abbotric 1
 allokinesis
 alchemistical
@@ -3650,7 +3650,7 @@ adenomycosis
 adenomyofibroma 1
 antiheroism
 alvite 1
-adenomyoma
+adenomyoma 1
 adenomyxosarcoma
 adenoneural
 aerophysical
