@@ -13293,7 +13293,7 @@ entozoological 1
 exploratively
 ectrogeny
 eupterotidae
-estoile
+estoile 1
 espousers 1
 efformation 2
 eminences
