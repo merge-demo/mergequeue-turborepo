@@ -4893,7 +4893,7 @@ grondwet
 gynaecol 1
 gladioluses
 ginney
-girondist
+girondist 1
 groundwards 1
 glamors 1
 geldable 1
