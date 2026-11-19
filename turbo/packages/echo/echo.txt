@@ -13609,7 +13609,7 @@ elkanah 1
 eisegesis
 edriophthalmian 2
 encyclopaedically
-electropyrometer
+electropyrometer 1
 expulsory
 ectad 1
 exiledom
