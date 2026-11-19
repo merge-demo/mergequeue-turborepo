@@ -2827,7 +2827,7 @@ dorosacral
 dihydronicotine 1
 desensitizations
 dramatizations 1
-donors
+donors 1
 decumanus
 daphnin
 dolomitised
