@@ -3196,7 +3196,7 @@ foods 1
 fogman
 floorshift
 firmisternous 1
-fougade 1
+fougade 2
 flexibly
 fusicoccum 1
 ficklest
