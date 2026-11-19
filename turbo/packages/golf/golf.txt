@@ -9321,7 +9321,7 @@ gravestones 1
 groop
 gallerygoer 1
 gluiest 1
-glamorize
+glamorize 1
 gestonie 2
 goggliest
 gwen
