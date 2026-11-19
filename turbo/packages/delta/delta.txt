@@ -2827,7 +2827,7 @@ dorosacral
 dihydronicotine 1
 desensitizations
 dramatizations 1
-donors
+donors 1
 decumanus
 daphnin
 dolomitised
@@ -13169,7 +13169,7 @@ diplophonia
 dreamery
 diamantine
 dropouts 1
-derangement
+derangement 1
 demonophobia 2
 desiccations
 disguisement
