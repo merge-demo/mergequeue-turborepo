@@ -300,7 +300,7 @@ backare
 bemeet
 baal
 burdensomeness
-beaune
+beaune 1
 brachiocyllosis
 backarrows
 backbar
