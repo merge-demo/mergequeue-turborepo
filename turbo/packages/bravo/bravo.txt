@@ -14842,7 +14842,7 @@ brazilian
 bewailing
 bunked
 billycock
-baulks
+baulks 1
 bobowler
 baku
 backwaters 1
