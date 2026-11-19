@@ -11644,7 +11644,7 @@ dipetalous
 distributution
 discorded
 discordous
-dotishness
+dotishness 1
 dialogged
 demiditone 1
 dishexecontahedroid
