@@ -1071,7 +1071,7 @@ frontons
 farrage 1
 furziest 1
 farrago
-franchisement
+franchisement 1
 frizer
 flichters 1
 fluorene 1
