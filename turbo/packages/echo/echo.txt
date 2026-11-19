@@ -7595,7 +7595,7 @@ epiclinal
 ecstaticize
 enteric
 epicoele
-elkesaite
+elkesaite 1
 extolment
 euchymous
 epicoelous
