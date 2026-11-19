@@ -779,7 +779,7 @@ graywether
 glome
 galvanotherapy 2
 goods
-geomorphic
+geomorphic 1
 galvanotropism
 guntub
 globulolysis 1
