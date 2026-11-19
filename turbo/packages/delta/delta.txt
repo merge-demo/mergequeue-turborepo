@@ -6122,7 +6122,7 @@ deriding
 divertor
 dwells
 deringa 1
-diffuseness
+diffuseness 1
 demonstrability
 did
 derisively
