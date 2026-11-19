@@ -9287,7 +9287,7 @@ eumorphous
 entertains
 euchologia 1
 eugeosynclinal
-epitaphize
+epitaphize 1
 elytrin 1
 errors 1
 encephalon 1
