@@ -10842,7 +10842,7 @@ ferniest
 focometry 1
 fulciment
 fs
-failures
+failures 1
 fulcrumed
 formicarioid
 fulcruming
