@@ -9580,7 +9580,7 @@ gulist 1
 grimmiaceous
 gangerel
 goitered
-garrick
+garrick 1
 gemses 1
 gowns
 gutteral 1
