@@ -6844,7 +6844,7 @@ duniewassal 1
 desolation
 darkness
 dryhouse 1
-didymium 1
+didymium 2
 drunks
 discolors
 dahabiyeh
