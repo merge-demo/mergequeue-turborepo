@@ -13880,7 +13880,7 @@ euphenic
 excoriation
 emandibulate
 extraparental
-encyst
+encyst 1
 endgame
 extraneity
 ethiop 1
