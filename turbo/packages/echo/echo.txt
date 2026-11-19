@@ -8498,7 +8498,7 @@ elongates
 epuration
 exculpable
 euchloric
-effectual
+effectual 1
 englisher
 enwombs
 equableness
