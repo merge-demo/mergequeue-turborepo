@@ -5862,7 +5862,7 @@ fates
 flexity 2
 feague 1
 fangas
-flinted
+flinted 1
 ferrichloride 1
 flocculent
 flaxier 1
