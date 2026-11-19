@@ -2766,7 +2766,7 @@ grabbled 1
 garbs
 garnished
 gelotometer
-glottochronological
+glottochronological 1
 gristly 1
 generalidad
 gangwayed 2
