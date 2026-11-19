@@ -9397,7 +9397,7 @@ diamin 1
 diffusible
 demagoguism
 diffusibleness
-diffusing
+diffusing 1
 desray 1
 deuteranomalous
 diamyl
