@@ -1938,7 +1938,7 @@ epinette
 empathically
 enthelmintha
 endict
-elementalist
+elementalist 1
 ejaculatory
 ectental
 erdvark
