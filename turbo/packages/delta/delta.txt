@@ -773,7 +773,7 @@ diapnotic
 dermoidal
 dissatisfied
 dispiteously
-dandis
+dandis 1
 discursory
 dandisette
 decoyer
@@ -3621,7 +3621,7 @@ dropworts 1
 degraduate
 digitinervate 1
 degravate
-demipike
+demipike 1
 degreaser
 dacryohemorrhea
 degreases
