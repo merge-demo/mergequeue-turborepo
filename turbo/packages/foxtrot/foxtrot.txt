@@ -1139,7 +1139,7 @@ footprints
 foreguts
 flog 2
 falseheartedness 1
-fennels 1
+fennels 2
 flexures
 flippers
 forefends
