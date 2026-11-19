@@ -1035,7 +1035,7 @@ elberta
 expeditions
 eucharistically
 exadversum
-erugo
+erugo 1
 etchareottine
 excisable
 eyeless 1
