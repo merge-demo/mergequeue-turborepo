@@ -2021,7 +2021,7 @@ epigaea 1
 erythrosine
 epitrophy
 enthrone
-encurl 1
+encurl 2
 exophasia 1
 emersion
 etherish 1
