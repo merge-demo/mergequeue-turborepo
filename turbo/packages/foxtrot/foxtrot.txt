@@ -2845,7 +2845,7 @@ fibrillose 1
 fortuity
 faeries
 forepreparation
-fetwa
+fetwa 1
 ferlies 1
 fetterlock 1
 foretype
