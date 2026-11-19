@@ -4667,7 +4667,7 @@ garnisheeing
 genista
 galeae 1
 gowland 1
-gitanos
+gitanos 1
 gite
 gonarthritis 1
 gnawn 1
