@@ -1542,7 +1542,7 @@ deactivators 2
 distressedness
 doublure
 drail
-deadlier
+deadlier 1
 deaden
 droops 1
 docked
