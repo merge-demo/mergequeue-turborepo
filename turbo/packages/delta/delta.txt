@@ -3825,7 +3825,7 @@ deisidaimonia
 disquieting
 deism 1
 decentred
-deistical
+deistical 1
 dressages
 dismast
 discastle
