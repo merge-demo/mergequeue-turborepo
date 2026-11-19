@@ -7396,7 +7396,7 @@ abomasusi
 autotractor
 annulus
 amusiveness
-affinage
+affinage 1
 antrum
 adversus
 asquirm
