@@ -14356,7 +14356,7 @@ disadvantages 1
 ditto
 droopily 1
 disperato
-dittoes
+dittoes 1
 delimitizing
 dubiously
 dittographic 1
