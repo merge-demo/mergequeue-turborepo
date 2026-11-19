@@ -12926,7 +12926,7 @@ ambulate
 anglistics 1
 arryish 1
 anglogaea 1
-anthemwise
+anthemwise 1
 antennarius
 antiliturgically
 anglomane
