@@ -5947,7 +5947,7 @@ glutose 1
 gainspeaking 1
 gluttonish 1
 grainsman
-granulous
+granulous 1
 gutterman
 guffawing
 gyve
