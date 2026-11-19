@@ -2085,7 +2085,7 @@ dissyllabism
 defenseman
 decameral 1
 daintify
-doline
+doline 1
 daunts
 disinheritances
 duddies 1
