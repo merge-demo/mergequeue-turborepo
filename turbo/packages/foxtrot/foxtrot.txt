@@ -11158,7 +11158,7 @@ fernlike
 foederal 1
 flywire 1
 frumple
-fanciful
+fanciful 1
 francas 1
 fingerhold
 feodaries 1
