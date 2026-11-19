@@ -2172,7 +2172,7 @@ explores
 everywoman
 elfishness
 elcaja 1
-eld
+eld 1
 epimeritic
 effiguration 1
 enamoredness
@@ -12714,7 +12714,7 @@ era
 eelback
 earcockle 2
 energizing
-exophasic
+exophasic 1
 etchers 1
 exalted
 exophthalmia
