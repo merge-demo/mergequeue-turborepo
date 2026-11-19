@@ -5787,7 +5787,7 @@ golliwog
 geocarpic 1
 gastriloquy
 ginglymoarthrodia 1
-glt
+glt 1
 geotactically 1
 gatten
 glochidia
@@ -7791,7 +7791,7 @@ gestion
 guanche
 goons
 graisse 1
-geerah
+geerah 1
 gufa
 greenkeeper
 glassblowers 1

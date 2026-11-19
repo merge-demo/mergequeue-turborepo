@@ -9242,7 +9242,7 @@ debite
 dateableness
 deadflat
 dyes
-damfoolish
+damfoolish 1
 depicturing
 densification
 deanathematize 1
