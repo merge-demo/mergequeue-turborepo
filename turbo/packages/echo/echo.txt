@@ -12714,7 +12714,7 @@ era
 eelback
 earcockle 2
 energizing
-exophasic
+exophasic 1
 etchers 1
 exalted
 exophthalmia
