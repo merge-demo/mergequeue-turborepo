@@ -5105,7 +5105,7 @@ denim
 demoness
 danceress
 doctrinalist
-dartoic
+dartoic 1
 debone
 daemon
 decephalization 1
