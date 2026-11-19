@@ -4922,7 +4922,7 @@ gangamopteris 1
 gangliest
 gateage
 graunt
-gantry 1
+gantry 2
 gauging 2
 gymnospermal
 gallantize 1
