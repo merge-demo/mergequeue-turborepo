@@ -12832,7 +12832,7 @@ abernethy
 angionoma
 aecidioform
 anglish 1
-angioparesis
+angioparesis 1
 ambassadorship
 awarder
 angiopathy
