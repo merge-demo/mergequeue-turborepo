@@ -7197,7 +7197,7 @@ electrotropic
 ephemeromorphic
 eupnoeas 2
 exudate
-enthronize
+enthronize 1
 estradiot
 enzootics
 escheve
