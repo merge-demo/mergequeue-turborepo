@@ -8931,7 +8931,7 @@ chargehouse
 chargeless
 charger
 charges 2
-charybdian
+charybdian 1
 crankman
 chestnutty
 charicleia

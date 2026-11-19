@@ -7979,7 +7979,7 @@ fellmongered 1
 frontless 1
 forestage
 frivolled
-fae 3
+fae 4
 ferie
 fora
 flashbulb
