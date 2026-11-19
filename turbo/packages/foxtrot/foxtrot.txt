@@ -4541,7 +4541,7 @@ flagellation
 fruitcake 1
 forethinker 1
 flotations
-foolable
+foolable 1
 faciolingual
 fourth
 feudists
