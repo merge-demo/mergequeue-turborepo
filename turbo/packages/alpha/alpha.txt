@@ -23599,7 +23599,7 @@ auntliest
 auntlike
 auntre 1
 acidemia
-antistrophal
+antistrophal 1
 auntrous 1
 antiethnic
 auntsary
