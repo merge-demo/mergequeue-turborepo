@@ -11260,7 +11260,7 @@ dulceness
 dalliers
 difluoride
 discarding 2
-discardment
+discardment 1
 deflectometer
 discards
 dentals 1
