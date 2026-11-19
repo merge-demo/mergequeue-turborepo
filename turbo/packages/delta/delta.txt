@@ -773,7 +773,7 @@ diapnotic
 dermoidal
 dissatisfied
 dispiteously
-dandis
+dandis 1
 discursory
 dandisette
 decoyer
