@@ -19108,7 +19108,7 @@ allocute
 absorbant
 alkylamino
 alphanumeric
-arrhizous
+arrhizous 1
 agritos
 actu
 anthocyanidin
