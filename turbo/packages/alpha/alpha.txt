@@ -2861,7 +2861,7 @@ aperitif
 abiogeneses
 adati
 aceratherium
-acronymic
+acronymic 1
 akvavits
 autostylic 1
 autarchical
