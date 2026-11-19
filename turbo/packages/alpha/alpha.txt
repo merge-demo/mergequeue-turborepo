@@ -20357,7 +20357,7 @@ arsenobenzol
 ankylocheilia
 ascogonial
 arsenobismite
-anticlimactic
+anticlimactic 1
 apostoli
 acidproof 1
 antilogistically 1
