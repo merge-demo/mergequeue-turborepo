@@ -12247,7 +12247,7 @@ executrixes
 evolutionarily 1
 expounding
 extracondensed
-exegesis
+exegesis 1
 exasperative
 execrated 1
 elegists
