@@ -1796,7 +1796,7 @@ embrutes
 ecphova 1
 epigonism
 enfranch
-eyespots
+eyespots 1
 excandescency 3
 epexegetically
 eyewaiter 1
@@ -8949,7 +8949,7 @@ erika 1
 erikite
 erinaceidae
 ephebes
-eclairissement 1
+eclairissement 2
 ectotherm
 expropriation
 entrepreneurial
