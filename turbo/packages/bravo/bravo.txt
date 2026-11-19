@@ -6663,7 +6663,7 @@ bergman 1
 bergs
 burge
 breastbone 1
-boneshave
+boneshave 1
 binal
 bodegon
 blattiform
