@@ -6671,7 +6671,7 @@ gynecratic 1
 gynaecologic
 guaiol
 geotactic
-girderage
+girderage 1
 glycolyl
 geer 1
 gride
