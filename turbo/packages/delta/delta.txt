@@ -9192,7 +9192,7 @@ debatingly
 diehard
 demarkation
 disdainly 1
-diehards
+diehards 1
 dieyerie
 disguiser
 dentinoma
