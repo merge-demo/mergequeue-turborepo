@@ -2268,7 +2268,7 @@ electriferous
 elongated
 equally 1
 extemporization
-eudiometry
+eudiometry 1
 enchantments
 exormia
 eyelets
