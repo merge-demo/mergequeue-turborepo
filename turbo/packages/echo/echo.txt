@@ -11365,7 +11365,7 @@ encompass 1
 eponymist
 ensweeten
 eventime 1
-entosternite
+entosternite 1
 eventlessly 1
 empennages
 ergamine
