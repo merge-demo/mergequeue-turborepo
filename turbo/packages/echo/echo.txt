@@ -9157,7 +9157,7 @@ equiponderancy 1
 ermiline 1
 epidemy
 excarnation
-ermined
+ermined 1
 erminee
 enleague 1
 ermines
