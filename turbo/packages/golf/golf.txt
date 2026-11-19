@@ -1245,7 +1245,7 @@ gemmuliferous
 generalizations
 groups
 goodship
-galligaskin 1
+galligaskin 2
 groff
 granivorous
 gonorrhea
