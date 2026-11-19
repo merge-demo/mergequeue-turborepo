@@ -12484,7 +12484,7 @@ calamistrate
 clairvoyants
 chromophore
 chads
-chromophorous
+chromophorous 1
 chromophotography 2
 chromophotographic
 cranky
