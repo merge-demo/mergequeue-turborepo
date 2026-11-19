@@ -4111,7 +4111,7 @@ floridan 1
 faintheartedness
 fusiladed 1
 fiorite
-flamberg
+flamberg 1
 foreseen
 futuramic
 falsehoods 1
@@ -8870,7 +8870,7 @@ foundrymen 1
 flabellinerved 1
 fetichist
 fallency 1
-flneuse 1
+flneuse 2
 favorableness
 foundrous
 farhands
