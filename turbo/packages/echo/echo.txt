@@ -6978,7 +6978,7 @@ exiting
 effecting
 excisor
 enditing
-encauma
+encauma 1
 entrelac 1
 emetically
 epilogued
