@@ -10465,7 +10465,7 @@ fisted
 feeblish
 frontstall
 forstall 2
-frizes
+frizes 1
 fellah
 ferocity
 februarius
