@@ -11644,7 +11644,7 @@ caitifty
 cotangents
 cholinolytic
 conventicles
-conjugably
+conjugably 1
 cequi
 clerkdoms
 cardiopneumatic
