@@ -7562,7 +7562,7 @@ diversifiability
 dracaenas 1
 dolefulness
 disruly 1
-deutschland
+deutschland 1
 daundering
 deutzia
 deuzan
@@ -8645,7 +8645,7 @@ doomlike
 delfs
 diascope
 domed
-distracted
+distracted 1
 didactyl 1
 dissection
 dyassic

@@ -10637,7 +10637,7 @@ callaloos
 chimb
 culicide
 cuts
-claustrophobe
+claustrophobe 1
 cryptesthetic
 conenchyma
 conglomerated
@@ -20967,7 +20967,7 @@ conventical
 corroboreed
 comprized
 cellulicidal 1
-cosin
+cosin 1
 comprizes
 cultuses
 comprizing
