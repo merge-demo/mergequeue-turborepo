@@ -1217,7 +1217,7 @@ dolorimetrically
 dextrines 1
 dialyzers
 diapasonal
-dermatoskeleton
+dermatoskeleton 1
 dreggier 1
 daystars 1
 datebook
