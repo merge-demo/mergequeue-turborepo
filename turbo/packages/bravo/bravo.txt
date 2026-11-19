@@ -13784,7 +13784,7 @@ burnable 1
 bejig
 bezil
 bestrowed
-begazes
+begazes 1
 buffet
 blesseder
 bedlam
