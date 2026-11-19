@@ -26739,7 +26739,7 @@ calamitously
 cubicles 1
 counterblast
 counterborder
-counterbored
+counterbored 1
 celandine
 counterborer
 counterboring

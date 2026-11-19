@@ -6340,7 +6340,7 @@ factionism 1
 fragrantness
 floreal
 funiliform 2
-firing
+firing 1
 finick
 fetichic
 farinas 1
