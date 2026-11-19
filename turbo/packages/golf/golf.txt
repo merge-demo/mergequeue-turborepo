@@ -1440,7 +1440,7 @@ germinate
 guild
 garbages 1
 gulfy
-grosgrained 1
+grosgrained 2
 gainward
 germiparity
 garnishee
