@@ -5523,7 +5523,7 @@ diploses
 detering
 diamine
 dialyzation
-disaffections
+disaffections 1
 diabolizing
 desmognathae 2
 deperdite
