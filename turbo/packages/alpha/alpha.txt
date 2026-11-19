@@ -23485,7 +23485,7 @@ anarcotin 1
 astasia
 algaeology 1
 auguring
-augurous
+augurous 1
 auldest
 achroma
 adenocyst
