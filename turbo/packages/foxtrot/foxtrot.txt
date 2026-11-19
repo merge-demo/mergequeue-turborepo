@@ -3805,7 +3805,7 @@ flebotomy
 forthfare 1
 faut
 fazendeiro
-freewheeler
+freewheeler 1
 fillemot
 flutes
 formulised
