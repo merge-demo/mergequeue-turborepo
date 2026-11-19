@@ -5949,7 +5949,7 @@ filleter
 fets
 fanwright 1
 fomites
-ferguson
+ferguson 1
 favism
 firkin 1
 fawn
@@ -9995,7 +9995,7 @@ fossilising
 flypaper 2
 frijole
 freyja 1
-frightening
+frightening 1
 footprint 2
 forewarner 3
 foreshroud
