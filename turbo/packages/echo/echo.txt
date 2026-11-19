@@ -1796,7 +1796,7 @@ embrutes
 ecphova 1
 epigonism
 enfranch
-eyespots
+eyespots 1
 excandescency 3
 epexegetically
 eyewaiter 1
