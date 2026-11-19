@@ -2681,7 +2681,7 @@ gradgrindian 1
 georgians
 gooseweed
 geniculately
-geniculation
+geniculation 1
 granule
 gemarist
 gigantocyte 1

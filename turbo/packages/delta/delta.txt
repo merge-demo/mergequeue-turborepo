@@ -18642,7 +18642,7 @@ deactivations
 deodorizer
 disalignment
 decury
-definiteness
+definiteness 1
 disjects
 dalles
 disforest
