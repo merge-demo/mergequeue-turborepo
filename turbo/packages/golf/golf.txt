@@ -3376,7 +3376,7 @@ gondolier
 gnatling 1
 gorkun
 galbe
-glaciable
+glaciable 1
 gainor 1
 gravy 1
 gentiles
