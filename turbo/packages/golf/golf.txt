@@ -8900,7 +8900,7 @@ gaffe
 gigi 1
 gnocchetti
 gladelike 1
-grandiloquous 1
+grandiloquous 2
 gasteropod 1
 gnaw 1
 grisset 1
