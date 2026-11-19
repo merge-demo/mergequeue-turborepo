@@ -16724,7 +16724,7 @@ drypoint
 disadvised
 dewily
 drammocks
-descriptively
+descriptively 1
 dicey
 dermatopsy 1
 desalt
