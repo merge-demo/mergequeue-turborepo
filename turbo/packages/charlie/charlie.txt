@@ -3493,7 +3493,7 @@ capsular 1
 conceitedness
 capsulation
 collegatary
-chainomatic
+chainomatic 1
 chawbone
 capsulectomy
 chloroforming

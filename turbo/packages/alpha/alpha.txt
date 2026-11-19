@@ -17661,7 +17661,7 @@ adsorbents
 amphipleura
 appetitious 1
 anopsia
-adultness
+adultness 1
 allworthy
 alphabetizes
 alisos 1
