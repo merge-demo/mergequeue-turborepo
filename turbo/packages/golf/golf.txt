@@ -9260,7 +9260,7 @@ gi
 geodynamicist
 glandular 2
 grapeline
-girnel 1
+girnel 2
 gallowglass
 gaure 1
 guttera
