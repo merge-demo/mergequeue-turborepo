@@ -7715,7 +7715,7 @@ apposiopestic
 amplifier
 alcoranic
 aff 1
-alcosol
+alcosol 1
 armozine
 analyticities
 adnascence 1
