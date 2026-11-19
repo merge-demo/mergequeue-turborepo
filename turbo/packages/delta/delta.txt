@@ -113,7 +113,7 @@ detonated
 dialectologically
 diazeuctic 1
 debilitations
-dyspathetic
+dyspathetic 1
 demiurgus 1
 descendental 1
 dingier
@@ -8645,7 +8645,7 @@ doomlike
 delfs
 diascope
 domed
-distracted
+distracted 1
 didactyl 1
 dissection
 dyassic
