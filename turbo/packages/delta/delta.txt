@@ -2057,7 +2057,7 @@ dissightly 1
 dilatory 1
 decalage
 dinghy
-dromomania
+dromomania 1
 decalcifies
 dartle
 duly
