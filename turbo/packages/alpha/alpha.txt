@@ -14607,7 +14607,7 @@ anti
 antiabolitionist
 accustom 1
 antiabortion
-acrotic
+acrotic 1
 ambulation
 abacination
 abstractively
