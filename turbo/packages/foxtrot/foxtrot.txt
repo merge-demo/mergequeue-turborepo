@@ -4111,7 +4111,7 @@ floridan 1
 faintheartedness
 fusiladed 1
 fiorite
-flamberg
+flamberg 1
 foreseen
 futuramic
 falsehoods 1
