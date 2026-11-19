@@ -18231,7 +18231,7 @@ coffeehouse
 coffeehouses
 coffeeman
 classico
-coffeepots
+coffeepots 1
 cawker
 colloidize
 coffeeroom
