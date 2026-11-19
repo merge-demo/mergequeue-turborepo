@@ -3002,7 +3002,7 @@ eleoblast
 expositing 1
 evaluate
 extine
-efflorescence
+efflorescence 1
 evocative
 extern 1
 encorpore
