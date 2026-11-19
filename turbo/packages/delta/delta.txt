@@ -9847,7 +9847,7 @@ dimensionally 1
 dimensioning 1
 dimensum
 dubbed
-disangularize
+disangularize 1
 dimer 1
 decadency
 deludable
@@ -16244,7 +16244,7 @@ disabling
 doubter
 downcome
 dogtail
-downcoming
+downcoming 1
 deke
 disulfids 1
 desmidian
