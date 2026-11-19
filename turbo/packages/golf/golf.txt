@@ -4473,7 +4473,7 @@ grame
 gyrose
 grindingly
 grandmothers 1
-guastalline
+guastalline 1
 grumous 3
 gemuti 1
 greenlets
