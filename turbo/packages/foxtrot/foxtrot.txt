@@ -5144,7 +5144,7 @@ froom 1
 furoid
 flatlands 1
 fiberized
-fatigued 1
+fatigued 2
 falangism
 flywheels 1
 fjords
