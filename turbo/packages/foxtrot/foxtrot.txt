@@ -8935,7 +8935,7 @@ fox
 fears
 fantaddish
 fuster
-freakishness
+freakishness 1
 fourrier
 flagellates
 foelike
