@@ -8079,7 +8079,7 @@ extraprovincial
 epiphragm
 enlargedness
 encover
-extrasyphilitic
+extrasyphilitic 1
 extraordinaries 1
 embrowned
 expressable
