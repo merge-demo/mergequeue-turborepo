@@ -613,7 +613,7 @@ damnability
 damnabilities 1
 deloul
 disegno
-deadrize
+deadrize 1
 disintegrating
 deadhand
 disgracefulness 1
