@@ -5159,7 +5159,7 @@ flavanone
 fudge
 formicidae
 funambulism
-flatness
+flatness 1
 factored
 fadged 1
 fumulus
