@@ -6597,7 +6597,7 @@ gastornis
 gossans
 gp
 gemutlichkeit
-grittiest
+grittiest 1
 gyrodyne 1
 gateman 1
 gropes
