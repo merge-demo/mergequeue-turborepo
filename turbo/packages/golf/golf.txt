@@ -10750,7 +10750,7 @@ gouge 1
 gerodontics
 germinator
 grandisonian 1
-gerald
+gerald 1
 gut
 grasswards 1
 glycerins 2
