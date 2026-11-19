@@ -1440,7 +1440,7 @@ germinate
 guild
 garbages 1
 gulfy
-grosgrained 1
+grosgrained 2
 gainward
 germiparity
 garnishee
@@ -6671,7 +6671,7 @@ gynecratic 1
 gynaecologic
 guaiol
 geotactic
-girderage
+girderage 1
 glycolyl
 geer 1
 gride
