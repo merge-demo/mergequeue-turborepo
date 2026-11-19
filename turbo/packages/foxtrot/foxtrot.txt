@@ -4149,7 +4149,7 @@ forthrights
 firebox
 flocculation
 farkleberries
-fellowcraft 2
+fellowcraft 3
 fibrils
 faintness 1
 foreaccounting
