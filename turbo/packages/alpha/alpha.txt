@@ -12889,7 +12889,7 @@ annalism
 angled
 apostil
 archencephalic 1
-anglehook
+anglehook 1
 aphthitalite
 anglepod
 anglepods
