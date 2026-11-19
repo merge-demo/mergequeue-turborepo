@@ -14206,7 +14206,7 @@ creoles
 canhoop 1
 circumintestinal
 circumjacence
-circumjacency
+circumjacency 1
 circumjovial
 circumlitio
 circumlittoral
