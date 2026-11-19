@@ -7827,7 +7827,7 @@ formulate
 foreshots 1
 fulgurant 1
 furfuraldehyde
-facings
+facings 1
 flenses
 fidges
 franger
