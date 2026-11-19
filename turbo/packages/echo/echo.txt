@@ -1398,7 +1398,7 @@ electrodialyses
 electrometrically
 expandedness
 emetins 1
-epidote
+epidote 1
 exterous
 endowing
 erasions
