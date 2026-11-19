@@ -3134,7 +3134,7 @@ elogium
 enthrallingly 1
 egohood 1
 eloigned
-eleometer 1
+eleometer 2
 euphonetic
 emissive
 endoscopy
