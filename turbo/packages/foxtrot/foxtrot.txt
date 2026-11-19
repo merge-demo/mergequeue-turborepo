@@ -565,7 +565,7 @@ faculty 1
 federative 3
 fallectomy
 forebays
-fussbudgets
+fussbudgets 1
 feminie 1
 fallen
 ferny
