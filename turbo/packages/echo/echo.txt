@@ -3126,7 +3126,7 @@ ephebi
 elodes 1
 eloge
 editorialized 1
-ellachick
+ellachick 1
 eventognathous
 epiphytology
 exhorting
