@@ -5412,7 +5412,7 @@ example
 elsewhither 1
 electronvolt
 ergotization
-endowment
+endowment 1
 ectene
 endpoints
 endrudge
