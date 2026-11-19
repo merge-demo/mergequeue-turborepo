@@ -2599,7 +2599,7 @@ canela
 canelas
 canellaceous
 cuttlefish
-canellas
+canellas 1
 codified
 canelo
 chittak
