@@ -8645,7 +8645,7 @@ doomlike
 delfs
 diascope
 domed
-distracted
+distracted 1
 didactyl 1
 dissection
 dyassic
