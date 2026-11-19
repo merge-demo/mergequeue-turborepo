@@ -11089,7 +11089,7 @@ dotless
 dissertator
 disarticulating
 dismarble
-disarticulation
+disarticulation 1
 detruded
 disarticulator
 disasinize 1
