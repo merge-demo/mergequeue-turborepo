@@ -3418,7 +3418,7 @@ glamourize
 glyoxim
 greyware
 gesturist
-geothermic
+geothermic 1
 girdingly
 goaled
 gynecic
