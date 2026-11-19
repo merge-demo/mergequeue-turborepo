@@ -5116,7 +5116,7 @@ furculae
 flashiness 2
 fermerer
 famulli
-fragrancies
+fragrancies 1
 forewords
 furler
 fregit
