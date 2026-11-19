@@ -3650,7 +3650,7 @@ adenomycosis
 adenomyofibroma 1
 antiheroism
 alvite 1
-adenomyoma
+adenomyoma 1
 adenomyxosarcoma
 adenoneural
 aerophysical
