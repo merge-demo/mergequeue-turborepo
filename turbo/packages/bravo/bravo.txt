@@ -11451,7 +11451,7 @@ browbands
 blued
 basisolute
 baguettes
-blaseness
+blaseness 1
 belonosphaerite
 barmkin
 bluegrass 1
