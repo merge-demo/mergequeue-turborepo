@@ -9916,7 +9916,7 @@ giddea 3
 gulleting
 gambir
 guardable 1
-gastroparalysis
+gastroparalysis 1
 greening
 gathered 1
 glanditerous
