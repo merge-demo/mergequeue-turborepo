@@ -6420,7 +6420,7 @@ exhalants 1
 eastering 1
 exsanguinate
 egbert
-eastern
+eastern 1
 equatorial 2
 ecophene 1
 embarrassing
