@@ -7290,7 +7290,7 @@ bestud 1
 boninite
 bot 1
 bipont
-barrancas
+barrancas 1
 bandora
 bulwarking
 blowsier
