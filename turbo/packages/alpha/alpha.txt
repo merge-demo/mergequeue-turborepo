@@ -12743,7 +12743,7 @@ arragonite 2
 angelonia
 arks
 affaires
-akhmimic
+akhmimic 1
 antimedicative 1
 agnamed 1
 anelectric
