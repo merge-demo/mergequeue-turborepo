@@ -3576,7 +3576,7 @@ deglamorizing 1
 disaffiliating
 doubtlessly
 dreepiness
-deglazed
+deglazed 1
 discoblastic 1
 deglazing
 duckling
