@@ -3397,7 +3397,7 @@ gillian
 gyromancy
 gentisate
 geometrized 1
-glossolaryngeal
+glossolaryngeal 1
 globularia 1
 gourmets
 grappled 1
