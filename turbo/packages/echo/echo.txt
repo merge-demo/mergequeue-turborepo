@@ -1557,7 +1557,7 @@ effigiation
 eggnog
 exareolate
 embrasures
-eggrolls
+eggrolls 1
 eggs
 emplastra
 enweaving
