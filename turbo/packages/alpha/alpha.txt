@@ -16625,7 +16625,7 @@ aperiodicity
 acaroid 2
 apert
 arsonation
-asperates
+asperates 1
 archelaus 1
 apraxic
 aigremore 1
