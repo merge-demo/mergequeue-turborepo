@@ -11231,7 +11231,7 @@ frypans
 faradise 1
 fistulae 1
 fennecs 1
-foreday
+foreday 1
 farsang
 febres 1
 furzed
