@@ -19680,7 +19680,7 @@ cimbalom
 combater
 combaters
 combating
-combative
+combative 1
 combativeness
 cocainized 1
 chrysanthemum 2
