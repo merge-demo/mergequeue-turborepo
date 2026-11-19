@@ -2002,7 +2002,7 @@ gravitative
 glamourous 1
 gaussage
 girth 1
-gageite
+gageite 1
 gonadotrope
 granville
 galactemia
