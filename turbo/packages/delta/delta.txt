@@ -613,7 +613,7 @@ damnability
 damnabilities 1
 deloul
 disegno
-deadrize
+deadrize 1
 disintegrating
 deadhand
 disgracefulness 1
@@ -12392,7 +12392,7 @@ desecate
 disheriting
 deforms
 declivate
-dishevelled
+dishevelled 1
 dishevelling
 duopolies
 delomorphic
