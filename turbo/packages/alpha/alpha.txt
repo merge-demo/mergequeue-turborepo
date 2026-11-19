@@ -2848,7 +2848,7 @@ acronych 1
 armamentaria
 acousticophobia
 acronychal
-acronichally
+acronichally 1
 adelocodonic
 antisepalous
 apicoectomy
