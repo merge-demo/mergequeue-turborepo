@@ -1522,7 +1522,7 @@ extracalendar
 epembryonic
 extraregarding
 ettarre
-emmetropism
+emmetropism 1
 egesta 2
 eggberries
 enfranchising
