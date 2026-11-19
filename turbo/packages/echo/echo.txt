@@ -6236,7 +6236,7 @@ embryonary
 enamine 1
 ethnogeographical
 entered
-erecter
+erecter 1
 endplate
 excipule
 epistapedial
@@ -8498,7 +8498,7 @@ elongates
 epuration
 exculpable
 euchloric
-effectual
+effectual 1
 englisher
 enwombs
 equableness
