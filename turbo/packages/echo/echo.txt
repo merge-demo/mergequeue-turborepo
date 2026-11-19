@@ -6364,7 +6364,7 @@ evolution
 endostitis 1
 eloquently
 extrauterine
-ebbed
+ebbed 1
 eavesdrip
 episcopize
 eprouvette
