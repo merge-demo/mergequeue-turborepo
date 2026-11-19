@@ -3251,7 +3251,7 @@ dorsoposteriad 1
 defeatment 1
 deleteriously
 depreciator
-dentololabial
+dentololabial 1
 digitiform
 defilingly
 different
