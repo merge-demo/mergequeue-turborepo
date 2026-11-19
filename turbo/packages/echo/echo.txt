@@ -2782,7 +2782,7 @@ erythrosis
 epimerize
 estrangements
 elementalize
-ephori
+ephori 1
 elementaloid
 essang
 encoronate
