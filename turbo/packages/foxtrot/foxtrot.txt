@@ -738,7 +738,7 @@ featherlet
 feinschmeckers
 famp 1
 famuli
-frustrater
+frustrater 1
 fana
 feoffment 1
 foretokening 1
