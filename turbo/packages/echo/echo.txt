@@ -11000,7 +11000,7 @@ eroses 1
 extravagant
 economic
 emolliate
-eurypterus
+eurypterus 1
 emption 1
 eclectism
 ervil 1
