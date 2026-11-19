@@ -10697,7 +10697,7 @@ gu
 grams 1
 gastrolytic
 gracioso
-goosery
+goosery 1
 guywire
 gulfweed
 gerbera
