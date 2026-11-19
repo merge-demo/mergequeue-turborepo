@@ -19825,7 +19825,7 @@ atrophias 1
 alphabetology
 avanters
 ansa
-armenic
+armenic 1
 agapetidae
 axinomancy
 armenoid
