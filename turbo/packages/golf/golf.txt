@@ -3579,7 +3579,7 @@ grotian 2
 galilei 1
 genarcha 1
 grubber 2
-guiser
+guiser 1
 goldic
 guttatim
 gorilline 1
