@@ -2697,7 +2697,7 @@ dassy 1
 dcor
 deductibility
 decoration
-diphygenic
+diphygenic 1
 diogenic
 decorator
 deliberated
