@@ -5177,7 +5177,7 @@ euchres
 echeloning
 enchanter
 expedition
-endogenous
+endogenous 1
 entangledness
 enlistment
 electo 1
