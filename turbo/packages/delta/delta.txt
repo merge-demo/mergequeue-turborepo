@@ -11005,7 +11005,7 @@ dumfound 1
 dobbers
 divides 1
 deanthropomorphic
-dialyphyllous
+dialyphyllous 1
 disambiguating 1
 derah
 defamingly
