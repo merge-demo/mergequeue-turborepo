@@ -5314,7 +5314,7 @@ dilating
 disrate
 diasene
 dentulous
-dentural
+dentural 1
 dermatology
 diametrally 1
 diascia
