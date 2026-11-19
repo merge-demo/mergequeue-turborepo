@@ -11308,7 +11308,7 @@ dowset
 deambulatories
 davens
 deprivate
-discerpible
+discerpible 1
 discerpibleness
 downfield
 distrainee
