@@ -10311,7 +10311,7 @@ depurative
 dioptric
 disslander 1
 dioptrical
-diorama
+diorama 1
 daroo 1
 denticulate
 douziemes
