@@ -17595,7 +17595,7 @@ appendicectomies
 arriero
 abay 1
 airpost
-appendicular
+appendicular 1
 antiapostle
 archorrhea
 amenities
