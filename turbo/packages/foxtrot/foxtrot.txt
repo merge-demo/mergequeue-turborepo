@@ -2585,7 +2585,7 @@ fidawi
 fibrillation
 fangle
 fiscality
-featherlight
+featherlight 1
 filthy 1
 feoffed 1
 fancily
