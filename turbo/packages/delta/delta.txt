@@ -3132,7 +3132,7 @@ divots
 diffusimeter
 draughtily
 defecting
-dezincified
+dezincified 1
 distaff
 doltishness
 depolarizes
