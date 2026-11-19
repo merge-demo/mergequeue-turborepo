@@ -10342,7 +10342,7 @@ floodlighted 1
 fluoridized
 formful
 faceman
-fortiori
+fortiori 1
 flexible
 feezing
 federalese 2
