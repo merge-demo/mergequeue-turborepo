@@ -3065,7 +3065,7 @@ defalcating
 dipteral 1
 deaths
 defamation
-dingling
+dingling 1
 decantation
 dixenite
 deterrers
