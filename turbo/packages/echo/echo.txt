@@ -5853,7 +5853,7 @@ engrandize
 ebrillade
 ectogeneous 1
 epithecia 1
-ecesis
+ecesis 1
 engrandizement 3
 epidermatous 1
 enodate
