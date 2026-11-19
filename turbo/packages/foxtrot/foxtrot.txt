@@ -894,7 +894,7 @@ flyaways
 faventine 1
 flamfew
 flaff 1
-forcepses
+forcepses 1
 fulmars
 fingerlet
 foundationlessness
