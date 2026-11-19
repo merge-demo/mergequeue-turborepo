@@ -19104,7 +19104,7 @@ antivenine
 alit
 ascophorous
 aristocraticness
-allocute
+allocute 1
 absorbant
 alkylamino
 alphanumeric
