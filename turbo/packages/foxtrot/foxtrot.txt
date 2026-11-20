@@ -1785,7 +1785,7 @@ farfet
 farsalah 1
 forlorn 1
 foundery
-frivolously 1
+frivolously 2
 fetid
 fackings 1
 fosslfying
