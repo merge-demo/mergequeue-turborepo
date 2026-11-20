@@ -6167,7 +6167,7 @@ fairgoing 1
 flaxes
 foretops
 feebling
-frequency 1
+frequency 2
 fibroareolar
 flisked
 formicating
