@@ -3764,7 +3764,7 @@ anticipatively
 archivolt
 adhesion
 arbutus
-adhesive
+adhesive 1
 architraved
 ananke
 arteriosclerotic
