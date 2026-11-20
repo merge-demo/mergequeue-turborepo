@@ -3756,7 +3756,7 @@ denigrative
 donkey
 dialyzator
 dienes
-dicier
+dicier 1
 disjecting
 duplexed
 despatched 2
