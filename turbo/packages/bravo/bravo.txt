@@ -6824,7 +6824,7 @@ banjore 1
 bert
 blowhole
 berteroa
-berthas
+berthas 1
 bulkages
 bibliotaphic
 batten
