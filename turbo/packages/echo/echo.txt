@@ -12395,7 +12395,7 @@ ephemerida
 exposures 1
 epigeous
 exhibition 1
-enforce
+enforce 1
 eradiate
 exhibitionism
 essenian

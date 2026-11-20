@@ -403,7 +403,7 @@ grandmamma
 guisian 1
 gps 1
 galant
-galanthus
+galanthus 1
 guilery
 gradiometer
 ganymedes
