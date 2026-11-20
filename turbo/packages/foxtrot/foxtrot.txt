@@ -7417,7 +7417,7 @@ finger 1
 funditores 2
 fantasists 1
 fumeuse 1
-fudges 2
+fudges 3
 fossarian
 filer 2
 fluorinations 1
@@ -8355,7 +8355,7 @@ fiddlerfishes
 firmans
 floppy
 felling
-forcipes 1
+forcipes 2
 fecundative
 framboise
 fornications
