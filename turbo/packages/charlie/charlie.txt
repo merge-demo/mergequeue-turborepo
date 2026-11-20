@@ -13005,7 +13005,7 @@ cyanoplastid
 cyanoplatinite
 cooperative
 cyanoplatinous
-cyanose
+cyanose 1
 cyanoses
 chemitype 1
 cyanosite
