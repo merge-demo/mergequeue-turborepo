@@ -11,7 +11,7 @@ baalim 1
 backlogs
 baals
 browning
-bloodalley
+bloodalley 1
 bryozoans
 buddhi
 bowstringing 2
@@ -9368,7 +9368,7 @@ bagattini
 barringtonia
 biquintile
 boles 1
-betties
+betties 1
 bastaard
 biracial 1
 bavenite
