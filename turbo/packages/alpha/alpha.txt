@@ -14640,7 +14640,7 @@ advisee 1
 anthropogeographer
 aurichalcite
 atle
-antianaphylaxis
+antianaphylaxis 1
 antiangular
 antiannexation
 antiannexationist
