@@ -10263,7 +10263,7 @@ committer
 champerator 1
 climactically
 cantharidin
-chicest
+chicest 1
 coccidioidomycosis
 churm
 chich
