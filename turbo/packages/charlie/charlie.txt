@@ -30786,7 +30786,7 @@ culerage
 christmastide 1
 childbeds
 culett
-climatologic
+climatologic 1
 culeus
 culices
 cocytus
