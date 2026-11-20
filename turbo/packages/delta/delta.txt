@@ -12027,7 +12027,7 @@ derf
 donut
 deacon 1
 disensanity
-dismayedness
+dismayedness 1
 discous
 discontinuity 2
 doorlike
