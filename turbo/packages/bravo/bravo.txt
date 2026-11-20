@@ -3723,7 +3723,7 @@ balladising
 batteners 1
 bankrupted
 bucketmaker
-beltis
+beltis 1
 batterie
 breck 1
 boorish
