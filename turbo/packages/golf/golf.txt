@@ -1273,7 +1273,7 @@ granage 1
 ged
 gavall
 goethites
-gromatical 1
+gromatical 2
 gyrator 1
 glyphographer
 gumpus
