@@ -486,7 +486,7 @@ acervate
 abyssus
 agriculture
 abbreviate
-amylemia
+amylemia 1
 antiscriptural
 abiuret 1
 abjectedness
