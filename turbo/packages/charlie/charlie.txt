@@ -11908,7 +11908,7 @@ cypseloid
 choreographers
 choreographic
 chuzwi
-choreographically
+choreographically 1
 cuds
 calculabilities
 covibrate

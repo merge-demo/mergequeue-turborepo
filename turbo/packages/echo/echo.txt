@@ -9840,7 +9840,7 @@ eclipsation
 eatage
 esterization 2
 ezan
-esterize
+esterize 1
 euciliate
 enterocrinin
 exhumated
