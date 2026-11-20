@@ -10606,7 +10606,7 @@ endorse 1
 enuretic
 eucritic
 eudaemon 1
-eurous
+eurous 1
 ecroulement
 extravasated
 ecdyson
