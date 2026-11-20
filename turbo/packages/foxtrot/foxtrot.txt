@@ -1496,7 +1496,7 @@ flunkyhood 3
 fluoroscopist
 folkish 1
 floatability
-faucre
+faucre 1
 fishmeal
 fairgoer
 fila
