@@ -30421,7 +30421,7 @@ cruxes
 chorizontes
 cruzado
 chelicere
-cruzieros
+cruzieros 1
 crwd
 crystallogenic
 cantaloupe
