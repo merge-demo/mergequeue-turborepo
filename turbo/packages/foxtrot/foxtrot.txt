@@ -7466,7 +7466,7 @@ fellatah
 foisting 2
 floppily 3
 fastly
-fullface
+fullface 1
 forebode 1
 fauld
 fest 1
