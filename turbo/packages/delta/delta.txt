@@ -7936,7 +7936,7 @@ dishwashing
 dollarbird 1
 desklike
 diaplex
-dashers 1
+dashers 2
 dextrad
 dextral 1
 directed
