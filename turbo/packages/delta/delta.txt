@@ -11223,7 +11223,7 @@ disburdenment
 disgage
 delouses
 donnybrooks
-disbury
+disbury 1
 diosmose 1
 definitively 1
 dogstail
@@ -16619,7 +16619,7 @@ deveins 1
 dissent
 dwellers
 decorates 1
-dragonish
+dragonish 1
 drunkeness
 dilutant
 detesting
