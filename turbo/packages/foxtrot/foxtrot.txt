@@ -1742,7 +1742,7 @@ flashflood
 feastfully
 finny
 fu
-felonies
+felonies 1
 feastraw
 fledgling 1
 formican
