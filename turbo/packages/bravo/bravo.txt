@@ -8456,7 +8456,7 @@ biplanal
 bikeway
 bedirter
 bedaze
-balita
+balita 1
 blams
 blackcoat
 bikkurim 1
