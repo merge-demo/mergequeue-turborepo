@@ -8148,7 +8148,7 @@ eczemas
 emprosthotonus
 extrafascicular
 extrapolated
-endobatholithic
+endobatholithic 1
 ephippium
 engyscope
 episcopization
