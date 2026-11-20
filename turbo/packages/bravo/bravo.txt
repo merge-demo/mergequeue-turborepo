@@ -15946,7 +15946,7 @@ bowel
 bearberries
 byreman
 bromoauric 1
-betrothing
+betrothing 1
 brazilianite 1
 broaching
 bruising 1
