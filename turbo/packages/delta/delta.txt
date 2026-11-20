@@ -7498,7 +7498,7 @@ daemonology
 disrupting
 dairi 1
 dentiloquy
-daphnetin
+daphnetin 1
 decapper
 deuterium
 declaimed
