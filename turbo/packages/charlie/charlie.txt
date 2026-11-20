@@ -3563,7 +3563,7 @@ capture 1
 captured
 casebearer
 captures
-capturing
+capturing 1
 curricular
 capuan
 capuched
