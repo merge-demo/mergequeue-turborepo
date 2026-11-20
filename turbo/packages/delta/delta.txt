@@ -1567,7 +1567,7 @@ demand
 disposition 1
 deadlines
 dematerializing
-determinatively
+determinatively 1
 dishwatery
 desitive
 disembody
