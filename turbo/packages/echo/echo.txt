@@ -828,7 +828,7 @@ epitheton
 epop
 exulate 1
 errants
-ectiris
+ectiris 1
 etamines 2
 ectocarpus
 eriophorum

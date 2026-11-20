@@ -10748,7 +10748,7 @@ gorsebird
 grovelers
 gouge 1
 gerodontics
-germinator
+germinator 1
 grandisonian 1
 gerald 1
 gut
