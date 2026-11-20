@@ -2120,7 +2120,7 @@ digitized
 demonianism
 detectors
 diabolology
-downtime
+downtime 1
 disturbs
 diosmosis 1
 decantist
@@ -5544,7 +5544,7 @@ demicylinder
 deathwatches
 duddy
 dozy
-dromaeus 1
+dromaeus 2
 desaturation
 depetalize 1
 disorganiser
