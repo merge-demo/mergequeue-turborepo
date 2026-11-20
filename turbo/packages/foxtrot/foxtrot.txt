@@ -5129,7 +5129,7 @@ frizzly
 fellas 1
 frivolous
 fawns
-fructure
+fructure 1
 flasker 1
 fibrochondritis
 furless 1
