@@ -12131,7 +12131,7 @@ enregister
 electrodynamic
 ejam 1
 eloper
-ebonite
+ebonite 1
 elegiac
 ensorcerize
 erpetologist
