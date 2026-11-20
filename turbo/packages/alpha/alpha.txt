@@ -85,7 +85,7 @@ androecial 2
 amphipods
 abandoned
 abandoner
-abrades
+abrades 1
 alispheno
 astrolatry
 abandoning 1
@@ -14110,7 +14110,7 @@ archdeaconship
 approving
 acenaphthene 1
 archwench 2
-antemarginal
+antemarginal 1
 aphodius
 ambiguous
 are
