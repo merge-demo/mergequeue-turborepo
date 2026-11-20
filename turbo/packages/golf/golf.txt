@@ -9565,7 +9565,7 @@ guytrash 1
 growan
 gogmagog
 gravelike
-gobbed 1
+gobbed 2
 gossiphood 2
 gujrati
 geographism
