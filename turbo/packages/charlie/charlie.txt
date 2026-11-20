@@ -14376,7 +14376,7 @@ cyriologic
 concord
 caddoan
 connotively
-chiromancy
+chiromancy 1
 continuity
 cirques
 cirrate
