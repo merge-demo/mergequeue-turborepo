@@ -3977,7 +3977,7 @@ dogwinkle 1
 dysarthric
 domineeringness
 directitude
-desuetudes
+desuetudes 1
 dislikeful
 dysepulotic
 deliberalization
