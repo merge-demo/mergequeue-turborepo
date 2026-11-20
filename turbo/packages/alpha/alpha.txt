@@ -19101,7 +19101,7 @@ allegoric
 arabine
 abderian
 antivenine
-alit
+alit 1
 ascophorous
 aristocraticness
 allocute 1
