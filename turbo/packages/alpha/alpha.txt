@@ -5422,7 +5422,7 @@ aspirator
 anguine
 aeonial
 aprioristic 1
-aureately
+aureately 1
 afresca
 alkalizable 1
 aspout
