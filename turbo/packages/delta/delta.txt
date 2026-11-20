@@ -18216,7 +18216,7 @@ delights
 dentatocostate
 diamagnetometer
 detonatability
-dermatorrhoea
+dermatorrhoea 1
 dode
 decurrent
 dunderfunk
