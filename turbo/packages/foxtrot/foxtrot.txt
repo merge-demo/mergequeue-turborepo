@@ -6959,7 +6959,7 @@ fondles
 fainter
 formalazine 1
 fumant 1
-flannels
+flannels 1
 fourposter 1
 fineries
 furnacing 1
