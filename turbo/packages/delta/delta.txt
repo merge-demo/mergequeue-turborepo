@@ -4627,7 +4627,7 @@ decking
 derealization
 declaration
 dewaxed 1
-drifting 1
+drifting 2
 disheveling
 ducklar
 demivambrace
