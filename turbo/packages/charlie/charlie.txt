@@ -9136,7 +9136,7 @@ conservatives
 charwomen
 cannibalism
 chase
-chaseable
+chaseable 1
 chased
 corbeilles
 chases
