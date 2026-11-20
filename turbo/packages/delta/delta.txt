@@ -823,7 +823,7 @@ danglin
 docibility
 demagogism
 drowsihood
-directivity
+directivity 1
 ditchbank
 danglingly
 danian
