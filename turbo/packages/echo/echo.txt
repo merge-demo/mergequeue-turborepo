@@ -10265,7 +10265,7 @@ excides
 excluded
 epilogist
 enspangle
-effodientia
+effodientia 1
 elasticizer
 eulogium
 excipulum
