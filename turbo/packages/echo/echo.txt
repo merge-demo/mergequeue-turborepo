@@ -4541,7 +4541,7 @@ embarkation
 encephalotome
 ethics 1
 epionynychia
-euphony
+euphony 1
 epagoge 1
 echinodermal
 emberizidae
