@@ -13494,7 +13494,7 @@ denutrition 1
 debenture
 ditrigonal
 dizygous
-disruddered
+disruddered 1
 dehepatize 1
 dairymaid
 disquietedness
