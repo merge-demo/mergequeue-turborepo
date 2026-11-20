@@ -4394,7 +4394,7 @@ egotize 2
 eruptively
 electromechanical
 experiential
-encadre
+encadre 1
 ender
 emphasised 1
 electrobioscopy 1
@@ -11657,7 +11657,7 @@ electrotactic
 eadish
 exaggerate
 electrize 1
-exaggerated
+exaggerated 1
 emptive
 ergotist
 eperlan
