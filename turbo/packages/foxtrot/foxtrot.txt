@@ -11055,7 +11055,7 @@ fancies
 flanerie 1
 friendliness
 fermented 1
-fumuli
+fumuli 1
 fungated
 fascias
 funambulator 1
