@@ -6439,7 +6439,7 @@ ectropionize
 eskars
 encroachment
 elvira
-ensorceled
+ensorceled 1
 encephalometer
 epicondylitis
 earfuls 1
