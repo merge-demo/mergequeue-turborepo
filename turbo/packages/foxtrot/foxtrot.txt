@@ -4885,7 +4885,7 @@ flakage
 floggings
 flotsen
 flamboyantism
-funiculi
+funiculi 1
 fascial 2
 fruitfulness 1
 fireworkless 1
