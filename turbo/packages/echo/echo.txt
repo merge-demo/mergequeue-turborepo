@@ -4433,7 +4433,7 @@ encarnalised
 encarnalize
 enteropneust
 egghot 3
-effervesces
+effervesces 1
 echards
 edifices
 encarnalized
@@ -9840,7 +9840,7 @@ eclipsation
 eatage
 esterization 2
 ezan
-esterize
+esterize 1
 euciliate
 enterocrinin
 exhumated
