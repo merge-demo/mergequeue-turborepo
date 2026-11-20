@@ -10489,7 +10489,7 @@ fantast
 forewarns 1
 fluffs 2
 fidged
-frostfish
+frostfish 1
 forcite
 frostbitten
 frosty

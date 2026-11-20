@@ -10821,7 +10821,7 @@ debunkment
 drawloom
 diletant
 dashwheel
-diadematoida
+diadematoida 1
 desmidiaceous
 digit 1
 dislicense
