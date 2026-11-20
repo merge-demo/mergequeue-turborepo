@@ -2073,7 +2073,7 @@ gutlessness 1
 grotto 1
 gavots 1
 gazetteership
-glycerophosphoric 1
+glycerophosphoric 2
 gomari
 giftless 1
 gutturonasal 1
@@ -5158,7 +5158,7 @@ gripsacks
 guttae
 groundsheet
 gale 1
-gleamless
+gleamless 1
 gramophone 2
 germinant 2
 glyptologist
