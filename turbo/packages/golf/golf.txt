@@ -5138,7 +5138,7 @@ gabble
 gharial
 gleamingly 1
 garroters 1
-gaviiformes
+gaviiformes 1
 gastrologically
 gabbiest
 gnosticizer 1
