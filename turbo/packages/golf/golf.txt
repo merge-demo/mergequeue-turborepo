@@ -1901,7 +1901,7 @@ gatteridge
 gammaridae
 guayabo
 gaucho
-geniohyoid 1
+geniohyoid 2
 generalists
 gerbillus 1
 germaniums
