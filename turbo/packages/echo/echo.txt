@@ -4394,7 +4394,7 @@ egotize 2
 eruptively
 electromechanical
 experiential
-encadre
+encadre 1
 ender
 emphasised 1
 electrobioscopy 1
