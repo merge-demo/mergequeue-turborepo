@@ -5263,7 +5263,7 @@ breadboards 1
 barkeeps
 begar
 bodingly
-basaltic
+basaltic 1
 boneheaded 2
 bicentenary 1
 bimastoid
