@@ -4178,7 +4178,7 @@ emphasizing
 emporeutic
 enaliosaur
 ergotized 1
-eldermen 1
+eldermen 2
 extrications
 empoririums
 emporiums
@@ -7223,7 +7223,7 @@ enguard
 effervesce
 embrave
 economese
-ergatomorphism
+ergatomorphism 1
 enaena
 evolutionally
 epicurize
