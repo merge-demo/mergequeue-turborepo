@@ -9218,7 +9218,7 @@ galeres
 gibingly 1
 graininess 1
 grizzly 1
-gaugeably
+gaugeably 1
 grizzling
 glorioles
 ghosts 1
