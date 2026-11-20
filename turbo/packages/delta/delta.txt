@@ -14829,7 +14829,7 @@ doctorially
 doctoring
 doctorize
 distinctness
-distributive 1
+distributive 2
 diallage
 doctorless
 diffusibly

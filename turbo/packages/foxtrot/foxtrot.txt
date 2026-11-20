@@ -1447,7 +1447,7 @@ fattishness
 fother 1
 fathomed
 flavoprotein 1
-frimitts
+frimitts 1
 freewheel
 fatuism 1
 felicify
