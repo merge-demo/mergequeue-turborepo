@@ -619,7 +619,7 @@ fragaria
 flocculous
 fragrances
 fawnskin
-fleshes
+fleshes 1
 forehand 1
 farrantly
 forelimb
