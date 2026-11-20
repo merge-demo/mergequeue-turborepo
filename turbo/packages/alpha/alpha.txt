@@ -14014,7 +14014,7 @@ aryepiglottic 1
 ablatively
 antarctogaea
 amphitropal
-anticlassical
+anticlassical 1
 antatrophic
 ante
 avener
