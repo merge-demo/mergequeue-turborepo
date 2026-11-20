@@ -14241,7 +14241,7 @@ dungs
 dynamoelectric 1
 donatism
 dangerous
-definement
+definement 1
 dur
 diswere
 decurions
