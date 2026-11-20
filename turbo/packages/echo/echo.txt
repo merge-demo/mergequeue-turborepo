@@ -3462,7 +3462,7 @@ episcia
 enchained 1
 encolden
 embers
-estival
+estival 1
 essentialization
 enate
 endocarpal
