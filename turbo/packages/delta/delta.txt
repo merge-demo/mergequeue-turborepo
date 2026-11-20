@@ -6819,7 +6819,7 @@ desmopexia
 deheathenize 1
 dreamer 1
 dentary
-deorganize
+deorganize 1
 deifies
 demilitarization
 desmoscolecidae
