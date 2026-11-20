@@ -2119,7 +2119,7 @@ bladeless
 boguing 1
 bulker
 botoyan
-bloodbeat
+bloodbeat 1
 banshies
 bornan
 besetment
