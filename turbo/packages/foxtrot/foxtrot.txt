@@ -10652,7 +10652,7 @@ flangers
 fewmand
 fatcake
 femininity
-freezingly
+freezingly 1
 friandise
 faultiest
 fail 1

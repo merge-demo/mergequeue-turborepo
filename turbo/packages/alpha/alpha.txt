@@ -11488,7 +11488,7 @@ autolysis
 atrabilious
 antianaphylactogen
 atramentous
-americanitis
+americanitis 1
 amt 3
 alushtite 1
 amtman
