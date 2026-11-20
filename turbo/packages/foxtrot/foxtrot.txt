@@ -8788,7 +8788,7 @@ fossillike 1
 foozles
 foolscap 1
 fictile
-fossilogy 1
+fossilogy 2
 firmest
 fettstein
 frigidarium
