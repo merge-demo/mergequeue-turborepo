@@ -3978,7 +3978,7 @@ friarling
 fairydom
 felicitation
 frontlessness
-formability
+formability 1
 forechoose
 furcula
 forestalled 1
