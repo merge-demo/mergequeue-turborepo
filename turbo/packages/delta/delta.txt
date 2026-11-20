@@ -17184,7 +17184,7 @@ diander
 dryopteroid
 dysmerism
 dripolator
-deaves
+deaves 1
 dribbing
 drippage
 drippers
