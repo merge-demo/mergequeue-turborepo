@@ -11061,7 +11061,7 @@ baalitical
 barbarise 1
 bribemonger
 blackface
-bident
+bident 1
 buggymen
 babysit
 besmoking

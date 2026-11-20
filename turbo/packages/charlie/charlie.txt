@@ -30474,7 +30474,7 @@ carbo
 ctr
 comortgagee
 cannibalean 1
-cts
+cts 1
 condylotomy 1
 cu 2
 caracoles
