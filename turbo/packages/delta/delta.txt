@@ -14896,7 +14896,7 @@ dodecahydrate
 duodenojejunostomy
 divata
 deploys
-disanimating
+disanimating 1
 destruct 1
 dictyonina
 drogue

@@ -12245,7 +12245,7 @@ expertized
 encommon
 executrixes
 evolutionarily 1
-expounding
+expounding 1
 extracondensed
 exegesis 1
 exasperative
