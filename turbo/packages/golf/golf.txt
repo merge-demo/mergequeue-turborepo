@@ -8305,7 +8305,7 @@ greeneries 1
 gladness
 gelation 1
 grailing
-gudes 1
+gudes 2
 grandparental
 genonema
 glenoid
