@@ -11197,7 +11197,7 @@ flinter
 fullgrownness
 fairfieldite
 frontiersman
-fortnights
+fortnights 1
 fusobacteria
 foetalization
 fungoes
