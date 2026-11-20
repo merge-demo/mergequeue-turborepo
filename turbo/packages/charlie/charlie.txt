@@ -11670,7 +11670,7 @@ cotemporarily
 chervils
 castane
 cushier
-cholos
+cholos 1
 choloscopy
 cholterheaded
 choltry
