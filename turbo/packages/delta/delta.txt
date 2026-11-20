@@ -1613,7 +1613,7 @@ dicecup
 disenrol
 decl
 dealcoholize
-datisca
+datisca 1
 deutsche
 disorientated
 didymia
