@@ -2908,7 +2908,7 @@ fluellite
 flyoff
 facier
 fooleries
-flukiness
+flukiness 1
 freezed
 foxberries
 fac
