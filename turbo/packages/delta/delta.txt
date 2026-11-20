@@ -18141,7 +18141,7 @@ duodenary 1
 diplocardia
 drad
 domiciliation
-dumosity
+dumosity 1
 dumpage
 displeases
 divaricately
