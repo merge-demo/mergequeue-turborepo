@@ -10146,7 +10146,7 @@ gymslip
 gasohol 1
 goodmanship
 grazers
-giddyish
+giddyish 1
 gothite 1
 gloried 1
 glideness
