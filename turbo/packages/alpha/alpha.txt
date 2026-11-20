@@ -7090,7 +7090,7 @@ acajous
 abantes
 akia
 acetylene
-amphiarthrodial
+amphiarthrodial 1
 akin
 anoxaemic 1
 anre
