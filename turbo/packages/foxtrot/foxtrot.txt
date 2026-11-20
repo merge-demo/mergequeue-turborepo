@@ -348,7 +348,7 @@ formulariser
 fleabites 1
 fawniest
 formagenic
-fetes
+fetes 1
 famulative
 footway
 flaggelate 1
