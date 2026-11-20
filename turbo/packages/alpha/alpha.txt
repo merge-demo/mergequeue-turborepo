@@ -14563,7 +14563,7 @@ antiroyalism
 ambulatorial
 accreditee
 archegosaurus
-anthropophagist
+anthropophagist 1
 anthropophagite
 amoebous
 allophonic
