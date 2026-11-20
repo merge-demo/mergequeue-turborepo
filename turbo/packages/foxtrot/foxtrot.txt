@@ -373,7 +373,7 @@ fluids
 flowerily
 fattiness
 flusterer 1
-faints
+faints 1
 folksiest
 forcedness 1
 franklandite
