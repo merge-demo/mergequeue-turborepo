@@ -8853,7 +8853,7 @@ eremuri
 exemplifying
 ethnoflora 1
 elaphodus
-easternized
+easternized 1
 enerve
 escharoid
 englue
