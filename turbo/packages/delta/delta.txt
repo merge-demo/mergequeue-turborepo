@@ -10716,7 +10716,7 @@ delian
 dragonlike
 dips
 dipsacaceous
-deipnosophist
+deipnosophist 1
 donnees
 disavow
 depriver
