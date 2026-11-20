@@ -793,7 +793,7 @@ dandles 2
 discute 1
 delirament 1
 dissections
-diapsidan
+diapsidan 1
 dandruffs
 dialytic
 debouching
