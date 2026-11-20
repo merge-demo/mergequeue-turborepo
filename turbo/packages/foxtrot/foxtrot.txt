@@ -9883,7 +9883,7 @@ feverless
 filibusters
 fungicolous
 forgiven
-furnishings
+furnishings 1
 fjerding
 forcelessness
 freckled 2
