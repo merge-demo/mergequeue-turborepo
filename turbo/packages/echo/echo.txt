@@ -3712,7 +3712,7 @@ enantiotropic 1
 elucidators
 embryophore
 educations
-electrogenesis
+electrogenesis 1
 elements
 embryos
 esthesioblast
