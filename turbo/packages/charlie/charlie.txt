@@ -18450,7 +18450,7 @@ cessations
 cursor
 coheiress
 cepheus
-clericalize
+clericalize 1
 ceriums
 crosslet
 circlet
