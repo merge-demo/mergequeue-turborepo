@@ -23141,7 +23141,7 @@ aposoro
 attendress
 asteriscus
 attends
-acquittance
+acquittance 1
 almshouses 1
 araucano 1
 abstruser
