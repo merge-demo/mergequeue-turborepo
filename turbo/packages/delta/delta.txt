@@ -18405,7 +18405,7 @@ duopsonistic
 devota
 defrauder 1
 diatribist 1
-depark
+depark 1
 doke
 dogboat
 duosecant
