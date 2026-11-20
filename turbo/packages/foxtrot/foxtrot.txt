@@ -6547,7 +6547,7 @@ firmer
 frothily
 founders
 floodway
-fiends 1
+fiends 2
 floristically 1
 fingerstone 1
 fascioliasis
@@ -8134,7 +8134,7 @@ fuliginous 1
 fidgeting
 fulicinae 1
 foreverness
-fellowshiping
+fellowshiping 1
 foreview 1
 frozenness
 foregoes

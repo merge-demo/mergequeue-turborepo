@@ -3023,7 +3023,7 @@ geogenic
 grudgekin
 garboil
 gulinula
-geminate
+geminate 1
 guiding 1
 geomantically
 garnerage
@@ -8715,7 +8715,7 @@ gagged
 gralloch 1
 graminaceous
 gerenuks 2
-greenish 2
+greenish 3
 gastrodidymus
 grisgris
 goodlihead
