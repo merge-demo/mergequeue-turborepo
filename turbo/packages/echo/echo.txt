@@ -4260,7 +4260,7 @@ endocrinologies
 experiment
 endometrium
 embossmen
-evertile
+evertile 1
 exclusivism
 eptatretus
 emulsion
@@ -11657,7 +11657,7 @@ electrotactic
 eadish
 exaggerate
 electrize 1
-exaggerated
+exaggerated 1
 emptive
 ergotist
 eperlan
