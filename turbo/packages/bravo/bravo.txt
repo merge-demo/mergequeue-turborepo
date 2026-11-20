@@ -1238,7 +1238,7 @@ boches
 balloting 1
 bakra 1
 bruchus 1
-backslid 1
+backslid 2
 beds
 bittersweetness 1
 buxbaumia
@@ -13146,7 +13146,7 @@ bornite
 baksheesh
 bestirs
 bornites 1
-bornitic 2
+bornitic 3
 berob
 borofluohydric
 boroglycerine

@@ -11057,7 +11057,7 @@ compander
 colloquies 1
 chitarroni
 clitoris
-cyclicly
+cyclicly 1
 circumduct
 coalize
 chitimacha 1
