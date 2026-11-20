@@ -22668,7 +22668,7 @@ chambre
 coordinations 1
 compilement
 colicker
-connubium
+connubium 1
 corynebacterium
 connumerate
 childing 1
