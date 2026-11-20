@@ -26400,7 +26400,7 @@ cryptoglioma
 cartaceous 1
 concavities
 centipoise
-chronically
+chronically 1
 clergess
 cliffier
 coterminousness
