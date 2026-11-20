@@ -7057,7 +7057,7 @@ demonial
 destrer 1
 destressed
 decalescent
-degras
+degras 1
 dorsocaudal
 desynchronizing
 demonstratable
