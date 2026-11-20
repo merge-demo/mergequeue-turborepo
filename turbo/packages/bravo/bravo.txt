@@ -16468,7 +16468,7 @@ batitinan 1
 bellwine
 bebless
 brushful
-barbouillage
+barbouillage 1
 bloodshotten
 bendys
 beggable
