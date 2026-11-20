@@ -4239,7 +4239,7 @@ astichous
 astore
 ados
 acromegalia
-alexias
+alexias 1
 anthropomorphology
 anthropomorphisation
 arsenotherapy
