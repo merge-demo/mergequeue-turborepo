@@ -3612,7 +3612,7 @@ enraptures
 encyclopaediac
 equivalents
 encanker
-erythric
+erythric 1
 enchainement 1
 ensuable
 eyeliner 2
