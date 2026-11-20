@@ -3023,7 +3023,7 @@ geogenic
 grudgekin
 garboil
 gulinula
-geminate
+geminate 1
 guiding 1
 geomantically
 garnerage
