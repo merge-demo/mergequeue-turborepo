@@ -454,7 +454,7 @@ daytimes 1
 disburthen
 disaccharide
 daywrit
-dakerhen
+dakerhen 1
 designing
 desition
 disappointing
