@@ -22428,7 +22428,7 @@ corruptible
 conyger
 colobin
 canterbury 1
-coniine
+coniine 1
 coextensive
 chemosensitivity 1
 cormophyte
