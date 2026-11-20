@@ -14110,7 +14110,7 @@ archdeaconship
 approving
 acenaphthene 1
 archwench 2
-antemarginal
+antemarginal 1
 aphodius
 ambiguous
 are
