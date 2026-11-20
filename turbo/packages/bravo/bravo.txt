@@ -1178,7 +1178,7 @@ bridgeway
 balladized 1
 baiza
 baizas
-bespin
+bespin 1
 beseech
 bajardo
 birrs
