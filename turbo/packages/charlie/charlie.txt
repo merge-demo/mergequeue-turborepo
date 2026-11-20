@@ -25761,7 +25761,7 @@ corrivate
 corrivation
 corrive
 conditionate
-clamjamfry
+clamjamfry 1
 counterswing 1
 continuate
 corroboration
