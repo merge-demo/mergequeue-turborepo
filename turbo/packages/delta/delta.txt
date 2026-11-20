@@ -11223,7 +11223,7 @@ disburdenment
 disgage
 delouses
 donnybrooks
-disbury
+disbury 1
 diosmose 1
 definitively 1
 dogstail
