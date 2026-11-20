@@ -6826,7 +6826,7 @@ forthby
 ferritungstite
 fattiest
 frett 1
-farewell
+farewell 1
 flasks
 friability
 flourished
