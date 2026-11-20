@@ -1200,7 +1200,7 @@ decrepitated
 deleterious 1
 depressive 1
 developoid
-disinvolve 1
+disinvolve 2
 dextrans
 datary
 dataries 1
