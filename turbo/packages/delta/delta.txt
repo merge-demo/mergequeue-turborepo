@@ -7218,7 +7218,7 @@ dournesses
 defalk 1
 disarrest
 diarial 1
-deteriorating
+deteriorating 1
 deterioration
 deuce 1
 data
