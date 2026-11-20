@@ -11795,7 +11795,7 @@ exaun
 earthrise
 ectomorphy
 euglenida 3
-ectothermic
+ectothermic 1
 exauthorizeexc 1
 elatery 1
 evanescently

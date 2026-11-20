@@ -10709,7 +10709,7 @@ fleuretty 1
 fortuneless 1
 fringilla 1
 fecks
-finesses
+finesses 1
 fise
 fibriform
 foretelling
