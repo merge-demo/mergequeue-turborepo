@@ -102,7 +102,7 @@ berbers
 bumaloe
 bloodstock
 baritone 1
-bisyllabism
+bisyllabism 1
 boddhisattva 1
 bonsoir
 blistering
