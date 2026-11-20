@@ -4026,7 +4026,7 @@ finis 1
 fadelessly
 furfooz
 flatling
-fletchings
+fletchings 1
 furbelows 1
 fungoid
 finishable
