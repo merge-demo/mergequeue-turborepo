@@ -1174,7 +1174,7 @@ grogs 1
 graftdom 1
 grift
 grassman
-greenishness
+greenishness 1
 groatsworth
 glyptographer
 gasthaus 1
