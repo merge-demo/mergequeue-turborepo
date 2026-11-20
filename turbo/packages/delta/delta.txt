@@ -12069,7 +12069,7 @@ disentrance
 depilatory 1
 defuzed
 disrank
-diamondback
+diamondback 1
 dojiggy
 disgrading
 daisies 1
