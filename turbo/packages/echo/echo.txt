@@ -1506,7 +1506,7 @@ experimentarian
 estantion
 empyesis
 endophytous
-encoronet
+encoronet 1
 egad
 elderlies
 encyclopediac
