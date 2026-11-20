@@ -2328,7 +2328,7 @@ falsetto 1
 feoffs
 fasciole
 fra 1
-fogramite
+fogramite 1
 fiftyfold
 footstalk
 fer 1
