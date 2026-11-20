@@ -14875,7 +14875,7 @@ austrian
 adventureful
 antilogs
 anticipative
-attensity
+attensity 1
 activeness
 antinepotic
 abashment
