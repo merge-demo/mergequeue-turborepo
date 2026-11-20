@@ -2919,7 +2919,7 @@ dedolation
 deseret
 destinal 1
 dotingness 1
-diegesis
+diegesis 1
 diplasiasmus 1
 deduces
 droil

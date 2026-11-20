@@ -9616,7 +9616,7 @@ fathers 1
 fourths 1
 floyt
 forlese
-freezy
+freezy 1
 fubbed
 fromage 1
 foredivine 2
