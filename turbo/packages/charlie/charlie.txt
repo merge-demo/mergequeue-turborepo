@@ -19661,7 +19661,7 @@ claptrap
 chemisorption
 clefts
 comatiks
-comatosely
+comatosely 1
 countercharged
 comatoseness
 comatosity
