@@ -6414,7 +6414,7 @@ goodyear
 grudgeless 1
 gangboard
 goldeney
-gillaroo 1
+gillaroo 2
 goldener
 guary
 goldentop 1
@@ -10669,7 +10669,7 @@ geocentricism
 gambol
 grove
 glyphographic 1
-generalty
+generalty 1
 glycerols 1
 gurnard 1
 gib
