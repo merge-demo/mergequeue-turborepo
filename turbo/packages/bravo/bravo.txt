@@ -9368,7 +9368,7 @@ bagattini
 barringtonia
 biquintile
 boles 1
-betties
+betties 1
 bastaard
 biracial 1
 bavenite
@@ -14222,7 +14222,7 @@ bryanite
 bag
 bough
 bespot
-bottomland 1
+bottomland 2
 bradbury
 bradyauxesis
 bilification
