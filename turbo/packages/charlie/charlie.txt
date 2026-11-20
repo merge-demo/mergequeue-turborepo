@@ -20545,7 +20545,7 @@ compearant
 crimes
 compeering
 corinthianesque
-chromatophorous
+chromatophorous 1
 compellable
 cheirognomy
 compelled
