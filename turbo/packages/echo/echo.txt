@@ -2334,7 +2334,7 @@ entocele
 explosive
 electromobilism
 excrete 1
-espaliering 2
+espaliering 3
 encore
 encomia
 evenlong 1
