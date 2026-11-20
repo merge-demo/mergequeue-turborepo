@@ -1755,7 +1755,7 @@ foreshore 2
 floriferous
 fumosity
 freedman 2
-foveal
+foveal 1
 feeded
 forecastlemen
 foresaddle
