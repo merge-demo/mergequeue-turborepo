@@ -5471,7 +5471,7 @@ epacrid
 extrasystole
 exospheres
 epimanikion 1
-eigenstate
+eigenstate 1
 entitledness
 edematous
 energical 1
