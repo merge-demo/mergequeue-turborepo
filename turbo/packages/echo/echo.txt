@@ -13773,7 +13773,7 @@ ensures
 exodontist
 ethnize
 encloak
-exosperm 1
+exosperm 2
 evermo
 entea
 extispicious
