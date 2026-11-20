@@ -5893,7 +5893,7 @@ flocs 1
 facilely
 folliculosis 1
 frostbites 1
-flogs
+flogs 1
 fermis
 foeticidal 1
 fluviovolcanic 2
@@ -9992,7 +9992,7 @@ fencings
 fliest
 fairness
 fossilising
-flypaper 2
+flypaper 3
 frijole
 freyja 1
 frightening 1
