@@ -4370,7 +4370,7 @@ graces 1
 griffinage 1
 gytling 1
 gynodioecious
-gophers
+gophers 1
 giglet
 goosishness
 gascoyne 1
@@ -8305,7 +8305,7 @@ greeneries 1
 gladness
 gelation 1
 grailing
-gudes 1
+gudes 2
 grandparental
 genonema
 glenoid
