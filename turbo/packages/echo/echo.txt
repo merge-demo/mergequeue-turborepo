@@ -7827,7 +7827,7 @@ ejaculator
 eddish
 ethmoids
 epigoni 1
-espressivo
+espressivo 1
 entomotaxy
 exegetes
 epigonic 1
