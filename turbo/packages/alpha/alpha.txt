@@ -32,7 +32,7 @@ assort
 abac
 ahuehuete 1
 antecedence
-area
+area 1
 allseeds
 aphorized 1
 acrasia 2
