@@ -17654,7 +17654,7 @@ belady
 bogglebo
 blowier
 barrelfish
-burked
+burked 1
 bonnetman
 belletrists
 bonier
