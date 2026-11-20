@@ -11984,7 +11984,7 @@ dowd
 disenchantments 1
 disenchantress
 depluming
-difforme
+difforme 1
 disencharm
 doctrix 1
 dotting
