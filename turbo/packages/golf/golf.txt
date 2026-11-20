@@ -10669,7 +10669,7 @@ geocentricism
 gambol
 grove
 glyphographic 1
-generalty
+generalty 1
 glycerols 1
 gurnard 1
 gib
