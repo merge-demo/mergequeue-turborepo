@@ -12087,7 +12087,7 @@ dysergasia
 determining
 diplopodous
 disert 1
-detergency
+detergency 1
 ducts
 downshifting
 disestablishing
