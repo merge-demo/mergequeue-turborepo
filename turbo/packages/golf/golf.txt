@@ -4428,7 +4428,7 @@ gypsyfy 1
 greedsome 2
 gunshot
 generically 1
-gristles
+gristles 1
 geophytes
 guacimo
 gypsyhead
