@@ -6832,7 +6832,7 @@ gauziness
 garrotes
 garfish 1
 gregarina
-gumwoods
+gumwoods 1
 gelatinoid
 graticulate
 glis 1
@@ -8706,7 +8706,7 @@ games 1
 glom 1
 galeus 1
 gnathobase 1
-gobbin
+gobbin 1
 geminorum
 germling 1
 gaypoo
