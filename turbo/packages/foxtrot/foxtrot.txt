@@ -4636,7 +4636,7 @@ fivebar
 firebase
 forages
 falconidae
-fractonimbus
+fractonimbus 1
 fivesome
 flaubertian
 flashproof 1
@@ -5230,7 +5230,7 @@ fourling
 fleas 1
 fluxroot 1
 fratcheous
-fluctuosity 1
+fluctuosity 2
 foetiferous 1
 fylker
 forecastingly 1
