@@ -9598,7 +9598,7 @@ finitesimal
 flatfootedness
 freen
 flowerer
-festino
+festino 1
 forwardly
 freers
 farthest

@@ -873,7 +873,7 @@ girtline
 gliadin
 gonolobus
 growse
-gloriousness 1
+gloriousness 2
 groundlings
 greeing
 gastromyxorrhea
