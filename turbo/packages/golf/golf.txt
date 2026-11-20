@@ -5158,7 +5158,7 @@ gripsacks
 guttae
 groundsheet
 gale 1
-gleamless
+gleamless 1
 gramophone 2
 germinant 2
 glyptologist
