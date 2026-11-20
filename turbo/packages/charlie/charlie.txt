@@ -8726,7 +8726,7 @@ chicos
 chaperonage
 chaperonless
 cerinthe
-coactively
+coactively 1
 catesbeiana
 cirsium 1
 chapes 1
