@@ -11550,7 +11550,7 @@ equipartisan
 evoking
 embrute
 enlighten
-extensiveness
+extensiveness 1
 evolutionism
 edaphosaurid
 epizeuxis
