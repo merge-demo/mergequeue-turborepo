@@ -11740,7 +11740,7 @@ foliiform
 flneur 1
 foresin
 fremdly
-florimanist
+florimanist 1
 finitely
 flanking
 fatherland 1
