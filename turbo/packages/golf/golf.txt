@@ -1021,7 +1021,7 @@ groundward 1
 gynobase 2
 greekess
 gilse 2
-gurnetty
+gurnetty 1
 granitizing
 grimacing 1
 gnomons
