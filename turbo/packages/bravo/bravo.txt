@@ -17875,7 +17875,7 @@ brawns
 bobotie 2
 bush
 bloviate 1
-bushbody 1
+bushbody 2
 belowground
 bushbucks
 batrachium
