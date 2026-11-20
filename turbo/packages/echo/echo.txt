@@ -6151,7 +6151,7 @@ ethnomusicological 1
 elans
 evolvent 1
 enneagonal
-etymologizable 1
+etymologizable 2
 enigua
 elephantiac
 enneagons
