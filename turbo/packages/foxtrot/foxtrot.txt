@@ -5893,7 +5893,7 @@ flocs 1
 facilely
 folliculosis 1
 frostbites 1
-flogs
+flogs 1
 fermis
 foeticidal 1
 fluviovolcanic 2
@@ -8985,7 +8985,7 @@ faultful
 fowlings
 fluvious
 fountained
-flashguns
+flashguns 1
 flies
 fundiform
 familiar
