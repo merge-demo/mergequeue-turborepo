@@ -2964,7 +2964,7 @@ blissfully
 bamboozlement
 boules 1
 brassavola
-bracketed
+bracketed 1
 barrelwise 1
 barretor 1
 bloodybones 1
@@ -3019,7 +3019,7 @@ beaveries
 becowarding
 bioassay
 boors
-blarneyer 1
+blarneyer 2
 barstools
 bart
 brotherless 1
