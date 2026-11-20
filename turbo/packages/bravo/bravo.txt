@@ -622,7 +622,7 @@ baggyrinkle
 bactericide
 beethoven
 bidget 1
-beggiatoa
+beggiatoa 1
 bacteriochlorophyll 1
 broomsticks
 bostangi

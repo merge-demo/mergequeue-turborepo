@@ -4813,7 +4813,7 @@ gumly
 gladiatorial
 gagelike 1
 gatherer 1
-growlingly
+growlingly 1
 gunnysack
 gunnen
 gaff
