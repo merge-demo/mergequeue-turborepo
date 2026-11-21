@@ -3624,7 +3624,7 @@ curliest
 crustate
 caracolled
 caracoller
-cosmopolitanize
+cosmopolitanize 1
 colarin
 coosify
 caracora
