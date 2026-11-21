@@ -26090,7 +26090,7 @@ culverineer 1
 cynognathus
 coronillin
 colder
-cosins
+cosins 1
 chaja
 cosmecology
 cosmetic
