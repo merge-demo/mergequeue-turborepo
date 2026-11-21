@@ -7926,7 +7926,7 @@ galleons
 gingiva
 glycerol 2
 glaziery
-goodyish 2
+goodyish 3
 gymnurinae
 galliots 1
 guesdist
