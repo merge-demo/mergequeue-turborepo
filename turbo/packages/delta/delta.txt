@@ -2820,7 +2820,7 @@ decubiti
 didymus 1
 deculturate 1
 dentata
-driverless
+driverless 1
 decuman
 deperm
 dorosacral
@@ -15356,7 +15356,7 @@ dilemmas
 distinctions
 dispergated
 daudit 1
-decrystallization
+decrystallization 1
 darbyite
 domesdays
 diarthrodial 1
