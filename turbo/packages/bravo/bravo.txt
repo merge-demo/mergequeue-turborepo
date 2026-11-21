@@ -2783,7 +2783,7 @@ bristlewort
 baroness
 bewrapping
 bordello
-brattiest 1
+brattiest 2
 brownstone
 boose
 boatloading
