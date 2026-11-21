@@ -4101,7 +4101,7 @@ gymnodiniaceous 1
 gallowses
 gerontological
 gazee
-gitoxin
+gitoxin 1
 generalissimos
 gustatorily
 gaitt 1
@@ -7687,7 +7687,7 @@ goldworker
 gamins
 grouf 1
 grewsome
-gliomatous 1
+gliomatous 2
 generalism
 gyassa
 gentium 1
