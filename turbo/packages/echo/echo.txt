@@ -6516,7 +6516,7 @@ expansometer
 ehlite
 early
 enwrapt
-epaenetic
+epaenetic 1
 entanglements
 extraplanetary
 egophonic 1
