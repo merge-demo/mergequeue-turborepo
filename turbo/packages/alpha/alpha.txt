@@ -13612,7 +13612,7 @@ annuls
 adorableness 1
 actinopterygious
 annunciade
-arthropod
+arthropod 1
 aloneness
 annunciation 1
 apophonia
