@@ -13189,7 +13189,7 @@ dyssystole
 dispiteousness 1
 decomposed
 diuturnal
-disgruntles
+disgruntles 1
 displaceability
 dilly 1
 dipropyl
