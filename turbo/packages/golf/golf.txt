@@ -4622,7 +4622,7 @@ geomorphologic 1
 ghostily
 glossarian 1
 guauaenok
-gerbilles
+gerbilles 1
 gossoon 2
 glassin
 glycuronic
