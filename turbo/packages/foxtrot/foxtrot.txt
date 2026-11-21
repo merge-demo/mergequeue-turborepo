@@ -3717,7 +3717,7 @@ forwear 1
 fiscally
 fosse
 fribblish
-foujdary
+foujdary 1
 fourierian
 flavorousness
 fluoroscopists 1
