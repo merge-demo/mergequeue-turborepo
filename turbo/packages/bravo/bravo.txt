@@ -6642,7 +6642,7 @@ bleb 1
 berewick
 biunity
 banquettes
-bergall
+bergall 1
 bergamasche
 bergamask
 bobcat
