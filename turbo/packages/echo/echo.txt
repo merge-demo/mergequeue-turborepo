@@ -11113,7 +11113,7 @@ everly
 exclaimer
 embanked
 eutrophication
-externalised
+externalised 1
 expiating
 eutropous 1
 entanglingly
