@@ -766,7 +766,7 @@ didnt
 diselenide
 demagnetisable 1
 delimitized
-doug
+doug 1
 dominicale
 drapeable
 diapnotic
