@@ -3260,7 +3260,7 @@ casimere
 capitations
 cyclotomy
 capite
-christianized 1
+christianized 2
 capitellate
 canteen
 capitellum
