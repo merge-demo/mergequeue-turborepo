@@ -10321,7 +10321,7 @@ boyang
 beehead
 beforehandedness
 beets 1
-barnumism
+barnumism 1
 benevolist 2
 blacksnake
 baneful
