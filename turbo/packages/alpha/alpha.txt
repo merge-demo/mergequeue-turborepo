@@ -216,7 +216,7 @@ acatastasia
 antimiasmatic 1
 abbeystede
 appulses
-ardeb
+ardeb 1
 almanac
 abbevillian 1
 abolishments 1
