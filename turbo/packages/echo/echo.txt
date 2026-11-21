@@ -1498,7 +1498,7 @@ ebbs
 eclegme 1
 escadrille
 effusively
-effuviate
+effuviate 1
 efl
 efph
 entocondylar
