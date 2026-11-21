@@ -1295,7 +1295,7 @@ effectiveness
 engler
 eesome
 escuages
-explicatively
+explicatively 1
 ericophyte
 efface
 equalized 1
