@@ -963,7 +963,7 @@ desists 1
 dodecastyle
 doctors
 doddery
-dizzyingly
+dizzyingly 1
 dextrosazone
 dyslogy 1
 dipsey
@@ -13017,7 +13017,7 @@ documenting 1
 daleth
 disparate 1
 diurnal 1
-disestablish
+disestablish 1
 disparation
 downlike 1
 dromiceiidae
