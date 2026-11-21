@@ -15165,7 +15165,7 @@ dokmarok 1
 decart
 dandriffy
 dolefullest 2
-dolently
+dolently 1
 disensoul 1
 discontentments
 dedolomitizing
