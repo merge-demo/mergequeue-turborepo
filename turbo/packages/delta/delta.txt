@@ -15356,7 +15356,7 @@ dilemmas
 distinctions
 dispergated
 daudit 1
-decrystallization
+decrystallization 1
 darbyite
 domesdays
 diarthrodial 1
