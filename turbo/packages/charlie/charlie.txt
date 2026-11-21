@@ -2950,7 +2950,7 @@ coation
 clip
 cantharidian
 cantharidize 1
-cantharidized
+cantharidized 1
 cantharus
 clotter
 chank
