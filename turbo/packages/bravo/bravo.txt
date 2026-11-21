@@ -9744,7 +9744,7 @@ bismuthate
 burhinus 1
 bismuthide 1
 bethanked
-beneficing
+beneficing 1
 bezzled
 beeping
 bismuthinite
