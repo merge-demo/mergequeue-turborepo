@@ -12438,7 +12438,7 @@ androclus 1
 agialid 1
 absoil
 aspergilliform
-alacrious
+alacrious 1
 automelon 1
 anthela
 androgamone
