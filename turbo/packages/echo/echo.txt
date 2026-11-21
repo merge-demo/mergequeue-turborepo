@@ -2018,7 +2018,7 @@ elixate 1
 elabrate 2
 endocrinotherapy
 epigaea 1
-erythrosine
+erythrosine 1
 epitrophy
 enthrone
 encurl 2
