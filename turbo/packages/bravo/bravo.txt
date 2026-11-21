@@ -12960,7 +12960,7 @@ bureaucratic 1
 breviloquence
 boleros
 bucktails
-berthold
+berthold 1
 boardinghouses
 bootman
 boots
