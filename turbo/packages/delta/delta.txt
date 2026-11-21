@@ -11090,7 +11090,7 @@ dissertator
 disarticulating
 dismarble
 disarticulation 1
-detruded
+detruded 1
 disarticulator
 disasinize 1
 deliciously

@@ -5103,7 +5103,7 @@ cased 1
 cisatlantic 1
 convulsionism
 casefy 1
-counterenamel
+counterenamel 1
 compeller
 chondrectomy
 careys
