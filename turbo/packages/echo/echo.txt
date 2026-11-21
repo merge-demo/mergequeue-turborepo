@@ -6384,7 +6384,7 @@ egested
 eyemark 1
 elaboration
 enrobed
-epist
+epist 1
 enunciator
 eluvivia
 elapid
