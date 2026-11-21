@@ -2666,7 +2666,7 @@ deconsecrated 2
 demitrain
 deconsideration
 decontaminating
-diatessaron
+diatessaron 1
 dortiness
 dejectly
 decontaminators 1
