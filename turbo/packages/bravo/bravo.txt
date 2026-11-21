@@ -10521,7 +10521,7 @@ brose
 bemas
 bhutan
 bathmic
-blason
+blason 1
 blasphemed
 blasphemes
 blasphemies
@@ -11418,7 +11418,7 @@ bluebells
 bepistoled 1
 brimstonewort
 bons
-bescorches
+bescorches 1
 bluebill
 bustic
 bromouracil
