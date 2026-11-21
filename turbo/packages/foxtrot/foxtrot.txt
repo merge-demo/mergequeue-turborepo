@@ -6806,7 +6806,7 @@ favoringly
 favourableness 2
 facemaking 1
 friarhood 2
-fistiness
+fistiness 1
 floridities
 foozler
 fraudulency
