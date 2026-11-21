@@ -11284,7 +11284,7 @@ dost
 dalan 1
 disdodecahedroid
 dinichthys
-deputatively
+deputatively 1
 dinner
 discepts
 diffidentness
