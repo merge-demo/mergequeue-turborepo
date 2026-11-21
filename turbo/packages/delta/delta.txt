@@ -7224,7 +7224,7 @@ deuce 1
 data
 dear
 dicyan 1
-diamondlike
+diamondlike 1
 dreamily
 deteriorative
 desmohemoblast
