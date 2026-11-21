@@ -10248,7 +10248,7 @@ gustiness
 galvanometry
 galvanoplastically
 grownup
-gauzelike
+gauzelike 1
 guanases 1
 globulitic
 goers
