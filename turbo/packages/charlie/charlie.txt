@@ -24427,7 +24427,7 @@ coontah
 collaborateur
 coop
 crozer 1
-cooped
+cooped 1
 cooperage
 cooperate 1
 cooperated
