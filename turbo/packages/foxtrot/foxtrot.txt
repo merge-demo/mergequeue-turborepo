@@ -9770,7 +9770,7 @@ feasance
 freshmen 2
 fanners
 fostering
-floorwalker
+floorwalker 1
 fraudless 2
 flavia
 fresno 1
