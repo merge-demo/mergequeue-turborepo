@@ -1186,7 +1186,7 @@ enscroll 1
 ensweep 1
 educational
 extratracheal
-estipulate
+estipulate 1
 estimation 1
 eroded
 elenge
@@ -6384,7 +6384,7 @@ egested
 eyemark 1
 elaboration
 enrobed
-epist
+epist 1
 enunciator
 eluvivia
 elapid

@@ -28728,7 +28728,7 @@ creosotic
 cocircularity
 crepey
 chiru
-constringe
+constringe 1
 coincides 2
 crepy
 crepiest 1
