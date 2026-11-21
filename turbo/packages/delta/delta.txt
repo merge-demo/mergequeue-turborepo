@@ -7433,7 +7433,7 @@ dubhgall
 distalia
 detruding
 disulphid
-diviner
+diviner 1
 detruncation 1
 damneder
 dodgery 1
