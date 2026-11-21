@@ -17562,7 +17562,7 @@ coccidioidal
 chapelman
 corvina 1
 cacoxene
-coccidiosis
+coccidiosis 1
 coccidium
 coccidology
 coccids
