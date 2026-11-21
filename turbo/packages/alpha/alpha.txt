@@ -20738,7 +20738,7 @@ abelonian
 aces
 affrontingly 1
 avid
-antarchy
+antarchy 1
 augmenting
 acquitment 1
 autoplagiarism
