@@ -1140,7 +1140,7 @@ gestura
 geneura
 gerontocracies
 gallnut
-galyac
+galyac 1
 groupment
 gunpowder
 granddam 1
