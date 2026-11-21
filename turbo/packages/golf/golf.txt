@@ -10262,7 +10262,7 @@ gumbos
 getid 1
 grotianism
 gempylid
-gemelled
+gemelled 1
 gallon
 gutturalization 1
 groaningly
