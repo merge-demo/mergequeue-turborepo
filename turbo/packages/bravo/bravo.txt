@@ -9271,7 +9271,7 @@ bipaschal
 biped 1
 bipedal
 beggared 1
-bogo
+bogo 1
 bourbonesque
 bipedality
 bipeds
