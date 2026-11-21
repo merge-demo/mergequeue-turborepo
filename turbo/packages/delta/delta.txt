@@ -12440,7 +12440,7 @@ discharm 1
 dishwashers
 dichlone
 distemperature
-demonstrant
+demonstrant 1
 dishwashings
 dibromobenzene 1
 doglegged
