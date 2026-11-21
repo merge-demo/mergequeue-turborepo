@@ -6327,7 +6327,7 @@ frugiferousness
 fluotitanate
 formulized
 foetal
-fluctuability
+fluctuability 1
 footropes
 ferriage 1
 fixup 1
