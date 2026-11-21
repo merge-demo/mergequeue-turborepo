@@ -3989,7 +3989,7 @@ forlay 1
 finical
 flunk
 ferric
-furazolidone
+furazolidone 1
 fumblers 2
 foramina
 fishery
