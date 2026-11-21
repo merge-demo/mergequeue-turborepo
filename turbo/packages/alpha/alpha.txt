@@ -17995,7 +17995,7 @@ archae
 alpinism
 approximal
 approximants
-ambits
+ambits 1
 ashkenazic 1
 antiheroic 1
 acridly
