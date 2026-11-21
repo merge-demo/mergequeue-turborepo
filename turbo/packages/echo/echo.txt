@@ -1414,7 +1414,7 @@ etherified
 essenced
 effusive
 ebrious 2
-enormousness
+enormousness 1
 entodermal
 epipodialia
 entoretina
