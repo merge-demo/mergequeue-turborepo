@@ -15449,7 +15449,7 @@ clarkias
 conga
 coapostate 2
 crocker
-confraternization
+confraternization 1
 cravenness
 claroes
 collegian
