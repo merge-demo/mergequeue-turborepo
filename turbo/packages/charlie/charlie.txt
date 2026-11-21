@@ -131,7 +131,7 @@ cabirian
 circumcised
 cabiric 1
 cataclysm
-cable
+cable 1
 cablecast
 cardiolith
 catholici
