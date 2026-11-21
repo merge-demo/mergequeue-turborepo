@@ -10862,7 +10862,7 @@ beplumed
 bedlams
 broses 1
 bassan
-biosynthetic 1
+biosynthetic 2
 blepharosynechia
 buckism
 blepharosphincterectomy
@@ -11770,7 +11770,7 @@ bobsledded
 berascal 1
 britoness
 beryciform 1
-burier
+burier 1
 buckling
 beworry
 bigeyes
