@@ -12246,7 +12246,7 @@ bebannered
 balaenopteridae
 birdling
 besmut
-bedsore
+bedsore 1
 broos
 brailling
 backwash
