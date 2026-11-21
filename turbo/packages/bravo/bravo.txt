@@ -626,7 +626,7 @@ beggiatoa 1
 bacteriochlorophyll 1
 broomsticks
 bostangi
-bastiment
+bastiment 1
 bacteriodiagnosis
 bromates 1
 benomyls
