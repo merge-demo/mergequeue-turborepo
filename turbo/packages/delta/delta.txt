@@ -3976,7 +3976,7 @@ delsartean
 dogwinkle 1
 dysarthric
 domineeringness
-directitude
+directitude 1
 desuetudes 1
 dislikeful
 dysepulotic
