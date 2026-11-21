@@ -1447,7 +1447,7 @@ euphuisms 1
 enarbour
 encephaloscope
 esconson
-electrophoresis
+electrophoresis 1
 eelpout
 effort
 ethmovomer
