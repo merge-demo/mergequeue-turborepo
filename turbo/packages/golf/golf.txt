@@ -3180,7 +3180,7 @@ geotilla
 grigs
 geotropy 1
 guardant
-glossolabiolaryngeal
+glossolabiolaryngeal 1
 gametoid
 ganglial
 gooier 1
