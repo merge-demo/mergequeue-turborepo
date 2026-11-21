@@ -126,7 +126,7 @@ cabinlike
 crafter 1
 cabio
 costotransverse
-cabiria
+cabiria 1
 cabirian
 circumcised
 cabiric 1

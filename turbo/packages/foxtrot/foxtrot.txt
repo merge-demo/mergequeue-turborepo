@@ -8881,7 +8881,7 @@ flu
 fountain 1
 fragged
 fossicker 1
-flueman
+flueman 1
 factious
 filosus 1
 faultfinder
