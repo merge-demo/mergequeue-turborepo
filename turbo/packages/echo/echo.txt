@@ -3493,7 +3493,7 @@ emblazers 1
 erke 1
 envies 1
 evelight 1
-emblazoned 1
+emblazoned 2
 emblazoner
 emblazonments
 epidermose
