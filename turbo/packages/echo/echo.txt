@@ -8668,7 +8668,7 @@ edibility 1
 equipedal
 endotheliomyoma 1
 epithalamiumia
-enchondromas
+enchondromas 1
 exfoliate
 encharging
 episcleritis
