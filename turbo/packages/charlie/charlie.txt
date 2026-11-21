@@ -21664,7 +21664,7 @@ condyles
 crimsony
 clubbers
 carbamidine
-condyloma
+condyloma 1
 condylomatous
 condylopodous
 conjurator
@@ -29776,7 +29776,7 @@ chatelainry 1
 crooknosed
 chromatoid
 crooksided
-crooksterned
+crooksterned 1
 crool
 counterambush
 crooned 1
