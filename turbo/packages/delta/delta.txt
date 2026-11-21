@@ -8953,7 +8953,7 @@ dispeller 1
 dahoon 2
 discophora
 damine
-deficience
+deficience 1
 disconanthous
 duodenotomy
 digastric
