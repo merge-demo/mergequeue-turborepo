@@ -2787,7 +2787,7 @@ decretively
 discind
 deuteroglobulose
 decretorian
-dithymol
+dithymol 1
 defi
 declarator
 decried
