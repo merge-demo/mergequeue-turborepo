@@ -5926,7 +5926,7 @@ fiercest
 falseface 1
 freer 1
 fraudlessness
-freehand
+freehand 1
 feretories
 furzes
 fearlessly 1
