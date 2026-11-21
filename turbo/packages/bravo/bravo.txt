@@ -6778,7 +6778,7 @@ blastocheme 1
 berossos
 beround
 balloonfish
-bendability
+bendability 1
 berreaves
 berret
 berrettas
