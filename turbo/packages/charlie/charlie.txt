@@ -5685,7 +5685,7 @@ catatony
 catatonic
 coeloglossum
 countersignal 1
-catawampous
+catawampous 1
 catawamptiously
 cenogenetically
 chromatophobia
