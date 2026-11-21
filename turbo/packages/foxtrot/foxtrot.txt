@@ -9493,7 +9493,7 @@ fricatrice
 flawn
 fatiguingly
 forested
-forfear 1
+forfear 2
 founts
 flask 1
 foveate 2

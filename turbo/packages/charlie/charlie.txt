@@ -1682,7 +1682,7 @@ complicacies
 carboxylating
 caloric
 caloriduct
-calorie
+calorie 1
 claytonia 1
 conflagrating
 cele 1
