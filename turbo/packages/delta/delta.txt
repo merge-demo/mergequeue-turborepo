@@ -12761,7 +12761,7 @@ desertress
 disestablishmentarianism
 distasted
 drogher
-diaschisma
+diaschisma 1
 discloud
 dislodgment
 docimasy
@@ -15165,7 +15165,7 @@ dokmarok 1
 decart
 dandriffy
 dolefullest 2
-dolently
+dolently 1
 disensoul 1
 discontentments
 dedolomitizing
