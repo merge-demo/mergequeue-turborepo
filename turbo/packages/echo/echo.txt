@@ -4931,7 +4931,7 @@ eyelight
 emporetic 2
 emulsifiers
 earnestful
-eyries
+eyries 1
 ephemerally
 endearedness
 enterocele
