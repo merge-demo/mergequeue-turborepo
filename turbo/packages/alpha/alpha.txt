@@ -4168,7 +4168,7 @@ alkylamine
 adonizing
 ancestrian
 adoperate
-ammonals
+ammonals 1
 attn
 anticrotalic
 adjag
@@ -13541,7 +13541,7 @@ authigenic
 annates
 armada 1
 alberich
-azeotropism
+azeotropism 1
 amoebida
 amputated
 annotative
