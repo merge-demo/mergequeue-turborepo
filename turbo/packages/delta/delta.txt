@@ -12315,7 +12315,7 @@ dysphrenia 1
 deductively
 dragomen
 dishabituated
-dolomize
+dolomize 1
 dolman
 dishable
 debitable
