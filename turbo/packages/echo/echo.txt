@@ -12139,7 +12139,7 @@ eg
 eyelike
 epural
 excursionist
-excurvated
+excurvated 1
 emaciate
 extrados
 emphysematous
