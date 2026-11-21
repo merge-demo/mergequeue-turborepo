@@ -6296,7 +6296,7 @@ ferments
 fumigatorium
 fpm 1
 frolicness
-forthcomingness
+forthcomingness 1
 furcraeas
 favela
 fluoboride
