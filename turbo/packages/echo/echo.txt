@@ -324,7 +324,7 @@ escots
 euryprosopic
 engaze 1
 eastman
-enclaret
+enclaret 1
 estops
 eastre
 enturret
