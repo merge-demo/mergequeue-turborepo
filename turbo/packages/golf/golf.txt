@@ -9633,7 +9633,7 @@ generals
 genital
 grudging
 gutturals
-gonosphere 1
+gonosphere 2
 geraniols 1
 gazpacho
 garmenting
