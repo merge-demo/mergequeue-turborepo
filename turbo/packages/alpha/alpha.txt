@@ -13064,7 +13064,7 @@ anhydrate
 anhydration
 altering
 anhydride 1
-anthozoic
+anthozoic 1
 antidecalogue
 axseed
 aischrolatreia 1
@@ -23358,7 +23358,7 @@ adoxaceous
 audads
 acetylasalicylic
 audian
-aghanee
+aghanee 1
 asyla
 audibles
 antiaristocracies
