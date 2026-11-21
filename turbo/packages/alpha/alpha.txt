@@ -19552,7 +19552,7 @@ argumental
 autecious
 anesthesiant 1
 accede
-adjacency
+adjacency 1
 amorphous
 ariana
 alifs

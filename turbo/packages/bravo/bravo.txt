@@ -10072,7 +10072,7 @@ basely 1
 bushranger
 bedeviled 1
 battuto
-becrusted
+becrusted 1
 barrad
 benefiter
 bywalking
@@ -10896,7 +10896,7 @@ barathra
 backbends
 bletilla
 brutalities
-baldacchini
+baldacchini 1
 bronteum
 blets
 braggarts
