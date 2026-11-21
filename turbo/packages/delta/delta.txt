@@ -9851,7 +9851,7 @@ disangularize 1
 dimer 1
 decadency
 deludable
-deboner
+deboner 1
 decolonising
 daturic
 deuteronomist 2
