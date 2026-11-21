@@ -3559,7 +3559,7 @@ frenchism 1
 fogie 1
 flamboyance
 funmaker
-fencelet 1
+fencelet 2
 faradises
 foremention
 filemaker
