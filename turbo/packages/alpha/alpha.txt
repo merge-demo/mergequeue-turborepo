@@ -20936,7 +20936,7 @@ antihuman
 aerosiderite
 aldamine
 amylophosphate
-arthritic
+arthritic 1
 anabrosis
 aileen
 allotment
