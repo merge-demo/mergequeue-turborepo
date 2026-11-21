@@ -10243,7 +10243,7 @@ fibrose
 franconian
 finespun
 formolit
-frabous
+frabous 1
 frankeniaceae
 fortuitousness
 fluorescigenous

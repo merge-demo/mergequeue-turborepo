@@ -4447,7 +4447,7 @@ adure
 andia 1
 allergia
 australic 1
-antipuritan
+antipuritan 1
 adust
 adustion
 abatjour 1
