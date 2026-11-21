@@ -1008,7 +1008,7 @@ claretian
 capuche
 caca
 circularizers
-calanque
+calanque 1
 calantas
 chondroid
 cyclopedical
