@@ -7283,7 +7283,7 @@ foram 1
 fronds
 fearnaught
 frampold
-favour
+favour 1
 febricant
 fulcrum
 feathered 2
