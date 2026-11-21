@@ -3287,7 +3287,7 @@ eugenols 1
 erethizon
 embattlement
 elapidae
-eremitish
+eremitish 1
 effeminization
 emailed
 equalise
