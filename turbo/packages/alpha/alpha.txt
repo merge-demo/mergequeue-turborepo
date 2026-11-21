@@ -16557,7 +16557,7 @@ aparejos
 automaker
 antarctogaean
 amaurosis
-amygdale
+amygdale 1
 abusee
 accessibly
 atokous
