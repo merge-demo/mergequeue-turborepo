@@ -4072,7 +4072,7 @@ cardianeuria
 calamiform
 choyaroot
 counterrevolution
-cyanometric
+cyanometric 1
 cardias
 contrivers
 coolerman
@@ -8851,7 +8851,7 @@ characterology
 coffle
 crosshead
 confirming
-cassinette
+cassinette 1
 cerned
 characters
 campanulate
