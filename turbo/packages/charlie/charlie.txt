@@ -27587,7 +27587,7 @@ covine
 clinquant
 censes
 coving
-carapus
+carapus 1
 covinous
 charioteership
 conventicler
