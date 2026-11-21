@@ -12550,7 +12550,7 @@ electrofusion 1
 extant
 existlessness
 epistemological
-excitomuscular 1
+excitomuscular 2
 embezzle
 exit
 encrypted 1
