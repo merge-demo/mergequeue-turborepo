@@ -1025,7 +1025,7 @@ gurnetty 1
 granitizing
 grimacing 1
 gnomons
-geophilous
+geophilous 1
 guttle 2
 glanduliferous 1
 gully
