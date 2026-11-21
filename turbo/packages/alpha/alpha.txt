@@ -8586,7 +8586,7 @@ awns
 advisatory
 alkahestic
 admonishment
-atmological
+atmological 1
 allantoidean
 allantoides
 allantoin
