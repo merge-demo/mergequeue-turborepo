@@ -2514,7 +2514,7 @@ excerebrate
 efferently 1
 emesidae
 enserfs 1
-eternity
+eternity 1
 endochylous
 electrolytically
 exuviates
@@ -6384,7 +6384,7 @@ egested
 eyemark 1
 elaboration
 enrobed
-epist
+epist 1
 enunciator
 eluvivia
 elapid
