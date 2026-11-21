@@ -2732,7 +2732,7 @@ grenades
 geodesists 1
 gristmiller
 gynophagite
-gliadins
+gliadins 1
 guillotine
 gunboats
 grooms 1
