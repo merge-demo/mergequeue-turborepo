@@ -8795,7 +8795,7 @@ el 1
 emulative
 ectoskeleton
 ekename
-effectuate
+effectuate 1
 eventuations
 endobronchial 1
 eldmother
