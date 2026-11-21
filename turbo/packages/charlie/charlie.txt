@@ -12043,7 +12043,7 @@ chorusmaster 1
 calapite
 chorussed
 chorusses
-cathedralic
+cathedralic 1
 chorussing
 creatively
 coll
