@@ -12501,7 +12501,7 @@ enteropneusta
 erythrophage
 envisages
 epicentral 1
-embosture
+embosture 1
 executrixship
 expertize
 exine 1
