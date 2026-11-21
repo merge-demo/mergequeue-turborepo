@@ -8804,7 +8804,7 @@ deliberates
 deterring 1
 drachmas
 degame
-donkeyman
+donkeyman 1
 dybbuk
 disfavourable
 dominantly 2
