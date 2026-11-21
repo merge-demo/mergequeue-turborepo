@@ -2630,7 +2630,7 @@ execrations 1
 etymologisable
 exempla
 electroplater
-electropower
+electropower 1
 embodying
 evolvers
 excitably
