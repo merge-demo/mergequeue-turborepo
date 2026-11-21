@@ -25711,7 +25711,7 @@ cleanhandedness
 cistophoric
 coppiced 1
 crepitate
-circumrotating
+circumrotating 1
 corresponded
 correspondence
 correspondences
