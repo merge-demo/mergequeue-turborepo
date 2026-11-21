@@ -2044,7 +2044,7 @@ embroilments 1
 eyeblink 1
 entresol
 eldin
-electrolyzation
+electrolyzation 1
 embitterments
 echoencephalography
 encouragingly
