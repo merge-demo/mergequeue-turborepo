@@ -2234,7 +2234,7 @@ forgetting
 fracture 3
 filtrated
 filesave 2
-fainaiguer 2
+fainaiguer 3
 femora 1
 fatil
 fain
