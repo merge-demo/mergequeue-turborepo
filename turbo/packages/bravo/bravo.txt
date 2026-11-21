@@ -17478,7 +17478,7 @@ birdikin
 butic
 bena 1
 buprestis
-belat 1
+belat 2
 brob 1
 briskening
 bragwort
