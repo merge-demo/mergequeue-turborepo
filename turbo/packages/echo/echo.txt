@@ -13615,7 +13615,7 @@ ectad 1
 exiledom
 extemporary 1
 extemporisation 1
-ewing
+ewing 1
 extraspinal
 extemporized
 escallonia
