@@ -829,7 +829,7 @@ fumingly 1
 faun
 fenny 1
 ferratin
-frogeyes
+frogeyes 1
 fishberries
 fixatives
 fluctuations
