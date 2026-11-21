@@ -4654,7 +4654,7 @@ diamondwise
 diffareation
 disrelish
 demiwolf
-deprivals
+deprivals 1
 devi
 disremember
 demobilising
