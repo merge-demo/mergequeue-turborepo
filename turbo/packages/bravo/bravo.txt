@@ -17325,7 +17325,7 @@ bumtrap
 bumwood 1
 bun
 bore
-bathochromatism
+bathochromatism 1
 benzotrifluoride 1
 bahutu 1
 bopyrus
