@@ -7150,7 +7150,7 @@ denarcotization
 diaphorase
 diemaking
 detaches 2
-dicast
+dicast 1
 dynamis
 demijohns
 demulsifying
