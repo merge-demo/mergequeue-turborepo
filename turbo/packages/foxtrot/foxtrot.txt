@@ -8727,7 +8727,7 @@ facelifts
 foreplace 1
 fraud
 fated 1
-frugality 1
+frugality 2
 fashionative 2
 fumbler 1
 forhooie 1
