@@ -15944,7 +15944,7 @@ donable
 dotes
 dispreads
 disbudded
-decadist
+decadist 1
 doth
 deglutination 2
 dl 1
