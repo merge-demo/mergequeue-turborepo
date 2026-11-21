@@ -7517,7 +7517,7 @@ anfracture
 alnitham
 albuminising
 albuminize
-arrested
+arrested 1
 anchovies 1
 alt
 adaptor
