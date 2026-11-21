@@ -9235,7 +9235,7 @@ gigabyte 1
 goldin 1
 gigglesome
 groceryman
-goitre
+goitre 1
 gardnap
 giltcup
 grapnels 1
