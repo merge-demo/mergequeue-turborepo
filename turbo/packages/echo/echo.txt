@@ -10347,7 +10347,7 @@ elvers
 ecumenistic
 endorsement 1
 euhemerized
-englacially
+englacially 1
 excitability
 edgestone 1
 exhibitive
