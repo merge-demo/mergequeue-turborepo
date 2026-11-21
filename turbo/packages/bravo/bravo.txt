@@ -15596,7 +15596,7 @@ bougar 1
 burbles 1
 brewsterite 1
 barbacan
-brises
+brises 1
 brisker 1
 buttonmould 1
 biosystematic
