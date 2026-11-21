@@ -1874,7 +1874,7 @@ graptolithina
 gambles
 gyratory
 gazehound
-growlery
+growlery 1
 gigantostracan
 gilgai
 goofy
