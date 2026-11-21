@@ -46,7 +46,7 @@ geomyid
 gunfires 1
 genotypically 1
 groundswell 1
-gableboard
+gableboard 1
 gypping
 gablatores
 groats 1
