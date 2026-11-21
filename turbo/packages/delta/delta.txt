@@ -7374,7 +7374,7 @@ dagesh
 daric 1
 dehorter 1
 dicyclist
-diadochian
+diadochian 1
 domesday
 discussed
 downgone
