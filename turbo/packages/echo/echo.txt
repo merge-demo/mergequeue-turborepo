@@ -6667,7 +6667,7 @@ earthshattering 1
 evenmindedness
 enlight
 equestrianize 1
-eclipser
+eclipser 1
 enspirit
 esteriferous
 ecosystems
