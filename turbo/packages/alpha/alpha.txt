@@ -1508,7 +1508,7 @@ antinomians
 antiglyoxalase
 accompanies 1
 accompanyist
-asperggilla
+asperggilla 1
 abtruse
 antivivisection
 aminotransferase

@@ -6745,7 +6745,7 @@ bermudas
 bucketfull
 buffoons
 bionic 1
-bechalks
+bechalks 1
 beshrouding 1
 brakesmen
 burrowers
