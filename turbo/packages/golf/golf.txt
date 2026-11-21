@@ -2602,7 +2602,7 @@ geodete 1
 gemmification
 greillade
 glaucine
-glamourization
+glamourization 1
 grisette 1
 gowf
 gasometrical 1
