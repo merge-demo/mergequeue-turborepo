@@ -9999,7 +9999,7 @@ gorgonised
 geomys 1
 gouaches
 gamba
-garlandwise
+garlandwise 1
 gorgonacean 1
 gudewife
 grilse
