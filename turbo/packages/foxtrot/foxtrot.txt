@@ -2360,7 +2360,7 @@ fegs
 frolicky 1
 favoritism
 ferforth
-frapped
+frapped 1
 frogling
 felly
 feudist
