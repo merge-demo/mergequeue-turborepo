@@ -6567,7 +6567,7 @@ galipidine
 glossological 1
 gentleship
 glossary 1
-gangsterism
+gangsterism 1
 gelly
 glamourless
 grumphies 1
