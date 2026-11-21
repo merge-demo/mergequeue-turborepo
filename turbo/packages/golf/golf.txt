@@ -8263,7 +8263,7 @@ graping
 grappa
 gruff
 gentians
-grapples
+grapples 1
 grappling
 graptolitha
 gambits
