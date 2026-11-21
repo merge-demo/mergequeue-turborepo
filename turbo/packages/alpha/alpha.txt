@@ -20319,7 +20319,7 @@ arrowlike
 aminoazobenzene 1
 abortifacient
 annoying
-arrowsmith
+arrowsmith 1
 arrowworm
 acrobatics 1
 arsenic 1
