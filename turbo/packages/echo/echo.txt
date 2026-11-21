@@ -3737,7 +3737,7 @@ exercitorial 1
 ectoderms
 extravagantness
 enfranchise 1
-erodability
+erodability 1
 excessiveness
 enslaving
 encumbers 3
