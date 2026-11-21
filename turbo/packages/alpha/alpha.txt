@@ -12123,7 +12123,7 @@ anastate
 anastatus
 anastigmat 2
 anastigmatic 2
-alvah
+alvah 1
 alichel
 afterbreast 1
 acrodynia 1
