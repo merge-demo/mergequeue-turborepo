@@ -8336,7 +8336,7 @@ formicative
 forklift
 flebile
 forklike 2
-forswornness
+forswornness 1
 finickily 1
 foundations
 foliage
