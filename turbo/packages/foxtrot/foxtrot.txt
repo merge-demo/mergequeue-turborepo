@@ -4404,7 +4404,7 @@ feulamort
 farand
 forfeit 1
 footpick
-fishily
+fishily 1
 fatigues 1
 fling
 farinaceously
