@@ -938,7 +938,7 @@ endocardium 1
 epoxied
 entada 2
 ecttypal
-equates
+equates 1
 emanatory
 exeresis
 ecuadorian
