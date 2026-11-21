@@ -637,7 +637,7 @@ faithbreaker
 falunian
 fertilisation 1
 fanum 1
-fauster
+fauster 1
 frowstier 1
 flyways 1
 fulgurite
