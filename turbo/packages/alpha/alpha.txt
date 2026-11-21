@@ -20785,7 +20785,7 @@ anaphoria
 agoniadin 2
 airths 1
 awardee
-artistic
+artistic 1
 aftercourse 1
 agynarious
 alkylation
