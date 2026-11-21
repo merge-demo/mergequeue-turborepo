@@ -6110,7 +6110,7 @@ daimonic 1
 desoxalate
 derfly
 deric
-disbosomed
+disbosomed 1
 deady
 doppler 1
 deriders 1
