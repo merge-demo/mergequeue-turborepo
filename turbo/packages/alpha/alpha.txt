@@ -21995,7 +21995,7 @@ attestator
 arterin 2
 aquameter
 aminize 1
-assuetude
+assuetude 1
 annualist
 arecaidin
 avantgarde
