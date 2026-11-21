@@ -12324,7 +12324,7 @@ cenote
 chromate
 conjunction
 chromates
-cantred
+cantred 1
 chrysomonadine
 chromatically
 carcinogen
