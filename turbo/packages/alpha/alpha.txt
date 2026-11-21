@@ -12184,7 +12184,7 @@ advisiveness 1
 attacco 1
 anatopism 1
 adorally
-antiaristocratical
+antiaristocratical 1
 algic
 annet
 anatox
