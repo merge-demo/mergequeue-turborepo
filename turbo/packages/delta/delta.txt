@@ -11845,7 +11845,7 @@ drumfires 1
 dispels
 disulphone
 dinned
-dunked
+dunked 1
 denying
 diadems
 diffusionist
