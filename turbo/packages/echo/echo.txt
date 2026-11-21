@@ -10721,7 +10721,7 @@ egriot
 eulachan 1
 ensulphur
 embedder
-epornitic
+epornitic 1
 eulachans
 eulamellibranchiata
 exanthemas
