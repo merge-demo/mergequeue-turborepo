@@ -7779,7 +7779,7 @@ dholes
 devolatilised 1
 dosimetries
 dryrot
-diplospondyli
+diplospondyli 1
 dagestan
 depeople
 devolatilizing
