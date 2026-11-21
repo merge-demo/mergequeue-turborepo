@@ -14882,7 +14882,7 @@ compactness
 coenogamete
 continuedly
 cordites
-chupak
+chupak 1
 cytostomal
 cordwood
 cytostromatic
