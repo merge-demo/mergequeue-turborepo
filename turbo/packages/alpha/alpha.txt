@@ -9468,7 +9468,7 @@ apicad 1
 angiosclerotic
 autocinesis
 alterable
-armamentary
+armamentary 1
 acatery
 alterably
 argas
