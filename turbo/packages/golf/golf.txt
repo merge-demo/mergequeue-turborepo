@@ -1268,7 +1268,7 @@ glutinosity
 grimaces
 garran 1
 gaia
-glenwood 1
+glenwood 2
 granage 1
 ged
 gavall
