@@ -6659,7 +6659,7 @@ dahabiyas
 danaid
 desiderated
 demikindred
-diacoustics
+diacoustics 1
 dropforge
 desideration
 desiderative
@@ -8953,7 +8953,7 @@ dispeller 1
 dahoon 2
 discophora
 damine
-deficience
+deficience 1
 disconanthous
 duodenotomy
 digastric
