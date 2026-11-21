@@ -963,7 +963,7 @@ desists 1
 dodecastyle
 doctors
 doddery
-dizzyingly
+dizzyingly 1
 dextrosazone
 dyslogy 1
 dipsey
