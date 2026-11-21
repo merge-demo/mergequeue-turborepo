@@ -2308,7 +2308,7 @@ feminizes 1
 friday
 forbysen
 fens
-fluctuates
+fluctuates 1
 furrowless
 frangipane
 fensive 1

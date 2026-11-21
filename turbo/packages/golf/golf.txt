@@ -4308,7 +4308,7 @@ gastrocoloptosis
 ginglymodi 2
 gozill
 gemstone 1
-galaxies 1
+galaxies 2
 gliriformia
 gravestead
 globules
