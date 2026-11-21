@@ -7632,7 +7632,7 @@ fittywise
 fiefdom
 forecasting
 freeze 1
-foxskin
+foxskin 1
 fano 1
 fiesta
 forehandedness 2
