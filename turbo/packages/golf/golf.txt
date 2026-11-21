@@ -10705,7 +10705,7 @@ gpad
 germinated
 gushily 2
 gaumless
-grate
+grate 1
 gearwheel
 goonda
 gubernatorial
