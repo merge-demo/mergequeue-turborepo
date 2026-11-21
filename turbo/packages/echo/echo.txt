@@ -322,7 +322,7 @@ embetter
 eruditionist
 escots
 euryprosopic
-engaze
+engaze 1
 eastman
 enclaret
 estops
