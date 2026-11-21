@@ -9966,7 +9966,7 @@ glood
 glossematics
 guaza
 glycerinated
-gendarmerie
+gendarmerie 1
 glycolide
 guillevat
 gadling
