@@ -16666,7 +16666,7 @@ dottedness
 depressor
 destigmatize
 dabblers 1
-deeny
+deeny 1
 drains
 drageoir
 deponer 1
