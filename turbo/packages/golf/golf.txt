@@ -3582,7 +3582,7 @@ grubber 2
 guiser 1
 goldic
 guttatim
-gorilline 1
+gorilline 2
 gogos
 grewhound 1
 ghees
