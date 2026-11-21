@@ -6953,7 +6953,7 @@ betta 2
 becoward
 bargoose 1
 bodhisattwa
-badder
+badder 1
 bismuths
 bagheli 1
 brott 1
