@@ -6164,7 +6164,7 @@ embronze
 enfief
 enframing
 evagation 1
-enthused
+enthused 1
 entertainers
 enneandrian
 etherealizing
