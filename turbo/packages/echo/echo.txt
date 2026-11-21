@@ -11721,7 +11721,7 @@ equivocacies
 examinatorial
 echopraxia
 ethoxyls 1
-explanations
+explanations 1
 envision 1
 esc
 eveque
