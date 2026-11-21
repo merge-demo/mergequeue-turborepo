@@ -8938,7 +8938,7 @@ dub
 dail
 dihydride
 dinkies
-dated 1
+dated 2
 dichroitic 1
 dichromasia
 defrayed
@@ -13189,7 +13189,7 @@ dyssystole
 dispiteousness 1
 decomposed
 diuturnal
-disgruntles
+disgruntles 1
 displaceability
 dilly 1
 dipropyl
