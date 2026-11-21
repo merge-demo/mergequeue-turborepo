@@ -21664,7 +21664,7 @@ condyles
 crimsony
 clubbers
 carbamidine
-condyloma
+condyloma 1
 condylomatous
 condylopodous
 conjurator
