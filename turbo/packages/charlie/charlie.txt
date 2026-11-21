@@ -11015,7 +11015,7 @@ chirrup
 captions
 chirrupy
 chirrupper
-combustor
+combustor 1
 chirt 1
 chirurgeon
 crimean
