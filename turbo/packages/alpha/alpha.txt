@@ -12978,7 +12978,7 @@ archdiocesan
 anguineal
 anguiped
 anginiform
-afterhatch
+afterhatch 1
 acutes 1
 arbitrations
 achromatising
