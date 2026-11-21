@@ -4841,7 +4841,7 @@ galleylike
 gastrosplenic
 glairiest
 gladsomest
-gnosticity 2
+gnosticity 3
 globiocephalus
 guapinol
 gladwin 1
@@ -5156,7 +5156,7 @@ geometricism
 guiler
 gripsacks
 guttae
-groundsheet
+groundsheet 1
 gale 1
 gleamless 1
 gramophone 2

@@ -7324,7 +7324,7 @@ epanorthidae
 electrojet 2
 ephorates
 enravishment 1
-epapophysis 1
+epapophysis 2
 easeled
 evangeliser
 embryonically
