@@ -3792,7 +3792,7 @@ espigle
 enecate
 explored 1
 escalader
-enquirer 1
+enquirer 2
 emcumbering
 eyewater
 electroneutral
