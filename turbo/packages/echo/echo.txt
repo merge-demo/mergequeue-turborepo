@@ -7715,7 +7715,7 @@ everyness
 erythraea
 epirogeny
 eyedrop
-equalable
+equalable 1
 epidermic
 epidermical
 enteroplasty
