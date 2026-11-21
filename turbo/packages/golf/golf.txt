@@ -441,7 +441,7 @@ grandevous
 growl 1
 garnishees 1
 grapeys
-goober
+goober 1
 glycerolize
 gair
 guests
