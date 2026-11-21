@@ -4770,7 +4770,7 @@ filigrain
 fargoing 1
 flageolets
 flagfishes
-fubsy
+fubsy 1
 forbiddenness 1
 figurately
 friendships 2
