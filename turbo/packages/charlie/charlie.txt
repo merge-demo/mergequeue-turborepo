@@ -29521,7 +29521,7 @@ crit
 criteria
 cryptogamous
 carload
-criteriia 1
+criteriia 2
 criterional
 creolin
 cerealist
@@ -31190,7 +31190,7 @@ cuprene
 carriers
 cupressus
 campagus
-custode 1
+custode 2
 cuproammonium
 cunningly
 contestate
