@@ -4992,7 +4992,7 @@ aminophenol
 aerophagia
 arecaidine
 alphonsism 1
-aerophane
+aerophane 1
 appease
 assumptions
 abnormalist
