@@ -2523,7 +2523,7 @@ fluorine
 fiatconfirmatio 1
 fanam
 feeler
-frugivorous
+frugivorous 1
 fibromembranous
 filamentule 1
 freet
