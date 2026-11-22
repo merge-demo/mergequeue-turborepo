@@ -7317,7 +7317,7 @@ detersiveness
 disunions
 decomponent
 detestations
-dethronement
+dethronement 1
 diminute 1
 dethronements
 dethrones
@@ -7805,7 +7805,7 @@ diuretical
 devons
 desirability
 devoration
-dadaists 1
+dadaists 2
 dentel 1
 dairyings
 devoted
