@@ -26048,7 +26048,7 @@ countermanded
 cupreine 1
 coshery
 coshers
-cholralosed
+cholralosed 1
 coshing
 cosy 1
 caulicule
