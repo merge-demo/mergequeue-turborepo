@@ -10815,7 +10815,7 @@ abandonments
 anteinitial
 amities
 autosuppression
-amitotic
+amitotic 1
 azotizes
 anormality
 acrolith 1
