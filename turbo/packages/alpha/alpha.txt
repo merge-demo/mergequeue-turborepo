@@ -392,7 +392,7 @@ agminate
 amoved
 addressograph
 asteriscuses
-auditions
+auditions 1
 acapnial 1
 acquitting
 antivice
