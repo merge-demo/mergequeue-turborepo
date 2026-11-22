@@ -12904,7 +12904,7 @@ dryope
 disnaturalization
 deviator
 dermaptera
-disnew
+disnew 1
 drachmae 2
 drawspan 2
 delving
