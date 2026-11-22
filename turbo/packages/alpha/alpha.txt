@@ -15504,7 +15504,7 @@ antimodern
 almshouse 2
 appendicularian 1
 aramidae
-antimonarchally
+antimonarchally 1
 ardelia 1
 auxochromic
 audivise
