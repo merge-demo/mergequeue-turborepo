@@ -4490,7 +4490,7 @@ emulators
 embryophyta
 encephalographic 1
 ekphorize
-episematic
+episematic 1
 earlock 1
 enamelling
 earthpeas
