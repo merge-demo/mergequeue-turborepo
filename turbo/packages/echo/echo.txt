@@ -9634,7 +9634,7 @@ epenthesize
 epacris
 elaeagnus
 enfrai 2
-exhibitable
+exhibitable 1
 esparsette
 emphases
 encloud
