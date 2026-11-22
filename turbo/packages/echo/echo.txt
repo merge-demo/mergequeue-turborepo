@@ -5649,7 +5649,7 @@ epithi 1
 exhibitorial
 eschewing
 exquisitism
-enframed
+enframed 1
 elaphebolion 1
 ethnarch
 ellipsonic

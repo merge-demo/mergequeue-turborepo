@@ -7157,7 +7157,7 @@ assignation 1
 al 1
 archaeus
 assistantships 1
-autoregulation
+autoregulation 1
 antibiotics
 argovian 1
 aweigh 1
