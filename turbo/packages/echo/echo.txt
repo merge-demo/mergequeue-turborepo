@@ -11999,7 +11999,7 @@ eryngium
 enterfeat
 exampleship
 essentials
-eigenspace
+eigenspace 1
 eassel
 etherion
 espeire
