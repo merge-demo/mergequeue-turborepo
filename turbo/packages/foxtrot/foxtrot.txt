@@ -1711,7 +1711,7 @@ falsies 1
 fearingly
 ferineness
 fearless 1
-forehammer
+forehammer 1
 fondlike
 frangible
 ferrament 1
