@@ -7317,7 +7317,7 @@ detersiveness
 disunions
 decomponent
 detestations
-dethronement
+dethronement 1
 diminute 1
 dethronements
 dethrones
