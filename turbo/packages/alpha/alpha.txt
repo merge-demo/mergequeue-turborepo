@@ -794,7 +794,7 @@ abristle
 alabandine
 abroach
 airdock 1
-abrogate
+abrogate 1
 allergies
 archilithic
 abrogating 1
@@ -5293,7 +5293,7 @@ astrid
 amortization
 affixed 1
 apophantic
-andantinos 1
+andantinos 2
 androsin
 affixers
 affixes
