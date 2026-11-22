@@ -5945,7 +5945,7 @@ gamori
 gaur
 glutose 1
 gainspeaking 1
-gluttonish 1
+gluttonish 2
 grainsman
 granulous 1
 gutterman
