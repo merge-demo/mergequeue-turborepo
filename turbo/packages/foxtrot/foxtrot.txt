@@ -10553,7 +10553,7 @@ fiery
 famishment
 fixable 1
 frictionless 1
-francisca 1
+francisca 2
 faiths
 forehanded 1
 falltime
