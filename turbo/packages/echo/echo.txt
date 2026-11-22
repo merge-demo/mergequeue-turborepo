@@ -9265,7 +9265,7 @@ erratic
 erratically
 estancieros 1
 enantiomorphic 1
-elite
+elite 1
 ethylhydrocupreine
 eulogist
 endosmos
