@@ -14056,7 +14056,7 @@ edition 2
 excitonic
 e
 enterochromaffin
-extravagance
+extravagance 1
 eupatory
 extravagantly 1
 enchantingly
