@@ -9778,7 +9778,7 @@ electrizer
 embolemia 1
 eachwhere
 entrepot
-exfoliated
+exfoliated 1
 equalisation 1
 ejectamenta 1
 extenuator 1
