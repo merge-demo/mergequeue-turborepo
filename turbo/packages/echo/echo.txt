@@ -7680,7 +7680,7 @@ expoundable
 epideistic 1
 enthymematical
 enfeebler
-eriocaulaceous
+eriocaulaceous 1
 estrus
 emptier
 extruder 1
