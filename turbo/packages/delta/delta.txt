@@ -16293,7 +16293,7 @@ desertion
 downloading
 downness 2
 dermographic
-disenthralls
+disenthralls 1
 dvaita
 downpipe 1
 downplay 1
