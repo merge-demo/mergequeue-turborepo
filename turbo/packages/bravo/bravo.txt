@@ -7612,7 +7612,7 @@ brainworker
 banagos
 beweeper 1
 bugfish
-beweeps
+beweeps 1
 bombazette
 bombilate
 bastardize 1
