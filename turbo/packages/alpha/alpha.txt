@@ -4320,7 +4320,7 @@ acerbas
 apocrine
 archegoniata
 aerator
-aerocartography
+aerocartography 1
 algesireceptor
 adrogate
 antialbumid
@@ -19635,7 +19635,7 @@ annotate
 ark
 arillate
 affricative
-abwatts
+abwatts 1
 arillus
 ampere 1
 aecioteliospore
