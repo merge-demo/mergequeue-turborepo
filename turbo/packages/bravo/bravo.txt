@@ -9416,7 +9416,7 @@ bonsela
 baroscope
 brockets
 baleless
-bushi 2
+bushi 3
 blirt
 biopoiesis
 beau 1
