@@ -6557,7 +6557,7 @@ bactericidin 2
 buckeyes 1
 bequests
 buster 1
-bushelful
+bushelful 1
 blenniiformes
 bolar
 berakah
