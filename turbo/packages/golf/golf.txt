@@ -9636,7 +9636,7 @@ gutturals
 gonosphere 2
 geraniols 1
 gazpacho
-garmenting
+garmenting 1
 gambit 1
 gladeye
 gratton
