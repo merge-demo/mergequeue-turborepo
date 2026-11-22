@@ -13525,7 +13525,7 @@ boiserie 1
 botulisms 1
 brief
 brodequin
-bijouterie
+bijouterie 1
 briquette
 bouch
 brainstorms 2
