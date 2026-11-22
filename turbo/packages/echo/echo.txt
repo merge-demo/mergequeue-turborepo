@@ -11809,7 +11809,7 @@ enviably
 eucgia
 ejectives
 electromagnetically
-equibalance
+equibalance 1
 epirrhematic
 epidendric
 etiolation
