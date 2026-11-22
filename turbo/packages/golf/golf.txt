@@ -10247,7 +10247,7 @@ glacier
 gustiness
 galvanometry
 galvanoplastically
-grownup
+grownup 1
 gauzelike 1
 guanases 1
 globulitic
