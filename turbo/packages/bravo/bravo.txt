@@ -1936,7 +1936,7 @@ bivalent
 birny
 blowers
 bitmap
-bandolerismo
+bandolerismo 1
 buckayros
 bandoleros
 barouche
