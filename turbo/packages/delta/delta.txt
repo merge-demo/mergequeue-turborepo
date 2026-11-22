@@ -13228,7 +13228,7 @@ dendrobe
 deportable
 deuterofibrinose
 dinnerless
-distempered
+distempered 1
 dyspneas 1
 ducat 1
 determinator
