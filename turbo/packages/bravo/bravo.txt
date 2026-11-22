@@ -6475,7 +6475,7 @@ byliner
 benzothiazine
 benzothiazoline
 bitripartite
-bregmata
+bregmata 1
 benzothiodiazole
 bergamiol
 bumpering

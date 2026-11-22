@@ -380,7 +380,7 @@ actinoelectric 1
 amphisbaenas 1
 abetters
 abettor
-asphaltite
+asphaltite 1
 abhenry
 abhinaya 1
 angioelephantiasis
