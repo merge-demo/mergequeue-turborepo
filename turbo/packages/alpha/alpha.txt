@@ -4376,7 +4376,7 @@ anhydremia 1
 assertorial
 ankylomerism
 adits
-archbishopry
+archbishopry 1
 anilidoxime 1
 adularias
 arterialise
