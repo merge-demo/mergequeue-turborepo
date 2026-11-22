@@ -26340,7 +26340,7 @@ cystin 1
 costumer 1
 costumers
 costumes
-costumic
+costumic 1
 cabstand
 costumiere 1
 costumiers
