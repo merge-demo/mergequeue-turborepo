@@ -8305,7 +8305,7 @@ brotuliform
 brakehead
 bedsteads
 bovarysm 1
-broilers 1
+broilers 2
 bigamies
 bigamist 2
 boyars
