@@ -4265,7 +4265,7 @@ gyrostabilizer 1
 girse
 grubless 1
 gravidity
-gymnic 1
+gymnic 2
 gymnemic 1
 gloeosporiose
 gawks
