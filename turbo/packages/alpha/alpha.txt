@@ -601,7 +601,7 @@ anatomical 1
 amynodont
 abococket
 abode
-aryballus
+aryballus 1
 auricularly
 archbishoprics
 arisen 1
@@ -13034,7 +13034,7 @@ angwich
 aphorismic
 archly
 anhaemolytic
-agios 1
+agios 2
 antiprism 1
 ataraxics
 anhalonin
