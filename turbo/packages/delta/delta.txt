@@ -12206,7 +12206,7 @@ dysfunctions 1
 disfurnish 1
 deport
 disfurnished
-dangerless
+dangerless 1
 desulfurating
 deathshot 2
 dervishes
