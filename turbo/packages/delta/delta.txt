@@ -16911,7 +16911,7 @@ damewort
 displacing 1
 deemphasis
 dreamiest
-dreamless
+dreamless 1
 diluviums
 dreamlikeness
 drumfish
