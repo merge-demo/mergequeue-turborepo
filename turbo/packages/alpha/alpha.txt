@@ -13076,7 +13076,7 @@ anhydridization
 asocial
 almight 1
 allokurtic
-afterroll
+afterroll 1
 anhydroglocose
 anhidrotic
 archespsporia
