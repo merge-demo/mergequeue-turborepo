@@ -4612,7 +4612,7 @@ gematrical
 galli
 gastroplenic 1
 getmjlkost 1
-guttery
+guttery 1
 gloy
 gaatch
 girshes
