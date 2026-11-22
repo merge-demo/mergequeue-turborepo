@@ -14006,7 +14006,7 @@ exaltate
 extralimital
 extrapolatory 2
 extraposition
-exosseous
+exosseous 1
 electrolytic
 extraprofessional
 evocation
