@@ -1542,7 +1542,7 @@ filmdoms 2
 freely
 faurd 1
 foreseat
-feedbox
+feedbox 1
 flippant
 foulish
 foreshift 1
