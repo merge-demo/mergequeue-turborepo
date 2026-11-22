@@ -10172,7 +10172,7 @@ gurneyite 1
 gerusia
 gastropathy
 giglots
-granulated
+granulated 1
 governable
 gloriana 1
 genethliac 1
