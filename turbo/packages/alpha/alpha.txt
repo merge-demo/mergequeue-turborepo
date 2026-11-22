@@ -23958,7 +23958,7 @@ aminolysis 1
 archipelagos
 autoboating
 autognosis
-autobuses
+autobuses 1
 autobusses
 ariettes
 autocall
