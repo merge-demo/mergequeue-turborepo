@@ -2572,7 +2572,7 @@ decoctive
 deaminizing 2
 decoctum
 drudgery
-decode
+decode 1
 dartars 1
 distributional
 ducture
