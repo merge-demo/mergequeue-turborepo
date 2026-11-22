@@ -1357,7 +1357,7 @@ accelerometers
 anticatholic
 anapaestical
 anticnemion
-airtightly
+airtightly 1
 awingly
 auxillary
 antiprimer 1
