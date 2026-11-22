@@ -3454,7 +3454,7 @@ gentling 2
 griefful
 glutaraldehyde 1
 giaour
-glathsheim
+glathsheim 1
 gimper 1
 girny
 gilts
