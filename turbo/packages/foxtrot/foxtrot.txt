@@ -10132,7 +10132,7 @@ frithstool
 fritniency 1
 fare 1
 foreknee
-fe 1
+fe 2
 fulciform
 fortuitus 1
 foreheaded
