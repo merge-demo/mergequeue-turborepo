@@ -2038,7 +2038,7 @@ frontspiece 1
 feinter
 facedown
 faucalize
-fireboat
+fireboat 1
 forwander
 flatlander
 fogbows 1
