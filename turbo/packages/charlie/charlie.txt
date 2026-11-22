@@ -4976,7 +4976,7 @@ cartularies
 carapache
 chapped
 cabbagelike 1
-collaring
+collaring 1
 cartware 1
 cabossed
 confervoid
