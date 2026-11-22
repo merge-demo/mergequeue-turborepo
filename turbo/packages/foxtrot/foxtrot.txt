@@ -1502,7 +1502,7 @@ fairgoer
 fila
 flutings
 fetcher
-furibund
+furibund 1
 furanose
 fillipeen
 foundering
