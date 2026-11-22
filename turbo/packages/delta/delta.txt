@@ -11117,7 +11117,7 @@ disattune 1
 defiling
 diplomacy
 disguster
-disavail
+disavail 1
 dayroom
 discomforted
 dissaves
