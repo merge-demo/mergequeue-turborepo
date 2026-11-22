@@ -18116,7 +18116,7 @@ dumfounded
 dahlia 1
 debarrass
 depetticoat
-dammed
+dammed 1
 deucalion
 demythologizations
 duplicate
