@@ -9185,7 +9185,7 @@ frazil
 freshets 2
 frivolism
 frillback
-fetuses
+fetuses 1
 floodable
 fanterie 1
 floccus
