@@ -24677,7 +24677,7 @@ accordant
 averment
 anopheline 1
 averments
-admove
+admove 1
 aeneid
 antidiastase
 amelioration
