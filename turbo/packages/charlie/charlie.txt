@@ -4224,7 +4224,7 @@ chloroplatinic
 careerers 1
 careful
 ceilidh
-carefull
+carefull 1
 carefuller
 carefullest
 chemosensitivities
