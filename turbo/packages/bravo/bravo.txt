@@ -9289,7 +9289,7 @@ bastardise
 books
 broom 1
 brended 1
-bobbinet
+bobbinet 1
 besting
 biphenylene
 biphenol
