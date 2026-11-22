@@ -1764,7 +1764,7 @@ epigraphic 1
 eutony
 eyes
 encasing
-entophytically
+entophytically 1
 eyeservant
 eyeshade
 enticingness
