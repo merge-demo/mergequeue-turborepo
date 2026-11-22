@@ -7317,7 +7317,7 @@ detersiveness
 disunions
 decomponent
 detestations
-dethronement
+dethronement 1
 diminute 1
 dethronements
 dethrones
@@ -8786,7 +8786,7 @@ diazotype
 dromicia
 deluding
 disadvise
-deratization
+deratization 1
 dolefuller
 displacements
 diazotized
