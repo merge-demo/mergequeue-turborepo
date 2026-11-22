@@ -1419,7 +1419,7 @@ dawk 1
 diapering
 dioptrate 1
 dogly
-dehydrogenates
+dehydrogenates 1
 disassimilated 1
 dicarbonic
 dealcoholist
