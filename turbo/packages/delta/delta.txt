@@ -12187,7 +12187,7 @@ drosophilae
 depel
 deride
 discoursiveness 1
-deliquesce
+deliquesce 1
 dwarfish 1
 dovecots
 disfrocking

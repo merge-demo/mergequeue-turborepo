@@ -10588,7 +10588,7 @@ eucone
 electrotechnic
 ecstasis
 expensing
-englobing
+englobing 1
 evernioid 1
 emforth
 elvanite
