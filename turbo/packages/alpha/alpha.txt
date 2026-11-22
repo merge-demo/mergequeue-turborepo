@@ -17487,7 +17487,7 @@ audiogenic 1
 audients
 apsis 1
 astrographic
-anglicisation
+anglicisation 1
 ama
 adrammelech
 aerostatics
