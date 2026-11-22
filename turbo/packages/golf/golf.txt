@@ -3057,7 +3057,7 @@ greensauce
 gamelin 1
 genepi 1
 gluttonized
-gerate
+gerate 1
 grangerised
 geomorphologically
 gonidiose
