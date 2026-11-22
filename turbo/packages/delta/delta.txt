@@ -11787,7 +11787,7 @@ discriminator
 dirigibility 1
 diegueno
 disembrangle
-deferrals 1
+deferrals 2
 discriminoid
 decemberly
 diacodion

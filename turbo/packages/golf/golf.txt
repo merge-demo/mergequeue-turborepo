@@ -8825,7 +8825,7 @@ groundedly
 gneisses
 gyrosyn
 grinners
-guardfully
+guardfully 1
 greylag 1
 groundout
 gynandromorphy
