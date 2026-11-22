@@ -17983,7 +17983,7 @@ dehydrase
 dulat
 dulcamara 1
 dhal
-diverticulum
+diverticulum 1
 dispersedly
 dulce
 disquietedly 1

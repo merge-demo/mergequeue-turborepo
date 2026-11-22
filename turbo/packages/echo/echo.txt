@@ -14050,7 +14050,7 @@ enliven 1
 ethmovomerine 1
 eidolons
 embellishments
-extrathermodynamic
+extrathermodynamic 1
 emes 2
 edition 2
 excitonic
