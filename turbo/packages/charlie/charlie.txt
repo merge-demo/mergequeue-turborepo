@@ -15186,7 +15186,7 @@ carryon
 clayton
 chinkers
 claiver
-crucigerous
+crucigerous 1
 ceromancy
 claywares 1
 caam
