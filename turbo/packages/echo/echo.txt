@@ -5499,7 +5499,7 @@ ejaculates
 encircles
 enervate
 embalmers 1
-enervating
+enervating 1
 encake
 electroscope 1
 elritch
