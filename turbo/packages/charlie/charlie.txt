@@ -2816,7 +2816,7 @@ canoes
 cardiogenesis
 cryptoanalyst
 cukes 1
-canoewood
+canoewood 1
 cadence
 coincident
 cuprammonium
