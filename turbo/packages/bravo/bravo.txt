@@ -8461,7 +8461,7 @@ blams
 blackcoat
 bikkurim 1
 biosynthetically
-balkier
+balkier 1
 biogenous
 blackwood
 buckteeth
