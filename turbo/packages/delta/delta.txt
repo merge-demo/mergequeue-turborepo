@@ -10496,7 +10496,7 @@ derangeable 1
 delaminate
 diphaser
 divinize 1
-dihydrocupreine
+dihydrocupreine 1
 discursativeness
 dipyrenous
 dipyridyl
