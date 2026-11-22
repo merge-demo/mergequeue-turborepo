@@ -967,7 +967,7 @@ buddhology
 branny
 bungaloid
 brownout
-boastfulness
+boastfulness 1
 bagwigged
 bagwyn 1
 bustier
