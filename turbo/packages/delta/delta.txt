@@ -1531,7 +1531,7 @@ dallies
 dicerous 1
 dissyllabize
 dicacodyl
-dartman
+dartman 1
 designer
 delphinium
 dextrously
