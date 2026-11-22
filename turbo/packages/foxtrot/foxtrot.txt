@@ -589,7 +589,7 @@ frighteningly 1
 furmety
 forelocks
 faufel
-forlornity
+forlornity 1
 fallowist
 foretasted
 forerunners
