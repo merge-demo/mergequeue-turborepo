@@ -10649,7 +10649,7 @@ bajada
 bobache
 bogglish
 braless
-bister
+bister 1
 bransle
 blatting
 blattodea
