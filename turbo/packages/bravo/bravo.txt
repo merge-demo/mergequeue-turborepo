@@ -6434,7 +6434,7 @@ bollen
 benzofuran
 biozone 1
 benzoglycolic
-benzoglyoxaline 1
+benzoglyoxaline 2
 bastioned
 benzoylated
 becuna
