@@ -23071,7 +23071,7 @@ acridium
 attainted
 asepticized
 afferently
-adjoiningness
+adjoiningness 1
 acetol
 adenoma
 attaints
