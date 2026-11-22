@@ -4574,7 +4574,7 @@ gobbledegook 1
 gapa 1
 girthing 1
 gaudeamus 2
-gyrodactylus
+gyrodactylus 1
 grapeshot
 gustatorially
 gallup
@@ -8121,7 +8121,7 @@ gnatsnap
 goatling 1
 granulet 1
 gemsboks
-gallies 1
+gallies 2
 granulization 1
 gliff 1
 ghastful 1
