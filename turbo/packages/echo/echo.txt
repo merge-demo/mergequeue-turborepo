@@ -8688,7 +8688,7 @@ endostyle
 epulotic
 equiprobably 1
 eldfather
-equiproportional
+equiproportional 1
 ebulliently
 equiproportionality 1
 egocentrism
