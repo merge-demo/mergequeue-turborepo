@@ -5610,7 +5610,7 @@ boletes
 borons
 beknighted 1
 ballistite
-beknotted
+beknotted 1
 burrio
 brassicaceous
 beknottedly
