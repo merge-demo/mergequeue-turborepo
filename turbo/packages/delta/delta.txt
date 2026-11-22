@@ -1622,7 +1622,7 @@ disfranchising
 deliverable
 difficulty
 daylong
-dimetrodon
+dimetrodon 1
 deodate
 datolitic
 domify
