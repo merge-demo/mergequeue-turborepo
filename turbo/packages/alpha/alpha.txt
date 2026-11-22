@@ -13615,7 +13615,7 @@ annunciade
 arthropod 1
 aloneness
 annunciation 1
-apophonia
+apophonia 1
 amasthenic
 atiptoe
 amebic
