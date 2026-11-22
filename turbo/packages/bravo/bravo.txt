@@ -7110,7 +7110,7 @@ bimorphs
 bushing 1
 bedswerver 1
 bespeaking
-bullalaria 1
+bullalaria 2
 bespeaks
 banderoling
 bespecked
