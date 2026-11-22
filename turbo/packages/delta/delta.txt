@@ -3679,7 +3679,7 @@ dasymeter
 dichromism
 deglutinate
 depot
-domitic
+domitic 1
 delegated 1
 dehkan
 durmasts
