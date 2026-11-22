@@ -8633,7 +8633,7 @@ disfavored
 dimethoate
 diarticular
 dias
-depertible
+depertible 1
 dermatographia 1
 downstream 1
 denitrifying
