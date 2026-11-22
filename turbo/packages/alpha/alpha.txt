@@ -601,7 +601,7 @@ anatomical 1
 amynodont
 abococket
 abode
-aryballus
+aryballus 1
 auricularly
 archbishoprics
 arisen 1
