@@ -4868,7 +4868,7 @@ friskest
 fore 1
 factuality
 fabricational
-funks
+funks 1
 foldedly
 frumpy
 fives
