@@ -3718,7 +3718,7 @@ bucketful
 bally
 belfather 1
 batteaux
-battement
+battement 1
 balladising
 batteners 1
 bankrupted
