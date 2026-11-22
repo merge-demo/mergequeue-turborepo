@@ -1472,7 +1472,7 @@ calcareosulphurous
 calisayas
 clave
 chicks
-calistheneum
+calistheneum 1
 calisthenics
 conatus
 calite
