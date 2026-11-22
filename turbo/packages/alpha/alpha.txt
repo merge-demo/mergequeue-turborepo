@@ -17741,7 +17741,7 @@ askable
 amylogenesis
 ambilaterality
 ambosexous
-archdespot
+archdespot 1
 applications
 anecdotalist
 appositely 1
