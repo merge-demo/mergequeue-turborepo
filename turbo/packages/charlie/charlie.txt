@@ -21604,7 +21604,7 @@ crick
 condensator
 corbeled
 crateris 1
-condense
+condense 1
 condensed
 condensedness
 condensers
