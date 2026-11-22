@@ -9916,7 +9916,7 @@ dette
 diminuendoes
 degu
 dowing
-disingenuous
+disingenuous 1
 discursus
 duellist
 denticulation
