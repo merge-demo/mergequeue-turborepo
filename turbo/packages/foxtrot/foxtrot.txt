@@ -2067,7 +2067,7 @@ filibuster
 famishes
 finnmark 1
 foremasthand 1
-felicity
+felicity 1
 fructidor 1
 freeform
 ferris
