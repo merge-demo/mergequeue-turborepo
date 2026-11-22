@@ -7108,7 +7108,7 @@ frostlike
 figwort 1
 fundamentalistic
 foleye 1
-frontoparietal
+frontoparietal 1
 footers 1
 fatherlandish
 forbathe

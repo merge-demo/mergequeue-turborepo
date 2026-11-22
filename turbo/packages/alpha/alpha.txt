@@ -1758,7 +1758,7 @@ asker
 abuse
 aceacenaphthene
 anticosine
-asphyxies
+asphyxies 1
 aglipayano
 arabis 1
 anemia
@@ -8381,7 +8381,7 @@ alipin
 abbie
 antecloset
 afforestment
-abey
+abey 1
 anthophagous 1
 alipterion
 amoebidae
