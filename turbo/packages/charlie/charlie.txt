@@ -11527,7 +11527,7 @@ counterpronunciamento 1
 choking 1
 cooptions
 cordovans
-crossosoma
+crossosoma 1
 catagenesis
 chola
 costoxiphoid
@@ -29521,7 +29521,7 @@ crit
 criteria
 cryptogamous
 carload
-criteriia 1
+criteriia 2
 criterional
 creolin
 cerealist
