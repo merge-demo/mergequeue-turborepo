@@ -1607,7 +1607,7 @@ giblet
 gastralgia
 gastreas
 gramper
-glaucosuria
+glaucosuria 1
 gyrinid
 glassteel
 grimly
