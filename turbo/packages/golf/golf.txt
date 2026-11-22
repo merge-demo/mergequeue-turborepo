@@ -1895,7 +1895,7 @@ gating
 galipoidin
 gerontologists
 gobiidae 1
-gavelock
+gavelock 1
 germ
 gatteridge
 gammaridae
