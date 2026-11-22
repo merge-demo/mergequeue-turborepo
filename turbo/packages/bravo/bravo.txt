@@ -16927,7 +16927,7 @@ bathetic
 bimetallists
 bugbearish
 burdened
-barretry
+barretry 1
 brassbound
 beneficiate 1
 banditti
