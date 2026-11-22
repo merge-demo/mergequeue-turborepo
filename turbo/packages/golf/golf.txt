@@ -9453,7 +9453,7 @@ gazes
 geometries
 glycose
 gladiate 1
-glossy
+glossy 1
 ganser 2
 gleeishly 2
 gauffering
