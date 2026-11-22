@@ -3395,7 +3395,7 @@ frillier
 fierasferoid
 fodda
 fortressed
-farcie
+farcie 1
 fanfaronading
 fungible 1
 floc
@@ -10520,7 +10520,7 @@ formulatory 1
 fluffed 1
 fittingly
 forays
-flyback
+flyback 1
 federalizations
 fortuities 2
 flees 2
