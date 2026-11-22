@@ -1452,7 +1452,7 @@ attires 1
 acclimates
 acclimatisation
 archaisms
-amortize
+amortize 1
 acclimatise
 acclimatiser
 acclimatising
