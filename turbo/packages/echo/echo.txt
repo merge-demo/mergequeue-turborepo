@@ -5069,7 +5069,7 @@ epitheliotoxin 1
 eleutheria
 etudes
 enunciation 1
-escrod
+escrod 1
 eavesdrop
 eclecticism
 endearingly
