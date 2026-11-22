@@ -24149,7 +24149,7 @@ autoimmunity
 appledrone
 autoimmunize
 artificers
-autoinfusion
+autoinfusion 1
 autoinoculable 1
 antiritualism
 antilife
