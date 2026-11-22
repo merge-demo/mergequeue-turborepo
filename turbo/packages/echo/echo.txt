@@ -6080,7 +6080,7 @@ enlistments
 elastomeric
 eranthis 1
 expostulated 1
-encomienda
+encomienda 1
 elasticized
 engraulis 1
 eugenic
