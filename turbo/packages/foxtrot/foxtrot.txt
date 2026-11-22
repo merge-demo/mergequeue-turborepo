@@ -9734,7 +9734,7 @@ figurability
 fridges 1
 frequenters
 ferijee
-frequentest 1
+frequentest 2
 feldspar
 frapp
 fallacies 1
