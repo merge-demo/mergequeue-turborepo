@@ -26272,7 +26272,7 @@ costellate 1
 costermonger
 costicartilage
 costicartilaginous 1
-caciqueship
+caciqueship 1
 crusader
 costious
 costipulator
