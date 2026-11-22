@@ -1135,7 +1135,7 @@ geonyctitropic 1
 graphics
 gutsiest
 grammatolatry 1
-glycerophosphate
+glycerophosphate 1
 gestura
 geneura
 gerontocracies
