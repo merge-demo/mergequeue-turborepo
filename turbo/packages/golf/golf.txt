@@ -368,7 +368,7 @@ gutwort 2
 gallicanism 1
 gingerin
 gyrectomies
-grade
+grade 1
 gilet
 gildedness
 gley
@@ -1246,7 +1246,7 @@ generalizations
 groups
 goodship
 galligaskin 2
-groff
+groff 1
 granivorous
 gonorrhea
 gravures

@@ -7680,7 +7680,7 @@ expoundable
 epideistic 1
 enthymematical
 enfeebler
-eriocaulaceous
+eriocaulaceous 1
 estrus
 emptier
 extruder 1
@@ -12918,7 +12918,7 @@ enclasping
 expediential
 enwinds 1
 electroneutrality 1
-echea
+echea 1
 erythropenia
 engr
 eosaurus
