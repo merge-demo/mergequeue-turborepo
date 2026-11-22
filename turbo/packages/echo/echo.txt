@@ -491,7 +491,7 @@ enrolle
 endocrinologists
 explorer
 exceptionally
-epigrammatarian
+epigrammatarian 1
 ethnographies 1
 efoliose
 effeminated
