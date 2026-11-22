@@ -9527,7 +9527,7 @@ frederik
 futilitarian 1
 filthier
 freightyard 1
-fletcherite
+fletcherite 1
 forwalk
 foolmonger
 fogginess
