@@ -4651,7 +4651,7 @@ fulica
 flewit
 filicinean
 fearsome
-figurante
+figurante 1
 flaunched 1
 flections
 flexibilities 1
