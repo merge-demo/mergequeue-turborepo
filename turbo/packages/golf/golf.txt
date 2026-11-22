@@ -5273,7 +5273,7 @@ glaucus
 grammatology
 granitite
 girsle 1
-guanidine
+guanidine 1
 glegly
 galactosemia 1
 gulfier 1
