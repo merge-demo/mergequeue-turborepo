@@ -1568,7 +1568,7 @@ erosible 1
 extraversion
 encampment 1
 epinasty 1
-envigor
+envigor 1
 enterate
 exaggeratedness
 egises
