@@ -6603,7 +6603,7 @@ foretellableness
 footpath
 forevouched
 faulted
-fulgurating
+fulgurating 1
 forenotice
 foemanship
 fripperer
