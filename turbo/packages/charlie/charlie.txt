@@ -2629,7 +2629,7 @@ cobbers
 chimp 1
 canework
 chuckling
-compliably
+compliably 1
 cohow
 chalet
 crabier
