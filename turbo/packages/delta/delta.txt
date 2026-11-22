@@ -7574,7 +7574,7 @@ diddikai
 darking
 darwinistic
 diacetyls
-deva
+deva 1
 dequeuing
 dactylonomy
 devadasi
