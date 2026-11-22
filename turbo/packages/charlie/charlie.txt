@@ -26556,7 +26556,7 @@ cheverons 1
 coucal 1
 couchancy
 couchant
-couths
+couths 1
 coadequate
 cargos 1
 cutter
