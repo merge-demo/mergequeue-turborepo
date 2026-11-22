@@ -1462,7 +1462,7 @@ fadmongering
 fellatios
 fetched
 fatuoid 1
-fatuus
+fatuus 1
 frankly 1
 fairtime
 feaked
