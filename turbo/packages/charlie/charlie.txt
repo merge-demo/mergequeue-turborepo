@@ -16036,7 +16036,7 @@ cookee
 climatologically
 coeffect
 clicking
-clubbishness
+clubbishness 1
 commodious
 choux
 clicks
