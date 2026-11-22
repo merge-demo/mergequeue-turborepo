@@ -3059,7 +3059,7 @@ fillmass
 fibrinose 1
 fibrinosis 1
 fibro
-fantasia
+fantasia 1
 fiercehearted 1
 flintily
 frontispiece 1
