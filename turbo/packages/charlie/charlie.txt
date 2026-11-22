@@ -27617,7 +27617,7 @@ culp
 cowardness 1
 cowbane
 coolheaded
-chamfered
+chamfered 1
 cowbanes
 cowberry
 cardiology
