@@ -5621,7 +5621,7 @@ bristleless
 blimpishly
 bel
 bemedalled
-burys
+burys 1
 bibasic
 boordly
 behoovingly

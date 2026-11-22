@@ -4314,7 +4314,7 @@ detenu 1
 discomedusoid
 demarked
 depredating
-dentately
+dentately 1
 divorceable
 decentralizations
 demasculinisation
@@ -9185,7 +9185,7 @@ diminutively
 diedric
 deuteromorphic
 diego 1
-dodonian
+dodonian 1
 divertimentos
 destinist 2
 debatingly
