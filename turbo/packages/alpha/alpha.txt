@@ -949,7 +949,7 @@ allegeable
 alive
 analcites
 absorptional
-aggregate 1
+aggregate 2
 arethusa
 actinopoda
 acidifies
@@ -9090,7 +9090,7 @@ allowableness
 alkalises
 ammonoid
 allowed
-attorned
+attorned 1
 accounted
 assertiveness
 acquiescing 1
