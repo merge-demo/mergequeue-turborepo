@@ -6627,7 +6627,7 @@ aikane
 aldazin 1
 automatictacessing 1
 aikido 1
-amatories
+amatories 1
 anarcestean
 ably
 aikinite
