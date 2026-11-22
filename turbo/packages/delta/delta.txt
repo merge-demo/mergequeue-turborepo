@@ -12405,7 +12405,7 @@ diamond
 deterrability 3
 degrades
 dimerlie
-dialectical 1
+dialectical 2
 diastereoisomer
 dilatatory
 dampne 2
