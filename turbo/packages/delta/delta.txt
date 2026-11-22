@@ -13388,7 +13388,7 @@ disquieted
 dehydrogenised
 digitalized
 disunited 1
-disbandments
+disbandments 1
 doability
 djinn
 disquisitorial
