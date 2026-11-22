@@ -4226,7 +4226,7 @@ gantleting
 gramophones
 garrafa
 gusto
-gnabble
+gnabble 1
 guncotton 1
 gantang 1
 gruelled
