@@ -2007,7 +2007,7 @@ eucleidae
 epilate
 ektexine 1
 elabor
-episternite
+episternite 1
 evictees
 emulsic
 equisonant 1
