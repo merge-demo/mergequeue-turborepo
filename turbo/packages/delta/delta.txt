@@ -9676,7 +9676,7 @@ disconcord 1
 deleads
 disembroilment
 diethylamide
-dilapidation
+dilapidation 1
 depoliticizes
 dilatably
 deters
