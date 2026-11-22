@@ -10237,7 +10237,7 @@ flunkers
 funders
 flowerful
 forehatch
-flossier
+flossier 1
 frighted
 fibrose
 franconian
