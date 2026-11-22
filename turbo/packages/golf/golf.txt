@@ -5862,7 +5862,7 @@ ginkgoales
 gentilish
 gleesomeness 1
 gassiness 1
-guereba
+guereba 1
 gymnospermous
 goitrous
 gasogene

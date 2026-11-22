@@ -1113,7 +1113,7 @@ flots 1
 farsightedness 1
 fifing
 flooring
-forkedly
+forkedly 1
 faciocervical
 flatwoods
 foes
