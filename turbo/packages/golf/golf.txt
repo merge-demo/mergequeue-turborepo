@@ -905,7 +905,7 @@ gladnesses 2
 gotha
 gametocyst
 gametocyte
-gametogenic
+gametogenic 1
 grabby 1
 gooseflesh
 gueparde
