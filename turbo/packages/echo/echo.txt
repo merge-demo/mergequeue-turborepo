@@ -2846,7 +2846,7 @@ enantiopathy
 equilocation
 epididymodeferentectomy
 estrays
-elettaria
+elettaria 1
 emotionlessly 2
 eurylaimus
 ethnogenies
