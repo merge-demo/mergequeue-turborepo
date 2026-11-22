@@ -10833,7 +10833,7 @@ dipleurobranchiate
 dauntingly 1
 displays 1
 dirged
-dirgeman
+dirgeman 1
 debts
 dirgy
 dhooley
