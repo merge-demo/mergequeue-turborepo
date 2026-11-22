@@ -4539,7 +4539,7 @@ fatiguing
 fissuring
 flagellation
 fruitcake 1
-forethinker 1
+forethinker 2
 flotations
 foolable 1
 faciolingual
