@@ -2500,7 +2500,7 @@ garlanding
 gittith 1
 genderer
 grenado
-giffgaff 1
+giffgaff 2
 ghoulie
 graeme
 grieflessness
@@ -2945,7 +2945,7 @@ geocoronium
 genecological
 gyniatry
 goldurnedest 1
-grazable
+grazable 1
 gulph
 gosh
 gastrospasm
