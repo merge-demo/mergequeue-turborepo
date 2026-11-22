@@ -2225,7 +2225,7 @@ freezing 1
 flatcars
 ferrara 2
 forlornest
-fightingly
+fightingly 1
 forhale 3
 filthified
 flesher 1
