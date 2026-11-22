@@ -3516,7 +3516,7 @@ bagworms 1
 blotlessness
 biennium
 boyla
-biosis
+biosis 1
 batarde
 bullaces
 batatas
