@@ -11482,7 +11482,7 @@ feminacies
 fairleader
 flays 1
 froggery
-formular
+formular 1
 fuzzle 1
 foothill
 fisticuffery
