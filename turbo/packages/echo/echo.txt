@@ -4670,7 +4670,7 @@ eyeopener
 extraterritorially
 encyclopedia
 enwoman
-encyclopediacal
+encyclopediacal 1
 equestrianship 1
 exceptionability 1
 evolutionize

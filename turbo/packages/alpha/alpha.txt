@@ -15934,7 +15934,7 @@ antiquarianize
 anachronism
 antiquaries 1
 americas
-amylase
+amylase 1
 aromatise
 acquital 1
 achaenodon
