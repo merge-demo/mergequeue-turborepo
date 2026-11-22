@@ -5273,7 +5273,7 @@ glaucus
 grammatology
 granitite
 girsle 1
-guanidine
+guanidine 1
 glegly
 galactosemia 1
 gulfier 1
@@ -10365,7 +10365,7 @@ glancing 1
 geneki
 gordiid
 gullery 1
-grasshook
+grasshook 1
 gingerwort
 grike
 gapingstock
