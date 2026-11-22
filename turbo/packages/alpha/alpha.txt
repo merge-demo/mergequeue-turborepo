@@ -13648,7 +13648,7 @@ anaphroditous
 anodized 1
 abaisance
 anodizes 1
-acoelomous
+acoelomous 1
 artefacts
 antituberculous
 anticum
