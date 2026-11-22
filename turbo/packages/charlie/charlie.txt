@@ -28785,7 +28785,7 @@ cines
 crescentlike
 crescentoid
 crescents
-chrematistics
+chrematistics 1
 crowded
 crescively
 clarinettist 1

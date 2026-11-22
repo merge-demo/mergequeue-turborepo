@@ -6292,7 +6292,7 @@ fighting
 flunkyish
 flunkyize 1
 forefingers
-ferments
+ferments 1
 fumigatorium
 fpm 1
 frolicness
