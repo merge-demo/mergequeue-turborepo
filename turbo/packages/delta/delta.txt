@@ -683,7 +683,7 @@ dextrosuria
 digestory
 deans
 despairs 1
-dampproofing
+dampproofing 1
 doumaist 1
 distend
 distributes 1
