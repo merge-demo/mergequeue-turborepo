@@ -1125,7 +1125,7 @@ fervidness 1
 fusileer
 frizzling
 fluor 1
-farthing
+farthing 1
 foresay
 feverishness
 fractional
