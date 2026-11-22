@@ -14363,7 +14363,7 @@ dittographic 1
 dutcher 1
 ditrochean
 deperdition
-dynastical
+dynastical 1
 deign
 deanship
 desoxyribose
