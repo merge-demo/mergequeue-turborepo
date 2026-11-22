@@ -5230,7 +5230,7 @@ grangerite
 genialize
 geminal 1
 guatemala
-gemitores
+gemitores 1
 glyoxilin 1
 gelatins 1
 granitical 1
