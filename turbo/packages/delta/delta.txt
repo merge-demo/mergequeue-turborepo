@@ -12384,7 +12384,7 @@ dishelms
 disher
 durability
 disherited
-divet
+divet 1
 defibrillator
 deamidize
 deplantation
