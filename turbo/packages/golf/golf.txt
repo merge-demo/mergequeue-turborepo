@@ -8402,7 +8402,7 @@ gelsemium
 ghetchoo
 ganderteeth 1
 gratified
-gaseous 1
+gaseous 2
 gratis
 gunflint
 grad
