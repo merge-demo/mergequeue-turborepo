@@ -1110,7 +1110,7 @@ farsighted
 fiddled
 flatiron
 flots 1
-farsightedness 1
+farsightedness 2
 fifing
 flooring
 forkedly 1
