@@ -10020,7 +10020,7 @@ canephors
 clinohumite
 cytioderma
 cephalotripsy
-chersydridae
+chersydridae 1
 childishness
 calcarate
 controvert 1
