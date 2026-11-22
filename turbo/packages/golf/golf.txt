@@ -2191,7 +2191,7 @@ goldfinches 1
 galliards
 glistening 1
 glisters
-gebbie
+gebbie 1
 guardians
 gecarcinian
 greasepaint
