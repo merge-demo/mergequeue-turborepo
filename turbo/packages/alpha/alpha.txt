@@ -15742,7 +15742,7 @@ astute
 antiperistalsis 1
 antiperistatic
 acridines
-antiperspirant
+antiperspirant 1
 agileness 1
 antiperspirants
 acronycal 1
