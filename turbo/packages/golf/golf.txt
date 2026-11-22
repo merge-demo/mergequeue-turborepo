@@ -626,7 +626,7 @@ gillie
 geophysicist 1
 gigartina
 glide
-goldenlocks
+goldenlocks 1
 gastrotheca
 gestic
 gradatory
@@ -6842,7 +6842,7 @@ goodenia
 gestated 1
 goldcrest 1
 gatling 1
-guyed
+guyed 1
 gitterns
 guttiferae
 gehenna 1
