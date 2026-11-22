@@ -7267,7 +7267,7 @@ aftercure
 aurantiaceae
 assn
 alarmingness
-adcons
+adcons 1
 algovite
 alarmist 1
 anginas
