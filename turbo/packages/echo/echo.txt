@@ -10661,7 +10661,7 @@ ecrasite
 expeditate
 excitory 1
 endocytosis
-easternism
+easternism 1
 eugenically 1
 eugenie
 eugenism
