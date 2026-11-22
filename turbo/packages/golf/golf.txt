@@ -4018,7 +4018,7 @@ greeny 1
 gilttail
 gravelliness 1
 gibbosity
-gaboon
+gaboon 1
 gentleman
 gratifications 1
 gibboseness
