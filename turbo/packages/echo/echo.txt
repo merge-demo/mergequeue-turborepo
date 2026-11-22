@@ -12850,7 +12850,7 @@ eloignment
 erythrolysis 1
 eupomatia
 ern
-ecphorization
+ecphorization 1
 emendated
 extinctor 1
 enumerations
