@@ -6000,7 +6000,7 @@ girr
 gluma 2
 graymalkin
 grindal
-gnathitis
+gnathitis 1
 gragers 1
 ganevs
 guerre
@@ -8825,7 +8825,7 @@ groundedly
 gneisses
 gyrosyn
 grinners
-guardfully
+guardfully 1
 greylag 1
 groundout
 gynandromorphy
