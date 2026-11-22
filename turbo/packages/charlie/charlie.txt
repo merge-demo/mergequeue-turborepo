@@ -19771,7 +19771,7 @@ centurion
 clandestine 1
 castlewards 1
 ceraunics
-composure
+composure 1
 creatines
 curfewing
 come
