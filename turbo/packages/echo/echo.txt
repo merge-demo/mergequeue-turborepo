@@ -8650,7 +8650,7 @@ especially
 elutriating 1
 emergently 1
 etherialised 1
-entoperipheral
+entoperipheral 1
 enameller 1
 emerging
 excretions
