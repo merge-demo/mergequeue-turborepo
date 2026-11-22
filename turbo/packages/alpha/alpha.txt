@@ -9036,7 +9036,7 @@ amiably
 allothimorph
 abalone
 allothimorphic
-amphisbaenae
+amphisbaenae 1
 aisle
 amuses
 allothogenic 1
