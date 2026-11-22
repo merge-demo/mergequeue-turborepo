@@ -4662,7 +4662,7 @@ cryology
 cetes
 carousal
 coverture
-carousals
+carousals 1
 cabmen
 centrospermae
 carouse
