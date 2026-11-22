@@ -1510,7 +1510,7 @@ accompanies 1
 accompanyist
 asperggilla 1
 abtruse
-antivivisection
+antivivisection 1
 aminotransferase
 aphasiac
 accompanimental
