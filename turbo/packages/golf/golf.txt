@@ -9611,7 +9611,7 @@ goosewinged
 genson 1
 grozart
 gypsied 1
-gaeltacht
+gaeltacht 1
 granulomata
 grozer
 grubbery 1
