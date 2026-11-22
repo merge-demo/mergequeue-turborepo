@@ -14193,7 +14193,7 @@ exfetation
 enterococci 1
 ectosome
 esthetics
-epulation
+epulation 1
 equidistance
 exuscitate 1
 estrif
