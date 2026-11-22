@@ -8135,7 +8135,7 @@ epithermal
 enfirm
 eliminative 1
 elmy
-eclectically
+eclectically 1
 erudit
 elliptical
 echeveria
