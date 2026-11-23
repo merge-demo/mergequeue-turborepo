@@ -8215,7 +8215,7 @@ diorism
 diadochic
 diathermancy
 diadochokinesia
-diaene
+diaene 1
 diaeretic
 dartsman
 detoxicated
