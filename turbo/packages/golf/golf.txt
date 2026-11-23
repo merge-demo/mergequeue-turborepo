@@ -5528,7 +5528,7 @@ glimed 1
 gantangs 1
 greenroom 1
 glucaemia
-gumming
+gumming 1
 gaysome 1
 gripless
 geochemist 1
