@@ -5706,7 +5706,7 @@ festucine 1
 flagellula
 fungous
 fuzzball
-frontlessly 1
+frontlessly 2
 furnage 1
 frequentation 1
 fractuosity
