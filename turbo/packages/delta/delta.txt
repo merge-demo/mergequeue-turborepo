@@ -14680,7 +14680,7 @@ disrespondency
 dissected
 describe
 dowers 1
-doxies
+doxies 1
 dieselize
 decurrency
 debauchee 1
