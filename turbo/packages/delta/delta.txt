@@ -5424,7 +5424,7 @@ dogtrot
 dudishness
 dolichos
 digging
-darlingly
+darlingly 1
 davening
 dermamyiasis
 depainted
