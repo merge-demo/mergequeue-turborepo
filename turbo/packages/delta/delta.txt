@@ -7273,7 +7273,7 @@ decarbonating
 deckings 1
 dishevely 1
 durene
-dampproof
+dampproof 1
 depilate
 dairies
 dialogically
