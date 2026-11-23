@@ -9056,7 +9056,7 @@ fetise 1
 frenetics
 formity 1
 follows
-furtum
+furtum 1
 fortresses
 fichteanism
 filters
