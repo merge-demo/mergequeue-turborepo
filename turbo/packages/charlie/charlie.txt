@@ -21723,7 +21723,7 @@ corcir
 cigars
 condo 1
 condoled
-condolence
+condolence 1
 calyptro
 condolent
 cruiserweight
