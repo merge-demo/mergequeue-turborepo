@@ -2885,7 +2885,7 @@ divide
 desmodont 1
 deferral 1
 duodecimomos
-dedicant
+dedicant 1
 dichotic
 downbeat
 desulphuret
