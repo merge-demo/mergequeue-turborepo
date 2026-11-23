@@ -7795,7 +7795,7 @@ distanceless 1
 discographies
 devolves
 dactyloid
-daylighted
+daylighted 1
 diplospondylic
 desmarestia 1
 devolving
