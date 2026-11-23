@@ -10568,7 +10568,7 @@ enthusing
 entomophily
 epiclidal
 equibiradiate
-esprits
+esprits 1
 elpidite
 electrodes
 equiprobable
