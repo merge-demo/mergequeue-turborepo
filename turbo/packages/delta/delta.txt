@@ -2209,7 +2209,7 @@ digitoxose
 diallyl 1
 diapalma
 divulgences
-diocesan
+diocesan 1
 droschken
 derrire
 dosages
