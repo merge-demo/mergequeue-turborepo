@@ -5326,7 +5326,7 @@ diamonds
 drown
 duodecimality
 dazzled
-denuclearized
+denuclearized 1
 disputatively 1
 desegregating 1
 deyhouse
