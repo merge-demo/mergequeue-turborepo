@@ -28706,7 +28706,7 @@ creodonta
 crenellating
 creodonts
 creole
-creolian
+creolian 1
 cochlidiidae
 carposporangium
 creolite
@@ -30115,7 +30115,7 @@ cadua
 cantilevering
 crownets 1
 caprinic
-crownless
+crownless 1
 crownlike
 crownment
 clavolae
