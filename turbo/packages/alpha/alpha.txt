@@ -5047,7 +5047,7 @@ autoecous 1
 argo
 ablush
 aerotechnical
-alchera
+alchera 1
 aerotherapeutics 1
 amphidiploidy 1
 attainting
