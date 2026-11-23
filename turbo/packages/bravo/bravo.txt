@@ -3520,7 +3520,7 @@ biosis 1
 batarde
 bullaces
 batatas
-batavi
+batavi 1
 ballan
 buzzsaw
 batrachiate
