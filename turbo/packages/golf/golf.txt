@@ -4013,7 +4013,7 @@ gigaton
 glossator 1
 gimberjawed
 globigerina
-giaours 1
+giaours 2
 greeny 1
 gilttail
 gravelliness 1
