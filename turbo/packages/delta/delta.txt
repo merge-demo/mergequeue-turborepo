@@ -5386,7 +5386,7 @@ dep
 doss
 deorganization
 decolouriser
-doubtfully
+doubtfully 1
 deregister
 donation
 disenablement
@@ -7010,7 +7010,7 @@ destinezite
 driveable
 dessous
 devall
-doodad
+doodad 1
 destabilization
 diprotic
 doolie
