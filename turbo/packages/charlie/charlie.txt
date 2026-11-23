@@ -12203,7 +12203,7 @@ cosmopolicy
 chrysopal 1
 cowcatcher
 castrator 1
-chrysophanic
+chrysophanic 1
 concludible
 chrysophenin
 chrysophilist
