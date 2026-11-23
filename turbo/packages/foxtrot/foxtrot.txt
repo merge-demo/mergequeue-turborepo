@@ -3497,7 +3497,7 @@ figurae
 forebowels 1
 foredetermination
 flusk
-fictionalizes
+fictionalizes 1
 fisetin
 farness 1
 fermentology 1
