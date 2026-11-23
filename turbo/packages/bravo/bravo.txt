@@ -16561,7 +16561,7 @@ brownish 1
 biflorate 1
 backbiters
 bushmen
-botrydium
+botrydium 1
 bibliopolical
 blackplate
 brachypinacoid
