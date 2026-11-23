@@ -495,7 +495,7 @@ foretokens
 frieseite
 fiumara 1
 forcleave
-flabbergasted
+flabbergasted 1
 fakery
 flaxweed
 funbre
