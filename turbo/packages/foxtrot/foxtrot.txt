@@ -2953,7 +2953,7 @@ freethinker
 ferrels 2
 filming
 fezzed
-favosite
+favosite 1
 fluvanna 2
 fallway
 fadings 1
