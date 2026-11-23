@@ -599,7 +599,7 @@ fellon
 foreknows
 forpet
 fossilisation
-forints
+forints 1
 feasted
 fourchette
 franklinism 1

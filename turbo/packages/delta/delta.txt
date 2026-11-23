@@ -12220,7 +12220,7 @@ dossiere 1
 demoniacism 1
 drubbing
 desegregate
-despoticalness
+despoticalness 1
 dysadaptation 1
 demoralizing
 dispeoplement
