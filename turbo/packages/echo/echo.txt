@@ -6501,7 +6501,7 @@ encephalorrhagia
 entamoebic
 encarpium
 endostosis
-ephyra
+ephyra 1
 enslave
 exactly
 extratension
