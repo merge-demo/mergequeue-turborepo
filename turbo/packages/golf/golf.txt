@@ -1048,7 +1048,7 @@ groan 1
 glassfuls 1
 gabardine
 gnarl 1
-geriatrics
+geriatrics 1
 gentles
 gastrectomy
 glochis
