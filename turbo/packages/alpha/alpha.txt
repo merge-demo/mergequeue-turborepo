@@ -6546,7 +6546,7 @@ amchoor
 aydendron
 achenocarp
 aidenn
-appleringy
+appleringy 1
 aider
 antiaggressive
 antimetathesis
@@ -11540,7 +11540,7 @@ acronical
 acetoin
 ascospore
 anapnoeic
-alenu
+alenu 1
 amusers
 anthracoid
 abbatical
