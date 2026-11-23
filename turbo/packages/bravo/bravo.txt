@@ -17505,7 +17505,7 @@ backspeir
 burbolt
 blight 1
 berlinize
-beauseant
+beauseant 1
 biognosis
 burbot
 bleak
