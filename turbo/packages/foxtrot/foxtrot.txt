@@ -2438,7 +2438,7 @@ fingu
 foreproduct
 floretty 1
 fermentable 1
-fermentativeness
+fermentativeness 1
 faradize
 footbridges
 fermentescible
