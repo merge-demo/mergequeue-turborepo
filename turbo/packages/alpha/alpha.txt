@@ -17354,7 +17354,7 @@ accessibleness 1
 apostille
 argos
 antagonist
-aglycosuric
+aglycosuric 1
 anatiferous
 apostleship
 abaisse
