@@ -9280,7 +9280,7 @@ abrachia
 alodies 1
 angiitis
 adenosclerosis
-atossa
+atossa 1
 alodification
 arician
 artophagous 1
