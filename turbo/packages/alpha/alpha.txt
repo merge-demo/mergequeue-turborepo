@@ -17497,7 +17497,7 @@ apparat 1
 antidiabetic
 antigonus
 apparats
-apparatus
+apparatus 1
 appareling
 apparentements
 airify 1
