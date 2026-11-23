@@ -4936,7 +4936,7 @@ funtumia
 fevertwitch 1
 fraunch
 flameout 1
-foreshortened
+foreshortened 1
 farthermost 3
 foreappoint
 fourflushers
