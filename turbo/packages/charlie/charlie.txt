@@ -18573,7 +18573,7 @@ clanless
 coimplore
 coyn
 cosmometry
-coinable 1
+coinable 2
 coinage
 coinages
 coincide
