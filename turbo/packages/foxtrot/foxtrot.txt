@@ -9289,7 +9289,7 @@ flockman 1
 fundamentalness
 freath
 flane
-fewmets
+fewmets 1
 fromward 1
 ferromagnesian
 feasten 1
