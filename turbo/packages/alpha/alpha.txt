@@ -11022,7 +11022,7 @@ amoebula 1
 amoy
 apinoid
 ampelitic
-amok
+amok 1
 amoke
 azure
 antidepressive
