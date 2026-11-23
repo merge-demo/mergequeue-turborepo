@@ -9333,7 +9333,7 @@ encorbelment
 erinys
 eurythmic
 endosiphon
-encrusted
+encrusted 1
 erugos
 escapage
 eruptible
