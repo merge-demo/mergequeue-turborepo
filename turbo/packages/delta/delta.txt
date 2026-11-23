@@ -5210,7 +5210,7 @@ degasifier
 dispositioned
 diatomaceoid
 denouncers
-detestable 1
+detestable 2
 detinue
 dentale 1
 dissimulate
