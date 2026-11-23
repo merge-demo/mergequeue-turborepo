@@ -5223,7 +5223,7 @@ applotment
 almsman
 affiance
 angakok
-antievolutionistic 1
+antievolutionistic 2
 affiants
 affiches
 affidare
