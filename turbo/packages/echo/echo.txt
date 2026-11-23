@@ -12085,7 +12085,7 @@ expostulation
 erepsin 1
 escuage
 embryectomies
-enflames
+enflames 1
 exploit 1
 editress
 ecod
