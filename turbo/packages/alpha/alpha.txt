@@ -9317,7 +9317,7 @@ alemana
 alongshoreman 1
 autonetics
 antisymmetric
-aloose
+aloose 1
 alop
 axunge
 antitumor

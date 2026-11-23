@@ -6998,7 +6998,7 @@ explorable 1
 effigiating
 estated
 emetines
-escutellate
+escutellate 1
 economising
 electrifies
 earphone 1
