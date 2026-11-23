@@ -12843,7 +12843,7 @@ basiliscine
 blink
 barnabite 1
 bioprecipitation
-barthite
+barthite 1
 birdbrains
 bonderize
 boomslang
