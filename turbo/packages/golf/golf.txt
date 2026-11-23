@@ -531,7 +531,7 @@ gavialis 1
 guzzles
 galleins
 gomphocarpus
-gnetaceous
+gnetaceous 1
 galler
 glycyrize 1
 grandmammy 1
