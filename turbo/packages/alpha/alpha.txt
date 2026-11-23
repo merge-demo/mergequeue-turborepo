@@ -8700,7 +8700,7 @@ anoxidative
 allocution
 anemology
 alleleu
-allelic
+allelic 1
 axonemal
 argyrite
 almes
