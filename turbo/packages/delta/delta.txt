@@ -1849,7 +1849,7 @@ debitum
 douvecot 1
 dorsale
 deblaterate
-daubries
+daubries 1
 deblateration
 deblock
 disedification
