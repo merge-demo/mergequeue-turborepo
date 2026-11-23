@@ -3975,7 +3975,7 @@ fizzes
 fraulein 3
 foreread 1
 friarling
-fairydom
+fairydom 1
 felicitation
 frontlessness
 formability 1
