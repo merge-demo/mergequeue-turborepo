@@ -3862,7 +3862,7 @@ baure
 botonny
 bausond
 birthland 1
-bautta
+bautta 1
 balsamically
 blistery
 bulgur
@@ -12502,7 +12502,7 @@ bagpiped
 bone
 bejaundice
 bifoliolate
-boned
+boned 1
 bonedry
 bonefish
 broodier
