@@ -6107,7 +6107,7 @@ gowiddie
 goblinry
 generalizing
 gyre 1
-groucho
+groucho 1
 grommet
 garters 2
 gadfly
@@ -6415,7 +6415,7 @@ grudgeless 1
 gangboard
 goldeney
 gillaroo 2
-goldener
+goldener 1
 guary
 goldentop 1
 glochideous 1
