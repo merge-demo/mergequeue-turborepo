@@ -11427,7 +11427,7 @@ bayness
 bibliographies
 blousy 1
 bitingness 1
-beteela 1
+beteela 2
 blueblood
 boro
 baronetical
