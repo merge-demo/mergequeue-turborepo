@@ -1869,7 +1869,7 @@ edit
 epistylar 1
 embolization
 extramorainic
-endaseh
+endaseh 1
 equilibriria
 exploded
 everting
