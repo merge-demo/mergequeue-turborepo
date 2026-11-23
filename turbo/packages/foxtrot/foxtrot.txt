@@ -9693,7 +9693,7 @@ fetalism
 fafaronade
 fissionability
 festinate
-footmanry
+footmanry 1
 frontrunner 1
 flumerin 1
 faunch
