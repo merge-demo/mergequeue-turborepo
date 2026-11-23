@@ -4105,7 +4105,7 @@ delitescent
 deliverer
 disincorporate
 deliveress
-dentirostrate
+dentirostrate 1
 dunkers
 damner
 desipience
@@ -17845,7 +17845,7 @@ dictyosome 3
 decurve
 dermoblast
 definable
-dictatorship
+dictatorship 1
 disenthrallment
 dunkirk
 dude
