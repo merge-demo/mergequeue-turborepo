@@ -24095,7 +24095,7 @@ abbeystead 1
 autogenies
 amylate
 applenut
-amenable
+amenable 1
 acutate
 accelerating
 aureoles 1
