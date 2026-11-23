@@ -8927,7 +8927,7 @@ exoskeletal
 eteoclus
 endosmotically
 epicanthi
-exteroceptive
+exteroceptive 1
 etymological
 erythematic
 ericas
