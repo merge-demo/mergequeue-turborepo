@@ -3787,7 +3787,7 @@ cariniana 1
 carbodynamite
 carbohemoglobin
 cribbling 1
-carbohydrase
+carbohydrase 1
 cardioncus
 carbohydrate 1
 cardiotrophia
