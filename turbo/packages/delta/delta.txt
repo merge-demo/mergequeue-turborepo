@@ -2874,7 +2874,7 @@ decuss
 decussate
 decussatively
 desideratum
-disyllabizing
+disyllabizing 1
 decussoria
 decwriter 1
 divia
