@@ -4117,7 +4117,7 @@ eighthes
 earlships
 ecardinal
 endosarc
-epitonic
+epitonic 1
 electrorefine
 emplecton
 employability
