@@ -5100,7 +5100,7 @@ freighting
 falasha
 forebespeak 1
 fatherling
-fractionise
+fractionise 1
 funking 1
 forbidding 1
 forthy 1
