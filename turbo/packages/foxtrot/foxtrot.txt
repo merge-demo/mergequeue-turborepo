@@ -253,7 +253,7 @@ forebitten 1
 foetors 1
 faders
 firedamp
-fadge
+fadge 1
 furfuramide
 furniment
 fermery 1
