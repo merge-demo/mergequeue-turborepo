@@ -13326,7 +13326,7 @@ dynamism
 demographics
 demorphinization 1
 dysprosia
-disproves
+disproves 1
 disprovide 2
 distillate
 destuffing
