@@ -8097,7 +8097,7 @@ extrude 1
 elegant
 epipterous
 epipubis
-erminois
+erminois 1
 esterifying 1
 electrophotomicrography
 epicoelia
