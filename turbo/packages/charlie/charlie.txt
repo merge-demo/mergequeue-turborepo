@@ -876,7 +876,7 @@ cayubaba
 cocarboxylase 1
 climacium
 cs 1
-cayuca
+cayuca 1
 commendador
 cosmothetic
 cayuga
