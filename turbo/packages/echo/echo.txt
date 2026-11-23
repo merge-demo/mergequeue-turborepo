@@ -1503,7 +1503,7 @@ efl
 efph
 entocondylar
 experimentarian
-estantion
+estantion 1
 empyesis
 endophytous
 encoronet 1
