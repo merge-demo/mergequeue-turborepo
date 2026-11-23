@@ -27654,7 +27654,7 @@ clavicornate
 capeworks 1
 channellers
 caliver
-cowhided
+cowhided 1
 criminative
 cowhides
 caravanning
