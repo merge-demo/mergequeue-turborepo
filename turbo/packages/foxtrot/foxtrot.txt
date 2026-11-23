@@ -2371,7 +2371,7 @@ freeloving 1
 futures 1
 footganger 1
 fetial
-fortunetellers
+fortunetellers 1
 friendlier 2
 frondage
 feriation
