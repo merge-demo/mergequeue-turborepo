@@ -2387,7 +2387,7 @@ etherization
 elotherium
 electrodiagnosis
 esterling
-embiid
+embiid 1
 epepophysis
 epigastric 1
 eyeflap 1
@@ -10159,7 +10159,7 @@ edgier
 emmove
 encroaching
 embroideress
-emeraldine 1
+emeraldine 2
 eulogise
 etherially
 extravagances
