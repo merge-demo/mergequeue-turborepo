@@ -12186,7 +12186,7 @@ blaff
 bazookamen
 beaumontia
 balneum
-beeps 1
+beeps 2
 blaine
 beclasped
 bloomingly

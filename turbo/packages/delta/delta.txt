@@ -11489,7 +11489,7 @@ defrauded 1
 dentiphone
 dynasties
 discomfiter
-deputation
+deputation 1
 drachen
 discomfort 1
 dewaterer 2
