@@ -10028,7 +10028,7 @@ gazebos
 glaistig
 gammation
 gargoyles
-greasing
+greasing 1
 gastrohysterotomy
 granitoidal
 gaslit
