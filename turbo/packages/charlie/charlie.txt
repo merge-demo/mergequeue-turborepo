@@ -19340,7 +19340,7 @@ chagrin 1
 celestinian
 chorioretinitis
 coloradoite
-connectionism
+connectionism 1
 captainships
 cherubin
 consecrating
@@ -21723,7 +21723,7 @@ corcir
 cigars
 condo 1
 condoled
-condolence
+condolence 1
 calyptro
 condolent
 cruiserweight
