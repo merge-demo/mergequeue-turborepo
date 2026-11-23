@@ -4015,7 +4015,7 @@ emphasize
 emphasized 1
 embargos 1
 exogens
-eyeblack
+eyeblack 1
 expresser
 elucidations 1
 emphysema
