@@ -24003,7 +24003,7 @@ conveniences
 carpetweed
 curin 1
 chubb
-conveniency
+conveniency 1
 conveniencies
 convenient
 casing
