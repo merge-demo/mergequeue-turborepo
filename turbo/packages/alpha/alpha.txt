@@ -17045,7 +17045,7 @@ alumian
 artily
 alcid
 angulus
-archchemic
+archchemic 1
 addy
 arthrotropic 1
 apocopes
