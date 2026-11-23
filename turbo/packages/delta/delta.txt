@@ -2587,7 +2587,7 @@ duramatral
 draffy
 disgustingness 1
 dacoitage
-displosion
+displosion 1
 decoke
 decoll
 deguelia
