@@ -5008,7 +5008,7 @@ donatary
 decalogist
 dendrochirota
 dessicate
-describing
+describing 1
 disenabling
 deadrise
 dendrocygna 1
