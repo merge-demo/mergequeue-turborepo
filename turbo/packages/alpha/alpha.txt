@@ -7025,7 +7025,7 @@ acaridans
 acuteness
 ajoint
 ajuga
-akal
+akal 1
 akali
 akamai
 annoyed
