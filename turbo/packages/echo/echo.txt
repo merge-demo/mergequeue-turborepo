@@ -822,7 +822,7 @@ eral 1
 excrescent 1
 extremest 1
 extradecretal 1
-encrust
+encrust 1
 ectypography
 epitheton
 epop
