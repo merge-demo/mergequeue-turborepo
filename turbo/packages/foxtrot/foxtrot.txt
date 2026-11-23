@@ -8916,7 +8916,7 @@ felty 2
 fourier
 fanglet
 fourierism
-fourneau 1
+fourneau 2
 feltings
 fourpence
 farcist
