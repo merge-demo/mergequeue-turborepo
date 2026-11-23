@@ -3862,7 +3862,7 @@ baure
 botonny
 bausond
 birthland 1
-bautta
+bautta 1
 balsamically
 blistery
 bulgur
@@ -8906,7 +8906,7 @@ bridecup
 bedchamber
 becafico
 bible
-binotonous
+binotonous 1
 baltimorean 1
 brachystaphylic
 boilerman
