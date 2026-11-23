@@ -5433,7 +5433,7 @@ fusobteria
 femur
 filterable
 flexuosely
-fascisticization
+fascisticization 1
 floatative 1
 fleering 1
 faunal 1
