@@ -10806,7 +10806,7 @@ freehandedness
 fjeld
 flagstaffs
 fth
-feuars
+feuars 1
 footsoldiers
 fanned 1
 frayproof 1
