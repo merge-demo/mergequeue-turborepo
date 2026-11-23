@@ -2608,7 +2608,7 @@ benzofuryl
 bochism
 bidentate 1
 broadwives
-biscuit
+biscuit 1
 barytes
 ballons
 balanophoraceous
