@@ -3102,7 +3102,7 @@ faring
 fulminancy
 fireworky
 fibroferrite
-fundic
+fundic 1
 firewarden 1
 franciscans
 facile 1
