@@ -9277,7 +9277,7 @@ glopnen 1
 gerland 1
 groins
 gaonic 1
-grolieresque 1
+grolieresque 2
 granulative
 gimbri
 glycerole
