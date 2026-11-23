@@ -1907,7 +1907,7 @@ gerbillus 1
 germaniums
 groundable
 grails
-golland 1
+golland 2
 grelot
 gaudiest
 guhr 1
