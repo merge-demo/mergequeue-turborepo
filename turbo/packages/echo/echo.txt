@@ -53,7 +53,7 @@ excursion
 escarped
 eremite
 eyn
-excuss
+excuss 1
 estuarine
 earlier
 expedited
