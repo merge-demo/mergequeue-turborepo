@@ -4203,7 +4203,7 @@ emulgent 1
 emprosthotonic
 effeteness 1
 emptied
-exhorter
+exhorter 1
 echolalic
 earthen
 electroetching
