@@ -14298,7 +14298,7 @@ deb
 deviances
 dithion
 dithionous
-devotionate
+devotionate 1
 depaganize 1
 dithyrambs
 dithyrambus 2
