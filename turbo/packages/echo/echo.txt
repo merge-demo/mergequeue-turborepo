@@ -597,7 +597,7 @@ echopractic
 examinate 1
 epidictic 1
 elitisms
-ebonise
+ebonise 1
 echt
 earliness
 ecchymosed
