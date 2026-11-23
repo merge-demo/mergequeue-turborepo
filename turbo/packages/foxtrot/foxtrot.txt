@@ -5662,7 +5662,7 @@ flinkite
 fluffer
 fasnacht 1
 footpound
-foreignization
+foreignization 1
 folioliferous
 fluidmeter 1
 fresnels 2
