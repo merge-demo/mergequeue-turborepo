@@ -17383,7 +17383,7 @@ amplification
 autumn
 apostrophising
 assembly
-adiabatically
+adiabatically 1
 airmobile
 apostrophus 1
 apotactic 1
