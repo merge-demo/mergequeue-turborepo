@@ -8392,7 +8392,7 @@ exclusionism 1
 embryous
 epivalve
 elatcha
-equerries
+equerries 1
 eardrum 1
 erodible
 endodermic 1
