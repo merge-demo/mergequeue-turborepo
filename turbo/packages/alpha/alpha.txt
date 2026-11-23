@@ -2284,7 +2284,7 @@ anaphoric
 azimech
 acidy
 accessless
-acidiferous
+acidiferous 1
 argil 1
 aneurin 1
 arbtrn
@@ -11967,7 +11967,7 @@ ananthous
 aftersend 1
 aftermarket
 aupaka
-anchylosis
+anchylosis 1
 ancientness
 ataraxic
 anew
