@@ -2273,7 +2273,7 @@ glarry
 gospeller
 gangrel
 grandpaternal
-goops
+goops 1
 gen
 glamoury
 gigantoblast
