@@ -6618,7 +6618,7 @@ foetation
 filt
 felonous 1
 figurism
-foeti 1
+foeti 2
 foraged
 fica
 ferbams
