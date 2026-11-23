@@ -10683,7 +10683,7 @@ gellants 1
 groundbird
 geostatic
 gurnet 1
-gildings
+gildings 1
 girdlers
 goldbrickers 1
 grabs
