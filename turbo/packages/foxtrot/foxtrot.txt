@@ -795,7 +795,7 @@ fermacy
 fleaworts
 feil
 flatulences
-forecovert
+forecovert 1
 fanfolds
 fecundize 1
 fluorines
