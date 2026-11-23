@@ -8135,7 +8135,7 @@ biculturalism 1
 billeters
 bicursal
 bailments
-blindfold
+blindfold 1
 bicuspid
 bruxism
 brast
