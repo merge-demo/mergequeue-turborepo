@@ -3983,7 +3983,7 @@ forechoose
 furcula
 forestalled 1
 friese
-flattish
+flattish 1
 forfeited
 forlay 1
 finical
