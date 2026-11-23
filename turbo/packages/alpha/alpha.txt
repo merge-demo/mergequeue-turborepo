@@ -10482,7 +10482,7 @@ antshrike
 ametropia
 ametrous
 amhar
-afterbirths
+afterbirths 1
 autolyzed
 alcade
 aminophylline
