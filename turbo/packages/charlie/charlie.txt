@@ -14623,7 +14623,7 @@ cystopus 1
 cystoradiography
 cragged
 cairo
-cistori
+cistori 1
 conforbably
 chayote
 cowbyre 1
