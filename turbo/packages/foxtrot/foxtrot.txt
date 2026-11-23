@@ -11148,7 +11148,7 @@ furuncular 1
 flaggery
 formylated
 forumize
-foreallot
+foreallot 1
 fanega
 faiences 1
 fiats
