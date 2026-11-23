@@ -8493,7 +8493,7 @@ gametophyte 1
 ginhound 1
 ganglioblast
 gompholobium 1
-galaxias
+galaxias 1
 gyrophoric
 gulden 1
 grecian
