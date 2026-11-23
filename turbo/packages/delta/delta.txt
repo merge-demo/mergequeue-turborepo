@@ -5386,7 +5386,7 @@ dep
 doss
 deorganization
 decolouriser
-doubtfully
+doubtfully 1
 deregister
 donation
 disenablement
