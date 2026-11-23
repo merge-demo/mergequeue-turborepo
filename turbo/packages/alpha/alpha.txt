@@ -6556,7 +6556,7 @@ abjunctive
 aidful
 aiding 1
 adenanthera
-atlantoodontoid
+atlantoodontoid 1
 aidman 1
 aidmen
 akeake

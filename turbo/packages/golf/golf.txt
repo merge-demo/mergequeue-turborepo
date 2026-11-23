@@ -4625,7 +4625,7 @@ guauaenok
 gerbilles 1
 gossoon 2
 glassin
-glycuronic
+glycuronic 1
 glary 1
 gradely 2
 graecism
