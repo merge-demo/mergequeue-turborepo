@@ -29389,7 +29389,7 @@ chorographic
 cryptozoic
 cryptozoite 1
 cryptozonate
-cryophoric
+cryophoric 1
 corbeille
 crazedness
 crypturi
