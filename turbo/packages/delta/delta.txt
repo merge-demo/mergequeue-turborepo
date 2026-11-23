@@ -17233,7 +17233,7 @@ drives
 dredgings
 driveway
 decrepitation
-dingoes
+dingoes 1
 deferrizing
 distanced
 driftweed
