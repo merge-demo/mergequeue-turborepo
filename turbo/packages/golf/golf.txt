@@ -3112,7 +3112,7 @@ grees
 grips
 goan 1
 golandaas
-gooseherd 1
+gooseherd 2
 germinative 1
 geopolitical 1
 gayer 1
@@ -10683,7 +10683,7 @@ gellants 1
 groundbird
 geostatic
 gurnet 1
-gildings
+gildings 1
 girdlers
 goldbrickers 1
 grabs
