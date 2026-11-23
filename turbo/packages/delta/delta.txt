@@ -10599,7 +10599,7 @@ domer
 deaminized
 decompressing
 dissatisfying 1
-diplomats
+diplomats 1
 dysporomorph
 drawfile 1
 diphtheritic 1
