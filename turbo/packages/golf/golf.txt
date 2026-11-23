@@ -9210,7 +9210,7 @@ grasper 1
 griths
 gritted
 gutturality
-gimpiest
+gimpiest 1
 gel 1
 grivna 1
 geosynchronous
