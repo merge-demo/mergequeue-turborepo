@@ -5972,7 +5972,7 @@ desterilize
 desmotrope
 deflates
 discriminately 1
-dripple
+dripple 1
 dismaw
 divorces
 devoteeism
