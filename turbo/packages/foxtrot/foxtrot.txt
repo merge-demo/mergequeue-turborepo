@@ -3438,7 +3438,7 @@ friedcake
 frazzle
 fantasist 1
 fifteens
-faithless
+faithless 1
 frauds
 fiftieth
 formicariae 1
