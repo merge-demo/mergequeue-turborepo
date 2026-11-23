@@ -22062,7 +22062,7 @@ acetbromamide
 ammonitoid
 auteurism
 automanipulation
-alveolotomy
+alveolotomy 1
 anus
 acclamatory
 actings
