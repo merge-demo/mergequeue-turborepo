@@ -1849,7 +1849,7 @@ debitum
 douvecot 1
 dorsale
 deblaterate
-daubries
+daubries 1
 deblateration
 deblock
 disedification
@@ -17233,7 +17233,7 @@ drives
 dredgings
 driveway
 decrepitation
-dingoes
+dingoes 1
 deferrizing
 distanced
 driftweed

@@ -2836,7 +2836,7 @@ fungid 1
 familistery 2
 fortuned 1
 fettered 2
-frowstiness
+frowstiness 1
 foozle
 flouter
 flatlets
