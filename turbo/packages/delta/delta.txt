@@ -14593,7 +14593,7 @@ disembower
 dryfarm
 departmentization
 deeming
-diatomine 1
+diatomine 2
 drammage
 disinfeudation
 discordantness
