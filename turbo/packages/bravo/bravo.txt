@@ -14288,7 +14288,7 @@ buglosses
 bearwort 1
 braehead
 bulblet 1
-bronchiogenic
+bronchiogenic 1
 brochidodromous
 benefactory 1
 begoud
