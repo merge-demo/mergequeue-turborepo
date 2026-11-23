@@ -11531,7 +11531,7 @@ bluffest
 balladmonger
 bluffing
 barish
-baublery
+baublery 1
 banyoro
 battakhin
 begged
@@ -13334,7 +13334,7 @@ blooie
 buchloe
 beeswings
 birdyback
-beetlestone
+beetlestone 1
 botchedly
 bichord
 bukat
@@ -17072,7 +17072,7 @@ boiette
 brachiocephalic
 burrawang
 barosinusitis
-bullamacow
+bullamacow 1
 bleakly 1
 brodekin
 bullate
