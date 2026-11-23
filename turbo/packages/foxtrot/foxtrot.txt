@@ -3632,7 +3632,7 @@ figurate 1
 forebitter
 facticide 1
 fretsaws 1
-footwarmers 1
+footwarmers 2
 filigrained
 fiftieths
 fibrillar
