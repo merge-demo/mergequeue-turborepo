@@ -5198,7 +5198,7 @@ densifying
 disharmonism
 danaro
 decarbonisation 1
-driftage
+driftage 1
 diglottic
 disscepter
 dewey
