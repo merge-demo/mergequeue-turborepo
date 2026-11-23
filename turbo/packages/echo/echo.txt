@@ -9612,7 +9612,7 @@ evildoers 1
 exceptionary
 ensearch
 esoterize
-esotropia 1
+esotropia 2
 esp
 elatha
 eventless
