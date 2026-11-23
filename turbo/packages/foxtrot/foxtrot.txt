@@ -2257,7 +2257,7 @@ fenchene
 favn
 feluccas
 floralize
-fastigated
+fastigated 1
 ficoid
 facaded 1
 filiety
