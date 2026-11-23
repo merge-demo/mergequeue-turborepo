@@ -16542,7 +16542,7 @@ behang 2
 bequeathal
 birr 2
 bishops
-budzat
+budzat 1
 bandeaux
 broadpiece
 begum
