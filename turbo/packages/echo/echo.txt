@@ -11220,7 +11220,7 @@ evangelistary
 enthronements
 earflower 1
 earnful
-endostraca
+endostraca 1
 emigre
 equinities
 enthronized 1
