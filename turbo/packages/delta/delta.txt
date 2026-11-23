@@ -11733,7 +11733,7 @@ dispensation 1
 drawled
 dermography 1
 desoxymorphine
-debtor
+debtor 1
 discreetly
 declarant 1
 derogatively
