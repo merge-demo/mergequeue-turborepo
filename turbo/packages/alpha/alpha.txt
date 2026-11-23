@@ -11540,7 +11540,7 @@ acronical
 acetoin
 ascospore
 anapnoeic
-alenu
+alenu 1
 amusers
 anthracoid
 abbatical

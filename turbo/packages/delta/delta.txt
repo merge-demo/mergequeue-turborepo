@@ -9403,7 +9403,7 @@ deuteranomalous
 diamyl
 dereling
 dowerless
-dredge
+dredge 1
 dismountable
 dejunkerize 1
 diffusions
