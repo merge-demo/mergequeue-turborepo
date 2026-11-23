@@ -11445,7 +11445,7 @@ borable
 berettas
 bowlderhead
 berycoidei
-bluecurls
+bluecurls 1
 blears
 browbands
 blued

@@ -3186,7 +3186,7 @@ ejaculum
 extraserous
 entomophagous
 episcopation
-enamoring
+enamoring 1
 esperantist
 eremochaeta
 enamelwork
@@ -6801,7 +6801,7 @@ episternalia
 evocativeness
 eumenes
 elix
-enl
+enl 1
 equestriennes
 ethnogenic
 emmenology
