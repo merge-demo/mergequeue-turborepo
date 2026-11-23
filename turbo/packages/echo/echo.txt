@@ -8249,7 +8249,7 @@ epistlers
 epistolarian
 elderhood 1
 ethylin 1
-escribe
+escribe 1
 epopoeia
 epochal 1
 extubate
