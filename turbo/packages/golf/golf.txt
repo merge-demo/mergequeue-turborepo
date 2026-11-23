@@ -20,7 +20,7 @@ graphitization 1
 geotropic 1
 gabbro 1
 gabelleman 1
-geonyctinastic
+geonyctinastic 1
 globosphaerite
 grouchy
 gainers
