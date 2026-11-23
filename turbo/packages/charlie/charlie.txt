@@ -977,7 +977,7 @@ calambour
 castellar
 campanulaceae
 catenoids
-calaminary
+calaminary 1
 confoundedly
 compensational
 calaminaris
