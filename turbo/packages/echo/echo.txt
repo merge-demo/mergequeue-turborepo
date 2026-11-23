@@ -11717,7 +11717,7 @@ exceptless
 examinatory
 endochrome 1
 encumbering
-equivocacies
+equivocacies 1
 examinatorial
 echopraxia
 ethoxyls 1
