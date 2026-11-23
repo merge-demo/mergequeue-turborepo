@@ -1543,7 +1543,7 @@ distressedness
 doublure
 drail
 deadlier 1
-deaden
+deaden 1
 droops 1
 docked
 diadelphian
