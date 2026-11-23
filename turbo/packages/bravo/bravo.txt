@@ -9536,7 +9536,7 @@ blepharophryplasty
 banya
 bipunctal 1
 bores
-barbarian
+barbarian 1
 birn 3
 byrnie
 battlefront
