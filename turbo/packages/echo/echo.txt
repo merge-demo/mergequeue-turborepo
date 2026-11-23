@@ -7276,7 +7276,7 @@ elutor
 exoascaceae
 ejicient
 enclitics
-exlex
+exlex 1
 elechi 1
 engird
 excheat 1
