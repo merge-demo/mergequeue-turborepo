@@ -146,7 +146,7 @@ factionalism
 fixate 2
 factualness
 fullbodied
-freezers
+freezers 1
 fabes
 faradopalpation
 fictionary
