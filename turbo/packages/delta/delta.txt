@@ -10592,7 +10592,7 @@ decolorizing 1
 diplomates 1
 diplomatically
 diethyl
-dolour 1
+dolour 2
 dinantian
 diplomatists
 domer
