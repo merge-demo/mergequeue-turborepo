@@ -5594,7 +5594,7 @@ depilatories 1
 deists
 discos
 decerniture
-delineation
+delineation 1
 depilitant 1
 deplace 2
 dermatine
