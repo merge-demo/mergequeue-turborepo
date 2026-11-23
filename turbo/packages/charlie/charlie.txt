@@ -26832,7 +26832,7 @@ cyclometry 1
 counterextension
 cartoons
 circumduce
-cacuminal
+cacuminal 1
 carniferous
 counterfactual
 counterreply
