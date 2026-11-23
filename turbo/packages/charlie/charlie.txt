@@ -16714,7 +16714,7 @@ cloudful 1
 cacolike
 colouristic
 couthy
-cloudy
+cloudy 1
 cloudiest
 cloudily 1
 cloudiness
