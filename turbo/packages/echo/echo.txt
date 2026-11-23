@@ -8675,7 +8675,7 @@ episcleritis
 earth
 epiglottides 1
 emendations
-equipoise
+equipoise 1
 endophyllous
 erotical 1
 euphemizing 1
