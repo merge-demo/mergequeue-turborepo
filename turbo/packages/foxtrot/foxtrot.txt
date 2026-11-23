@@ -9625,7 +9625,7 @@ frocked 1
 fletcher 1
 furfures
 fregata
-faunist
+faunist 1
 freyalite
 frondent 1
 fitchered
