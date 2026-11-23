@@ -7010,7 +7010,7 @@ destinezite
 driveable
 dessous
 devall
-doodad
+doodad 1
 destabilization
 diprotic
 doolie
@@ -12220,7 +12220,7 @@ dossiere 1
 demoniacism 1
 drubbing
 desegregate
-despoticalness
+despoticalness 1
 dysadaptation 1
 demoralizing
 dispeoplement
