@@ -4912,7 +4912,7 @@ grafters
 gyneocracy
 geographics
 goldhead
-genealogists
+genealogists 1
 goofballs 1
 growled
 glandered 1
