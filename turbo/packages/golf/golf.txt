@@ -1562,7 +1562,7 @@ glutelin
 gripe
 ghegish
 gregarinoidea 2
-gluelikeness 1
+gluelikeness 2
 gout
 gassing
 gismos
