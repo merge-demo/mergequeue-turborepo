@@ -531,7 +531,7 @@ falcon 1
 falconinae
 favoredness
 fleeces
-forfeiter
+forfeiter 1
 factitial
 funambulant
 falcons
