@@ -8248,7 +8248,7 @@ dulcimore
 draped
 disputableness
 desecrating
-diagonal
+diagonal 1
 diagonalization
 diagnosing
 duel 1
@@ -13359,7 +13359,7 @@ disputatiousness
 disputeful
 dacrydium
 disfeature
-deceitful
+deceitful 1
 disputer
 definitising
 dorsally
