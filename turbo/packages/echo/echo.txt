@@ -10684,7 +10684,7 @@ elliptic 1
 euripus
 exprobate
 erebus
-euglenoid 1
+euglenoid 2
 exolve
 electrotypic
 evenworthy 1
