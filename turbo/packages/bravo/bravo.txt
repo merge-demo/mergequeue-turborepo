@@ -15513,7 +15513,7 @@ banshees
 brimmering
 boloroot 1
 brims
-brindisi
+brindisi 1
 barbitalism
 bromo
 beignet
