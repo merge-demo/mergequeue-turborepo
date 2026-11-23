@@ -6616,7 +6616,7 @@ dustrags
 deserved 1
 disesteemer
 deice
-deservers
+deservers 1
 dollmaker
 droplight
 dragading
