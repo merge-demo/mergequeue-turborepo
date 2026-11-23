@@ -4930,7 +4930,7 @@ gyrenes
 gingelis 1
 germanization
 ganof
-gastrelcosis
+gastrelcosis 1
 ginger
 gregarian
 grisliest

@@ -19340,7 +19340,7 @@ chagrin 1
 celestinian
 chorioretinitis
 coloradoite
-connectionism
+connectionism 1
 captainships
 cherubin
 consecrating
