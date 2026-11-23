@@ -4001,7 +4001,7 @@ fabricated 1
 filmlike 1
 fadmongery
 festin 1
-forehorse
+forehorse 1
 fatling
 fluoaluminic 1
 felicific
