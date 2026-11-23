@@ -1270,7 +1270,7 @@ embowl
 exploringly
 escaloping 1
 eneugh
-eelworm
+eelworm 1
 epichlorohydrin
 extraditable
 ecorche
