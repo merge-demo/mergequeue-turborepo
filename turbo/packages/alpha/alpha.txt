@@ -7076,7 +7076,7 @@ aldol
 apogeal
 altiloquent 1
 akha
-angus
+angus 1
 archaeornis 1
 akhyana
 anopsias
