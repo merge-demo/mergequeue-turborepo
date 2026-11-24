@@ -3990,7 +3990,7 @@ finical
 flunk
 ferric
 furazolidone 1
-fumblers 2
+fumblers 3
 foramina
 fishery
 forleft
@@ -5939,7 +5939,7 @@ futileness
 fallibility 2
 fortunite
 floodlit
-fibromembrane 1
+fibromembrane 2
 floods
 foisons
 fortifiable
