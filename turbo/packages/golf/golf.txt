@@ -5802,7 +5802,7 @@ galvanoplastic
 grundel
 gadger
 gate
-globulous 1
+globulous 2
 gymnosporangium 2
 gynoecium 1
 glucate
