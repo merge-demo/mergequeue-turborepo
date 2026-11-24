@@ -17722,7 +17722,7 @@ adjacencies
 amblycephalidae
 anthorine
 affinitatively
-appliable
+appliable 1
 appliance 1
 apocentre
 achitophel
