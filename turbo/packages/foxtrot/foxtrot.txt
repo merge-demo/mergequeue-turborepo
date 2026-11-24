@@ -2662,7 +2662,7 @@ fertilizational
 funeral 1
 fallowed
 fume
-fantoccini
+fantoccini 1
 foremelt
 feasing 1
 ferulaceous 1
