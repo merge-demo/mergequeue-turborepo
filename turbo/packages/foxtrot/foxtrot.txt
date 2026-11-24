@@ -5204,7 +5204,7 @@ fuchsia 2
 familarity
 frumpery 2
 funest
-fraternizes
+fraternizes 1
 formylating
 fibrobronchitis
 fictionising
