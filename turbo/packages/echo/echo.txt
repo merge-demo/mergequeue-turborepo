@@ -668,7 +668,7 @@ efts
 eudaemonistic
 ephraimitic
 epilogate 2
-embowment
+embowment 1
 entourage
 eubasidii
 elmiest
