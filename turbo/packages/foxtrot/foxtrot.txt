@@ -9072,7 +9072,7 @@ falling 1
 flintlike 1
 furdle
 funambulated 1
-faulkner
+faulkner 1
 frizzers 1
 forepoint
 foldboating
