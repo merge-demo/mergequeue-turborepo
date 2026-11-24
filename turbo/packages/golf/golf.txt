@@ -8691,7 +8691,7 @@ gynoecia
 goldenly
 girn
 greenbug 1
-gastrolater
+gastrolater 1
 grandiloquent 2
 glossitis 1
 greenery
