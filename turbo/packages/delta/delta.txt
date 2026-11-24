@@ -13021,7 +13021,7 @@ disestablish 1
 disparation
 downlike 1
 dromiceiidae
-diotrephes
+diotrephes 1
 donkeyish
 durant
 dopiness
