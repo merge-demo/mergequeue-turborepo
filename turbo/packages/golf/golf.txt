@@ -3412,7 +3412,7 @@ gers
 gliffs
 gershonite
 grandiosely 1
-gertie
+gertie 1
 geggery
 glamourize
 glyoxim
