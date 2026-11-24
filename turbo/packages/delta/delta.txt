@@ -17584,7 +17584,7 @@ detoxicant
 drunk
 desuperheater 1
 dogbite 1
-drunkenwise
+drunkenwise 1
 dirtiest
 dryopteris 1
 drunker
