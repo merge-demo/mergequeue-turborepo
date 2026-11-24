@@ -541,7 +541,7 @@ damagers
 damalic 1
 dextrorotation
 dynam
-demobilized
+demobilized 1
 dialyzing 1
 diplosis
 deliverers
