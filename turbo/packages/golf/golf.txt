@@ -8187,7 +8187,7 @@ govern 1
 graphemically 2
 gris 1
 gasconading
-genevois
+genevois 1
 graphically 1
 glorioso
 gemotes 3
