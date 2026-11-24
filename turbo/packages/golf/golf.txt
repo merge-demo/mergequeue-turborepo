@@ -5970,7 +5970,7 @@ grin 1
 gentry 1
 gullet 1
 goney
-gusting
+gusting 1
 glossoplasty
 greenshank
 guanabana 1
