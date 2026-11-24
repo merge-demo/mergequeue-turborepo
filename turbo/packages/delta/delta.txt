@@ -16495,7 +16495,7 @@ dracontic
 dwellings
 demagogical
 dairywoman
-detached
+detached 1
 disagreeables
 dracontium
 disfavouring
