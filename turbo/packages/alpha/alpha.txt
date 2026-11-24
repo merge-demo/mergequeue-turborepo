@@ -5787,7 +5787,7 @@ agate
 agates 1
 autoturning 1
 advocate
-appal
+appal 1
 aquatinter
 adducent
 amberjack
