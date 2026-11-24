@@ -4015,7 +4015,7 @@ feudatorial
 foredawn
 fissural
 frettiest 3
-feudalise
+feudalise 1
 fingram
 fossilisable 1
 fiaunt
