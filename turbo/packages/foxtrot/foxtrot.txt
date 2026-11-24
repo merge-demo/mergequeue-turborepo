@@ -7193,7 +7193,7 @@ fridays
 fleetings
 forel
 foreboom 1
-feudalising
+feudalising 1
 flanderkin
 fb
 fecial 2
