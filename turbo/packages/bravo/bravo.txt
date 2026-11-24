@@ -16122,7 +16122,7 @@ broodling
 benzoylglycine
 broodmare
 bleacher
-bursera 1
+bursera 2
 bertillonage
 ballonets
 buckbrush
