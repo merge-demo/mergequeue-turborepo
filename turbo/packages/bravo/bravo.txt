@@ -2490,7 +2490,7 @@ barandos
 balaklava
 bradypodidae
 baphomet
-bereason
+bereason 1
 bearhound
 bibliophilism 2
 binotic
