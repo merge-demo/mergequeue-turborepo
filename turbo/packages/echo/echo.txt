@@ -9975,7 +9975,7 @@ endowers
 embosk
 exhausts
 entonement
-entreatment
+entreatment 1
 esurient 1
 electroform
 epilobe 1
