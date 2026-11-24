@@ -1346,7 +1346,7 @@ burelage
 btu
 bedways
 bluecap 1
-bunks
+bunks 1
 bacteriophagous 1
 bandwagon
 bobbles
