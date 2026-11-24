@@ -8361,7 +8361,7 @@ beshadow
 bullshots 1
 biggen
 biggened
-bruja
+bruja 1
 baccharoid
 barbarous
 boastingly
