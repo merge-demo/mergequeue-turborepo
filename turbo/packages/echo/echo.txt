@@ -10799,7 +10799,7 @@ eunuchism
 endoprocta
 euodic
 entrepots
-euonymy
+euonymy 1
 epilogues
 exochorda
 exsibilate
