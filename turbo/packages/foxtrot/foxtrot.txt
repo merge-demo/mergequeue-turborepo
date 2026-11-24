@@ -7198,7 +7198,7 @@ flanderkin
 fb
 fecial 2
 flashback 1
-famishing
+famishing 1
 fiorded 1
 flumed
 footsy
