@@ -4849,7 +4849,7 @@ gauffred 1
 gymnotoka
 globularity
 guest
-greensand
+greensand 1
 grudge 1
 glaizie
 geologies
