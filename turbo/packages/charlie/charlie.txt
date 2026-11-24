@@ -23781,7 +23781,7 @@ chapel
 convocation
 cacesthesia
 curlicued
-contrariwise
+contrariwise 1
 contrarotation
 conjunctival 1
 crofts 1
