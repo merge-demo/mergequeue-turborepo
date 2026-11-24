@@ -11756,7 +11756,7 @@ forstraught
 flipped
 fertilitate 1
 fianna
-fullhearted
+fullhearted 1
 fellowred
 femalist
 fulminatory
