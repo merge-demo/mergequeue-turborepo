@@ -3235,7 +3235,7 @@ extroversively 1
 eludible 3
 enswathes 1
 elul
-epidemic
+epidemic 1
 enclitical
 encephalotomy
 eyesore
