@@ -1040,7 +1040,7 @@ etchareottine
 excisable
 eyeless 1
 entreasure
-endoskeleton
+endoskeleton 1
 eqpt
 edgar
 edgeboned
@@ -7560,7 +7560,7 @@ equalling
 electrocoating
 extemporal 1
 epichondrosis
-epichordal
+epichordal 1
 etiologically
 erosely
 enmarbling
