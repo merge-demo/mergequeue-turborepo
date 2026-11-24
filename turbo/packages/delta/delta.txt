@@ -12426,7 +12426,7 @@ decerned 1
 deficient
 desulfurate
 discontinue
-dislocable
+dislocable 1
 diastematic
 dishrags 1
 dishtowels 2
