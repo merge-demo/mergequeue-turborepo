@@ -2279,7 +2279,7 @@ encased 2
 egest
 ester
 equality
-enleagued
+enleagued 1
 europasian 1
 enaliornis
 etnas
