@@ -19745,7 +19745,7 @@ combos
 coeno
 collodiotype
 countervengeance
-communicatory
+communicatory 1
 combure
 comburent
 comburgess
