@@ -5766,7 +5766,7 @@ bloomery
 blankite
 budge 2
 bencite 1
-believingly
+believingly 1
 brerd
 burials
 bodhi 1
