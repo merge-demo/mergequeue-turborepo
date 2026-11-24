@@ -4935,7 +4935,7 @@ delustered
 diplopy
 duellers
 drouked
-demure
+demure 1
 diplographical
 dressmakership
 disnest
