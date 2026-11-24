@@ -10296,7 +10296,7 @@ expecters
 ethmopalatal
 ectases
 epiphyllous
-ensignment
+ensignment 1
 ethnicist
 ethyne 2
 elingued 1
