@@ -11364,7 +11364,7 @@ daidling
 disciplinarians
 deponing
 deemster
-disquieten
+disquieten 1
 dollie
 disobey
 disciplinarily 1
