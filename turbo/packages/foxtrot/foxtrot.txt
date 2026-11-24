@@ -820,7 +820,7 @@ frisk
 fowl
 frizado
 flatulently
-frowsy 1
+frowsy 2
 flypast
 flusher
 florilege 3
@@ -7199,7 +7199,7 @@ fb
 fecial 2
 flashback 1
 famishing
-fiorded
+fiorded 1
 flumed
 footsy
 foiled
