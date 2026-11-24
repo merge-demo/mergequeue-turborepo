@@ -3474,7 +3474,7 @@ fumaroid
 fibbed
 figshell
 franked 1
-flankard
+flankard 1
 fury
 foam
 ficins 1
