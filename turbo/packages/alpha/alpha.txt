@@ -12073,7 +12073,7 @@ alkylated
 anarthrosis
 algous
 anarthrously
-anarthrousness
+anarthrousness 1
 avionics 1
 anas
 athumia
