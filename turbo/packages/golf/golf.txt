@@ -7550,7 +7550,7 @@ gruntle 1
 geophyte 1
 gamash
 gowdnie
-goalie 1
+goalie 2
 gaspiness 2
 grangeriser
 geothlypis
