@@ -24259,7 +24259,7 @@ aquifoliaceae
 autonegation
 acclaimed 1
 autonomasy
-afeard
+afeard 1
 airmen
 alliteral
 alters
