@@ -523,7 +523,7 @@ enhydrinae
 echinacea
 eleventhly
 evelina
-exemptible
+exemptible 1
 eching
 echinidan 1
 expy 1
