@@ -10414,7 +10414,7 @@ emoters 1
 echinate 1
 ethrogim
 ehatisaht
-etymic
+etymic 1
 ergosterin
 electroreduction 1
 endomyces
