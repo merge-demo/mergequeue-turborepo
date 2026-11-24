@@ -5843,7 +5843,7 @@ ankylosaur
 agendum
 amovability 1
 agene
-anticonscription
+anticonscription 1
 aerogram
 ageneses 1
 ancestorial
