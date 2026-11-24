@@ -8598,7 +8598,7 @@ forsakenness
 fermentarian
 forsythia
 flamberge
-freightless
+freightless 1
 filterability
 fourposters 1
 futharks 1
