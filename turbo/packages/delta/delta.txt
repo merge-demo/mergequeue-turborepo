@@ -16648,7 +16648,7 @@ dialectologic 1
 drails
 driech
 derangements 3
-distich
+distich 1
 drainage
 drained
 drainer
