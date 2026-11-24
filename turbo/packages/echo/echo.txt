@@ -5982,7 +5982,7 @@ ectomere
 eudromias 1
 equivaliant
 elevatingly
-eurypharyngidae
+eurypharyngidae 1
 eudemon
 equiexcellency
 expanding 1
