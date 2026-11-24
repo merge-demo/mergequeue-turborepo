@@ -7519,7 +7519,7 @@ albuminising
 albuminize
 arrested 1
 anchovies 1
-alt
+alt 1
 adaptor
 albuminofibrin
 albuminoid
@@ -13608,7 +13608,7 @@ apostasis 1
 ambuscading 1
 annulosa
 antings
-annuls
+annuls 1
 adorableness 1
 actinopterygious
 annunciade
