@@ -9767,7 +9767,7 @@ essentially
 exigencies
 expeditation
 eightballs
-earthquave
+earthquave 1
 eumelanin 2
 enneagon
 empoisoner
@@ -10799,7 +10799,7 @@ eunuchism
 endoprocta
 euodic
 entrepots
-euonymy
+euonymy 1
 epilogues
 exochorda
 exsibilate
