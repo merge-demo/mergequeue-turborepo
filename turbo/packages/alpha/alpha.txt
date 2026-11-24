@@ -286,7 +286,7 @@ aucaner 1
 arsines
 antimerina
 anolian
-appurtenances
+appurtenances 1
 accuracy
 autotropism
 aeroacoustic
