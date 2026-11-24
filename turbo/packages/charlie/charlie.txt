@@ -8912,7 +8912,7 @@ catechumenical
 catholicizing 1
 chareter
 charette
-censers
+censers 1
 chemisms
 chargable
 combmaker
@@ -12804,7 +12804,7 @@ chuppah
 chickenheartedly
 chuprassy 1
 canasta
-calorite
+calorite 1
 commonplacer
 camellias
 church 1
