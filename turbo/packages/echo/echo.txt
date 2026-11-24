@@ -8909,7 +8909,7 @@ entelam
 experimentally 1
 ergoted
 explosible
-encephalomalaxis 1
+encephalomalaxis 2
 ergotism 1
 ergotizing
 erichthoid
