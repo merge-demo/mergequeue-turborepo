@@ -6273,7 +6273,7 @@ dermis
 drawbores
 dendrologist
 diaplasis
-dejectory 1
+dejectory 2
 dermobranchiate
 dangles
 diagrammatical
