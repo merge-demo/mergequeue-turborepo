@@ -6318,7 +6318,7 @@ fennish
 fluorane
 foremost
 feuded
-foreacquaint
+foreacquaint 1
 francois
 florentium
 fanfish 2
