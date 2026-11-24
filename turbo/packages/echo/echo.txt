@@ -1891,7 +1891,7 @@ eurythmy 2
 erasability
 equiseta
 extrovert
-errata
+errata 1
 eximiousness
 exacta
 effectively 1
