@@ -11962,7 +11962,7 @@ epithecate 1
 exactress
 easters
 enarthroses
-exarchateship
+exarchateship 1
 enteromesenteric
 epistemophilic
 epitaphist
