@@ -6025,7 +6025,7 @@ gairfowl
 grinningly 1
 grane
 gro
-gnathopodite
+gnathopodite 1
 gasolenes
 gneissic 1
 gasifying
