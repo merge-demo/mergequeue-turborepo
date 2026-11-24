@@ -10464,7 +10464,7 @@ dendrodra
 disordeine
 diphthonging
 diphthongisation 1
-deisticalness 1
+deisticalness 2
 dipterad
 devocalization
 dozent
