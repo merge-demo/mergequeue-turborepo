@@ -1719,7 +1719,7 @@ employ
 epistilbite 2
 ejective
 epileptic
-evang
+evang 1
 eyeground 1
 epornitically
 encephaloid 2
