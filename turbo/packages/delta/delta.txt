@@ -12038,7 +12038,7 @@ disensure
 disentail
 deprecatively
 disentangle 1
-dentine
+dentine 1
 disentanglement
 daymare
 drudge
