@@ -6247,7 +6247,7 @@ electrofishing
 extraepiphyseal 1
 emotionist
 ecstatica
-enrapt
+enrapt 1
 eurygaean
 enrapted
 enrapts
