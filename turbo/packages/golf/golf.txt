@@ -5852,7 +5852,7 @@ gluttonize 1
 grown
 gomerels
 gunneries
-gyroceras
+gyroceras 1
 glucosidically 1
 gleave
 gynecide 1
