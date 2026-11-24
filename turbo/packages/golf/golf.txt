@@ -2188,7 +2188,7 @@ galea
 geldability
 goniostat
 goldfinches 1
-galliards
+galliards 1
 glistening 1
 glisters
 gebbie 1
