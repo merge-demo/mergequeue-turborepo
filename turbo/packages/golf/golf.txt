@@ -7298,7 +7298,7 @@ gordolobo
 gaseity
 grizzles
 gospels
-greatcoats 1
+greatcoats 2
 gildship 1
 gossard
 greyflies
