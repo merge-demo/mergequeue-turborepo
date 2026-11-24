@@ -13233,7 +13233,7 @@ explanting 1
 eaglehawk
 explat 1
 empurples
-exertive
+exertive 1
 ety
 endemical
 ethize 1
