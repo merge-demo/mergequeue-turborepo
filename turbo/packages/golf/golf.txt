@@ -3173,7 +3173,7 @@ grangerism 1
 graip
 grannam
 gaddis 1
-glossiness
+glossiness 1
 governmentalist 2
 glottological
 geotilla
