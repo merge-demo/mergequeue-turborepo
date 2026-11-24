@@ -5123,7 +5123,7 @@ fregit
 farmhousey
 fraile
 flashings 1
-fulgently
+fulgently 1
 flashlight
 frizzly
 fellas 1
