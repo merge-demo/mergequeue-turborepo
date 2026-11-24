@@ -15394,7 +15394,7 @@ antilocapra 1
 appetitost
 antilochus
 apaches
-afterschool
+afterschool 1
 angiocholitis
 asomatophyte
 accentor
