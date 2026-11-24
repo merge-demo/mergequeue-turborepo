@@ -749,7 +749,7 @@ gollywog 2
 gonoplasm
 gerbillinae
 gar 1
-goniometric
+goniometric 1
 gasted
 galvanology
 geomechanics
