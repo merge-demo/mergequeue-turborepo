@@ -9319,7 +9319,7 @@ gimmick
 gonocoel
 gravestones 1
 groop
-gallerygoer 1
+gallerygoer 2
 gluiest 1
 glamorize 1
 gestonie 2
