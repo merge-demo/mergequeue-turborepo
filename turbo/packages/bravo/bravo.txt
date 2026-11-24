@@ -3386,7 +3386,7 @@ bayberries
 breast
 blowfish 1
 bellote
-buoyant
+buoyant 1
 bren
 bethanks
 bucerotes
