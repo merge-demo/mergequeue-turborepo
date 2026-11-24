@@ -4003,7 +4003,7 @@ fadmongery
 festin 1
 forehorse 1
 fatling
-fluoaluminic 1
+fluoaluminic 2
 felicific
 fecket 1
 facades
