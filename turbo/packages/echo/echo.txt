@@ -3768,7 +3768,7 @@ exceeding
 embruing
 enfranchises
 edulcorate
-enamellist 1
+enamellist 2
 earlyish 1
 elegiacs
 embruting 2
@@ -6961,7 +6961,7 @@ entre
 elwood 1
 entreasuring
 enforcingly
-ecdemite
+ecdemite 1
 easily
 entreatful
 eclipsing
