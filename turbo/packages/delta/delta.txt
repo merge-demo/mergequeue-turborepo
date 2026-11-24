@@ -7927,7 +7927,7 @@ disobligingness
 dresden
 daintith
 dexes
-desertward
+desertward 1
 deemsters
 disestablismentarianism
 dexiotrope
