@@ -2919,7 +2919,7 @@ cantare
 counterseal
 concaulescence
 chrysoidine
-cantatas
+cantatas 1
 cantation
 cantatrice
 coverts 1
