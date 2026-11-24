@@ -3024,7 +3024,7 @@ deescalate 2
 dyehouse 1
 deeses 2
 deepfrozen
-deemphasize 1
+deemphasize 2
 diester
 downward
 deewan 1
