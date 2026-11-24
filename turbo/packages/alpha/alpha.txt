@@ -18081,7 +18081,7 @@ almsgiver
 arace
 apterygota
 arcanist 1
-abstricts 1
+abstricts 2
 apteryla
 adjure
 alternance
