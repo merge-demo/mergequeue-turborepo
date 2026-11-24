@@ -4544,7 +4544,7 @@ flotations
 foolable 1
 faciolingual
 fourth
-feudists
+feudists 1
 frit
 fanmaking
 futtocks
