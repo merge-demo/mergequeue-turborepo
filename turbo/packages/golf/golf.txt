@@ -3702,7 +3702,7 @@ galvanoplastics 1
 granaries
 guttur
 guayacan
-graduations
+graduations 1
 gurdy
 ghuz
 glabellae
