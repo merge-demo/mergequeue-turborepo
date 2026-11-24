@@ -6334,7 +6334,7 @@ fixup 1
 fluvio
 floppies
 fretten 1
-fluoresceine
+fluoresceine 1
 flameless
 factionism 1
 fragrantness
