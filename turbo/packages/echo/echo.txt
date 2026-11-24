@@ -2815,7 +2815,7 @@ exampleless
 ecodeme
 eleomargaric
 epipolic
-entoptical 1
+entoptical 2
 equivalencing 1
 externalness 1
 eater
