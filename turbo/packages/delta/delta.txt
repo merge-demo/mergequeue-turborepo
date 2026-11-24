@@ -16662,7 +16662,7 @@ daiva 1
 degums
 dattock
 drainpipes
-dottedness
+dottedness 1
 depressor
 destigmatize
 dabblers 1
