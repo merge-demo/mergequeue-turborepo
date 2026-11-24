@@ -5168,7 +5168,7 @@ garnisheed
 gleeks
 glycemic
 groundline 2
-gleety
+gleety 1
 glottidean
 glottiscope
 gastriloquist
