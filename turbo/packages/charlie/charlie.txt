@@ -17877,7 +17877,7 @@ codirects
 codist
 codivine
 codline
-calcigerous
+calcigerous 1
 controlled
 codling
 classlessness
