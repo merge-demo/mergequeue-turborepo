@@ -13361,7 +13361,7 @@ absolvitory 1
 abrading
 antecedent 1
 anisostaminous
-anisostichous
+anisostichous 1
 anisostomous 1
 amlacra
 amphitheatral 1
