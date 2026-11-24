@@ -12421,7 +12421,7 @@ extracanonical
 exhibitions
 euchlorhydria 1
 eyeletted
-envisionment
+envisionment 1
 encomiums
 epistyle
 erythrocytometry
