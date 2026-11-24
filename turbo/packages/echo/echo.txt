@@ -14181,7 +14181,7 @@ eviction
 exultingly 1
 eisteddfod
 empyromancy
-eebree
+eebree 1
 exesion 1
 excogitative
 ewound
