@@ -23628,7 +23628,7 @@ contortions
 contorts 1
 commos
 contour
-clarichord
+clarichord 1
 contoured
 copestone
 cleping
