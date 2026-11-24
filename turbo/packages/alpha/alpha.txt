@@ -13608,7 +13608,7 @@ apostasis 1
 ambuscading 1
 annulosa
 antings
-annuls
+annuls 1
 adorableness 1
 actinopterygious
 annunciade
