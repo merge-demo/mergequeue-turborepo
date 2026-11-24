@@ -22832,7 +22832,7 @@ atmosphereful
 anatomization
 apachite 1
 agamic
-apanaging
+apanaging 1
 aedilitian 1
 atmospherically
 atmospherics
