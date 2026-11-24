@@ -879,7 +879,7 @@ cs 1
 cayuca 1
 commendador
 cosmothetic
-cayuga
+cayuga 1
 cayugan
 cayugas
 cayuse
