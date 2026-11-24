@@ -3390,7 +3390,7 @@ cappuccino 1
 chandu
 calycozoan
 credos
-crackiness
+crackiness 1
 cauld
 caprate
 coagulatory
