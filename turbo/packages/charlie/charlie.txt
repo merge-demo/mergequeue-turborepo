@@ -8912,7 +8912,7 @@ catechumenical
 catholicizing 1
 chareter
 charette
-censers
+censers 1
 chemisms
 chargable
 combmaker
