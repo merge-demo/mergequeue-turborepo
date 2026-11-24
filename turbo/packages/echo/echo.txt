@@ -5237,7 +5237,7 @@ endophyllum
 exospherical
 embarcadero
 edginesses
-edificative
+edificative 1
 endleaves 1
 euchroic
 euhemerising
