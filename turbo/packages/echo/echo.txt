@@ -11962,7 +11962,7 @@ epithecate 1
 exactress
 easters
 enarthroses
-exarchateship
+exarchateship 1
 enteromesenteric
 epistemophilic
 epitaphist
@@ -12707,7 +12707,7 @@ estrogenically
 etoffe
 exonian
 exonerator
-eudiometer
+eudiometer 1
 elmer
 everbearer
 era
