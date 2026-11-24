@@ -18102,7 +18102,7 @@ dumby
 dumbing
 duplon
 deictically
-defatting
+defatting 1
 dumbstricken
 demisemiquaver 1
 demagnetize 1
