@@ -2408,7 +2408,7 @@ besplash
 bardcraft
 beleve
 buckhorn
-brigandishly 1
+brigandishly 2
 bobtails
 bikinis
 bulliest
