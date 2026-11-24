@@ -10152,7 +10152,7 @@ expressionful 1
 equivalences 1
 elope
 extraorbital
-epicrates
+epicrates 1
 elaborators
 exsomatic
 edgier
