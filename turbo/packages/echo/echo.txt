@@ -5322,7 +5322,7 @@ endoskeletons 1
 endosmic 1
 embaphium
 emendicate
-epencephalic
+epencephalic 1
 enjewel
 emim 1
 everglades
