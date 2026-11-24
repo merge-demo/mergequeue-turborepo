@@ -6559,7 +6559,7 @@ flapperism
 forestaffs
 flirtier
 forecondemn
-fogey
+fogey 1
 foulbrood 1
 focalizes
 forwrap
