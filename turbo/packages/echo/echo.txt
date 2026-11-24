@@ -12871,7 +12871,7 @@ enantioses
 ensile
 exotics 1
 exotoxic
-exacerbate
+exacerbate 1
 enlarger
 evaporation
 etherialize
