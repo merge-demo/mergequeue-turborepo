@@ -511,7 +511,7 @@ figgle 1
 fassaite
 feodum 1
 fishbone
-fakirs
+fakirs 1
 flat
 flavone
 firerooms
