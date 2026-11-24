@@ -1165,7 +1165,7 @@ farthingdeal 1
 funerally
 frays
 fascinator
-ferous
+ferous 1
 flowerless
 flouters
 fantasied
