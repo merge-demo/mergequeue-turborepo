@@ -6577,7 +6577,7 @@ fizzers 1
 friggle
 foveolar
 fractocumulus
-flauntily
+flauntily 1
 fireweeds
 fairgrass 1
 fruitery
