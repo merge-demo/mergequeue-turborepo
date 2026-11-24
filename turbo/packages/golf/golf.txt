@@ -3195,7 +3195,7 @@ gular
 glumal
 gaudiness
 golilla 2
-greatheartedness
+greatheartedness 1
 globosely
 gepidae 1
 gremlin 1
