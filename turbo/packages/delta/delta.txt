@@ -6981,7 +6981,7 @@ desiccant 1
 dyssynergy
 deformed
 desmocytoma
-despotat 1
+despotat 2
 depose
 demographer
 decede 1
