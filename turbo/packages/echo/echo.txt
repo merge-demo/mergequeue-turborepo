@@ -2478,7 +2478,7 @@ eurythmical
 entrecote
 enstatite
 electrogasdynamics 1
-electroharmonic
+electroharmonic 1
 electrohemostasis
 endearing 2
 ebony
