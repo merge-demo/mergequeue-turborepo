@@ -5399,7 +5399,7 @@ girsle
 gonfanon 1
 gallah 1
 gluing
-gladful
+gladful 1
 goethite
 gentlest
 grill
