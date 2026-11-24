@@ -5416,7 +5416,7 @@ floatless
 foisonless 2
 fabian
 fiftypenny 1
-forefigure
+forefigure 1
 furor
 flurt
 fittingness 1
