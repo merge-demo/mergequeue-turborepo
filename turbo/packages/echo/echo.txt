@@ -8598,7 +8598,7 @@ endocarp 1
 estrogen
 equidistribution
 euphemiously
-esu
+esu 1
 exect
 embrasuring
 eutaxic
