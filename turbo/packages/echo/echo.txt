@@ -6155,7 +6155,7 @@ etymologizable 2
 enigua
 elephantiac
 enneagons
-enthrallment
+enthrallment 1
 electropoion
 ectoparasitic
 endotoxin 1
