@@ -16298,7 +16298,7 @@ accombination
 arborvitae
 armarium
 accusive
-antitragicus
+antitragicus 1
 aricine 1
 alphabetizing
 assuagement
