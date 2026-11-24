@@ -11102,7 +11102,7 @@ bails 1
 between 1
 bloats 1
 brachygnathous
-byelorussian 1
+byelorussian 2
 berlin
 botonnee
 bicentrically
