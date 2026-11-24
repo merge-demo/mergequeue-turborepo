@@ -7175,7 +7175,7 @@ electrons 1
 ecumenic
 elvishly
 enneasyllabic
-epoxying
+epoxying 1
 etheostoma 1
 embarrassed
 equalizer
