@@ -3371,7 +3371,7 @@ gothicist
 gerontic 1
 generale
 graphometry
-glomi
+glomi 1
 gondolier
 gnatling 1
 gorkun
