@@ -6551,7 +6551,7 @@ episcopant
 excusive
 eccritic 1
 embattled
-epimedium
+epimedium 1
 enorthotrope
 electricity 1
 emigrates
