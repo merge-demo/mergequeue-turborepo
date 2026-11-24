@@ -1325,7 +1325,7 @@ fulvous
 flear
 formless
 flirtation
-fluoridised
+fluoridised 1
 feinted
 flookan 1
 flout 1
