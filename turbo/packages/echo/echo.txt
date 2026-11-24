@@ -10207,7 +10207,7 @@ erroneous
 emptores
 ethicoaesthetic 1
 ethicopolitical 1
-emoter
+emoter 1
 ethicoreligious
 erased
 elytriform

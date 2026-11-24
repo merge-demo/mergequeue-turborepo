@@ -11407,7 +11407,7 @@ deadnesses
 dispauper
 designlessness
 derater
-dollar
+dollar 1
 deoccidentalize
 documentation 1
 diallages
