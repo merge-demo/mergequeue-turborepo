@@ -2536,7 +2536,7 @@ amicable 1
 artisan
 abeyant
 aconelline
-assentatory
+assentatory 1
 aconine
 afdecho
 aconital
