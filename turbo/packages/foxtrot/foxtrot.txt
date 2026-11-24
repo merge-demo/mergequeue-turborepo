@@ -10923,7 +10923,7 @@ fruitist 1
 forgeful 1
 footgrip 2
 fi
-frighten
+frighten 1
 foilable
 federacy
 fiscalizing
