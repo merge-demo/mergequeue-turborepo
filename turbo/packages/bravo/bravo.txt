@@ -8492,7 +8492,7 @@ bagirmi 1
 bundu
 bilby
 banqueteering
-begirdling 1
+begirdling 2
 baignet
 bilbo
 bandsawed
