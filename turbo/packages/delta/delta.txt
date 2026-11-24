@@ -5985,7 +5985,7 @@ deselecting 2
 demolitionary
 deputes 1
 damiana
-dactylar
+dactylar 1
 disacknowledgement 1
 doughbelly
 dharnas
