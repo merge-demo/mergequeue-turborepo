@@ -1639,7 +1639,7 @@ electrotyper 1
 env
 entrez
 eucarida 1
-eyah
+eyah 1
 embliss
 equating
 encyclopedism
