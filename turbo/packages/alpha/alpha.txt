@@ -15394,7 +15394,7 @@ antilocapra 1
 appetitost
 antilochus
 apaches
-afterschool
+afterschool 1
 angiocholitis
 asomatophyte
 accentor
@@ -20265,7 +20265,7 @@ accumber
 antinomian 1
 alluvio 1
 anauxite
-adjacence
+adjacence 1
 avicide
 androecium
 arrivistes
