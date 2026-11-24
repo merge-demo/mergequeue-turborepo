@@ -4928,7 +4928,7 @@ entropy
 exencephalic 1
 ectocoelic
 eyelight
-emporetic 2
+emporetic 3
 emulsifiers
 earnestful
 eyries 1
