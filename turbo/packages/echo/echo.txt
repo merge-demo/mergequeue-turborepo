@@ -10065,7 +10065,7 @@ encumbered 1
 export
 envenoming
 enchainment
-exoneretur
+exoneretur 1
 ebonies
 encephalographically 1
 editorially 1
@@ -10414,7 +10414,7 @@ emoters 1
 echinate 1
 ethrogim
 ehatisaht
-etymic
+etymic 1
 ergosterin
 electroreduction 1
 endomyces
