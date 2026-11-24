@@ -7159,7 +7159,7 @@ farer
 frockless 1
 frisesomorum
 fortnight 1
-falseheartedly
+falseheartedly 1
 fustily
 fibrocarcinoma
 frolicks 1
