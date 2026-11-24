@@ -10131,7 +10131,7 @@ epagomenic
 elegante 1
 exenterated
 eboe
-epilation
+epilation 1
 embaying
 epinastic
 enunciating 2
