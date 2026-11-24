@@ -6959,7 +6959,7 @@ guarantor 1
 greengrocers
 grumpiest
 gyrovague
-griefless
+griefless 1
 guldengroschen 1
 gestalts 1
 geir 1

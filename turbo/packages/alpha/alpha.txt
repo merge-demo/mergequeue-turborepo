@@ -4866,7 +4866,7 @@ abnormous
 afrogaea
 ambitionist
 allochirally
-astonisher
+astonisher 1
 anthroposophist 1
 amaranthine
 actinomyces
