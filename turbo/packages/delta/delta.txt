@@ -3342,7 +3342,7 @@ dichotomic 1
 disinhuming
 darer
 deflecting
-deflectionize
+deflectionize 1
 dampnesses 1
 deforesting 1
 daphnaceae
