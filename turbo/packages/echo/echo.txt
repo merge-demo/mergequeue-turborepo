@@ -12707,7 +12707,7 @@ estrogenically
 etoffe
 exonian
 exonerator
-eudiometer
+eudiometer 1
 elmer
 everbearer
 era
@@ -13665,7 +13665,7 @@ enskying
 exorcisation 1
 earners
 evirate 1
-elevon
+elevon 1
 elizabethanism
 exteriorised 1
 ecrus
