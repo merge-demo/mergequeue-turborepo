@@ -11881,7 +11881,7 @@ disdenominationalize
 dawdle
 dishonorableness
 disdiapason
-delegatus
+delegatus 1
 distinguished
 dalliance
 dedifferentiated
