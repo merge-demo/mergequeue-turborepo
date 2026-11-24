@@ -11617,7 +11617,7 @@ formulizer 1
 fragilely 1
 fermata 1
 fustics 1
-fiz
+fiz 1
 feinschmecker
 fussbudget
 forint 1
