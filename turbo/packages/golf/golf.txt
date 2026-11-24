@@ -4879,7 +4879,7 @@ ghosting
 gradational
 grasping
 gynecocentric
-gapingly
+gapingly 1
 get 2
 gent
 galangal 1
