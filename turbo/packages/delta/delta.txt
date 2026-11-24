@@ -1741,7 +1741,7 @@ deathsman
 democratian 1
 discrepating
 dumble
-derogation
+derogation 1
 disaccord
 deathtime
 diverticular
