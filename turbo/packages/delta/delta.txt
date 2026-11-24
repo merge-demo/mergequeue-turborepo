@@ -3871,7 +3871,7 @@ dogfoot
 dekes
 derivationally 2
 drisheen 1
-douser
+douser 1
 duopoly
 disleal
 diaphemetric
