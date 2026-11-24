@@ -8558,7 +8558,7 @@ divertedly
 digitule
 denegation 1
 diaphonies
-disputably
+disputably 1
 dasht
 diaphoreses 1
 diaphoretical
