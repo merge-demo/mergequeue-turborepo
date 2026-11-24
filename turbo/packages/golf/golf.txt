@@ -182,7 +182,7 @@ gooseliver
 garoted
 glamour
 greyhen
-groggily 1
+groggily 2
 goliathize 1
 goniometry
 gluteoperineal
