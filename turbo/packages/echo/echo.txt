@@ -8908,7 +8908,7 @@ eddie
 entelam
 experimentally 1
 ergoted
-explosible
+explosible 1
 encephalomalaxis 2
 ergotism 1
 ergotizing
