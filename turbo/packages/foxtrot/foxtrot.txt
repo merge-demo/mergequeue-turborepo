@@ -601,7 +601,7 @@ forpet
 fossilisation
 forints 1
 feasted
-fourchette
+fourchette 1
 franklinism 1
 featherdom 1
 finders
