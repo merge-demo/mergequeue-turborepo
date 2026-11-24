@@ -5004,7 +5004,7 @@ floerkea
 familiarly 1
 fissive
 filmcard 2
-flaneur
+flaneur 1
 frescoes 1
 foremartyr
 fiddlewood
