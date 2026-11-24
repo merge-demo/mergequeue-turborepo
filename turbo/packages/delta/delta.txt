@@ -12583,7 +12583,7 @@ disintegrators
 disgeneric 1
 dextrer
 disintegrity
-demurrages
+demurrages 1
 diagenetic
 disinterest
 disinterestedly
