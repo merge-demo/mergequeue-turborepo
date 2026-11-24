@@ -20294,7 +20294,7 @@ adsignification
 arroyos
 arroyuelo 1
 arrosive 1
-aleuritic
+aleuritic 1
 antistreptococcal 1
 allowances
 acquophonia
