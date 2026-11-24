@@ -1881,7 +1881,7 @@ encomiast
 epimyocardium
 elapsed
 endamage 1
-everwho
+everwho 1
 eightball 1
 eclat
 earthstar
