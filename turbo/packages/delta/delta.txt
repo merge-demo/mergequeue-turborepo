@@ -12048,7 +12048,7 @@ divinises
 daguerreotypy
 dysenterical
 disenthral
-dehisces
+dehisces 1
 disgorging
 disenthrone
 denizened

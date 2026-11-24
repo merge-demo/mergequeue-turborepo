@@ -2302,7 +2302,7 @@ fixities
 figgier
 fixatifs
 flagitious 1
-foehnlike 1
+foehnlike 2
 felis
 feminizes 1
 friday
