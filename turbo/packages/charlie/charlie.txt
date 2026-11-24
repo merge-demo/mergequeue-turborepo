@@ -12804,7 +12804,7 @@ chuppah
 chickenheartedly
 chuprassy 1
 canasta
-calorite
+calorite 1
 commonplacer
 camellias
 church 1
