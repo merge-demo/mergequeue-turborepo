@@ -24497,7 +24497,7 @@ antimoniated
 autoxidation
 autoxidizability
 autoxidizable 1
-autoxidize
+autoxidize 1
 accloy
 antepenultimate
 administrated

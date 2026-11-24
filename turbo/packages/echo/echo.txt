@@ -413,7 +413,7 @@ elfish
 enamorato 2
 exposits
 exacerbation
-ebullioscopic
+ebullioscopic 1
 extendibility
 echappee
 ethenic
