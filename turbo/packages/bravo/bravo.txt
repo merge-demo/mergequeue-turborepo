@@ -8584,7 +8584,7 @@ buncher 1
 batrachophidia
 bilks
 bushveld
-bridelope
+bridelope 1
 burro 1
 brachiolarian
 bagtikan
