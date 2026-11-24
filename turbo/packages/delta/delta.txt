@@ -2303,7 +2303,7 @@ diethylstilbestrol
 demidolmen 1
 downwash
 diazoaminobenzene 1
-deceptively
+deceptively 1
 degentilize
 dermatologic 1
 disloign
