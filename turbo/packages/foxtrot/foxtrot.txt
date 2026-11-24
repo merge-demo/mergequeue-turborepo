@@ -11295,7 +11295,7 @@ fluellen 2
 furbish 1
 functionalizing
 firstborn
-flaxwife
+flaxwife 1
 frigorify
 femmes
 fogy 1
