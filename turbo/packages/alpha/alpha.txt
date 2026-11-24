@@ -24191,7 +24191,7 @@ anhydraemia
 autolyzate
 autoloader
 autology
-aporosa
+aporosa 1
 autological
 antiatheist
 alalite

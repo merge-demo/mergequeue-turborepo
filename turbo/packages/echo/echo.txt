@@ -8131,7 +8131,7 @@ elutriation
 ebenales 1
 embowelment
 excursed
-epithermal
+epithermal 1
 enfirm
 eliminative 1
 elmy
