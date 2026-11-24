@@ -10303,7 +10303,7 @@ galliard
 galactosidase 2
 girasol
 gault 1
-getsul 1
+getsul 2
 gullygut
 gonorrheal
 gilling 1
