@@ -7753,7 +7753,7 @@ faint
 forgathering
 finning
 fluorescein
-ferrotyped
+ferrotyped 1
 frostbite
 flocculently 1
 fatelike
