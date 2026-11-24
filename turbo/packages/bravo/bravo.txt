@@ -17256,7 +17256,7 @@ blepharolithiasis
 bumblepuppy
 bedriveled
 bewailable
-barriness
+barriness 1
 bearbind
 blamably
 bawlers
