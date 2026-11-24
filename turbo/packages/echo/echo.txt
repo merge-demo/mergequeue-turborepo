@@ -13791,7 +13791,7 @@ eskimos 1
 endospermic
 extorters
 embroiling
-endopterygotism
+endopterygotism 1
 earthliness
 euchite
 emirship

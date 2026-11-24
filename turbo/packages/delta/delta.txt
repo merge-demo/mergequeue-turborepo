@@ -5917,7 +5917,7 @@ dilettantist
 discommoded
 diaschistic
 dispraise
-droopy
+droopy 1
 devitation
 domajigger
 diamagnetize
