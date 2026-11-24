@@ -10833,7 +10833,7 @@ elaeoblastic 1
 enchase
 eisteddfodau
 euphotic 1
-entailable
+entailable 1
 eradicatory
 equitability
 eructation 2
