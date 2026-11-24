@@ -10740,7 +10740,7 @@ forecount
 forbore 1
 frumpishly
 foreyear 1
-fructified
+fructified 1
 fascistize
 freelancing 1
 filagree
