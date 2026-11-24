@@ -11126,7 +11126,7 @@ farmscape
 firecrackers
 fondnesses 1
 factionate
-fundatrices
+fundatrices 1
 frizzed
 frostbit
 fearlessness
