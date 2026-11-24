@@ -1753,7 +1753,7 @@ groupoids
 gastropneumonic
 governmentish
 gootee 1
-gingery
+gingery 1
 guberla 1
 gandharva
 gynopara
@@ -10060,7 +10060,7 @@ gravedigger 1
 gelofer
 gaelicization
 gimmal 1
-gyneconitis
+gyneconitis 1
 grabens
 gumshoed
 gonomere
