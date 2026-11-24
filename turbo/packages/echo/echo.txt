@@ -6418,7 +6418,7 @@ exceptioner
 exarchy
 exhalants 2
 eastering 1
-exsanguinate
+exsanguinate 1
 egbert
 eastern 1
 equatorial 2
