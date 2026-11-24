@@ -14409,7 +14409,7 @@ demicadence
 divans
 debatably
 distributivity 1
-desectionalize 1
+desectionalize 2
 dysentery
 dependents
 dictamnus
