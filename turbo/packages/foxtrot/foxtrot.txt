@@ -9901,7 +9901,7 @@ freckly
 ferreters
 fancier
 fructoside
-fornices
+fornices 1
 frogskins
 forepeaks
 fines
