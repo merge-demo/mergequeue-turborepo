@@ -11080,7 +11080,7 @@ adelphophagy
 amorphism
 agednesses 1
 amorphophallus
-armorician
+armorician 1
 abnormalised
 antisocially
 amorphously
