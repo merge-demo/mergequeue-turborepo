@@ -15349,7 +15349,7 @@ araneology
 antikings
 arachnoidal
 agenes
-anatherum
+anatherum 1
 akalimba
 anticonstitution
 anemoses 1
