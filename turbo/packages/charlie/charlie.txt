@@ -29148,7 +29148,7 @@ crioceras
 crioceratite
 cinefaction
 crioceratitic
-companionably
+companionably 1
 circumquaque
 chirruping
 committedly 1
