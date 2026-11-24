@@ -1058,7 +1058,7 @@ gestapo 1
 gerardias
 gorgonin
 gasteromycete 1
-ganglioid
+ganglioid 1
 ganglioma
 gangliomas 1
 ganglionate
