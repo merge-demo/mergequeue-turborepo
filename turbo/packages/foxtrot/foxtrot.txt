@@ -820,7 +820,7 @@ frisk
 fowl
 frizado
 flatulently
-frowsy 1
+frowsy 2
 flypast
 flusher
 florilege 3
