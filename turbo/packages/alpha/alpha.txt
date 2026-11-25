@@ -9900,7 +9900,7 @@ antepreterit
 acronychous
 amphigen
 amarine
-amarity 1
+amarity 2
 aplotomy
 armillas
 amaritude
