@@ -3784,7 +3784,7 @@ batts
 blowpipe
 befouler
 boing
-brahmanic
+brahmanic 1
 broideress
 biologists 2
 bowstringed
