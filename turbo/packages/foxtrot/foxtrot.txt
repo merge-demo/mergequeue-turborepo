@@ -9630,7 +9630,7 @@ freyalite
 frondent 2
 fitchered
 freibergite
-fulgorous
+fulgorous 1
 fruit
 flipflop
 foretoken
