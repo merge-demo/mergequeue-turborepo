@@ -9044,7 +9044,7 @@ bouleverse
 begats 1
 beneficium
 boroughmongery
-bitting
+bitting 1
 biologics
 bakshishing
 busybodyish
