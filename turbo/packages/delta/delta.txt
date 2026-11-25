@@ -13735,7 +13735,7 @@ divalent
 dejecta
 demulsion
 delit
-directoire
+directoire 1
 defluous 2
 deadlihead
 decoct 1
