@@ -8469,7 +8469,7 @@ epsilons
 extravasate 1
 expressionistic
 eurycerous
-entryways
+entryways 1
 empathy
 entrants
 emda
