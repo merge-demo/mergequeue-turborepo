@@ -3605,7 +3605,7 @@ gauntleted
 gillnetting 3
 ghostdom
 gardenin
-gipsylike 1
+gipsylike 2
 gaffkya 3
 grisliness 1
 ghettoizing
