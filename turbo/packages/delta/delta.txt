@@ -1434,7 +1434,7 @@ disoccident
 decenniums 1
 dearsenicize
 deprest
-disparagingly
+disparagingly 1
 deported
 dawnward
 dud 1
