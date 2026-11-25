@@ -13213,7 +13213,7 @@ expiringly 1
 empressement 1
 embroglios
 ephraimite
-embosser
+embosser 1
 ephydra
 expiscation
 ekphorias
