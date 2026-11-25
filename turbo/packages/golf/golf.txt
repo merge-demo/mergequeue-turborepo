@@ -3575,7 +3575,7 @@ ghatwazi
 goadster
 grumblesome 1
 ghauts 1
-grotian 2
+grotian 3
 galilei 1
 genarcha 1
 grubber 2
@@ -10075,7 +10075,7 @@ griseofulvin 1
 guesdism 2
 groomish
 gigman
-glore
+glore 1
 gudgeon 2
 grobianism
 graecize
