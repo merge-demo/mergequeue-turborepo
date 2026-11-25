@@ -19692,7 +19692,7 @@ aggregates
 aristocraticism
 araroba
 arterially
-affabrous
+affabrous 1
 amanuensis
 aristocratism
 aristocrats
