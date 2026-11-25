@@ -10773,7 +10773,7 @@ eulogiums
 edgemaker
 endogenicity
 elephantous 1
-elaborating
+elaborating 1
 emoting 1
 euskera
 esterases
@@ -11193,7 +11193,7 @@ endoplastular
 eophyton 1
 ethiops
 enactment
-eradiated
+eradiated 1
 evangeliarium
 establishmentarian 1
 enalyron
