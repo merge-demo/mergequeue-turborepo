@@ -8307,7 +8307,7 @@ embroiler 1
 earthy 2
 evg
 excursional 1
-essonites
+essonites 1
 episthotonos
 endogamies
 enolized
