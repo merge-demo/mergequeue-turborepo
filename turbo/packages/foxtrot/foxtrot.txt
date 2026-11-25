@@ -259,7 +259,7 @@ furniment
 fermery 1
 frau
 fiduciary
-fellagha
+fellagha 1
 fluyts
 fusains
 favi 2
