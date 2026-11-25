@@ -11619,7 +11619,7 @@ anacathartic
 alation
 algazel
 alveolae
-alefnull
+alefnull 1
 abvolts 1
 albinoism 1
 anacephalize
