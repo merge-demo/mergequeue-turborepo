@@ -10292,7 +10292,7 @@ gibblegabble 1
 gastrulating
 guitarists 1
 grossularite
-galvanomagnet
+galvanomagnet 1
 gandhian
 gigantically 1
 gorges
