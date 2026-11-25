@@ -18197,7 +18197,7 @@ daniel
 dinucleotide
 dorsulum
 daughterhood 1
-diereses
+diereses 1
 duncical
 delamination
 donjons
