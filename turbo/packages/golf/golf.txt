@@ -1032,7 +1032,7 @@ gully
 geognostic
 ganger
 guesten 1
-genthite
+genthite 1
 germination 1
 geologer
 ginnle
