@@ -15450,7 +15450,7 @@ conga
 coapostate 2
 crocker
 confraternization 1
-cravenness
+cravenness 1
 claroes
 collegian
 claromontane
