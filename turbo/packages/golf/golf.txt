@@ -2342,7 +2342,7 @@ graviton
 gravamina
 gelatinizer
 gradates 1
-giornatate
+giornatate 1
 gadbee
 gavials 2
 guaiacols
