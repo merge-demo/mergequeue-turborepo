@@ -13127,7 +13127,7 @@ esocidae
 electrocystoscope
 ejuration
 erasers
-epidermically
+epidermically 1
 erymanthian
 euthyneurous 2
 evolved
