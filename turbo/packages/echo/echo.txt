@@ -1401,7 +1401,7 @@ emetins 1
 epidote 1
 exterous
 endowing
-erasions
+erasions 1
 ericoid
 entosterna
 excoct
