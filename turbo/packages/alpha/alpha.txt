@@ -11874,7 +11874,7 @@ antiaristocratic
 alypin
 analyzes
 analkalinity
-anallagmatic
+anallagmatic 1
 anallantoidean
 acclimature
 amitoses
