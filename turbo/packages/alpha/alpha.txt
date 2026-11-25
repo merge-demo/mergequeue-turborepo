@@ -24527,7 +24527,7 @@ abhor
 aerophile
 abstrude
 aglaos 1
-athwart 1
+athwart 2
 abbreviatable
 aceology
 auxiliaries
