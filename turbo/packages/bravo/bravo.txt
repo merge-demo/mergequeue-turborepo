@@ -13225,7 +13225,7 @@ bosjesman
 blazonry
 blushless
 boustrophedonic
-boskier
+boskier 1
 boasters 1
 bosn
 balneologist 2
