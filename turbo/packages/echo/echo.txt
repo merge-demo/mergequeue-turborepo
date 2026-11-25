@@ -5220,7 +5220,7 @@ equinely
 entier
 erythrogen
 encinder
-endoparasitica
+endoparasitica 1
 emagram
 etiotropically 1
 explodes
