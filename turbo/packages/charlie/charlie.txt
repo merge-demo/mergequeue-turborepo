@@ -6099,7 +6099,7 @@ currane 1
 cineraria
 countershafting
 coassisting
-catsups
+catsups 1
 childhood
 compositively 1
 chamoised 1
