@@ -22182,7 +22182,7 @@ ascensive
 asthmas
 angolans
 arviculture
-archaic
+archaic 1
 asthmatical
 achomawi 1
 aceric
