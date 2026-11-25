@@ -14122,7 +14122,7 @@ extrinsically
 extrinsicalness
 enthralls
 exhortatively
-exposers
+exposers 1
 extroitive
 extremist
 extrorse 1
