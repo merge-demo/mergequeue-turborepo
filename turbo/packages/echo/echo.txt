@@ -3541,7 +3541,7 @@ epepophysial 1
 embarras
 exhibit
 eloquentness
-escorted
+escorted 1
 enured 1
 epigonichthyidae
 embolectomy
