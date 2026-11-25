@@ -14403,7 +14403,7 @@ andries
 analgetic
 aranga
 allocations
-assortatively
+assortatively 1
 anisocycle 1
 abnegate
 apselaphesis
