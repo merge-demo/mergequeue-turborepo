@@ -6653,7 +6653,7 @@ desiderata
 digamists
 declivitously 1
 disagreement
-dreyfusist
+dreyfusist 1
 dissentiously 1
 dahabiyas
 danaid

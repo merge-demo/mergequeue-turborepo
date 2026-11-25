@@ -7835,7 +7835,7 @@ aleatoric 1
 academics
 aquae 1
 analphabetical
-apologetically
+apologetically 1
 ancistrocladaceae
 alecithal
 angler
