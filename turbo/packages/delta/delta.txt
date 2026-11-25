@@ -11360,7 +11360,7 @@ diabetic
 disciplinal
 disquisited
 droopingly
-daidling
+daidling 1
 disciplinarians
 deponing
 deemster
