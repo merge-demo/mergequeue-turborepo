@@ -2054,7 +2054,7 @@ glime
 grapeful 1
 gazzetta
 gutterize
-gavels 1
+gavels 2
 gavia
 gossamery
 gisants
