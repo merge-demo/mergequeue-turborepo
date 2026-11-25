@@ -7122,7 +7122,7 @@ gingerbready 1
 giggler
 gastrotaxis 1
 gabelle
-geometrise
+geometrise 1
 glycuronid
 guans
 graphologist
