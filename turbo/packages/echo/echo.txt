@@ -10904,7 +10904,7 @@ enchondrosis 1
 euphoriant 1
 eaglewood
 euploidies
-euphorically
+euphorically 1
 esd
 euphues 1
 epipedometry
