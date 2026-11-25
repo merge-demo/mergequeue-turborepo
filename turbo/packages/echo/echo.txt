@@ -6761,7 +6761,7 @@ ergon
 educator
 extramural
 entire 1
-epithumetic
+epithumetic 1
 epinephelus
 entireness
 ethologic
