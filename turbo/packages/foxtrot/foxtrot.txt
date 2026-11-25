@@ -8906,7 +8906,7 @@ flywort
 fiacre 1
 frivols
 footle 1
-feldspath
+feldspath 1
 freebooting
 feverwort
 filament
