@@ -14204,7 +14204,7 @@ enow
 equiradiate 1
 exerciser
 exust
-encaging
+encaging 1
 excitron 1
 exxon
 exzodiacal 3
