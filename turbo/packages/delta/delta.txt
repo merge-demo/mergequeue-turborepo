@@ -17481,7 +17481,7 @@ dreads
 discrete 1
 daffle
 doubleheaders
-destructed
+destructed 1
 disorientation
 devoices
 densities
