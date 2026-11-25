@@ -3790,7 +3790,7 @@ biologists 2
 bowstringed
 beachwear
 battues
-batture
+batture 1
 biunivocal
 bielded
 barasingha
