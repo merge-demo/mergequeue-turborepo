@@ -8307,7 +8307,7 @@ embroiler 1
 earthy 2
 evg
 excursional 1
-essonites
+essonites 1
 episthotonos
 endogamies
 enolized
@@ -13953,7 +13953,7 @@ expertship 1
 endromis
 eleutheri 1
 embroaden
-ethylthioethane
+ethylthioethane 1
 exotery 1
 employments 1
 extraordinary
