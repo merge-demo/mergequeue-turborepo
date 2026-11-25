@@ -8732,7 +8732,7 @@ gregarianism 1
 goo
 galyak
 guacharoes
-gymnastically
+gymnastically 1
 gorge
 greenling
 gelechia
