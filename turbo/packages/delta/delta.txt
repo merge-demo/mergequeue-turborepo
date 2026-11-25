@@ -2152,7 +2152,7 @@ dazy
 duckier
 dietetic
 decarbonise
-despotically
+despotically 1
 dunamis
 decarboniser
 dobsonfly
