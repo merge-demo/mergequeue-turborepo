@@ -8493,7 +8493,7 @@ antherine
 alkanets
 antinomy 1
 amebocyte
-acanthosis
+acanthosis 1
 alkapton
 anorganology
 alkaptone 1
