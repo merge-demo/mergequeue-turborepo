@@ -7103,7 +7103,7 @@ batara
 barracks
 bannerette
 bespeak
-bodyless
+bodyless 1
 biggings
 brandle
 bimorphs
