@@ -3190,7 +3190,7 @@ geologers 1
 grattoirs
 gotiglacial
 guerdoning
-gephyrea
+gephyrea 1
 gular
 glumal
 gaudiness
