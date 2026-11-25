@@ -25225,7 +25225,7 @@ corinna
 corinne
 corynteria
 corinth
-corinthes
+corinthes 1
 corinthiac
 cumidine
 coriolanus
