@@ -970,7 +970,7 @@ facetiousness
 fluorids
 fnese
 frape
-fastigiums 1
+fastigiums 2
 forkers 1
 formalizer 1
 fillagreed
