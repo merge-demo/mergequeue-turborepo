@@ -7825,7 +7825,7 @@ cespititious
 cespititous
 contrite
 cespitosely
-cespitulose
+cespitulose 1
 cess 1
 cessantly
 cessative 1
