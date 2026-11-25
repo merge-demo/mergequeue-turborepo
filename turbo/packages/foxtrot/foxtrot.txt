@@ -11488,7 +11488,7 @@ foothill
 fisticuffery
 foredescribe 1
 farms 1
-facilities
+facilities 1
 figural 1
 finnmarks
 furthest
