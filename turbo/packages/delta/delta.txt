@@ -7618,7 +7618,7 @@ dealer
 deflocculation
 deorsumversion 1
 digamous
-didinium 1
+didinium 2
 developer
 diswarn
 developing
