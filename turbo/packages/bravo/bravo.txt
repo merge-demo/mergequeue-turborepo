@@ -7762,7 +7762,7 @@ bevy
 bharal
 basaltiform 1
 bhat
-burglaries
+burglaries 1
 bunning
 bheesty
 bullaries
