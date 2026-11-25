@@ -1825,7 +1825,7 @@ bepurple
 banago
 buzzy
 brimming 2
-beaconed
+beaconed 1
 beglads
 blancmanger
 bemuse
@@ -6914,7 +6914,7 @@ beshake 1
 bentinck
 bendel
 bloodwite
-beryllosis 2
+beryllosis 3
 beseemliness
 benignancies
 beseems
