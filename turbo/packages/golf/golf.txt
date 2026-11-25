@@ -5849,7 +5849,7 @@ galvaniser 1
 glassless
 gynephobia
 gluttonize 1
-grown
+grown 1
 gomerels
 gunneries
 gyroceras 1
