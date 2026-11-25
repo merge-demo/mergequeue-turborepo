@@ -8896,7 +8896,7 @@ frigiddaria
 folktales
 fermental
 faroeish
-flimsily
+flimsily 1
 favorers 1
 frenchy 1
 frostbiting 2
