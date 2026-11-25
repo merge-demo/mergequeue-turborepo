@@ -20610,7 +20610,7 @@ causation
 competing
 churchish
 coenanthium
-competition
+competition 1
 cumulet
 congreve
 competitive
