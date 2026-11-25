@@ -6655,7 +6655,7 @@ copiability
 celtophobia
 ceilometer
 ceylonite
-chiococcine
+chiococcine 1
 ceils
 coalas
 compound
