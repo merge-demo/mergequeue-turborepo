@@ -10027,7 +10027,7 @@ eternalize
 eternally 1
 extill 1
 embarking
-emphasizes
+emphasizes 1
 exempting
 equalist
 endoperidial
