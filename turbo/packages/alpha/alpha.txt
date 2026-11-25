@@ -23513,7 +23513,7 @@ assagai
 auksinas
 allotropy
 andalusite 1
-aldeia
+aldeia 1
 amidocapric
 advents
 algedi

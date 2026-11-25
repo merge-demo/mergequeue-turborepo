@@ -336,7 +336,7 @@ eagerer
 expatiater
 exoduses
 exigible 1
-eaten
+eaten 1
 eighty 1
 enchantment 1
 empeirema
