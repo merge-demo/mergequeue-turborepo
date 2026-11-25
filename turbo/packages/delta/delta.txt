@@ -17073,7 +17073,7 @@ dryadetum
 damners 1
 dentistic
 dactyliographer
-dribbles
+dribbles 1
 dosers
 disthroning
 diphthongous

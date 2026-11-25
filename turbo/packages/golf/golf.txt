@@ -10092,7 +10092,7 @@ grub 1
 guyot
 galahs 1
 gastropods
-garrulus
+garrulus 1
 ghostwrote
 galactodensimeter 1
 grammarian 1
