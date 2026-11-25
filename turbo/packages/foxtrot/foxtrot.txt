@@ -4424,7 +4424,7 @@ fledgier
 floppiest 1
 float
 frowzly 1
-feelable
+feelable 1
 flossy
 fraternizer
 fishmouth 2
