@@ -5247,7 +5247,7 @@ escartelly 1
 euphuizing
 esphresis 1
 expenseless
-euphonium
+euphonium 1
 endopods
 endoproctous
 enigmatizing
