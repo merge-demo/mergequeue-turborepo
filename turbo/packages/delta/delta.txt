@@ -744,7 +744,7 @@ doubtless 1
 decastyle 1
 depeche
 dandier
-drybrained
+drybrained 1
 dreaminess
 dandify
 dissipatedness
