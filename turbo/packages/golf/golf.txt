@@ -1385,7 +1385,7 @@ garnetter
 glyconeogenetic
 guttular
 governs 3
-ganodonta
+ganodonta 1
 garnison
 greetingless
 garniture
