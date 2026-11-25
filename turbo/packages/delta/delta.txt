@@ -2974,7 +2974,7 @@ decrepitate 2
 dorian 2
 denicotine 1
 deoxidizing
-doxologized
+doxologized 1
 destructiveness
 deemphasized 1
 donator

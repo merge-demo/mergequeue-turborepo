@@ -13400,7 +13400,7 @@ basilisks 1
 bromothymol
 blackcap
 bisulc
-beothuk
+beothuk 1
 boltant 1
 bothway
 burgle
