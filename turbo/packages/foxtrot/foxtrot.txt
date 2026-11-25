@@ -9508,7 +9508,7 @@ favouress
 flyted 1
 fuseless
 frecklish 1
-frecklier
+frecklier 1
 feudalizing
 findfault
 fullers
