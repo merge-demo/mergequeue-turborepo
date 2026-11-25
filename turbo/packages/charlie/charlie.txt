@@ -20784,7 +20784,7 @@ cytode
 complicates
 complicative 1
 cheapskate
-complicator
+complicator 1
 complice
 complicity 2
 complied
