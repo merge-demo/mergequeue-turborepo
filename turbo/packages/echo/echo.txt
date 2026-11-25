@@ -4444,7 +4444,7 @@ emanates
 extremists
 entrepas 1
 econometrically
-encarnalizing
+encarnalizing 1
 encarpa 1
 encarpus
 endrin
