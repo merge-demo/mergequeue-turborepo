@@ -7584,7 +7584,7 @@ excurvate
 euglena
 eikonology 1
 enamelware
-enfeoffs
+enfeoffs 1
 essling
 effoliate
 eavesing
