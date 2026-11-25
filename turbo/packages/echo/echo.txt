@@ -11340,7 +11340,7 @@ ethnohistory
 ethnocentrism 1
 exotropic
 electrodesiccation 1
-evenforth
+evenforth 1
 eryopid
 embarrel
 enamoured
