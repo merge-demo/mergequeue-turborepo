@@ -5302,7 +5302,7 @@ byssin
 beggary 2
 beeriest
 bicrescentic 1
-bringsel
+bringsel 1
 boshas 2
 bullom 1
 brimless 1
