@@ -20,7 +20,7 @@ crease
 corkmaking
 caught
 cabaletta 1
-cestas 1
+cestas 2
 chertiest
 crackerberries
 cereus
@@ -25679,7 +25679,7 @@ correctory
 chignon
 constitutive
 committals
-cobra
+cobra 1
 correctress
 conoid
 centupled
