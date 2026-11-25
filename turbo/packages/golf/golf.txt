@@ -982,7 +982,7 @@ gamostele 1
 glottogony
 genoise
 genetically 1
-gamp
+gamp 1
 graysby 2
 gastrolobium
 genre 1
