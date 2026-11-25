@@ -17219,7 +17219,7 @@ bullskin
 bullsticker 1
 billman
 beturbaned 1
-bullsucker
+bullsucker 1
 bandman
 basined
 beachcomber
