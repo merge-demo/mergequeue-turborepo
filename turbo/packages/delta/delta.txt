@@ -2774,7 +2774,7 @@ delphinus 1
 duodecahedron
 decrescent
 deknight
-demonist
+demonist 1
 desulfured
 droller
 decretalist
