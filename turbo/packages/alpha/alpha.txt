@@ -9078,7 +9078,7 @@ ague
 anticheater
 alpid
 arrogantly
-allotter
+allotter 1
 allottery
 aigrette
 antimilitaristic
@@ -15738,7 +15738,7 @@ antisocial 1
 algebra
 atlantica
 angeleno
-astute
+astute 1
 antiperistalsis 1
 antiperistatic
 acridines
