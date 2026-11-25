@@ -5205,7 +5205,7 @@ dewey
 deligated
 drammer 1
 density 1
-defat
+defat 1
 degasifier
 dispositioned
 diatomaceoid
