@@ -401,7 +401,7 @@ embayed
 excelsitude
 eulerian
 evangelist
-entrenching 1
+entrenching 2
 extruct
 erythrinus
 espanol 1
