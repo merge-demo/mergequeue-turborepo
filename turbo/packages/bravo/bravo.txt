@@ -5178,7 +5178,7 @@ biotic 1
 brecht
 boomorah
 blende 1
-beggarer
+beggarer 1
 buccinatory 1
 bagpod
 beforeness 1
