@@ -11183,7 +11183,7 @@ digitigrada
 doubtlessness
 doggone
 dentinocemental 1
-disboard
+disboard 1
 drawdowns
 dustoori
 divagating
@@ -16499,7 +16499,7 @@ detached 1
 disagreeables
 dracontium
 disfavouring
-diastole
+diastole 1
 dungan
 dradge
 dilutions 1
