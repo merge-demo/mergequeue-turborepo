@@ -13055,7 +13055,7 @@ dipeptide
 dekastere
 desilverizing
 dialogical
-djinns
+djinns 1
 deicidal 1
 decanol 1
 dispatch
