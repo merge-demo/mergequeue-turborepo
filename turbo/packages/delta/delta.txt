@@ -3303,7 +3303,7 @@ distemperer
 downweight
 dicot
 dayment
-dawut
+dawut 1
 distressfulness
 dullery
 definitor
