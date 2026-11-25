@@ -5677,7 +5677,7 @@ gadroons
 glossocele
 graian
 gaduin
-gallicize 1
+gallicize 2
 gummoses
 grandmother
 gantline
