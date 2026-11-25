@@ -328,7 +328,7 @@ enclaret 1
 estops
 eastre
 enturret 1
-extramolecular
+extramolecular 1
 empresse
 embleming
 epirogenic 1
