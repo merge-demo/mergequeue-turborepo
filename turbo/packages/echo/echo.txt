@@ -723,7 +723,7 @@ eschaunge 1
 extremital
 eidolism
 eumenides
-emulsible
+emulsible 1
 exogyra
 eben 1
 elegiambus
