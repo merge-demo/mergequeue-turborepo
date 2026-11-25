@@ -12428,7 +12428,7 @@ desulfurate
 discontinue
 dislocable 1
 diastematic
-dishrags 1
+dishrags 2
 dishtowels 2
 deciduate
 detrital
