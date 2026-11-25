@@ -13899,7 +13899,7 @@ bountiful
 bitbrace
 boloball
 bowleg
-bowleggedness 1
+bowleggedness 2
 beedi
 bowles
 balwarra
