@@ -19994,7 +19994,7 @@ civically
 commelina
 capers
 commem
-commemorate
+commemorate 1
 caules
 commemorated
 commemorates
