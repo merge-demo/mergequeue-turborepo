@@ -29517,7 +29517,7 @@ cerebrums
 crystoleum
 crystolon
 castanea
-crit
+crit 1
 criteria
 cryptogamous
 carload
