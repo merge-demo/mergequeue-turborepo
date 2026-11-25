@@ -1462,7 +1462,7 @@ gamma
 gerousia
 gove 1
 gynocardia
-gradualness
+gradualness 1
 gasboat
 giddiness
 gaselier 1
