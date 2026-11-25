@@ -17828,7 +17828,7 @@ dodecaphonically
 desalts
 ductilize
 dishwash
-disambiguated
+disambiguated 1
 ductless
 dysgeogenous 1
 drinkable
