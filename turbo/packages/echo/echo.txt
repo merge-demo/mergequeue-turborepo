@@ -1859,7 +1859,7 @@ expletives
 executant
 executrix
 eimak 1
-exulted
+exulted 1
 eulima 1
 euphonious
 eleutherodactyl 1
