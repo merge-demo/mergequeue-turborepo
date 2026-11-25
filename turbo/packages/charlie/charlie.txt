@@ -7184,7 +7184,7 @@ clarine
 centriscidae 1
 cups
 centriscoid
-cappadine
+cappadine 1
 centriscus
 centrism
 clark
