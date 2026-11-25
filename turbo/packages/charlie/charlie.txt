@@ -112,7 +112,7 @@ cronish
 cabildo
 catoblepas 1
 cabildos
-cabin
+cabin 1
 cabinet
 cabineting
 codshead 1

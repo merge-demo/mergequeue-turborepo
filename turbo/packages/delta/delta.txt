@@ -9426,7 +9426,7 @@ destructively
 digamma
 demilegato
 downfeed 1
-digammated
+digammated 1
 dodgier
 disworkmanship
 dibatag
