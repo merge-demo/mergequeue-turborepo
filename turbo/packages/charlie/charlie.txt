@@ -8867,7 +8867,7 @@ chingpaw 1
 carbolised
 candylike
 cunni
-cremains 1
+cremains 2
 cochylis
 charadrius 1
 charango
@@ -21831,7 +21831,7 @@ cymule
 conepatl
 conepatls
 circumnutatory
-cones
+cones 1
 conestoga
 counterpose
 confab
