@@ -10392,7 +10392,7 @@ gothism
 griskins
 garibaldian
 gangliocyte
-geshurites
+geshurites 1
 glottic 1
 gaucheness
 gonake
