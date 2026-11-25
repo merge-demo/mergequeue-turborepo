@@ -1865,7 +1865,7 @@ cysticle
 camaxtli
 camball
 cambarus
-cambered
+cambered 1
 chamfrain
 consociate
 cambia
@@ -21379,7 +21379,7 @@ centuria
 cystoenterocele
 comptonia
 concinnously
-callidness
+callidness 1
 concionator
 coydog 1
 concionatory
