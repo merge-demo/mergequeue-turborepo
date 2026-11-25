@@ -7999,7 +7999,7 @@ faunally 3
 fanfoot
 fieldie
 favoured 1
-fenouillet
+fenouillet 1
 fredricite
 forestation
 faceup
