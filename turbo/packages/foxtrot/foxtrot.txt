@@ -11049,7 +11049,7 @@ filiferous 1
 fraction
 fumarate 1
 flammulated
-fontainea
+fontainea 1
 frontolysis 1
 fancies
 flanerie 1
