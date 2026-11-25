@@ -7633,7 +7633,7 @@ alchemizing 1
 alchimy 1
 antisepticist
 alcidine
-abstracter
+abstracter 1
 alcine
 alphabetically
 atomist
