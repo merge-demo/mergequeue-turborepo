@@ -16841,7 +16841,7 @@ bahamas
 buffalo 1
 burglarised
 bonnyvis
-buffaloing
+buffaloing 1
 biarcuated
 biflagellate
 buffball
