@@ -10701,7 +10701,7 @@ felsophyre
 fivepenny
 fairstead
 fruitstalk 2
-fg
+fg 1
 frecked 1
 foreset
 foresheets
