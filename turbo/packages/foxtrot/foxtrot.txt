@@ -268,7 +268,7 @@ filander
 felsic 1
 fairly
 folk 3
-fotive
+fotive 1
 fideist
 flashiest 2
 fourierite
