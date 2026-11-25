@@ -19045,7 +19045,7 @@ camb
 colliflower 1
 cruset
 colligate
-colligating
+colligating 1
 contumacies 1
 cookbook
 cecropia
