@@ -6037,7 +6037,7 @@ bemask
 befooling
 brewis
 bilabials
-bribeability
+bribeability 1
 bruises 2
 bitterbark
 bemean 1
