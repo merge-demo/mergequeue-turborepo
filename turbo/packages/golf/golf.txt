@@ -2391,7 +2391,7 @@ give 1
 granddaughterly 1
 gongoristic
 ground
-gentianal
+gentianal 1
 gilver 1
 gote
 gaulish
