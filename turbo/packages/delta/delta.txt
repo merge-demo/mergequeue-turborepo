@@ -482,7 +482,7 @@ depreciatively
 dame
 deveining
 declivous
-decistere
+decistere 1
 disexercise 1
 doctrinarian
 dogs

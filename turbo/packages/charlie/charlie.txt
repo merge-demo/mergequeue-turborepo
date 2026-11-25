@@ -7363,7 +7363,7 @@ cephalopterus
 cephaloridine
 confocal
 cadus
-copecks
+copecks 1
 cephalosome 1
 campbellite
 cephalotaceae
