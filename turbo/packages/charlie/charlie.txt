@@ -18653,7 +18653,7 @@ cantrips
 coinvolve
 coyo 1
 coyol
-coyos
+coyos 1
 coyotes
 coccoloba
 coyotillos

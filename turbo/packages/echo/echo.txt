@@ -12973,7 +12973,7 @@ expectation
 exodoi
 exclusion
 equipartile
-epicyclical
+epicyclical 1
 eucharises
 embathe
 expectedness
