@@ -3575,7 +3575,7 @@ ghatwazi
 goadster
 grumblesome 1
 ghauts 1
-grotian 2
+grotian 3
 galilei 1
 genarcha 1
 grubber 2
@@ -5799,7 +5799,7 @@ glycolaldehyde 1
 gire
 gedact
 galvanoplastic
-grundel
+grundel 1
 gadger
 gate
 globulous 2

@@ -587,7 +587,7 @@ fenugreek
 flagstaff
 frighteningly 1
 furmety
-forelocks
+forelocks 1
 faufel
 forlornity 1
 fallowist
