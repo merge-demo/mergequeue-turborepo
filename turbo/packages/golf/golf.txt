@@ -7996,7 +7996,7 @@ gastronomy 1
 gata 1
 goanna 2
 gunstock
-gossiper
+gossiper 1
 geta
 gnomonics
 grandpapa
