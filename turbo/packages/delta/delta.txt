@@ -9823,7 +9823,7 @@ dispapalize
 determines 1
 diluvialist
 demidigested 1
-decorated
+decorated 1
 disclander
 dinars
 derival
