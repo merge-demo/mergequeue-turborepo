@@ -3832,7 +3832,7 @@ discastle
 dictature
 dissect 1
 disp
-dyscrasite
+dyscrasite 1
 deerdog 1
 demihogshead
 damone
