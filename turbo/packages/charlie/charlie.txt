@@ -7363,7 +7363,7 @@ cephalopterus
 cephaloridine
 confocal
 cadus
-copecks
+copecks 1
 cephalosome 1
 campbellite
 cephalotaceae
@@ -20784,7 +20784,7 @@ cytode
 complicates
 complicative 1
 cheapskate
-complicator
+complicator 1
 complice
 complicity 2
 complied
