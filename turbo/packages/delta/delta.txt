@@ -3128,7 +3128,7 @@ daneflower
 defect
 divot
 degusting
-divots
+divots 1
 diffusimeter
 draughtily
 defecting
