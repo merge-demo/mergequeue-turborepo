@@ -6636,7 +6636,7 @@ fairways
 fraileros 1
 fogdom
 fogfruit 2
-fibrins
+fibrins 1
 fruiteress
 flatterable
 flintlock
