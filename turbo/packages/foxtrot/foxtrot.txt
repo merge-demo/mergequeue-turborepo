@@ -5578,7 +5578,7 @@ furbearer
 froebelist
 fanaticized
 forefeel
-forinsecal
+forinsecal 1
 fossilation
 formulary 2
 fishtailing
