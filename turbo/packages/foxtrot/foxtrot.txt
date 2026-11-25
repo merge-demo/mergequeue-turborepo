@@ -67,7 +67,7 @@ flagships 1
 flecken
 facellite 1
 felonious
-fordeal
+fordeal 1
 fullfaces
 facundity
 facemark
