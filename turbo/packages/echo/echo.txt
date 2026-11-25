@@ -3409,7 +3409,7 @@ epitomize
 eucharistized 1
 extrajudicial
 embarkment 1
-embarks
+embarks 1
 equipage
 endothelial
 exteroceptor
