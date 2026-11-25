@@ -10741,7 +10741,7 @@ forbore 1
 frumpishly
 foreyear 1
 fructified 1
-fascistize
+fascistize 1
 freelancing 1
 filagree
 fringelike 1
