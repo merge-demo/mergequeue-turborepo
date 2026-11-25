@@ -330,7 +330,7 @@ feods
 forces
 fireplough 1
 faineancy
-fayles
+fayles 1
 fimbricated
 furcal
 fayumic
