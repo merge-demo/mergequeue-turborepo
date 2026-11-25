@@ -9729,7 +9729,7 @@ dcbname
 dilatoriness 1
 daypeep
 denaturiser
-decence
+decence 1
 duct 1
 discapacitate
 demiram
