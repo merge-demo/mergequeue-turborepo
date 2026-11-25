@@ -9824,7 +9824,7 @@ geckotidae
 grands
 guajillo
 gallicism
-gongoresque
+gongoresque 1
 gips
 grousy
 guajiras
