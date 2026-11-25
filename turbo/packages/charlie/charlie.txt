@@ -18195,7 +18195,7 @@ coexpand
 coexpanded
 coexperiencer
 catchment
-clubbiness
+clubbiness 1
 coextends 1
 creep
 coextent 1
