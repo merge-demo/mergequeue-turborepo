@@ -769,7 +769,7 @@ clairvoyance
 cagiest
 cyclotomies
 cagily
-clock
+clock 1
 cuish
 cartouches
 composer
