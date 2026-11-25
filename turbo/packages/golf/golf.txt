@@ -4807,7 +4807,7 @@ gladiator
 grabbiest
 guatemalan
 gesling 1
-grooviest
+grooviest 1
 gummiferous
 gumly
 gladiatorial
