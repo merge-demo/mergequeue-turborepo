@@ -6966,7 +6966,7 @@ censurability
 catechiser
 censurableness
 cryometer
-censurably
+censurably 1
 cutlips
 censure
 censureless
