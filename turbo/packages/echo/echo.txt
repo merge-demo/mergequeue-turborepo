@@ -3279,7 +3279,7 @@ ensandal
 etoiles
 epiphyllospermous
 ensnaring
-enrages
+enrages 1
 equitist
 etymologising 1
 endoproct
