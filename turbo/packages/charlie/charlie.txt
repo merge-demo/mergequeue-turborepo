@@ -25950,7 +25950,7 @@ cortinarius
 choko
 chaffiness
 cortisol
-cortisols
+cortisols 1
 cortlandtite
 caulotaxy
 chechako
