@@ -10920,7 +10920,7 @@ dysacousis
 dodecahydrated
 disacquaint
 dayglows 1
-datolite
+datolite 1
 diallist
 dispenses
 disforestation
