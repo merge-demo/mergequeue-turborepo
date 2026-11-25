@@ -24751,7 +24751,7 @@ coprolaliac
 chernozemic
 carlage
 coprolith
-coprolitic 1
+coprolitic 2
 coprophagy
 couril
 corroboree
