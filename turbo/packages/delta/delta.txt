@@ -3781,7 +3781,7 @@ dukedom 1
 deinstitutionalization
 dipterist
 didactylism
-demagnetizable
+demagnetizable 1
 doweling 2
 deficiency
 dermalgia
