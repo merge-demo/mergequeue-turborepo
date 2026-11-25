@@ -22258,7 +22258,7 @@ anaphia
 aspasia 1
 ariled
 aerier
-atropinize
+atropinize 1
 alnath
 anvasser
 adeption
