@@ -8005,7 +8005,7 @@ geophysicists
 grotesquerie
 guglia
 gruesomely
-gambiae
+gambiae 1
 gusted 1
 gallocyanine 1
 gumless 1
