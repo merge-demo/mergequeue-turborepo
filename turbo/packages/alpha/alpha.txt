@@ -19397,7 +19397,7 @@ administratrix 1
 amuser
 argentan
 axisymmetry
-aerobacter
+aerobacter 1
 autochrome
 anacrisis
 arsacid
