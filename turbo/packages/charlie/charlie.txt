@@ -25117,7 +25117,7 @@ craniologically
 calomba 1
 chatillon
 connotes
-chirotherium
+chirotherium 1
 coinstantaneous
 corequisite 1
 corer
