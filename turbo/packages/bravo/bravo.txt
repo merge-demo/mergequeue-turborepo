@@ -1579,7 +1579,7 @@ ballgame
 ballhooter
 backslash
 balli
-burmanniaceous
+burmanniaceous 1
 burlesques
 beagling
 befiddle
@@ -8441,7 +8441,7 @@ bhandar
 backspaced
 bubs
 burbankian
-bannerfish
+bannerfish 1
 believability
 begin
 bijwoner

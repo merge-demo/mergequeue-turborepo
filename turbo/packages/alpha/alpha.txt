@@ -17856,7 +17856,7 @@ appraising
 autoalkylation
 acrotretidae 1
 abacate
-appraisive
+appraisive 1
 almique 1
 appreciated
 appreciatingly
