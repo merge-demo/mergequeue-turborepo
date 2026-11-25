@@ -6598,7 +6598,7 @@ forkwise
 frilliest
 frontes 1
 formaldehydesulphoxylate
-fancify
+fancify 1
 foretellableness
 footpath
 forevouched
