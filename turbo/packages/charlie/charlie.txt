@@ -7190,7 +7190,7 @@ centrism
 clark
 cinemascope
 comite
-crispen
+crispen 1
 contributorily
 corybantic
 centro
