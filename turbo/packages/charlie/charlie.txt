@@ -25679,7 +25679,7 @@ correctory
 chignon
 constitutive
 committals
-cobra
+cobra 1
 correctress
 conoid
 centupled
@@ -26905,7 +26905,7 @@ corvets
 crosne
 contraflexure
 colliquativeness
-copperleaf
+copperleaf 1
 counterlath 1
 corticospinal
 counterlathed
