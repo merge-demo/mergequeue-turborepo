@@ -10554,7 +10554,7 @@ duteously 1
 discoblastula
 deafens 1
 dafla
-diploe
+diploe 1
 disbalancement
 didrachmas
 dispend
