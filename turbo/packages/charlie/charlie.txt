@@ -17707,7 +17707,7 @@ cocoawood
 churchgoing
 cocobola
 cocobolas
-comeupance
+comeupance 1
 cocobolos
 cocoyam
 centralize
