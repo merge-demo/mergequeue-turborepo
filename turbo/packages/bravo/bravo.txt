@@ -9450,7 +9450,7 @@ bonser 1
 byssogenous
 butterflying 1
 brimse
-basidial
+basidial 1
 boastless
 basocyte 1
 buriti
