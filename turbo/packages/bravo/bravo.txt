@@ -10787,7 +10787,7 @@ byssus
 beaverboard
 batties
 baalisms 1
-blennogenous
+blennogenous 1
 begging
 baiters
 brushup
