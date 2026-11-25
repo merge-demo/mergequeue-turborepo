@@ -5593,7 +5593,7 @@ depilating
 depilatories 1
 deists
 discos
-decerniture
+decerniture 1
 delineation
 depilitant 1
 deplace 2
