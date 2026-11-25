@@ -7086,7 +7086,7 @@ envaye
 episcenia
 excerpting
 erpetology 1
-empanelled
+empanelled 1
 envelope
 exurbanites
 extortion

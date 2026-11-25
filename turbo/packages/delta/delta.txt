@@ -4898,7 +4898,7 @@ demotists
 duncedom 1
 dragontail 1
 dephosphorize
-dogmatists
+dogmatists 1
 draggled 1
 diamb
 demountable
