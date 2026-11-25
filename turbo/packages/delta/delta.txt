@@ -514,7 +514,7 @@ dextromanual
 diminishingturns 1
 discustom 1
 dromotropic
-douse
+douse 1
 drybrush
 disobliged 1
 dalmanites
