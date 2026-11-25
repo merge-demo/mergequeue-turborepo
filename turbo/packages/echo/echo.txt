@@ -7355,7 +7355,7 @@ ethnology 1
 embue
 exstipulate 1
 ephedra
-epeiric
+epeiric 1
 exciseman
 ecclesiastically
 ephesian 1
