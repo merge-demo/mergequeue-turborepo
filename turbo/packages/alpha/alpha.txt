@@ -6965,7 +6965,7 @@ amphicribral
 amrita
 alumnae
 assisters 1
-ancone
+ancone 1
 airts
 armistices
 aquila 2
