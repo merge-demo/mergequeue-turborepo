@@ -4719,7 +4719,7 @@ diemaker
 dentalizing 1
 demography
 denigrations 1
-dichotomically
+dichotomically 1
 damosels
 demographically
 diptera
