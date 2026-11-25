@@ -15079,7 +15079,7 @@ doggrelize
 dottrels
 dorlot
 dungeons 1
-doghead
+doghead 1
 doghood
 doghouse
 dogie
@@ -15739,7 +15739,7 @@ dogshore 1
 distilling
 dorm
 donec
-downlie 1
+downlie 2
 doggoneder
 dormancies
 dormers
