@@ -13165,7 +13165,7 @@ bouquetin
 biseriate 1
 boroughmonger
 bugged
-blaspheme 1
+blaspheme 2
 basileis
 bankrupts 1
 borowolframic
