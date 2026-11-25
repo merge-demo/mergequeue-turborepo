@@ -7861,7 +7861,7 @@ galik
 guepard
 graved 1
 grammatistical
-gratinated
+gratinated 1
 grammatite
 gumbo 1
 gelatification
