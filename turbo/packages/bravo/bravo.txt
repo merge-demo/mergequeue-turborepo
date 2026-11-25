@@ -9839,7 +9839,7 @@ bloviated
 beja
 bistriate
 bombardment
-beddable
+beddable 1
 breeze
 brachypleural
 bradypepsia
