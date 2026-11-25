@@ -12001,7 +12001,7 @@ devanagari
 deputised
 demonkind
 disenfranchises
-disintertwine
+disintertwine 1
 divinest
 diapsid
 driest
