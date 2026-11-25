@@ -7350,7 +7350,7 @@ gossipped
 gallberry 1
 googolplex
 glochidial
-gossips
+gossips 1
 gestor
 glomerule 1
 gilthead 1
