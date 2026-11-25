@@ -1841,7 +1841,7 @@ fellahin 1
 firebreaks
 feudalize
 flabellum
-fating
+fating 1
 feedbags 1
 footwalk
 flexographic

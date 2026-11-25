@@ -13203,7 +13203,7 @@ enjamb
 embale
 expires
 esteemable
-eastertide
+eastertide 1
 encephala 1
 echinite
 empyreal 1
