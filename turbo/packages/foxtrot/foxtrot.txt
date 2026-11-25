@@ -7379,7 +7379,7 @@ floreate
 fasciculation 1
 fey
 faucets
-fasti
+fasti 1
 figgum
 fille
 fawnlike
