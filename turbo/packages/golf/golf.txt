@@ -5033,7 +5033,7 @@ gynaecea
 gypper
 griffins 1
 granza 1
-gastroptosia
+gastroptosia 1
 glycan
 guilders
 gravery
