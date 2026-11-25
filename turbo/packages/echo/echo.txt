@@ -10904,7 +10904,7 @@ enchondrosis 1
 euphoriant 1
 eaglewood
 euploidies
-euphorically
+euphorically 1
 esd
 euphues 1
 epipedometry
@@ -14145,7 +14145,7 @@ enseraph
 enplanement 1
 emulates 1
 enlard 1
-entocuneiform
+entocuneiform 1
 excussion
 endearment
 entrails
