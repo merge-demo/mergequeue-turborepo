@@ -6008,7 +6008,7 @@ forgab
 frontooccipital
 flanker
 fictionise 2
-fluoresce
+fluoresce 1
 flagellator
 fustic
 fleam 2
