@@ -12755,7 +12755,7 @@ afterhelp
 angularity
 adversifolious
 alvan
-alkalinizing
+alkalinizing 1
 anthropogenous
 awed
 argillitic

@@ -17052,7 +17052,7 @@ barbicels 1
 braces 1
 bulimus
 baler
-bimahs
+bimahs 1
 bishoping 1
 bulkage
 boldfaces
