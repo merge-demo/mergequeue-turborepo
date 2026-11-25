@@ -11267,7 +11267,7 @@ faciest
 featherwork
 funnels
 fondon
-funny
+funny 1
 fundamentality
 flagellants 2
 frumaryl 1
