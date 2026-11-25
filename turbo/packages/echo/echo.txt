@@ -1787,7 +1787,7 @@ entera
 embankments
 epiblemata 1
 estimates
-entresse
+entresse 1
 eocene 1
 elliott
 earplugs

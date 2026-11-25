@@ -10775,7 +10775,7 @@ appendicious
 averting
 archivists 1
 arthropomatous
-adsorptively
+adsorptively 1
 absinth
 alumetize
 animosities
