@@ -11017,7 +11017,7 @@ fluidiser
 frigging
 freeport
 freshly
-frankability
+frankability 1
 fasciculi
 fortilage
 fordable
