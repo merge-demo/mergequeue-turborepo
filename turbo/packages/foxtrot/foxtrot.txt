@@ -11549,7 +11549,7 @@ frettingly
 frugging 1
 furlable
 fabling 1
-fictionize
+fictionize 1
 fards
 flensed
 floeberg
