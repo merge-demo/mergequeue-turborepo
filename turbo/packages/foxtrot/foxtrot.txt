@@ -4713,7 +4713,7 @@ flyweight 1
 frises
 fernseed
 facy
-factice
+factice 1
 frederic 1
 fumers
 flacianist 1
