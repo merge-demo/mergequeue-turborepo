@@ -704,7 +704,7 @@ abortive
 afebrile
 abortiveness
 allegorising
-american
+american 1
 animadversion
 aboulia
 anoli
