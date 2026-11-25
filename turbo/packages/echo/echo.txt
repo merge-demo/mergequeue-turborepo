@@ -10773,7 +10773,7 @@ eulogiums
 edgemaker
 endogenicity
 elephantous 1
-elaborating
+elaborating 1
 emoting 1
 euskera
 esterases
