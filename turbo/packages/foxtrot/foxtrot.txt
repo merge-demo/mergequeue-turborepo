@@ -175,7 +175,7 @@ featherless
 furnarius 1
 flier
 factorable
-flimsies
+flimsies 1
 finitary
 fluoridise
 factoryship
