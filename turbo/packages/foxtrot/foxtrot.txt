@@ -6973,7 +6973,7 @@ fraenulum
 foozled 3
 foreaccustom
 fruitwoman
-flexions
+flexions 1
 fichtean
 filla
 functor
