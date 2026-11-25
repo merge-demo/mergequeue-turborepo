@@ -13047,7 +13047,7 @@ expatriated 1
 exhibiting
 ebauchoir
 euhemerised
-epiperipheral 1
+epiperipheral 2
 expediter
 enunciates 1
 eulogistically 1
@@ -14145,7 +14145,7 @@ enseraph
 enplanement 1
 emulates 1
 enlard 1
-entocuneiform
+entocuneiform 1
 excussion
 endearment
 entrails
