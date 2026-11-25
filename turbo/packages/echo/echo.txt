@@ -1001,7 +1001,7 @@ esophageal
 epiphora
 euphonism
 educationary 2
-escargot
+escargot 1
 edemas
 exclaimingly
 eldership
