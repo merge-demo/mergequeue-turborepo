@@ -1131,7 +1131,7 @@ capacitator
 calciprivic
 calypterae
 cardiant
-caveatee
+caveatee 1
 calcispongiae
 chromatosphere 1
 calcite
@@ -7184,7 +7184,7 @@ clarine
 centriscidae 1
 cups
 centriscoid
-cappadine
+cappadine 1
 centriscus
 centrism
 clark
