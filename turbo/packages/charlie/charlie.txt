@@ -15732,7 +15732,7 @@ cerebellar
 chainlet
 couma
 cleanliest
-clumpier
+clumpier 1
 cleanout
 cleansable
 cellists
