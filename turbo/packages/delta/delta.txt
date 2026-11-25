@@ -11454,7 +11454,7 @@ discoideae
 despatchers
 debriding
 devisings
-decencies
+decencies 1
 discoloration
 discolorations
 discolored
@@ -17073,7 +17073,7 @@ dryadetum
 damners 1
 dentistic
 dactyliographer
-dribbles
+dribbles 1
 dosers
 disthroning
 diphthongous
