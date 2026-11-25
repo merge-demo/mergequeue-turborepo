@@ -7943,7 +7943,7 @@ grandfathers 1
 goma 1
 gerontophilia
 generativeness
-gangster
+gangster 1
 galvanotaxis 2
 goniatitid
 ghettoize
