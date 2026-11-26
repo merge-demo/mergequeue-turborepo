@@ -5064,7 +5064,7 @@ glaga
 gasless
 guardsmen
 gascon
-glinting
+glinting 1
 glaucidium
 gainyield
 gandhist
