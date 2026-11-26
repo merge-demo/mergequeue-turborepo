@@ -2108,7 +2108,7 @@ elastically 1
 extensionally
 eurycephalous
 edenite
-exudes
+exudes 1
 emberiza
 effete
 eberthella
