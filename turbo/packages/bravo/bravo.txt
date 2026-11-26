@@ -9600,7 +9600,7 @@ breviger
 bakerdom
 bis
 borussian
-bachelorize
+bachelorize 1
 baister
 bicipitous
 boarfish
