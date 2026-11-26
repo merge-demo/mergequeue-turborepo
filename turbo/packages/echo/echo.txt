@@ -9956,7 +9956,7 @@ eucalyptuses
 evert
 ertebolle
 externa
-emmies
+emmies 1
 eschars
 ennew
 endorachis 1
