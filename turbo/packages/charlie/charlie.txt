@@ -2457,7 +2457,7 @@ cancrinite
 cancrisocial
 cancroid
 clientele
-contuse
+contuse 1
 crystallitic
 cancrum
 cancrums 1
