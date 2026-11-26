@@ -4411,7 +4411,7 @@ farinaceously
 fishiness 2
 fraxin
 fluigramme
-frogwort
+frogwort 1
 felstone 1
 frenghi 1
 fraiser
@@ -6433,7 +6433,7 @@ fortes
 foremessenger
 fluoroscoped
 furriers 1
-fingerfish
+fingerfish 1
 flusterating 1
 fornicating
 flusteration 1
