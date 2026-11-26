@@ -15586,7 +15586,7 @@ determinedly
 dool
 duumviri
 deviable
-deicide
+deicide 1
 doolfu
 dooly 1
 doomed 1
