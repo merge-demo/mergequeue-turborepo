@@ -5969,7 +5969,7 @@ enisles
 echinoderidae 1
 extirpations
 effulges
-expeditated
+expeditated 1
 epimacus
 ejectors
 epheboi
