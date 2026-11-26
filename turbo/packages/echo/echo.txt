@@ -9628,7 +9628,7 @@ ewer 2
 endoblast
 encense
 entangleable
-equipper
+equipper 1
 entia
 epenthesize
 epacris
