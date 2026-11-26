@@ -8123,7 +8123,7 @@ azha
 arylate
 algebraical 1
 anjan
-antagonised
+antagonised 1
 algebraist
 algedo 1
 alfilerillo
