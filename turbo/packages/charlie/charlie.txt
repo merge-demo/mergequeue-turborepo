@@ -30302,7 +30302,7 @@ congealability
 cabinetmakers 1
 creped
 clucks
-crunchy
+crunchy 1
 counterintuitive
 crunchiest
 crunchiness

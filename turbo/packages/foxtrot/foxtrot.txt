@@ -4862,7 +4862,7 @@ fuci
 fixes
 firmhearted
 frondiferous
-fetching
+fetching 1
 fetisheer
 friskest
 fore 1
