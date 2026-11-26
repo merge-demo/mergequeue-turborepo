@@ -23339,7 +23339,7 @@ consumpted
 corrasive
 consumptional
 consumptions
-consumptively
+consumptively 1
 coordinates
 consumptives
 consute
