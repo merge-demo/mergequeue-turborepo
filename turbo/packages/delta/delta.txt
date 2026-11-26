@@ -266,7 +266,7 @@ daguerreotyping 1
 dissociations
 digitonin
 dreadnaught 1
-drillbit
+drillbit 1
 docken
 debugged
 diarthroses

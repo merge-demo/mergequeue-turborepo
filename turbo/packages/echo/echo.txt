@@ -8377,7 +8377,7 @@ errands 1
 epistolography 1
 epitrachelia
 estrum 1
-exceedable
+exceedable 1
 englory
 earplug
 equestrial 1
