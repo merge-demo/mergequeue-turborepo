@@ -3213,7 +3213,7 @@ flexionless 1
 fionnuala 1
 forefend 1
 festered
-forewarnings
+forewarnings 1
 flinthearted
 flameholder 1
 fictioner
