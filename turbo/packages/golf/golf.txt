@@ -6125,7 +6125,7 @@ griffithite
 galactophore
 greenly
 galactolysis 1
-goniatite
+goniatite 1
 gigantolite
 gymnasisiums 1
 goyin 1

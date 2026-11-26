@@ -1868,7 +1868,7 @@ bindings
 brigading
 banders
 broadlings
-befogging 1
+befogging 2
 barkinji 1
 bandfile
 bandh 1
