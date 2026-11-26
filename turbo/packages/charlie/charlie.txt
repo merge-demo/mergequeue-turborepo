@@ -15975,7 +15975,7 @@ crossbirth 1
 cracked
 cluppe
 colubriformes
-cleruchies
+cleruchies 1
 cardroom
 clerum 1
 counterindentation
