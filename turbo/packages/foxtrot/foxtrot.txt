@@ -1937,7 +1937,7 @@ floccule 1
 fonly 1
 flanchard 1
 forworn
-flated
+flated 1
 formulization
 fishlet 1
 flagellantism
