@@ -1276,7 +1276,7 @@ goethites
 gromatical 2
 gyrator 1
 glyphographer
-gumpus
+gumpus 1
 grallina 1
 greyiaceae 1
 grandisonous
