@@ -2744,7 +2744,7 @@ eleemosynarily 1
 egos
 erythrocyte
 evangelary
-elegy
+elegy 1
 elegiacally
 eighthly
 encoil
