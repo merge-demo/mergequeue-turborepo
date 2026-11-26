@@ -6954,7 +6954,7 @@ censitaire
 champion
 curiosity 1
 chitchats
-cisalpine
+cisalpine 1
 censored
 cytomorphosis
 censorian
