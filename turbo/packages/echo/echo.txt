@@ -11788,7 +11788,7 @@ enrolment
 elaphrium
 euryon
 exaudi
-embouchement 1
+embouchement 2
 earock
 ethenoidal
 exaun
