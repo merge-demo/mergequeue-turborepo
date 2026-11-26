@@ -1194,7 +1194,7 @@ brideman 1
 bajau
 boxer
 bajocco
-bajochi
+bajochi 1
 bemeaned
 bajra
 bogeyed 1
