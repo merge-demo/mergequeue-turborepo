@@ -13517,7 +13517,7 @@ boggles
 botulism
 bags
 bigamistic
-bourre 1
+bourre 2
 beseek
 boondoggle
 boneyards 1
@@ -18208,7 +18208,7 @@ busycon
 biloculina
 butsu
 binately
-brigbote
+brigbote 1
 boredness
 blissless 1
 butterbird
