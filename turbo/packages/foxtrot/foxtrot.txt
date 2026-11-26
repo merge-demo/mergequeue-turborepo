@@ -5512,7 +5512,7 @@ fied 2
 furrower
 furnit
 faked
-filionymic 1
+filionymic 2
 forbearingness 1
 frowzy
 faldage
