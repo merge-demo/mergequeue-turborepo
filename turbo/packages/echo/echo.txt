@@ -11524,7 +11524,7 @@ endosteitis
 edital
 evocating
 ensign 1
-engendered
+engendered 1
 enkerchief
 esterlin
 encia
