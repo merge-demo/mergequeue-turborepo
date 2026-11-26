@@ -2492,7 +2492,7 @@ electrophototherapy
 electroing
 electrokinetic
 eluviate
-elaeometer
+elaeometer 1
 ecosphere 1
 epicanthic
 exterminative
