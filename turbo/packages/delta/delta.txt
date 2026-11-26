@@ -5238,7 +5238,7 @@ dentate 2
 disrange 1
 dentatoangulate
 droud
-ducks
+ducks 1
 distincter
 dialkylamine
 dandilly
