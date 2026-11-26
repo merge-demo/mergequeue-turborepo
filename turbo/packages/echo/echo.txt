@@ -2095,7 +2095,7 @@ emblematist
 enclosable
 enisle
 enterolysis
-elasmothere
+elasmothere 1
 empyocele
 euphoniously 1
 ebullioscope
