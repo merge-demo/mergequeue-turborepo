@@ -11653,7 +11653,7 @@ cryogen 1
 criniger
 chollas
 choller
-chameleonize
+chameleonize 1
 claries 1
 corruptness
 cholo
