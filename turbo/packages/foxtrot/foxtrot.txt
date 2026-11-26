@@ -2675,7 +2675,7 @@ floodboard
 fissipedate
 frogeater
 filaze
-fawner
+fawner 1
 foretellable
 frizziness
 fervence
