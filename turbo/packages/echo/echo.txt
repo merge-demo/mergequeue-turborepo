@@ -8416,7 +8416,7 @@ evisceration
 equip
 eglogue
 endothecate 1
-entemple
+entemple 1
 eradiates
 encephalomere 1
 epizootology 1

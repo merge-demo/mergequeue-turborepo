@@ -7772,7 +7772,7 @@ desires
 dadburned
 decolourising
 depopulative
-devoir
+devoir 1
 destabilizing 2
 devoirs
 dholes
