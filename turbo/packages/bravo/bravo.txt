@@ -18208,7 +18208,7 @@ busycon
 biloculina
 butsu
 binately
-brigbote
+brigbote 1
 boredness
 blissless 1
 butterbird
