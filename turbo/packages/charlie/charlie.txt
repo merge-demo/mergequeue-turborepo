@@ -4475,7 +4475,7 @@ carls
 cavorters 1
 communalised
 carmagnole
-ceremonials
+ceremonials 1
 carmaker 1
 circumscriptions
 call
