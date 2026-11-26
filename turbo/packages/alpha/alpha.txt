@@ -5552,7 +5552,7 @@ afternoons
 afternose
 afterpains 2
 auburns
-antifreezing
+antifreezing 1
 afterpast
 afflux
 afterplanting
