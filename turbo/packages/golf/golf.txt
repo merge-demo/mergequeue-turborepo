@@ -6746,7 +6746,7 @@ glanis
 gelsemin
 garbleable
 gesticulate
-gradate
+gradate 1
 glutathione
 goniunia 1
 groceteria 1

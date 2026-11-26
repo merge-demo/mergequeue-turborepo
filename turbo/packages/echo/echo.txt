@@ -443,7 +443,7 @@ explicated
 extempory
 engager
 escapements 1
-erf
+erf 1
 eunuchal
 enanthesis
 expediteness
