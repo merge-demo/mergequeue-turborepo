@@ -5468,7 +5468,7 @@ departmentalization
 departmentalized
 deuteronomy 1
 debilitate
-departmentally
+departmentally 1
 discomfits
 depancreatize
 drawrod
