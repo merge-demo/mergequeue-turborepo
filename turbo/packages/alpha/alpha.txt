@@ -15775,7 +15775,7 @@ appropriament
 alkane
 acenesthesia
 agujon
-asport
+asport 1
 antiphona
 antieugenic
 antiphonary
