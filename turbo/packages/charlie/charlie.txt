@@ -21496,7 +21496,7 @@ cantalas 1
 concordancy
 concordant
 caulicole
-carpidium
+carpidium 1
 concordatory
 concordity
 circline 2

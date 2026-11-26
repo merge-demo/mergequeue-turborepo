@@ -7937,7 +7937,7 @@ estragol
 ensilation
 expounds
 epimeres
-electrostenolysis
+electrostenolysis 1
 epimerism
 enterolithiasis 1
 essoined
