@@ -6954,7 +6954,7 @@ censitaire
 champion
 curiosity 1
 chitchats
-cisalpine
+cisalpine 1
 censored
 cytomorphosis
 censorian
@@ -11653,7 +11653,7 @@ cryogen 1
 criniger
 chollas
 choller
-chameleonize
+chameleonize 1
 claries 1
 corruptness
 cholo
@@ -26014,7 +26014,7 @@ cosecants
 collude
 curator
 choreography
-calamagrostis
+calamagrostis 1
 cardioclasis 1
 cosecs
 chancelleries

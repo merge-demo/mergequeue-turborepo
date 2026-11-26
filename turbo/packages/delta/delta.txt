@@ -3006,7 +3006,7 @@ deerfood 1
 decalobate
 deservings
 dragonfish
-disestablishment
+disestablishment 1
 diphthongs
 deucedly
 dowress
@@ -6375,7 +6375,7 @@ drifters
 doxology
 derrises
 deruinate 1
-derust
+derust 1
 decameronic
 dispathy
 dervishism
