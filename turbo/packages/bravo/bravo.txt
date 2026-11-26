@@ -15141,7 +15141,7 @@ besmearer
 bloodies 1
 breviloquent
 bushhammer
-beemaster
+beemaster 1
 breviradiate
 blithely
 bugeyed 2
