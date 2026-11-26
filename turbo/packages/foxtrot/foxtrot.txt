@@ -220,7 +220,7 @@ filibranch
 fermenting
 facultatively 1
 fixtures
-faculties
+faculties 1
 faunistically
 fringy
 functionaries
