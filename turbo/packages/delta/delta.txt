@@ -432,7 +432,7 @@ dairous
 dais 1
 defog
 disposal
-dibs
+dibs 1
 drenchers
 dimyaric 1
 diathermous
