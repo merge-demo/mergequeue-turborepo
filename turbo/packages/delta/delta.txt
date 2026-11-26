@@ -12851,7 +12851,7 @@ disme 2
 decast
 dghaisa
 dipteran
-dismembrator
+dismembrator 1
 deafish
 dualistically
 dysmenorrheal
@@ -18586,7 +18586,7 @@ deecodder
 dogtrotting
 didrachm
 dewool
-duskness
+duskness 1
 dust
 delphian 1
 dustbins
