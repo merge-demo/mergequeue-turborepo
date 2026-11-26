@@ -23017,7 +23017,7 @@ consolette
 consolidated
 cerebrin
 consolidation
-consolidations
+consolidations 1
 cyanopathic
 consolidative
 consolidators 1
@@ -30302,7 +30302,7 @@ congealability
 cabinetmakers 1
 creped
 clucks
-crunchy
+crunchy 1
 counterintuitive
 crunchiest
 crunchiness
