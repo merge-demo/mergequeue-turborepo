@@ -1329,7 +1329,7 @@ bottine
 balantidic
 buckskin 1
 balaos 1
-bashless
+bashless 1
 baroquely
 benzamino
 barbed
