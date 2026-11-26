@@ -4260,7 +4260,7 @@ dhoney
 deplores
 demagnetizing
 devoutness
-durning
+durning 1
 delimit 1
 duckhood
 dequeue
