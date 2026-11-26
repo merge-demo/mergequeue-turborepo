@@ -6044,7 +6044,7 @@ gorbit
 guttie
 gibbled
 grume
-gnaws 1
+gnaws 2
 gramineous
 gneiss
 glengarries
