@@ -22056,7 +22056,7 @@ astay
 anisometropic 1
 aegithognathism
 anaphylaxis
-astare
+astare 1
 anaplerosis
 acetbromamide
 ammonitoid
