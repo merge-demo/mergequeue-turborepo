@@ -9075,7 +9075,7 @@ biometries 1
 bion
 byon 1
 bionditional
-bionics
+bionics 1
 brachyprosopic
 bionomic
 backswordman
