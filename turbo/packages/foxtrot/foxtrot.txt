@@ -3804,7 +3804,7 @@ fluoridisation 1
 flebotomy
 forthfare 1
 faut
-fazendeiro
+fazendeiro 1
 freewheeler 1
 fillemot
 flutes
