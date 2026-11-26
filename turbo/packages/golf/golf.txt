@@ -1004,7 +1004,7 @@ goldhammer
 ganderess 3
 genethlialogy
 gamester
-geanticline
+geanticline 1
 garnel 1
 gubernia
 gemmed
