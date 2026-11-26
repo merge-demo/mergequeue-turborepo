@@ -9504,7 +9504,7 @@ digitalin 1
 deputationize
 dispergator
 digitated 1
-demissly
+demissly 1
 darkmans
 doneness
 digitigradism
@@ -17005,7 +17005,7 @@ dendrocoela
 disjoined
 diacritically
 displenish 1
-dregs
+dregs 1
 defrication
 dampeners
 disemplaned
