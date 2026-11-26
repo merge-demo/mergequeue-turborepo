@@ -4536,7 +4536,7 @@ ecclesiastic
 elevatedness
 externize
 enureses
-emplaned
+emplaned 1
 embarkation
 encephalotome
 ethics 1
