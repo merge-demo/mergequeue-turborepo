@@ -6084,7 +6084,7 @@ disprove 2
 deregulated
 dogface
 dodonean 1
-discrowning
+discrowning 1
 deregulation
 deregulationize
 dicolic
