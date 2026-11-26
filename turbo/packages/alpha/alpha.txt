@@ -8972,7 +8972,7 @@ alloo 1
 annelids
 allopathetic
 achievers
-allopathic
+allopathic 1
 autoicous
 anticoagulan
 actiniaria
