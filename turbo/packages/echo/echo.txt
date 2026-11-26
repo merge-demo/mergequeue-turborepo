@@ -12856,7 +12856,7 @@ extinctor 1
 enumerations
 evangelistship 1
 efecks
-exoticist
+exoticist 1
 eudipleural 1
 encircled
 eateries 1

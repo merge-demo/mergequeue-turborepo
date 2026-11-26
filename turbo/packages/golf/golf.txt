@@ -2279,7 +2279,7 @@ glamoury
 gigantoblast
 garlicmonger
 goodby
-gammoning
+gammoning 1
 garrisoned
 giust
 glazily 2
