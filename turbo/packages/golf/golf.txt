@@ -2839,7 +2839,7 @@ grillers
 gastrosophy 1
 gynaecic 1
 geogenous
-gater
+gater 1
 goutweed
 genua 1
 graafian
