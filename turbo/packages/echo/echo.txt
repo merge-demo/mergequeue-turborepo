@@ -4905,7 +4905,7 @@ electrodialysis 1
 endable 1
 escaroles 2
 endamagement
-euthyneura
+euthyneura 1
 endameba
 endamebae
 equiv 1
