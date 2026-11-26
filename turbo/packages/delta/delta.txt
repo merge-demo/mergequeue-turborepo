@@ -10438,7 +10438,7 @@ duumvirs
 deglutitive
 distortion 1
 droits 1
-denaturate
+denaturate 1
 diphtherian
 dogberrydom
 dewiest
