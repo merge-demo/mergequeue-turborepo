@@ -8094,7 +8094,7 @@ bayberry
 bastonite
 biconsonantal
 barnburner
-biconvexity
+biconvexity 1
 brawned
 ballerine
 browband
