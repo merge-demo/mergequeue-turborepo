@@ -739,7 +739,7 @@ gugglet
 galvanizers 1
 gripple
 goaling
-galvanizing
+galvanizing 1
 goles 1
 gemmiferousness
 gunner
