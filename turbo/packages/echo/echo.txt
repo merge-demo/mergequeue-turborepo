@@ -7256,7 +7256,7 @@ ectozoon
 eosate
 endurableness
 effigial 1
-eosinic
+eosinic 1
 ergatogynous
 enolizable
 endothorax
