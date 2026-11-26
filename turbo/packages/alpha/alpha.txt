@@ -2141,7 +2141,7 @@ airlessness
 achiness 1
 axfetch
 althaeas 1
-achinesses
+achinesses 1
 aching
 achiotes
 altruism
