@@ -14606,7 +14606,7 @@ denotive
 demiurgically 1
 disastrousness 1
 dysfunction
-damourite
+damourite 1
 divorcible
 diminue
 dropheads
