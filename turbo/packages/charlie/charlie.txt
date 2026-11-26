@@ -26812,7 +26812,7 @@ cottiest 1
 counterembattled
 counterenergy
 counterengagement
-corporator
+corporator 1
 cambiogenetic
 counterengine
 counterenthusiasm
