@@ -542,7 +542,7 @@ foolocracy
 falderals 1
 flossed 2
 fussier
-familiarity
+familiarity 1
 forewarn 1
 fluvial
 fragmentising
