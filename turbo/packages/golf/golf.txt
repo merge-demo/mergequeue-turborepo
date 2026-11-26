@@ -6475,7 +6475,7 @@ gyrant
 golo 1
 grasshopper
 gorinesses
-gymnocerata 2
+gymnocerata 3
 grazing
 gymnasia
 groundage
