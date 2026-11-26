@@ -20366,7 +20366,7 @@ commutation
 carpogone
 conscionable
 commutativity
-commutator
+commutator 1
 commute
 commuted
 cacography
