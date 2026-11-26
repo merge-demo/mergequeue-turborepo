@@ -23461,7 +23461,7 @@ chaetotactic
 circumstantiability
 contemptibleness
 contemptibly
-caravaned
+caravaned 1
 contempts
 cygnet
 contemptuously
