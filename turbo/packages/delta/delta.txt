@@ -18586,7 +18586,7 @@ deecodder
 dogtrotting
 didrachm
 dewool
-duskness
+duskness 1
 dust
 delphian 1
 dustbins
