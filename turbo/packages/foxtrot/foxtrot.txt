@@ -5613,7 +5613,7 @@ fireboot 1
 flyless
 forbearingly
 fuddle 1
-fulgurata 1
+fulgurata 2
 flimflamming 1
 flimflams
 favouritism 1

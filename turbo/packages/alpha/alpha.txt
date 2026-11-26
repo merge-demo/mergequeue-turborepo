@@ -7862,7 +7862,7 @@ angiospermae 1
 archigaster
 alectoromancy
 amphibiological
-appointable
+appointable 1
 amicron 1
 antichreses
 anociassociation 1
