@@ -8189,7 +8189,7 @@ darghin 2
 diadelphous 1
 diadema
 depart
-diaderm
+diaderm 1
 diadic 1
 disabusing
 demurrer
