@@ -7128,7 +7128,7 @@ aerocartograph
 actuator
 anointers 1
 akmuddar
-aulical 1
+aulical 2
 aknow
 aggradation
 agglomerating
@@ -8816,7 +8816,7 @@ antehypophysis 1
 alcidae
 alliterates
 await
-actious
+actious 1
 apodixis
 alliterationist
 avens
