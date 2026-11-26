@@ -12398,7 +12398,7 @@ duopolies
 delomorphic
 doyens
 dismissingly 1
-doeskins
+doeskins 1
 diakineses 1
 dishley
 diamond 1

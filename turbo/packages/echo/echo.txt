@@ -9736,7 +9736,7 @@ embastardize
 erythropoiesis
 extravertish
 esdragol
-epimorphic
+epimorphic 1
 esselenian
 emotionable
 eomecon
