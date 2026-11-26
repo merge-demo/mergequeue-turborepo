@@ -8214,7 +8214,7 @@ flavines
 forgather
 fossulet 2
 falsifications
-fossulate
+fossulate 1
 foresweat
 fabraea 1
 fesse
