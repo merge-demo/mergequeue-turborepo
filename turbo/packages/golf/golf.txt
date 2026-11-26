@@ -4479,7 +4479,7 @@ gemuti 1
 greenlets
 gypster
 grandniece 1
-gamb
+gamb 1
 grapey
 gomutis 3
 gambrel
