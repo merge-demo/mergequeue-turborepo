@@ -7594,7 +7594,7 @@ edelweiss
 epiclinal
 ecstaticize
 enteric
-epicoele
+epicoele 1
 elkesaite 1
 extolment
 euchymous
