@@ -8232,7 +8232,7 @@ aluminise
 asbestuses
 aggiornamento 1
 alicyclic
-actiniochrome
+actiniochrome 1
 allochroous
 aphelandra
 achronical
