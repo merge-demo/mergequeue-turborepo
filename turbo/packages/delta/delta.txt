@@ -7331,7 +7331,7 @@ debatement 2
 deticker
 dogtoothing 1
 drumheads 1
-dueful
+dueful 1
 dematerialisation
 demeritorious
 detinet
