@@ -3893,7 +3893,7 @@ anchorman
 adjectional
 antireductive
 anastatica
-autoactivation
+autoactivation 1
 adjectives
 acetine
 anagogy
