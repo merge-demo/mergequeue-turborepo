@@ -2948,7 +2948,7 @@ bioenvironmentaly
 blind
 benefactor
 begorra
-bureaucratize
+bureaucratize 1
 barreling
 bibaciousness 1
 backbiting
