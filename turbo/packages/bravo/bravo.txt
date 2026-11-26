@@ -85,7 +85,7 @@ blepharoblennorrhea 1
 bookcase
 balanite
 ballfield
-babelize
+babelize 1
 beshlik 1
 babels
 belinda
@@ -17182,7 +17182,7 @@ bar 1
 boggin
 bulletproof
 beewinged 1
-bullnoses
+bullnoses 1
 bullnut
 beetroot
 bandlimiting
