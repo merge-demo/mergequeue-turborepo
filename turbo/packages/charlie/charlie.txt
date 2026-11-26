@@ -4502,7 +4502,7 @@ carnages
 casamarca
 carnalite
 culverin
-carnalize
+carnalize 1
 counterexposition
 carolingian
 confederative
