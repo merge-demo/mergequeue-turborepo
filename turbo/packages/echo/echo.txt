@@ -11799,7 +11799,7 @@ ectothermic 1
 exauthorizeexc 1
 elatery 1
 evanescently
-ethoxyl
+ethoxyl 1
 exceptio
 epileptics
 eoiths
