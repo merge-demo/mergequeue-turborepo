@@ -1459,7 +1459,7 @@ gasalier 1
 gaoler
 gowks
 gamma
-gerousia
+gerousia 1
 gove 1
 gynocardia
 gradualness 1
