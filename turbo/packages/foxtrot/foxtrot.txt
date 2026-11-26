@@ -11746,7 +11746,7 @@ flanking
 fatherland 1
 followings
 factorage
-fumados
+fumados 1
 fuzees
 fauvette
 fenchol
