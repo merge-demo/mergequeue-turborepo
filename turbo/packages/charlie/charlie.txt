@@ -10980,7 +10980,7 @@ contraposita
 chiropterygian 1
 chiros
 chirotherian
-casern
+casern 1
 corrals
 comessation
 crawls
