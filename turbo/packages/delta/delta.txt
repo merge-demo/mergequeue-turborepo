@@ -12776,7 +12776,7 @@ disloyalist 1
 disloyally
 decrepity
 downcomer 1
-dot
+dot 1
 doored
 disloyalties
 dislove
