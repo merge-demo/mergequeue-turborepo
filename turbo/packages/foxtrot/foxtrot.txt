@@ -768,7 +768,7 @@ fabricating 1
 farcilite 1
 fishgrass 1
 figurines 1
-fluxions
+fluxions 1
 fustilarian
 frazzled
 frig 1
