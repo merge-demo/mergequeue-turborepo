@@ -2582,7 +2582,7 @@ decodon
 disfriar 1
 diswarrened 1
 decoherence 1
-dirndl
+dirndl 1
 duramatral
 draffy
 disgustingness 1
