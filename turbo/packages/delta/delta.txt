@@ -9643,7 +9643,7 @@ deflowerer
 displants
 dicerion
 definitive 2
-devisee
+devisee 1
 dika
 dotage 1
 dampened
