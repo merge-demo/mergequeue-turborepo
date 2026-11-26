@@ -85,7 +85,7 @@ blepharoblennorrhea 1
 bookcase
 balanite
 ballfield
-babelize
+babelize 1
 beshlik 1
 babels
 belinda
