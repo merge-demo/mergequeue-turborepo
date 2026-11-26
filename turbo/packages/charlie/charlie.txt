@@ -19553,7 +19553,7 @@ chamfrons
 cusp
 centriole
 crocky
-copesetic
+copesetic 1
 columbotantalate
 crepiness
 confession
