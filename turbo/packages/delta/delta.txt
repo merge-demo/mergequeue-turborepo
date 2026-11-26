@@ -17005,7 +17005,7 @@ dendrocoela
 disjoined
 diacritically
 displenish 1
-dregs
+dregs 1
 defrication
 dampeners
 disemplaned
