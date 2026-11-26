@@ -10975,7 +10975,7 @@ bloodlessness
 bescoured
 biorbital
 blindness
-bignoniad
+bignoniad 1
 bombers
 bookful 1
 blindstories
@@ -17479,7 +17479,7 @@ butic
 bena 1
 buprestis
 belat 2
-brob 1
+brob 2
 briskening
 bragwort
 biteless 1
