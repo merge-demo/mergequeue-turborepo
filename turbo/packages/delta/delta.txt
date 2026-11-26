@@ -8067,7 +8067,7 @@ dhootis 1
 denaturant
 domesticated
 dysgenetic 2
-disendowment
+disendowment 1
 durzi
 dispersedye
 dhritarashtra
