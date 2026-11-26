@@ -1114,7 +1114,7 @@ genically
 generatively
 gashouses
 gearshifts 1
-gravitate
+gravitate 1
 graptolitic
 gallants
 gwyniad 1
