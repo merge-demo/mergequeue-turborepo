@@ -1708,7 +1708,7 @@ dornecks
 dumetose 1
 deasil 1
 dearness 2
-douanier
+douanier 1
 dispensations
 decostate 2
 defensibility
