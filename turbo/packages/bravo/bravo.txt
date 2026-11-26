@@ -13317,7 +13317,7 @@ botanics 1
 bridechamber
 botanies
 botanist
-botanize 1
+botanize 2
 brushmen
 boswellizing
 bescreening 1
