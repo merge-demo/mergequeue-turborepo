@@ -7965,7 +7965,7 @@ complainable 2
 cosiness 1
 caravansaries
 camphoraceous
-chaccon
+chaccon 1
 chachalakas
 chackchiuma
 cannelon
