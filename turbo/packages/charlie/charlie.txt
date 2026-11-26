@@ -20833,7 +20833,7 @@ componency
 caciocavallo 1
 compared
 componendo
-component 1
+component 2
 componented 1
 confronters
 componential
@@ -29624,7 +29624,7 @@ calkage
 crofter
 cauliflory
 cottagey
-chartered
+chartered 1
 cloyedness
 crocketed
 conder
