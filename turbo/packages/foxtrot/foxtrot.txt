@@ -194,7 +194,7 @@ felsitic
 ferrihemoglobin
 furloughing 1
 feower
-furcate
+furcate 1
 frasier
 factrix 1
 footmanship 1
