@@ -25449,7 +25449,7 @@ cornuated
 coelastraceae
 cornubianite 1
 cornule
-constringed
+constringed 1
 corporatism
 concerti
 cornupete 1
