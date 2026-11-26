@@ -4266,7 +4266,7 @@ girse
 grubless 2
 gravidity
 gymnic 2
-gymnemic 1
+gymnemic 2
 gloeosporiose
 gawks
 geodesist
