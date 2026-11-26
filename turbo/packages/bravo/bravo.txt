@@ -3490,7 +3490,7 @@ bibliolatrous
 bigamizing
 bogard
 bathylite
-bovine
+bovine 1
 basts
 banuyo
 basural
