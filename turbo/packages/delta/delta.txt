@@ -18218,7 +18218,7 @@ diamagnetometer
 detonatability
 dermatorrhoea 1
 dode
-decurrent
+decurrent 1
 dunderfunk
 debbies
 dunderheadedness
