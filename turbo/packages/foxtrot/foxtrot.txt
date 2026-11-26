@@ -8828,7 +8828,7 @@ fibrousness
 foul
 fogger
 finesse
-franticness
+franticness 1
 flowery
 fervorless
 foulder
