@@ -29624,7 +29624,7 @@ calkage
 crofter
 cauliflory
 cottagey
-chartered
+chartered 1
 cloyedness
 crocketed
 conder

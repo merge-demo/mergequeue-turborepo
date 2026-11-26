@@ -9736,7 +9736,7 @@ frequenters
 ferijee
 frequentest 2
 feldspar
-frapp
+frapp 1
 fallacies 1
 frustulent
 falchion
