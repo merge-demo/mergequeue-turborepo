@@ -30017,7 +30017,7 @@ concentrically 1
 complaintive
 crottle
 crouch
-crouchant
+crouchant 1
 carditic 1
 chilognathan
 collare
