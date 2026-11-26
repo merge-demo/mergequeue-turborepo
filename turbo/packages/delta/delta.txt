@@ -17240,7 +17240,7 @@ driftweed
 degged 1
 drivewell
 driving
-disclamatory 1
+disclamatory 2
 drizzles
 drunkeries
 demulsifier 1
