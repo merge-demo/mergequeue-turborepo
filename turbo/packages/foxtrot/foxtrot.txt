@@ -6332,7 +6332,7 @@ footropes
 ferriage 1
 fixup 1
 fluvio
-floppies
+floppies 1
 fretten 1
 fluoresceine 1
 flameless
