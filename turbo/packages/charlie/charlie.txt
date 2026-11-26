@@ -9594,7 +9594,7 @@ cheekless 1
 cheeney
 cheep
 courtierism
-cheeper
+cheeper 1
 cynodontia
 capernaite
 concertanto
