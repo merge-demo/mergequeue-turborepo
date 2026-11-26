@@ -10390,7 +10390,7 @@ disreputable
 dipetto
 dismayingness
 diphasic
-dovetailer
+dovetailer 1
 diphenhydramine
 diacidic 1
 diphenylamine
