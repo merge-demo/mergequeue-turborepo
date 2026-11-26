@@ -8292,7 +8292,7 @@ funniest
 favuses
 foryield 2
 furnished
-fautorship
+fautorship 1
 foxtrot 1
 fantasmagoria
 fodge 1
