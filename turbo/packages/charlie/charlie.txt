@@ -4232,7 +4232,7 @@ condensation
 characteristic
 coauthored
 cashel
-cursillo
+cursillo 1
 careless
 carelessly
 carelessness 1
