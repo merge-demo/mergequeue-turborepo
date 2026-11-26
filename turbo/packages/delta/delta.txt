@@ -4260,7 +4260,7 @@ dhoney
 deplores
 demagnetizing
 devoutness
-durning
+durning 1
 delimit 1
 duckhood
 dequeue
@@ -8867,7 +8867,7 @@ diccon 1
 depolariser
 daimio
 dermatitis
-dice
+dice 1
 diceboard
 daunomycin
 disbud
