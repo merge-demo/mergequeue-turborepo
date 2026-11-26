@@ -16987,7 +16987,7 @@ annoyously
 adorned
 americanizer
 abanet
-apneumona
+apneumona 1
 apneumonous 1
 agrammatical
 apneusis
