@@ -8883,7 +8883,7 @@ fragged
 fossicker 1
 flueman 1
 factious
-filosus 1
+filosus 2
 faultfinder
 funambulist
 fuddling

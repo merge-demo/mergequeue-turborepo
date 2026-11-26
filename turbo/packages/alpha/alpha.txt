@@ -2000,7 +2000,7 @@ arterial
 acetosoluble
 acetostearin
 acetothienone
-antiaesthetic
+antiaesthetic 1
 accessible
 aporrhais 1
 acetous
