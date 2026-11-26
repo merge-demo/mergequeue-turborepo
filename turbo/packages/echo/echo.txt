@@ -9900,7 +9900,7 @@ eerily
 eluders 1
 extrinsication
 exilian
-elongative
+elongative 1
 earmarks
 estimations
 eprosy 1
