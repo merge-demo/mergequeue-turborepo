@@ -20093,7 +20093,7 @@ cakra
 cyanogen
 cavernicolous
 characterologist
-collectedness
+collectedness 1
 cretinous
 counterterm
 continence
