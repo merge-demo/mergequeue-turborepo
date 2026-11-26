@@ -4411,7 +4411,7 @@ farinaceously
 fishiness 2
 fraxin
 fluigramme
-frogwort
+frogwort 1
 felstone 1
 frenghi 1
 fraiser
