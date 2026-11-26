@@ -8323,7 +8323,7 @@ emulating
 eagling
 epitheme
 effierce
-evangelise
+evangelise 1
 enscrolls
 eternizing
 enslaved 1
@@ -13929,7 +13929,7 @@ expiscated
 eruditeness
 eliminatory
 entortill
-extorter
+extorter 1
 ectoderm
 eburnated
 electee 1
