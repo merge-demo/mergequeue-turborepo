@@ -12830,7 +12830,7 @@ excusefully 1
 emboldener
 evangelicity
 ensepulchered
-edgeways
+edgeways 1
 excavation
 eucaines
 empacket
