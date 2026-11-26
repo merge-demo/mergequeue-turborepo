@@ -9767,7 +9767,7 @@ essentially
 exigencies
 expeditation
 eightballs
-earthquave 1
+earthquave 2
 eumelanin 2
 enneagon
 empoisoner
