@@ -10268,7 +10268,7 @@ froideur 1
 froise
 frokin
 fleetness
-feme 1
+feme 2
 filum
 felons 1
 fistinut 1
