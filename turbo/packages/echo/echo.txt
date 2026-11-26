@@ -13338,7 +13338,7 @@ encowl
 enough 1
 erithacus
 entitled
-exceedingly 1
+exceedingly 2
 enrough
 entreated 1
 epicotyleal
