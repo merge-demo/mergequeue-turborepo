@@ -12490,7 +12490,7 @@ braeman
 bromgelatin
 bulbose
 bondsmen
-bonify
+bonify 1
 bruscha 1
 bdls
 boltings
