@@ -6375,7 +6375,7 @@ drifters
 doxology
 derrises
 deruinate 1
-derust
+derust 1
 decameronic
 dispathy
 dervishism
