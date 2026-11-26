@@ -8323,7 +8323,7 @@ emulating
 eagling
 epitheme
 effierce
-evangelise
+evangelise 1
 enscrolls
 eternizing
 enslaved 1
