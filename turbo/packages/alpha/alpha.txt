@@ -9365,7 +9365,7 @@ adiposis 1
 alphabetised
 abecedarians
 alphabetiser 1
-amanda
+amanda 1
 alphabetized
 alphabetizer
 auditioned
