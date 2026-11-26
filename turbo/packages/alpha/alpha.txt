@@ -13318,7 +13318,7 @@ adipopexic
 alfreda
 albireo
 aurifex
-agglutinability
+agglutinability 1
 autosome
 abobra
 anthelminthic
