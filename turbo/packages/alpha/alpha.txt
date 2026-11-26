@@ -931,7 +931,7 @@ atomistics
 absolvitor
 aldolize
 alloxy
-anda
+anda 1
 animous
 appeasably 1
 absonous
