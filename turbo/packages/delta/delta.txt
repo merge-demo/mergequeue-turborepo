@@ -3720,7 +3720,7 @@ deia 1
 deadpanner
 dyostyle
 dor
-dwale
+dwale 1
 disgracia 1
 drillable 1
 dynamites
