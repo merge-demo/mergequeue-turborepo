@@ -7791,7 +7791,7 @@ fashionableness
 felonwood 1
 fowlerite
 fritterers
-foreordinate
+foreordinate 1
 floridian
 forespent
 finns 1
