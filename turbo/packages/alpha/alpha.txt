@@ -10893,7 +10893,7 @@ ammoniated
 ammoniating 1
 antioxygenator
 ammoniation
-ammonical
+ammonical 1
 alienness
 ascendible
 atonic
