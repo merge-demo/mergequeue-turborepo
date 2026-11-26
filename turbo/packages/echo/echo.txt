@@ -13990,7 +13990,7 @@ eucryphia
 eodevonian
 espagnolette
 echinodermic 1
-eyepoint
+eyepoint 1
 equalising
 erythromania 1
 eisegetic
