@@ -6921,7 +6921,7 @@ antivitalistic 1
 alkalified
 afflatus
 airtimes
-alanyls
+alanyls 1
 assailment
 amende
 apostrophic
