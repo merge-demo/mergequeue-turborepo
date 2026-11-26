@@ -1418,7 +1418,7 @@ damnit
 dawk 1
 diapering
 dioptrate 1
-dogly
+dogly 1
 dehydrogenates 1
 disassimilated 1
 dicarbonic
@@ -9504,7 +9504,7 @@ digitalin 1
 deputationize
 dispergator
 digitated 1
-demissly
+demissly 1
 darkmans
 doneness
 digitigradism
