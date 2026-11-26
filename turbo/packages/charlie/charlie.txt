@@ -4049,7 +4049,7 @@ cestui 1
 cleronomy
 caliginous
 cardiacle
-cardiagra
+cardiagra 1
 cataclasm
 cardiagram
 cardiagraphy
@@ -26812,7 +26812,7 @@ cottiest 1
 counterembattled
 counterenergy
 counterengagement
-corporator
+corporator 1
 cambiogenetic
 counterengine
 counterenthusiasm
