@@ -17776,7 +17776,7 @@ alluringly 1
 applosion
 applosive
 ataxia
-antiguan
+antiguan 1
 aortorrhaphy
 azoxybenzene
 asphyxiate
