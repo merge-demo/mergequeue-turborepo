@@ -12208,7 +12208,7 @@ agaonidae
 aneretic
 algebrization
 anatropal
-antiquers
+antiquers 1
 ambitiousness
 agremens
 arachnidium 1
