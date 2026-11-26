@@ -3007,7 +3007,7 @@ barrister
 bootless
 banda
 buat
-bothlike
+bothlike 1
 backwinded
 burrel
 barroom
@@ -6292,7 +6292,7 @@ brinehouse
 bissextus
 battalions
 biuret
-bairam
+bairam 1
 bosporus
 blastogenesis
 bubas
