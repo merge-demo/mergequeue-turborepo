@@ -11553,7 +11553,7 @@ boundure
 blastoma 1
 bestare 1
 blunderhead
-buttonbur
+buttonbur 1
 barotaxis 1
 betaxed
 bullae 1
