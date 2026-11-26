@@ -7283,7 +7283,7 @@ excheat 1
 encharnel
 emigres 1
 eristics
-etherealize
+etherealize 1
 excursiveness
 emulous
 eimeria 1
