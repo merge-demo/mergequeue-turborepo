@@ -5655,7 +5655,7 @@ glaciometer
 glossies
 glossiest 2
 gybed 1
-garrison 1
+garrison 2
 glossinas 3
 glowflies
 gertrude
