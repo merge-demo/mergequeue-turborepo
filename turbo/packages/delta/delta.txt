@@ -5678,7 +5678,7 @@ diazotizability
 droves
 damagingly
 deliberating
-debater
+debater 1
 duree
 disjoint
 descriptor 1
