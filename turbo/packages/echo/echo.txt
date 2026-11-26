@@ -9728,7 +9728,7 @@ escopette
 external 1
 epicoelar
 extraterritorial
-essedones
+essedones 1
 eisoptrophobia 1
 extollers
 essency

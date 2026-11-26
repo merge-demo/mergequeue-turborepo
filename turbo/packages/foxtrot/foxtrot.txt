@@ -4115,7 +4115,7 @@ flamberg 1
 foreseen
 futuramic
 falsehoods 1
-forkiest
+forkiest 1
 faff
 fontanel
 flywheel
