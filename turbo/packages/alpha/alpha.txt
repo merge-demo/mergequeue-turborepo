@@ -5860,7 +5860,7 @@ aquicolous
 abusion
 allopatrically
 adolph
-agenting
+agenting 1
 agentives
 armadillidium
 adducing
