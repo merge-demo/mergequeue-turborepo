@@ -2334,7 +2334,7 @@ daikon
 doctorfish
 dechloridation
 dechloridize
-dendrites
+dendrites 1
 dechlorinate
 dillweed 1
 dysgenesis

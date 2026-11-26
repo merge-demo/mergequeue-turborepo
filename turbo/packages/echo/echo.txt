@@ -2672,7 +2672,7 @@ epididymovasostomy 1
 egotist
 esophagism
 eyra
-emmanuel 1
+emmanuel 2
 earhead
 emborder
 electrotechnician 1
@@ -9718,7 +9718,7 @@ exceptional
 empathize
 embacle
 exocarps
-european 1
+european 2
 essart
 esse
 evangelizing
