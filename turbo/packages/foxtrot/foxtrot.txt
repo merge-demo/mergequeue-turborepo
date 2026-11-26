@@ -1625,7 +1625,7 @@ footroom
 floriage
 fraters 1
 flappier
-frijol
+frijol 1
 formalistic 1
 fervescence
 flannel 1
