@@ -9037,7 +9037,7 @@ dictational 1
 dictatory
 dihexahedral
 dorsals
-dictyodromous
+dictyodromous 1
 deafest
 dictyogen 1
 diction
