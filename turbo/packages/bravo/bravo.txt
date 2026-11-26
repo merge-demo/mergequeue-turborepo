@@ -15351,7 +15351,7 @@ bluffers
 bordarius
 bardolph
 bursa 1
-baalize
+baalize 1
 batrachidae
 bridgetin 1
 brailled 1

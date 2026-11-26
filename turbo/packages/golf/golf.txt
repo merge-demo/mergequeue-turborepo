@@ -7062,7 +7062,7 @@ gedanken 1
 grumly
 granum
 glucosulfone 1
-glycol
+glycol 1
 gyroscopes
 grassation 2
 gendarmery
