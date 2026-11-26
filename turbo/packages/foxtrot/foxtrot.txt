@@ -1763,7 +1763,7 @@ fluphenazine
 funicule
 fossildom 1
 fibropsammoma 1
-fantasmagoric
+fantasmagoric 1
 famatinite
 featheredged 1
 fanzines 1
