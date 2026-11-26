@@ -1719,7 +1719,7 @@ fleeching
 fingertip
 foreordaining
 forehandsel
-fearsomeness
+fearsomeness 1
 foreshape
 feased
 fumigant 1
