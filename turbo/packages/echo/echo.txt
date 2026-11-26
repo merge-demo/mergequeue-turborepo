@@ -5897,7 +5897,7 @@ expend
 enhaemospore
 epiplastron
 explees
-ecarinate
+ecarinate 1
 execrators 1
 entwine 1
 epitomise
