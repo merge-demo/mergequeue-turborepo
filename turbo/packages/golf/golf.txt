@@ -3970,7 +3970,7 @@ gouter
 gansey 1
 gubbings 2
 gellert
-gastrogenous
+gastrogenous 1
 gilds
 grandness
 gerundive
