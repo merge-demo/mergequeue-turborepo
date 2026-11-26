@@ -9399,7 +9399,7 @@ autoscience
 alphitomorphous
 acetolytic
 ateliosis
-alphol
+alphol 1
 amphopeptone 1
 acture 1
 antilobium
