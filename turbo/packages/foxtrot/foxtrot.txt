@@ -10432,7 +10432,7 @@ feudalistic 1
 fringeflower
 fossified 1
 featherwood 1
-fountainously
+fountainously 1
 firsts 1
 fusileers
 flandan
