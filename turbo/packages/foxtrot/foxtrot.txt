@@ -4862,7 +4862,7 @@ fuci
 fixes
 firmhearted
 frondiferous
-fetching
+fetching 1
 fetisheer
 friskest
 fore 1
@@ -9124,7 +9124,7 @@ foreteller
 fracturing
 flock
 filicide 2
-formes 3
+formes 4
 frenchiness
 foolify
 formicaria
