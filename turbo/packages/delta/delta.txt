@@ -8867,7 +8867,7 @@ diccon 1
 depolariser
 daimio
 dermatitis
-dice
+dice 1
 diceboard
 daunomycin
 disbud
