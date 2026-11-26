@@ -390,7 +390,7 @@ apologetic 1
 alonely
 agminate
 amoved
-addressograph
+addressograph 1
 asteriscuses
 auditions 1
 acapnial 1
