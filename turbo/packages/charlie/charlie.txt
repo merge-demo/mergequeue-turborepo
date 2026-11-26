@@ -10274,7 +10274,7 @@ cremating
 canthus
 chichicaste 1
 chontawood
-chichimec
+chichimec 1
 chichipe
 carvyl
 corometer
