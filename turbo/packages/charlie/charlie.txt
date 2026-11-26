@@ -11391,7 +11391,7 @@ cyclamates 1
 counterpillar
 cheekier
 chlorotically
-cantered
+cantered 1
 chlorous
 chlorozincate
 chlorpheniramine
