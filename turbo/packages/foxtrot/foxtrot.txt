@@ -7826,7 +7826,7 @@ forepossessed 1
 formulate
 foreshots 2
 fulgurant 1
-furfuraldehyde
+furfuraldehyde 1
 facings 1
 flenses
 fidges
