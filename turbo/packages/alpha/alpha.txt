@@ -20409,7 +20409,7 @@ abigails
 arsinic 2
 arsino
 arsis
-arsle
+arsle 1
 acarus
 apothegmatize 1
 arson
