@@ -632,7 +632,7 @@ declassed
 damnableness
 damnedest
 derbukka
-dioptoscopy
+dioptoscopy 1
 decoyman
 dextroversion 1
 dinoflagellata
