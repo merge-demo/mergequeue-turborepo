@@ -12908,7 +12908,7 @@ expansile
 expansionism 2
 englyn
 esotropic
-expansionist
+expansionist 1
 expansionistic
 enserf
 eructs
