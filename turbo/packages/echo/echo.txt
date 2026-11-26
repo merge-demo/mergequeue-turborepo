@@ -4536,7 +4536,7 @@ ecclesiastic
 elevatedness
 externize
 enureses
-emplaned
+emplaned 1
 embarkation
 encephalotome
 ethics 1
@@ -13929,7 +13929,7 @@ expiscated
 eruditeness
 eliminatory
 entortill
-extorter
+extorter 1
 ectoderm
 eburnated
 electee 1
