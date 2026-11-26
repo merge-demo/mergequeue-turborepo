@@ -7026,7 +7026,7 @@ acuteness
 ajoint
 ajuga
 akal 1
-akali
+akali 1
 akamai
 annoyed
 akan
