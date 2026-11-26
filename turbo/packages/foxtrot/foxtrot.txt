@@ -9985,7 +9985,7 @@ foun
 futureless 1
 fibroid
 feracity 1
-firelike
+firelike 1
 frigotherapy 1
 facial
 fencings
