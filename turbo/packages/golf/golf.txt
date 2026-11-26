@@ -3978,7 +3978,7 @@ gushingly
 graybacks
 grossierete
 garter
-glochidium
+glochidium 1
 galabiya 1
 georgium
 gesan 1
@@ -9490,7 +9490,7 @@ glenn 1
 generalizer
 gloving
 gundelow
-ganoidean
+ganoidean 1
 grouser
 gorgeted 2
 gyred
