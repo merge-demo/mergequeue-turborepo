@@ -22687,7 +22687,7 @@ conocuneus
 coderiving
 conodont
 contractiveness 1
-chrysatropic
+chrysatropic 1
 calmato
 catarrhinian
 conoidic
