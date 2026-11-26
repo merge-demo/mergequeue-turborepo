@@ -18111,7 +18111,7 @@ applaudable
 antereformation
 accounsel 2
 apokreos
-autotransfusion
+autotransfusion 1
 artocarpus
 attesters
 apus
