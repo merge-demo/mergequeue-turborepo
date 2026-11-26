@@ -2187,7 +2187,7 @@ geoponics
 galea
 geldability
 goniostat
-goldfinches 1
+goldfinches 2
 galliards 1
 glistening 1
 glisters
