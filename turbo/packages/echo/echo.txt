@@ -8299,7 +8299,7 @@ ependytes
 embrown
 extremis
 epigyny
-epistemic
+epistemic 1
 epitheliolytic
 estragole
 eskimoic
