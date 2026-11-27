@@ -893,7 +893,7 @@ ectosarc
 essoining
 exercises
 extensivity
-expeditionary
+expeditionary 1
 enures 1
 emperies
 extrastate

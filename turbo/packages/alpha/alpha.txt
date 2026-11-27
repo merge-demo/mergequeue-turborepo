@@ -6356,7 +6356,7 @@ anticlassicism
 arsonium
 airs
 anticonventionalism 1
-assertedly
+assertedly 1
 amoeba
 akhund
 anamorphote
