@@ -8284,7 +8284,7 @@ dispossess
 droob
 dieted
 dissimile
-disinvigorate
+disinvigorate 1
 defocus
 dermatopathia
 diaguitas 1
