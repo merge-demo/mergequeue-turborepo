@@ -2958,7 +2958,7 @@ actinautographic
 aerotonometer
 actine
 actinenchyma 1
-artiness
+artiness 1
 antijam
 acting
 appalment
@@ -8424,7 +8424,7 @@ antilipoid
 adjusted
 aljamia
 areological
-attirail
+attirail 1
 atfalati
 annotators
 aortostenosis
