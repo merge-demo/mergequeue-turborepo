@@ -30207,7 +30207,7 @@ capitoulate
 concentrators
 cains
 cursed
-cleistothecia
+cleistothecia 1
 crudity 1
 collotypy
 crudities
