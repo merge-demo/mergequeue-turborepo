@@ -10009,7 +10009,7 @@ balor 2
 brian
 bx
 bituminous
-bisecting
+bisecting 1
 beryllate
 bilinguality
 bridleman 1
