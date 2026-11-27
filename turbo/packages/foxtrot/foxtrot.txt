@@ -4992,7 +4992,7 @@ fledging
 factordom 1
 fullage
 fribourg
-formals
+formals 1
 flick
 flankers 1
 feued
