@@ -3076,7 +3076,7 @@ brigantine
 baruch
 bitten
 betatter
-briery 1
+briery 2
 bialate
 bikhaconitine
 biobibliographical
