@@ -20431,7 +20431,7 @@ circumfluent
 counterword 1
 cerebroma
 cannels
-company
+company 1
 companias
 condensative
 connie 1
