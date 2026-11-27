@@ -7136,7 +7136,7 @@ edriophthalmous
 envisioning
 epistolising
 egomaniacally
-enshadow
+enshadow 1
 exoner
 episterna
 echeneidid
