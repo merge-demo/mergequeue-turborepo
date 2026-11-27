@@ -24437,7 +24437,7 @@ antiutilitarianism 2
 autoanticomplement
 anacrustic 1
 acropora
-autotetraploid
+autotetraploid 1
 assistanted
 autotetraploidy
 aah 1
