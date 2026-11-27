@@ -1381,7 +1381,7 @@ fruticeous
 filecard 1
 flenser
 fullword 1
-filicology 1
+filicology 2
 fractostratus 1
 forspoke
 fishboat
