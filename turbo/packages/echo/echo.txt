@@ -13596,7 +13596,7 @@ evasions
 echidnas 1
 emmenagogic
 escheating 1
-enjoinder
+enjoinder 1
 embroiders
 epoxides
 extraparochially
