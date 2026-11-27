@@ -5130,7 +5130,7 @@ beflag
 bamboo
 binits
 basilicon
-beflagged
+beflagged 1
 broidering
 burrows
 bodymaking 1

@@ -12142,7 +12142,7 @@ advisements
 activital 1
 anatase
 ardebs
-anatases
+anatases 1
 ancestress
 apogamically
 aspartate 1
