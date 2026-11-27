@@ -8843,7 +8843,7 @@ allobaric
 ammonolyses 1
 adolescency 1
 anthophore
-allobrogical
+allobrogical 1
 abidance
 absorption
 atturn
