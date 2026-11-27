@@ -7078,7 +7078,7 @@ gopherberry 1
 guernsey
 gopherberries
 garbologist
-goatherd 1
+goatherd 2
 glaucously
 geophila 1
 graphologic
