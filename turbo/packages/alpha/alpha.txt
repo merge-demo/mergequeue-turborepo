@@ -5263,7 +5263,7 @@ anthomedusae
 atonement
 alemanni
 aggerate
-affinities
+affinities 1
 affinition 1
 apostrophe
 affinitive
