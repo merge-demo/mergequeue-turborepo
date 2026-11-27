@@ -2102,7 +2102,7 @@ ebullioscope
 emulge
 excretory
 elastica
-emboweled
+emboweled 1
 extrapolator
 elastically 1
 extensionally
