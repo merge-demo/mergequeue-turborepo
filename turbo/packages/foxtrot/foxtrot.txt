@@ -10318,7 +10318,7 @@ frazed
 fluormeter 1
 ferrates
 farnesses
-factor
+factor 1
 frenziedness
 forleaving 1
 foundationless 1
