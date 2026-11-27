@@ -4046,7 +4046,7 @@ extralegally 1
 ejaculate 1
 empirema 1
 estately
-exopoditic
+exopoditic 1
 elsewhen
 evangelizes
 executrices
