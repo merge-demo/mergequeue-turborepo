@@ -4194,7 +4194,7 @@ goliath
 gomavel 2
 gynarchic 1
 gazella
-geumatophobia 1
+geumatophobia 2
 gradometer 1
 galravitch
 ghostless
