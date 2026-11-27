@@ -7678,7 +7678,7 @@ devil 1
 disciplinary
 devildom
 druery
-dealerdom
+dealerdom 1
 deviled 2
 dallis
 demonically
@@ -13810,7 +13810,7 @@ dirndls
 dissuasively 1
 detruncate
 drayed
-dengues 1
+dengues 2
 dissuit
 derogatorily
 dispauperize
