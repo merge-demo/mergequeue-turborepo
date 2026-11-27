@@ -7149,7 +7149,7 @@ gillotage
 granuloma 1
 gonomery
 geniuses
-geelbeck 1
+geelbeck 2
 grassier 1
 galactophorous
 grizzlies 1
@@ -7976,7 +7976,7 @@ granada
 glazy
 gossiping
 gables
-grandmotherly
+grandmotherly 1
 groutnoll
 glistens
 gymnastical
