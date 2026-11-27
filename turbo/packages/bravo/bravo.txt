@@ -17564,7 +17564,7 @@ burgality 1
 beaufort
 bouses
 burgall
-biddance 1
+biddance 2
 burgamot
 bootjacks 1
 balante
