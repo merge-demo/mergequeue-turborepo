@@ -798,7 +798,7 @@ ginneries 1
 goose
 genuclast
 gracefullest
-geologised
+geologised 1
 gandergoose
 girllikeness
 gamashes 1
