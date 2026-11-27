@@ -11396,7 +11396,7 @@ furnishable
 feckulence 1
 fluoroformol
 frontirostria 1
-forgiveably
+forgiveably 1
 footballer
 flushness
 fleak
