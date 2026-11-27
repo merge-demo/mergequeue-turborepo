@@ -4820,7 +4820,7 @@ gaff
 gallybagger 1
 geopolar 1
 guttersnipe 2
-guessed
+guessed 1
 gorgonizing
 gladiatrix 1
 goyim
