@@ -6056,7 +6056,7 @@ florisugent 1
 funambule
 flauntingly 1
 forsook 3
-feak
+feak 1
 foretriangle
 fleyland
 forecome
