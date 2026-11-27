@@ -3319,7 +3319,7 @@ embassade
 emanatist 1
 epical
 eternalized
-emanativ
+emanativ 1
 erupt 1
 enwreath
 enzooty
