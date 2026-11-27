@@ -14631,7 +14631,7 @@ assignments
 antialcoholic
 akerite
 antialcoholism
-antialcoholist
+antialcoholist 1
 antialdoxime
 angiectopia
 anchorless 1
