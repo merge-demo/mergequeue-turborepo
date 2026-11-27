@@ -673,7 +673,7 @@ frissons
 foreschooling
 formism 2
 flan 1
-folklorish
+folklorish 1
 furtherly
 faunistical
 fellow
