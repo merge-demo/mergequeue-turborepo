@@ -987,7 +987,7 @@ amassette
 autopyotherapy
 abstergent
 absterges
-antituberculin
+antituberculin 1
 amphigastrula
 abstersiveness
 aggregable
