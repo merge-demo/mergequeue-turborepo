@@ -3206,7 +3206,7 @@ attributer
 actuality
 actualization
 actualness 1
-allochromatic
+allochromatic 1
 axopetal 1
 antiqued
 adderbolt

@@ -13424,7 +13424,7 @@ companionableness
 cygnus 1
 cigua
 cyl
-comburivorous
+comburivorous 1
 cilectomy
 cornichon
 chassis
