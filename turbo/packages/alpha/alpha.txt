@@ -2884,7 +2884,7 @@ acrophonic 1
 astrol
 aubrite
 antiphonally
-antiendowment
+antiendowment 1
 acropolitan
 asthenope
 archpontiff
