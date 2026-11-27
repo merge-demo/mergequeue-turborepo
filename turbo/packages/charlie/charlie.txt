@@ -24534,7 +24534,7 @@ candlebox
 copatentee 1
 copatriot
 copatroness
-cathectic
+cathectic 1
 crankum
 connascent
 chromatodysopia

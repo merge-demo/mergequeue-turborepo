@@ -5396,7 +5396,7 @@ groomishly
 grotesques
 grandmas
 girsle
-gonfanon 1
+gonfanon 2
 gallah 1
 gluing
 gladful 1
@@ -7078,7 +7078,7 @@ gopherberry 1
 guernsey
 gopherberries
 garbologist
-goatherd 1
+goatherd 2
 glaucously
 geophila 1
 graphologic
