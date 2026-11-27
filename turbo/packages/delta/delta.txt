@@ -13898,7 +13898,7 @@ distensions
 disgress 1
 disprison
 disterminate
-deline
+deline 1
 divast
 declaimant
 disrobed
