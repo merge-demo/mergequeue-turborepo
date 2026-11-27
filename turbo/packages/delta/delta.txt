@@ -14736,7 +14736,7 @@ doctorbird
 dekametre
 declinedness
 darnation 1
-dioptrically
+dioptrically 1
 dedolomitize
 docetae
 deferrable
