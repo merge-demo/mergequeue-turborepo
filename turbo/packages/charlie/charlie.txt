@@ -23509,7 +23509,7 @@ conterminously
 coverslut 1
 conterraneous
 chint 1
-contesseration
+contesseration 1
 concisely
 clethraceae
 contestableness
