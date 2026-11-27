@@ -5694,7 +5694,7 @@ beldams
 bacchar 1
 bilify 1
 belderroot
-bodgie 1
+bodgie 2
 beleaguering
 bongar
 beleapt
