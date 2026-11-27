@@ -10353,7 +10353,7 @@ goadlike 1
 gallivorous
 glaur
 gullibly
-grouseberry
+grouseberry 1
 gelate
 gynic
 gonidiospore
