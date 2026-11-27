@@ -78,7 +78,7 @@ disqualifiable
 diachylon
 dactylology 1
 dognapped
-dactylomegaly
+dactylomegaly 1
 dactylopore 1
 dustyfoot
 dignifying
@@ -15393,7 +15393,7 @@ domiciles
 domiciliate
 domiciliated
 demineralizer
-detectivism
+detectivism 1
 disaffirming
 domification
 distoma
@@ -18218,7 +18218,7 @@ diamagnetometer
 detonatability
 dermatorrhoea 1
 dode
-decurrent 1
+decurrent 2
 dunderfunk
 debbies
 dunderheadedness
