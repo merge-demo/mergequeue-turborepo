@@ -18074,7 +18074,7 @@ dysphemism
 diabetics 1
 dogskin
 dongs
-distichous
+distichous 1
 dungol
 dulocracy
 dissuasory
