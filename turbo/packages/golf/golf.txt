@@ -3714,7 +3714,7 @@ graveldiver 1
 getatable
 gazoz
 goldfield
-generator
+generator 1
 gropingly 1
 germania
 giantkind
