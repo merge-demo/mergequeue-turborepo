@@ -5592,7 +5592,7 @@ guggled
 germanics 1
 gubernacular
 geyserine
-gastralgic
+gastralgic 1
 gobbling
 growsome
 grubbiest
