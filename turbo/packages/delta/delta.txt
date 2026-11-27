@@ -78,7 +78,7 @@ disqualifiable
 diachylon
 dactylology 1
 dognapped
-dactylomegaly
+dactylomegaly 1
 dactylopore 1
 dustyfoot
 dignifying
