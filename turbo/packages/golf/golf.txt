@@ -9910,7 +9910,7 @@ gateway 1
 grisailles 1
 granddaddies
 guaranties
-gradgrindism
+gradgrindism 1
 gymnite
 giddea 3
 gulleting
