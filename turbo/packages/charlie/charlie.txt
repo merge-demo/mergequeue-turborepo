@@ -3653,7 +3653,7 @@ carambole
 coextensively
 caramboling
 cardsharper
-condemningly
+condemningly 1
 caramelisation
 coillen 1
 caramelise
