@@ -898,7 +898,7 @@ determent
 dantean
 dacryopyorrhea
 dolorific
-dantology
+dantology 1
 dashpots
 dextrin
 dewitt
