@@ -25440,7 +25440,7 @@ cornstalks
 crystallographers 1
 cornstone
 cajang
-czars
+czars 1
 cornua
 comdt
 cornual
