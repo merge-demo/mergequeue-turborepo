@@ -10258,7 +10258,7 @@ frust 1
 fgrid
 fjarding
 firiness 2
-fishweed
+fishweed 1
 fennecs
 flamingoes
 foundationed
