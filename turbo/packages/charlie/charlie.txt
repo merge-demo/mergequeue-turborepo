@@ -22718,7 +22718,7 @@ conjecture
 columnizes
 conoscopic
 conplane 1
-centuriation
+centuriation 1
 counterevidence
 cryosphere 1
 conquerer
@@ -27875,7 +27875,7 @@ crabs
 crabstick
 comeatable
 conquians
-crabut
+crabut 1
 crabweed
 coreid 1
 crabwise
