@@ -4976,7 +4976,7 @@ denaturalising
 denaturalized
 dandriff 1
 drovy
-demographers
+demographers 1
 denaturants
 docilely 1
 dueller
