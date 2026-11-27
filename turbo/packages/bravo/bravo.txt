@@ -366,7 +366,7 @@ bequeath
 backfires 1
 brontolite
 brume 1
-bradypepsy
+bradypepsy 1
 backfiring
 basichromatinic
 backflowing
