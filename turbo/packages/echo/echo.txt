@@ -1033,7 +1033,7 @@ emblem
 epipleura 1
 elberta
 expeditions
-eucharistically
+eucharistically 1
 exadversum
 erugo 1
 etchareottine
