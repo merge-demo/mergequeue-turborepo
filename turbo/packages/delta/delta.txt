@@ -15503,7 +15503,7 @@ dogedoms
 desolated
 doncella
 debut
-doncy 1
+doncy 2
 dondaine 1
 desertedly
 done
@@ -15520,7 +15520,7 @@ dobbie
 dualists
 desensitize
 dongola
-drams
+drams 1
 decrew
 doni
 diopsides
