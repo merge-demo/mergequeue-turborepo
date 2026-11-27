@@ -4128,7 +4128,7 @@ etamin
 emperor 1
 epigene
 empestic
-epicanthus
+epicanthus 1
 earthwall
 ejacula
 enrooting 1
