@@ -2076,7 +2076,7 @@ decurvation
 dixiecrat
 dauphiness 1
 diddle
-decalogue
+decalogue 1
 decalvant
 definitizing 1
 doses
