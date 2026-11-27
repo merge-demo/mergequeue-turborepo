@@ -17179,7 +17179,7 @@ decachord
 dreary
 decorums 1
 disentrammel
-dimensions
+dimensions 1
 diander
 dryopteroid
 dysmerism
