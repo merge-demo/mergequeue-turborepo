@@ -15895,7 +15895,7 @@ deepeningly
 dossel
 dossels
 disclaiming
-dossennus
+dossennus 1
 dextrorotary
 dressings
 decapodiform
