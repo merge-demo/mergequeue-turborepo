@@ -17730,7 +17730,7 @@ appliances
 appliant
 appendectomy
 arenous
-anticyclonically
+anticyclonically 1
 antiliberally 1
 androgonia
 applicableness
