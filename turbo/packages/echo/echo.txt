@@ -3343,7 +3343,7 @@ elaeodendron 1
 erythrin
 euphroe 1
 equiangular
-emphemeralness
+emphemeralness 1
 expensefully 1
 ecdyses
 entitative
