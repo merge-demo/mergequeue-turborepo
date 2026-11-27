@@ -3128,7 +3128,7 @@ gurgles
 georgics
 glycosyl 2
 goosetongue 1
-gnast
+gnast 1
 galumphing
 garial
 grangousier
