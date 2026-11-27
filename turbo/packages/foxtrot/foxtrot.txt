@@ -2098,7 +2098,7 @@ finetop
 favorless
 fleshen
 frument 1
-fayence 1
+fayence 2
 fluming
 falcate
 fundraising
