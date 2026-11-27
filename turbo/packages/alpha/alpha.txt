@@ -1666,7 +1666,7 @@ attiwendaronk
 aphonias
 ainsells
 arriccios
-affectionate
+affectionate 1
 accueil
 acculturated
 acculturates
