@@ -15820,7 +15820,7 @@ circumclude
 carbonisation
 cachaca
 comstockery 2
-calisthenical
+calisthenical 1
 cobcab
 callus
 compends
