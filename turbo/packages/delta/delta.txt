@@ -1757,7 +1757,7 @@ deathward 1
 ductility
 docent
 downlier 1
-dispersonify
+dispersonify 1
 deminudity
 dicta
 desmidiologist
