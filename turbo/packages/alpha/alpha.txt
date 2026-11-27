@@ -14625,7 +14625,7 @@ antiaggressionist 1
 antienergistic
 arcus
 antiaggressiveness
-apatela
+apatela 1
 antialbumin
 assignments
 antialcoholic
