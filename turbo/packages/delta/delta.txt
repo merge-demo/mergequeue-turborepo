@@ -17439,7 +17439,7 @@ droughts
 dominium
 drouket
 deskill 1
-dermatographic
+dermatographic 1
 declare
 dendrochronologically
 damascener 1
