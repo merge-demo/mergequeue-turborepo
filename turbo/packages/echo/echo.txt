@@ -9138,7 +9138,7 @@ epitela
 expirable
 enlargements
 entwining 1
-endosiphuncle
+endosiphuncle 1
 eggbeaters
 elegise 1
 exograph 1
