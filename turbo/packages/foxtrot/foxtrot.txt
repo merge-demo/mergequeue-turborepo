@@ -1231,7 +1231,7 @@ flexural
 flinched
 furious
 fatuities
-feodatory
+feodatory 1
 freieslebenite
 funkias
 formene 1
