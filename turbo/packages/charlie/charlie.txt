@@ -25913,7 +25913,7 @@ corsos
 cancrivorous
 capitalization
 congas
-coeternally
+coeternally 1
 cortexes 1
 cortication
 cortices 1
