@@ -5168,7 +5168,7 @@ anticommunist
 afenil
 autochanger
 adiaphory
-afetal 1
+afetal 2
 agomensin
 apyrexia
 ambilaevous
@@ -14178,7 +14178,7 @@ acromyodi
 allergic
 amphithere
 abcissa
-antepirrhema
+antepirrhema 1
 absolutions
 avine
 anteporticoes
