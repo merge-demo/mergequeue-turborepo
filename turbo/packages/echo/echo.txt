@@ -4563,7 +4563,7 @@ enchancement
 empeoplement
 enchanted
 eschara
-empiry
+empiry 1
 eunuchise
 euthycomic 1
 encephalola
