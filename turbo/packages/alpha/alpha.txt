@@ -15301,7 +15301,7 @@ aitiotropic 1
 archeol
 anthracite
 adapters
-amperages
+amperages 1
 antihero
 amphoriskos
 antihierarchy
