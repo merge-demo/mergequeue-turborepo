@@ -3223,7 +3223,7 @@ dyeleaves
 deblocked
 daughterliness
 dockhead 1
-domesticate
+domesticate 1
 defiber
 deionized 1
 dominie
