@@ -24644,7 +24644,7 @@ avenage
 avenant
 avenary
 avenge
-abnegated
+abnegated 1
 absurdness
 avengeful
 adventureship
