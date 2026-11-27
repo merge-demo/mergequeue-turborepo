@@ -951,7 +951,7 @@ bagpipers 1
 bandyball
 bardiglio 1
 bismarine
-boscage
+boscage 1
 berryless
 bivinyl 1
 biopsychic
