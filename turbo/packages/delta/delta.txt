@@ -16668,7 +16668,7 @@ destigmatize
 dabblers 1
 deeny 1
 drains
-drageoir
+drageoir 1
 deponer 1
 dedifferentiate
 draintile
