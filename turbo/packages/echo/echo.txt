@@ -1194,7 +1194,7 @@ entirities
 esthiomenus
 espathate
 enlute
-educationist
+educationist 1
 eurypyga 1
 embolum
 excommune
