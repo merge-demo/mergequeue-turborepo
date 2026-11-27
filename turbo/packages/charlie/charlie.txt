@@ -27670,7 +27670,7 @@ cowhouse
 ciconiae
 chamaesyce 1
 clockers
-chincloth
+chincloth 1
 cowier
 cyanaurate
 copalms
