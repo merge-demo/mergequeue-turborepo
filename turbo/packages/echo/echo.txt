@@ -5240,7 +5240,7 @@ edginesses
 edificative 1
 endleaves 1
 euchroic
-euhemerising
+euhemerising 1
 exsected
 extrascriptural
 escartelly 1
