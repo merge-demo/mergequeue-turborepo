@@ -7754,7 +7754,7 @@ forgathering
 finning
 fluorescein
 ferrotyped 1
-frostbite
+frostbite 1
 flocculently 1
 fatelike
 footrail
