@@ -9422,7 +9422,7 @@ divekeeper
 disfranchise
 displume
 deglut 2
-destructively
+destructively 1
 digamma
 demilegato
 downfeed 1
