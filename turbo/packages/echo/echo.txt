@@ -6976,7 +6976,7 @@ entrec
 escalin
 exiting
 effecting
-excisor
+excisor 1
 enditing
 encauma 1
 entrelac 1
