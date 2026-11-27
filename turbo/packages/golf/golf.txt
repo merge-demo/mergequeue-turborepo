@@ -2683,7 +2683,7 @@ gooseweed
 geniculately
 geniculation 1
 granule
-gemarist
+gemarist 1
 gigantocyte 1
 genioglossal
 gastroenterologists
