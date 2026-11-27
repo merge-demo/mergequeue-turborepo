@@ -30335,7 +30335,7 @@ cruppering
 crura
 complexionably
 crural
-counterattacks
+counterattacks 1
 crurogenital
 cruroinguinal
 coadventuress
