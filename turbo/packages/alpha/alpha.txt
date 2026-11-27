@@ -3215,7 +3215,7 @@ antennary
 abstersion 1
 aphis
 ashlar
-actuating
+actuating 1
 activation
 azaserine
 actuation
