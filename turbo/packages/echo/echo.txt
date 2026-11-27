@@ -3949,7 +3949,7 @@ extemporiser
 enstate 1
 emory
 exopathic 1
-escapologist
+escapologist 1
 enchodontoid
 emirate
 electromotive
