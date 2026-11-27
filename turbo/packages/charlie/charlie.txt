@@ -6918,7 +6918,7 @@ cenesthesis
 cletch
 christmasberry
 crowdedness
-confects
+confects 1
 crystallizer 1
 cenesthetic
 cotyligerous 1
