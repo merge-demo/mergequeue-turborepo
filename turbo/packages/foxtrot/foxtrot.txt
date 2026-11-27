@@ -5919,7 +5919,7 @@ foggers 1
 foreshadowing 1
 falstaffian
 flashtubes
-flatwash
+flatwash 1
 foreworld 1
 floodgates 3
 fiercest
