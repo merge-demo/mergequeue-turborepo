@@ -25345,7 +25345,7 @@ azorubine
 aldermanic
 acylation
 aurantia
-answerable
+answerable 1
 agonising 1
 antinucleons
 azosulphonic
