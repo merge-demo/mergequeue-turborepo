@@ -2235,7 +2235,7 @@ dustbox
 determinative
 decelerates
 decembrist
-demnition
+demnition 1
 dyewoods
 decemfoliate
 decempedal
