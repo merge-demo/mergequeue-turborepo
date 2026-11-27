@@ -11084,7 +11084,7 @@ electros 1
 espies 1
 esquiredom
 encage
-emulated
+emulated 1
 emblemish
 eutaenia
 etheostomoid
