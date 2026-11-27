@@ -13456,7 +13456,7 @@ disreputableness
 dittologies
 dispersiveness
 dading
-defamous
+defamous 1
 diphyesis 1
 darnix
 disrespect 1
