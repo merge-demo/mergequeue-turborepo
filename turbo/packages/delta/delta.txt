@@ -871,7 +871,7 @@ dankishness
 discardable 1
 disprovement 1
 delesseria
-developability
+developability 1
 dannebrog
 diactinism
 detraque
