@@ -5860,7 +5860,7 @@ filopodia
 facsimilize
 fates
 flexity 2
-feague 1
+feague 2
 fangas
 flinted 1
 ferrichloride 1
