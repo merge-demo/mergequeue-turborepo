@@ -41,7 +41,7 @@ barblet
 babbittry
 buckeroo
 biplosion
-banally
+banally 1
 brachydomal
 bodleian
 begowned 1
