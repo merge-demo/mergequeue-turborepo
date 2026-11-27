@@ -8765,7 +8765,7 @@ gust 1
 genual
 gelatined
 glacious
-greet 1
+greet 2
 gloves
 gadid 1
 glimpsers 1
