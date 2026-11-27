@@ -20728,7 +20728,7 @@ articulations
 articulative
 alody
 agrostographic 1
-alwise
+alwise 1
 agrosteral
 azeotropy
 aeroscopy
