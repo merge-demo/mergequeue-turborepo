@@ -25172,7 +25172,7 @@ curvier
 clinocephalus
 coriaria
 coriariaceae
-coriaus
+coriaus 1
 corporealize
 corybantian
 corybantiasm 1
