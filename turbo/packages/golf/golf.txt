@@ -9309,7 +9309,7 @@ griffs
 gruf 1
 graduate
 galleasses
-goliad 1
+goliad 2
 gunnysacks 1
 ghaznevid
 ghaist 2
