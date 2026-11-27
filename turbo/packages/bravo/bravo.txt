@@ -3618,7 +3618,7 @@ banker
 befathered
 bathoflore
 batholithic 2
-balaamite
+balaamite 1
 butchers
 balconet
 bathometry
