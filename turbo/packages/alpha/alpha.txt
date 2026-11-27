@@ -5335,7 +5335,7 @@ argoletier
 attestation
 afforesting
 autophotometry 1
-anticogitative
+anticogitative 1
 afformative 1
 abuseful
 affrayers

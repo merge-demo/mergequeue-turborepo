@@ -6544,7 +6544,7 @@ ghostwrite
 gingivolabial 1
 gabbing
 guttiferal 1
-gruis
+gruis 1
 geldesprung
 graduateship
 gluconeogenetic 1
