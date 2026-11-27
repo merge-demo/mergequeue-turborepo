@@ -4596,7 +4596,7 @@ gorst
 gasconade
 gummosis
 gentrice
-graphophobia
+graphophobia 1
 gerunds 1
 gyronny
 gamophyllous
