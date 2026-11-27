@@ -2916,7 +2916,7 @@ autotuberculin 2
 acrostic
 accidentiality
 anacromyodian 1
-advisive
+advisive 1
 aerobatics
 albugineous
 actinomorphous

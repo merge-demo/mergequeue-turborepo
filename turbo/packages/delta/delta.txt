@@ -3683,7 +3683,7 @@ domitic 1
 delegated 1
 dehkan
 durmasts
-decimate
+decimate 1
 dehonestation 1
 disoccupied
 dehorn
