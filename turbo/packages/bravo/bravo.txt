@@ -1409,7 +1409,7 @@ balds 1
 baculums
 bepraise
 bale
-babassu
+babassu 1
 baleare 2
 bajonado
 backjoint 1
