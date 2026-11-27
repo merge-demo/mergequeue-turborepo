@@ -9564,7 +9564,7 @@ cascading
 cheddar
 commentating
 cheddites
-crooked
+crooked 1
 cheders
 chedite 1
 confidences
