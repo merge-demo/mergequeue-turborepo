@@ -1750,7 +1750,7 @@ diphenan
 dissolves
 dividend
 diphyllobothrium
-debriefs
+debriefs 1
 deathtrap
 drof
 deathward 1
