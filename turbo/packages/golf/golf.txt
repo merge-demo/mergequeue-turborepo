@@ -5532,7 +5532,7 @@ gumming 1
 gaysome 1
 gripless
 geochemist 1
-geophysical 1
+geophysical 2
 gefilte
 grandame
 gownlet
