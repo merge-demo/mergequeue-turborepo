@@ -10655,7 +10655,7 @@ eunuchs
 expediment
 easeless
 echolocation 1
-enarbor
+enarbor 1
 excrements
 ecrasite
 expeditate
