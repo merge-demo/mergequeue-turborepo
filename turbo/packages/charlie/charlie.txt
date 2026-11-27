@@ -4148,7 +4148,7 @@ cochleiform
 cariogenic
 calculating
 cardiologist
-cardiologists
+cardiologists 1
 cardiomegaly
 cyclus
 cardiomelanosis
