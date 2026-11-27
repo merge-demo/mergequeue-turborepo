@@ -16962,7 +16962,7 @@ bugout
 bugs 1
 bugweed
 blacktopped 1
-bugwort
+bugwort 1
 banca 1
 biographic
 baganda 1
