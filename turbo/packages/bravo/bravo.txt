@@ -10489,7 +10489,7 @@ boghole
 blowbacks
 boobialla
 bimuscular
-bugseed
+bugseed 1
 boyards 1
 barytostrontianite
 blaoner

@@ -22364,7 +22364,7 @@ atmologist
 astrocompass
 astrodiagnosis
 androphyll
-afterbodies 1
+afterbodies 2
 amphitron
 achromatolysis
 africanist
