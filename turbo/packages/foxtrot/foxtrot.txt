@@ -964,7 +964,7 @@ fibrinogenetic 1
 fent
 fabrile
 fruitling 1
-farceuses
+farceuses 1
 flenched
 facetiousness
 fluorids
