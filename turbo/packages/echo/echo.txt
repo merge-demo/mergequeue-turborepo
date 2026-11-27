@@ -1883,7 +1883,7 @@ elapsed
 endamage 1
 everwho 1
 eightball 1
-eclat
+eclat 1
 earthstar
 epurate
 entrepeneur

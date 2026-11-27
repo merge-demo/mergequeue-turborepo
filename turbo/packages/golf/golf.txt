@@ -5443,7 +5443,7 @@ glisten 3
 guttering
 gigeria 2
 glisteringly 1
-gorblimy
+gorblimy 1
 grubble
 gerridae
 goldish 1
