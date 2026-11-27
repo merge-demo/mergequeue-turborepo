@@ -9450,7 +9450,7 @@ glandulosity
 grammar
 genitalial 1
 gazes
-geometries
+geometries 1
 glycose
 gladiate 1
 glossy 1
