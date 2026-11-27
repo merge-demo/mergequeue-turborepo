@@ -20500,7 +20500,7 @@ composition
 chamaeleon
 compartments 1
 chapin
-celticist
+celticist 1
 compass
 compassability
 compassable
