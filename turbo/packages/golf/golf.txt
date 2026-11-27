@@ -1050,7 +1050,7 @@ gabardine
 gnarl 1
 geriatrics 1
 gentles
-gastrectomy
+gastrectomy 1
 glochis
 gossamer
 garvock
