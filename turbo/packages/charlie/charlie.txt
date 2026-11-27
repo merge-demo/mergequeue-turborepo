@@ -27930,7 +27930,7 @@ cracklings
 clockface
 convergement
 crackmans
-cracknel
+cracknel 1
 crackpots
 copulate 1
 cracks

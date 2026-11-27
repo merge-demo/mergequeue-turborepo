@@ -9785,7 +9785,7 @@ extenuator 1
 envermeil
 emplanement
 extracellular
-essoinment
+essoinment 1
 essorant
 echiuroidea
 encouragements
