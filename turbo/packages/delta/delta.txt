@@ -14069,7 +14069,7 @@ distressingly
 devast
 dunlap
 depravation
-dextrotropous
+dextrotropous 1
 dyspepsies
 dichlorohydrin
 dancalite
