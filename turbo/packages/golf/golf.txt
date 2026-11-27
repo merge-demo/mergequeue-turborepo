@@ -1839,7 +1839,7 @@ glutenous 1
 gates
 generalcies
 gemmules
-gousty
+gousty 1
 gadabout
 goloshes
 greencloth 1
