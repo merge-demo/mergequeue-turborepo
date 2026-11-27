@@ -2375,7 +2375,7 @@ deciles
 decylic
 durst 1
 dorsiparous
-deciliter
+deciliter 1
 druidry
 destituent
 decoat
