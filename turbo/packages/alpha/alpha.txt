@@ -3194,7 +3194,7 @@ anagrammatising
 affrighting
 artamidae 2
 assumptive
-approvement
+approvement 1
 antiaggressively
 arty
 anamnia 1
