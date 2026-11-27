@@ -14342,7 +14342,7 @@ drosses
 daceloninae
 ditheisms
 ditty 2
-disdaining
+disdaining 1
 decardinalize
 dispassionate
 didymoid
