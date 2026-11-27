@@ -2125,7 +2125,7 @@ eleusine
 exuberancy
 embargoing 1
 externat 2
-emperish
+emperish 1
 equilibrio
 epipubes
 equiangle
