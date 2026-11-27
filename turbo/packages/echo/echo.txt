@@ -9835,7 +9835,7 @@ endoceras
 engin
 eligibleness 1
 enslumber 1
-esterified 1
+esterified 2
 eclipsation
 eatage
 esterization 2
@@ -13724,7 +13724,7 @@ endothelioblastoma
 eudoxian
 exhaustedness
 eclats 1
-elocular
+elocular 1
 earless
 ecologies
 eliciting
