@@ -29193,7 +29193,7 @@ cryoscopic
 cryoscopies
 constipate
 cryosel 1
-cryospheric
+cryospheric 1
 chromatospheric
 criosphinxes
 cryostat
