@@ -20613,7 +20613,7 @@ coenanthium
 competition 1
 cumulet
 congreve
-competitive
+competitive 1
 competitiveness
 competitor
 competitory
