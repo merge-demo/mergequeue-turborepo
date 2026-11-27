@@ -17787,7 +17787,7 @@ dossing 1
 duckblind
 duckboard
 doublehatching
-ducked
+ducked 1
 discussionis
 disarrange
 domicilii 1
