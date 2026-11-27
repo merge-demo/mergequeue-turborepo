@@ -1897,7 +1897,7 @@ gerontologists
 gobiidae 1
 gavelock 1
 germ
-gatteridge
+gatteridge 1
 gammaridae
 guayabo
 gaucho
