@@ -5989,7 +5989,7 @@ aclys
 aggrievance
 axweed
 agatize 1
-aggrieve
+aggrieve 1
 atake
 anglicanly
 aggrievedly
