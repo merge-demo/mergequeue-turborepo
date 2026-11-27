@@ -1224,7 +1224,7 @@ bakeress
 besigh
 bakeries
 budling
-bakerly
+bakerly 1
 bakersfield
 bakes
 bakeshop
