@@ -2845,7 +2845,7 @@ genua 1
 graafian
 gruel
 geatas 1
-genioglossus
+genioglossus 1
 genuflecting 3
 gaberdine
 geog 1
