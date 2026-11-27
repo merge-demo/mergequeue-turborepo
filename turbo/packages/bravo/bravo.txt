@@ -1801,7 +1801,7 @@ bilanders
 brachman
 burdie
 bamboula
-bandied
+bandied 1
 banterer 1
 boswellized
 bowmen
