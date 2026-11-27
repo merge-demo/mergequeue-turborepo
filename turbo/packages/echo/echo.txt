@@ -677,7 +677,7 @@ envier
 eclogic
 egressor
 eclogite
-eclosion
+eclosion 1
 eclosions
 ethel
 engaging 1
