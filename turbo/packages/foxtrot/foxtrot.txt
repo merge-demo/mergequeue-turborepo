@@ -8107,7 +8107,7 @@ featurette
 fuchsias
 fanegadas
 fundmonger
-forevers
+forevers 1
 fingerberry
 finity
 foregate
