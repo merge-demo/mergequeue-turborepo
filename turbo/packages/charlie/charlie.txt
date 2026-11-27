@@ -12715,7 +12715,7 @@ ceylonese
 chugging
 centilitre
 chuje
-ciceronically
+ciceronically 1
 clockmaker
 cajava
 chukchi
