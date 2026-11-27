@@ -16310,7 +16310,7 @@ afros
 adfroze
 antitruster
 antituberculosis
-artophoria
+artophoria 1
 alternacy
 antituberculotic
 anticholagogue
