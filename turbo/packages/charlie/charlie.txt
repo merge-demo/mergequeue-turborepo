@@ -6918,7 +6918,7 @@ cenesthesis
 cletch
 christmasberry
 crowdedness
-confects
+confects 1
 crystallizer 1
 cenesthetic
 cotyligerous 1
@@ -10544,7 +10544,7 @@ chiller
 confessionary
 comino
 corporational
-cotwist
+cotwist 1
 chillest
 cudgeler
 cystocarpic 1
