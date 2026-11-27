@@ -8997,7 +8997,7 @@ evene 1
 elaterium
 embolimeal
 erythemal
-eclairs
+eclairs 1
 elenchical 1
 enterokinesia
 enormious
@@ -9138,7 +9138,7 @@ epitela
 expirable
 enlargements
 entwining 1
-endosiphuncle
+endosiphuncle 1
 eggbeaters
 elegise 1
 exograph 1
