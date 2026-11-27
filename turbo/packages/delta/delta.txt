@@ -2768,7 +2768,7 @@ duodecahedral
 drypoints 1
 drivellingly
 dari
-decresc
+decresc 1
 desalination
 delphinus 1
 duodecahedron
