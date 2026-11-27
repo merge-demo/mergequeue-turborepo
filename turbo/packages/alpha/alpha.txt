@@ -9946,7 +9946,7 @@ airsheet
 amateurs
 amateurship
 archimperialism
-arrived 1
+arrived 2
 autographic
 anacoenosis
 amating
@@ -19943,7 +19943,7 @@ apophyge 2
 artistically 1
 armouchiquois
 ammine
-armour 1
+armour 2
 armourbearer
 anaematosis
 aristogenics
