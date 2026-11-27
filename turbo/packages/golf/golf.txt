@@ -1993,7 +1993,7 @@ galbula
 galician
 goschens
 gryphaea 1
-gams 1
+gams 2
 glyptical 1
 gaurian
 gasting
