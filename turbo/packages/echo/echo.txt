@@ -4508,7 +4508,7 @@ evenglome 1
 endoerythrocytic
 entothorax
 embiidae 2
-encephalomyelitic
+encephalomyelitic 1
 epochally 1
 extramorainal 2
 epirrheme
