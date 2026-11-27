@@ -1235,7 +1235,7 @@ feodatory
 freieslebenite
 funkias
 formene 1
-furbishment
+furbishment 1
 flagellosis 2
 fortuning
 foredeem 1
