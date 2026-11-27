@@ -10801,7 +10801,7 @@ euodic
 entrepots
 euonymy 1
 epilogues
-exochorda
+exochorda 1
 exsibilate
 echinid
 extrusive
