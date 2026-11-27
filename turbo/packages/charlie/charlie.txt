@@ -12797,7 +12797,7 @@ chuntered
 chrysotherapy
 chupatty 1
 crases 1
-countermanifesto
+countermanifesto 1
 crookshouldered
 crithmene
 chuppah
@@ -30207,7 +30207,7 @@ capitoulate
 concentrators
 cains
 cursed
-cleistothecia
+cleistothecia 1
 crudity 1
 collotypy
 crudities
