@@ -13137,7 +13137,7 @@ equipendent
 enjeopardy 1
 enunciators
 ectoproctan
-eternality
+eternality 1
 episioplasty 1
 experimenter 1
 embellishing
