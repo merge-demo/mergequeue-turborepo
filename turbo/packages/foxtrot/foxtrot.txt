@@ -228,7 +228,7 @@ fulimart 1
 frostbound 1
 friezed
 fritterer 2
-facultize
+facultize 1
 flexional
 fulgur
 finify 1
