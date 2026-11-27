@@ -11182,7 +11182,7 @@ felspar
 fideists 1
 farmer 1
 fungicidally
-fungicides
+fungicides 1
 frampler
 farm 1
 forktail
