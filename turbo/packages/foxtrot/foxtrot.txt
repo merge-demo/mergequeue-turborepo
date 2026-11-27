@@ -1111,7 +1111,7 @@ fiddled
 flatiron
 flots 1
 farsightedness 2
-fifing
+fifing 1
 flooring
 forkedly 1
 faciocervical
