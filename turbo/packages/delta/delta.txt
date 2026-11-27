@@ -6040,7 +6040,7 @@ diatheses 1
 decompound
 dizened
 deraigning
-divest
+divest 1
 dispirits
 derailing
 demiworld
