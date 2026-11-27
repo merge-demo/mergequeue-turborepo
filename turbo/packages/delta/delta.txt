@@ -774,7 +774,7 @@ dermoidal
 dissatisfied
 dispiteously
 dandis 1
-discursory
+discursory 1
 dandisette
 decoyer
 dandizette
