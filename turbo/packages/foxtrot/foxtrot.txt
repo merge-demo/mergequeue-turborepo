@@ -6257,7 +6257,7 @@ flukeworm
 follicle
 ferryhouse
 falerian
-flumes 1
+flumes 2
 fluminous
 freak
 floricultural
