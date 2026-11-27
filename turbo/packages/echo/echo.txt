@@ -8971,7 +8971,7 @@ erratics 1
 erythrocytes
 exhilarant
 explorative
-emboldening
+emboldening 1
 electrophonic
 erasable
 ecclesiasticism
