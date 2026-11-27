@@ -5979,7 +5979,7 @@ devoteeism
 dispends
 duplicident
 drumlike
-deputed
+deputed 1
 demanding
 deselecting 2
 demolitionary
