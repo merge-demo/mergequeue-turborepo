@@ -8254,7 +8254,7 @@ fluidism
 fortunate
 farmings
 flagellaria 1
-fractious
+fractious 1
 flump
 frontlets
 forgiving
