@@ -7000,7 +7000,7 @@ estated
 emetines
 escutellate 1
 economising
-electrifies
+electrifies 1
 earphone 1
 enactory
 embellished
