@@ -15505,7 +15505,7 @@ doncella
 debut
 doncy 2
 dondaine 1
-desertedly
+desertedly 1
 done
 dogmas 1
 diaries
