@@ -10098,7 +10098,7 @@ galactodensimeter 1
 grammarian 1
 gatehouse 2
 gekkonoid 1
-gonfaloniership
+gonfaloniership 1
 gasoscope
 goalage 1
 glottid
