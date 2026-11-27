@@ -17659,7 +17659,7 @@ dialectally
 dorsalis 1
 detoxicating
 decem
-delivered
+delivered 1
 decarbonizer 1
 diclinism
 dagame
