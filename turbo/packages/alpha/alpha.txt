@@ -19943,7 +19943,7 @@ apophyge 2
 artistically 1
 armouchiquois
 ammine
-armour 1
+armour 2
 armourbearer
 anaematosis
 aristogenics
