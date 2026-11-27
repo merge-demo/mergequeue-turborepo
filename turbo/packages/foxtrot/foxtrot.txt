@@ -8246,7 +8246,7 @@ forging 1
 flow 1
 furacity 1
 formous 1
-forgings
+forgings 1
 figgy
 freelances 1
 forgivable
