@@ -9040,7 +9040,7 @@ dorsals
 dictyodromous 1
 deafest
 dictyogen 1
-diction
+diction 1
 dilutee
 disparage
 defang
