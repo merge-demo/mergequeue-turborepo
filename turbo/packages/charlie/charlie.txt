@@ -25081,7 +25081,7 @@ californians
 chetif 1
 configures
 coreigns
-corejoice
+corejoice 1
 corelated
 corelates
 corelating
