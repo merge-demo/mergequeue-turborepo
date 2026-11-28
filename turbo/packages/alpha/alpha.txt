@@ -5922,7 +5922,7 @@ arminianism
 aeciostage
 aggrammatism
 aggrandised
-abasias
+abasias 1
 aggrandising
 altimettrically
 afterglows
