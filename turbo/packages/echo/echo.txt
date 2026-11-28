@@ -9844,7 +9844,7 @@ esterize 1
 euciliate
 enterocrinin
 exhumated
-electorate
+electorate 1
 emulsoid
 esters 1
 entomologizing
