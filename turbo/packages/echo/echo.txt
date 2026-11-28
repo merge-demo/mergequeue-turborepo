@@ -2498,7 +2498,7 @@ epicanthic
 exterminative
 elasticum
 electroless 2
-encephalopyosis
+encephalopyosis 1
 exsecants
 educables
 expansivity
