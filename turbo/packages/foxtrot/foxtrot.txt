@@ -6464,7 +6464,7 @@ facility
 filagreeing 1
 forgie
 freir
-farweltered
+farweltered 1
 fip
 failsoft
 fused 1
