@@ -2105,7 +2105,7 @@ allopatry
 atomechanics
 antadiform
 achilleine
-antimonarchic
+antimonarchic 1
 abnormalness
 anthropological
 aragonite 1
