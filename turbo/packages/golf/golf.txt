@@ -10182,7 +10182,7 @@ ganglioneuroma 1
 gearwheels
 glaucium 1
 goalies 1
-gladiolar
+gladiolar 1
 guids
 guidwife 1
 groundly
