@@ -10949,7 +10949,7 @@ encoignure
 equivocalness
 echiurid
 echinus
-eperva
+eperva 1
 euproctis
 endophasia 1
 excluder
