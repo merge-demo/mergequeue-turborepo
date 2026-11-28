@@ -803,7 +803,7 @@ daubers 1
 delusters
 dovecote
 danegelds
-deckhead
+deckhead 1
 daneweed 1
 daneweeds
 detections
