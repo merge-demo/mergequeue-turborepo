@@ -11998,7 +11998,7 @@ dagoes
 desmodus
 disenfranchisement
 devanagari
-deputised
+deputised 1
 demonkind
 disenfranchises
 disintertwine 1
