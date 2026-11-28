@@ -9415,7 +9415,7 @@ fractions
 foeticide
 fico
 flamens
-fratry
+fratry 1
 flippery
 furnaceman 1
 fulcrate
