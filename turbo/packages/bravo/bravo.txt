@@ -11118,7 +11118,7 @@ bedwarfed 1
 barlafumble
 blockboard
 beblain
-bavaroy
+bavaroy 1
 ballyhooer
 brazilette
 bezoar
