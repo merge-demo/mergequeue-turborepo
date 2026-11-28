@@ -6706,7 +6706,7 @@ galvanolysis 1
 giddyberry 1
 glucide 2
 groomy
-girlfriends
+girlfriends 1
 gascheck 2
 grey 1
 grandmotherism
