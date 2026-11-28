@@ -11157,7 +11157,7 @@ ecumenicist
 ethereal
 encroach
 evolvement
-enterers
+enterers 1
 evalue 1
 epigraphist 1
 evanesced
