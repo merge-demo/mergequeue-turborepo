@@ -8825,7 +8825,7 @@ faulter
 foujdarry 1
 flushes
 fibrousness
-foul
+foul 1
 fogger
 finesse
 franticness 1
