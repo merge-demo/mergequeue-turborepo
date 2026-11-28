@@ -5075,7 +5075,7 @@ crotaline 1
 cavae
 cascaded
 cascadia
-clupeine
+clupeine 1
 cascadian
 chacra
 chondrosamine
