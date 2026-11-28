@@ -4119,7 +4119,7 @@ cardiocele
 chevronelly
 cacuminate 1
 crowdies
-consubsistency
+consubsistency 1
 contrarieties
 cardiodilator
 conformable
