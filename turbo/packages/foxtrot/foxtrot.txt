@@ -9243,7 +9243,7 @@ fillingly
 foggily
 foldboats
 fistulization 2
-frowsiness
+frowsiness 1
 frances 1
 figurants 1
 forcelet 1
