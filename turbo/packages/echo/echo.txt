@@ -4386,7 +4386,7 @@ evacuates
 enations
 euripos
 extradialectal
-enbrave
+enbrave 1
 eggheadedness
 erelong
 embar
