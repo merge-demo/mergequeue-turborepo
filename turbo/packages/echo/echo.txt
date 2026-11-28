@@ -414,7 +414,7 @@ enamorato 2
 exposits
 exacerbation
 ebullioscopic 1
-extendibility
+extendibility 1
 echappee
 ethenic
 epaxially
