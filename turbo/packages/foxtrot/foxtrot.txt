@@ -8970,7 +8970,7 @@ frotting
 fregatidae
 fooder
 fidded 1
-flaxwort 1
+flaxwort 2
 fustian 2
 fractus 2
 forwork
@@ -9243,7 +9243,7 @@ fillingly
 foggily
 foldboats
 fistulization 2
-frowsiness
+frowsiness 1
 frances 1
 figurants 1
 forcelet 1

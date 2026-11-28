@@ -9250,7 +9250,7 @@ dedd
 deflectable
 dromaeognathae
 diestock
-diestrous
+diestrous 1
 drawbridge
 diestrums
 discrepantly 1
