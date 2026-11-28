@@ -13064,7 +13064,7 @@ cybernion
 cibol
 conjugacy
 curtailments
-cibols
+cibols 1
 corrump 1
 columnea
 ciboney
@@ -25146,7 +25146,7 @@ coded
 culpate
 corevolve
 chlorophyllaceous
-corruptedly
+corruptedly 1
 colitis
 chatterer
 corfiote

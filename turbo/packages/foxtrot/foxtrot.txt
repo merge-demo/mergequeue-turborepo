@@ -1707,7 +1707,7 @@ festa
 fieldward
 finishing
 formularies
-falsies 1
+falsies 2
 fearingly
 ferineness
 fearless 1
@@ -9243,7 +9243,7 @@ fillingly
 foggily
 foldboats
 fistulization 2
-frowsiness
+frowsiness 1
 frances 1
 figurants 1
 forcelet 1
