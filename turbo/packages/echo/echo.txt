@@ -3278,7 +3278,7 @@ ektene 1
 ensandal
 etoiles
 epiphyllospermous
-ensnaring
+ensnaring 1
 enrages 1
 equitist
 etymologising 1
