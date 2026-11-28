@@ -5823,7 +5823,7 @@ glycogenous 1
 gravimetric
 glutamates 1
 goliards
-gallinaceous
+gallinaceous 1
 graphometrist 1
 ganglionary
 gallywasp
