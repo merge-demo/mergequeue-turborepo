@@ -25638,7 +25638,7 @@ commingle
 clankum
 corsair
 cannula
-closestool
+closestool 1
 corpulentness
 converginerved
 corpuscularian
