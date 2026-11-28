@@ -349,7 +349,7 @@ engines
 eavedrop 1
 endophlebitis
 eriophyidae 1
-enrheum
+enrheum 1
 eavedropping
 ephthianure
 endevil
