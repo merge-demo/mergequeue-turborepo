@@ -10323,7 +10323,7 @@ ethnocentric 1
 extraretinal 2
 epeirogenic
 encyclopaedical
-eclecticist
+eclecticist 1
 extraquiz
 epibole
 ethnogeographic 1
