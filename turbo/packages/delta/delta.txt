@@ -9815,7 +9815,7 @@ deviancies
 diamicton
 defacers 1
 darnings 1
-dactylosternal
+dactylosternal 1
 dissertation
 downweighted
 duocosane
