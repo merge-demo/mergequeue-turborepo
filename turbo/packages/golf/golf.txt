@@ -2274,7 +2274,7 @@ gospeller
 gangrel
 grandpaternal
 goops 1
-gen
+gen 1
 glamoury
 gigantoblast
 garlicmonger
