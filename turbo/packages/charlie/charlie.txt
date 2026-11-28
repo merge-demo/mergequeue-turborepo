@@ -20422,7 +20422,7 @@ circumscriptly
 compage
 compagnies 1
 coprophagan
-cresols
+cresols 1
 condonative
 concamerate
 companable
