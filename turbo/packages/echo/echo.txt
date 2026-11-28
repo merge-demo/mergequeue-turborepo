@@ -2936,7 +2936,7 @@ epistomal 1
 egyptian
 etchings 1
 eelshop
-effectful
+effectful 1
 evaporatively
 erythrasma
 embarrassments 1
