@@ -9769,7 +9769,7 @@ fossilise
 feasance
 freshmen 2
 fanners
-fostering
+fostering 1
 floorwalker 1
 fraudless 2
 flavia
