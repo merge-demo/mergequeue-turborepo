@@ -5974,7 +5974,7 @@ feldsher
 fez 1
 floorwise
 fernland
-footlog
+footlog 1
 fusty
 foolscaps 1
 felspars
