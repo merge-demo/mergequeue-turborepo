@@ -14405,7 +14405,7 @@ aranga
 allocations
 assortatively 1
 anisocycle 1
-abnegate
+abnegate 1
 apselaphesis
 anthracia
 alcazars
