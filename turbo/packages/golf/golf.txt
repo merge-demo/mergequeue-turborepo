@@ -4256,7 +4256,7 @@ glazieries
 glazings
 grieves
 gippy 1
-grads 1
+grads 2
 gluttonous
 garganeys
 gustativeness
@@ -9470,7 +9470,7 @@ grundlov
 group
 gland
 germanophobist
-gelsemic
+gelsemic 1
 gnosiological
 gammoner 2
 gynophoric
