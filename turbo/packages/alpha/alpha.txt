@@ -362,7 +362,7 @@ aberrantly
 aberrants
 aberrating
 astrogonic
-arrival
+arrival 1
 aberration 1
 aberrational
 audioemission
