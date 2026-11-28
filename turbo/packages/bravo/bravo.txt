@@ -10934,7 +10934,7 @@ boatwise 2
 blimey
 braced 1
 blent
-begild
+begild 1
 backpacks
 breechless
 ballgames
@@ -11861,7 +11861,7 @@ beaked
 bepale
 boucan
 bodilize
-bahuvrihi 1
+bahuvrihi 2
 barbedness
 bellowed
 busuuti
