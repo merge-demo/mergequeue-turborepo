@@ -3889,7 +3889,7 @@ enculturated
 enfeebled
 eclipsis 1
 executers
-endodontic
+endodontic 1
 emigration
 egressive
 equivote
