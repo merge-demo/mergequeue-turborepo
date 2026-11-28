@@ -10299,7 +10299,7 @@ decumary 1
 diacetylene
 discounter
 dioptometer
-disnature
+disnature 1
 denudation
 deducement
 desilverizer 2
