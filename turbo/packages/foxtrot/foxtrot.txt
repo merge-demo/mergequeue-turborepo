@@ -2250,7 +2250,7 @@ fayalite
 funnymen
 fathering
 fsiest
-fustee
+fustee 1
 footfalls
 forgetters
 fenchene
