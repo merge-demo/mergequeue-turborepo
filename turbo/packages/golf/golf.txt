@@ -2907,7 +2907,7 @@ grandnieces 1
 gerontocracy
 glycollic
 glints
-gallipots
+gallipots 1
 glittering
 garfishes
 gledes 1
