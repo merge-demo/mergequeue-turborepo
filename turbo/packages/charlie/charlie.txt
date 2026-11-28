@@ -5583,7 +5583,7 @@ catallum 1
 cladocerans
 catalo
 cataloes
-cataloged
+cataloged 1
 character 1
 cariousness
 centi
