@@ -7556,7 +7556,7 @@ fatimid
 foredoomer
 fgn
 fructuarius 2
-funiculus
+funiculus 1
 fanciers
 flintworker
 frizzes
