@@ -877,7 +877,7 @@ flakes
 flavicant
 foremarch
 forkman
-fluorogenic 1
+fluorogenic 2
 fulicine 1
 formatively
 freshet
