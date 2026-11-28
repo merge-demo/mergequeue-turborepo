@@ -13276,7 +13276,7 @@ bowler
 burrier
 boarish
 bostanji
-bosthoon
+bosthoon 1
 bostonian
 branchstand 1
 barman
