@@ -7422,7 +7422,7 @@ darbha
 diplegic 1
 defrosts
 dich 1
-dermoplasty 1
+dermoplasty 2
 diffide 1
 djellab
 desmotropism
