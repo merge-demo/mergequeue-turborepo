@@ -6073,7 +6073,7 @@ enlief
 evertebrate
 excruciate
 escutcheon
-encounters
+encounters 1
 epilator
 enlightenedly 1
 enlistments
