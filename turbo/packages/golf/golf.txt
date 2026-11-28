@@ -4963,7 +4963,7 @@ grovels
 gigantical 1
 gonocheme
 granulose 2
-grivoise
+grivoise 1
 garavance 2
 glowed
 gelt

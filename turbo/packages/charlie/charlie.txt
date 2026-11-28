@@ -29214,7 +29214,7 @@ characid 1
 crippleness
 crippler
 cripples
-creaser
+creaser 1
 capillarity 1
 cystomatous
 crippling
