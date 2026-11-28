@@ -8723,7 +8723,7 @@ disproportionateness 1
 discriminate
 diatomales 1
 dedicated
-diatomeae
+diatomeae 1
 duetted
 decentralizationist
 downright
