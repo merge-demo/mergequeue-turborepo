@@ -8154,7 +8154,7 @@ grapefruit
 goos 1
 gazers
 grapelike
-gazingstock
+gazingstock 1
 galeodes
 grapery
 goaded
