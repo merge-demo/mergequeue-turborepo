@@ -5757,7 +5757,7 @@ foreheads 1
 fause
 fribble
 family
-fevertwig 1
+fevertwig 2
 flambee
 farfugium 1
 facemaker

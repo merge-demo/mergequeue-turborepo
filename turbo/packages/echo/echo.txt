@@ -3478,7 +3478,7 @@ ethnol
 exceptionableness
 enamels
 ebionism
-eversporting
+eversporting 1
 evocable 1
 expiative 2
 eleutherosepalous
