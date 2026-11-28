@@ -732,7 +732,7 @@ cageful
 chaetophora
 cagefuls
 cerebripetal
-cageyness
+cageyness 1
 cephalata
 cordylanthus
 cageless
@@ -17343,7 +17343,7 @@ cohabitant
 coastguardman
 cheapskates 1
 coastguardsman
-coastguardsmen
+coastguardsmen 1
 cacheted 1
 cruder
 coastland 1
