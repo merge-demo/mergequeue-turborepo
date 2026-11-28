@@ -6143,7 +6143,7 @@ gallotannate
 grooves 1
 greenkeeping
 graphoanalytical
-gonococcus
+gonococcus 1
 gargarize
 glamorousness
 gladdening
