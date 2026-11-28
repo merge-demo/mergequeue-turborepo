@@ -9470,7 +9470,7 @@ grundlov
 group
 gland
 germanophobist
-gelsemic
+gelsemic 1
 gnosiological
 gammoner 2
 gynophoric
