@@ -7445,7 +7445,7 @@ extinguishant
 ephemeralities
 effluvial
 exogenic
-embattling
+embattling 1
 ellerian 1
 eavesdroppers
 ephemerid 1
