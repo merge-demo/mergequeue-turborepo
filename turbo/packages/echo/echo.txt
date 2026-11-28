@@ -14146,7 +14146,7 @@ enplanement 1
 emulates 1
 enlard 1
 entocuneiform 1
-excussion
+excussion 1
 endearment
 entrails
 extrachromosomal
