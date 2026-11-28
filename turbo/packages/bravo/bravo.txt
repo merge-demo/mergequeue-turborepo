@@ -14663,7 +14663,7 @@ brasenia 1
 braseros
 backspin 1
 brash
-bluepoints 1
+bluepoints 2
 biotopes
 brasher
 babylonians
