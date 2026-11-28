@@ -18134,7 +18134,7 @@ domatophobia
 dumose
 decoded
 dermoskeletal
-decamp
+decamp 1
 dietic
 dock
 duodenary 1

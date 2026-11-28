@@ -3400,7 +3400,7 @@ fanfaronading
 fungible 1
 floc
 flecker
-featherlike
+featherlike 1
 fenestella
 foreshoe
 forestate 1
