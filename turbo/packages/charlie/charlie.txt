@@ -11988,7 +11988,7 @@ congeals
 choristership
 choristoblastoma
 choristoneura
-childminder
+childminder 1
 chorizo
 corelation
 catalanist

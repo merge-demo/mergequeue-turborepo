@@ -9480,7 +9480,7 @@ eagres
 emergences
 ethmomaxillary 1
 escortee
-escorts
+escorts 1
 escot
 endbrain
 eogaean
