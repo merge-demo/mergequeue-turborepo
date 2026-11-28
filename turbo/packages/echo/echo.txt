@@ -1442,7 +1442,7 @@ etypical 1
 entoparasite
 extensile
 existential
-engineeringly
+engineeringly 1
 euphuisms 1
 enarbour
 encephaloscope
