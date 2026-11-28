@@ -8078,7 +8078,7 @@ feasances
 feminines
 fractiousness
 foretackle
-freemasonism
+freemasonism 1
 flamandize
 floatation
 favouredness 1
