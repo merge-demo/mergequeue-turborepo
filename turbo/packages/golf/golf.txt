@@ -7309,7 +7309,7 @@ gosports 2
 grainless
 gossamered
 galega
-gossamers
+gossamers 1
 galloglass 2
 geochronometric
 geratology

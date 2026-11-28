@@ -4840,7 +4840,7 @@ encouraged 1
 estrous
 excellences
 effulgence
-epigne
+epigne 1
 expertise
 encourages 1
 embusy
