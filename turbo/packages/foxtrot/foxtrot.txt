@@ -8970,7 +8970,7 @@ frotting
 fregatidae
 fooder
 fidded 1
-flaxwort 1
+flaxwort 2
 fustian 2
 fractus 2
 forwork
