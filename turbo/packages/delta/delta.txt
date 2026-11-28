@@ -11290,7 +11290,7 @@ discepts
 diffidentness
 discerned
 dizzier
-disorganised
+disorganised 1
 dyspeptical
 discumb
 disney 1
