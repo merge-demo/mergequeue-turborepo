@@ -12639,7 +12639,7 @@ entorganism 1
 elephantidae
 erwin
 equiaxial
-epexegeses
+epexegeses 1
 exodic
 equipped
 encincturing
