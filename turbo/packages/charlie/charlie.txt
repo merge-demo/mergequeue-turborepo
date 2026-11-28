@@ -13469,7 +13469,7 @@ cylindrocylindric
 choleric
 curiatii
 counterfeiter 1
-coughroot
+coughroot 1
 craniad 1
 cylindroconoidal
 cylindrodendrite

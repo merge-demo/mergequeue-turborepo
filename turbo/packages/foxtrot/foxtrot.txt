@@ -5393,7 +5393,7 @@ fruittime 1
 forthbringer
 formable 1
 flecking
-forgoer 1
+forgoer 2
 firehouses 2
 fennel
 friending
