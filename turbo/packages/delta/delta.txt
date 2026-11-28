@@ -4387,7 +4387,7 @@ desultory
 demesgne
 dudleyite
 dithioic
-dolos
+dolos 1
 diapyesis
 demesman
 depravities
