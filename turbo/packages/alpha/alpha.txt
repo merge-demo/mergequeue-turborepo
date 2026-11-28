@@ -18659,7 +18659,7 @@ angelinformal
 archaeostomata
 airbags
 archaeotherium
-acing
+acing 1
 anisol
 apogaic
 available
@@ -21195,7 +21195,7 @@ arginases
 atomicism
 aseptolin
 alighted 1
-adipous
+adipous 1
 asexualisation 1
 acicularity
 approachableness
