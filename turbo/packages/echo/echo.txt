@@ -12600,7 +12600,7 @@ excusing
 electrophoreses
 embossable 1
 exocoelic
-explant
+explant 1
 epicardium
 exocoelum
 elbowboard

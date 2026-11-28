@@ -2759,7 +2759,7 @@ gastrotympanites 1
 gentianella 2
 gregatim
 gadhelic
-gung
+gung 1
 granulitic 1
 gippers 1
 grabbled 1
