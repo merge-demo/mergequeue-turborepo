@@ -276,7 +276,7 @@ foreshortening
 ford
 febrifacient 1
 footpounds 1
-firbolg
+firbolg 1
 flagarie 1
 fideism
 fissle
