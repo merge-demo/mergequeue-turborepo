@@ -3071,7 +3071,7 @@ geadephagous 1
 glowworms
 greylags 1
 gucki 1
-geocline
+geocline 1
 grits 1
 gipping 1
 geophagism
