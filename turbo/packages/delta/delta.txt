@@ -8247,7 +8247,7 @@ dizzy
 dulcimore
 draped
 disputableness
-desecrating
+desecrating 1
 diagonal 1
 diagonalization
 diagnosing
