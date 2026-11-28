@@ -5685,7 +5685,7 @@ eflagelliferous
 eppie 1
 extraventricular
 extras 1
-episcopalism
+episcopalism 1
 eelgrass
 egotisticalness
 evocatory
