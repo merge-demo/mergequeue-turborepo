@@ -2009,7 +2009,7 @@ galactemia
 glyconian 2
 goosewing 2
 gaspingly
-galleass
+galleass 1
 goutify 1
 grubberies
 galatian 1
