@@ -12539,7 +12539,7 @@ concurrences 2
 concubitus
 chronaxie
 chronic
-chronica
+chronica 1
 chronicle
 clattertrap
 chronicling
