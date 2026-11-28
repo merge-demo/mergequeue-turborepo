@@ -1316,7 +1316,7 @@ episynaloephe
 effectors
 encapsulate
 elengeness
-effects
+effects 1
 enlarge
 edified
 enterocyst 1
