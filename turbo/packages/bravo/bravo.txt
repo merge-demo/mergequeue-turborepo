@@ -630,7 +630,7 @@ bastiment 1
 bacteriodiagnosis
 bromates 1
 benomyls
-bratstva 1
+bratstva 2
 behearse
 bacterid
 birdcages
