@@ -7567,7 +7567,7 @@ gloomful 1
 gaumy
 grille
 glycosaemia
-gambians
+gambians 1
 grab 1
 guanamine 1
 gullibility
