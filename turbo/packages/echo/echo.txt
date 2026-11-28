@@ -300,7 +300,7 @@ ealderman
 endark
 espousage
 extensible 1
-exserting
+exserting 1
 extortionate
 expedient
 ebon 1
@@ -5965,7 +5965,7 @@ enigmatist
 enigmatographer
 emotionality
 enisled 1
-enisles
+enisles 1
 echinoderidae 1
 extirpations
 effulges
