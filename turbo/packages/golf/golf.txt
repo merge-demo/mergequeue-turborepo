@@ -9329,7 +9329,7 @@ glaucopis
 glareola 1
 goutiness
 glonoin 1
-gambia 1
+gambia 2
 gustative 1
 gladiators 1
 glided
