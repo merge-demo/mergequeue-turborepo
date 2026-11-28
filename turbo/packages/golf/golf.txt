@@ -6329,7 +6329,7 @@ getspace 1
 goldspink 3
 glimmered
 gunmetals
-glucosone
+glucosone 1
 granolithic
 grouty
 gooseries
