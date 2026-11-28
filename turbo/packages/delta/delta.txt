@@ -8657,7 +8657,7 @@ diaspidine
 diaspirin
 deeryard
 darwinize 1
-dots
+dots 1
 droumy
 downweigh
 discomposingly
