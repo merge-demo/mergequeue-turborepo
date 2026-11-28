@@ -11518,7 +11518,7 @@ firebirds
 forethoughtless 2
 fuscin
 frictional 1
-fuscohyaline
+fuscohyaline 1
 fundamentally 1
 furthered
 ficoides
