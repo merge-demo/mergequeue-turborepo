@@ -6762,7 +6762,7 @@ amnions
 adipocerous
 adopt
 airbrushing
-amitabha
+amitabha 1
 airburst
 arresting
 airbusses
