@@ -6727,7 +6727,7 @@ gamelang
 ganam 1
 gamgee
 gratias
-gobbe
+gobbe 1
 gyrus 1
 gud
 gaffsail
