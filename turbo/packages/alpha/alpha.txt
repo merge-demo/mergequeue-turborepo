@@ -2966,7 +2966,7 @@ amplexifoliate 1
 automatize
 appendages
 ashless
-actinias
+actinias 1
 actinic
 akene
 antitropical

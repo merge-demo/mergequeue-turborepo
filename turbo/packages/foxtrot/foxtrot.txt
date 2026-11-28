@@ -11276,7 +11276,7 @@ fenks
 forrit
 funster
 furans 2
-furacious
+furacious 1
 file
 farces
 fernando 1
