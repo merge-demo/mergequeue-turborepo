@@ -10198,7 +10198,7 @@ externals 1
 escargotieres
 exuberating
 esperantic
-esophagomycosis
+esophagomycosis 1
 envenomation
 erogeneity 1
 emydian
