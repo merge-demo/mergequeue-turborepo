@@ -12462,7 +12462,7 @@ dexterity
 defy
 deboise
 demesne
-dislimb
+dislimb 1
 dicalcium
 disyllabized
 discontinuations
