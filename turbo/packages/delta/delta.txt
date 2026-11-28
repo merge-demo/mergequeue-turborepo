@@ -3351,7 +3351,7 @@ diacetyl 1
 disassociable
 dyscrasia 1
 decarboxylase
-decolorisation
+decolorisation 1
 disadorn
 donet
 deflector
