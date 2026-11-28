@@ -5806,7 +5806,7 @@ depreciate
 deponents 1
 despots 1
 drago
-dystocias 1
+dystocias 2
 depreciation
 deoxygenization
 dryopians
