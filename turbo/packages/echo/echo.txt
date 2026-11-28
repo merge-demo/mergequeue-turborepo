@@ -5617,7 +5617,7 @@ encitadel
 enlisters
 enflagellate
 enfigure 1
-excitable
+excitable 1
 egalitarianism
 ensconcing
 extispicy 2
