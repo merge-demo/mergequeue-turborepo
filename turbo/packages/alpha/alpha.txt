@@ -8464,7 +8464,7 @@ avogram
 anticausotic
 allocators
 adulatory 1
-apotheosizing
+apotheosizing 1
 aristolochiaceae
 amebous 1
 alkalise 1
