@@ -1990,7 +1990,7 @@ ghastlier
 guttable 2
 gonif
 galbula
-galician
+galician 1
 goschens
 gryphaea 1
 gams 2
