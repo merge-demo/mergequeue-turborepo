@@ -6965,7 +6965,7 @@ ecdemite 1
 easily
 entreatful
 eclipsing
-endjunk
+endjunk 1
 entreaties 1
 excavatorial
 enfuddle
