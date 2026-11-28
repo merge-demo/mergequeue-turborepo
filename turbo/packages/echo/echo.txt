@@ -6304,7 +6304,7 @@ enharmonically
 emodin
 embrocation
 ejusd 1
-enrolls
+enrolls 1
 eumycetes
 encephalograph
 equijacent 1
