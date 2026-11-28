@@ -4185,7 +4185,7 @@ greenovite
 gunsling
 guimpes
 gasteralgia
-garrisoning
+garrisoning 1
 gilty
 gluttonise 1
 gynantherous
