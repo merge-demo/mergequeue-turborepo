@@ -13047,7 +13047,7 @@ bacteriolysis 1
 bagataway 2
 bonded
 berger 2
-bordeaux 1
+bordeaux 2
 blancard
 biennials
 besteading

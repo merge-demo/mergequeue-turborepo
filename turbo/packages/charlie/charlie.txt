@@ -23298,7 +23298,7 @@ checkrooms
 cutlash
 cacqueteuses
 cresotinate
-complainers
+complainers 1
 consultants
 crossbred
 consultantship
@@ -29214,7 +29214,7 @@ characid 1
 crippleness
 crippler
 cripples
-creaser
+creaser 1
 capillarity 1
 cystomatous
 crippling
