@@ -300,7 +300,7 @@ ealderman
 endark
 espousage
 extensible 1
-exserting
+exserting 1
 extortionate
 expedient
 ebon 1
