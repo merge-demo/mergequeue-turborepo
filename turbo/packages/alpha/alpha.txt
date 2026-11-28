@@ -14355,7 +14355,7 @@ anthogenetic
 anticreation
 anthoid
 anthokyan
-amasesis
+amasesis 1
 antinovels
 anthol
 anodes
