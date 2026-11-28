@@ -5121,7 +5121,7 @@ gemman 1
 gassiest 1
 greathearted
 guidwillie
-gainsay
+gainsay 1
 gunbright 1
 gutwise 1
 grandioseness
@@ -5963,7 +5963,7 @@ groutiest
 gestating 1
 gonifs 1
 gemmates 2
-gastroenterocolostomy
+gastroenterocolostomy 1
 goldbricker
 gibetting
 grin 1
