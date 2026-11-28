@@ -1507,7 +1507,7 @@ estantion 1
 empyesis
 endophytous
 encoronet 1
-egad
+egad 1
 elderlies
 encyclopediac
 entomophilous 2
