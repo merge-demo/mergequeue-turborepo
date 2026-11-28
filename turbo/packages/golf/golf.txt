@@ -5739,7 +5739,7 @@ grunts
 goupin 1
 galactosemic
 gnatworm
-genupectoral
+genupectoral 1
 goniometer
 globoid 2
 geobotanically 1
