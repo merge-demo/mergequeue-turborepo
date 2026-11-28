@@ -129,7 +129,7 @@ goatfish
 gadroon 1
 giher 1
 ginete
-gastly 2
+gastly 3
 gazogene
 gypsyhood 1
 girdled
