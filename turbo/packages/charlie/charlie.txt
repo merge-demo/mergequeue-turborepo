@@ -15297,7 +15297,7 @@ campings
 clangours
 clangs 1
 conquests
-critter 1
+critter 2
 calluses
 chronographical
 clanjamfrey
