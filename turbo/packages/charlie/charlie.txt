@@ -18168,7 +18168,7 @@ coessentiality
 centerless
 coessentially
 cistophori
-cervulus
+cervulus 1
 coetaneous
 coeternal
 coincidence

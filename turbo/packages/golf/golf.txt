@@ -5319,7 +5319,7 @@ gritrock
 guiltless
 gracelessly
 glykopexic 1
-goblinize
+goblinize 1
 gastroduodenal
 greenest 2
 gurgled 1
