@@ -12095,7 +12095,7 @@ ctenostome
 circler
 chowry 1
 chowries
-chroatol
+chroatol 1
 chows
 causer
 crambo
