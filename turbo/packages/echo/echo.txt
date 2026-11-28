@@ -6506,7 +6506,7 @@ enslave
 exactly
 extratension
 endlichite
-entail
+entail 1
 entomophthora
 exponentials
 endurant 1
