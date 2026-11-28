@@ -14305,7 +14305,7 @@ dithyrambus 2
 dominicker 1
 denotationally
 dytiscid
-daubier
+daubier 1
 dytiscus
 ditokous
 dichrooscope
