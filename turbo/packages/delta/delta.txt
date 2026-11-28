@@ -12040,7 +12040,7 @@ deprecatively
 disentangle 1
 dentine 1
 disentanglement
-daymare
+daymare 1
 drudge
 disentangling
 disputeless
