@@ -16165,7 +16165,7 @@ clinchingly
 capkin 1
 chargeability 1
 cathedratical
-counterreligion
+counterreligion 1
 cline
 clines 1
 caudexes

@@ -7430,7 +7430,7 @@ abbot 1
 arthrodiae
 antara
 albinotic
-antitypic
+antitypic 1
 apronful 1
 aesthesis 1
 albion
