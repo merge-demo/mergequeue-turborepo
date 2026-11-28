@@ -9138,7 +9138,7 @@ dy
 dido
 diaglyptic 1
 didodecahedron 1
-dixain
+dixain 1
 distraughted 1
 didonia
 duodenas
