@@ -8590,7 +8590,7 @@ brachiolarian
 bagtikan
 bassanello
 baar
-bandos
+bandos 1
 bennis
 barih
 bejeweling 2
