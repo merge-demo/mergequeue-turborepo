@@ -1707,7 +1707,7 @@ eyedot 1
 exploder
 evener 1
 exaggerating
-enamel 1
+enamel 2
 electrolyses
 earpieces 1
 echolocate
