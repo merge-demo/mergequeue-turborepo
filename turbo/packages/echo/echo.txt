@@ -9973,7 +9973,7 @@ erythromelalgia
 esugarization
 endowers
 embosk
-exhausts
+exhausts 1
 entonement
 entreatment 1
 esurient 1
